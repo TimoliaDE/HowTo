@@ -1,5 +1,3 @@
-# Frequently Asked Questions
-
 ## Allgemeines
 
 ### Wie lautet die IP doch gleich?

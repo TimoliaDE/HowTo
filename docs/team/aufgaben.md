@@ -1,5 +1,3 @@
-#Aufgaben eines Teammitglieds
-
 Timolia hat viele Teammitglieder mit untschiedlichsten Rängen und Aufgaben. Weit mehr als 50 Teammitglieder sorgen täglich dafür, dass auf dem
 Server alles rund läuft.
 

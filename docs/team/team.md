@@ -1,5 +1,3 @@
-# Alle Teammitglieder im Überblick
-
 Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbereiche
 <u>HV</u> bedeutet "<strong>H</strong>aupt<strong>V</strong>erantwortlich", <u>NV</u> bedeutet "<strong>N</strong>eben<strong>V</strong>erantwortlich"
 
@@ -458,7 +456,7 @@ Hier werden die Aus- und Eintritte, bzw. Befoerderungen und Degradierungen im Te
 |svdragster | <span style="color:#848484">Spieler</span> | <span style="color:#007812">Developer</span> | AntiCheat programmiert | 25.03.16 |
 |logito111 | <span style="color:#007812">Developer</span> | <span style="color:#E4D100">Supporter</span> | Zusaetzlich zu Developer | 25.03.16 |
 |Zortax | <span style="color:#007812">Developer</span> | <span style="color:#E4D100">Supporter</span> | Zusaetzlich zu Developer | 25.03.16 |
-|Niklas | <span style="color:#CF0101">Moderator</span> | <span style="color:#5858FA">Administrator</span> | - | 13.04.16
+|Niklas | <span style="color:#CF0101">Moderator</span> | <span style="color:#5858FA">Administrator</span> | - | 13.04.16 |
 |Shustin | <span style="color:#848484">Spieler</span> | <span style="color:#007812">Developer</span> | - | 13.04.16 |
 |St3giLiebtTim | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 09.05.16 |
 |xJu1ia | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 09.05.16 |

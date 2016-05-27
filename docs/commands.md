@@ -1,5 +1,3 @@
-# Alle Befehle im Überblick
-
 Hier findest du alle Commands ausführlich aufgelistet, die du auf dem Server benutzen kannst.
 Variablen, die mit <> markiert sind werden benötigt, mit [] markierte Attribute sind optional.
 
