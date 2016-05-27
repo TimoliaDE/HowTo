@@ -2,15 +2,15 @@ site_name: Timolia Anleitung
 
 pages:
 - Über: 'index.md'
-- 'Befehle (Spickzettel)': 'commands.md'
-- Spielmodi:
-  - Allgemein: 'spiele/spielmodi.md'
-  - 1vs1: 'spiele/1vs1.md'
-  - 4rena: 'spiele/4rena.md'
-  - Citybuild:
-    - Erklärung: 'spiele/citybuild/index.md'
-    - Baugebiete: 'spiele/citybuild/weststadt.md'
-
+- Alle Befehle im Überblick: 'commands.md'
+- Games:
+  - 1vs1: 'games/1vs1.md'
+- Frequently Asked Questions: 'faq.md'
+- Spieler melden und Entschuldigungen: 'bans.md'
+- Expert / Pro: 'premium.md'
+- Das Timolia-Team:
+  - Alle Teammitglieder im Überblick: 'team/team.md'
+  - Aufgaben eines Teammitglieds: 'team/aufgaben.md'
 
 theme: readthedocs
 site_author: tixia UG (haftungsbeschraenkt)
