@@ -28,6 +28,13 @@ Mit einer E-Mail an development@timolia.de kannst du dich als Developer bewerben
 Bukkit-API, Erfahrungen im Umgang mit Git, Teamfähigkeit und Grundkenntnisse der Sprache Englisch. Eine kurze Beschreibung deiner Person, 
 Darstellung deiner Fähigkeiten und Kompetenzen und eine Angabe zur Kontaktmöglichkeit sollte dein Bewerbungsschreiben beinhalten.
 
+### Wie funtkioniert das Kick-System?
+Timolia besitzt ein recht komplexes und einzigartiges Kicksystem, um Premium-, als auch notmalen Spielern ein tolles Spielerlebnis ohne ewige Wartezeiten zu ermöglichen.
+Jeder Spieler erhält beim Joinen des Netzwerkes eine individuelle "Kick-Value", basierend auf dem Ingame-Rang. Normale User haben eine Kick-Value von 100,
+Pros haben eine KV von 300, Experts eine von 400 und YouTuber besitzen eine Kick-Value von 500. Wenn z.B. ein Pro einen vollen Server betritt wird ein zufälliger
+Spieler mit der niedrigsten KV wieder in eine der Games-Lobbies geschickt. Seine Kick-Value erhöht sich dabei um 1. Beim nächsten Versuch ist es also wahrscheinlicher, dass er nicht
+gekickt wird, da die anderen Spieler nun eine niedrigere Kick-Value haben. Sobald ein SPiel startet wird jedem Spieler wieder seine Standard-Kick-Value zugewiesen.
+
 ### Wo kann ich mich entschuldigen?
 Wenn du gebannt wurdest kannst du mit  einem Entbannungsantrag eine maximale Bannverkürzung von 1/3 deiner Bannzeit bekommen, sofern
 deine Entschuldigung sehr gut geschrieben ist. Diese kannst du entweder in unserem Forum "Gebannt" oder im Hilfechannel posten, alternativ

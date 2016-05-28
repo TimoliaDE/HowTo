@@ -2,6 +2,9 @@ site_name: Timolia Anleitung
 
 pages:
 - Über: 'index.md'
+- Regelwerk:
+  - Games-Regeln: 'games/rules.md'
+  - City-Regeln: 'city/rules.md'
 - Alle Befehle im Überblick: 'commands.md'
 - Games:
   - 1vs1: 'games/1vs1.md'
@@ -13,6 +16,10 @@ pages:
   - JumpWorld: 'games/jumpworld.md'
   - Splun: 'games/splun.md'
   - Timolianische Spiele: 'games/tspiele.md'
+- CityBuild:
+  - Baugebiete: 'city/baugebiete.md'
+  - Events: 'city/events.md'
+- TeamSpeak: 'teamspeak.md'
 - Frequently Asked Questions: 'faq.md'
 - Spieler melden und Entschuldigungen: 'bans.md'
 - Expert / Pro: 'premium.md'

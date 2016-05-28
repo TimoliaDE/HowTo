@@ -78,8 +78,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/join <Name> <Passwort>` | Tritt einem passwortgeschützten Turnier bei |
 | `/t` | Zeigt die Turnier Informationen |
 <span style="color:#F99500">Pro</span> und <span style="color:#00F9EC">Expert</span> only:
-| `/create` | Erstellt ein Turnier |
-| `/create <Passwort>` | Erstellt ein Turnier mit einem Passwort |
+| `/create <Passwort>` | Erstellt ein Turnier (optional mit einem Passwort) |
 | `/modify` | bearbeitet die Turniereinstellungen |
 | `/start <1-60>` | Startet dein Turnier nach 1-60 Sekunden |
 
