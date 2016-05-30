@@ -33,7 +33,7 @@ ein privater Channel mithilfe eines Tickets auf dem CityBuild angefordert werden
 Die Kosten eines privaten Channels belaufen sich <strong>pro Monat auf <u>5.000 Pixel oder 20.000 Timolions</u></strong>. (Es ist nicht möglich den Preis aus beiden Währungen zu kombinieren)
 
 ## Wie erhalte ich ein Channel-Icon?
-- Ein Channel-Icon kostet monatlich 1.5000 Pixel oder 6.000 Timolions.
+- Ein Channel-Icon kostet monatlich 1.500 Pixel oder 6.000 Timolions.
 - Die maximale Laufzeit entspricht der Channellaufzeit.
 - <strong>Achtung!</strong> Die Icon-Laufzeit wird an den Channel angepasst. Ergo kann es passieren, dass man den <strong>vollen Icon Preis für einen Monat zahlt</strong>, jedoch nur einen halben
 Monat sein Icon besitzt, wenn der Channel bis dahin <strong>ausläuft</strong>. <strong>D.h. Vorher besser immer erst den Channel verlängern, dann das Icon kaufen!</strong>
