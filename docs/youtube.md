@@ -22,5 +22,5 @@ eine nicht unbedeutende Rolle spielen. Auch Livestreamer können einen Rang auf 
 
 ## Wie beantrage ich einen Rang?
 Solltest du die Anforderungen erfüllen kannst du jederzeit einen Rang auf Timolia beantragen, hauptverantwortlich dafür ist <span style="color:#CF0101">FabsiFTW</span>. 
-Per Twitter ([@FabsiFTW](https://twitter.com/FabsiFTW)) kannst du ihn per Privatnachricht mit einer kurzen Beschreibung deiner selbst und einem Link zu deinem YouTube-Kanal
+Per Twitter ([@FabsiFTW](https://twitter.com/FabsiFTW)) per Privatnachricht oder auf [YouTube](https://www.youtube.com/user/FabsiFTW) kanns du ihn mit einer kurzen Beschreibung deiner selbst und einem Link zu deinem YouTube-Kanal
 kontaktieren. Er wird sich deinen Kontent ansehen und darüber entscheiden, ob für dich ein spezieller Rang in Frage kommt.
