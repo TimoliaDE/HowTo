@@ -84,6 +84,10 @@ mit etwas Glück und viel Talent seid ihr vielleicht schon bald ein Teil des Bau
 In unserem Forum im Themenbereich “Map-Einsendungen” können gebaute Arenen präsentiert werden, diese werden von allen Teammitgliedern, 
 insbesondere von unserem Bauteam begutachtet.
 
+### Darf ich Arenen von Timolia verwenden?
+Alle Maps, die du auf unserem Netzwerk findest, bieten wir nicht zum Download an, da es nicht gerne gesehen wird, wenn unsere Arenen ohne vorherige Zustimmung verbreitet werden.
+Jedoch werden wir in keinster Weise gegen die Verwendung unserer Maps vorgehen, daher bitten wir um eine Erwähnung der Erbauer, sofern ihr eine Timolia-Map verwenden solltet.
+
 ##CityBuild
 
 City-FAQ folgt...

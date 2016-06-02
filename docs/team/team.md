@@ -73,7 +73,7 @@ Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbe
 
 ###<strong><span style="color:#E4D100">Bukkit_PVP</span></strong>
 - <u>Rang:</u> Supporter Games / Developer CityBuild
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), CityBuild-Plugins (NV), CityBuild-Twitter (NV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ###<strong><span style="color:#E4D100">Caelis</span></strong>
 - <u>Rang:</u> Supporter Games;CityBuild;TeamSpeak / Developer Games
@@ -113,7 +113,7 @@ Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbe
 
 ###<strong><span style="color:#E4D100">Handis</span></strong>
 - <u>Rang:</u> Supporter Games;TeamSpeak
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Off Topic Forum (NV), TeamSpeak (NV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Off Topic Forum (HV), TeamSpeak (NV)
 
 ###<strong><span style="color:#E4D100">Haxxsmart</span></strong>
 - <u>Rang:</u> Supporter Games
@@ -121,7 +121,7 @@ Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbe
 
 ###<strong><span style="color:#E4D100">HoleOne</span></strong>
 - <u>Rang:</u> Supporter Games / Moderator CityBuild
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Farmwelt (NV), Frozen City (NV), Minedig (NV), Upper Hills (NV), Weststadt (NV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ###<strong><span style="color:#E4D100">Hotarsy</span></strong>
 - <u>Rang:</u> Supporter Games
@@ -129,7 +129,7 @@ Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbe
 
 ###<strong><span style="color:#E4D100">ItsSarahh</span></strong>
 - <u>Rang:</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Twitter (NV)
 
 ###<strong><span style="color:#E4D100">Jxvxn</span></strong>
 - <u>Rang:</u> Supporter Games;TeamSpeak
@@ -173,7 +173,7 @@ Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbe
 
 ###<strong><span style="color:#E4D100">Olegna_12</span></strong>
 - <u>Rang:</u> Supporter Games / Moderator CityBuild;TeamSpeak
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Bahnlinien (NV), Upper Hills (NV), Downtown (NV), Karibik (HV), Weststadt (HV), Sunset Valley (NV), TeamSpeak (NV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), TeamSpeak (NV)
 
 ###<strong><span style="color:#E4D100">ProoYo</span></strong>
 - <u>Rang:</u> Supporter Games

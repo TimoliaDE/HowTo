@@ -14,7 +14,7 @@ Dort gibt es nicht Hilfechannel zum schnellen Support, auch öffentliche Zonen u
 
 ### Verhaltensregeln
 - Bitte sei nicht ungeduldig. Du musst mit einer Wartezeit von bis zu 10 Minuten rechnen.
-- Sei <strong>respektvoll</strong> und beleidige keine Teammitglieder Außerdem bitten wir dich, keine laute Musik abzuspielen.
+- Sei <strong>respektvoll</strong> und beleidige keine Teammitglieder. Außerdem bitten wir dich, keine laute Musik abzuspielen.
 - Schildere dein Problem <strong>ganz genau</strong>, damit dir schnell weitergeholfen werden kann.
 - Falls du dir Geschichten ausdenkst, welche gar nicht stimmen, oder Unfug betreibst, <strong>musst du mit einem Bann rechnen</strong>.
 
