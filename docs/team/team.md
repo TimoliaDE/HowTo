@@ -189,7 +189,7 @@ Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbe
 
 ###<strong><span style="color:#E4D100">Olegna_12</span></strong>
 - <u>Rang:</u> Supporter Games / Moderator CityBuild;TeamSpeak
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), TeamSpeak (NV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), TeamSpeak (NV), Entschuldigungen (NV)
 
 ###<strong><span style="color:#E4D100">ProoYo</span></strong>
 - <u>Rang:</u> Supporter Games
@@ -339,15 +339,15 @@ Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbe
 
 ###<strong><span style="color:#007812">Bukkit_PVP</span></strong>
 - <u>Rang:</u> Supporter Games / Developer CityBuild
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), CityBuild-Plugins (NV), CityBuild-Twitter (NV)
+- <u>Aufgabenbereich(e):</u> CityBuild-Plugins (NV), CityBuild-Twitter (NV)
 
 ###<strong><span style="color:#007812">tr7zw</span></strong>
 - <u>Rang:</u> Developer CityBuild
-- <u>Aufgabenbereich(e):</u> CityBuild-Plugins (HV), Frozen City (NV), Minedig (NV)
+- <u>Aufgabenbereich(e):</u> CityBuild-Plugins (HV), Farmwelt (HV), CityBuild-Twitter (NV)
 
 ###<strong><span style="color:#007812">YTKacperSKY</span></strong>
 - <u>Rang:</u> Developer CityBuild
-- <u>Aufgabenbereich(e):</u> CityBuild-Plugins (HV)
+- <u>Aufgabenbereich(e):</u> CityBuild-Plugins (NV), CityBuild-Twitter (NV), Usern helfen (NV)
 
 ###<strong><span style="color:#007812">ich_komm_morgen</span></strong>
 - <u>Rang:</u> Developer CityBuild
@@ -355,15 +355,15 @@ Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbe
 
 ###<strong><span style="color:#CF0101">Caprea</span></strong>
 - <u>Rang:</u> Moderator CityBuild
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Summerfields (HV), Aegypten (NV), Weststadt (NV), Flussufer (HV), Sunset Valley (HV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), CityBuild-Twitter (NV), Summerfields (HV), Aegypten (NV), Weststadt (NV), Flussufer (HV), Sunset Valley (HV)
 
 ###<strong><span style="color:#CF0101">HoleOne</span></strong>
 - <u>Rang:</u> Supporter Games / Moderator CityBuild
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Farmwelt (NV), Frozen City (NV), Minedig (NV), Upper Hills (NV), Weststadt (NV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Events (NV), Atlantis (HV), Hafen (HV), Minedig (NV), Upperhills (NV), Weststadt (NV)
 
 ###<strong><span style="color:#CF0101">JoJoYoshy</span></strong>
 - <u>Rang:</u> Moderator CityBuild
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Summerfields (HV), Aegypten (NV), Karibik (NV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Aegypten (NV), Karibik (NV)
 
 ###<strong><span style="color:#CF0101">kd9b</span></strong>
 - <u>Rang:</u> Moderator CityBuild
@@ -371,15 +371,15 @@ Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbe
 
 ###<strong><span style="color:#CF0101">Olegna_12</span></strong>
 - <u>Rang:</u> Supporter Games / Moderator CityBuild;TeamSpeak
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Bahnlinien (NV), Upper Hills (NV), Downtown (NV), Karibik (HV), Weststadt (HV), Sunset Valley (NV), TeamSpeak (NV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Timolia Anleitung (NV), Bahnlinien (NV), Events (HV), Shopwelt (HV), Upper Hills (HV), Downtown (NV), Karibik (HV), Weststadt (HV), Sunset Valley (NV), TeamSpeak (NV)
 
 ###<strong><span style="color:#CF0101">saporital</span></strong>
 - <u>Rang:</u> Moderator CityBuild
-- <u>Aufgabenbereich(e):</u> Berg (HV), Downtown (HV), Mammutwald (HV), Minedig (HV), Mittelalter (HV), Wunderland (HV), Werwolf (HV), Oldtown (HV)
+- <u>Aufgabenbereich(e):</u> Berg (HV), Downtown (HV), Mammutwald (HV), Minedig (HV), Mittelalter (HV), Wunderland (HV), Oldtown (HV), Atlantis (NV), Hafen (NV)
 
 ###<strong><span style="color:#CF0101">Twilex</span></strong>
 - <u>Rang:</u> Moderator CityBuild
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Abbauwelt (HV), Aegypten (HV), Bahnstrecken (HV), Japan (HV), Skyland (HV), Wellington (HV), Weststadt (HV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Abbauwelt (HV), Aegypten (HV), Bahnlinien (HV), Japan (HV), Skyland (HV), Wellington (HV), Weststadt (NV)
 
 ###<strong><span style="color:#E4D100">Digimon</span></strong>
 - <u>Rang:</u> Supporter CityBuild
@@ -419,7 +419,7 @@ Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbe
 
 ###<strong><span style="color:#00646F">HodenKrebsCreme</span></strong>
 - <u>Rang:</u> Builder CityBuild
-- <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV)
+- <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV), Upperhills (NV)
 
 ###<strong><span style="color:#00646F">ChaosLissi</span></strong>
 - <u>Rang:</u> Builder CityBuild
@@ -427,7 +427,7 @@ Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbe
 
 ###<strong><span style="color:#00646F">LaShadow</span></strong>
 - <u>Rang:</u> Builder CityBuild
-- <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV)
+- <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV), Ice Spikes (HV)
 
 ###<strong><span style="color:#00646F">nemizzis</span></strong>
 - <u>Rang:</u> Builder CityBuild
