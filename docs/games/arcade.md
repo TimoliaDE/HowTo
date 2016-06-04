@@ -1,3 +1,5 @@
+![Screenshot](img/Arcade.png)
+
 ## Das Spielprinzip
 
 Insgesamt sechzehn Minispiele werden in Arcade gespielt, Abwechslung und Spaß sind garantiert. Messe dich einzeln oder in

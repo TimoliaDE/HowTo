@@ -1,3 +1,5 @@
+![Screenshot](img/InTime.png)
+
 ## Das Spielprinzip
 "Zeit ist Geld" - dieses Sprichwort beschreibt InTime mehr als alles andere. Waffen, Rüstung, Nahrung, Potions und spezielle Items kosten Zeit, Lebenszeit.
 Wenn deine eigene Zeit abgelaufen ist stirbst du, deshalb ist es wichtig mit der eigenen Zeit achtsam umzugehen.

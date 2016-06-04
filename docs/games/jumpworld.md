@@ -1,3 +1,5 @@
+![Screenshot](img/JumpWorld.png)
+
 ## Das Spielprinzip
 In JumpWorld können verschiedenste Jump and Runs gespielt, aber auch selbst erbaut werden. Des weiteren kann man sich mit Freunden in Duellen messen. Täglich wird ein
 Jump and Run des Tages gekürt, dies ist der bestbewertetste Parcour des vorherigen Tages.

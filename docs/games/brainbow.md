@@ -1,3 +1,5 @@
+![Screenshot](img/BrainBow.png)
+
 ## Das Spielprinzip
 
 In BrainBow kannst du gemeinsam mit deinen Teamkollegen deine Fähigkeiten im Bogenschießen unter Beweis stellen. Das Team mit den letzten Überlebenden gewinnt die

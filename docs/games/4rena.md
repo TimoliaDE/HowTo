@@ -1,3 +1,5 @@
+![Screenshot](img/4rena.png)
+
 ## Das Spielprinzip
 
 4rena verbindet PvP mit taktischen Spielelementen. Beweise dich gegen drei weitere Spieler mit limitierten Items. Wähle jede Runde aus, welches

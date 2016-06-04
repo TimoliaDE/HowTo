@@ -1,3 +1,5 @@
+![Screenshot](img/Splun.png)
+
 ## Das Spielprinzip
 Splun ist eine Kombination aus <strong>Spl</strong>eef und Jump and R<strong>un</strong> und eignet sich perfekt als kleines Spiel für Zwischendurch.
 
