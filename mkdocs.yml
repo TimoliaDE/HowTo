@@ -24,9 +24,7 @@ pages:
 - Spieler melden und Entschuldigungen: 'bans.md'
 - Expert / Pro: 'premium.md'
 - YouTuber / Pro+: 'youtube.md'
-- Das Timolia-Team:
-  - Alle Teammitglieder im Überblick: 'team/team.md'
-  - Aufgaben eines Teammitglieds: 'team/aufgaben.md'
+- Das Timolia-Team: 'team.md'
 
 theme: readthedocs
 site_author: tixia UG (haftungsbeschraenkt)
