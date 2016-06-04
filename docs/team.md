@@ -34,7 +34,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 ### <strong><span style="color:#007812">5zig</span></strong>
 - <u>Rang (ingame):</u> Expert
-- <u>Aufgabenbereich(e):</u> Pixelshop (HV), Timolia-Plugins (NV)
+- <u>Aufgabenbereich(e):</u> Timolia-Plugins (NV)
 
 ### <strong><span style="color:#007812">LastR_Raziel</span></strong>
 - <u>Rang (ingame):</u> Spieler
@@ -42,7 +42,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 ### <strong><span style="color:#007812">logito111</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Ostereier-Suche (HV), Timolia-Plugins (NV)
+- <u>Aufgabenbereich(e):</u> Timolia-Plugins (NV)
 
 ### <strong><span style="color:#007812">MCelements0815</span></strong>
 - <u>Rang (ingame):</u> Supporter CityBuild
@@ -50,7 +50,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 ### <strong><span style="color:#007812">Shustin</span></strong>
 - <u>Rang (ingame):</u> Expert
-- <u>Aufgabenbereich(e):</u> Broadcaster (HV), Timolia-Plugins (NV)
+- <u>Aufgabenbereich(e):</u> Timolia-Plugins (NV)
 
 ### <strong><span style="color:#007812">svdragster</span></strong>
 - <u>Rang (ingame):</u> Spieler
@@ -62,7 +62,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 ### <strong><span style="color:#007812">Zortax</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Verstecken Spielen (HV), Party-System (HV), Timolia-Plugins (NV)
+- <u>Aufgabenbereich(e):</u> Timolia-Plugins (NV)
 
 ## Moderatoren
 
