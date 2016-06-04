@@ -103,9 +103,17 @@ Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbe
 - <u>Rang:</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
+### <strong><span style="color:#E4D100">Elegeta</span></strong>
+- <u>Rang:</u> Supporter Games
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+
 ###<strong><span style="color:#E4D100">Evageddon</span></strong>
 - <u>Rang:</u> Supporter Games,TeamSpeak
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), TeamSpeak (NV)
+
+### <strong><span style="color:#E4D100">Flaxify</span></strong>
+- <u>Rang:</u> Supporter Games
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ###<strong><span style="color:#E4D100">GamerPack</span></strong>
 - <u>Rang:</u> Supporter Games
@@ -163,6 +171,10 @@ Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbe
 - <u>Rang:</u> Supporter Games / Developer Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), Timolia-Plugins (NV)
 
+### <strong><span style="color:#E4D100">Loris</span></strong>
+- <u>Rang:</u> Supporter Games
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+
 ###<strong><span style="color:#E4D100">Luzii</span></strong>
 - <u>Rang:</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
@@ -170,6 +182,10 @@ Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbe
 ###<strong><span style="color:#E4D100">MarkuZ_</span></strong>
 - <u>Rang:</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), Spieler melden Forum (NV)
+
+### <strong><span style="color:#E4D100">mTAce</span></strong>
+- <u>Rang:</u> Supporter Games
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ###<strong><span style="color:#E4D100">Olegna_12</span></strong>
 - <u>Rang:</u> Supporter Games / Moderator CityBuild;TeamSpeak
@@ -215,6 +231,10 @@ Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbe
 - <u>Rang:</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), Entschuldigungen (HV)
 
+### <strong><span style="color:#E4D100">TobCrafterDE</span></strong>
+- <u>Rang:</u> Supporter Games
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+
 ###<strong><span style="color:#E4D100">Tobi_</span></strong>
 - <u>Rang:</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
@@ -226,6 +246,14 @@ Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbe
 ###<strong><span style="color:#E4D100">Vucanu</span></strong>
 - <u>Rang:</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), Vorstellungen Forum (NV)
+
+### <strong><span style="color:#E4D100">xH3lix</span></strong>
+- <u>Rang:</u> Supporter Games
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+
+### <strong><span style="color:#E4D100">xN0AH</span></strong>
+- <u>Rang:</u> Supporter Games
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ###<strong><span style="color:#E4D100">Zortax</span></strong>
 - <u>Rang:</u> Supporter Games / Developer Games
@@ -422,7 +450,7 @@ Hier werden die Aus- und Eintritte, bzw. Befoerderungen und Degradierungen im Te
 |_Shinox | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 17.01.16 |
 |byShadow | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 17.01.16 |
 |djmedico | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 17.01.16 |
-|_Shinox | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 17.01.16 |
+|DrugDuck | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 17.01.16 |
 |einMole | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 17.01.16 |
 |Handis | <span style="color:#848484">Spieler</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 17.01.16 |
 |Haxxsmart | <span style="color:#00646F">Builder</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 17.01.16 |
@@ -460,3 +488,10 @@ Hier werden die Aus- und Eintritte, bzw. Befoerderungen und Degradierungen im Te
 |Shustin | <span style="color:#848484">Spieler</span> | <span style="color:#007812">Developer</span> | - | 13.04.16 |
 |St3giLiebtTim | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 09.05.16 |
 |xJu1ia | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 09.05.16 |
+|TobCrafterDE | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 04.06.16 |
+|xH3lix | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 04.06.16 |
+|mTAce | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 04.06.16 |
+|Loris | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 04.06.16 |
+|xN0AH | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 04.06.16 |
+|Elegeta | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 04.06.16 |
+|Flaxify | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 04.06.16 |
