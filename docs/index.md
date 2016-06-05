@@ -1,15 +1,12 @@
-# Allgemeines
+![Screenshot](HowToTimolia.png)
 
-Dies ist die (hoffentlich :D ) vollständige Dokumentation von Timolia.
-Alle Commands, alle Features ... einfach alles was ihr wissen müsst oder wollt.
-Falls etwas fehlt, so kannst Du helfen, die Informationen einzutragen.
+Dies ist die vollständige Dokumentation von und über Timolia. Alle wissenswerte Information sind hier gesammelt und jederzeit griffbereit und mit nur einem Knopfdruck abrufbar.
 
-## Mithelfen
-Alle Dateien findest du an den folgenden Stellen.
+<strong>[</strong><span style="color:#DF0101">HINWEIS</span><strong>]</strong>: Diese Seite befindet sich noch im Aufbau und ist noch nicht vollständig. 
+Sollten Informationen fehlen könnt ihr euch jederzeit an [ThomasSpielt](https://timolia.slack.com/messages/@thomas/) wenden.
 
 - [GIT](https://git.timolia.de/timolia/howto) <- Alle Dateien zum Download
 - [Wiki](https://git.timolia.de/timolia/howto/wikis/home) <- Alles was du wissen musst, wenn du die Dateien hast.
 
 Jeder kann bei der Dokumentation mithelfen.
 Da kommen noch [mehr](https://youtu.be/ViPj1Eq-ZGM?t=42)!
-
