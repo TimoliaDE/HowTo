@@ -116,3 +116,47 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/join <Name>` | Betritt das Jump'n'Run, auf dem sich [Spieler] gerade befindet |
 | `/top <ID>` | Zeigt die Top-Zeiten des Jump'n'Runs mit der ID [id] an |
 | `/top <ID> -f` | Zeigt die schlechtesten Zeiten für ein Jump'n'Run an |
+
+## 3 - CityBuild
+
+### Allgemeine Befehle
+
+| Befehl | Funktion |
+| ------ | -------- |
+| `/infoboard` | Öffnet das MEnü des Scoreboards |
+| `/suicude` | Tötet sich selbst |
+| `/pay <Spieler> <Betrag>` | Überweist einem anderen Spieler Geld |
+| `/money` od. `/balance` | Zeigt deinen Kontostand |
+| `/ticket <Anliegen>` | Erstellt ein Ticket |
+| `/mail <read/send/clear>` | Mails lesen/senden/löschen |
+| `$<Nachricht>` | Schreibe im Handelschat |
+| `/shoptp` | Teleportiert dich in unterschiedliche Shopwelten |
+<span style="color:#F99500">Pro</span> und <span style="color:#00F9EC">Expert</span> only:
+| `/ptime <day/night>` | Zeit für sich selbst umstellen |
+| `/pweather <sun,rain>` | Wetter für sich selbst umstellen |
+| `/craft` od. `/workbench` | Craftingfeld aufrufen |
+| `/hat` | Item in der Hand auf den Kopf setzen |
+| `/enderchest` | Enderchest aufrufen |
+| `/recipe <ID>` | Craftingrezept aufrufen |
+
+### Homes und Grundstücke
+
+| Befehl | Funktion |
+| ------ | -------- |
+| `/homes` od. `/home` | Zeigt eine Liste deiner Homepunkte |
+| `/sethome <Name>` | Setzt ein Home |
+| `/delhome <Name>` | Löscht ein Home |
+| `/rg` | Zeigt dir eine Übersicht aller Regionsbefehle |
+| `/rg addmember <GS-ID> <Spieler>` | Füg ein Member auf dein Grundstück hinzu |
+| `/rg removemember <GS-ID> <Spieler>` | Entfernt ein Member von deinem Grunstück |
+| `/rg i` | Zeigt die ID deines Grunstücks |
+
+### Farmwelt 
+
+| Befehl | Funktion |
+| ------ | -------- |
+| `/TCBuyFarm` | Farmgrunstück kaufen |
+| `/TCFarm buy` | Mobspawning kaufen |
+| `/TCFarm on` | Mobspawning aktivieren |
+| `/TCFarm off` | Mobspawning deaktivieren |
+| `/TPFarm <ID> <accept/deny/toggle>` | Zum Farmgrundstück eines Spielers porten |
