@@ -1,6 +1,4 @@
-# Frequently Asked Questions
-
-## Allgemeines
+# 1 - Allgemeines
 
 ### Wie lautet die IP doch gleich?
 Mit der Minecraft-Server-IP play.timolia.de erreichst du alle Server Timolias. 
@@ -30,6 +28,13 @@ Mit einer E-Mail an development@timolia.de kannst du dich als Developer bewerben
 Bukkit-API, Erfahrungen im Umgang mit Git, Teamfähigkeit und Grundkenntnisse der Sprache Englisch. Eine kurze Beschreibung deiner Person, 
 Darstellung deiner Fähigkeiten und Kompetenzen und eine Angabe zur Kontaktmöglichkeit sollte dein Bewerbungsschreiben beinhalten.
 
+### Wie funtkioniert das Kick-System?
+Timolia besitzt ein recht komplexes und einzigartiges Kicksystem, um Premium-, als auch notmalen Spielern ein tolles Spielerlebnis ohne ewige Wartezeiten zu ermöglichen.
+Jeder Spieler erhält beim Joinen des Netzwerkes eine individuelle "Kick-Value", basierend auf dem Ingame-Rang. Normale User haben eine Kick-Value von 100,
+Pros haben eine KV von 300, Experts eine von 400 und YouTuber besitzen eine Kick-Value von 500. Wenn z.B. ein Pro einen vollen Server betritt wird ein zufälliger
+Spieler mit der niedrigsten KV wieder in eine der Games-Lobbies geschickt. Seine Kick-Value erhöht sich dabei um 1. Beim nächsten Versuch ist es also wahrscheinlicher, dass er nicht
+gekickt wird, da die anderen Spieler nun eine niedrigere Kick-Value haben. Sobald ein SPiel startet wird jedem Spieler wieder seine Standard-Kick-Value zugewiesen.
+
 ### Wo kann ich mich entschuldigen?
 Wenn du gebannt wurdest kannst du mit  einem Entbannungsantrag eine maximale Bannverkürzung von 1/3 deiner Bannzeit bekommen, sofern
 deine Entschuldigung sehr gut geschrieben ist. Diese kannst du entweder in unserem Forum "Gebannt" oder im Hilfechannel posten, alternativ
@@ -42,7 +47,7 @@ Bannzeit von insgesamt 60 Tagen besteht für dich keine Chance auf eine Entbannu
 - Top: 334CB2
 - Bottom: 334CB2
 
-## Games
+# 2 - Games
 
 ### Wo sind Teams erlaubt?
 In 4rena und InTime sind Teams ausdrücklich verboten, in BrainBow wird Teaming lediglich zwischen zwei Teams toleriert.
@@ -79,6 +84,10 @@ mit etwas Glück und viel Talent seid ihr vielleicht schon bald ein Teil des Bau
 In unserem Forum im Themenbereich “Map-Einsendungen” können gebaute Arenen präsentiert werden, diese werden von allen Teammitgliedern, 
 insbesondere von unserem Bauteam begutachtet.
 
-##CityBuild
+### Darf ich Arenen von Timolia verwenden?
+Alle Maps, die du auf unserem Netzwerk findest, bieten wir nicht zum Download an, da es nicht gerne gesehen wird, wenn unsere Arenen ohne vorherige Zustimmung verbreitet werden.
+Jedoch werden wir in keinster Weise gegen die Verwendung unserer Maps vorgehen, daher bitten wir um eine Erwähnung der Erbauer, sofern ihr eine Timolia-Map verwenden solltet.
+
+# 3 - CityBuild
 
 City-FAQ folgt...

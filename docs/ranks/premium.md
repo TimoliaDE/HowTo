@@ -1,4 +1,3 @@
-# Expert / Pro, die Premium-Ränge auf Timolia
 Da Timolia sich ausschließlich durch die Community finanziert sind wir für jede Spende von Dir dankbar. Da du nicht ganz grundlos dein
 Geld für einen Minecraft-Server ausgebensollst bekommst du als Gegenleistung einen speziellen Rang auf unserem Netzkwerk.
 Die Ränge sind in unserem Shop erhältlich, diesen kannst du unter [http://timolia.de/shop/](http://timolia.de/shop/) erreichen.
