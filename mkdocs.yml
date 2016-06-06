@@ -2,10 +2,15 @@ site_name: Timolia Anleitung
 
 pages:
 - Über: 'index.md'
+- Allgemein:
+  - Frequently Asked Questions: 'faq.md'
+  - Alle Befehle im Überblick: 'commands.md'
+  - Spieler melden und Entschuldigungen: 'bans.md'
+  - TeamSpeak: 'teamspeak.md'
 - Regelwerk:
-  - Games-Regeln: 'games/rules.md'
-  - City-Regeln: 'city/rules.md'
-- Alle Befehle im Überblick: 'commands.md'
+  - Games-Regeln: 'rules/games.md'
+  - City-Regeln: 'rules/city.md'
+  - TeamSpeak-Regeln: 'rules/teamspeak.md'
 - Games:
   - 1vs1: 'games/1vs1.md'
   - 4rena: 'games/4rena.md'
@@ -19,12 +24,10 @@ pages:
 - CityBuild:
   - Baugebiete: 'city/baugebiete.md'
   - Events: 'city/events.md'
-- TeamSpeak: 'teamspeak.md'
-- Frequently Asked Questions: 'faq.md'
-- Spieler melden und Entschuldigungen: 'bans.md'
-- Expert / Pro: 'premium.md'
-- YouTuber / Pro+: 'youtube.md'
-- Das Timolia-Team: 'team.md'
+- Ränge auf Timolia:
+  - Premium-Ränge: 'ranks/premium.md'
+  - YouTuber-Rang: 'ranks/youtube.md'
+  - Das Timolia-Team: 'ranks/team.md'
 
 theme: readthedocs
 site_author: tixia UG (haftungsbeschraenkt)

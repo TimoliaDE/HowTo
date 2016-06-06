@@ -1,4 +1,4 @@
-## Allgemeines
+# 1 - Allgemeines
 
 ### Wie lautet die IP doch gleich?
 Mit der Minecraft-Server-IP play.timolia.de erreichst du alle Server Timolias. 
@@ -47,7 +47,7 @@ Bannzeit von insgesamt 60 Tagen besteht für dich keine Chance auf eine Entbannu
 - Top: 334CB2
 - Bottom: 334CB2
 
-## Games
+# 2 - Games
 
 ### Wo sind Teams erlaubt?
 In 4rena und InTime sind Teams ausdrücklich verboten, in BrainBow wird Teaming lediglich zwischen zwei Teams toleriert.
@@ -88,6 +88,6 @@ insbesondere von unserem Bauteam begutachtet.
 Alle Maps, die du auf unserem Netzwerk findest, bieten wir nicht zum Download an, da es nicht gerne gesehen wird, wenn unsere Arenen ohne vorherige Zustimmung verbreitet werden.
 Jedoch werden wir in keinster Weise gegen die Verwendung unserer Maps vorgehen, daher bitten wir um eine Erwähnung der Erbauer, sofern ihr eine Timolia-Map verwenden solltet.
 
-##CityBuild
+# 3 - CityBuild
 
 City-FAQ folgt...

@@ -21,14 +21,14 @@ Du darfst auf deinem GS maximal 10 Tiere haben.
 - <strong>Vorstadtbaustil</strong>
 - <strong>keine</strong> Ownerwechsel möglich
 
-| Verantantwortliche | Funktion |
+| Verantwortliche | Funktion |
 | ------ | -------- |
-| Olegna_12 | HV |
-| Caprea | NV |
-| Digimon | NV |
-| HoleOne| NV |
-| kd9b | NV |
-| Twilex | NV |
+| Olegna_12 | hauptverantwortlich |
+| Caprea | nebenebenverantwortlich |
+| Digimon | nebenverantwortlich |
+| HoleOne| nebenverantwortlich |
+| kd9b | nebenverantwortlich |
+| Twilex | nebenverantwortlich |
 
 ## 2 - Upperhills
 
@@ -53,11 +53,11 @@ eingehalten werden, es werden keine Blöcke außerhalb des Grundstückes gesetzt
 - maximal <strong>25 Tiere</strong> und <strong>25 Entities</strong> pro GS
 - Ownerwechsel möglich (5000T)
 
-| Verantantwortliche | Funktion |
+| Verantwortliche | Funktion |
 | ------ | -------- |
-| Olegna_12 | HV |
-| HoleOne| NV |
-| kd9b | NV |
+| Olegna_12 | hauptverantwortlich |
+| HoleOne| nebenverantwortlich |
+| kd9b | nebenverantwortlich |
 
 
 ## 3 - Downtown
@@ -71,10 +71,10 @@ Text folgt .....
 - 2
 - 3
 
-| Verantantwortliche | Funktion |
+| Verantwortliche | Funktion |
 | ------ | -------- |
-| saporital | HV |
-| Olegna_12| NV |
+| saporital | hauptverantwortlich |
+| Olegna_12| nebenverantwortlich |
 
 
 ## 4 - Summerfields
@@ -88,9 +88,9 @@ Text folgt .....
 - 2
 - 3
 
-| Verantantwortliche | Funktion |
+| Verantwortliche | Funktion |
 | ------ | -------- |
-| Caprea | HV |
+| Caprea | hauptverantwortlich |
 
 
 ## 5 - Ägypten
@@ -111,11 +111,11 @@ Atmossphäre Leben einhaucht. Erforsche sie und entdecke alle tollen Sachen von 
 
 
 
-| Verantantwortliche | Funktion |
+| Verantwortliche | Funktion |
 | ------ | -------- |
-| Twilex | HV |
-| JoJoYoshy| NV |
-| Caprea| NV |
+| Twilex | hauptverantwortlich |
+| JoJoYoshy| nebenverantwortlich |
+| Caprea| nebenverantwortlich |
 
 
 ## 6 - Flussufer
@@ -129,9 +129,9 @@ Text folgt .....
 - 2
 - 3
 
-| Verantantwortliche | Funktion |
+| Verantwortliche | Funktion |
 | ------ | -------- |
-| Caprea | HV |
+| Caprea | hauptverantwortlich |
 
 
 ## 7 - Ice Spikes
@@ -149,9 +149,9 @@ Die Größe der Grundstücke sind unterschiedlich. Jeder Spieler darf nur 1 Grun
 - Tiefe: Bis Bedrock
 - Höhe: 30 Blöcke über den Boden
 
-| Verantantwortliche | Funktion |
+| Verantwortliche | Funktion |
 | ------ | -------- |
-| LaShadow | HV |
+| LaShadow | hauptverantwortlich |
 
 
 ## 8 - Japan
@@ -172,9 +172,9 @@ Oben auf den Bergen ließen sich die reicheren Leute nieder und haben prachtvoll
 - Der Preis auf den Bergen liegt bei 25 Timolions pro Block. Der Preis im Tal liegt bei 15 Timolions.
 - Maximal sind 25 Entities und 10 Tiere pro Grundstück erlaubt
 
-| Verantantwortliche | Funktion |
+| Verantwortliche | Funktion |
 | ------ | -------- |
-| Twilex | HV |
+| Twilex | hauptverantwortlich |
 
 ## 9 - Karibik
 
@@ -197,11 +197,11 @@ Jeder User darf auch nur ein Boot besitzen. Es sind keine Farmen auf den Booten 
 - maximal <strong>10 Tiere</strong> und <strong>25 Entities</strong> pro GS
 - Ownerwechsel möglich (5000T)
 
-| Verantantwortliche | Funktion |
+| Verantwortliche | Funktion |
 | ------ | -------- |
-| Olegna_12 | HV |
-| JoJoYoshy | NV |
-| kd9b | NV |
+| Olegna_12 | hauptverantwortlich |
+| JoJoYoshy | nebenverantwortlich |
+| kd9b | nebenverantwortlich |
 
 
 ## 10 - Mammutwald
@@ -215,9 +215,9 @@ Text folgt .....
 - 2
 - 3
 
-| Verantantwortliche | Funktion |
+| Verantwortliche | Funktion |
 | ------ | -------- |
-| saporital | HV |
+| saporital | hauptverantwortlich |
 
 
 ## 11 - Minedig
@@ -231,9 +231,9 @@ Text folgt .....
 - 2
 - 3
 
-| Verantantwortliche | Funktion |
+| Verantwortliche | Funktion |
 | ------ | -------- |
-| saporital | HV |
+| saporital | hauptverantwortlich |
 
 
 ## 12 - Mittelalter
@@ -247,9 +247,9 @@ Text folgt .....
 - 2
 - 3
 
-| Verantantwortliche | Funktion |
+| Verantwortliche | Funktion |
 | ------ | -------- |
-| saporital | HV |
+| saporital | hauptverantwortlich |
 
 
 ## 13 - Oldtown
@@ -263,9 +263,9 @@ Text folgt .....
 - 2
 - 3
 
-| Verantantwortliche | Funktion |
+| Verantwortliche | Funktion |
 | ------ | -------- |
-| saporital | HV |
+| saporital | hauptverantwortlich |
 
 
 ## 14 - Skyland
@@ -286,13 +286,13 @@ welches man Erstmal finden muss. Na, Lust bekommen? Dann komm auf den Server und
 - Baustil sollte <strong>"Steampunk"</strong> orientiert sein
 - Der Preis pro Block beträgt <strong>13 T</strong>.
 
-| Verantantwortliche | Funktion |
+| Verantwortliche | Funktion |
 | ------ | -------- |
-| Twilex | HV |
+| Twilex | hauptverantwortlich |
 
 ## 15 - Sunset Valley/Tal der Sonne
 
-![Screenshot](img/Sunset.png)
+![Screenshot](img/SunsetValley.png)
 
 Text folgt .....
 
@@ -301,15 +301,15 @@ Text folgt .....
 - 2
 - 3
 
-| Verantantwortliche | Funktion |
+| Verantwortliche | Funktion |
 | ------ | -------- |
-| Caprea | HV |
-| Olegna_12 | NV |
+| Caprea | hauptverantwortlich |
+| Olegna_12 | nebenverantwortlich |
 
 
 ## 15 - Wellington
 
-![Screenshot](img/Sunset.png)
+![Screenshot](img/Wellington.png)
 
 In Wellington lassen sich solche nieder, die schön ruhig in der schönen Landschaft wohnen wollen. Zwischen den Bäumen, neben Flüssen und neben dem Meer kannst du
 dir ein großes, billiges Grundstück kaufen und dich dort niederlassen und ein schönes ländliches Haus bauen. 
@@ -322,9 +322,9 @@ dir ein großes, billiges Grundstück kaufen und dich dort niederlassen und ein 
 - Jeder User darf 2 Grunstücke besitzen
 - Max sind 25 Entities und 10 Tiere pro Grundstück erlaubt
 
-| Verantantwortliche | Funktion |
+| Verantwortliche | Funktion |
 | ------ | -------- |
-| Twilex| HV |
+| Twilex| hauptverantwortlich |
 
 
 ## 16 - Wunderland
@@ -338,7 +338,7 @@ Text folgt .....
 - 2
 - 3
 
-| Verantantwortliche | Funktion |
+| Verantwortliche | Funktion |
 | ------ | -------- |
-| saporital | HV |
+| saporital | hauptverantwortlich |
 
