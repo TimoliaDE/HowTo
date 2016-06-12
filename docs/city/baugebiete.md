@@ -23,8 +23,8 @@ Du darfst auf deinem GS maximal 10 Tiere haben.
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
-| Olegna_12 | hauptverantwortlich |
-| Caprea | nebenebenverantwortlich |
+| JOlegna | hauptverantwortlich |
+| Caprea | nebenverantwortlich |
 | Digimon | nebenverantwortlich |
 | HoleOne| nebenverantwortlich |
 | kd9b | nebenverantwortlich |
@@ -55,7 +55,7 @@ eingehalten werden, es werden keine Blöcke außerhalb des Grundstückes gesetzt
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
-| Olegna_12 | hauptverantwortlich |
+| JOlegna | hauptverantwortlich |
 | HoleOne| nebenverantwortlich |
 | kd9b | nebenverantwortlich |
 
@@ -74,7 +74,7 @@ Text folgt .....
 | Verantwortliche | Funktion |
 | ------ | -------- |
 | saporital | hauptverantwortlich |
-| Olegna_12| nebenverantwortlich |
+| JOlegna| nebenverantwortlich |
 
 
 ## 4 - Summerfields
@@ -199,7 +199,7 @@ Jeder User darf auch nur ein Boot besitzen. Es sind keine Farmen auf den Booten 
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
-| Olegna_12 | hauptverantwortlich |
+| JOlegna | hauptverantwortlich |
 | JoJoYoshy | nebenverantwortlich |
 | kd9b | nebenverantwortlich |
 
@@ -304,7 +304,7 @@ Text folgt .....
 | Verantwortliche | Funktion |
 | ------ | -------- |
 | Caprea | hauptverantwortlich |
-| Olegna_12 | nebenverantwortlich |
+| JOlegna | nebenverantwortlich |
 
 
 ## 15 - Wellington
