@@ -9,23 +9,23 @@ Administratoren kümmern sich um die Technik von Timolia. Angefangen bei den Plu
 Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 
 ###<strong>Edgxxar</span></strong>
-- <u>Rang (ingame)::</u> Administrator Games;CityBuild
+- <u>Rang (ingame):</u> Administrator Games;CityBuild
 - <u>Aufgabenbereich(e):</u> Timolia-Plugins (HV), Root-Server (NV)
 
 ###<strong>MCExpertDE</strong>
-- <u>Rang (ingame)::</u> Administrator Games;CityBuild;TeamSpeak
+- <u>Rang (ingame):</u> Administrator Games;CityBuild;TeamSpeak
 - <u>Aufgabenbereich(e):</u> Hardware (NV), Timolia-Plugins (HV), Games (HV)
 
 ###<strong>Moehritz</strong>
-- <u>Rang (ingame)::</u> Administrator Games;CityBuild;TeamSpeak
+- <u>Rang (ingame):</u> Administrator Games;CityBuild;TeamSpeak
 - <u>Aufgabenbereich(e):</u> Development (HV), Timolia-Plugins (HV)
 
 ###<strong>Niklas</strong>
-- <u>Rang (ingame)::</u> Administrator Games;TeamSpeak
+- <u>Rang (ingame):</u> Administrator Games;TeamSpeak
 - <u>Aufgabenbereich(e):</u> Website (HV), Interne Webanwendung (HV), Usern helfen (NV), Ansprechpartner f. Games-Supporter (NV), TeamSpeak (NV), Twitter (NV), Facebook (NV), Bautresor (NV)
 
 ###<strong>xiantiel</strong>
-- <u>Rang (ingame)::</u> Administrator Games;CityBuild;TeamSpeak
+- <u>Rang (ingame):</u> Administrator Games;CityBuild;TeamSpeak
 - <u>Aufgabenbereich(e):</u> Hardware (HV), Buycraft (HV), Nitrado (HV), Management (HV), Root-Server (HV)
 
 ## Developer
@@ -41,7 +41,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Aufgabenbereich(e):</u> Ansprechpartner f. Development (HV), Timolia-Plugins (NV)
 
 ### <strong><span style="color:#007812">LastR_Raziel</span></strong>
-- <u>Rang (ingame):</u> Spieler
+- <u>Rang (ingame):</u> Pro
 - <u>Aufgabenbereich(e):</u> Anti-Cheat (HV)
 
 ### <strong><span style="color:#007812">logito111</span></strong>
@@ -57,7 +57,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Aufgabenbereich(e):</u> Timolia-Plugins (NV)
 
 ### <strong><span style="color:#007812">svdragster</span></strong>
-- <u>Rang (ingame):</u> Spieler
+- <u>Rang (ingame):</u> Pro
 - <u>Aufgabenbereich(e):</u> Anti-Cheat (HV)
 
 ### <strong><span style="color:#007812">TheBrownShape</span></strong>
@@ -121,11 +121,11 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), Anregungen u. Vorschlaege Forum (HV), TeamSpeak (NV)
 
 ###<strong><span style="color:#E4D100">blackINK_</span></strong>
-- <u>Rang (ingame):</u> Supporter Games,TeamSpeak
+- <u>Rang (ingame):</u> Supporter Games;TeamSpeak
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), TeamSpeak (NV)
 
 ###<strong><span style="color:#E4D100">Bukkit_PVP</span></strong>
-- <u>Rang (ingame):</u> Supporter Games / Developer CityBuild
+- <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ###<strong><span style="color:#E4D100">Caelis</span></strong>
@@ -181,7 +181,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ###<strong><span style="color:#E4D100">HoleOne</span></strong>
-- <u>Rang (ingame):</u> Supporter Games / Moderator CityBuild
+- <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ###<strong><span style="color:#E4D100">Hotarsy</span></strong>
@@ -193,7 +193,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), Twitter (NV)
 
 ### <strong><span style="color:#E4D100">JOlegna</span></strong>
-- <u>Rang (ingame):</u> Supporter Games / Moderator CityBuild;TeamSpeak
+- <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), TeamSpeak (NV), Entschuldigungen (NV)
 
 ###<strong><span style="color:#E4D100">Jxvxn</span></strong>
@@ -225,8 +225,8 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ###<strong><span style="color:#E4D100">logito111</span></strong>
-- <u>Rang (ingame):</u> Supporter Games / Developer Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Timolia-Plugins (NV)
+- <u>Rang (ingame):</u> Supporter Games
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ### <strong><span style="color:#E4D100">Loris</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -309,8 +309,8 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ###<strong><span style="color:#E4D100">Zortax</span></strong>
-- <u>Rang (ingame):</u> Supporter Games / Developer Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Timolia-Plugins (NV)
+- <u>Rang (ingame):</u> Supporter Games
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ## Builder
 
@@ -396,7 +396,7 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi und helfen bei Problemen und Bugs.
 
 ###<strong><span style="color:#007812">Bukkit_PVP</span></strong>
-- <u>Rang (ingame):</u> Supporter Games / Developer CityBuild
+- <u>Rang (ingame):</u> Developer CityBuild
 - <u>Aufgabenbereich(e):</u> CityBuild-Plugins (NV), CityBuild-Twitter (NV)
 
 ###<strong><span style="color:#007812">tr7zw</span></strong>
@@ -420,7 +420,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), CityBuild-Twitter (NV), Summerfields (HV), Aegypten (NV), Weststadt (NV), Flussufer (HV), Sunset Valley (HV)
 
 ###<strong><span style="color:#CF0101">HoleOne</span></strong>
-- <u>Rang (ingame):</u> Supporter Games / Moderator CityBuild
+- <u>Rang (ingame):</u> Moderator CityBuild;TeamSpeak
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), Events (NV), Atlantis (HV), Hafen (HV), Minedig (NV), Upperhills (NV), Weststadt (NV)
 
 ###<strong><span style="color:#CF0101">JoJoYoshy</span></strong>
@@ -428,7 +428,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), Aegypten (NV), Karibik (NV)
 
 ### <strong><span style="color:#CF0101">JOlegna</span></strong>
-- <u>Rang (ingame):</u> Supporter Games / Moderator CityBuild;TeamSpeak
+- <u>Rang (ingame):</u> Moderator CityBuild;TeamSpeak
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), Timolia Anleitung (NV), Bahnlinien (NV), Events (HV), Shopwelt (HV), Upper Hills (HV), Downtown (NV), Karibik (HV), Weststadt (HV), Sunset Valley (NV), TeamSpeak (NV)
 
 
