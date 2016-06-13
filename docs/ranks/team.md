@@ -36,6 +36,10 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Rang (ingame):</u> Expert
 - <u>Aufgabenbereich(e):</u> Timolia-Plugins (NV)
 
+### <strong><span style="color:#007812">Caelis</span></strong>
+- <u>Rang (ingame):</u> Supporter Games;CityBuild;TeamSpeak
+- <u>Aufgabenbereich(e):</u> Ansprechpartner f. Development (HV), Timolia-Plugins (NV)
+
 ### <strong><span style="color:#007812">LastR_Raziel</span></strong>
 - <u>Rang (ingame):</u> Spieler
 - <u>Aufgabenbereich(e):</u> Anti-Cheat (HV)
@@ -125,8 +129,8 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ###<strong><span style="color:#E4D100">Caelis</span></strong>
-- <u>Rang (ingame):</u> Supporter Games;CityBuild;TeamSpeak / Developer Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Bautresor (NV), Spieler melden Forum (NV), Ansprechpartner f. Development (HV), TeamSpeak (NV)
+- <u>Rang (ingame):</u> Supporter Games;CityBuild;TeamSpeak
+- <u>Aufgabenbereich(e):</u> JumpWorld Bilder (HV), Usern helfen (NV), Bautresor (NV), Bug melden Forum (NV), TeamSpeak (NV)
 
 ###<strong><span style="color:#E4D100">byShadow</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -210,7 +214,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">L0L0</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Spieler melden Forum (NV)
 
 ###<strong><span style="color:#E4D100">LeePvP</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
