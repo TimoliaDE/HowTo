@@ -7,6 +7,7 @@ Diese Features stehen dir mit deinem Rang zur Verfügung:
 
 - Zugang zur <strong>Premium Lobby</strong>
 - Betreten von vollen Lobbies 
+- <strong>Mehr Partyteilnehmer</strong> und öffentliche Parties
 - <strong>Doppelte Pixel</strong> bei <span style="color:#F99500">Pro</span>, <strong>dreifache Pixel</strong> bei <span style="color:#00F9EC">Expert</span>
 - <span style="color:#F99500">Pro</span>-, bzw. <span style="color:#00F9EC">Expert</span>-Items im Pixelshop
 - zwei, bzw. drei <strong>Slots in JumpWorld</strong>
