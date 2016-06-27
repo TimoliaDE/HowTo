@@ -204,10 +204,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
-###<strong><span style="color:#E4D100">Kitox</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
-
 ###<strong><span style="color:#E4D100">Krumru</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
