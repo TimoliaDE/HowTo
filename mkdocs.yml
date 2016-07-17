@@ -10,6 +10,7 @@ pages:
 - Regelwerk:
   - Games-Regeln: 'rules/games.md'
   - City-Regeln: 'rules/city.md'
+  - Foren-Regeln: 'rules/forum.md'
   - TeamSpeak-Regeln: 'rules/teamspeak.md'
 - Games:
   - 1vs1: 'games/1vs1.md'
