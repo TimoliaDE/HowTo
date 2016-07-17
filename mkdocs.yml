@@ -24,6 +24,7 @@ pages:
 - CityBuild:
   - Baugebiete: 'city/baugebiete.md'
   - Events: 'city/events.md'
+  - Dienstleistungen: 'city/dienstleistungen.md'
 - Ränge auf Timolia:
   - Premium-Ränge: 'ranks/premium.md'
   - YouTuber-Rang: 'ranks/youtube.md'
