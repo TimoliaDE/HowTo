@@ -75,12 +75,7 @@ Bei wiederholtem Vorkommen wird es auch zu einem Bann kommen.
  so kannst du deine Entschuldigung einem Teammitglied im TeamSpeak schicken, welches diese dann ins Forum stellt.
 - <u>Bannumgehung</u>: Das Umgehen von Banns mit einem Zweitaccount ist auf Timolia verboten. Als “gebannt” wird sowohl der Account, als auch die Person, welche den Account nutzt, und die zu diesem Zeitpunkt verwendete Adresse angesehen.
 
-## §12 – TS3
-Unter ts.timolia.de erreichst du unseren Teamspeak. Logge dich dort bitte mit deinem Ingame-Nicknamen ein, damit andere User und das Team dich direkt erkennen können. 
-Die Möglichkeit deinen Namen mit “| Name” hinten dran zu schreiben ist dennoch vorhanden und auch gerne gesehen. Neben den Regeln unter §3 gelten natürlich auch die Teamspeak internen Regeln,
-welche du im Teamspeak selbst unter dem Channel “TeamSpeak-Regeln” genauer nachlesen kannst.
-
-## §13 – Rückerstattung bei technischen Fehlern
+## §12 – Rückerstattung bei technischen Fehlern
 - Sollten durch technische Fehler (Serverabstürze, etc.) Pixel oder Punkte zurückgesetzt werden, sieht das übliche Verhalten des Teams vor, diese nicht zu erstatten. 
 - Solltest du Verstöße gegen die Regeln bemerken, so ist es erwünscht, diese immer mit Beweis im [Forum](http://timolia.de), ingame einem Teammitglied oder auf dem TeamSpeak im Hilfechannel zu melden.
 
