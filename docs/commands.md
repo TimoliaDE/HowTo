@@ -9,6 +9,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/hub`, `/lobby`   | Teleportiert dich in die Lobby |
 | `/games` | Teleportiert dich zu den Games-Servern |
 | `/city` | Teleportiert dich zu den CityBuild-Servern |
+| `/msg <Spieler>` | Schreibe mit einem Spieler im Privatchat |
 | `/lookup <Spieler>`, `/lu` | Zeigt dir LogIn-Informationen über einen Spieler |
 | `/top` | Zeigt dir die Top 10 Spieler in einem Spielmodus an |
 | `/vote <Zahl>` | Votet für eine Map in einem Spielmodus |
