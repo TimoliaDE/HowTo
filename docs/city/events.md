@@ -17,7 +17,7 @@ Alle Blöcke die man findet darf man natürlich behalten.
 - wer die meisten Blöcke abbaut, bekommt eine Prämie
 - Werkzeuge zum Abbauen werden gestellt, es dürfen keine eigenen mitgebracht werden
 
-## 2a - Findus Fundus - Verlosung
+## 2 a - Findus Fundus - Verlosung
 
 Es werden die Items, die man am Spawn spenden kann, an Spieler verlost. Man erhält ein signiertes Buch, welches man abgibt, um an der Verlosung teilzunehmen, 
 oder es wird über ein kleines Quiz der nächste Gewinner ausgewählt. Der User kann sich dann eine Kiste aussuchen, welche mit Items gefüllt ist und mit ein wenig Glück 
@@ -28,7 +28,7 @@ kann man so auch etwas Wertvolles gewinnen.
 - Mehrfachanmeldung durch weitere beschriebene Bücher führen zum Ausschluss
 - es besteht keine Garantie auf guten Loot
 
-## 2b - Findus Fundus - Versteigerung
+## 2 b - Findus Fundus - Versteigerung
 
 Bei der Versteigerung werden Items, welche im normalen Spielverlauf nicht zu bekommen sind, an den Höchstbietenden verlost. Dies kann eine "offene" Verlosung sein, 
 wo man vorher weiß, welche Items ersteigert werden können, oder aber eine "verdeckte", bei welcher man den Inhalt der Kisten nicht genau kennt.
