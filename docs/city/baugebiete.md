@@ -10,7 +10,7 @@ Du findest eine kurze Information über das jeweilige Baugebiet und die dazugeh�
 Die Weststadt ist ein stetig wachsendes Baugebiet mit vielen kleinen Häusern. Sie bildet die Vorstadt zu Downtown, hier bekommst du ein Startgrundstück, 
 welches in einem Vorstadt-Baustil bebaut werden sollte. Große viereckige Dirt oder Cobblestonewände sind nicht erwünscht und müssen abgerissen werden. 
 Sowie 1x1 Türme nur zum Bau gebaut werden dürfen und dann wieder abgerissen werden müssen. Die Grundstücke sind 20×20 Blöcke groß und sind kostenlos. 
-Du darfst auf deinem GS maximal 10 Tiere haben. 
+Du darfst auf deinem GS maximal 10 Haustiere haben. 
 
 ### Baugebietsregeln, Informationen und Verantwortliche
 - Grundstücke sind <strong>20*20</strong> (20 hoch, 10 tief) Blöcke groß
@@ -23,12 +23,12 @@ Du darfst auf deinem GS maximal 10 Tiere haben.
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
-| Olegna_12 | hauptverantwortlich |
-| Caprea | nebenebenverantwortlich |
-| Digimon | nebenverantwortlich |
-| HoleOne| nebenverantwortlich |
-| kd9b | nebenverantwortlich |
-| Twilex | nebenverantwortlich |
+| JOlegna | Hauptverantwortlich |
+| Caprea | Nebenverantwortlich |
+| Digimon | Nebenverantwortlich |
+| HoleOne| Nebenverantwortlich |
+| kd9b | Nebenverantwortlich |
+| Twilex | Nebenverantwortlich |
 
 ## 2 - Upperhills
 
@@ -55,42 +55,45 @@ eingehalten werden, es werden keine Blöcke außerhalb des Grundstückes gesetzt
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
-| Olegna_12 | hauptverantwortlich |
-| HoleOne| nebenverantwortlich |
-| kd9b | nebenverantwortlich |
-
+| JOlegna | Hauptverantwortlich |
+| HoleOne| Nebenverantwortlich |
+| kd9b | Nebenverantwortlich |
 
 ## 3 - Downtown
 
 ![Screenshot](img/Downtown.png)
 
-Text folgt .....
+Downtown bildet den Spawn von Timolia und stellt alle wichtigen, großen Gebäude zur Verfügung. Rund um den Marktplatz findest du die Bahngleise, die Polizei und
+die Kirche. Die Grundstücke kosten zwischen 20.000T und 145.000T und sollten möglichst Urban wirken (Hohe, große Häuser; keine großen Gärten). 
+In Downtown sind bis zu 50 Haustiere auf dem Grundstück erlaubt.
 
 ### Baugebietsregeln, Informationen und Verantwortliche
-- 1
-- 2
-- 3
+- Kosten zwischen 20.000T und 145.000T pro Grundstück
+- Baustil: möglichst Urban (Hohe, große Häuser; keine großen Gärten)
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
-| saporital | hauptverantwortlich |
-| Olegna_12| nebenverantwortlich |
+| saporital | Hauptverantwortlich |
+| JOlegna| Nebenverantwortlich |
 
 
 ## 4 - Summerfields
 
 ![Screenshot](img/Summerfields.png)
 
-Text folgt .....
+In den Summerfields stehen Bauernhöfe und Felder. Hier kann man große Felder und Tierstallungen errichten, 
+wer gerne auf einem Bauernhof lebt oder gerne einen hätte, sollte sich hier ein Grundstück zulegen. Aber auch für den kleinen Mann mit einem gemütlichen Bauernhaus ist hier Platz. 
+Grundsücke sind in Summerfields überwiegend günstig, um den Bahnhof liegen Grundstücke im mittleren Preisbereich. Es sollen Bauernhöfe und Feldern errichtet werden, 
+wobei die Bauernhöfe nicht höher als 40 Blöcke in die Höhe ragen sollen.
 
 ### Baugebietsregeln, Informationen und Verantwortliche
-- 1
-- 2
-- 3
+- Grundstücke sind in verschiedenen Größen zu haben.
+- Baustil: Bauernhöfe und Felder 
+- Die Häuser sollten nicht mehr als 40 Blöcke in die Höhe ragen.
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
-| Caprea | hauptverantwortlich |
+| Caprea | Hauptverantwortlich |
 
 
 ## 5 - Ägypten
@@ -110,28 +113,27 @@ Atmossphäre Leben einhaucht. Erforsche sie und entdecke alle tollen Sachen von 
 - Ägypten hat eine Bahnanbindung
 
 
-
 | Verantwortliche | Funktion |
 | ------ | -------- |
-| Twilex | hauptverantwortlich |
-| JoJoYoshy| nebenverantwortlich |
-| Caprea| nebenverantwortlich |
+| Twilex | Hauptverantwortlich |
+| JoJoYoshy| Nebenverantwortlich |
+| Caprea| Nebenverantwortlich |
 
 
 ## 6 - Flussufer
 
 ![Screenshot](img/Flussufer.png)
 
-Text folgt .....
+Das Flussufer liegt zwischen Summerfields und Upper Hills. Es sollen dementsprechend reichere Bauernhäuser gebaut werden aber keine Villen und keine Bauernhöfe mit vielen Feldern. 
+Es ist maximal ein Grundstück pro User erlaubt und man darf maximal 25 Tiere auf dem Grundstück halten. Die Grundstücke werden direkt am GS gekauft.
 
 ### Baugebietsregeln, Informationen und Verantwortliche
-- 1
-- 2
-- 3
+- reichere Bauernhäuser gebaut werden
+- 1 Grundstück pro User
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
-| Caprea | hauptverantwortlich |
+| Caprea | Hauptverantwortlich |
 
 
 ## 7 - Ice Spikes
@@ -151,7 +153,7 @@ Die Größe der Grundstücke sind unterschiedlich. Jeder Spieler darf nur 1 Grun
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
-| LaShadow | hauptverantwortlich |
+| LaShadow | Hauptverantwortlich |
 
 
 ## 8 - Japan
@@ -174,7 +176,7 @@ Oben auf den Bergen ließen sich die reicheren Leute nieder und haben prachtvoll
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
-| Twilex | hauptverantwortlich |
+| Twilex | Hauptverantwortlich |
 
 ## 9 - Karibik
 
@@ -199,76 +201,65 @@ Jeder User darf auch nur ein Boot besitzen. Es sind keine Farmen auf den Booten 
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
-| Olegna_12 | hauptverantwortlich |
-| JoJoYoshy | nebenverantwortlich |
-| kd9b | nebenverantwortlich |
+| JOlegna | Hauptverantwortlich |
+| JoJoYoshy | Nebenverantwortlich |
+| kd9b | Nebenverantwortlich |
 
 
 ## 10 - Mammutwald
 
 ![Screenshot](img/Mammutwald.png)
 
-Text folgt .....
+Wenn ihr gerne Baumhäuser baut und eines der extragroßen Art haben möchtet, ist der Mammutwald das richtige für euch. 
+Ob ihr nun in der riesiegen Wurzel, oben in der Baumkrone oder auf den Blättern leben möchtet, es ist für jeden Baumfreund etwas dabei.
+Es sind keine Farmen oder ähnliches erwünscht. Grundstücke sind Bäume und dürfen nicht entfernt, maximal ausgehöhlt und leicht verändert werden.
+Es sind Baumhäuser zu bauen. Grundstücke kosten zwischen 76.000T und 121.000T und sind im Hauptbaum zu kaufen. Man darf dort bis zu 25 Tiere haben.
 
 ### Baugebietsregeln, Informationen und Verantwortliche
-- 1
-- 2
-- 3
+- keine Farmen oder ähnliches erwünscht
+- Bäume dürfen nicht entfernt werden
+- Kosten zwischen 76.000T und 121.000T
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
-| saporital | hauptverantwortlich |
+| saporital | Hauptverantwortlich |
 
 
 ## 11 - Minedig
 
 ![Screenshot](img/Minedig.png)
 
-Text folgt .....
+Venedig ist wie im Real-Life am Wasser gelegen und es sind viele kleine Inseln auf denen man Grundstücke kaufen kann. Man baut kleine Häuser direkt aneinandergereiht mit 
+fröhlicheren Materialien wie z.B Quartz oder buntem Lehm. In Venedig sind die Grundstücke ähnlich klein wie im Mittelalter, maximal 15×15, und kosten zwischen 1200T und 4000T. 
+Man kauft die Grundstücke in kleinen Gebäuden auf den Inseln. Es sind 4 Haustiere pro Grundstück erlaubt, d.h. Hunde und Katzen.
 
 ### Baugebietsregeln, Informationen und Verantwortliche
-- 1
-- 2
-- 3
+- Kosten zwischen 1200T und 4000T
+- kleine Häuser, maximal 15x15
+- 4 Haustiere pro Grundstück
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
-| saporital | hauptverantwortlich |
+| saporital | Hauptverantwortlich |
 
 
 ## 12 - Mittelalter
 
 ![Screenshot](img/Mittelalter.png)
 
-Text folgt .....
+Das Mittelalter ist ein kleines Baugebiet mit Häusern eng aneinandergereiht und kleinen Gassen. Grundstücke sind nicht größer als 15×15. Es sind maximal 10 Tiere pro GS erlaubt 
+und jeder User darf maximal 3 Grundstücke haben. Man muss in mittelalterlichem Baustil bauen und ein Grundstück kostet maximal 5000T. Die Grundstücke kauft man im Haupthaus.
 
 ### Baugebietsregeln, Informationen und Verantwortliche
-- 1
-- 2
-- 3
+- Grundstücke sind in verschiedenen Größen erhältlich
+- 3 Grundstücke pro Person erlaubt
+- Straßen, welche durch Grundstücke führen, dürfen ohne Nachfrage nicht abgebaut werden.
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
-| saporital | hauptverantwortlich |
+| saporital | Hauptverantwortlich |
 
-
-## 13 - Oldtown
-
-![Screenshot](img/Oldtown.png)
-
-Text folgt .....
-
-### Baugebietsregeln, Informationen und Verantwortliche
-- 1
-- 2
-- 3
-
-| Verantwortliche | Funktion |
-| ------ | -------- |
-| saporital | hauptverantwortlich |
-
-
-## 14 - Skyland
+## 13 - Skyland
 
 ![Screenshot](img/Skyland.png)
 
@@ -288,9 +279,9 @@ welches man Erstmal finden muss. Na, Lust bekommen? Dann komm auf den Server und
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
-| Twilex | hauptverantwortlich |
+| Twilex | Hauptverantwortlich |
 
-## 15 - Sunset Valley/Tal der Sonne
+## 14 - Sunset Valley/Tal der Sonne
 
 ![Screenshot](img/SunsetValley.png)
 
@@ -303,8 +294,8 @@ Text folgt .....
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
-| Caprea | hauptverantwortlich |
-| Olegna_12 | nebenverantwortlich |
+| Caprea | Hauptverantwortlich |
+| JOlegna | Nebenverantwortlich |
 
 
 ## 15 - Wellington
@@ -324,21 +315,25 @@ dir ein großes, billiges Grundstück kaufen und dich dort niederlassen und ein 
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
-| Twilex| hauptverantwortlich |
+| Twilex| Hauptverantwortlich |
 
 
 ## 16 - Wunderland
 
 ![Screenshot](img/Wunderland.png)
 
-Text folgt .....
+Auch im Wunderwald ist der Baustil ein Fantasy/Mittelalter Veschnitt. Ansonsten dürfen alle Gegenstände um den verrückten Hutmacher von Alice im Wunderland gebaut werden. 
+Ansonsten darf man Uhren, Zahnräder und Teezubehör (Teetassen, Untersetzer etc.) bauen. Somit ist der Wunderald das einzoige Baugebiet, 
+indem man nicht unbedingt ein “Haus” im typischen Sinne bauen muss. Hier sind nur Hunde, Katzen, Pferde und Esel erlaubt, allerdings wie bei den Wunderpilzen auch hier nur maximal 4 Tiere.
+
+Das Wunderland ist der richtige Platz wenn ihr gerne Fantasy baut. Die Grundstücke sind nicht größer als 20×20 und der Baustil ist ein Mittelalter / Fantasy Verschnitt,
+aber auch wenn ihr euch einen Pilz bauen wollt ist das nicht verboten. Es sind nur Haustiere (Katzen und Hunde) und Esel und Pferde erlaubt. Und auch davon nicht mehr als 4.
 
 ### Baugebietsregeln, Informationen und Verantwortliche
-- 1
-- 2
-- 3
+- Baustil ein Fantasy/Mittelalter Veschnitt
+- nur 4 Haustiere erlaubt
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
-| saporital | hauptverantwortlich |
+| saporital | Hauptverantwortlich |
 

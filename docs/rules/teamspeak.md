@@ -1,39 +1,39 @@
 ## §1 - Allgemein
-Grundsätzlich gelten auf dem TeamSpeak dieselben Regeln wie auf dme Timolia Minecraft-Server. Sollten dir diese Regeln noch unbekannt sein kannst du diese hier nachlesen: [www.timolia.de](http://www.timolia.de).
-Die Regeln wurden zuletzt am <strong>02. Februar 2015</strong> aktualisiert.
+Grundsätzlich gelten dieselben Regeln, wie auch auf dem Timolia Minecraft Server. Sollten dir die Regeln noch unbekannt sein, kannst du diese hier nachlesen: https://www.timolia.de/regeln/
 
-## §2 - Beleidigungen
-Beleidigungen, sowohl in schrichtlicher, als auch in mündlicher Form, sind zu unterlassen und werden geahndet!
+## §2 - Ausnutzen der Hilfechannel
+Es ist verboten den Hilfechannel ohne triftigen Grund aufzusuchen und dort die Hilfsbereitschaft von Teammitgliedern auszunutzen.
 
-## §3 - TeamSpeak Avatar und Name
-Der TeamSpeak Avatar und Name darf nicht rassistisch, sexistisch oder beleidigend sein. Dasselbe gilt für den Namen, der im Übrigen dem Minecraft-Namen entsprechen sollte.
+## §3 - TeamSpeak Avatar und Username
+Avatare, die rassistischen, sexistischen oder beleidigenden Kontent enthalten, sind verboten. Dasselbe gilt für den Usernamen, dieser sollte im Optimalfall dem Minecraft-Namen entsprechen.
 
-## §4 - Stimmverzerrer
-Das Nutzen von Stimmverzerrern auf dem Timolia TeamSpeak ist strengstens untersagt!
+## §4 - Stimmverzerrer und Soundboards
+Das Nutzen von Stimmverzerrern und Soundboards ist untersagt!
 
-## §5 - IP Changer/VPN
-Das Benutzen mehrerer Identitäten,VPNs, Proxyserver und IP Changer ist nicht gestattet.
+## §5 - Identitäten und IP-Changer
+Das Benutzen mehrerer Identitäten, VPNs, Proxyserver und IP-Changern ist nicht gestattet.
 
-## §6 - Ausnutzen des Hilfechannel
-Es ist verboten den Hilfechannel ohne sinnvollen Grund aufzusuchen und dort die Hilsbereitschaft von Teammitgliedern auszunutzen.
+## §6 - Verhalten im Teamspeak
+Belästigung (durch Nachrichten, Anstupsen, Spam oder Nachjoinen), ist verboten und wird sanktioniert. Darunter fällt Belästigung durch Beleidigung, Rassismus, Provokation, Drohungen, 
+Werbung, Verbreiten unangebrachter Links und sexuelle Belästigung. 
 
-## §7 - Belästigung
-Belästigung geschieht durch das Spammen von Nachrichten, Whispern und Nachjoinen. Unter diesen Punkt fällt das Belästigen durch Beleidigung, Rassismus, Provokation, Drohungen, Werbung und
-sexuelle Belästigung. All dies ist verboten und wird mit einem Bann bestraft.
+## §7 - Phishing und Betrug
+Um Phishing und Betrug vorzubeugen ist der private Handel auf allen Plattformen Timolias verboten. Dazu zählen u.A. der vermeintliche Verkauf von Minecraft-Accounts, 
+kostenlose Angebote für beispielsweise Optifine-Capes und Ähnliches. Das Abschöpfen von Userdaten wie Passwörtern und E-Mails ist eine Straftat und wird schon beim Versuch geahndet.
 
-## §8 - Blockieren der begrenzten Zonen
-Sollte ein User afk in einer begrenzten Zone sein, so blockiert er diese. Teammitgliedern ist es gestattet solche User in die Eingangshalle zu kicken.
+## §8 - Identitätsdiebstahl
+Es ist nicht gestattet sich im Teamspeak als in der Öffentlichkeit stehende Person auszugeben. Das Benutzen der Verifizierung wird empfohlen.
 
-## §9 - Identitätsdiebstahl
-Es ist nicht gestattet sich im TeamSpeak als Teammitglied oder YouTuber auszugeben.
+## §9 - Musikbots
+Das Benutzen von privaten Muskbots in den öffentlichen Channeln ist nicht gestattet. Solltet ihr einen Musikbot verwenden kann dieser von einem Teamspeak-Teammitglied mit einer speziellen 
+Servergruppe gekennzeichnet werden.
 
-## §10 - Unangebrachte Links verbreiten
-Das Verschicken von Viren oder Screamern durch Links ist verboten.
+## §10 - Aufnahmen
+Das Aufnehmen von Personen in öffentlichen Zonen ist unter allen Umständen verboten und wird sanktioniert. Teammitglieder dürfen bei Verdacht auf einen Regelverstoß Tonaufnahmen speichern 
+und Zwecks Beweis im Falle eines Banns an betroffene Personen weitergeben.
 
-## §11 - Musikbots
-Das Benutzen von privaten Musikbots ist in den öffentlichen Channeln nicht gestattet.
+## §11 - Ahnden von Regelverstößen
+Bei einem Verstoß gegen das Regelwerk kann es zu Strafen auf dem Teamspeak-Server kommen. Je nach Härtefall kann diese von einem temporären, bishin zu einem permanenten Bann ausfallen. 
+In Extremfällen werden Regelverstöße auch auf anderen Plattformen Timolias sanktioniert. 
 
-## §12 - Aufnahmen
-Das Aufnehmen von Clients ist nur mit Einwilligung aller Personen im Channel erlaubt.
-
-Bei einem Verstoß gegen die Regeln kann es zu Strafen auf dem Server kommen. Je nach Härtefall kann diese von einem temporären, bishin zu einem permanenten Bann führen.
+Unwissenheit schützt nicht vor Strafe! Mit dem Betreten des Teamspeak-Servers akzeptierst du das Regelwerk.

@@ -9,23 +9,23 @@ Administratoren kümmern sich um die Technik von Timolia. Angefangen bei den Plu
 Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 
 ###<strong>Edgxxar</span></strong>
-- <u>Rang (ingame)::</u> Administrator Games;CityBuild
+- <u>Rang (ingame):</u> Administrator Games;CityBuild
 - <u>Aufgabenbereich(e):</u> Timolia-Plugins (HV), Root-Server (NV)
 
 ###<strong>MCExpertDE</strong>
-- <u>Rang (ingame)::</u> Administrator Games;CityBuild;TeamSpeak
+- <u>Rang (ingame):</u> Administrator Games;CityBuild;TeamSpeak
 - <u>Aufgabenbereich(e):</u> Hardware (NV), Timolia-Plugins (HV), Games (HV)
 
 ###<strong>Moehritz</strong>
-- <u>Rang (ingame)::</u> Administrator Games;CityBuild;TeamSpeak
+- <u>Rang (ingame):</u> Administrator Games;CityBuild;TeamSpeak
 - <u>Aufgabenbereich(e):</u> Development (HV), Timolia-Plugins (HV)
 
 ###<strong>Niklas</strong>
-- <u>Rang (ingame)::</u> Administrator Games;TeamSpeak
+- <u>Rang (ingame):</u> Administrator Games;TeamSpeak
 - <u>Aufgabenbereich(e):</u> Website (HV), Interne Webanwendung (HV), Usern helfen (NV), Ansprechpartner f. Games-Supporter (NV), TeamSpeak (NV), Twitter (NV), Facebook (NV), Bautresor (NV)
 
 ###<strong>xiantiel</strong>
-- <u>Rang (ingame)::</u> Administrator Games;CityBuild;TeamSpeak
+- <u>Rang (ingame):</u> Administrator Games;CityBuild;TeamSpeak
 - <u>Aufgabenbereich(e):</u> Hardware (HV), Buycraft (HV), Nitrado (HV), Management (HV), Root-Server (HV)
 
 ## Developer
@@ -36,8 +36,12 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Rang (ingame):</u> Expert
 - <u>Aufgabenbereich(e):</u> Timolia-Plugins (NV)
 
+### <strong><span style="color:#007812">Caelis</span></strong>
+- <u>Rang (ingame):</u> Supporter Games;CityBuild;TeamSpeak
+- <u>Aufgabenbereich(e):</u> Ansprechpartner f. Development (HV), Timolia-Plugins (NV)
+
 ### <strong><span style="color:#007812">LastR_Raziel</span></strong>
-- <u>Rang (ingame):</u> Spieler
+- <u>Rang (ingame):</u> Pro
 - <u>Aufgabenbereich(e):</u> Anti-Cheat (HV)
 
 ### <strong><span style="color:#007812">logito111</span></strong>
@@ -53,7 +57,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Aufgabenbereich(e):</u> Timolia-Plugins (NV)
 
 ### <strong><span style="color:#007812">svdragster</span></strong>
-- <u>Rang (ingame):</u> Spieler
+- <u>Rang (ingame):</u> Pro
 - <u>Aufgabenbereich(e):</u> Anti-Cheat (HV)
 
 ### <strong><span style="color:#007812">TheBrownShape</span></strong>
@@ -117,16 +121,16 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), Anregungen u. Vorschlaege Forum (HV), TeamSpeak (NV)
 
 ###<strong><span style="color:#E4D100">blackINK_</span></strong>
-- <u>Rang (ingame):</u> Supporter Games,TeamSpeak
+- <u>Rang (ingame):</u> Supporter Games;TeamSpeak
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), TeamSpeak (NV)
 
 ###<strong><span style="color:#E4D100">Bukkit_PVP</span></strong>
-- <u>Rang (ingame):</u> Supporter Games / Developer CityBuild
+- <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ###<strong><span style="color:#E4D100">Caelis</span></strong>
-- <u>Rang (ingame):</u> Supporter Games;CityBuild;TeamSpeak / Developer Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Bautresor (NV), Spieler melden Forum (NV), Ansprechpartner f. Development (HV), TeamSpeak (NV)
+- <u>Rang (ingame):</u> Supporter Games;CityBuild;TeamSpeak
+- <u>Aufgabenbereich(e):</u> JumpWorld Bilder (HV), Usern helfen (NV), Bautresor (NV), Bug melden Forum (NV), TeamSpeak (NV)
 
 ###<strong><span style="color:#E4D100">byShadow</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -177,7 +181,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ###<strong><span style="color:#E4D100">HoleOne</span></strong>
-- <u>Rang (ingame):</u> Supporter Games / Moderator CityBuild
+- <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ###<strong><span style="color:#E4D100">Hotarsy</span></strong>
@@ -188,6 +192,10 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), Twitter (NV)
 
+### <strong><span style="color:#E4D100">JOlegna</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), TeamSpeak (NV), Entschuldigungen (NV)
+
 ###<strong><span style="color:#E4D100">Jxvxn</span></strong>
 - <u>Rang (ingame):</u> Supporter Games;TeamSpeak
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), Fragen und Antworten Forum (NV), Spieler melden Forum (NV), TeamSpeak (NV)
@@ -196,17 +204,17 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
-###<strong><span style="color:#E4D100">Kitox</span></strong>
+###<strong><span style="color:#E4D100">Krumru</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
-###<strong><span style="color:#E4D100">Krumru</span></strong>
+### <strong><span style="color:#E4D100">Lascona</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ###<strong><span style="color:#E4D100">L0L0</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Spieler melden Forum (NV)
 
 ###<strong><span style="color:#E4D100">LeePvP</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -217,8 +225,8 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ###<strong><span style="color:#E4D100">logito111</span></strong>
-- <u>Rang (ingame):</u> Supporter Games / Developer Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Timolia-Plugins (NV)
+- <u>Rang (ingame):</u> Supporter Games
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ### <strong><span style="color:#E4D100">Loris</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -228,17 +236,9 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
-###<strong><span style="color:#E4D100">MarkuZ_</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Spieler melden Forum (NV)
-
 ### <strong><span style="color:#E4D100">mTAce</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
-
-###<strong><span style="color:#E4D100">Olegna_12</span></strong>
-- <u>Rang (ingame):</u> Supporter Games / Moderator CityBuild;TeamSpeak
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), TeamSpeak (NV), Entschuldigungen (NV)
 
 ###<strong><span style="color:#E4D100">ProoYo</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -263,10 +263,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ###<strong><span style="color:#E4D100">TheBrownShape</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), TeamSpeak (NV)
-
-###<strong><span style="color:#E4D100">TheNero</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ###<strong><span style="color:#E4D100">Thoasty</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -300,13 +296,17 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
+### <strong><span style="color:#E4D100">xJu1ia</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+
 ### <strong><span style="color:#E4D100">xN0AH</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ###<strong><span style="color:#E4D100">Zortax</span></strong>
-- <u>Rang (ingame):</u> Supporter Games / Developer Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Timolia-Plugins (NV)
+- <u>Rang (ingame):</u> Supporter Games
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ## Builder
 
@@ -392,7 +392,7 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi und helfen bei Problemen und Bugs.
 
 ###<strong><span style="color:#007812">Bukkit_PVP</span></strong>
-- <u>Rang (ingame):</u> Supporter Games / Developer CityBuild
+- <u>Rang (ingame):</u> Developer CityBuild
 - <u>Aufgabenbereich(e):</u> CityBuild-Plugins (NV), CityBuild-Twitter (NV)
 
 ###<strong><span style="color:#007812">tr7zw</span></strong>
@@ -416,20 +416,21 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), CityBuild-Twitter (NV), Summerfields (HV), Aegypten (NV), Weststadt (NV), Flussufer (HV), Sunset Valley (HV)
 
 ###<strong><span style="color:#CF0101">HoleOne</span></strong>
-- <u>Rang (ingame):</u> Supporter Games / Moderator CityBuild
+- <u>Rang (ingame):</u> Moderator CityBuild;TeamSpeak
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), Events (NV), Atlantis (HV), Hafen (HV), Minedig (NV), Upperhills (NV), Weststadt (NV)
 
 ###<strong><span style="color:#CF0101">JoJoYoshy</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), Aegypten (NV), Karibik (NV)
 
+### <strong><span style="color:#CF0101">JOlegna</span></strong>
+- <u>Rang (ingame):</u> Moderator CityBuild;TeamSpeak
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Timolia Anleitung (NV), Bahnlinien (NV), Events (HV), Shopwelt (HV), Upper Hills (HV), Downtown (NV), Karibik (HV), Weststadt (HV), Sunset Valley (NV), TeamSpeak (NV)
+
+
 ###<strong><span style="color:#CF0101">kd9b</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), Upper Hills (NV), Weststadt (NV), Karibik (NV)
-
-###<strong><span style="color:#CF0101">Olegna_12</span></strong>
-- <u>Rang (ingame):</u> Supporter Games / Moderator CityBuild;TeamSpeak
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Timolia Anleitung (NV), Bahnlinien (NV), Events (HV), Shopwelt (HV), Upper Hills (HV), Downtown (NV), Karibik (HV), Weststadt (HV), Sunset Valley (NV), TeamSpeak (NV)
 
 ###<strong><span style="color:#CF0101">saporital</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
@@ -507,7 +508,7 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder CityBuild
 - <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV)
 
-##Team-Wanderungen
+# 3 - Team-Wanderungen
 
 Hier werden die Aus- und Eintritte, bzw. Befoerderungen und Degradierungen im Team aufgelistet.
 
@@ -552,7 +553,7 @@ Hier werden die Aus- und Eintritte, bzw. Befoerderungen und Degradierungen im Te
 |Zortax | <span style="color:#007812">Developer</span> | <span style="color:#E4D100">Supporter</span> | Zusaetzlich zu Developer | 25.03.16 |
 |Niklas | <span style="color:#CF0101">Moderator</span> | <span style="color:#5858FA">Administrator</span> | - | 13.04.16 |
 |Shustin | <span style="color:#848484">Spieler</span> | <span style="color:#007812">Developer</span> | - | 13.04.16 |
-|St3giLiebtTim | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 09.05.16 |
+|Lascona | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 09.05.16 |
 |xJu1ia | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 09.05.16 |
 |TobCrafterDE | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 04.06.16 |
 |xH3lix | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 04.06.16 |
@@ -561,3 +562,5 @@ Hier werden die Aus- und Eintritte, bzw. Befoerderungen und Degradierungen im Te
 |xN0AH | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 04.06.16 |
 |Elegeta | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 04.06.16 |
 |Flaxify | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 04.06.16 |
+|TheNero | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation mehr | 24.06.16 |
+|MarkuZ_ | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation mehr | 30.06.16 |
