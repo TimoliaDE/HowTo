@@ -312,6 +312,14 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entwerfen stetig neue Bauten.
 
+###<strong><span style="color:#00646F">Aerosize</span></strong>
+- <u>Rang (ingame):</u> Builder Games
+- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+
+###<strong><span style="color:#00646F">Apfelrosine</span></strong>
+- <u>Rang (ingame):</u> Builder Games
+- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+
 ###<strong><span style="color:#00646F">Denge</span></strong>
 - <u>Rang (ingame):</u> Builder Games
 - <u>Aufgabenbereich(e):</u> Games-Maps (NV)
@@ -325,6 +333,14 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Aufgabenbereich(e):</u> Games-Maps (NV)
 
 ###<strong><span style="color:#00646F">Invidia</span></strong>
+- <u>Rang (ingame):</u> Builder Games
+- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+
+###<strong><span style="color:#00646F">Juk</span></strong>
+- <u>Rang (ingame):</u> Builder Games
+- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+
+###<strong><span style="color:#00646F">Knoba</span></strong>
 - <u>Rang (ingame):</u> Builder Games
 - <u>Aufgabenbereich(e):</u> Games-Maps (NV)
 
