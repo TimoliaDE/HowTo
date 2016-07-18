@@ -124,13 +124,17 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 
 | Befehl | Funktion |
 | ------ | -------- |
-| `/infoboard` | Öffnet das MEnü des Scoreboards |
+| `/infoboard` | Öffnet das Menü des Scoreboards |
+| `/achievements` | Listet eine Übersicht aller Achievements auf |
+| `/mission` | Zeigt eine Übersicht über die aktive/alle Missionen |
 | `/suicude` | Tötet sich selbst |
 | `/pay <Spieler> <Betrag>` | Überweist einem anderen Spieler Geld |
 | `/money` od. `/balance` | Zeigt deinen Kontostand |
 | `/ticket <Anliegen>` | Erstellt ein Ticket |
 | `/mail <read/send/clear>` | Mails lesen/senden/löschen |
 | `$<Nachricht>` | Schreibe im Handelschat |
+| `/ch join handel` | Wählt den Handelschat als Standartchannel aus |
+| `/ch join city` | Wechselt in den default Citychannel |
 | `/shoptp` | Teleportiert dich in unterschiedliche Shopwelten |
 <span style="color:#F99500">Pro</span> und <span style="color:#00F9EC">Expert</span> only:
 | `/ptime <day/night>` | Zeit für sich selbst umstellen |
