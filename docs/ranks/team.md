@@ -312,6 +312,14 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entwerfen stetig neue Bauten.
 
+### <strong><span style="color:#00646F">Aerosize</span></strong>
+Rang (ingame): Builder Games
+Aufgabenbereich(e): Games-Maps (NV)
+
+### <strong><span style="color:#00646F">Apfelrosine</span></strong>
+Rang (ingame): Builder Games
+Aufgabenbereich(e): Games-Maps (NV)
+
 ###<strong><span style="color:#00646F">Denge</span></strong>
 - <u>Rang (ingame):</u> Builder Games
 - <u>Aufgabenbereich(e):</u> Games-Maps (NV)
@@ -326,6 +334,14 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 ###<strong><span style="color:#00646F">Invidia</span></strong>
 - <u>Rang (ingame):</u> Builder Games
+- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+
+### <strong><span style="color:#00646F">Jukplays</span></strong>
+- <u>Rang (ingame):</u> Builder Games
+- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+
+### <strong><span style="color:#00646F">magic_knoba</span></strong>
+- <u>:Rang (ingame):</u> Builder Games
 - <u>Aufgabenbereich(e):</u> Games-Maps (NV)
 
 ###<strong><span style="color:#00646F">Manta</span></strong>
@@ -488,10 +504,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder CityBuild
 - <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV), Upperhills (NV)
 
-###<strong><span style="color:#00646F">ChaosLissi</span></strong>
-- <u>Rang (ingame):</u> Builder CityBuild
-- <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV)
-
 ###<strong><span style="color:#00646F">LaShadow</span></strong>
 - <u>Rang (ingame):</u> Builder CityBuild
 - <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV), Ice Spikes (HV)
@@ -564,3 +576,8 @@ Hier werden die Aus- und Eintritte, bzw. Befoerderungen und Degradierungen im Te
 |Flaxify | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 04.06.16 |
 |TheNero | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation mehr | 24.06.16 |
 |MarkuZ_ | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation mehr | 30.06.16 |
+|ChaosLissi | <span style="color:#00646F">Builder</span> |<span style="color:#F99500">Pro</span> | Keine Lust mehr | 16.07.16 |
+|Aerosize | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 17.07.16 |
+|Apfelrosine | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 17.07.16 |
+|Jukplays | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 17.07.16 |
+|magic_knoba | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 17.07.16 |
