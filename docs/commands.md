@@ -9,6 +9,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/hub`, `/lobby`   | Teleportiert dich in die Lobby |
 | `/games` | Teleportiert dich zu den Games-Servern |
 | `/city` | Teleportiert dich zu den CityBuild-Servern |
+| `/msg <Spieler>` | Schreibe mit einem Spieler im Privatchat |
 | `/lookup <Spieler>`, `/lu` | Zeigt dir LogIn-Informationen über einen Spieler |
 | `/top` | Zeigt dir die Top 10 Spieler in einem Spielmodus an |
 | `/vote <Zahl>` | Votet für eine Map in einem Spielmodus |
@@ -69,8 +70,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/team add <Name>` | Lädt einen Spieler in dein Team ein |
 | `/team revoke <Name>` | Zieht eine Teameinladung zurück |
 | `/team kick <Name>` | Kickt einen Spieler aus deinem Team |
-| `/team setcolor <Farbe>` | Färbt euren Namen entsprechend der gewählten Farbe |
-| `/colors` | Zeigt dir die verfügbaren Teamfarben an |
+| `/team setcolor` | Färbt euren Namen entsprechend der gewählten Farbe |
 | `/challenge <Spieler>`, `/c` | Fordert einen Spieler zu einem Duell heraus |
 | `/leave`, `/l` | Zieht eine Herausforderung zurück |
 | `/endmatch`  | Der Kampf wird nach einer Minute mit Entscheidung durch die Mitte beendet |
@@ -78,13 +78,15 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/spectate <Spieler>`, `/spec` | Lässt dich den Kampf eines Spieler beobachten |
 | `/stats` | Zeigt dir deine Stats an |
 | `/stats <Name>` | Zeigt dir die Stats eines Spielers an |
+| `/top <Kit>` | Zeigt die Rangliste eines Competitive-Kits an |
+| `/winstreak` | Zeigt deine aktuelle Winstreak |
 | `/join <Name>` | Tritt einem Turnier bei |
 | `/join <Name> <Passwort>` | Tritt einem passwortgeschützten Turnier bei |
 | `/t` | Zeigt die Turnier Informationen |
 <span style="color:#F99500">Pro</span> und <span style="color:#00F9EC">Expert</span> only:
 | `/create <Passwort>` | Erstellt ein Turnier (optional mit einem Passwort) |
 | `/modify` | bearbeitet die Turniereinstellungen |
-| `/start <1-60>` | Startet dein Turnier nach 1-60 Sekunden |
+| `/start [Zeit]` | Startet dein Turnier |
 
 ### Arcade
 
