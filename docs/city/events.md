@@ -1,4 +1,3 @@
-
 # Allgemeines
 Hier findest du einen Überblick über alle Events die auf dem Citybuildserver stattfinden. Welches Event wann stattfindet wird direkt auf dem Server über einen Broadcast
 oder im Forum unter Citybuild - Events bzw Twitter @TimoliaCB angekündigt.
