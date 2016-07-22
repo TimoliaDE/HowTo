@@ -106,16 +106,16 @@ und auch eine PvP Arena ist vorhanden. Desweiteren kannst du viele weitere Dinge
 Wenn du das erste Mal auf den Citybuild joinst, landest du direkt bei deiner ersten Mission. Hier wird dir Stück für Stück alles erklärt und der Einstieg auf den Citybuild erleichtert.
 
 ### Wie bekomme ich mein Startgrundstück?
-Du bekommst dein Startergrundstück kostenlos in der Weststadt. Wenn du auf einen beliebigen Weststadtserver joinst, wird dir automatisch ein Grundstück zugewiesen.
+Du bekommst dein Startergrundstück kostenlos in der Weststadt. Wenn du auf einen beliebigen Weststadtserver joinst, wird dir ein Grundstück zugewiesen.
 
 ### Was sind Missionen?
-Du kannst jederzeit wenn du dich auf dem Citybuild befindest gewisse Missionen abschließen. Eine genaue Übersicht über aller Missionen wird dir Ingame per `/mission` aufgelistet.
+Du kannst jederzeit, wenn du dich auf dem Citybuild befindest gewisse Missionen abschließen. Eine genaue Übersicht über aller Missionen wird dir Ingame per `/mission` aufgelistet.
 
 ### Wie verdiene ich Geld?
 Es gibt 3 Möglichkeiten Geld zu verdienen:
 - Onlinezeit: Du bekommst alle 15 Minuten genau 25 Timolions, dazu musst du die 15 Minuten aber durchgehend online sein.
 - Items verkaufen: Du kannst deine gefarmten Sachen im  Adminshop oder in Shops von anderen Usern verkaufen. Jedoch hast du auch die Möglichkeit den Handelschat zu benutzen,
-hier kannst du mit anderen Usern handeln. Der Handelschat ist ein globaler Chat und somit auf allen Cityserver zu lesen.
+hier kannst du mit anderen Usern handeln. Du erreichst den Handelschat  mit /ch join handel, zurück kommst du mit /ch join city. Der Handelschat ist ein globaler Chat und somit auf allen Cityserver zu lesen.
 - Durch das gewinnen von Spielen und Events kann man Geld verdienen.
 - Jobs: Eine weitere Möglickeit an Geld zu kommen, sind Jobs. Du kannst im öffentlichen Chat nach Jobs mit Bezahlung von anderen Usern fragen.
 Wieviel Geld du momentan besitzt siehst du mit /money bzw. im Infoboard oder im Tab.
@@ -127,11 +127,10 @@ Achievements kann man während des Spielens auf dem Citybuild abschließen. Eine
 Du erreichst die Abbauwelt über den Citybuildhub, du musst `/city` in den Chat eingeben und dann über den Kompass den richtigen Server auswählen.
 
 ### Wo ist die Shopwelt?
-Du erreichst die Abbauwelt über den Citybuildhub, du musst `/city` in den Chat eingeben und dann über den Kompass den richtigen Server auswählen.
+Du erreichst die Shopwelt über den Citybuildhub, du musst `/city` in den Chat eingeben und dann über den Kompass den richtigen Server auswählen.
 
 ### Was sind Farmgrundstücke?
-Farmgrundstücke sind große 100x100 Grundstücke, die du dir für 500.000T kaufen kannst. Du kannst darauf wie es der Name schon sagt, deine Farmen errichten, 
-oder andere Großbauprojekte von dir errichten.
+Farmgrundstücke sind große 100x100 Grundstücke, die du dir für 500.000T kaufen kannst. Du kannst darauf wie es der Name schon sagt, deine Farmen oder andere Großbauprojekte von dir errichten.
 Du erreichst die Farmgrundstücke über den Citybuildhub, du musst `/city` in den Chat eingeben und dann über den Kompass den richtigen Server auswählen.
 
 ### Wie bekomme ich weitere Grundstücke in anderen Gebieten?
@@ -149,15 +148,15 @@ Probleme, Bugs, Anmerkungen (Serverbezogen) können über das Ticketsystem gemel
 - Wenn wir dich für geeignet halten, kommen wir auf dich zu. Nicht anders herum.
 
 ### Was ist Karma?
-Karma kann man sich durch langes spielen auf dem Server verdienen. Man erhält es durch Achievements abschließen, das karma wird in unterschiedlichen Leveln aufgestuft. Umso höher dein Karmalevel ist,
-umso mehr Vorteile hat man auf dem Server wie zb. längerer AFK-Kick.
+Karma kann man sich durch langes spielen auf dem Server verdienen. Man erhält es durch Achievements abschließen, das Karma wird in unterschiedlichen Leveln aufgestuft.
+Umso höher dein Karmalevel ist, umso mehr Vorteile hat man auf dem Server wie zb. längerer AFK-Kick.
 
 ### Wo kann ich seltene Items kaufen bzw. Items verkaufen?
 Der Adminshop verkauft diese Blöcke oder Items für relativ viel Geld. Du erreichst ihn indem über den Citybuildhub, zu den Shopwelten gelangst.
 Du kannst alle Items außer Banner,Tränke, gefärbte Lederrüstung und verzauberte Items an den Schrotthändler verkaufen, dieser ist in jedem Adminshop zu finden.
 
 ### Welche Vorteile habe ich als PRO/Expert?
-- Du kannst auf den vollen City-Build joinen
+- Du kannst auf den vollen CityBuild joinen
 - Dein Name ist ORANGE
 - Du kannst dir mehrere Homes setzen.
 - Du hast die Möglichkeit dir deine Tageszeit für deinen Client umzustellen `/ptime [day|night|reset]` – Verändert nichts am Mob-Spawning
