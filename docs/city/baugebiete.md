@@ -1,16 +1,16 @@
 
 # Allgemeines
-Hier findest du eine Übersicht über alle Baugebiete die du auf dem Citybuildserver erkunden kannst. 
-Du findest eine kurze Information über das jeweilige Baugebiet und die dazugehörigen Regeln.
+Dies ist eine Übersicht über alle Baugebiete, die du auf dem Citybuild Server erkunden kannst.
+Du findest eine kurze Beschreibung über das jeweilige Baugebiet und die dazugehörigen Regeln.
 
 ## 1 - Weststadt
 
 ![Screenshot](img/Weststadt.png)
 
-Die Weststadt ist ein stetig wachsendes Baugebiet mit vielen kleinen Häusern. Sie bildet die Vorstadt zu Downtown, hier bekommst du ein Startgrundstück, 
-welches in einem Vorstadt-Baustil bebaut werden sollte. Große viereckige Dirt oder Cobblestonewände sind nicht erwünscht und müssen abgerissen werden. 
-Sowie 1x1 Türme nur zum Bau gebaut werden dürfen und dann wieder abgerissen werden müssen. Die Grundstücke sind 20×20 Blöcke groß und sind kostenlos. 
-Du darfst auf deinem GS maximal 10 Haustiere haben. 
+Die Weststadt ist ein stetig wachsendes Baugebiet mit vielen kleinen Häusern. Sie bildet die Vorstadt zu Downtown, hier bekommst du dein Startgrundstück,
+welches in einem Vorstadt-Baustil bebaut werden sollte. Große viereckige Dirt oder Cobblestonewände, sowie 1x1 Türme (außer innerhalb der Bauzeit) sind nicht erwünscht und müssen abgerissen werden.
+Die Grundstücke sind 20×20 Blöcke groß und sind kostenlos.
+Du darfst auf deinem GS maximal 10 Haustiere haben.
 
 ### Baugebietsregeln, Informationen und Verantwortliche
 - Grundstücke sind <strong>20*20</strong> (20 hoch, 10 tief) Blöcke groß
@@ -19,7 +19,7 @@ Du darfst auf deinem GS maximal 10 Haustiere haben.
 - Angebunden an das Bahnnetz
 - <strong>10 Tiere und 10 Entities</strong> pro GS erlaubt
 - <strong>Vorstadtbaustil</strong>
-- <strong>keine</strong> Ownerwechsel möglich
+- <strong>kein</strong> Ownerwechsel möglich
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
@@ -34,12 +34,14 @@ Du darfst auf deinem GS maximal 10 Haustiere haben.
 
 ![Screenshot](img/Upperhills.png)
 
-Die Upper Hills liegen neben den Summerfields und bilden das Baugebiet für die PRO’s und Expert’s Timolias. Jeder Timolianer, der gespendet hat, 
-kann sich hier ein günstiges und vorallem relativ großes Grundstück kaufen. Die Grundstücke sind 50×50 Blöcke groß und kosten für PRO’s oder Expert’s 2500T. 
-Es ist nur ein Grundstück pro Spieler erlaubt. Das Baugebiet wird auch oft, als “Villengebiet” gesehen. Wenn du dich hier niederlassen möchtest, 
-ist es daher notwendig eine Villa zu bauen. Hochhäuser sind nicht erwünscht und müssen wieder abgerissen werden. 1x1 Türme sind nur zum Bau des 
-Hauses gestattet und müssen dann wieder abgerissen werden. Hochhäuser sind nicht erlaubt. Farmen sollten stets im Keller errichtet werden, die Gärten 
-müssen immer gepflegt werden, Rasen mähen und Hecken schneiden! Pro Grundstück sind 25 Tiere und 25 Entities erlaubt. Die Grundstücksgröße muss 
+Die Upper Hills liegen neben den Summerfields und bilden das Baugebiet für die Pro’s und Experts Timolias. Jene können sich hier ein günstiges und vorallem relativ großes Grundstück kaufen.
+Die Grundstücke sind 50×50 Blöcke groß und kosten für Pro’s und Experts 2500 Timolions.
+Es ist nur ein Grundstück pro Spieler erlaubt.
+Das Baugebiet wird auch oft als “Villengebiet” gesehen. Wenn du dich hier niederlassen möchtest,
+ist es daher notwendig eine Villa zu bauen. Hochhäuser sind nicht erwünscht und müssen wieder abgerissen werden. 1x1 Türme sind nur zum Bau des
+Hauses gestattet und müssen dann wieder abgerissen werden.
+Farmen sollten stets im Keller errichtet werden, die Gärten müssen immer gepflegt werden, Rasen mähen und Hecken schneiden nicht vergessen!
+Pro Grundstück sind 25 Tiere und 25 Entities erlaubt. Die Grundstücksgröße muss
 eingehalten werden, es werden keine Blöcke außerhalb des Grundstückes gesetzt.
 
 ### Baugebietsregeln, Informationen und Verantwortliche
@@ -64,7 +66,8 @@ eingehalten werden, es werden keine Blöcke außerhalb des Grundstückes gesetzt
 ![Screenshot](img/Downtown.png)
 
 Downtown bildet den Spawn von Timolia und stellt alle wichtigen, großen Gebäude zur Verfügung. Rund um den Marktplatz findest du die Bahngleise, die Polizei und
-die Kirche. Die Grundstücke kosten zwischen 20.000T und 145.000T und sollten möglichst Urban wirken (Hohe, große Häuser; keine großen Gärten). 
+die Kirche.
+Die Grundstücke kosten zwischen 20.000T und 145.000T und sollten möglichst Urban wirken (Hohe, große Häuser; keine großen Gärten).
 In Downtown sind bis zu 50 Haustiere auf dem Grundstück erlaubt.
 
 ### Baugebietsregeln, Informationen und Verantwortliche
@@ -81,15 +84,18 @@ In Downtown sind bis zu 50 Haustiere auf dem Grundstück erlaubt.
 
 ![Screenshot](img/Summerfields.png)
 
-In den Summerfields stehen Bauernhöfe und Felder. Hier kann man große Felder und Tierstallungen errichten, 
-wer gerne auf einem Bauernhof lebt oder gerne einen hätte, sollte sich hier ein Grundstück zulegen. Aber auch für den kleinen Mann mit einem gemütlichen Bauernhaus ist hier Platz. 
-Grundsücke sind in Summerfields überwiegend günstig, um den Bahnhof liegen Grundstücke im mittleren Preisbereich. Es sollen Bauernhöfe und Feldern errichtet werden, 
-wobei die Bauernhöfe nicht höher als 40 Blöcke in die Höhe ragen sollen.
+Die Summerfields sind ein idyllisch, ländliches Baugebiet in welchem Ackerbau, Forstwirtschaft und Viehzucht vorherrschen. Das Hauptaugenmerk liegt bei weiten goldenen Feldern, saftigen Wiesen und urigen Wäldern und überall verstreut die rustikalen Höfe.
+Direkt um den Spawn herum befinden sich kleinere Grundstücke, auf welchem kleinere ländliche  Häuser gebaut werden sollen, welche den Dorfkern Summerfields bilden.
+Je weiter man sich vom Spawn entfernt, desto größer und verstreuter werden die Grundstücke für ein optimales ländliches Feeling.
 
 ### Baugebietsregeln, Informationen und Verantwortliche
 - Grundstücke sind in verschiedenen Größen zu haben.
-- Baustil: Bauernhöfe und Felder 
-- Die Häuser sollten nicht mehr als 40 Blöcke in die Höhe ragen.
+- Baustil: rustikale Dorfhäuser um den Spawn und Bauernhöfe mit Feldern/Weiden
+- automatische Farmen unterirdisch bauen
+- pro User sind <strong>zwei</strong> Grundstücke erlaubt
+- es sind insgesamt 75 Tiere und Entities pro GS erlaubt
+- die Häuser sollten nicht mehr als 40 Blöcke in die Höhe ragen.
+- angebunden an das Bahnnetz
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
@@ -100,9 +106,9 @@ wobei die Bauernhöfe nicht höher als 40 Blöcke in die Höhe ragen sollen.
 
 ![Screenshot](img/Aegypten.png)
 
-Ägypten, das sandige Gebiet mit seinen atemberaubenden Flüssen und den hohen Sanddünen zeigt die Vielfalt der Natur die in Ägypten steckt.
-In den gigantischen Pyramiden lauern Gefahren und wertvolle Schätze. In der geheimen Bibliothek lauert eine geheimnisvolle Magische Kraft, die der ganzen
-Atmossphäre Leben einhaucht. Erforsche sie und entdecke alle tollen Sachen von Ägypten und finde alle Geheimnisse die sich in der Wüste verbergen.
+Ägypten, das sandige Gebiet mit seinen atemberaubenden Fluss und den hohen Sanddünen zeigt die Vielfalt der Natur die in Ägypten steckt.
+In den gigantischen Pyramiden lauern Gefahren und wertvolle Schätze. In der geheimen Bibliothek lauert eine mysteriöse magische Kraft, die der ganzen Atmossphäre Leben einhaucht.
+Erforsche sie und entdecke alle tollen Sachen von Ägypten und finde alle Geheimnisse die sich in der Wüste verbergen.
 
 ### Baugebietsregeln, Informationen und Verantwortliche
 - Nur <strong>1 Gs</strong> pro User
@@ -124,12 +130,16 @@ Atmossphäre Leben einhaucht. Erforsche sie und entdecke alle tollen Sachen von 
 
 ![Screenshot](img/Flussufer.png)
 
-Das Flussufer liegt zwischen Summerfields und Upper Hills. Es sollen dementsprechend reichere Bauernhäuser gebaut werden aber keine Villen und keine Bauernhöfe mit vielen Feldern. 
-Es ist maximal ein Grundstück pro User erlaubt und man darf maximal 25 Tiere auf dem Grundstück halten. Die Grundstücke werden direkt am GS gekauft.
+Das erhabene Baugebiet Flussufer grenzt genau an das bäuerlich - einfachen Summerfields, besticht jedoch durch seine vielen anmutenden Flüsschen  und vorallen den prachtvollen Bauten.
+Dies ist kein Baugebiet für das einfache Volk, wer hier ein Anwesen sein Eigen nennt, hat es wahrlich geschafft.
+Gebaut werden Landvillen, herrschaftliche Landsitze und Herrenhäuser mit Barock- oder englischen Gärten (keine Felder). Die Grundstücke sind groß und sehr, sehr teuer.
 
 ### Baugebietsregeln, Informationen und Verantwortliche
-- reichere Bauernhäuser gebaut werden
+- Grundstücke sind in verschiedenen Größen zu haben
+- Baustil rutikal und reich –  edle Herrenhäuser, adelige Landsitze, alte Villen, Schnörkel und Protz
 - 1 Grundstück pro User
+- automatische Farmen unterirdisch bauen
+- angebunden an das Bahnnetz
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
@@ -140,8 +150,8 @@ Es ist maximal ein Grundstück pro User erlaubt und man darf maximal 25 Tiere au
 
 ![Screenshot](img/IceSpikes.png)
 
-Frozen City ist ein Baugebiet was in ein Ice-spike Biom liegt. In Frozen City soll man passend zum Ice Spikes Biom bauen, 
-sodass das Gebiet mit dem Grundstück harmoniert. Grundstücke müssen Neugebaut werden, wenn die oben genannte Voraussetzung nicht eingehalten werden.
+Frozen City ist ein Baugebiet was in einem Ice Spike Biom liegt. In Frozen City soll man passend zum Ice Spikes Biom bauen, so dass die Umgebung mit dem Grundstück harmoniert.
+Grundstücke müssen Neugebaut werden, wenn die oben genannte Voraussetzung nicht eingehalten werden.
 Die Größe der Grundstücke sind unterschiedlich. Jeder Spieler darf nur 1 Grundstück in Frozen City besitzen.
 
 ### Baugebietsregeln, Informationen und Verantwortliche/r
@@ -185,11 +195,11 @@ Oben auf den Bergen ließen sich die reicheren Leute nieder und haben prachtvoll
 Die Karibik ist eine Region im Süd-Westlichen Teil von Timolia, sie besteht wie der Name schon sagt aus Karibischen Inseln.
 Es gibt viel Gesindel in der Welt von Timolia doch nur die Reichen und Schönen können es sich leisten davon Abstand zu gewinnen und eine Grundstück in der Karibik zu besitzen.
 Es gibt kein besseres Baugebiet um der Welt zu zeigen wie Reich sie sind und was für einen Status sie besitzen, welche Frau oder Mann könnte ihnen denn dann noch widerstehen?
-Tropische Temperaturen, Sonnenschein und das rauschen des Meeres sind nur einige Gründe die für dieses Baugebiet sprechen.
+Tropische Temperaturen, Sonnenschein und das Rauschen des Meeres sind nur einige Gründe die für dieses Baugebiet sprechen.
 Genießen Sie es in Ihrer erbauten Finca zu leben, erweitern Sie ihre Insel oder gehen sie doch eine runde tauchen im klarsten Gewässer ganz Timolias.
 Es gibt viel zu entdecken rund um die Inseln welche stetig erweitert und aufregender gestaltet werden.
 Am Spawn der Karibik befindet sich für Ihre vollkommene Zufriedenheit Gästezimmer, eine Bar und sogar ein Restaurant spezialisiert auf Meereszutaten aus der Region.
-Ihr könnt euch auch Grundstücke auf dem Meer kaufen. Hier sollten dann Boote in der Karibik oder eher ältere Schiffe gebaut werden und keine modernen Yachten/Speedboote. 
+Ihr könnt euch auch Grundstücke auf dem Meer kaufen. Hier sollten dann Boote in der Karibik oder eher ältere Schiffe gebaut werden und keine modernen Yachten/Speedboote.
 Jeder User darf auch nur ein Boot besitzen. Es sind keine Farmen auf den Booten erlaubt.
 
 ### Baugebietsregeln, Informationen und Verantwortliche
@@ -211,7 +221,7 @@ Jeder User darf auch nur ein Boot besitzen. Es sind keine Farmen auf den Booten 
 ![Screenshot](img/Mammutwald.png)
 
 Wenn ihr gerne Baumhäuser baut und eines der extragroßen Art haben möchtet, ist der Mammutwald das richtige für euch. 
-Ob ihr nun in der riesiegen Wurzel, oben in der Baumkrone oder auf den Blättern leben möchtet, es ist für jeden Baumfreund etwas dabei.
+Ob ihr nun in der riesigen Wurzel, oben in der Baumkrone oder auf den Blättern leben möchtet, es ist für jeden Baumfreund etwas dabei.
 Es sind keine Farmen oder ähnliches erwünscht. Grundstücke sind Bäume und dürfen nicht entfernt, maximal ausgehöhlt und leicht verändert werden.
 Es sind Baumhäuser zu bauen. Grundstücke kosten zwischen 76.000T und 121.000T und sind im Hauptbaum zu kaufen. Man darf dort bis zu 25 Tiere haben.
 
@@ -229,8 +239,8 @@ Es sind Baumhäuser zu bauen. Grundstücke kosten zwischen 76.000T und 121.000T 
 
 ![Screenshot](img/Minedig.png)
 
-Venedig ist wie im Real-Life am Wasser gelegen und es sind viele kleine Inseln auf denen man Grundstücke kaufen kann. Man baut kleine Häuser direkt aneinandergereiht mit 
-fröhlicheren Materialien wie z.B Quartz oder buntem Lehm. In Venedig sind die Grundstücke ähnlich klein wie im Mittelalter, maximal 15×15, und kosten zwischen 1200T und 4000T. 
+Venedig ist wie im Real Life am Wasser gelegen und es sind viele kleine Inseln auf denen man Grundstücke kaufen kann. Man baut kleine Häuser direkt aneinandergereiht mit
+fröhlicheren Materialien wie z.B Quartz oder buntem Lehm. In Venedig sind die Grundstücke ähnlich klein wie im Mittelalter, maximal 15×15, und kosten zwischen 1200T und 4000T.
 Man kauft die Grundstücke in kleinen Gebäuden auf den Inseln. Es sind 4 Haustiere pro Grundstück erlaubt, d.h. Hunde und Katzen.
 
 ### Baugebietsregeln, Informationen und Verantwortliche
@@ -247,7 +257,7 @@ Man kauft die Grundstücke in kleinen Gebäuden auf den Inseln. Es sind 4 Hausti
 
 ![Screenshot](img/Mittelalter.png)
 
-Das Mittelalter ist ein kleines Baugebiet mit Häusern eng aneinandergereiht und kleinen Gassen. Grundstücke sind nicht größer als 15×15. Es sind maximal 10 Tiere pro GS erlaubt 
+Das Mittelalter ist ein kleines Baugebiet mit Häusern eng aneinandergereiht und kleinen Gassen. Grundstücke sind nicht größer als 15×15. Es sind maximal 10 Tiere pro GS erlaubt
 und jeder User darf maximal 3 Grundstücke haben. Man muss in mittelalterlichem Baustil bauen und ein Grundstück kostet maximal 5000T. Die Grundstücke kauft man im Haupthaus.
 
 ### Baugebietsregeln, Informationen und Verantwortliche
@@ -263,10 +273,10 @@ und jeder User darf maximal 3 Grundstücke haben. Man muss in mittelalterlichem 
 
 ![Screenshot](img/Skyland.png)
 
-Hoch hinaus heißt es nun auf Timolia, dass neue Baugebiet bietet euch die Möglichkeit hoch in den lüften zu bauen entweder auf einer eigenen Inseln 
-oder auf einem Grundstück der beiden Riesen Inseln am enden beider Seiten des Baugebiets.
+Hoch hinaus heißt es nun auf Timolia, dass Baugebiet bietet euch die Möglichkeit hoch in den Lüften zu bauen. Dies entweder auf einer eigenen Inseln oder auf einem Grundstück der beiden  Inseln am Ende beider Seiten des Baugebiets.
 Auf Skyland sollte vorzugsweise im "Steampunk" Baustil gebaut werden. Außerdem erwartet dich ein geheimes Jump N' Run namens "Skyjump"
-welches man Erstmal finden muss. Na, Lust bekommen? Dann komm auf den Server und beginn die Reise über den Zeppelin vor dem Spawn.
+welches man jedoch erst einmal finden muss.
+Na, Lust bekommen? Dann komm auf den Server und beginn die Reise über den Zeppelin vor dem Spawn.
 
 ### Baugebietsregeln, Informationen und Verantwortliche/r
 - Pro User nur <strong>ein</strong> Grundstück
@@ -285,12 +295,20 @@ welches man Erstmal finden muss. Na, Lust bekommen? Dann komm auf den Server und
 
 ![Screenshot](img/SunsetValley.png)
 
-Text folgt .....
+Howdy Fremder, willkommen im noch wilden Westen!
+Auch du bist die lange Reise in den Westen angetreten, um diesen zu erobern und urbar zu machen? Damit hast du dir selbst eine große Aufgabe aufgetragen,
+denn dies ist nicht so einfach.
+Rund um den Saloon entstand dieses kleine Nest, Sunset Valley.
+Die Umgebung ist recht trocken und gleich über den Bergkamm hausen die Wilden im Tal der Sonne in ihren Zelten, die sie Tipis nennen – welchen du dich im
+Übrigen auch anschließen kannst, wenn dir der Sinn danach steht.
+
 
 ### Baugebietsregeln, Informationen und Verantwortliche
-- 1
-- 2
-- 3
+- pro User jeweils nur ein Grundstück im TdS / SV
+- Baustil ist Western bzw Tipis im Tal der Sonne
+- das Grundstück ist der Umgebung anzupassen
+- Es sind insgesamt 30 Entities und Tiere erlaubt.
+- Automatische Farmen sind unterirdisch zu bauen
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
@@ -302,8 +320,8 @@ Text folgt .....
 
 ![Screenshot](img/Wellington.png)
 
-In Wellington lassen sich solche nieder, die schön ruhig in der schönen Landschaft wohnen wollen. Zwischen den Bäumen, neben Flüssen und neben dem Meer kannst du
-dir ein großes, billiges Grundstück kaufen und dich dort niederlassen und ein schönes ländliches Haus bauen. 
+In Wellington lassen sich diejenigen User nieder, die schön ruhig in der schönen Landschaft wohnen wollen. Zwischen den Bäumen, neben Flüssen und neben dem Meer kannst du
+dir ein großes, aber günstiges Grundstück kaufen und dich dort niederlassen und ein schönes ländliches Fachwerkhaus bauen.
 
 ### Baugebietsregeln, Informationen und Verantwortliche
 - Bitte baue der Landschaft angepasst
