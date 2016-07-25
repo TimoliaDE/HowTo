@@ -32,6 +32,9 @@ Die Partikelmarkierung grenzt den Baubereich ein und hilft dir dabei, den Würfe
 der seinen Würfel am schnellsten vollendet hat. Tipp: Die Partikeleinstellungen sollten auf "Alle" gesetzt sein.
 
 ### Electricity
+Ziel dieses Spiel ist es, der Elektrizität zu entkommen. Sie fließt durch das Gitter und ist durch eine Glasscheibe gekennzeichnet.
+
+### Fast-Bridging
 Ziel dieses Spiel ist es, in einer zufällig generierten Zeit den weitesten Weg zu bauen. Wenn du hinabspringst hast du für eine kurze Zeit den Blindness-Effekt und kannst
 keine Blöcke aufsammeln.
 

@@ -37,7 +37,7 @@ maximal zwei Entbannungsanrtäge schreiben, außer ein weiterer Antrag wurde exp
 
 ## §4 - Sanktionen im Forum
 Sollte ein Nutzer gegen die Regeln verstoßen wird dieser verwarnt und bekommt eine bestimmte Anzahl an Punkten auf sein "Konto" geschrieben. Die Punkte verjähren nach 6 Monaten. 
-Überschreitet ein Spieler eine Anzahl an Punkten wird er vom Netzwerk ausgeschlossen:
+Überschreitet ein Spieler eine Anzahl an Punkten wird er vom Forum ausgeschlossen:
 
 - <u>5 Punkte</u>: ein Tag
 - <u>10 Punkte</u>: eine Woche

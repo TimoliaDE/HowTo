@@ -5,7 +5,7 @@ In JumpWorld können verschiedenste Jump and Runs gespielt, aber auch selbst erb
 Jump and Run des Tages gekürt, dies ist der bestbewertetste Parcour des vorherigen Tages.
 
 ## Und so gehts
-- Mit der Rakete in deinem Inventar könen Jump and Runs gesucht werden.
+- Mit der Rakete in deinem Inventar können Jump and Runs gesucht werden.
 - Solltest du ein bestimmtes Jump and Run spielen wollen nutze den Befehl `/enter <ID>`.
 - Mit `/duel invite <Spieler>` oder mit einem Linksklick mit dem Schwert forderst du einen Spieler zu einem Duell heraus.
 - Das Jump and Run des Tages erreichst du über das Portal in der JumpWorld-Lobby.

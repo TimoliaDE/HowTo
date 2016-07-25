@@ -49,7 +49,7 @@ Timolia besitzt ein recht komplexes und einzigartiges Kicksystem, um Premium-, a
 Jeder Spieler erhält beim Joinen des Netzwerkes eine individuelle "Kick-Value", basierend auf dem Ingame-Rang. Normale User haben eine Kick-Value von 100,
 Pros haben eine KV von 300, Experts eine von 400 und YouTuber besitzen eine Kick-Value von 500. Wenn z.B. ein Pro einen vollen Server betritt wird ein zufälliger
 Spieler mit der niedrigsten KV wieder in eine der Games-Lobbies geschickt. Seine Kick-Value erhöht sich dabei um 1. Beim nächsten Versuch ist es also wahrscheinlicher, dass er nicht
-gekickt wird, da die anderen Spieler nun eine niedrigere Kick-Value haben. Sobald ein SPiel startet wird jedem Spieler wieder seine Standard-Kick-Value zugewiesen.
+gekickt wird, da die anderen Spieler nun eine niedrigere Kick-Value haben. Sobald ein Spiel startet wird jedem Spieler wieder seine Standard-Kick-Value zugewiesen.
 
 ### Wo kann ich mich entschuldigen?
 Wenn du gebannt wurdest kannst du mit  einem Entbannungsantrag eine maximale Bannverkürzung von 1/3 deiner Bannzeit bekommen, sofern

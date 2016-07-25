@@ -56,7 +56,7 @@ Monat sein Icon besitzt, wenn der Channel bis dahin <strong>ausläuft</strong>. 
 ### Channel-König
 - Kann <strong>aus Channel kicken</strong>
 - Kann Talk Power vergeben
-- Kann Channel-König und Channel-Knecht vergeben
+- Kann Channel-Ritter und Channel-Knecht vergeben
 
 ### Channel-Ritter
 - Besitzt Talk Power
