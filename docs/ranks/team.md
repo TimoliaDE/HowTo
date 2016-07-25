@@ -104,6 +104,10 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 - <u>Rang (ingame):</u> Moderator Games
 - <u>Aufgabenbereich(e):</u> Alles
 
+###<strong><span style="color:#CF0101">ThomasSpielt</span></strong>
+- <u>Rang (ingame):</u> Moderator Games;TeamSpeak
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), TeamSpeak (NV), Forum (HV), Map-Einsendungen (HV), Timolia Anleitung (HV)
+
 ###<strong><span style="color:#CF0101">Toebi</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
@@ -208,10 +212,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
-### <strong><span style="color:#E4D100">Lascona</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
-
 ###<strong><span style="color:#E4D100">L0L0</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), Spieler melden Forum (NV)
@@ -260,6 +260,10 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
+### <strong><span style="color:#E4D100">St3giLiebtTim</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+
 ###<strong><span style="color:#E4D100">TheBrownShape</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), TeamSpeak (NV)
@@ -267,10 +271,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ###<strong><span style="color:#E4D100">Thoasty</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
-
-###<strong><span style="color:#E4D100">ThomasSpielt</span></strong>
-- <u>Rang (ingame):</u> Supporter Games;TeamSpeak
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), TeamSpeak (NV), Forum (HV), Map-Einsendungen (HV), Timolia Anleitung (HV)
 
 ###<strong><span style="color:#E4D100">Tiem</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -312,6 +312,18 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entwerfen stetig neue Bauten.
 
+### <strong><span style="color:#00646F">_CrystalSky_</span></strong>
+- <u>Rang (ingame):</u> Builder Games
+- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+
+### <strong><span style="color:#00646F">0sch</span></strong>
+- <u>Rang (ingame):</u> Builder Games
+- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+
+### <strong><span style="color:#00646F">12Build</span></strong>
+- <u>Rang (ingame):</u> Builder Games
+- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+
 ### <strong><span style="color:#00646F">Aerosize</span></strong>
 Rang (ingame): Builder Games
 Aufgabenbereich(e): Games-Maps (NV)
@@ -352,6 +364,10 @@ Aufgabenbereich(e): Games-Maps (NV)
 - <u>Rang (ingame):</u> Builder Games
 - <u>Aufgabenbereich(e):</u> Games-Maps (NV)
 
+### <strong><span style="color:#00646F">Memoryos</span></strong>
+- <u>Rang (ingame):</u> Builder Games
+- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+
 ###<strong><span style="color:#00646F">NikiPlays</span></strong>
 - <u>Rang (ingame):</u> Builder Games
 - <u>Aufgabenbereich(e):</u> Games-Maps (NV)
@@ -371,6 +387,14 @@ Aufgabenbereich(e): Games-Maps (NV)
 ###<strong><span style="color:#00646F">Vectrail</span></strong>
 - <u>Rang (ingame):</u> Builder Games
 - <u>Aufgabenbereich(e):</u> Games-Maps (HV), Games-Builder (HV), Bauevent (HV), Bautresor (HV), Gameshub (HV)
+
+### <strong><span style="color:#00646F">WildeMaus</span></strong>
+- <u>Rang (ingame):</u> Builder Games
+- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+
+### <strong><span style="color:#00646F">XoroMC</span></strong>
+- <u>Rang (ingame):</u> Builder Games
+- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
 
 # 2 - CityBuild-Team
 
