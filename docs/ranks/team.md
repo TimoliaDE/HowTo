@@ -104,6 +104,10 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 - <u>Rang (ingame):</u> Moderator Games
 - <u>Aufgabenbereich(e):</u> Alles
 
+###<strong><span style="color:#CF0101">ThomasSpielt</span></strong>
+- <u>Rang (ingame):</u> Moderator Games;TeamSpeak
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), TeamSpeak (NV), Forum (HV), Map-Einsendungen (HV), Timolia Anleitung (HV)
+
 ###<strong><span style="color:#CF0101">Toebi</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
@@ -208,10 +212,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
-### <strong><span style="color:#E4D100">Lascona</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
-
 ###<strong><span style="color:#E4D100">L0L0</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), Spieler melden Forum (NV)
@@ -260,6 +260,10 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
+### <strong><span style="color:#E4D100">St3giLiebtTim</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+
 ###<strong><span style="color:#E4D100">TheBrownShape</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), TeamSpeak (NV)
@@ -267,10 +271,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ###<strong><span style="color:#E4D100">Thoasty</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
-
-###<strong><span style="color:#E4D100">ThomasSpielt</span></strong>
-- <u>Rang (ingame):</u> Supporter Games;TeamSpeak
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), TeamSpeak (NV), Forum (HV), Map-Einsendungen (HV), Timolia Anleitung (HV)
 
 ###<strong><span style="color:#E4D100">Tiem</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -312,6 +312,26 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entwerfen stetig neue Bauten.
 
+### <strong><span style="color:#00646F">_CrystalSky_</span></strong>
+- <u>Rang (ingame):</u> Builder Games
+- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+
+### <strong><span style="color:#00646F">0sch</span></strong>
+- <u>Rang (ingame):</u> Builder Games
+- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+
+### <strong><span style="color:#00646F">12Build</span></strong>
+- <u>Rang (ingame):</u> Builder Games
+- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+
+### <strong><span style="color:#00646F">Aerosize</span></strong>
+Rang (ingame): Builder Games
+Aufgabenbereich(e): Games-Maps (NV)
+
+### <strong><span style="color:#00646F">Apfelrosine</span></strong>
+Rang (ingame): Builder Games
+Aufgabenbereich(e): Games-Maps (NV)
+
 ###<strong><span style="color:#00646F">Denge</span></strong>
 - <u>Rang (ingame):</u> Builder Games
 - <u>Aufgabenbereich(e):</u> Games-Maps (NV)
@@ -328,11 +348,23 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder Games
 - <u>Aufgabenbereich(e):</u> Games-Maps (NV)
 
+### <strong><span style="color:#00646F">Jukplays</span></strong>
+- <u>Rang (ingame):</u> Builder Games
+- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+
+### <strong><span style="color:#00646F">magic_knoba</span></strong>
+- <u>:Rang (ingame):</u> Builder Games
+- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+
 ###<strong><span style="color:#00646F">Manta</span></strong>
 - <u>Rang (ingame):</u> Builder Games
 - <u>Aufgabenbereich(e):</u> Games-Maps (NV)
 
 ###<strong><span style="color:#00646F">MC_Meeh</span></strong>
+- <u>Rang (ingame):</u> Builder Games
+- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+
+### <strong><span style="color:#00646F">Memoryos</span></strong>
 - <u>Rang (ingame):</u> Builder Games
 - <u>Aufgabenbereich(e):</u> Games-Maps (NV)
 
@@ -355,6 +387,14 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ###<strong><span style="color:#00646F">Vectrail</span></strong>
 - <u>Rang (ingame):</u> Builder Games
 - <u>Aufgabenbereich(e):</u> Games-Maps (HV), Games-Builder (HV), Bauevent (HV), Bautresor (HV), Gameshub (HV)
+
+### <strong><span style="color:#00646F">WildeMaus</span></strong>
+- <u>Rang (ingame):</u> Builder Games
+- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+
+### <strong><span style="color:#00646F">XoroMC</span></strong>
+- <u>Rang (ingame):</u> Builder Games
+- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
 
 # 2 - CityBuild-Team
 
@@ -488,10 +528,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder CityBuild
 - <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV), Upperhills (NV)
 
-###<strong><span style="color:#00646F">ChaosLissi</span></strong>
-- <u>Rang (ingame):</u> Builder CityBuild
-- <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV)
-
 ###<strong><span style="color:#00646F">LaShadow</span></strong>
 - <u>Rang (ingame):</u> Builder CityBuild
 - <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV), Ice Spikes (HV)
@@ -563,4 +599,16 @@ Hier werden die Aus- und Eintritte, bzw. Befoerderungen und Degradierungen im Te
 |Elegeta | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 04.06.16 |
 |Flaxify | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 04.06.16 |
 |TheNero | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation mehr | 24.06.16 |
-|MarkuZ_ | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation mehr | 30.06.16 | 
+|MarkuZ_ | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation mehr | 30.06.16 |
+|ChaosLissi | <span style="color:#00646F">Builder</span> |<span style="color:#F99500">Pro</span> | Keine Lust mehr | 16.07.16 |
+|Aerosize | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 17.07.16 |
+|Apfelrosine | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 17.07.16 |
+|Jukplays | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 17.07.16 |
+|magic_knoba | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 17.07.16 |
+|12Build | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 24.07.16 |
+|_CrystalSky_ | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 24.07.16 |
+|Memoryos | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 24.07.16 |
+|XoroMC | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 24.07.16 |
+|WildeMaus | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 24.07.16 |
+|0sch | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 24.07.16 |
+|ThomasSpielt | <span style="color:#E4D100">Supporter</span> | <span style="color:#CF0101">Moderator</span> | Gute Supporterleistung | 24.07.16 |

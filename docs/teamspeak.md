@@ -26,7 +26,7 @@ Dort gibt es nicht Hilfechannel zum schnellen Support, auch öffentliche Zonen u
 Auf unserem Server bieten wir zeitlich begrenzte Channel zum Mieten an. Wie? Das erfährst du hier:
 
 ## Wie erhalte ich einen Channel?
-Einen Channel erhält man, in dem man sich im TeamSpeak an ein Teammitglied wendet. Für private Zonen sind Moderatoren oder Teammitglieder mit dem TeamSpeak-Icon verantwortlich. Ebenso kann 
+Einen Channel erhält man, in dem man sich im TeamSpeak an ein Teammitglied wendet. Für private Zonen sind Teammitglieder mit dem TeamSpeak-Icon verantwortlich. Ebenso kann 
 ein privater Channel mithilfe eines Tickets auf dem CityBuild angefordert werden.
 
 ### Kosten eines Channels
@@ -56,7 +56,7 @@ Monat sein Icon besitzt, wenn der Channel bis dahin <strong>ausläuft</strong>. 
 ### Channel-König
 - Kann <strong>aus Channel kicken</strong>
 - Kann Talk Power vergeben
-- Kann Channel-König und Channel-Knecht vergeben
+- Kann Channel-Ritter und Channel-Knecht vergeben
 
 ### Channel-Ritter
 - Besitzt Talk Power
