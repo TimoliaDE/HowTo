@@ -53,11 +53,11 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Aufgabenbereich(e):</u> TeamSpeak-Bot (NV)
 
 ### <strong><span style="color:#007812">Shustin</span></strong>
-- <u>Rang (ingame):</u> Expert
+- <u>Rang (ingame):</u> Developer
 - <u>Aufgabenbereich(e):</u> Timolia-Plugins (NV)
 
 ### <strong><span style="color:#007812">svdragster</span></strong>
-- <u>Rang (ingame):</u> Pro
+- <u>Rang (ingame):</u> Developer
 - <u>Aufgabenbereich(e):</u> Anti-Cheat (HV)
 
 ### <strong><span style="color:#007812">TheBrownShape</span></strong>
@@ -132,13 +132,13 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
-###<strong><span style="color:#E4D100">Caelis</span></strong>
-- <u>Rang (ingame):</u> Supporter Games;CityBuild;TeamSpeak
-- <u>Aufgabenbereich(e):</u> JumpWorld Bilder (HV), Usern helfen (NV), Bautresor (NV), Bug melden Forum (NV), TeamSpeak (NV)
-
 ###<strong><span style="color:#E4D100">byShadow</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), Entschuldigungen (NV), TeamSpeak (NV)
+
+###<strong><span style="color:#E4D100">Caelis</span></strong>
+- <u>Rang (ingame):</u> Supporter Games;CityBuild;TeamSpeak
+- <u>Aufgabenbereich(e):</u> JumpWorld Bilder (HV), Usern helfen (NV), Bautresor (NV), Bug melden Forum (NV), TeamSpeak (NV)
 
 ###<strong><span style="color:#E4D100">Calavero</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
