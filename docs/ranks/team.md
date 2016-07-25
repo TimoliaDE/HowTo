@@ -581,3 +581,10 @@ Hier werden die Aus- und Eintritte, bzw. Befoerderungen und Degradierungen im Te
 |Apfelrosine | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 17.07.16 |
 |Jukplays | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 17.07.16 |
 |magic_knoba | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 17.07.16 |
+|12Build | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 24.07.16 |
+|_CrystalSky_ | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 24.07.16 |
+|Memoryos | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 24.07.16 |
+|XoroMC | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 24.07.16 |
+|WildeMaus | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 24.07.16 |
+|0sch | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 24.07.16 |
+|ThomasSpielt | <span style="color:#E4D100">Supporter</span> | <span style="color:#CF0101">Moderator</span> | Gute Supporterleistung | 24.07.16 |
