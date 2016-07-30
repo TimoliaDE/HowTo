@@ -10,7 +10,7 @@ Bitte beachtet, dass ausgefahrene Pistons verschwinden können. Türen und Bette
 
 ## 2 - Livemap Icons
 
-Für eure eigenen Grundstücke könnt ihr Icons erstellen lassen, die auf der Livemap erscheinen. Bitte beachtet, dass manche Symbole vergeben sind (beispielsweise <i>world</i> für den Spawn).
+Für eure eigenen Grundstücke könnt ihr Icons erstellen lassen, die auf der Livemap erscheinen. Bitte beachtet, dass manche Symbole vergeben sind (zum Beispiel: <i>world</i> für den Spawn).
 
 <strong>Kosten: Aktuell nicht erhältlich</strong>
 
