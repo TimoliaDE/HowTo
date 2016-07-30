@@ -6,7 +6,7 @@
 Equipment dir zur Verfügung steht, bedenke aber: Die Items können nur einmalig verwendet werden!
 
 ## Und so gehts
-- Bestimme mit `/vote <Map>` für die Arena deiner Wahl.
+- Stimme mit `/vote <Map>` für die Arena deiner Wahl.
 - Nach dem Ende der Voting-Phase werden alle Spieler in die Arena teleportiert.
 - Dir stehen mehrere Kisten mit Items zur Verfügung, diese kannst du jedoch nur einmalig verwenden.
 - Drücke auf den Knopf an der Redstonelampe, um das Signal für den Beginn des Kampfes zu geben.
