@@ -596,3 +596,8 @@ Hier werden die Aus- und Eintritte, bzw. Befoerderungen und Degradierungen im Te
 |WildeMaus | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 24.07.16 |
 |0sch | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 24.07.16 |
 |ThomasSpielt | <span style="color:#E4D100">Supporter</span> | <span style="color:#CF0101">Moderator</span> | Gute Supporterleistung | 24.07.16 |
+|_Geizhals_ | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 31.07.16 |
+|BauEule | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 31.07.16 |
+|MineNRW | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 31.07.16 |
+|TacticalDOC | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 31.07.16 |
+|Zurrex | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 31.07.16 |
