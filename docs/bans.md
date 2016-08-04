@@ -23,5 +23,5 @@ Registrieren kannst du dich ingame mit dem Befehl `/register <EMail>`, im Forum 
 ###Entschuldigungen
 Ab einer Bannzeit von zehn Tagen kannst du mit einer Entschuldigung deine Bannzeit um bis zu 1/3 verkürzen, bei einem permanenten Bann wird deine 
 Bannzeit auf 30 Tage hinabgesetzt. Eine Entschuldigung kannst du im Forum im Themenbereich "Gebannt" schreiben. Solltest du keinen Account für unser
-Forum haben kannst du im Hilfechannel deinen Text einem Teammitglied senden, welches deine Entschuldigung stellvertretend für dich im Forum postet.
-Achtung! Solltest du zwei Mal wegen Hacking gebannt worden sein besteht für dich keine Chance auf eine Entbannung.
+Forum haben, kannst du im Hilfechannel deinen Text einem Teammitglied senden, welches deine Entschuldigung stellvertretend für dich im Forum postet.
+Achtung! Solltest du zwei Mal wegen Hacking gebannt worden sein, besteht für dich keine Chance auf eine Entbannung.
