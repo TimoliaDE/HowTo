@@ -123,7 +123,7 @@ hier kannst du mit anderen Usern handeln. Du erreichst den Handelschat  mit /ch 
 Wieviel Geld du momentan besitzt siehst du mit /money bzw. im Infoboard rechts an der Seite oder im Tab.
 
 ### Was sind Achievements?
-Achievements kann man während des Spielens auf dem Citybuild abschließen. Eine Übersicht über alle Achievements findest du mit dem Befehl `/achievements` heraus.
+Achievements kann man während des Spielens auf dem Citybuild abschließen. Eine Übersicht über alle Achievements findest du unter dem Befehl `/achievements`.
 
 ### Wie gelange ich in die Abbauwelt?
 Du erreichst die Abbauwelt über den Citybuildhub, du musst `/city` in den Chat eingeben und dann über den Kompass den richtigen Server auswählen.
