@@ -39,8 +39,8 @@ Dazu zählt auch der reine Versuch.
 Anstößige, beleidigende, rassistische oder nationalsozialistische Skins und Usernamen sind verboten. Dazu zählen zum Beispiel Nacktskins, Hitlerskins und auch Capes mit entsprechenden Symbolen.
 
 ## §5 – Vortäuschen von Hacks & gefälschte Reports
-Die bewusste Irreführung von Teammitgliedern ist verboten.Sanktionen die daraus entstehen, werden nicht wieder aufgehoben.
-Ebenso ist es verboten Spielern durch gefälschte Reports einen Regelverstoß anzuhängen, den diese nicht begangen haben. Außerdem ist jegliche Form von Ausnutzung des Report Systems verboten.
+Die bewusste Irreführung von Teammitgliedern ist verboten. Sanktionen die daraus entstehen, werden nicht wieder aufgehoben.
+Ebenso ist es verboten, Spielern durch gefälschte Reports einen Regelverstoß anzuhängen, den diese nicht begangen haben. Außerdem ist jegliche Form von Ausnutzung des Report Systems verboten.
 
 ## §6 – 1v1-Kits
 - <u>Crash-Kits</u>: Als Crash-Kits werden 1v1-Kits bezeichnet, welche den Minecraft-Client eines Spielers “einfrieren” lassen, zum Absturz bringen oder verhindern, dass Spieler auf dem Server spielen können. 
@@ -64,11 +64,11 @@ Das unnötige Herauszögern des Spiels ist nicht erwünscht. Dazu zählen expliz
 - <u>Teaming</u>: Im Spielmodus InTime sind Teams von jeglicher Größe verboten.
 - <u>Zeit klauen lassen</u>: Zeit klauen lassen definiert sich dadurch, dass man einen anderen Spieler absichtlich die Zeit von einem selbst mit der Uhr klauen lässt, damit dieser mehr Zeit bekommt.
 Sollte dies bei Spielern festgestellt werden, wird sowohl der Spieler gekickt und vermerkt, welcher sich die Zeit absichtlich hat klauen lassen, als auch der Spieler, welcher die Zeit geklaut hat. 
-Bei wiederholtem Vorkommen wird es auch zu einem Bann kommen.
+Bei wiederholtem Vorkommen kann es auch hier zu einem Bann kommen.
 
 ## §11 – Entbannung, Bannverkürzung und Bannumgehung
 - <u>Permanente Banns</u>: Grundsätzlich sind alle Banns temporär. Sollte man aber eine Bannzeit von insgesamt 30 Tagen überschreiten, wird ein Spieler automatisch permanent gebannt.
-- <u>Entbannung</u>: Ist ein Spieler der Meinung ein Bann sei nicht gerechtfertigt, so kann er jederzeit im Forum unter der Kategorie “Gebannt” oder im TeamSpeak den Beweis fordern. Wenn man permanent gebannt ist,
+- <u>Entbannung</u>: Ist ein Spieler der Meinung, ein Bann sei nicht gerechtfertigt, so kann er jederzeit im Forum unter der Kategorie “Gebannt” oder im TeamSpeak den Beweis fordern. Wenn man permanent gebannt ist,
  kann man im Forum einen Antrag auf eine Entbannung stellen. Hierbei sollte man sich besonders viel Mühe geben, da es sehr schwer ist nach einem permanenten Bann wieder entbannt zu werden. 
  Wurde man allerdings zwei mal aufgrund von Hacks gebannt, so besteht für einen Spieler keinerlei Chance mehr entbannt zu werden.
 - <u>Bannverkürzung</u>:Ab einem Zeitraum von mindestens 10 Tagen hat jeder User das Recht einen Antrag auf Bannverkürzung im Forum stellen. Solltest du keinen Account im Forum haben,

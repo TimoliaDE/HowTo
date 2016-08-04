@@ -14,9 +14,10 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/top` | Zeigt dir die Top 10 Spieler in einem Spielmodus an |
 | `/vote <Zahl>` | Votet für eine Map in einem Spielmodus |
 | `/stats <Spieler>` | Zeigt dir die Stats eines Spielers an |
-| `/stats <Spieler> <Spieler>...` | Ermöglicht dir die Stats von mehreren Spielern zu vergleichen |
+| `/near` | Zeigt dir die Spieler, die sich direkt über und unter dir in der Punktewertung eines Modus befinden |
+| `/stats <Spieler> <Spieler>...` | Ermöglicht es dir, die Stats von mehreren Spielern zu vergleichen |
 | `/spawn` | Teleportiert dich zurück zum Spawn vom Hub |
-| `/register <EMail>` | Registrierte dich für die Website |
+| `/register <EMail>` | Registriert dich für die Website |
 | `/lang <Sprache>` | Ändere deine Sprache |
 <span style="color:#4C0B5F">YouTuber</span> only:
 | `/nick` | Verwende das Nick-Tool (auch für <span style="color:#F99500">Pro+</span>) |
