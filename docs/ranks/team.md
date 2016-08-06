@@ -116,6 +116,10 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind die ersten, an die ihr euch wenden könnt.
 
+### <strong><span style="color:#E4D100">_Rudi_</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+
 ###<strong><span style="color:#E4D100">_Shinox</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
@@ -127,6 +131,10 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ###<strong><span style="color:#E4D100">blackINK_</span></strong>
 - <u>Rang (ingame):</u> Supporter Games;TeamSpeak
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), TeamSpeak (NV)
+
+### <strong><span style="color:#E4D100">BuffmonsterOne</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ###<strong><span style="color:#E4D100">Bukkit_PVP</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -204,10 +212,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), Spieler melden Forum (NV)
 
-###<strong><span style="color:#E4D100">LeePvP</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
-
 ###<strong><span style="color:#E4D100">litsche</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
@@ -217,10 +221,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ### <strong><span style="color:#E4D100">Loris</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
-
-###<strong><span style="color:#E4D100">Luzii</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
@@ -259,6 +259,10 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ###<strong><span style="color:#E4D100">Tiem</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), Entschuldigungen (HV)
+
+### <strong><span style="color:#E4D100">TimLiebtSt3gi</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ### <strong><span style="color:#E4D100">TobCrafterDE</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -601,3 +605,8 @@ Hier werden die Aus- und Eintritte, bzw. Befoerderungen und Degradierungen im Te
 |MineNRW | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 31.07.16 |
 |TacticalDOC | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 31.07.16 |
 |Zurrex | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 31.07.16 |
+|BuffmonsterOne | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Positiv aufgefallen | 05.08.16 |
+|TimLiebtSt3gi | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 05.08.16 |
+|_Rudi_ | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 05.08.16 |
+|LeePvP | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Keine Lust mehr | 05.08.16 |
+|Luzii | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Keine Lust mehr | 05.08.16 |
