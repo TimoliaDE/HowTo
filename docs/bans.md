@@ -20,7 +20,8 @@ Minecraft-Fensters im Forum reporten.
 
 ### Spieler im Forum melden
 Ist der Hacker offline gegangen, bevor ein Teammitglied ihn beobachten konnte kannst du den Spieler mit einem Videobeweis in unserem Forum melden.
-Registrieren kannst du dich ingame mit dem Befehl `/register <EMail>`, im Forum "Spieler melden" kannst du den Regelverstoß beim Team melden.
+Registrieren kannst du dich ingame mit dem Befehl `/register <EMail>`, im Forum "Spieler melden" kannst du den Regelverstoß beim Team melden. Ein Beweis ist Pflicht. Screenshots gelten 
+nur als Beweise bei MSG-Nachrichten, alle anderen Regelverstöße müssen mit einem Video bewiesen werden. Natürlich kann ingame auch `/livereport` und `/chatreport` verwendet werden. 
 
 ###Entschuldigungen
 Ab einer Bannzeit von zehn Tagen kannst du mit einer Entschuldigung deine Bannzeit um bis zu 1/3 verkürzen, bei einem permanenten Bann wird deine 
