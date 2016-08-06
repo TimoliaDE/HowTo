@@ -2,13 +2,13 @@ Mit der TeamSpeak-Server-IP ts.timolia.de gelangst du zu unserem TeamSpeak-Serve
 Dort gibt es nicht Hilfechannel zum schnellen Support, auch öffentliche Zonen und private Channel erwarten dich. 
 
 #1 - Verifizierung im TeamSpeak
-- Wenn du dich das erste Mal auf den TeamSpeak Server verbindest wirst du von unserem Bot angeschrieben.
+- Wenn du dich das erste Mal auf den TeamSpeak Server verbindest, wirst du von unserem Bot angeschrieben.
 - Um dich zu verifizieren musst du sowohl auf dem TeamSpeak Server, als auch auf dem Minecraft Server online sein.
-- Wenn du dem Bot deinen Ingame-Namen geschrieben hast erhältst du ingame einen einmaligen Code.
+- Wenn du dem Bot deinen Ingame-Namen geschrieben hast, erhältst du ingame einen einmaligen Code.
 - Sende den Code an den TeamSpeak-Bot, dann wirst du verifiziert und erhältst im TeamSpeak deinen Rang.
 
 # 2 - Hilfechannel
-- Wenn du den Hilfechannel betrittst wirst du von einem Bot nach deinem Anliegen gefragt.
+- Wenn du den Hilfechannel betrittst, wirst du von einem Bot nach deinem Anliegen gefragt.
 - Je nach Betreff wird ein spezieller Channel für dich erstellt, in den du gemoved wirst.
 - Ein Teammitglied, das für dein Anliegen zuständig ist, wird so schnell wie möglich bei dir sein und dir helfen.
 
@@ -43,7 +43,7 @@ Monat sein Icon besitzt, wenn der Channel bis dahin <strong>ausläuft</strong>. 
 - Ein Channel hat eine <strong>maximale Laufzeit von 6 Monaten</strong>
 - Jeder User darf maximal <strong>einen Channel</strong> besitzen
 - Der Channelname muss dem Namen des Channelbesitzers entsprechen
-- Es ist möglich sich den Channel mit Freunden zu teilen
+- Es ist möglich, sich den Channel und die damit verbundenen Kosten mit Freunden zu teilen
 
 ## Channelgruppen
 
@@ -56,7 +56,7 @@ Monat sein Icon besitzt, wenn der Channel bis dahin <strong>ausläuft</strong>. 
 ### Channel-König
 - Kann <strong>aus Channel kicken</strong>
 - Kann Talk Power vergeben
-- Kann Channel-König und Channel-Knecht vergeben
+- Kann Channel-Ritter und Channel-Knecht vergeben
 
 ### Channel-Ritter
 - Besitzt Talk Power

@@ -1,11 +1,11 @@
-Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbereiche.
+Hier findet ihr eine Liste aller Teammitglieder von Timolia sowie deren Aufgabenbereiche.
 <u>HV</u> bedeutet "<strong>H</strong>aupt<strong>V</strong>erantwortlich", <u>NV</u> bedeutet "<strong>N</strong>eben<strong>V</strong>erantwortlich"
 
 # 1 -  Games-Team
 
 ## Administratoren
 
-Administratoren kümmern sich um die Technik von Timolia. Angefangen bei den Plugins, über CraftBukkit bishin zum Root-Server und dem BungeeCord-Netzwerk. 
+Administratoren kümmern sich um die Technik von Timolia. Angefangen bei den Plugins über CraftBukkit bishin zum Root-Server und dem BungeeCord-Netzwerk.
 Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 
 ###<strong>Edgxxar</span></strong>
