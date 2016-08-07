@@ -605,7 +605,7 @@ Hier werden die Aus- und Eintritte, bzw. Befoerderungen und Degradierungen im Te
 |MineNRW | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 31.07.16 |
 |TacticalDOC | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 31.07.16 |
 |Zurrex | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 31.07.16 |
-|BuffmonsterOne | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Positiv aufgefallen | 05.08.16 |
+|BuffmonsterOne | <span style="color:#848484">Spieler</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 05.08.16 |
 |TimLiebtSt3gi | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 05.08.16 |
 |_Rudi_ | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 05.08.16 |
 |LeePvP | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Keine Lust mehr | 05.08.16 |
