@@ -44,8 +44,7 @@ Nicht erlaubte sind Befehle sind zB. `/craft`, `/enderchest`… und alle, welche
 (§7.5) ist strengstens Verboten und wird mit einem Bann bestraft.
 
 ## §9 - Rückerstattung bei technischen Fehlern
-        - Sollten durch technische Fehler (Serverabstürze, etc.) Timolions, Items oder Grundstücke zurückgesetzt werden oder verloren gehen,
-        sieht das übliche Verhalten des Teams vor, diese nicht zu erstatten.
+Sollten durch technische Fehler (Serverabstürze, etc.) Timolions, Items oder Grundstücke zurückgesetzt werden oder verloren gehen, sieht das übliche Verhalten des Teams vor, diese nicht zu erstatten.
 
 
 Es besteht kein Anspruch auf das Vorhandensein einer Schematic (=Backup) für deine Grundstücke.
