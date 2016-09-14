@@ -300,10 +300,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder Games
 - <u>Aufgabenbereich(e):</u> Games-Maps (NV)
 
-### <strong><span style="color:#00646F">12Build</span></strong>
-- <u>Rang (ingame):</u> Builder Games
-- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
-
 ### <strong><span style="color:#00646F">Aerosize</span></strong>
 - Rang (ingame): Builder Games
 - Aufgabenbereich(e): Games-Maps (NV)
@@ -611,3 +607,4 @@ Hier werden die Aus- und Eintritte, bzw. Befoerderungen und Degradierungen im Te
 |xnulix | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 28.08.16 |
 |TacticalDOC | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | Private Gründe | 31.08.16 |
 |0sch | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | Private Gründe | 31.08.16 |
+|12build | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | Private Gründe | 13.09.16 |
