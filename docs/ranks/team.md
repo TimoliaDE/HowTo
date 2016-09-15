@@ -104,7 +104,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 - <u>Rang (ingame):</u> Moderator Games
 - <u>Aufgabenbereich(e):</u> Alles
 
-###<strong><span style="color:#CF0101">ThomasSpielt</span></strong>
+###<strong><span style="color:#CF0101">Thomasch</span></strong>
 - <u>Rang (ingame):</u> Moderator Games;TeamSpeak
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), TeamSpeak (NV), Forum (HV), Map-Einsendungen (HV), Timolia Anleitung (HV)
 
@@ -184,6 +184,10 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games;TeamSpeak
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), Off Topic Forum (HV), TeamSpeak (NV)
 
+###<strong><span style="color:#E4D100">herrkannnix</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Entschuldigungen (HV)
+
 ###<strong><span style="color:#E4D100">HoleOne</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
@@ -228,7 +232,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
-###<strong><span style="color:#E4D100">Re4perz</span></strong>
+###<strong><span style="color:#E4D100">Re4persch</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
@@ -251,10 +255,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ###<strong><span style="color:#E4D100">TheBrownShape</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), TeamSpeak (NV)
-
-###<strong><span style="color:#E4D100">Tiem</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Entschuldigungen (HV)
 
 ### <strong><span style="color:#E4D100">TimLiebtSt3gi</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
