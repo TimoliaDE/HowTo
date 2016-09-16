@@ -125,8 +125,28 @@ Erforsche sie und entdecke alle tollen Sachen von Ägypten und finde alle Geheim
 | JoJoYoshy| Nebenverantwortlich |
 | Caprea| Nebenverantwortlich |
 
+## 6 - Atlantis
 
-## 6 - Flussufer
+![Screenshot](img/Atlantis.png)
+
+Unter dem Meer.. In den endlose Tiefen liegt ein mystisches, verborgenes Reich - Atlantis! Tauche hinein und erlebe fantastische Abenteuer zwischen Korallen, schwimme mit Fischen,
+bau dir ein kleines Reich inmitten der Ruinen von Atlantis.
+
+### Baugebietsregeln, Informationen und Verantwortliche
+- es gibt zwei Grundstücksgrößen
+- Bauhöhe beträgt stets 20 Blöcke
+- Grundstücke auf dem Vorsprung (Klippen) haben eine Bautiefe von 20 Blöcken, Grundstücke auf festem Untergrund gehen 30 Blöcke in die Tiefe
+- Der Baustil sollte der Umgebung angepasst werden
+- es sind 10 Entities erlaubt (keine Tiere)
+- pro User sind zwei Grundstücke erlaubt
+
+| Verantwortliche | Funktion |
+| ------ | -------- |
+| HoleOne | Hauptverantwortlich |
+| Saporital | Nebenverantwortlich |
+
+
+## 7 - Flussufer
 
 ![Screenshot](img/Flussufer.png)
 
@@ -146,7 +166,7 @@ Gebaut werden Landvillen, herrschaftliche Landsitze und Herrenhäuser mit Barock
 | Caprea | Hauptverantwortlich |
 
 
-## 7 - Ice Spikes
+## 8 - Ice Spikes
 
 ![Screenshot](img/IceSpikes.png)
 
@@ -166,7 +186,7 @@ Die Größe der Grundstücke sind unterschiedlich. Jeder Spieler darf nur 1 Grun
 | LaShadow | Hauptverantwortlich |
 
 
-## 8 - Japan
+## 9 - Japan
 
 ![Screenshot](img/Japan.png)
 
@@ -188,7 +208,7 @@ Oben auf den Bergen ließen sich die reicheren Leute nieder und haben prachtvoll
 | ------ | -------- |
 | Twilex | Hauptverantwortlich |
 
-## 9 - Karibik
+## 10 - Karibik
 
 ![Screenshot](img/Karibik.png)
 
@@ -216,7 +236,7 @@ Jeder User darf auch nur ein Boot besitzen. Es sind keine Farmen auf den Booten 
 | kd9b | Nebenverantwortlich |
 
 
-## 10 - Mammutwald
+## 11 - Mammutwald
 
 ![Screenshot](img/Mammutwald.png)
 
@@ -235,7 +255,7 @@ Es sind Baumhäuser zu bauen. Grundstücke kosten zwischen 76.000T und 121.000T 
 | saporital | Hauptverantwortlich |
 
 
-## 11 - Minedig
+## 12 - Minedig
 
 ![Screenshot](img/Minedig.png)
 
@@ -253,7 +273,7 @@ Man kauft die Grundstücke in kleinen Gebäuden auf den Inseln. Es sind 4 Hausti
 | saporital | Hauptverantwortlich |
 
 
-## 12 - Mittelalter
+## 13 - Mittelalter
 
 ![Screenshot](img/Mittelalter.png)
 
@@ -269,7 +289,7 @@ und jeder User darf maximal 3 Grundstücke haben. Man muss in mittelalterlichem 
 | ------ | -------- |
 | saporital | Hauptverantwortlich |
 
-## 13 - Skyland
+## 14 - Skyland
 
 ![Screenshot](img/Skyland.png)
 
@@ -291,7 +311,7 @@ Na, Lust bekommen? Dann komm auf den Server und beginn die Reise über den Zeppe
 | ------ | -------- |
 | Twilex | Hauptverantwortlich |
 
-## 14 - Sunset Valley/Tal der Sonne
+## 15 - Sunset Valley/Tal der Sonne
 
 ![Screenshot](img/SunsetValley.png)
 
@@ -316,7 +336,7 @@ Die Umgebung ist recht trocken und gleich über den Bergkamm hausen die Wilden i
 | JOlegna | Nebenverantwortlich |
 
 
-## 15 - Wellington
+## 16 - Wellington
 
 ![Screenshot](img/Wellington.png)
 
@@ -336,7 +356,7 @@ dir ein großes, aber günstiges Grundstück kaufen und dich dort niederlassen u
 | Twilex| Hauptverantwortlich |
 
 
-## 16 - Wunderland
+## 17 - Wunderland
 
 ![Screenshot](img/Wunderland.png)
 
