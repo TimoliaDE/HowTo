@@ -512,6 +512,10 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder CityBuild
 - <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV)
 
+###<strong><span style="color:#00646F">Todbringender</span></strong>
+- <u>Rang (ingame):</u> Builder CityBuild
+- <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV)
+
 ###<strong><span style="color:#00646F">Xibrox</span></strong>
 - <u>Rang (ingame):</u> Builder CityBuild
 - <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV)
