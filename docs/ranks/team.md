@@ -427,12 +427,16 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen Server auf unserem Netzwerk und dienen als Schnittstelle zwischen Supporter und Administratoren.
 
+###<strong><span style="color:#CF0101">byMongo</span></strong>
+- <u>Rang (ingame):</u> Moderator CityBuild
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+
 ###<strong><span style="color:#CF0101">Caprea</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), CityBuild-Twitter (NV), Summerfields (HV), Aegypten (NV), Weststadt (NV), Flussufer (HV), Sunset Valley (HV)
 
 ###<strong><span style="color:#CF0101">HoleOne</span></strong>
-- <u>Rang (ingame):</u> Moderator CityBuild;TeamSpeak
+- <u>Rang (ingame):</u> Moderator CityBuild
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), Events (NV), Atlantis (HV), Hafen (HV), Minedig (NV), Upperhills (NV), Weststadt (NV)
 
 ###<strong><span style="color:#CF0101">JoJoYoshy</span></strong>
@@ -492,11 +496,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entwerfen stetig neue Bauten.
 
-###<strong><span style="color:#00646F">Xibrox</span></strong>
-- <u>Rang (ingame):</u> Builder CityBuild
-- <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV)
-
-###<strong><span style="color:#00646F">Naathy</span></strong>
+###<strong><span style="color:#00646F">engiwuck</span></strong>
 - <u>Rang (ingame):</u> Builder CityBuild
 - <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV)
 
@@ -504,23 +504,15 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder CityBuild
 - <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV), Upperhills (NV)
 
-###<strong><span style="color:#00646F">ChaosLissi</span></strong>
-- <u>Rang (ingame):</u> Builder CityBuild
-- <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV)
-
 ###<strong><span style="color:#00646F">LaShadow</span></strong>
 - <u>Rang (ingame):</u> Builder CityBuild
 - <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV), Ice Spikes (HV)
-
-###<strong><span style="color:#00646F">nemizzis</span></strong>
-- <u>Rang (ingame):</u> Builder CityBuild
-- <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV)
 
 ###<strong><span style="color:#00646F">Malu8500</span></strong>
 - <u>Rang (ingame):</u> Builder CityBuild
 - <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV)
 
-###<strong><span style="color:#00646F">engiwuck</span></strong>
+###<strong><span style="color:#00646F">Xibrox</span></strong>
 - <u>Rang (ingame):</u> Builder CityBuild
 - <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV)
 
