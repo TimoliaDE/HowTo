@@ -2,27 +2,17 @@ Mit der TeamSpeak-Server-IP ts.timolia.de gelangst du zu unserem TeamSpeak-Serve
 Dort gibt es nicht Hilfechannel zum schnellen Support, auch öffentliche Zonen und private Channel erwarten dich. 
 
 #1 - Verifizierung im TeamSpeak
-- Wenn du dich das erste Mal auf den TeamSpeak Server verbindest, wirst du von unserem Bot angeschrieben.
-- Um dich zu verifizieren musst du sowohl auf dem TeamSpeak Server, als auch auf dem Minecraft Server online sein.
-- Wenn du dem Bot deinen Ingame-Namen geschrieben hast, erhältst du ingame einen einmaligen Code.
-- Sende den Code an den TeamSpeak-Bot, dann wirst du verifiziert und erhältst im TeamSpeak deinen Rang.
+- Wenn du dich das erste Mal auf den TeamSpeak Server verbindest, bist du standardmäßig ein normaler User.
+- Experts haben auf unserem TeamSpeak einen eigenen Rang, diese können von Teammitgliedern vergeben werden.
+- Euren Rang könnt ihr über den Hilfechannel anfordern.
 
-# 2 - Hilfechannel
-- Wenn du den Hilfechannel betrittst, wirst du von einem Bot nach deinem Anliegen gefragt.
-- Je nach Betreff wird ein spezieller Channel für dich erstellt, in den du gemoved wirst.
-- Ein Teammitglied, das für dein Anliegen zuständig ist, wird so schnell wie möglich bei dir sein und dir helfen.
-
-### Verhaltensregeln
+# 2 - Verhaltensregeln im Hilfechannel
 - Bitte sei nicht ungeduldig. Du musst mit einer Wartezeit von bis zu 10 Minuten rechnen.
 - Sei <strong>respektvoll</strong> und beleidige keine Teammitglieder. Außerdem bitten wir dich, keine laute Musik abzuspielen.
 - Schildere dein Problem <strong>ganz genau</strong>, damit dir schnell weitergeholfen werden kann.
 - Falls du dir Geschichten ausdenkst, welche gar nicht stimmen, oder Unfug betreibst, <strong>musst du mit einem Bann rechnen</strong>.
 
-# 3 -  Premium-Features
-- <span style="color:#00F9EC">Experts</span> und <span style="color:#F99500">Pros</span> besitzen einen eigenen Rang.
-- Pro-Channel können nur von Pros und Experts, Expert-Channel nur von Experts betreten werden.
-
-# 4 - Private Zonen
+# 3 - Private Zonen
 Auf unserem Server bieten wir zeitlich begrenzte Channel zum Mieten an. Wie? Das erfährst du hier:
 
 ## Wie erhalte ich einen Channel?
