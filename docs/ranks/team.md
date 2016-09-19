@@ -5,7 +5,7 @@ Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbe
 
 ## Administratoren
 
-Administratoren kümmern sich um die Technik von Timolia. Angefangen bei den Plugins, über CraftBukkit bishin zum Root-Server und dem BungeeCord-Netzwerk. 
+Administratoren kümmern sich um die Technik von Timolia. Angefangen bei den Plugins, über CraftBukkit bishin zum Root-Server und dem BungeeCord-Netzwerk.
 Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 
 ###<strong>Edgxxar</span></strong>
@@ -232,6 +232,10 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
+### <strong><span style="color:#E4D100">Nooahh</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+
 ###<strong><span style="color:#E4D100">Re4persch</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
@@ -284,10 +288,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
-### <strong><span style="color:#E4D100">xN0AH</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
-
 ###<strong><span style="color:#E4D100">Zortax</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
@@ -336,10 +336,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder Games
 - <u>Aufgabenbereich(e):</u> Games-Maps (NV)
 
-###<strong><span style="color:#00646F">MC_Meeh</span></strong>
-- <u>Rang (ingame):</u> Builder Games
-- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
-
 ### <strong><span style="color:#00646F">Memoryos</span></strong>
 - <u>Rang (ingame):</u> Builder Games
 - <u>Aufgabenbereich(e):</u> Games-Maps (NV)
@@ -349,10 +345,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Aufgabenbereich(e):</u> Games-Maps (NV)
 
 ###<strong><span style="color:#00646F">ProExecution</span></strong>
-- <u>Rang (ingame):</u> Builder Games
-- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
-
-###<strong><span style="color:#00646F">RayQu</span></strong>
 - <u>Rang (ingame):</u> Builder Games
 - <u>Aufgabenbereich(e):</u> Games-Maps (NV)
 
@@ -380,7 +372,7 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 ## Administratoren
 
-Administratoren kümmern sich um die Technik von Timolia. Angefangen bei den Plugins, über CraftBukkit bishin zum Root-Server und dem BungeeCord-Netzwerk. 
+Administratoren kümmern sich um die Technik von Timolia. Angefangen bei den Plugins, über CraftBukkit bishin zum Root-Server und dem BungeeCord-Netzwerk.
 Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 
 ###<strong>Docmac</strong>
@@ -431,16 +423,12 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen Server auf unserem Netzwerk und dienen als Schnittstelle zwischen Supporter und Administratoren.
 
-###<strong><span style="color:#CF0101">byMongo</span></strong>
-- <u>Rang (ingame):</u> Moderator CityBuild
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
-
 ###<strong><span style="color:#CF0101">Caprea</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), CityBuild-Twitter (NV), Summerfields (HV), Aegypten (NV), Weststadt (NV), Flussufer (HV), Sunset Valley (HV)
 
 ###<strong><span style="color:#CF0101">HoleOne</span></strong>
-- <u>Rang (ingame):</u> Moderator CityBuild
+- <u>Rang (ingame):</u> Moderator CityBuild;TeamSpeak
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), Events (NV), Atlantis (HV), Hafen (HV), Minedig (NV), Upperhills (NV), Weststadt (NV)
 
 ###<strong><span style="color:#CF0101">JoJoYoshy</span></strong>
@@ -500,7 +488,11 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entwerfen stetig neue Bauten.
 
-###<strong><span style="color:#00646F">engiwuck</span></strong>
+###<strong><span style="color:#00646F">Xibrox</span></strong>
+- <u>Rang (ingame):</u> Builder CityBuild
+- <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV)
+
+###<strong><span style="color:#00646F">Naathy</span></strong>
 - <u>Rang (ingame):</u> Builder CityBuild
 - <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV)
 
@@ -512,15 +504,15 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder CityBuild
 - <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV), Ice Spikes (HV)
 
+###<strong><span style="color:#00646F">nemizzis</span></strong>
+- <u>Rang (ingame):</u> Builder CityBuild
+- <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV)
+
 ###<strong><span style="color:#00646F">Malu8500</span></strong>
 - <u>Rang (ingame):</u> Builder CityBuild
 - <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV)
 
-###<strong><span style="color:#00646F">Todbringender</span></strong>
-- <u>Rang (ingame):</u> Builder CityBuild
-- <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV)
-
-###<strong><span style="color:#00646F">Xibrox</span></strong>
+###<strong><span style="color:#00646F">engiwuck</span></strong>
 - <u>Rang (ingame):</u> Builder CityBuild
 - <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV)
 
@@ -608,3 +600,5 @@ Hier werden die Aus- und Eintritte, bzw. Befoerderungen und Degradierungen im Te
 |TacticalDOC | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | Private Gründe | 31.08.16 |
 |0sch | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | Private Gründe | 31.08.16 |
 |12build | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | Private Gründe | 13.09.16 |
+|RayQu | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | Keine Zeit mehr | 15.09.16 |
+|MC_Meeh | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | Private Gründe| 18.09.16 |
