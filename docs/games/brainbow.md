@@ -26,3 +26,4 @@ Runde und kann den Kampf für sich entscheiden.
 - <span style="color:#F99500">Pros</span> besitzen zwei, <span style="color:#00F9EC">Experts</span> drei Stimmen im Voting-System.
 - <span style="color:#F99500">Pros</span>  und <span style="color:#00F9EC">Experts</span> erhalten die doppelte, bzw. die dreifache Punkteanzahl.
 - Premium-Spieler können in der Voting-Phase Spieler aus einem vollen Team kicken.
+- Werde mit `/togglerank` als normaler Spieler angezeigt

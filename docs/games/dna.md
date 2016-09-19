@@ -21,3 +21,4 @@ Grenze von 32 Blöcken erreicht.
 ## Premium-Features
 
 - <span style="color:#F99500">Pros</span> besitzen zwei, <span style="color:#00F9EC">Experts</span> drei Stimmen im Voting-System.
+- Werde mit `/togglerank` als normaler Spieler angezeigt

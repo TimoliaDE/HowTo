@@ -17,7 +17,8 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/near` | Zeigt dir die Spieler, die sich direkt über und unter dir in der Punktewertung eines Modus befinden |
 | `/stats <Spieler> <Spieler>...` | Ermöglicht es dir, die Stats von mehreren Spielern zu vergleichen |
 | `/spawn` | Teleportiert dich zurück zum Spawn vom Hub |
-| `/register <EMail>` | Registriert dich für die Website |
+| `/register <EMail>` | Registriert dich für die Webseite |
+| `/togglerank`, `/tr` | Werde in BrainBow, 4rena, Splun, DNA, InTime u. TSpiele als normaler Spieler angezeigt |
 | `/lang <Sprache>` | Ändere deine Sprache |
 <span style="color:#4C0B5F">YouTuber</span> only:
 | `/nick` | Verwende das Nick-Tool (auch für <span style="color:#F99500">Pro+</span>) |
