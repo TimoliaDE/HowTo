@@ -300,6 +300,10 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder Games
 - <u>Aufgabenbereich(e):</u> Games-Maps (NV)
 
+### <strong><span style="color:#00646F">_Geizhals_</span></strong>
+- <u>Rang (ingame):</u> Builder Games
+- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+
 ### <strong><span style="color:#00646F">Aerosize</span></strong>
 - Rang (ingame): Builder Games
 - Aufgabenbereich(e): Games-Maps (NV)
@@ -307,6 +311,10 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ### <strong><span style="color:#00646F">Apfelrosine</span></strong>
 - Rang (ingame): Builder Games
 - Aufgabenbereich(e): Games-Maps (NV)
+
+### <strong><span style="color:#00646F">BauEule</span></strong>
+- <u>Rang (ingame):</u> Builder Games
+- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
 
 ###<strong><span style="color:#00646F">Denge</span></strong>
 - <u>Rang (ingame):</u> Builder Games
@@ -365,6 +373,10 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Aufgabenbereich(e):</u> Games-Maps (NV)
 
 ### <strong><span style="color:#00646F">XoroMC</span></strong>
+- <u>Rang (ingame):</u> Builder Games
+- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+
+### <strong><span style="color:#00646F">Zurrex</span></strong>
 - <u>Rang (ingame):</u> Builder Games
 - <u>Aufgabenbereich(e):</u> Games-Maps (NV)
 
