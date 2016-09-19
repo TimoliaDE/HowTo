@@ -530,7 +530,7 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 # 3 - Team-Wanderungen
 
-Hier werden die Aus- und Eintritte, bzw. Befoerderungen und Degradierungen im Team aufgelistet.
+Hier werden die Aus- und Eintritte, bzw. Beförderungen und Degradierungen im Team aufgelistet.
 
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
 | ------ | ------ | ------ | ------ | ------ |
