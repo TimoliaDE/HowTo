@@ -27,3 +27,20 @@ erhälst du einen Bestätigungscode, welchen du auf Timolia.de eingeben musst.
 
 Sollten Fragen dazu auftreten, steht das Timolia-Team zur Verfügung.
 
+#2 - Forum
+Die Foren-Regeln siehst du, wenn du <a href="https://howto.timolia.de/rules/forum/">hier</a> klickst.
+
+##Nutzung des Forums
+###Erstellen von Threads
+Auf der Startseite des Forums siehst du verschiedene Foren. Bevor du einen Thread postest, überlege dir erst, in welches
+Forum dein Thema gehört. Solltest du einen Bug in 1v1 haben, gehört dieser nicht in das 1v1-Forum, sondern in das
+'Bug melden'-Forum. Wenn du dir klar bist, in welches Forum du posten möchtest, klickst du dieses an und gehst oben
+oder unten rechts auf "Neues Thema erstellt". Dorst kannst du dann schreiben.
+
+###Auf Threads antworten
+Wenn du deine Meinung abgeben möchtest, kannst du dies tun, indem du bei einem Thread ganz runter scrollst und in dem
+Textfeld deinen Text eingibst.
+
+###Konversationen führen
+Oben rechts im Forum (neben deinem Namen), sind zwei Symbole: zwei Sprechblasen und eine Glocke. Um eine Konversation
+(private Naricht) zu führen, gehst du auf die Sprechblasen und gehst auf "Unterhaltung" beginnen.
