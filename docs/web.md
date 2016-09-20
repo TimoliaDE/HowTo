@@ -43,4 +43,4 @@ Textfeld deinen Text eingibst.
 
 ###Konversationen führen
 Oben rechts im Forum (neben deinem Namen), sind zwei Symbole: zwei Sprechblasen und eine Glocke. Um eine Konversation
-(private Naricht) zu führen, gehst du auf die Sprechblasen und gehst auf "Unterhaltung" beginnen.
+(private Naricht) zu führen, gehst du auf die Sprechblasen und gehst auf "Unterhaltung beginnen".
