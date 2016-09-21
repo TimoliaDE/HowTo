@@ -41,7 +41,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Aufgabenbereich(e):</u> Ansprechpartner f. Development (HV), Timolia-Plugins (NV)
 
 ### <strong><span style="color:#007812">LastR_Raziel</span></strong>
-- <u>Rang (ingame):</u> Pro
+- <u>Rang (ingame):</u> Developer
 - <u>Aufgabenbereich(e):</u> Anti-Cheat (HV)
 
 ### <strong><span style="color:#007812">logito111</span></strong>
@@ -52,7 +52,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Rang (ingame):</u> Supporter CityBuild
 - <u>Aufgabenbereich(e):</u> TeamSpeak-Bot (NV)
 
-### <strong><span style="color:#007812">Shustin</span></strong>
+### <strong><span style="color:#007812">Shustinsch</span></strong>
 - <u>Rang (ingame):</u> Developer
 - <u>Aufgabenbereich(e):</u> Timolia-Plugins (NV)
 
@@ -74,23 +74,23 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">Dark_Gamer_98</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Spieler melden Forum (HV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ###<strong><span style="color:#CF0101">FabsiFTW</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Aufgabenbereich(e):</u> Twitter (HV), Facebook (NV), Bewerbungen (HV), Gameshub (NV), Ansprechpartner f. Games-Supporter (HV)
+- <u>Aufgabenbereich(e):</u> YouTuber-Rang (HV), Facebook (NV), Bewerbungen (HV), Gameshub (NV)
 
 ###<strong><span style="color:#CF0101">Ferdy</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Spieler melden Forum (HV), Social-Media (NV), Entschuldigungen (NV), Timolia Anleitung (HV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Social-Media (NV), Entbannungsanträge (HV)
 
 ###<strong><span style="color:#CF0101">Horsti98</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Gameshub (NV), Map-Einsendungen (HV), Ansprechpartner f. Games-Supporter (HV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Map-Einsendungen (HV)
 
 ###<strong><span style="color:#CF0101">KenaiHD</span></strong>
 - <u>Rang (ingame):</u> Moderator Games;TeamSpeak
-- <u>Aufgabenbereich(e):</u> TeamSpeak (HV), Entschuldigungen (HV), Feedback Forum (HV), Ansprechpartner f. Games-Supporter (HV)
+- <u>Aufgabenbereich(e):</u> TeamSpeak (HV), Feedback Forum (HV), Entbannungsanträge (HV)
 
 ###<strong><span style="color:#CF0101">lauratatuetatah</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
@@ -98,7 +98,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">Poxari</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Ansprechpartner f. Games-Supporter (NV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ###<strong><span style="color:#CF0101">Siimon</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
@@ -110,23 +110,23 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">Toebi</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Ansprechpartner f. Games-Supporter (HV)
 
 ## Supporter
 
 Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind die ersten, an die sich Spieler wenden können.
 
-### <strong><span style="color:#E4D100">_Rudi_</span></strong>
+### <strong><span style="color:#E4D100">_Rudi_</span></strongY
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Spieler melden Forum (NV), Off-Topic Forum (HV), Vorstellungen im Forum (HV)
 
 ###<strong><span style="color:#E4D100">_Shinox</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Entbannungsanträge (NV)
 
 ###<strong><span style="color:#E4D100">_TakeItEaZy_</span></strong>
 - <u>Rang (ingame):</u> Supporter Games;TeamSpeak
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Anregungen u. Vorschlaege Forum (HV), TeamSpeak (NV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), TeamSpeak (NV), Anregungen und Vorschläge Forum (HV)
 
 ###<strong><span style="color:#E4D100">blackINK_</span></strong>
 - <u>Rang (ingame):</u> Supporter Games;TeamSpeak
@@ -140,9 +140,9 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
-###<strong><span style="color:#E4D100">byShadow</span></strong>
+###<strong><span style="color:#E4D100">byShadowTK</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Entschuldigungen (NV), TeamSpeak (NV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ###<strong><span style="color:#E4D100">Caelis</span></strong>
 - <u>Rang (ingame):</u> Supporter Games;CityBuild;TeamSpeak
@@ -158,11 +158,11 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">CubeFabi</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Fragen und Antworten Forum (NV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Fragen und Antworten Forum (HV)
 
 ###<strong><span style="color:#E4D100">djmedico</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Games Forum (NV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Anregungen und Vorschläge Forum (NV), Spielmodi Foren (HV)
 
 ###<strong><span style="color:#E4D100">DrugDuck</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -182,11 +182,11 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">Handis</span></strong>
 - <u>Rang (ingame):</u> Supporter Games;TeamSpeak
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Off Topic Forum (HV), TeamSpeak (NV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ###<strong><span style="color:#E4D100">herrkannnix</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Entschuldigungen (HV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Entbannungsanträge (HV)#
 
 ###<strong><span style="color:#E4D100">HoleOne</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -194,15 +194,15 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">ItsSarahh</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Twitter (NV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Twitter (NV), Entbannungsanträge (NV)
 
 ### <strong><span style="color:#E4D100">JOlegna</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), TeamSpeak (NV), Entschuldigungen (NV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), TeamSpeak (NV), Entbannungsanträge (NV)
 
 ###<strong><span style="color:#E4D100">Jxvxn</span></strong>
 - <u>Rang (ingame):</u> Supporter Games;TeamSpeak
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Fragen und Antworten Forum (NV), Spieler melden Forum (NV), TeamSpeak (NV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), TeamSpeak (NV)
 
 ###<strong><span style="color:#E4D100">Karpfen17</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -214,7 +214,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">L0L0</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Spieler melden Forum (NV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Spieler melden Forum (HV)
 
 ###<strong><span style="color:#E4D100">litsche</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -230,7 +230,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">mTAce</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Spieler melden Forum (HV)
 
 ### <strong><span style="color:#E4D100">Nooahh</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -242,7 +242,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">SeiBitteLeise</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Spieler melden Forum (NV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ###<strong><span style="color:#E4D100">Sinzilla</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -254,7 +254,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">St3giLiebtTim</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Social Media (HV), Fragen und Antworten Forum (NV), Entbannungsanträge (NV)6
 
 ###<strong><span style="color:#E4D100">TheBrownShape</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -278,7 +278,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">Vucanu</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Vorstellungen Forum (NV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ### <strong><span style="color:#E4D100">xH3lix</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -453,7 +453,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ### <strong><span style="color:#CF0101">JOlegna</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild;TeamSpeak
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Timolia Anleitung (NV), Bahnlinien (NV), Events (HV), Shopwelt (HV), Upper Hills (HV), Downtown (NV), Karibik (HV), Weststadt (HV), Sunset Valley (NV), TeamSpeak (NV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Timolia Anleitung (NV), Bahnlinien (NV), Events (HV), Shopwelt (HV), Upper Hills (HV), Downtown (NV), Karibik (HV), Weststadt (HV), Sunset Valley (NV), TeamSpeak (NV), CityBuild Forum (HV)
 
 
 ###<strong><span style="color:#CF0101">kd9b</span></strong>
@@ -535,7 +535,7 @@ Hier werden die Aus- und Eintritte, bzw. Beförderungen und Degradierungen im Te
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
 | ------ | ------ | ------ | ------ | ------ |
 |_Shinox | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 17.01.16 |
-|byShadow | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 17.01.16 |
+|byShadowTK | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 17.01.16 |
 |djmedico | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 17.01.16 |
 |DrugDuck | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 17.01.16 |
 |einMole | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 17.01.16 |
@@ -561,7 +561,7 @@ Hier werden die Aus- und Eintritte, bzw. Beförderungen und Degradierungen im Te
 |ItsSarahh | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter</span> | Wieder aktiv | 19.02.16 |
 |L0L0 | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 19.02.16 |
 |SeiBitteLeise | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 19.02.16 |
-|Olegna_12 | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 19.02.16 |
+|JOlegna | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 19.02.16 |
 |vincent0110 | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 19.02.16 |
 |Vucanu | <span style="color:#848484">Spieler</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 19.02.16 |
 |RobinGamerPack | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Keine Motivation mehr | 11.03.16 |
@@ -572,14 +572,14 @@ Hier werden die Aus- und Eintritte, bzw. Beförderungen und Degradierungen im Te
 |logito111 | <span style="color:#007812">Developer</span> | <span style="color:#E4D100">Supporter</span> | Zusaetzlich zu Developer | 25.03.16 |
 |Zortax | <span style="color:#007812">Developer</span> | <span style="color:#E4D100">Supporter</span> | Zusaetzlich zu Developer | 25.03.16 |
 |Niklas | <span style="color:#CF0101">Moderator</span> | <span style="color:#5858FA">Administrator</span> | - | 13.04.16 |
-|Shustin | <span style="color:#848484">Spieler</span> | <span style="color:#007812">Developer</span> | - | 13.04.16 |
-|Lascona | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 09.05.16 |
+|Shustinsch | <span style="color:#848484">Spieler</span> | <span style="color:#007812">Developer</span> | - | 13.04.16 |
+|St3giLiebtTim | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 09.05.16 |
 |xJu1ia | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 09.05.16 |
 |TobCrafterDE | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 04.06.16 |
 |xH3lix | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 04.06.16 |
 |mTAce | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 04.06.16 |
 |Loris | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 04.06.16 |
-|xN0AH | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 04.06.16 |
+|Nooahh | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 04.06.16 |
 |Elegeta | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 04.06.16 |
 |Flaxify | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 04.06.16 |
 |TheNero | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation mehr | 24.06.16 |
@@ -595,7 +595,7 @@ Hier werden die Aus- und Eintritte, bzw. Beförderungen und Degradierungen im Te
 |XoroMC | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 24.07.16 |
 |WildeMaus | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 24.07.16 |
 |0sch | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 24.07.16 |
-|ThomasSpielt | <span style="color:#E4D100">Supporter</span> | <span style="color:#CF0101">Moderator</span> | Gute Supporterleistung | 24.07.16 |
+|Thomasch | <span style="color:#E4D100">Supporter</span> | <span style="color:#CF0101">Moderator</span> | Gute Supporterleistung | 24.07.16 |
 |_Geizhals_ | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 31.07.16 |
 |BauEule | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 31.07.16 |
 |MineNRW | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 31.07.16 |
