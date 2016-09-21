@@ -116,7 +116,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind die ersten, an die sich Spieler wenden können.
 
-### <strong><span style="color:#E4D100">_Rudi_</span></strongY
+### <strong><span style="color:#E4D100">_Rudi_</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), Spieler melden Forum (NV), Off-Topic Forum (HV), Vorstellungen im Forum (HV)
 
