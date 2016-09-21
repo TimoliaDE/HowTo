@@ -33,10 +33,10 @@ Das Spammen von Reports ist verboten und wird bei wiederholtem Vorkommen sanktio
 ### Entbannungsanträge
 Ist ein Spieler gebannt kann dieser jederzeit im Bereich "Entbannungsanträge" einen Beweis anfordern oder eine Entschuldigung posten. Das Spammen von Entbannungsanträgen ist verboten 
 und wird bei wiederholtem Vorkommen geahndet. Sollte ein Spieler eine Bannzeit von über 45 Tagen haben besteht für ihn keine Chance auf eine Entbannung. Des weiteren darf jeder Spieler 
-maximal zwei Entbannungsanrtäge schreiben, außer ein weiterer Antrag wurde explizit erlaubt.
+maximal zwei Entbannungsanträge schreiben, außer ein weiterer Antrag wurde explizit erlaubt.
 
 ## §4 - Sanktionen im Forum
-Sollte ein Nutzer gegen die Regeln verstoßen wird dieser verwarnt und bekommt eine bestimmte Anzahl an Punkten auf sein "Konto" geschrieben. Die Punkte verjähren nach 6 Monaten. 
+Sollte ein Nutzer gegen die Regeln verstoßen, wird dieser verwarnt und bekommt eine bestimmte Anzahl an Punkten auf sein "Konto" geschrieben. Die Punkte verjähren nach 6 Monaten.
 Überschreitet ein Spieler eine Anzahl an Punkten, wird er vom Netzwerk ausgeschlossen:
 
 - <u>5 Punkte</u>: ein Tag
