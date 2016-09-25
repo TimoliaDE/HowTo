@@ -20,7 +20,8 @@ Diese Features stehen dir mit deinem Rang zur Verfügung:
 ###Die Zahlungsmöglichkeiten:
 Timolia kannst du entweder per BuyCraft (PayPal, PaysafeCard, Überweisung) oder Nitrado (PaysafeCard, Sofort-Überweisung, uvm.) mit einer Spende
 unterstützen. Zahlungen per Buycraft werden direkt auf dem Server umgesetzt. Die Spenden per Nitrado müssen manuell bearbeitet werden und sind 
-daher ca. 1-24 Stunden nachdem du die Spende getätigt hast auf dem Server verfügbar.
+daher ca. 1-24 Stunden nachdem du die Spende getätigt hast auf dem Server verfügbar. Im Betreff einer Nitrado-Spende müssen dein aktueller Ingame-Name und der gewünschte Rang stehen, bei mehreren Spenden 
+(z.B. bei Expert) sollten die Spenden auch numeriert sein.
 
 Klicke [<strong>hier</strong>, um über BuyCraft zu spenden](http://shop.timolia.de/) und [<strong>hier</strong>, um über Nitrado zu spenden](https://www.timolia.de/spenden-ueber-nitrado/).
 
