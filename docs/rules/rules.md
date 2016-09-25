@@ -128,7 +128,7 @@ Auf dem CityBuild bekommst du für reine Onlinezeit Geld. Bist du über fünf Mi
 Versuchst du nun, diesen Kick mit bestimmten Mechanismen zu umgehen, so wird das zum so genannten “Geld farmen” oder “Chunk laden” gezählt. Das ist auf dem CityBuild strengstens verboten und wird mit einem Ban bestraft.
 
 ## §10.7 - Betrug von Spielern
-Das absichtliche Betrügen anderer Spieler oder des Serverteams ist verboten und wird mit einem Bann bestraft. Das beinhaltet irreführende Verkäufe von Items in deinem Shop, genauso wie das Abzocken anderer Speiler im Chat.
+Das absichtliche Betrügen anderer Spieler oder des Serverteams ist verboten und wird mit einem Bann bestraft. Das beinhaltet irreführende Verkäufe von Items in deinem Shop, genauso wie das Abzocken anderer Spieler im Chat.
 
 ## §10.8 - Nicht benützen des Handelschats
 Das voraussichtliche ignorieren des Handelschats kann Konsequenzen mit sich ziehen. Darunter zählt explizit das Verkaufen von Items, aber auch Werbung für den eigenen Shop gehört in diesen Channel.
