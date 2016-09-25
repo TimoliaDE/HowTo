@@ -8,6 +8,7 @@ pages:
   - Spieler melden und Entschuldigungen: 'bans.md'
   - Webseite und Forum: 'web.md'
   - TeamSpeak: 'teamspeak.md'
+  - Changelog: 'changelog.md'
 - Regelwerk:
   - Games-Regeln: 'rules/games.md'
   - City-Regeln: 'rules/city.md'
