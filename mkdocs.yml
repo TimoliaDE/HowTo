@@ -10,8 +10,7 @@ pages:
   - TeamSpeak: 'teamspeak.md'
   - Changelog: 'changelog.md'
 - Regelwerk:
-  - Games-Regeln: 'rules/games.md'
-  - City-Regeln: 'rules/city.md'
+  - Regeln: 'rules/rules.md'
   - Foren-Regeln: 'rules/forum.md'
   - TeamSpeak-Regeln: 'rules/teamspeak.md'
 - Games:
