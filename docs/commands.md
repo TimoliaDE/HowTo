@@ -124,39 +124,43 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 
 | Befehl | Funktion |
 | ------ | -------- |
-| `/infoboard` | Öffnet das Menü des Scoreboards |
+| `/sb` | Öffnet das Menü des Scoreboards |
+| `/rezepte` | Zeigt dir zu jedem Item das Craftinrezept an |
 | `/achievements` | Listet eine Übersicht aller Achievements auf |
 | `/mission` | Zeigt eine Übersicht über die aktive/alle Missionen |
-| `/suicude` | Tötet sich selbst |
+| `/timazon`oder`/tbay` | Öffnet ein Menü zum Items bestellen |
+| `/firma`oder`/company` | Öffnet das Firmenmenü |
+| `/suicide` | Tötet sich selbst |
 | `/pay <Spieler> <Betrag>` | Überweist einem anderen Spieler Geld |
 | `/money` od. `/balance` | Zeigt deinen Kontostand |
 | `/ticket <Anliegen>` | Erstellt ein Ticket |
+| `/mails` | Öffnet das Menü deiner Mails |
 | `/mail <read/send/clear>` | Mails lesen/senden/löschen |
 | `$<Nachricht>` | Schreibe im Handelschat |
 | `/ch join handel` | Wählt den Handelschat als Standartchannel aus |
-| `/ch join city` | Wechselt in den default Citychannel |
-| `/shoptp` | Teleportiert dich in unterschiedliche Shopwelten |
+| `/ch join global` | Wechselt in den default Citychannel |
 <span style="color:#F99500">Pro</span> und <span style="color:#00F9EC">Expert</span> only:
 | `/ptime <day/night>` | Zeit für sich selbst umstellen |
 | `/pweather <sun,rain>` | Wetter für sich selbst umstellen |
 | `/craft` od. `/workbench` | Craftingfeld aufrufen |
 | `/hat` | Item in der Hand auf den Kopf setzen |
 | `/enderchest` | Enderchest aufrufen |
-| `/recipe <ID>` | Craftingrezept aufrufen |
 
 ### Homes und Grundstücke
 
 | Befehl | Funktion |
 | ------ | -------- |
-| `/homes` od. `/home` | Zeigt eine Liste deiner Homepunkte |
+| `/homes`| Zeigt eine Liste deiner Homepunkte |
 | `/sethome <Name>` | Setzt ein Home |
+| `/sethome <Name> -f` | Überschreibt einen vorhandenen Home |
 | `/delhome <Name>` | Löscht ein Home |
-| `/rg` | Zeigt dir eine Übersicht aller Regionsbefehle |
-| `/rg addmember <GS-ID> <Spieler>` | Füg ein Member auf dein Grundstück hinzu |
-| `/rg removemember <GS-ID> <Spieler>` | Entfernt ein Member von deinem Grunstück |
-| `/rg i` | Zeigt die ID deines Grunstücks |
+
+Um Member auf seinem Grundstück zu protecten oder Flags zu ändern, muss man auf das Regionsschild klicken.
+
 
 ### Farmwelt 
+
+Die Farmwelt läuft noch auf Timolia2.0, daher ist es im Moment nicht möglich, sich neue Farmgrundstücke zu kaufen.
 
 | Befehl | Funktion |
 | ------ | -------- |
