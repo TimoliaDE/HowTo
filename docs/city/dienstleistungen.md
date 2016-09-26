@@ -14,34 +14,27 @@ Für eure eigenen Grundstücke könnt ihr Icons erstellen lassen, die auf der Li
 
 <strong>Kosten: Aktuell nicht erhältlich</strong>
 
-## 3 - Eigener TS-Channel
+## 3 - In Baugebieten umziehen
 
-Im Timolia-Teamspeak kannst du dir einen privaten Channel erstellen lassen. Dieser kann passwortgeschützt sein und TalkPower benötigen, welche du ausgewählten Spielern zuweisen kannst.  
-Jeder Spieler darf nur einen privaten Channel besitzen, welcher maximal um ein halbes Jahr im vorraus bezahlt werden kann.
+In gewissen Baugebieten besteht die Möglichkeit intern umzuziehen. Je nach Baugebiet sind die Kosten dafür unterschiedlich,
+in der Weststadt kostet dies 1000T, wiederum in Upperhills 5000T.
 
-<strong>Kosten: 20.000 Timolions pro Monat</strong>
+<strong>Kosten: 1000-5000 Timolions</strong>
 
-## 4 - Flags setzen
-
-Auf eigenen Grundstücken kannst du dir Flags setzen lassen. Das Team behält sich das Recht, Flags aus diversen Gründen nicht zu vergeben.
-Folgende Flags sind verfügbar:
-
-- ice-melt, ice-form
-- snow-melt, snow-form
-- grass-growth, vine-growth, etc.
-- tnt
-- deny-spawn bat; Zum Verhindern von Fledermäusen
-- greeting,farwell; Zum Setzen eigener Willkommens- und Verabschiedungstexte
-
-<strong>Kosten: 5000 Timolions pro Flag</strong>
-
-## 5 - Grundstück übertragen
+## 4 - Grundstück an einen anderen Spieler übertragen
 
 Nur der Besitzer eines Grundstückes kann Mitglieder auf diesem hinzufügen, bzw. entfernen und Flags setzen. Pro Grundstück kann es nur einen Besitzer geben. 
 Als Besitzer eines Grundstückes kannst du es einem anderen User für das gewisse Geld verkaufen. Der Grundstückswechsel selber kostet einen fixen Betrag.
 Upperhills und Weststadtgrundstücke sind davon ausgeschlossen, diese können nicht verkauft werden.
 
-<strong>Kosten: 2500 Timolions</strong>
+<strong>Kosten: 2000 Timolions</strong>
+
+## 5 - Grundstück verkaufen
+
+Solltest du dein Grundstück in einem Baugebiet (Weststadt und Upperhills ausgeschlossen) nicht mehr benötigen, so besteht die Möglichkeit es zu verkaufen.
+Du kannst auf dem Regionsschild das Grundstück an den Server verkaufen, nur wenn du Besitzer davon bist. Jedoch solltest du beachten, wenn du dein Grundstück verkaufst bekommst du
+nur noch die Hälfte des Kaufpreises und das Grundstück wird resetet, alle Items auf dem Grundstück gehen verloren.
+
 
 
 
