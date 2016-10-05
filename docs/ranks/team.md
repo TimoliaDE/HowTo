@@ -571,9 +571,9 @@ Hier werden die Aus- und Eintritte, bzw. Beförderungen und Degradierungen im Te
 |Poxari | <span style="color:#CF0101">Moderator</span> | <span style="color:#8B008B">YouTuber</span> | Mangelnde Aktivität| 05.10.16 |
 |lauratatuetatah | <span style="color:#CF0101">Moderator</span> | <span style="color:#00F9EC">Expert</span> | Mangelnde Aktivität| 05.10.16 |
 |Toebi | <span style="color:#CF0101">Moderator</span> | <span style="color:#00F9EC">Expert</span> | Mangelnde Aktivität| 05.10.16 |
-|vucanu | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Mangelnde Aktivität| 05.10.16 |
+|Vucanu | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Mangelnde Aktivität| 05.10.16 |
 |SeiBitteLeise | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | Mangelnde Aktivität| 05.10.16 |
 |Tobi_ | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Mangelnde Aktivität| 05.10.16 |
-|SirD4ve | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Mangelnde Aktivität| 05.10.16 |
+|SirD4ve | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</spa | Mangelnde Aktivität| 05.10.16 |
 |Jvxvn | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | Mangelnde Aktivität| 05.10.16 |
 |litsche | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Mangelnde Aktivität| 05.10.16 |
