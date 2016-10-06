@@ -576,4 +576,4 @@ Hier werden die Aus- und Eintritte, bzw. Beförderungen und Degradierungen im Te
 |Tobi_ | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Keine Motivation, Inaktivität| 05.10.16 |
 |SirD4ve | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</spa | Keine Motivation, Inaktivität| 05.10.16 |
 |Jvxvn | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation, Inaktivität| 05.10.16 |
-|litsche | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Keine Motivation, Inaktivität| 05.10.16 |
+|litsche | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Keine Motivation, Inaktivität| 05.10.16 | 
