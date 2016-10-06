@@ -566,14 +566,14 @@ Hier werden die Aus- und Eintritte, bzw. Beförderungen und Degradierungen im Te
 |12build | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | Private Gründe | 13.09.16 |
 |RayQu | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | Keine Zeit mehr | 15.09.16 |
 |MC_Meeh | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | Private Gründe| 18.09.16 |
-|Horsti98 | <span style="color:#CF0101">Moderator</span> | <span style="color:#00F9EC">Expert</span> | Mangelnde Aktivität| 05.10.16 |
-|Dark_Gamer_98 | <span style="color:#CF0101">Moderator</span> | <span style="color:#00F9EC">Expert</span> | Mangelnde Aktivität| 05.10.16 |
-|Poxari | <span style="color:#CF0101">Moderator</span> | <span style="color:#8B008B">YouTuber</span> | Mangelnde Aktivität| 05.10.16 |
-|lauratatuetatah | <span style="color:#CF0101">Moderator</span> | <span style="color:#00F9EC">Expert</span> | Mangelnde Aktivität| 05.10.16 |
-|Toebi | <span style="color:#CF0101">Moderator</span> | <span style="color:#00F9EC">Expert</span> | Mangelnde Aktivität| 05.10.16 |
-|Vucanu | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Mangelnde Aktivität| 05.10.16 |
-|SeiBitteLeise | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | Mangelnde Aktivität| 05.10.16 |
-|Tobi_ | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Mangelnde Aktivität| 05.10.16 |
-|SirD4ve | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</spa | Mangelnde Aktivität| 05.10.16 |
-|Jvxvn | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | Mangelnde Aktivität| 05.10.16 |
-|litsche | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Mangelnde Aktivität| 05.10.16 |
+|Horsti98 | <span style="color:#CF0101">Moderator</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation, Inaktivität| 05.10.16 |
+|Dark_Gamer_98 | <span style="color:#CF0101">Moderator</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation, Inaktivität| 05.10.16 |
+|Poxari | <span style="color:#CF0101">Moderator</span> | <span style="color:#8B008B">YouTuber</span> | Keine Motivation, Inaktivität| 05.10.16 |
+|lauratatuetatah | <span style="color:#CF0101">Moderator</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation, Inaktivität| 05.10.16 |
+|Toebi | <span style="color:#CF0101">Moderator</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation, Inaktivität| 05.10.16 |
+|Vucanu | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Keine Motivation, Inaktivität| 05.10.16 |
+|SeiBitteLeise | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation, Inaktivität| 05.10.16 |
+|Tobi_ | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Keine Motivation, Inaktivität| 05.10.16 |
+|SirD4ve | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</spa | Keine Motivation, Inaktivität| 05.10.16 |
+|Jvxvn | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation, Inaktivität| 05.10.16 |
+|litsche | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Keine Motivation, Inaktivität| 05.10.16 |
