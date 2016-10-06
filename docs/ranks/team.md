@@ -72,6 +72,10 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen Server auf unserem Netzwerk und dienen als Schnittstelle zwischen Supporter und Administratoren.
 
+###<strong><span style="color:#CF0101">Caelis</span></strong>
+- <u>Rang (ingame):</u> Moderator Games;CityBuild;TeamSpeak
+- <u>Aufgabenbereich(e):</u> JumpWorld Bilder (HV), Bautresor (NV), TeamSpeak (NV)
+
 ###<strong><span style="color:#CF0101">FabsiFTW</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
 - <u>Aufgabenbereich(e):</u> YouTuber-Rang (HV), Facebook (NV), Bewerbungen (HV), Gameshub (NV)
@@ -81,12 +85,16 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), Social-Media (NV), Entbannungsanträge (HV)
 
 ###<strong><span style="color:#CF0101">KenaiHD</span></strong>
-- <u>Rang (ingame):</u> Moderator Games;TeamSpeak
+- <u>Rang (ingame):</u> Moderator Games;CityBuild;TeamSpeak
 - <u>Aufgabenbereich(e):</u> TeamSpeak (HV), Feedback Forum (HV), Entbannungsanträge (HV)
 
 ###<strong><span style="color:#CF0101">Siimon</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
 - <u>Aufgabenbereich(e):</u> Alles
+ 
+###<strong><span style="color:#CF0101">St3giLiebtTim</span></strong>
+- <u>Rang (ingame):</u> Moderatorin Games
+- <u>Aufgabenbereich(e):</u> Social Media (HV), Fragen und Antworten Forum (NV), Entbannungsanträge (NV)
 
 ###<strong><span style="color:#CF0101">Thomasch</span></strong>
 - <u>Rang (ingame):</u> Moderator Games;TeamSpeak
@@ -123,10 +131,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ###<strong><span style="color:#E4D100">byShadowTK</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
-
-###<strong><span style="color:#E4D100">Caelis</span></strong>
-- <u>Rang (ingame):</u> Supporter Games;CityBuild;TeamSpeak
-- <u>Aufgabenbereich(e):</u> JumpWorld Bilder (HV), Usern helfen (NV), Bautresor (NV), Bug melden Forum (NV), TeamSpeak (NV)
 
 ###<strong><span style="color:#E4D100">Calavero</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -211,10 +215,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ###<strong><span style="color:#E4D100">Sinzilla</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
-
-### <strong><span style="color:#E4D100">St3giLiebtTim</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Social Media (HV), Fragen und Antworten Forum (NV), Entbannungsanträge (NV)6
 
 ###<strong><span style="color:#E4D100">TheBrownShape</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -367,21 +367,17 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 
 Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi und helfen bei Problemen und Bugs.
 
-###<strong><span style="color:#007812">Bukkit_PVP</span></strong>
-- <u>Rang (ingame):</u> Developer CityBuild
-- <u>Aufgabenbereich(e):</u> CityBuild-Plugins (NV), CityBuild-Twitter (NV)
-
 ###<strong><span style="color:#007812">tr7zw</span></strong>
 - <u>Rang (ingame):</u> Developer CityBuild
 - <u>Aufgabenbereich(e):</u> CityBuild-Plugins (HV), Farmwelt (HV), CityBuild-Twitter (NV)
 
-###<strong><span style="color:#007812">YTKacperSKY</span></strong>
-- <u>Rang (ingame):</u> Developer CityBuild
-- <u>Aufgabenbereich(e):</u> CityBuild-Plugins (NV), CityBuild-Twitter (NV), Usern helfen (NV)
-
 ###<strong><span style="color:#007812">ich_komm_morgen</span></strong>
 - <u>Rang (ingame):</u> Developer CityBuild
 - <u>Aufgabenbereich(e):</u> CityBuild-Plugins (NV), Usern helfen (NV)
+
+###<strong><span style="color:#007812">KenaiHD</span></strong>
+- <u>Rang (ingame):</u> Developer CityBuild
+- <u>Aufgabenbereich(e):</u> CityBuild-Plugins (NV)
 
 ## Moderatoren
 
@@ -577,3 +573,5 @@ Hier werden die Aus- und Eintritte, bzw. Beförderungen und Degradierungen im Te
 |SirD4ve | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</spa | Keine Motivation, Inaktivität| 05.10.16 |
 |Jvxvn | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation, Inaktivität| 05.10.16 |
 |litsche | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Keine Motivation, Inaktivität| 05.10.16 | 
+|Caelis | <span style="color:#E4D100">Supporter</span> | <span style="color:#CF0101">Moderator</span> | Gute Supporterleistung | 05.10.16 |
+|St3giLiebtTim | <span style="color:#E4D100">Supporter</span> | <span style="color:#CF0101">Moderator</span> | Gute Supporterleistung | 05.10.16 |
