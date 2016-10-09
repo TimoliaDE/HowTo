@@ -178,7 +178,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">JOlegna</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), TeamSpeak (NV), Entbannungsanträge (NV)
+- <u>Aufgabenbereich(e):</u> Usern helfen (NV), TeamSpeak (NV), Timolia Anleitung (NV), Entbannungsanträge (NV)
 
 ###<strong><span style="color:#E4D100">Karpfen17</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -399,11 +399,6 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 - <u>Rang (ingame):</u> Moderator CityBuild
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), Aegypten (NV), Karibik (NV)
 
-### <strong><span style="color:#CF0101">JOlegna</span></strong>
-- <u>Rang (ingame):</u> Moderator CityBuild;TeamSpeak
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Timolia Anleitung (NV), Bahnlinien (NV), Events (HV), Shopwelt (HV), Upper Hills (HV), Downtown (NV), Karibik (HV), Weststadt (HV), Sunset Valley (NV), TeamSpeak (NV), CityBuild Forum (HV)
-
-
 ###<strong><span style="color:#CF0101">kd9b</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV), Upper Hills (NV), Weststadt (NV), Karibik (NV)
@@ -429,10 +424,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
 ###<strong><span style="color:#E4D100">MCPhilippS</span></strong>
-- <u>Rang (ingame):</u> Supporter CityBuild
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
-
-###<strong><span style="color:#E4D100">Todbringender</span></strong>
 - <u>Rang (ingame):</u> Supporter CityBuild
 - <u>Aufgabenbereich(e):</u> Usern helfen (NV)
 
@@ -575,3 +566,5 @@ Hier werden die Aus- und Eintritte, bzw. Beförderungen und Degradierungen im Te
 |litsche | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Keine Motivation, Inaktivität| 05.10.16 | 
 |Caelis | <span style="color:#E4D100">Supporter</span> | <span style="color:#CF0101">Moderator</span> | Gute Supporterleistung | 05.10.16 |
 |St3giLiebtTim | <span style="color:#E4D100">Supporter</span> | <span style="color:#CF0101">Moderator</span> | Gute Supporterleistung | 05.10.16 |
+|Todbringender | <span style="color:#E4D100">Supporter</span> | <span style="color:#00646F">Builder</span> | Konzentration auf Builder | 08.10.16 |
+|JOlegna | <span style="color:#CF0101">Moderator</span> | <span style="color:#F99500">Native</span> | Konzentration auf Games | 08.10.16 |
