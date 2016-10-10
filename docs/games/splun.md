@@ -20,7 +20,6 @@ Splun ist eine Kombination aus <strong>Spl</strong>eef und Jump and R<strong>un<
 - <strong>Spitzhacke</strong>: Du kannst Blöcke mit der Spitzhacke abbauen
 - <strong>Enderperle</strong>: Du erhältst eine Enderperle
 - <strong>Soulsand</strong>: Alle Gegner erhalten den Slowness-Effekt
-- <strong>Kürbiskopf</strong>: Blockiere die Sicht der Gegner
 - <strong>Goldapfel</strong>: Du kannst fliegen
 - <strong>Ei</strong>: Wirf die Eier, um  Blöcke zu spawnen
 

@@ -1,5 +1,4 @@
 Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbereiche.
-<u>HV</u> bedeutet "<strong>H</strong>aupt<strong>V</strong>erantwortlich", <u>NV</u> bedeutet "<strong>N</strong>eben<strong>V</strong>erantwortlich"
 
 # 1 -  Games-Team
 
@@ -10,23 +9,26 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 
 ###<strong>Edgxxar</span></strong>
 - <u>Rang (ingame):</u> Administrator Games;CityBuild
-- <u>Aufgabenbereich(e):</u> Timolia-Plugins (HV), Root-Server (NV)
+- <u>Hauptverantworlich:</u> Timolia-Plugins
+- <u>Nebenverantwortlich:</u> Root-Server
 
 ###<strong>MCExpertDE</strong>
 - <u>Rang (ingame):</u> Administrator Games;CityBuild;TeamSpeak
-- <u>Aufgabenbereich(e):</u> Hardware (NV), Timolia-Plugins (HV), Games (HV)
+- <u>Hauptverantworlich:</u> Games, Timolia-Plugins
+- <u>Nebenverantwortlich:</u> Hardware
 
 ###<strong>Moehritz</strong>
 - <u>Rang (ingame):</u> Administrator Games;CityBuild;TeamSpeak
-- <u>Aufgabenbereich(e):</u> Development (HV), Timolia-Plugins (HV)
+- <u>Hauptverantworlich:</u> Development , Timolia-Plugins
 
 ###<strong>Niklas</strong>
 - <u>Rang (ingame):</u> Administrator Games;TeamSpeak
-- <u>Aufgabenbereich(e):</u> Website (HV), Interne Webanwendung (HV), Usern helfen (NV), Ansprechpartner f. Games-Supporter (NV), TeamSpeak (NV), Twitter (NV), Facebook (NV), Bautresor (NV)
+- <u>Hauptverantworlich:</u> Interne Webanwendung, Webseite
+- <u>Nebenverantwortlich:</u> Bautresor, Facebook, TeamSpeak, Twitter
 
 ###<strong>xiantiel</strong>
 - <u>Rang (ingame):</u> Administrator Games;CityBuild;TeamSpeak
-- <u>Aufgabenbereich(e):</u> Hardware (HV), Buycraft (HV), Nitrado (HV), Management (HV), Root-Server (HV)
+- <u>Hauptverantworlich:</u> Buycraft, Hardware, Management, Nitrado, Root-Server
 
 ## Developer
 
@@ -34,39 +36,36 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 ### <strong><span style="color:#007812">5zig</span></strong>
 - <u>Rang (ingame):</u> Expert
-- <u>Aufgabenbereich(e):</u> Timolia-Plugins (NV)
+- <u>Nebenverantwortlich:</u>  Timolia-Plugins (NV)
 
 ### <strong><span style="color:#007812">Caelis</span></strong>
 - <u>Rang (ingame):</u> Supporter Games;CityBuild;TeamSpeak
-- <u>Aufgabenbereich(e):</u> Ansprechpartner f. Development (HV), Timolia-Plugins (NV)
+- <u>Hauptverantworlich:</u> Ansprechpartner f. Development
+- <u>Nebenverantwortlich:</u> Timolia-Plugins
 
 ### <strong><span style="color:#007812">LastR_Raziel</span></strong>
 - <u>Rang (ingame):</u> Developer
-- <u>Aufgabenbereich(e):</u> Anti-Cheat (HV)
+- <u>Hauptverantworlich:</u> Anti-Cheat
 
 ### <strong><span style="color:#007812">logito111</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Timolia-Plugins (NV)
-
-### <strong><span style="color:#007812">MCelements0815</span></strong>
-- <u>Rang (ingame):</u> Supporter CityBuild
-- <u>Aufgabenbereich(e):</u> TeamSpeak-Bot (NV)
+- <u>Nebenverantwortlich:</u> Timolia-Plugins
 
 ### <strong><span style="color:#007812">Shustinsch</span></strong>
 - <u>Rang (ingame):</u> Developer
-- <u>Aufgabenbereich(e):</u> Timolia-Plugins (NV)
+- <u>Nebenverantwortlich:</u> Timolia-Plugins
 
 ### <strong><span style="color:#007812">svdragster</span></strong>
 - <u>Rang (ingame):</u> Developer
-- <u>Aufgabenbereich(e):</u> Anti-Cheat (HV)
+- <u>Hauptverantworlich:</u> Anti-Cheat
 
 ### <strong><span style="color:#007812">TheBrownShape</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> TeamSpeak-Bot (NV)
+- <u>Nebenverantwortlich:</u> TeamSpeak-Bot
 
 ### <strong><span style="color:#007812">Zortax</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Timolia-Plugins (NV)
+- <u>Nebenverantwortlich:</u> Timolia-Plugins
 
 ## Moderatoren
 
@@ -74,31 +73,36 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">Caelis</span></strong>
 - <u>Rang (ingame):</u> Moderator Games;CityBuild;TeamSpeak
-- <u>Aufgabenbereich(e):</u> JumpWorld Bilder (HV), Bautresor (NV), TeamSpeak (NV)
+- <u>Hauptverantworlich:</u> JumpWorld Bilder
+- <u>Nebenverantwortlich:</u> Bautresor, TeamSpeak
 
 ###<strong><span style="color:#CF0101">FabsiFTW</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Aufgabenbereich(e):</u> YouTuber-Rang (HV), Facebook (NV), Bewerbungen (HV), Gameshub (NV)
+- <u>Hauptverantworlich:</u> Bewerbungen, YouTuber-Rang
+- <u>Nebenverantwortlich:</u> Facebook
 
 ###<strong><span style="color:#CF0101">Ferdy</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Social-Media (NV), Entbannungsanträge (HV)
+- <u>Hauptverantworlich:</u> Entbannungsanträge
+- <u>Nebenverantwortlich:</u> Social-Media, Usern helfen
 
 ###<strong><span style="color:#CF0101">KenaiHD</span></strong>
 - <u>Rang (ingame):</u> Moderator Games;CityBuild;TeamSpeak
-- <u>Aufgabenbereich(e):</u> TeamSpeak (HV), Feedback Forum (HV), Entbannungsanträge (HV)
+- <u>Hauptverantworlich:</u> Entbannungsanträge, Feedback Forum, TeamSpeak
 
 ###<strong><span style="color:#CF0101">Siimon</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Aufgabenbereich(e):</u> Alles
- 
+- <u>Hauptverantworlich:</u> Alles
+
 ###<strong><span style="color:#CF0101">St3giLiebtTim</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
-- <u>Aufgabenbereich(e):</u> Social Media (HV), Fragen und Antworten Forum (NV), Entbannungsanträge (NV)
+- <u>Hauptverantworlich:</u> Social Media
+- <u>Nebenverantwortlich:</u> Entbannungsanträge, Fragen und Antworten Forum
 
 ###<strong><span style="color:#CF0101">Thomasch</span></strong>
 - <u>Rang (ingame):</u> Moderator Games;TeamSpeak
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), TeamSpeak (NV), Forum (HV), Map-Einsendungen (HV), Timolia Anleitung (HV)
+- <u>Hauptverantworlich:</u> Forum, Internes Wiki, Map-Einsendungen, Timolia Anleitung
+- <u>Nebenverantwortlich:</u> TeamSpeak, Twitter, Usern helfen
 
 ## Supporter
 
@@ -106,143 +110,151 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">_Rudi_</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Spieler melden Forum (NV), Off-Topic Forum (HV), Vorstellungen im Forum (HV)
+- <u>Hauptverantworlich:</u> Off-Topic Forum, Vorstellungen im Forum
+- <u>Nebenverantwortlich:</u> Spieler melden Forum, Usern helfen
 
 ###<strong><span style="color:#E4D100">_Shinox</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Entbannungsanträge (NV)
+- <u>Nebenverantwortlich:</u> Entbannungsanträge, Usern helfen
 
 ###<strong><span style="color:#E4D100">_TakeItEaZy_</span></strong>
 - <u>Rang (ingame):</u> Supporter Games;TeamSpeak
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), TeamSpeak (NV), Anregungen und Vorschläge Forum (HV)
+- <u>Hauptverantworlich:</u> Anregungen und Vorschläge Forum
+- <u>Nebenverantwortlich:</u> TeamSpeak, Usern helfen
 
 ###<strong><span style="color:#E4D100">blackINK_</span></strong>
 - <u>Rang (ingame):</u> Supporter Games;TeamSpeak
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), TeamSpeak (NV)
+- <u>Nebenverantwortlich:</u> TeamSpeak, Usern helfen
 
 ### <strong><span style="color:#E4D100">BuffmonsterOne</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Nebenverantwortlich:</u> Usern helfen
 
 ###<strong><span style="color:#E4D100">Bukkit_PVP</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Nebenverantwortlich:</u> Usern helfen
 
-###<strong><span style="color:#E4D100">byShadowTK</span></strong>
+###<strong><span style="color:#E4D100">byShadow</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Nebenverantwortlich:</u> Usern helfen
 
 ###<strong><span style="color:#E4D100">Calavero</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Nebenverantwortlich:</u> Usern helfen
 
 ###<strong><span style="color:#E4D100">Crimex</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Nebenverantwortlich:</u> Usern helfen
 
 ###<strong><span style="color:#E4D100">CubeFabi</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Fragen und Antworten Forum (HV)
+- <u>Hauptverantworlich:</u> Fragen und Antworten Forum
+- <u>Nebenverantwortlich:</u> Usern helfen
 
 ###<strong><span style="color:#E4D100">djmedico</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Anregungen und Vorschläge Forum (NV), Spielmodi Foren (HV)
+- <u>Hauptverantworlich:</u> Spielmodi Foren
+- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Usern helfen
 
 ###<strong><span style="color:#E4D100">DrugDuck</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Nebenverantwortlich:</u> Usern helfen
 
 ### <strong><span style="color:#E4D100">Elegeta</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Nebenverantwortlich:</u> Usern helfen
 
 ###<strong><span style="color:#E4D100">Evageddon</span></strong>
 - <u>Rang (ingame):</u> Supporter Games,TeamSpeak
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), TeamSpeak (NV)
+- <u>Hauptverantworlich:</u> Grafikdesign
+- <u>Nebenverantwortlich:</u> Usern helfen, TeamSpeak
 
 ### <strong><span style="color:#E4D100">Flaxify</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Nebenverantwortlich:</u> Usern helfen
 
 ###<strong><span style="color:#E4D100">Handis</span></strong>
 - <u>Rang (ingame):</u> Supporter Games;TeamSpeak
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
-
-###<strong><span style="color:#E4D100">herrkannnix</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Entbannungsanträge (HV)#
+- <u>Nebenverantwortlich:</u> TeamSpeak, Usern helfen
 
 ###<strong><span style="color:#E4D100">ItsSarahh</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Twitter (NV), Entbannungsanträge (NV)
+- <u>Nebenverantwortlich:</u> Entbannungsanträge, Twitter, Usern helfen
 
 ### <strong><span style="color:#E4D100">JOlegna</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), TeamSpeak (NV), Timolia Anleitung (NV), Entbannungsanträge (NV)
+- <u>Nebenverantwortlich:</u> Entbannungsanträge, TeamSpeak, Timolia Anleitung, Usern helfen
 
 ###<strong><span style="color:#E4D100">Karpfen17</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Nebenverantwortlich:</u> Usern helfen
 
 ###<strong><span style="color:#E4D100">Krumru</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Nebenverantwortlich:</u> Usern helfen
 
 ###<strong><span style="color:#E4D100">L0L0</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Spieler melden Forum (HV)
+- <u>Hauptverantworlich:</u> Spieler melden Forum
+- <u>Nebenverantwortlich:</u> Usern helfen
 
 ###<strong><span style="color:#E4D100">logito111</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Nebenverantwortlich:</u> Usern helfen
 
 ### <strong><span style="color:#E4D100">Loris</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Nebenverantwortlich:</u> Usern helfen
 
 ### <strong><span style="color:#E4D100">mTAce</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Spieler melden Forum (HV)
+- <u>Hauptverantworlich:</u> Spieler melden Forum
+- <u>Nebenverantwortlich:</u> Usern helfen
 
 ### <strong><span style="color:#E4D100">Nooahh</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Nebenverantwortlich:</u> Usern helfen
 
-###<strong><span style="color:#E4D100">Re4persch</span></strong>
+###<strong><span style="color:#E4D100">Re4perz</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Nebenverantwortlich:</u> Usern helfen
 
 ###<strong><span style="color:#E4D100">Sinzilla</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Nebenverantwortlich:</u> Usern helfen
 
 ###<strong><span style="color:#E4D100">TheBrownShape</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), TeamSpeak (NV)
+- <u>Nebenverantwortlich:</u> Usern helfen
+
+###<strong><span style="color:#E4D100">Tiem</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+- <u>Hauptverantworlich:</u> Entbannungsanträge
+- <u>Nebenverantwortlich:</u> Usern helfen
 
 ### <strong><span style="color:#E4D100">TimLiebtSt3gi</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Nebenverantwortlich:</u> Usern helfen
 
 ### <strong><span style="color:#E4D100">TobCrafterDE</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Nebenverantwortlich:</u> Usern helfen
 
 ###<strong><span style="color:#E4D100">vincent0110</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Nebenverantwortlich:</u> Usern helfen
 
 ### <strong><span style="color:#E4D100">xH3lix</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Nebenverantwortlich:</u> Usern helfen
 
 ### <strong><span style="color:#E4D100">xJu1ia</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Nebenverantwortlich:</u> Usern helfen
 
 ###<strong><span style="color:#E4D100">Zortax</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Nebenverantwortlich:</u> Usern helfen
 
 ## Builder
 
@@ -250,87 +262,87 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 ### <strong><span style="color:#00646F">_CrystalSky_</span></strong>
 - <u>Rang (ingame):</u> Builder Games
-- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+- <u>Nebenverantwortlich:</u> Games-Maps
 
 ### <strong><span style="color:#00646F">_Geizhals_</span></strong>
 - <u>Rang (ingame):</u> Builder Games
-- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+- <u>Nebenverantwortlich:</u> Games-Maps
 
 ### <strong><span style="color:#00646F">Aerosize</span></strong>
-- Rang (ingame): Builder Games
-- Aufgabenbereich(e): Games-Maps (NV)
+- <u>Rang (ingame):</u> Builder Games
+- <u>Nebenverantwortlich:</u> Games-Maps
 
 ### <strong><span style="color:#00646F">Apfelrosine</span></strong>
-- Rang (ingame): Builder Games
-- Aufgabenbereich(e): Games-Maps (NV)
+- <u>Rang (ingame):</u> Builder Games
+- <u>Nebenverantwortlich:</u> Games-Maps, Map-Einsendungen
 
 ### <strong><span style="color:#00646F">BauEule</span></strong>
 - <u>Rang (ingame):</u> Builder Games
-- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+- <u>Nebenverantwortlich:</u> Games-Maps
 
 ###<strong><span style="color:#00646F">Denge</span></strong>
 - <u>Rang (ingame):</u> Builder Games
-- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+- <u>Nebenverantwortlich:</u> Games-Maps
 
 ###<strong><span style="color:#00646F">Fabiiii</span></strong>
 - <u>Rang (ingame):</u> Builder Games
-- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+- <u>Nebenverantwortlich:</u> Games-Maps
 
 ###<strong><span style="color:#00646F">GameZter</span></strong>
 - <u>Rang (ingame):</u> Builder Games
-- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+- <u>Nebenverantwortlich:</u> Games-Maps
 
 ###<strong><span style="color:#00646F">Invidia</span></strong>
 - <u>Rang (ingame):</u> Builder Games
-- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+- <u>Nebenverantwortlich:</u> Games-Maps
 
 ### <strong><span style="color:#00646F">Jukplays</span></strong>
 - <u>Rang (ingame):</u> Builder Games
-- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+- <u>Nebenverantwortlich:</u> Games-Maps
 
 ### <strong><span style="color:#00646F">magic_knoba</span></strong>
 - <u>:Rang (ingame):</u> Builder Games
-- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+- <u>Nebenverantwortlich:</u> Games-Maps
 
 ###<strong><span style="color:#00646F">Manta</span></strong>
 - <u>Rang (ingame):</u> Builder Games
-- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+- <u>Nebenverantwortlich:</u> Games-Maps
 
 ### <strong><span style="color:#00646F">Memoryos</span></strong>
 - <u>Rang (ingame):</u> Builder Games
-- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+- <u>Nebenverantwortlich:</u> Games-Maps
 
 ###<strong><span style="color:#00646F">NikiPlays</span></strong>
 - <u>Rang (ingame):</u> Builder Games
-- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+- <u>Nebenverantwortlich:</u> Games-Maps
 
 ###<strong><span style="color:#00646F">ProExecution</span></strong>
 - <u>Rang (ingame):</u> Builder Games
-- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+- <u>Nebenverantwortlich:</u> Games-Maps
 
 ###<strong><span style="color:#00646F">ToxicBlom</span></strong>
 - <u>Rang (ingame):</u> Builder Games
-- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+- <u>Nebenverantwortlich:</u> Games-Maps
 
 ###<strong><span style="color:#00646F">Vectrail</span></strong>
 - <u>Rang (ingame):</u> Builder Games
-- <u>Aufgabenbereich(e):</u> Games-Maps (HV), Games-Builder (HV), Bauevent (HV), Bautresor (HV), Gameshub (HV)
+- <u>Hauptverantworlich:</u> Bauevent, Bautresor, Games-Builder, Games-Maps
 
 ### <strong><span style="color:#00646F">WildeMaus</span></strong>
 - <u>Rang (ingame):</u> Builder Games
-- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+- <u>Nebenverantwortlich:</u> Games-Maps
 
 ### <strong><span style="color:#00646F">xnulix</span></strong>
 - <u>Rang (ingame):</u> Builder Games
-- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+- <u>Nebenverantwortlich:</u> Games-Maps
 
 ### <strong><span style="color:#00646F">XoroMC</span></strong>
 - <u>Rang (ingame):</u> Builder Games
-- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+- <u>Nebenverantwortlich:</u> Games-Maps
 
 ### <strong><span style="color:#00646F">Zurrex</span></strong>
 - <u>Rang (ingame):</u> Builder Games
-- <u>Aufgabenbereich(e):</u> Games-Maps (NV)
+- <u>Nebenverantwortlich:</u> Games-Maps
 
 # 2 - CityBuild-Team
 
@@ -341,27 +353,29 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 
 ###<strong>Docmac</strong>
 - <u>Rang (ingame):</u> Administrator CityBuild;TeamSpeak
-- <u>Aufgabenbereich(e):</u> CityBuild-Server (HV), TeamSpeak (HV), Steam (HV), CityBuild-Builder (HV), CityBuild-Supporter (HV)
+- <u>Hauptverantworlich:</u> CityBuild-Builder, CityBuild-Server, CityBuild-Supporter, Steam, TeamSpeak
 
 ###<strong>Edgxxar</span></strong>
 - <u>Rang (ingame):</u> Administrator Games;CityBuild
-- <u>Aufgabenbereich(e):</u> Timolia-Plugins (HV), Root-Server (NV)
+- <u>Hauptverantworlich:</u> Timolia-Plugins
+- <u>Nebenverantwortlich:</u> Root-Server
 
 ###<strong>Evoferry</strong>
 - <u>Rang (ingame):</u> Administrator CityBuild;TeamSpeak
-- <u>Aufgabenbereich(e):</u> CityBuild-Server (HV), CityBuild-Builder (HV), CityBuild-Supporter (HV), TeamSpeak (HV)
+- <u>Hauptverantworlich:</u> CityBuild-Builder, CityBuild-Server, CityBuild-Builder, CityBuild-Supporter, TeamSpeak
 
 ###<strong>MCExpertDE</strong>
 - <u>Rang (ingame):</u> Administrator Games;CityBuild;TeamSpeak
-- <u>Aufgabenbereich(e):</u> Hardware (NV), Timolia-Plugins (HV), Games (HV)
+- <u>Hauptverantworlich:</u> Games, Timolia-Plugins
+- <u>Nebenverantwortlich:</u> Hardware
 
 ###<strong>Moehritz</strong>
 - <u>Rang (ingame):</u> Administrator Games;CityBuild;TeamSpeak
-- <u>Aufgabenbereich(e):</u> Development (HV), Timolia-Plugins (HV)
+- <u>Hauptverantworlich:</u> Development, Timolia-Plugins
 
 ###<strong>xiantiel</strong>
 - <u>Rang (ingame):</u> Administrator Games;CityBuild;TeamSpeak
-- <u>Aufgabenbereich(e):</u> Hardware (HV), Buycraft (HV), Nitrado (HV), Management (HV), Root-Server (HV)
+- <u>Hauptverantworlich:</u> Buycraft ,Hardware, Management, Nitrado, Root-Server
 
 ## Developer
 
@@ -369,15 +383,16 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 ###<strong><span style="color:#007812">tr7zw</span></strong>
 - <u>Rang (ingame):</u> Developer CityBuild
-- <u>Aufgabenbereich(e):</u> CityBuild-Plugins (HV), Farmwelt (HV), CityBuild-Twitter (NV)
+- <u>Hauptverantworlich:</u> CityBuild-Plugins, Farmwelt
+- <u>Nebenverantwortlich:</u> CityBuild-Twitter
 
 ###<strong><span style="color:#007812">ich_komm_morgen</span></strong>
 - <u>Rang (ingame):</u> Developer CityBuild
-- <u>Aufgabenbereich(e):</u> CityBuild-Plugins (NV), Usern helfen (NV)
+- <u>Nebenverantwortlich:</u> CityBuild-Plugins, Usern helfen
 
 ###<strong><span style="color:#007812">KenaiHD</span></strong>
 - <u>Rang (ingame):</u> Developer CityBuild
-- <u>Aufgabenbereich(e):</u> CityBuild-Plugins (NV)
+- <u>Nebenverantwortlich:</u> CityBuild-Plugins
 
 ## Moderatoren
 
@@ -385,31 +400,35 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">byMongo</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Nebenverantwortlich:</u> Usern helfen
 
 ###<strong><span style="color:#CF0101">Caprea</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), CityBuild-Twitter (NV), Summerfields (HV), Aegypten (NV), Weststadt (NV), Flussufer (HV), Sunset Valley (HV)
+- <u>Hauptverantworlich:</u> Flussufer, Summerfields, Sunset Valley
+- <u>Nebenverantwortlich:</u> Aegypten, CityBuild-Twitter, Usern helfen, Weststadt
 
 ###<strong><span style="color:#CF0101">HoleOne</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Events (NV), Atlantis (HV), Hafen (HV), Minedig (NV), Upperhills (NV), Weststadt (NV)
+- <u>Hauptverantworlich:</u> Atlantis, Hafen
+- <u>Nebenverantwortlich:</u> Events, Minedig, Upperhills, Usern helfen, Weststadt
 
 ###<strong><span style="color:#CF0101">JoJoYoshy</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Aegypten (NV), Karibik (NV)
+- <u>Nebenverantwortlich:</u> Aegypten, Karibik, Usern helfen
 
 ###<strong><span style="color:#CF0101">kd9b</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Upper Hills (NV), Weststadt (NV), Karibik (NV)
+- <u>Nebenverantwortlich:</u> Karibik, Upperhills, Usern helfen, Weststadt
 
 ###<strong><span style="color:#CF0101">saporital</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
-- <u>Aufgabenbereich(e):</u> Berg (HV), Downtown (HV), Mammutwald (HV), Minedig (HV), Mittelalter (HV), Wunderland (HV), Oldtown (HV), Atlantis (NV), Hafen (NV)
+- <u>Hauptverantworlich:</u> Berg, Downtown, Mammutwald , Minedig, Mittelalter, Oldtown, Wunderland
+- <u>Nebenverantwortlich:</u> Atlantis, Hafen
 
 ###<strong><span style="color:#CF0101">Twilex</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV), Abbauwelt (HV), Aegypten (HV), Bahnlinien (HV), Japan (HV), Skyland (HV), Wellington (HV), Weststadt (NV)
+- <u>Hauptverantworlich:</u> Abbauwelt, Aegypten, Bahnlinien, Japan, Skyland, Wellington
+- <u>Nebenverantwortlich:</u> Usern helfen, Weststadt
 
 ## Supporter
 
@@ -417,27 +436,27 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">Digimon</span></strong>
 - <u>Rang (ingame):</u> Supporter CityBuild
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Nebenverantwortlich:</u> Usern helfen
 
 ###<strong><span style="color:#E4D100">MCelements0815</span></strong>
 - <u>Rang (ingame):</u> Supporter CityBuild
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Nebenverantwortlich:</u> Usern helfen
 
 ###<strong><span style="color:#E4D100">MCPhilippS</span></strong>
 - <u>Rang (ingame):</u> Supporter CityBuild
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Nebenverantwortlich:</u> Usern helfen
 
 ###<strong><span style="color:#E4D100">uctdzfjkg</span></strong>
 - <u>Rang (ingame):</u> Supporter CityBuild
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Nebenverantwortlich:</u> Usern helfen
 
 ###<strong><span style="color:#E4D100">Vadium</span></strong>
 - <u>Rang (ingame):</u> Supporter CityBuild
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Nebenverantwortlich:</u> Usern helfen
 
 ###<strong><span style="color:#E4D100">Vincent11127</span></strong>
 - <u>Rang (ingame):</u> Supporter CityBuild
-- <u>Aufgabenbereich(e):</u> Usern helfen (NV)
+- <u>Nebenverantwortlich:</u> Usern helfen
 
 ## Builder
 
@@ -445,27 +464,28 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 ###<strong><span style="color:#00646F">engiwuck</span></strong>
 - <u>Rang (ingame):</u> Builder CityBuild
-- <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV)
+- <u>Nebenverantwortlich:</u> CityBuild-Bauten
 
 ###<strong><span style="color:#00646F">HodenKrebsCreme</span></strong>
 - <u>Rang (ingame):</u> Builder CityBuild
-- <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV), Upperhills (NV)
+- <u>Nebenverantwortlich:</u> CityBuild-Bauten, Upperhills
 
 ###<strong><span style="color:#00646F">LaShadow</span></strong>
 - <u>Rang (ingame):</u> Builder CityBuild
-- <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV), Ice Spikes (HV)
+- <u>Hauptverantworlich:</u> Ice Spikes
+- <u>Nebenverantwortlich:</u> CityBuild-Bauten
 
 ###<strong><span style="color:#00646F">Malu8500</span></strong>
 - <u>Rang (ingame):</u> Builder CityBuild
-- <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV)
+- <u>Nebenverantwortlich:</u> CityBuild-Bauten
 
 ###<strong><span style="color:#00646F">Todbringender</span></strong>
 - <u>Rang (ingame):</u> Builder CityBuild
-- <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV)
+- <u>Nebenverantwortlich:</u> CityBuild-Bauten
 
 ###<strong><span style="color:#00646F">Xibrox</span></strong>
 - <u>Rang (ingame):</u> Builder CityBuild
-- <u>Aufgabenbereich(e):</u> CityBuild-Bauten (NV)
+- <u>Nebenverantwortlich:</u> CityBuild-Bauten
 
 # 3 - Team-Wanderungen
 
