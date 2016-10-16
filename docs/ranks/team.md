@@ -489,49 +489,10 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 # 3 - Team-Wanderungen
 
-Hier werden die Aus- und Eintritte, bzw. Beförderungen und Degradierungen im Team aufgelistet.
+Hier werden die Aus- und Eintritte, bzw. Beförderungen und Degradierungen der letzten 6 Monate aufgelistet.
 
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
 | ------ | ------ | ------ | ------ | ------ |
-|_Shinox | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 17.01.16 |
-|byShadowTK | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 17.01.16 |
-|djmedico | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 17.01.16 |
-|DrugDuck | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 17.01.16 |
-|einMole | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 17.01.16 |
-|Handis | <span style="color:#848484">Spieler</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 17.01.16 |
-|Haxxsmart | <span style="color:#00646F">Builder</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 17.01.16 |
-|Jxvxn | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 17.01.16 |
-|MarkuZ_ | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 17.01.16 |
-|Sinzilla | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 17.01.16 |
-|TheNero | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 17.01.16 |
-|Tobi_ | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 17.01.16 |
-|Tss_Creeper | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Keine Lust mehr | 22.01.16 |
-|Ferdy | <span style="color:#E4D100">Supporter</span> | <span style="color:#CF0101">Moderator</span> | Gute Supporterleistung | 24.01.16 |
-|lauratatuetatah | <span style="color:#E4D100">Supporter</span> | <span style="color:#CF0101">Moderator</span> | Gute Supporterleistung | 24.01.16 |
-|Toebi | <span style="color:#E4D100">Supporter</span> | <span style="color:#CF0101">Moderator</span> | Gute Supporterleistung | 24.01.16 |
-|einMole | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | Probemonat nicht bestanden | 03.02.16 |
-|Funkey | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Keine Zeit mehr | 18.02.16 |
-|mountey | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Keine Zeit mehr | 18.02.16 |
-|Spark0fHope | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Keine Zeit mehr | 18.02.16 |
-|Bukkit_PVP | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 19.02.16 |
-|CubeFabi | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 19.02.16 |
-|Crimex | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 19.02.16 |
-|HoleOne | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 19.02.16 |
-|ItsSarahh | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter</span> | Wieder aktiv | 19.02.16 |
-|L0L0 | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 19.02.16 |
-|SeiBitteLeise | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 19.02.16 |
-|JOlegna | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 19.02.16 |
-|vincent0110 | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 19.02.16 |
-|Vucanu | <span style="color:#848484">Spieler</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 19.02.16 |
-|RobinGamerPack | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Keine Motivation mehr | 11.03.16 |
-|Hotarsy | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Keine Lust mehr | 19.03.16 |
-|Calavero | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 25.03.16 |
-|LastR_Raziel | <span style="color:#848484">Spieler</span> | <span style="color:#007812">Developer</span> | AntiCheat programmiert | 25.03.16 |
-|svdragster | <span style="color:#848484">Spieler</span> | <span style="color:#007812">Developer</span> | AntiCheat programmiert | 25.03.16 |
-|logito111 | <span style="color:#007812">Developer</span> | <span style="color:#E4D100">Supporter</span> | Zusaetzlich zu Developer | 25.03.16 |
-|Zortax | <span style="color:#007812">Developer</span> | <span style="color:#E4D100">Supporter</span> | Zusaetzlich zu Developer | 25.03.16 |
-|Niklas | <span style="color:#CF0101">Moderator</span> | <span style="color:#5858FA">Administrator</span> | - | 13.04.16 |
-|Shustinsch | <span style="color:#848484">Spieler</span> | <span style="color:#007812">Developer</span> | - | 13.04.16 |
 |St3giLiebtTim | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 09.05.16 |
 |xJu1ia | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 09.05.16 |
 |TobCrafterDE | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 04.06.16 |
