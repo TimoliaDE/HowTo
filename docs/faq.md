@@ -63,6 +63,10 @@ Bannzeit von insgesamt über 45 Tagen, besteht für dich keine Chance mehr auf e
 - Top: 334CB2
 - Bottom: 334CB2
 
+### Ich kann den Server nicht betreten, woran liegt das?
+Ist dies auch bei anderen Servern der Fall? Wenn ja, dann liegt es an deinem Internet -
+wende dich am besten an deinen Internetanbieter. Wenn nein: Versuch bitte, über hub.timolia.de zu joinen.
+
 # 2 - Games
 
 ### Wo sind Teams erlaubt?
