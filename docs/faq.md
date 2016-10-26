@@ -63,6 +63,8 @@ Bannzeit von insgesamt über 45 Tagen, besteht für dich keine Chance mehr auf e
 - Top: 334CB2
 - Bottom: 334CB2
 
+Hier kannst du die LabyMod-Capes herunterladen: http://imgur.com/a/3elqD
+
 # 2 - Games
 
 ### Wo sind Teams erlaubt?

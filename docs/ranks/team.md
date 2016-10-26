@@ -196,7 +196,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ###<strong><span style="color:#E4D100">L0L0</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantworlich:</u> Spieler melden Forum
-- <u>Nebenverantwortlich:</u> Usern helfen
+- <u>Nebenverantwortlich:</u> JumpWorld Bilder, Usern helfen
 
 ###<strong><span style="color:#E4D100">logito111</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
