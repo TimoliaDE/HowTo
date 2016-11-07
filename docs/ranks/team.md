@@ -221,7 +221,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Nooahh</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Usern helfen
+- <u>Nebenverantwortlich:</u> Entschuldigungen, Spielern melden Forum Usern helfen
 
 ###<strong><span style="color:#E4D100">Re4perz</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
