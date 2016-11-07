@@ -577,11 +577,11 @@ Hier werden die Aus- und Eintritte, bzw. Beförderungen und Degradierungen der l
 |St3giLiebtTim | <span style="color:#E4D100">Supporter</span> | <span style="color:#CF0101">Moderator</span> | Gute Supporterleistung | 05.10.16 |
 |Todbringender | <span style="color:#E4D100">Supporter</span> | <span style="color:#00646F">Builder</span> | Konzentration auf Builder | 08.10.16 |
 |JOlegna | <span style="color:#CF0101">Moderator</span> | <span style="color:#F99500">Native</span> | Konzentration auf Games | 08.10.16 |
-|TheFeldi | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 03.11.16 |
+|TheFeldi | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 03.11.16 |
 |Sry4BowAimbot | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 03.11.16 |
 |xMaudodo | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 03.11.16 |
 |Tedget | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 03.11.16 |
-|Metrixx7 | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 03.11.16 |
-|TaiToni | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 03.11.16 |
-|felliongi21 | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 03.11.16 |
-|Julian_999999999 | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 03.11.16 |
+|Metrixx7 | <span style="color:#848484">Spieler</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 03.11.16 |
+|TaiToni | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 03.11.16 |
+|felliongi21 | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 03.11.16 |
+|Julian_999999999 | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 03.11.16 |
