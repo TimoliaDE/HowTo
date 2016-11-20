@@ -434,11 +434,6 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 - <u>Hauptverantworlich:</u> Flussufer, Summerfields, Sunset Valley
 - <u>Nebenverantwortlich:</u> Aegypten, CityBuild-Twitter, Usern helfen, Weststadt
 
-###<strong><span style="color:#CF0101">HoleOne</span></strong>
-- <u>Rang (ingame):</u> Moderator CityBuild
-- <u>Hauptverantworlich:</u> Atlantis, Hafen
-- <u>Nebenverantwortlich:</u> Events, Minedig, Upperhills, Usern helfen, Weststadt
-
 ###<strong><span style="color:#CF0101">JoJoYoshy</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
 - <u>Nebenverantwortlich:</u> Aegypten, Karibik, Usern helfen
@@ -461,10 +456,6 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind die ersten, an die ihr euch wenden könnt.
 
-###<strong><span style="color:#E4D100">Digimon</span></strong>
-- <u>Rang (ingame):</u> Supporter CityBuild
-- <u>Nebenverantwortlich:</u> Usern helfen
-
 ###<strong><span style="color:#E4D100">MCelements0815</span></strong>
 - <u>Rang (ingame):</u> Supporter CityBuild
 - <u>Nebenverantwortlich:</u> Usern helfen
@@ -474,10 +465,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Nebenverantwortlich:</u> Usern helfen
 
 ###<strong><span style="color:#E4D100">uctdzfjkg</span></strong>
-- <u>Rang (ingame):</u> Supporter CityBuild
-- <u>Nebenverantwortlich:</u> Usern helfen
-
-###<strong><span style="color:#E4D100">Vadium</span></strong>
 - <u>Rang (ingame):</u> Supporter CityBuild
 - <u>Nebenverantwortlich:</u> Usern helfen
 
@@ -500,10 +487,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ###<strong><span style="color:#00646F">LaShadow</span></strong>
 - <u>Rang (ingame):</u> Builder CityBuild
 - <u>Hauptverantworlich:</u> Ice Spikes
-- <u>Nebenverantwortlich:</u> CityBuild-Bauten
-
-###<strong><span style="color:#00646F">Malu8500</span></strong>
-- <u>Rang (ingame):</u> Builder CityBuild
 - <u>Nebenverantwortlich:</u> CityBuild-Bauten
 
 ###<strong><span style="color:#00646F">Todbringender</span></strong>

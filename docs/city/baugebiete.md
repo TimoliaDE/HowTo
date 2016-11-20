@@ -23,12 +23,7 @@ Du darfst auf deinem GS maximal 10 Haustiere haben.
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
-| JOlegna | Hauptverantwortlich |
-| Caprea | Nebenverantwortlich |
-| Digimon | Nebenverantwortlich |
-| HoleOne| Nebenverantwortlich |
-| kd9b | Nebenverantwortlich |
-| Twilex | Nebenverantwortlich |
+| TimoliaTeam | Hauptverantwortlich |
 
 ## 2 - Upperhills
 
@@ -58,7 +53,6 @@ eingehalten werden, es werden keine Blöcke außerhalb des Grundstückes gesetzt
 | Verantwortliche | Funktion |
 | ------ | -------- |
 | JOlegna | Hauptverantwortlich |
-| HoleOne| Nebenverantwortlich |
 | kd9b | Nebenverantwortlich |
 
 ## 3 - Downtown
@@ -121,9 +115,10 @@ Erforsche sie und entdecke alle tollen Sachen von Ägypten und finde alle Geheim
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
+
 | Twilex | Hauptverantwortlich |
+| Caprea| Hauptverantwortlich |
 | JoJoYoshy| Nebenverantwortlich |
-| Caprea| Nebenverantwortlich |
 
 ## 6 - Atlantis
 
@@ -142,9 +137,7 @@ bau dir ein kleines Reich inmitten der Ruinen von Atlantis.
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
-| HoleOne | Hauptverantwortlich |
-| Saporital | Nebenverantwortlich |
-
+| Saporital | Hauptverantwortlich |
 
 ## 7 - Flussufer
 
@@ -206,6 +199,7 @@ Oben auf den Bergen ließen sich die reicheren Leute nieder und haben prachtvoll
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
+| LaShadow | Hauptverantwortlich |
 | Twilex | Hauptverantwortlich |
 
 ## 10 - Karibik
@@ -233,6 +227,7 @@ Jeder User darf auch nur ein Boot besitzen. Es sind keine Farmen auf den Booten 
 | ------ | -------- |
 | JOlegna | Hauptverantwortlich |
 | JoJoYoshy | Nebenverantwortlich |
+| saporital | Nebenverantwortlich |
 | kd9b | Nebenverantwortlich |
 
 
