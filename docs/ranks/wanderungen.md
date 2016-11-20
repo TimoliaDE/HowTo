@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>November</span></strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
 | ------ | ------ | ------ | ------ | ------ |
+|Malu8500 | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | Keine Motivation, Inaktivität| 18.09.16 |
 |JOlegna | <span style="color:#F99500">Native</span> | <span style="color:#CF0101">Moderator</span> | Aus der Pause zurück | 19.11.16 |
 |RobinGamerPack | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | Private Gründe | 18.11.16 |
 |mTAce | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Keine Motivation | 17.11.16 |
