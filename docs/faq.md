@@ -22,8 +22,12 @@ Des weiteren sind sie für die Website und den TeamSpeak-Server zuständig.
 Sie koordinieren Supporter und dienen sowohl als Ansprechpartner als auch als Brücke zwischen Supporter und Administrator.
 Er/Sie bündelt Fragen und Probleme und leitet diese weiter. Teammitglieder mit speziellen Aufgabenbereichen sind meist ebenfalls Moderatoren, 
 hierzu gehören zum Beispiel Map-Einsendungen, TeamSpeak, Forum oder andere Bereiche.
+- <u>Developer:</u>
+Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi und helfen bei Problemen und Bugs.
 - <u>Supporter:</u>
 Sie stehen für alle grundlegenden Fragen zur Verfügung, nehmen Reports entgegen und sind die ersten Ansprechpartner, wenn du Probleme hast.
+- <u>Builder:</u>
+Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entwerfen stetig neue Bauten.
 - <u>Expert:</u>
 Dies ist der Lifetime-Premium-Rang von Timolia. Welche Vorteile dir dieser Rang bietet, erfährst du in unserem Shop.
 - <u>Pro:</u>

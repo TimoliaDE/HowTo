@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>November</span></strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
 | ------ | ------ | ------ | ------ | ------ |
+|RobinGamerPack | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | Private Gründe | 18.11.16 |
 |mTAce | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Keine Motivation | 17.11.16 |
 |TheFeldi | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 03.11.16 |
 |Sry4BowAimbot | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 03.11.16 |
