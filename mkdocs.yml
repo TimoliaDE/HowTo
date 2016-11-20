@@ -31,6 +31,7 @@ pages:
   - Premium-Ränge: 'ranks/premium.md'
   - YouTuber-Rang: 'ranks/youtube.md'
   - Das Timolia-Team: 'ranks/team.md'
+  - Team-Wanderungen: 'ranks/wanderungen.md'
 
 theme: readthedocs
 site_author: tixia UG (haftungsbeschraenkt)
