@@ -5,8 +5,11 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>November</span></strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
 | ------ | ------ | ------ | ------ | ------ |
+|JOlegna | <span style="color:#F99500">Native</span> | <span style="color:#CF0101">Moderator</span> | Aus der Pause zurück | 19.11.16 |
 |RobinGamerPack | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | Private Gründe | 18.11.16 |
 |mTAce | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Keine Motivation | 17.11.16 |
+|Digimon | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Keine Motivation | 05.11.16 |
+|Vadium | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Konzentration auf Games | 05.11.16 |
 |TheFeldi | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 03.11.16 |
 |Sry4BowAimbot | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 03.11.16 |
 |xMaudodo | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen | 03.11.16 |
@@ -19,6 +22,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>Oktober</span></strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
 | ------ | ------ | ------ | ------ | ------ |
+|HoleOne | <span style="color:#CF0101">Moderator</span> | <span style="color:#F99500">Native</span> | Keine Motivation | 22.10.16 |
 |Todbringender | <span style="color:#E4D100">Supporter</span> | <span style="color:#00646F">Builder</span> | Konzentration auf Builder | 08.10.16 |
 |JOlegna | <span style="color:#CF0101">Moderator</span> | <span style="color:#F99500">Native</span> | Konzentration auf Games | 08.10.16 |
 |Horsti98 | <span style="color:#CF0101">Moderator</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation, Inaktivität| 05.10.16 |
@@ -29,7 +33,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 |Vucanu | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Keine Motivation, Inaktivität| 05.10.16 |
 |SeiBitteLeise | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation, Inaktivität| 05.10.16 |
 |Tobi_ | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Keine Motivation, Inaktivität| 05.10.16 |
-|SirD4ve | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</spa | Keine Motivation, Inaktivität| 05.10.16 |
+|SirD4ve | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation, Inaktivität| 05.10.16 |
 |Jvxvn | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation, Inaktivität| 05.10.16 |
 |litsche | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | Keine Motivation, Inaktivität| 05.10.16 | 
 |Caelis | <span style="color:#E4D100">Supporter</span> | <span style="color:#CF0101">Moderator</span> | Gute Supporterleistung | 05.10.16 |
@@ -59,7 +63,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>Juli</span></strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
 | ------ | ------ | ------ | ------ | ------ |
-|_Geizhals_ | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 31.07.16 |
+|\_Geizhals_ | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 31.07.16 |
 |BauEule | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 31.07.16 |
 |MineNRW | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 31.07.16 |
 |TacticalDOC | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 31.07.16 |
