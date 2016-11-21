@@ -183,7 +183,8 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">ItsSarahh</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Entbannungsanträge, Twitter, Usern helfen
+- <u>Hauptverantwortlich:</u> Entbannungsanträge
+- <u>Nebenverantwortlich:</u> Twitter, Usern helfen
 
 ### <strong><span style="color:#E4D100">JOlegna</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
