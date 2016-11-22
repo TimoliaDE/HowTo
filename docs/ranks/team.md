@@ -94,10 +94,6 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 - <u>Rang (ingame):</u> Moderator Games;CityBuild;TeamSpeak
 - <u>Hauptverantworlich:</u> Entbannungsanträge, Feedback Forum, TeamSpeak
 
-###<strong><span style="color:#CF0101">Siimon</span></strong>
-- <u>Rang (ingame):</u> Moderator Games
-- <u>Hauptverantworlich:</u> Alles
-
 ###<strong><span style="color:#CF0101">St3giLiebtTim</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
 - <u>Hauptverantworlich:</u> Social Media
