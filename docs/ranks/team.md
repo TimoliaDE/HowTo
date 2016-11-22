@@ -39,7 +39,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Nebenverantwortlich:</u>  Timolia-Plugins (NV)
 
 ### <strong><span style="color:#007812">Caelis</span></strong>
-- <u>Rang (ingame):</u> Supporter Games;CityBuild;TeamSpeak
+- <u>Rang (ingame):</u> Moderator Games;CityBuild;TeamSpeak
 - <u>Hauptverantworlich:</u> Ansprechpartner f. Development
 - <u>Nebenverantwortlich:</u> Timolia-Plugins
 
