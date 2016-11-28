@@ -38,6 +38,10 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Rang (ingame):</u> Developer
 - <u>Nebenverantwortlich:</u>  Timolia-Plugins (NV)
 
+### <strong><span style="color:#007812">BlueWather2</span></strong>
+- <u>Rang (ingame):</u> Developer
+- <u>Nebenverantwortlich:</u>  Timolia-Plugins (NV)
+
 ### <strong><span style="color:#007812">Caelis</span></strong>
 - <u>Rang (ingame):</u> Moderator Games;CityBuild;TeamSpeak
 - <u>Hauptverantworlich:</u> Ansprechpartner f. Development
@@ -55,6 +59,10 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Timolia-Plugins
 
+### <strong><span style="color:#007812">MatzyDE</span></strong>
+- <u>Rang (ingame):</u> Developer
+- <u>Nebenverantwortlich:</u>  Timolia-Plugins (NV)
+
 ### <strong><span style="color:#007812">Shustin</span></strong>
 - <u>Rang (ingame):</u> Developer
 - <u>Nebenverantwortlich:</u> Timolia-Plugins
@@ -66,6 +74,10 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ### <strong><span style="color:#007812">TheBrownShape</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> TeamSpeak-Bot
+
+### <strong><span style="color:#007812">tr7zw</span></strong>
+- <u>Rang (ingame):</u> Developer
+- <u>Nebenverantwortlich:</u>  Timolia-Plugins (NV)
 
 ### <strong><span style="color:#007812">Zortax</span></strong>
 - <u>Rang (ingame):</u> Developer
@@ -92,12 +104,12 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">KenaiHD</span></strong>
 - <u>Rang (ingame):</u> Moderator Games;CityBuild;TeamSpeak
-- <u>Hauptverantworlich:</u> Entbannungsanträge, Feedback Forum, TeamSpeak
+- <u>Hauptverantworlich:</u> Entbannungsanträge, Feedback Forum, Meldungen im Forum, TeamSpeak
 
 ###<strong><span style="color:#CF0101">St3giLiebtTim</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
 - <u>Hauptverantworlich:</u> Social Media
-- <u>Nebenverantwortlich:</u> Entbannungsanträge, Fragen und Antworten Forum
+- <u>Nebenverantwortlich:</u> Entbannungsanträge, Fragen und Antworten Forum, Meldungen im Forum
 
 ###<strong><span style="color:#CF0101">Thomasch</span></strong>
 - <u>Rang (ingame):</u> Moderator Games;TeamSpeak
@@ -111,7 +123,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">\_Rudi\_</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantworlich:</u> Off-Topic Forum, Vorstellungen im Forum
-- <u>Nebenverantwortlich:</u> Spieler melden Forum, Usern helfen
+- <u>Nebenverantwortlich:</u> Spieler melden Forum, Entbannungsanträge, Fragen und Antworten Forum, Meldungen im Forum, Usern helfen
 
 ###<strong><span style="color:#E4D100">_Shinox</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -128,7 +140,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">BuffmonsterOne</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Usern helfen
+- <u>Nebenverantwortlich:</u> Spieler melden Forum, Usern helfen
 
 ###<strong><span style="color:#E4D100">Bukkit_PVP</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -171,10 +183,11 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Flaxify</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Usern helfen
+- <u>Nebenverantwortlich:</u> Entbannungsanträge, Usern helfen
 
 ###<strong><span style="color:#E4D100">Handis</span></strong>
 - <u>Rang (ingame):</u> Supporter Games;TeamSpeak
+- <u>Hauptverantworlich:</u> Meldungen im Forum
 - <u>Nebenverantwortlich:</u> TeamSpeak, Usern helfen
 
 ###<strong><span style="color:#E4D100">ItsSarahh</span></strong>
@@ -183,12 +196,12 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Nebenverantwortlich:</u> Twitter, Usern helfen
 
 ### <strong><span style="color:#E4D100">JOlegna</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
+- <u>Rang (ingame):</u> Supporter Games;CityBuild;TeamSpeak 
 - <u>Nebenverantwortlich:</u> Entbannungsanträge, TeamSpeak, Timolia Anleitung, Usern helfen
 
 ### <strong><span style="color:#E4D100">Julian_999999999</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Usern helfen
+- <u>Nebenverantwortlich:</u> Fragen und Antworten Forum, Spieler melden Forum, Usern helfen
 
 ###<strong><span style="color:#E4D100">Karpfen17</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -217,7 +230,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Nooahh</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Entschuldigungen, Spielern melden Forum Usern helfen
+- <u>Nebenverantwortlich:</u> Entbannungsanträge, Spieler melden Forum, Vorstellungen im Forum, Fragen und Antworten Forum, Off- Topic Forum, Usern helfen 
 
 ###<strong><span style="color:#E4D100">Re4perz</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -237,7 +250,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Tedget</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Usern helfen
+- <u>Nebenverantwortlich:</u> Entbannungsanträge, Usern helfen
 
 ###<strong><span style="color:#E4D100">TheBrownShape</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -245,7 +258,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">TheFeldi</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Usern helfen
+- <u>Nebenverantwortlich:</u> Fragen und Antworten Forum, Usern helfen
 
 ###<strong><span style="color:#E4D100">Tiem</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -266,7 +279,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">xH3lix</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Usern helfen
+- <u>Nebenverantwortlich:</u> Entbannungsanträge, Spieler melden Forum, Usern helfen
 
 ### <strong><span style="color:#E4D100">xJu1ia</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -274,7 +287,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">xMaudodo</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Usern helfen
+- <u>Nebenverantwortlich:</u> Entbannungsanträge, Usern helfen
 
 ###<strong><span style="color:#E4D100">Zortax</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -308,6 +321,10 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder Games
 - <u>Nebenverantwortlich:</u> Games-Maps
 
+###<strong><span style="color:#00646F">Eddyyyyyyy</span></strong>
+- <u>Rang (ingame):</u> Builder Games
+- <u>Nebenverantwortlich:</u> Games-Maps
+
 ###<strong><span style="color:#00646F">Fabiiii</span></strong>
 - <u>Rang (ingame):</u> Builder Games
 - <u>Nebenverantwortlich:</u> Games-Maps
@@ -322,10 +339,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 ### <strong><span style="color:#00646F">Jukplays</span></strong>
 - <u>Rang (ingame):</u> Builder Games
-- <u>Nebenverantwortlich:</u> Games-Maps
-
-### <strong><span style="color:#00646F">magic_knoba</span></strong>
-- <u>:Rang (ingame):</u> Builder Games
 - <u>Nebenverantwortlich:</u> Games-Maps
 
 ###<strong><span style="color:#00646F">Manta</span></strong>
@@ -344,7 +357,7 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder Games
 - <u>Nebenverantwortlich:</u> Games-Maps
 
-###<strong><span style="color:#00646F">ToxicBlom</span></strong>
+###<strong><span style="color:#00646F">sirzurrex</span></strong>
 - <u>Rang (ingame):</u> Builder Games
 - <u>Nebenverantwortlich:</u> Games-Maps
 
@@ -364,10 +377,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder Games
 - <u>Nebenverantwortlich:</u> Games-Maps
 
-### <strong><span style="color:#00646F">Zurrex</span></strong>
-- <u>Rang (ingame):</u> Builder Games
-- <u>Nebenverantwortlich:</u> Games-Maps
-
 # 2 - CityBuild-Team
 
 ## Administratoren
@@ -377,7 +386,7 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 
 ###<strong>Docmac</strong>
 - <u>Rang (ingame):</u> Administrator CityBuild;TeamSpeak
-- <u>Hauptverantworlich:</u> CityBuild-Builder, CityBuild-Server, CityBuild-Supporter, Steam, TeamSpeak
+- <u>Hauptverantworlich:</u> CityBuild-Server, Steam, TeamSpeak
 
 ###<strong>Edgxxar</span></strong>
 - <u>Rang (ingame):</u> Administrator Games;CityBuild
@@ -386,7 +395,7 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 
 ###<strong>Evoferry</strong>
 - <u>Rang (ingame):</u> Administrator CityBuild;TeamSpeak
-- <u>Hauptverantworlich:</u> CityBuild-Builder, CityBuild-Server, CityBuild-Builder, CityBuild-Supporter, TeamSpeak
+- <u>Hauptverantworlich:</u> CityBuild-Server, TeamSpeak
 
 ###<strong>MCExpertDE</strong>
 - <u>Rang (ingame):</u> Administrator Games;CityBuild;TeamSpeak
@@ -410,6 +419,10 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Hauptverantworlich:</u> CityBuild-Plugins, Farmwelt
 - <u>Nebenverantwortlich:</u> CityBuild-Twitter
 
+### <strong><span style="color:#007812">Caelis</span></strong>
+- <u>Rang (ingame):</u> Moderator Games;CityBuild;TeamSpeak
+- <u>Nebenverantwortlich:</u> CityBuild-Plugins
+
 ###<strong><span style="color:#007812">ich_komm_morgen</span></strong>
 - <u>Rang (ingame):</u> Developer CityBuild
 - <u>Nebenverantwortlich:</u> CityBuild-Plugins, Usern helfen
@@ -429,29 +442,34 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ###<strong><span style="color:#CF0101">Caprea</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
 - <u>Hauptverantworlich:</u> Flussufer, Summerfields, Sunset Valley
-- <u>Nebenverantwortlich:</u> Aegypten, CityBuild-Twitter, Usern helfen, Weststadt
+- <u>Nebenverantwortlich:</u> Aegypten, CityBuild-Twitter, Usern helfen
 
 ###<strong><span style="color:#CF0101">JoJoYoshy</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
 - <u>Nebenverantwortlich:</u> Aegypten, Karibik, Usern helfen
 
+### <strong><span style="color:#CF0101">JOlegna</span></strong>
+- <u>Rang (ingame):</u> Moderator Games;CityBuild;TeamSpeak 
+- <u>Hauptverantworlich:</u> Upperhills, Events, CityBuild-Supporter
+- <u>Nebenverantwortlich:</u> Timolia Anleitung, Usern helfen, Teamspeak, Bahnlinien
+
 ###<strong><span style="color:#CF0101">kd9b</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
-- <u>Nebenverantwortlich:</u> Karibik, Upperhills, Usern helfen, Weststadt
+- <u>Nebenverantwortlich:</u> Karibik, Upperhills, Usern helfen
 
 ###<strong><span style="color:#CF0101">saporital</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
-- <u>Hauptverantworlich:</u> Berg, Downtown, Mammutwald , Minedig, Mittelalter, Oldtown, Wunderland
+- <u>Hauptverantworlich:</u> CityBuild-Builder, Berg, Downtown, Mammutwald , Minedig, Mittelalter, Oldtown, Wunderland
 - <u>Nebenverantwortlich:</u> Atlantis, Hafen
 
 ###<strong><span style="color:#CF0101">Twilex</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
 - <u>Hauptverantworlich:</u> Abbauwelt, Aegypten, Bahnlinien, Japan, Skyland, Wellington
-- <u>Nebenverantwortlich:</u> Usern helfen, Weststadt
+- <u>Nebenverantwortlich:</u> Usern helfen
 
 ## Supporter
 
-Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind die ersten, an die ihr euch wenden könnt.
+Sie stehen für alle grundlegenden Fragen zur Verfügung und sind die ersten, an die ihr euch wenden könnt.
 
 ###<strong><span style="color:#E4D100">MCelements0815</span></strong>
 - <u>Rang (ingame):</u> Supporter CityBuild
@@ -460,6 +478,15 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ###<strong><span style="color:#E4D100">MCPhilippS</span></strong>
 - <u>Rang (ingame):</u> Supporter CityBuild
 - <u>Nebenverantwortlich:</u> Usern helfen
+
+###<strong><span style="color:#E4D100">Scorpittaria</span></strong>
+- <u>Rang (ingame):</u> Supporter CityBuild
+- <u>Nebenverantwortlich:</u> Usern helfen
+
+###<strong><span style="color:#E4D100">PodgeT</span></strong>
+- <u>Rang (ingame):</u> Supporter CityBuild
+- <u>Nebenverantwortlich:</u> Usern helfen
+
 
 ###<strong><span style="color:#E4D100">uctdzfjkg</span></strong>
 - <u>Rang (ingame):</u> Supporter CityBuild

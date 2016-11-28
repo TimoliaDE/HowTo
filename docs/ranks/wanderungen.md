@@ -1,10 +1,13 @@
-Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufgelistet.
+Hier werden alle Aus-, Eintritte, bzw. Beförderungen und Degradierungen aufgelistet.
 
 # 2016
 
 ###<strong>November</span></strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
 | ------ | ------ | ------ | ------ | ------ |
+|mTAce | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter</span> | Aus der Pause zurück| 28.11.16 |
+|Scorpittaria | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen| 28.11.16 |
+|PodgeT | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | Positiv aufgefallen| 28.11.16 |
 |Siimon | <span style="color:#CF0101">Moderator</span> | <span style="color:#00F9EC">Expert</span> | Keine Zeit und Motivation| 22.11.16 |
 |JOlegna | <span style="color:#F99500">Native</span> | <span style="color:#CF0101">Moderator</span> | Aus der Pause zurück | 19.11.16 |
 |Malu8500 | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | Keine Motivation, Inaktivität| 18.11.16 |
