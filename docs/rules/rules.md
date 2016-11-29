@@ -130,8 +130,8 @@ Versuchst du nun, diesen Kick mit bestimmten Mechanismen zu umgehen, so wird das
 ## §10.7 - Betrug von Spielern
 Das absichtliche Betrügen anderer Spieler oder des Serverteams ist verboten und wird mit einem Bann bestraft. Das beinhaltet irreführende Verkäufe von Items in deinem Shop, genauso wie das Abzocken anderer Spieler im Chat.
 
-## §10.8 - Nicht benützen des Handelschats
-Das voraussichtliche ignorieren des Handelschats kann Konsequenzen mit sich ziehen. Darunter zählt explizit das Verkaufen von Items, aber auch Werbung für den eigenen Shop gehört in diesen Channel.
+## §10.8 - Nicht-benutzen des Handelschats
+Das vorsätzliche Ignorieren des Handelschats kann Konsequenzen mit sich ziehen. Darunter zählt explizit das Verkaufen von Items, aber auch Werbung für den eigenen Shop gehört in diesen Channel.
 
 ## §10.9 - Redstoneclocks
 Vollautomatische Farmen, die über eine Redstoneclock angesteuert werden sind verboten. Hierzu zählen alle automatischen Farmen, die ohne Einwirkung eines Spielers ausgelöst werden. Halbautomatische Farmen die über einen Knopf oder Hebel aktiviert werden sind erlaubt.
