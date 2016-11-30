@@ -49,9 +49,23 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 - <u>Hauptverantworlich:</u> Entbannungsanträge
 - <u>Nebenverantwortlich:</u> Social-Media, Usern helfen
 
+###<strong><span style="color:##CF0101">ItsSarahh</span></strong>
+- <u>Rang (ingame):</u> Moderatorin Games
+- <u>Hauptverantwortlich:</u> Entbannungsanträge
+- <u>Nebenverantwortlich:</u> Twitter, Usern helfen
+
 ###<strong><span style="color:#CF0101">KenaiHD</span></strong>
 - <u>Rang (ingame):</u> Moderator Games;CityBuild;TeamSpeak
 - <u>Hauptverantworlich:</u> Entbannungsanträge, Feedback Forum, TeamSpeak
+
+###<strong><span style="color:#CF0101">L0L0</span></strong>
+- <u>Rang (ingame):</u> Moderator Games
+- <u>Hauptverantworlich:</u> Spieler melden Forum
+- <u>Nebenverantwortlich:</u> JumpWorld Bilder, Usern helfen
+
+###<strong><span style="color:#CF0101">Siimon</span></strong>
+- <u>Rang (ingame):</u> Moderator Games
+- <u>Hauptverantworlich:</u> Alles
 
 ###<strong><span style="color:#CF0101">St3giLiebtTim</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
@@ -177,11 +191,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games;TeamSpeak
 - <u>Nebenverantwortlich:</u> TeamSpeak, Usern helfen
 
-###<strong><span style="color:#E4D100">ItsSarahh</span></strong>
-- <u>Rang (ingame):</u> Supporterin Games
-- <u>Hauptverantwortlich:</u> Entbannungsanträge
-- <u>Nebenverantwortlich:</u> Twitter, Usern helfen
-
 ### <strong><span style="color:#E4D100">JOlegna</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Entbannungsanträge, TeamSpeak, Timolia Anleitung, Usern helfen
@@ -197,11 +206,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ###<strong><span style="color:#E4D100">Krumru</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Usern helfen
-
-###<strong><span style="color:#E4D100">L0L0</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Hauptverantworlich:</u> Spieler melden Forum
-- <u>Nebenverantwortlich:</u> JumpWorld Bilder, Usern helfen
 
 ###<strong><span style="color:#E4D100">logito111</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
