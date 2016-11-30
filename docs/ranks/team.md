@@ -395,7 +395,9 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter CityBuild
 - <u>Nebenverantwortlich:</u> Usern helfen
 
-#3 - Builder
+
+
+##3 - Builder
 
 Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entwerfen stetig neue Bauten.
 
