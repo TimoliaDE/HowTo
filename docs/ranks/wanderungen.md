@@ -6,7 +6,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
 | ------ | ------ | ------ | ------ | ------ |
 |mTAce | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter Games</span> | Wieder Motivation | 28.11.16 |
-|Scorpittaria | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter City</span> | Positiv aufgefallen | 27.11.16 |
+|Scorpittaria | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporterin City</span> | Positiv aufgefallen | 27.11.16 |
 |PodgeT | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter City</span> | Positiv aufgefallen | 27.11.16 |
 |Siimon | <span style="color:#CF0101">Moderator Games</span> | <span style="color:#00F9EC">Expert</span> | Keine Zeit und Motivation| 22.11.16 |
 |JOlegna | <span style="color:#F99500">Native</span> | <span style="color:#CF0101">Moderator City</span> | Aus der Pause zurück | 19.11.16 |
@@ -33,7 +33,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 |Horsti98 | <span style="color:#CF0101">Moderator Games</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation, Inaktivität| 05.10.16 | 
 |Dark_Gamer_98 | <span style="color:#CF0101">Moderator Games</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation, Inaktivität| 05.10.16 |
 |Poxari | <span style="color:#CF0101">Moderator Games</span> | <span style="color:#8B008B">YouTuber</span> | Keine Motivation, Inaktivität| 05.10.16 |
-|lauratatuetatah | <span style="color:#CF0101">Moderator Games</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation, Inaktivität| 05.10.16 |
+|lauratatuetatah | <span style="color:#CF0101">Moderatorin Games</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation, Inaktivität| 05.10.16 |
 |Toebi | <span style="color:#CF0101">Moderator Games</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation, Inaktivität| 05.10.16 |
 |Vucanu | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | Keine Motivation, Inaktivität| 05.10.16 |
 |SeiBitteLeise | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation, Inaktivität| 05.10.16 |
