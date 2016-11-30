@@ -215,6 +215,11 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Usern helfen
 
+### <strong><span style="color:#E4D100">mTAce</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+- <u>Hauptverantwortlich:</u> Spieler melden Forum
+- <u>Nebenverantwortlich:</u> Usern helfen
+
 ### <strong><span style="color:#E4D100">Nooahh</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Entschuldigungen, Spielern melden Forum Usern helfen
@@ -460,6 +465,15 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ###<strong><span style="color:#E4D100">MCPhilippS</span></strong>
 - <u>Rang (ingame):</u> Supporter CityBuild
 - <u>Nebenverantwortlich:</u> Usern helfen
+
+###<strong><span style="color:#E4D100">PodgeT</span></strong>
+- <u>Rang (ingame):</u> Supporter CityBuild
+- <u>Hauptverantwortlich:</u> CityBuild Forum
+- <u>Nebenverantwortlich:</u> Usern helfen
+
+###<strong><span style="color:#E4D100">Scorpittaria</span></strong>
+- <u>Rang (ingame):</u> Supporter CityBuild
+- <u>Nebenverantwortlich:</u> CityBuild Forum, Fragen und Antowrten Forum, Usern helfen
 
 ###<strong><span style="color:#E4D100">uctdzfjkg</span></strong>
 - <u>Rang (ingame):</u> Supporter CityBuild
