@@ -35,7 +35,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 | ------ | ------ | ------ | ------ | ------ |
 |HoleOne | <span style="color:#CF0101">Moderator City</span> | <span style="color:#F99500">Native</span> | Keine Motivation | 22.10.16 |
 |Todbringender | <span style="color:#E4D100">Supporter City</span> | <span style="color:#00646F">Builder</span> | Konzentration auf Builder | 08.10.16 |
-|JOlegna | <span style="color:#CF0101">Moderator Games</span> | <span style="color:#F99500">Native</span> | Konzentration auf Games | 08.10.16 |
+|JOlegna | <span style="color:#CF0101">Moderator City</span> | <span style="color:#F99500">Native</span> | Konzentration auf Games | 08.10.16 |
 |Horsti98 | <span style="color:#CF0101">Moderator Games</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation, Inaktivität| 05.10.16 | 
 |Dark_Gamer_98 | <span style="color:#CF0101">Moderator Games</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation, Inaktivität| 05.10.16 |
 |Poxari | <span style="color:#CF0101">Moderator Games</span> | <span style="color:#8B008B">YouTuber</span> | Keine Motivation, Inaktivität| 05.10.16 |

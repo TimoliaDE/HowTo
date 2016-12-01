@@ -49,7 +49,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 - <u>Hauptverantworlich:</u> Entbannungsanträge
 - <u>Nebenverantwortlich:</u> Social-Media, Usern helfen
 
-###<strong><span style="color:##CF0101">ItsSarahh</span></strong>
+###<strong><span style="color:#CF0101">ItsSarahh</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
 - <u>Hauptverantwortlich:</u> Entbannungsanträge
 - <u>Nebenverantwortlich:</u> Twitter, Usern helfen
