@@ -2,7 +2,12 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 
 # 2016
 
-###<strong>November</span></strong>
+###<strung>Dezember</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
+| ------ | ------ | ------ | ------ | ------ |
+|Handis | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | Keine Zeit | 01.12.16 |
+
+###<strong>November</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
 | ------ | ------ | ------ | ------ | ------ |
 |L0L0 | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#CF0101">Moderator Games</span> | Gute Supporterleistung | 30.11.16 |
@@ -25,7 +30,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 |felliongi21 | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | Positiv aufgefallen | 03.11.16 |
 |Julian_999999999 | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | Positiv aufgefallen | 03.11.16 |
 
-###<strong>Oktober</span></strong>
+###<strong>Oktober</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
 | ------ | ------ | ------ | ------ | ------ |
 |HoleOne | <span style="color:#CF0101">Moderator City</span> | <span style="color:#F99500">Native</span> | Keine Motivation | 22.10.16 |
@@ -45,14 +50,14 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 |Caelis | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#CF0101">Moderator Games</span> | Gute Supporterleistung | 05.10.16 |
 |St3giLiebtTim | <span style="color:#E4D100">Supporterin Games</span> | <span style="color:#CF0101">Moderatorin Games</span> | Gute Supporterleistung | 05.10.16 |
 
-###<strong>September</span></strong>
+###<strong>September</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
 | ------ | ------ | ------ | ------ | ------ |
 |MC_Meeh | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | Private Gründe| 18.09.16 |
 |RayQu | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | Keine Zeit mehr | 15.09.16 |
 |12build | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | Private Gründe | 13.09.16 |
 
-###<strong>August</span></strong>
+###<strong>August</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
 | ------ | ------ | ------ | ------ | ------ |
 |TacticalDOC | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | Private Gründe | 31.08.16 |
@@ -66,7 +71,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 |LeePvP | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | Keine Lust mehr | 05.08.16 |
 |Luzii | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | Keine Lust mehr | 05.08.16 |
 
-###<strong>Juli</span></strong>
+###<strong>Juli<</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
 | ------ | ------ | ------ | ------ | ------ |
 |\_Geizhals_ | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 31.07.16 |
@@ -87,7 +92,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 |Jukplays | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 17.07.16 |
 |magic_knoba | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 17.07.16 |
 
-###<strong>Juni</span></strong>
+###<strong>Juni</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
 | ------ | ------ | ------ | ------ | ------ |
 |MarkuZ_ | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation mehr | 30.06.16 |
@@ -100,7 +105,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 |Elegeta | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | Positiv aufgefallen | 04.06.16 |
 |Flaxify | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | Positiv aufgefallen | 04.06.16 |
 
-###<strong>Mai</span></strong>
+###<strong>Mai</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
 | ------ | ------ | ------ | ------ | ------ |
 |St3giLiebtTim | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporterin Games</span> | Positiv aufgefallen | 09.05.16 |
