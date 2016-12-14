@@ -1,4 +1,4 @@
-![Screenshot](img/InTime.png)
+![InTime](img/InTime.png)
 
 ## Das Spielprinzip
 "Zeit ist Geld" - dieses Sprichwort beschreibt InTime mehr als alles andere. Waffen, Rüstung, Nahrung, Potions und spezielle Items kosten Zeit, Lebenszeit.

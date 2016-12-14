@@ -1,4 +1,4 @@
-![Screenshot](img/TSpiele.png)
+![TSpiele](img/TSpiele.png)
 
 ## Der Spielverlauf
 Willkommen bei den Timolianischen Spielen! Hier kannst du deine PvP-Skills im Kampf gegen 23 andere Spieler beweisen. In einer unendlich großen Welt findest du

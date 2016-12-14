@@ -1,4 +1,4 @@
-![Screenshot](img/4rena.png)
+![4rena](img/4rena.png)
 
 ## Das Spielprinzip
 

@@ -1,4 +1,4 @@
-![Screenshot](img/DNA.png)
+![DNA](img/DNA.png)
 
 ## Das Spielprinzip
 Du bist gut in Jump and Runs und möchtest deine Fähigkeiten unter Beweis stellen? Dann ist DNA genau das Richtige für dich! Ziel ist es, als erster Spieler die obere

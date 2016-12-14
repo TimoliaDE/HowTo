@@ -1,4 +1,4 @@
-![Screenshot](img/BrainBow.png)
+![BrainBow](img/BrainBow.png)
 
 ## Das Spielprinzip
 

@@ -1,4 +1,4 @@
-![Screenshot](img/Arcade.png)
+![Arcade](img/Arcade.png)
 
 ## Das Spielprinzip
 
