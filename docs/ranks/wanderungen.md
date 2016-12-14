@@ -5,7 +5,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strung>Dezember</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
 | ------ | ------ | ------ | ------ | ------ |
-|Handis | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | Keine Zeit | 01.12.16 |
+|Crimex | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation| 14.12.16 |
 |Jintzo | <span style="color:#F99500">Pro</span> | <span style="color:#007812">Developer Netzwerk</span> | Gute Leistungen | 02.12.16 |
 
 ###<strong>November</strong>
