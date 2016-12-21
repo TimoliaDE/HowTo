@@ -13,6 +13,35 @@ in seiner eigenen Burg.
 - Sollte das Spiel lange andauern, weil ein Team sich verbarrikadiert hat, kann durch die Flaggenmacht, also das Besitzen des Großteiles der Flaggen über einen längeren Zeitraum - der Gewinner ermittelt werden. 
 - Das Spiel endet, sobald alle gegnerischen Spieler endgültig gestorben sind.
 
+## Punkteverteilung in Castles
+- <strong>INFO:</strong> Wenn man die Runde verlässt, bevor das Team ausgeschieden ist, bekommt man <strong>keine</strong> Punkte.
+- Die Kills werden am Ende verdoppelt (Kills * 2)
+- Die Flaggeneroberungen werden am Ende versechsfacht (Kills * 6)
+- Wenn man im Gewinnerteam ist, werden die Punkte am Ende verdoppelt (* 2)
+- Wenn man am meisten Kills hat, erhält man +15 Punkte
+- Wenn man am zweitmeisten Kills hat, erhält man +10 Punkte
+- Wenn man am drittmeisten Kills hat, erhält man +5 Punkte
+- Wenn man mehr als 60% des aufgesammelten Goldes in Strukturen investiert hat, erhält man +12 Punkte
+
+## Die Ränge in Castles
+
+| Rang | Punkte | Name |
+| ------ | ------ | ------ |
+| 0 | 0 | Bettler |
+| 1 | 8 | Stalljunge |
+| 2 | 16 | Totengräber |
+| 3 | 32 | Nachtwächter |
+| 4 | 64 | Kämmerer |
+| 5 | 128 | Mundschenk |
+| 6 | 256 | Edelmann |
+| 7 | 512 | Hofnarr |
+| 8 | 1024 | Landmann |
+| 9 | 2048 | Heckenritter |
+| 10 | 4096 | Ritter |
+| 11 | 8192 | ??? |
+
+Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden.
+
 ## Premium-Features
 - <span style="color:#F99500">Pros</span> besitzen zwei, <span style="color:#00F9EC">Experts</span> drei Stimmen im Voting-System.
 - Werde mit `/togglerank` als normaler Spieler angezeigt
