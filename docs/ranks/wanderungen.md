@@ -7,7 +7,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 | ------ | ------ | ------ | ------ | ------ |
 |TetzelHD | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | gute bauliche Leistung | 18.12.16 |
 |Crimex | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation| 14.12.16 |
-|Jintzo | <span style="color:#F99500">Pro</span> | <span style="color:#007812">Developer Netzwerk</span> | Gute Leistungen | 02.12.16 |
+|Jintzo | <span style="color:#F99500">Pro</span> | <span style="color:#007812">Developer</span> | Gute Leistungen | 02.12.16 |
 
 ###<strong>November</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
@@ -73,7 +73,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 |LeePvP | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | Keine Lust mehr | 05.08.16 |
 |Luzii | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | Keine Lust mehr | 05.08.16 |
 
-###<strong>Juli<</strong>
+###<strong>Juli</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
 | ------ | ------ | ------ | ------ | ------ |
 |\_Geizhals_ | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 31.07.16 |
