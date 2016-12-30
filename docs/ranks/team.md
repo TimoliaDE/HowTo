@@ -114,10 +114,6 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Rang (ingame):</u> Developer
 - <u>Hauptverantworlich:</u> Anti-Cheat
 
-### <strong><span style="color:#007812">TheBrownShape</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> TeamSpeak-Bot
-
 ### <strong><span style="color:#007812">Zortax</span></strong>
 - <u>Rang (ingame):</u> Developer
 - <u>Nebenverantwortlich:</u> Timolia-Plugins
@@ -200,10 +196,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Nebenverantwortlich:</u> Usern helfen
 
 ###<strong><span style="color:#E4D100">Karpfen17</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Usern helfen
-
-###<strong><span style="color:#E4D100">Krumru</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Usern helfen
 
@@ -307,7 +299,7 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 
 ###<strong>Evoferry</strong>
 - <u>Rang (ingame):</u> Administrator CityBuild;TeamSpeak
-- <u>Hauptverantworlich:</u> CityBuild-Builder, CityBuild-Server, CityBuild-Builder, CityBuild-Supporter, TeamSpeak
+- <u>Hauptverantworlich:</u> CityBuild-Builder, CityBuild-Server, CityBuild-Supporter, TeamSpeak
 
 ###<strong>MCExpertDE</strong>
 - <u>Rang (ingame):</u> Administrator Games;CityBuild;TeamSpeak
@@ -375,8 +367,8 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind die ersten, an die ihr euch wenden könnt.
 
 ###<strong><span style="color:#E4D100">MCelements0815</span></strong>
-- <u>Rang (ingame):</u> Supporter CityBuild
-- <u>Nebenverantwortlich:</u> Usern helfen
+- <u>Rang (ingame):</u> Supporter CityBuild, TeamSpeak
+- <u>Nebenverantwortlich:</u> TeamSpeak, Usern helfen
 
 ###<strong><span style="color:#E4D100">MCPhilippS</span></strong>
 - <u>Rang (ingame):</u> Supporter CityBuild

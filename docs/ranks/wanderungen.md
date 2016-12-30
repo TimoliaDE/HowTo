@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>Dezember</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
 | ------ | ------ | ------ | ------ | ------ |
+|Kitox | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | Keine Zeit| 28.12.16 |
 |TetzelHD | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | gute bauliche Leistung | 18.12.16 |
 |Crimex | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation| 14.12.16 |
 |Jintzo | <span style="color:#F99500">Pro</span> | <span style="color:#007812">Developer</span> | Gute Leistungen | 02.12.16 |
