@@ -170,6 +170,10 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Hauptverantworlich:</u> Grafikdesign
 - <u>Nebenverantwortlich:</u> Usern helfen, TeamSpeak
 
+### <strong><span style="color:#E4D100">felliongi21</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+- <u>Nebenverantwortlich:</u> Usern helfen
+
 ### <strong><span style="color:#E4D100">Flaxify</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Usern helfen

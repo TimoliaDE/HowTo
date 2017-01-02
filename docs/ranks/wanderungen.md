@@ -5,7 +5,6 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>Januar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
 | ------ | ------ | ------ | ------ | ------ |
-|felliongi21 | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | beurlaubt | 02.01.17 |
 |Juliaan | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | Keine Zeit und Motivation | 02.01.17 |
 |Nooahh | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | Keine Zeit und Motivation | 02.01.17 |
 |Re4perz | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | Keine Zeit und Motivation | 02.01.17 |
