@@ -122,11 +122,6 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind die ersten, an die sich Spieler wenden können.
 
-### <strong><span style="color:#E4D100">\_Rudi\_</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Hauptverantworlich:</u> Off-Topic Forum, Vorstellungen im Forum
-- <u>Nebenverantwortlich:</u> Spieler melden Forum, Usern helfen
-
 ###<strong><span style="color:#E4D100">_Shinox</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Entbannungsanträge, Usern helfen
@@ -175,10 +170,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Hauptverantworlich:</u> Grafikdesign
 - <u>Nebenverantwortlich:</u> Usern helfen, TeamSpeak
 
-### <strong><span style="color:#E4D100">felliongi21</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Usern helfen
-
 ### <strong><span style="color:#E4D100">Flaxify</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Usern helfen
@@ -214,14 +205,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">mTAce</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Spieler melden Forum
-- <u>Nebenverantwortlich:</u> Usern helfen
-
-### <strong><span style="color:#E4D100">Nooahh</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Entschuldigungen, Spielern melden Forum Usern helfen
-
-###<strong><span style="color:#E4D100">Re4perz</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Usern helfen
 
 ###<strong><span style="color:#E4D100">Sinzilla</span></strong>
@@ -425,11 +408,15 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder
 - <u>Nebenverantwortlich:</u> CityBuild-Bauten
 
-###<strong><span style="color:#00646F">Fabiiii</span></strong>
+###<strong><span style="color:#00646F">Fabiewww</span></strong>
 - <u>Rang (ingame):</u> Builder
 - <u>Nebenverantwortlich:</u> Games-Maps
 
 ###<strong><span style="color:#00646F">GameZter</span></strong>
+- <u>Rang (ingame):</u> Builder
+- <u>Nebenverantwortlich:</u> Games-Maps
+
+### <strong><span style="color:#00646F">Haxxsmart</span></strong>
 - <u>Rang (ingame):</u> Builder
 - <u>Nebenverantwortlich:</u> Games-Maps
 

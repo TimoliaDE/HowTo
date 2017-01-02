@@ -1,10 +1,22 @@
 Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufgelistet.
 
+# 2017
+
+###<strong>Januar</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
+| ------ | ------ | ------ | ------ | ------ |
+|felliongi21 | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | beurlaubt | 02.01.17 |
+|Juliaan | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | Keine Zeit und Motivation | 02.01.17 |
+|Nooahh | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | Keine Zeit und Motivation | 02.01.17 |
+|Re4perz | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | Keine Zeit und Motivation | 02.01.17 |
+
 # 2016
 
 ###<strong>Dezember</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
 | ------ | ------ | ------ | ------ | ------ |
+|Fabiewww | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | wieder aktiv | 30.12.16 |
+|Haxxsmart | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | wieder aktiv | 28.12.16 |
 |Kitox | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | Keine Zeit| 28.12.16 |
 |TetzelHD | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | gute bauliche Leistung | 18.12.16 |
 |Crimex | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation| 14.12.16 |
