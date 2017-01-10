@@ -48,7 +48,7 @@ Mit einer E-Mail an development@timolia.de kannst du dich als Developer bewerben
 Bukkit-API, Erfahrungen im Umgang mit Git, Teamfähigkeit und Grundkenntnisse der Sprache Englisch. Dein Bewerbungsschreiben sollte eine kurze Beschreibung deiner Person,
 Darstellung deiner Fähigkeiten und Kompetenzen und eine Angabe zur Kontaktmöglichkeit beinhalten.
 
-### Wie funtkioniert das Kick-System bei vollen Lobbys?
+### Wie funktioniert das Kick-System bei vollen Lobbys?
 Timolia besitzt ein recht komplexes und einzigartiges Kicksystem, um sowohl Premium- als auch normalen Spielern ein tolles Spielerlebnis ohne ewige Wartezeiten zu ermöglichen.
 Jeder Spieler erhält beim Joinen des Netzwerkes eine individuelle "Kick-Value", basierend auf dem Ingame-Rang. Normale User haben eine Kick-Value von 100,
 Pros haben eine KV von 300, Experts eine von 400 und YouTuber besitzen eine Kick-Value von 500. Wenn nun z.B. ein Pro einen vollen Server betritt, wird ein zufälliger
