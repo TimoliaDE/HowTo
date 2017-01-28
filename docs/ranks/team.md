@@ -178,6 +178,10 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Usern helfen
 
+### <strong><span style="color:#E4D100">FlorianFida</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+- <u>Nebenverantwortlich:</u> Usern helfen
+
 ### <strong><span style="color:#E4D100">JOlegna</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Entbannungsanträge, TeamSpeak, Timolia Anleitung, Usern helfen
@@ -202,9 +206,21 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Usern helfen
 
+### <strong><span style="color:#E4D100">Morileh</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+- <u>Nebenverantwortlich:</u> Usern helfen
+
 ### <strong><span style="color:#E4D100">mTAce</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Spieler melden Forum
+- <u>Nebenverantwortlich:</u> Usern helfen
+
+### <strong><span style="color:#E4D100">Salvopro</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+- <u>Nebenverantwortlich:</u> Usern helfen
+
+### <strong><span style="color:#E4D100">Schonas</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Usern helfen
 
 ###<strong><span style="color:#E4D100">Sinzilla</span></strong>
@@ -241,6 +257,10 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Nebenverantwortlich:</u> Usern helfen
 
 ### <strong><span style="color:#E4D100">TobCrafterDE</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+- <u>Nebenverantwortlich:</u> Usern helfen
+
+### <strong><span style="color:#E4D100">trojesatar</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Usern helfen
 

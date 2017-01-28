@@ -5,6 +5,11 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>Januar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
 | ------ | ------ | ------ | ------ | ------ |
+|Morileh | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter Games</span> | Positiv aufgefallen | 28.01.17 |
+|FlorianFida | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | Positiv aufgefallen | 28.01.17 |
+|Schonas | <span style="color:#848484">Spieler</span> | <span style="color:#E4D100">Supporter Games</span> | Positiv aufgefallen | 28.01.17 |
+|Salvopro | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | Positiv aufgefallen | 28.01.17 |
+|trojesatar | <span style="color:#848484">Spieler</span> | <span style="color:#E4D100">Supporter Games</span> | Positiv aufgefallen | 28.01.17 |
 |Handis | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | private Gründe | 04.01.17 |
 |Juliaan | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | Keine Zeit und Motivation | 02.01.17 |
 |Nooahh | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | Keine Zeit und Motivation | 02.01.17 |
