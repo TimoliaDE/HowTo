@@ -66,6 +66,15 @@ Das unnötige Herauszögern des Spiels ist nicht erwünscht. Dazu zählen expliz
 Sollte dies bei Spielern festgestellt werden, wird sowohl der Spieler gekickt und vermerkt, welcher sich die Zeit absichtlich hat klauen lassen, als auch der Spieler, welcher die Zeit geklaut hat. 
 Bei wiederholtem Vorkommen kann es auch hier zu einem Bann kommen.
 
+## §11 - Castles
+Teaming über die Teamgrenzen hinaus (sog. Crossteaming) ist verboten. Auch das vorsätzliche Behindern der eigenen Teammitglieder in Form von Gold klauen, eigene Strukturen zerstören und anderen etwaigen Methoden, 
+welche den üblichen Spielfluss hindern ist ebenfalls verboten und wird entsprechend sanktioniert.
+
+## §12 - Mineception
+Teaming über die Teamgrenzen hinaus (sog. Crossteaming) ist verboten. Auch das vorsätzliche Behindern der eigenen Teammitglieder in Form von Blöcken, die unter ihnen abgebaut werden 
+(sog. Spleefen), Items klauen und das beabsichtige nicht Befreien aus dem Gefängnis oder anderen etwaigen Methoden, welche den üblichen Spielfluss hindern, 
+ist ebenfalls verboten und wird entsprechend sanktioniert.
+
 ## §11 – Entbannung, Bannverkürzung und Bannumgehung
 - <u>Permanente Banns</u>: Grundsätzlich sind alle Banns temporär. Sollte man aber eine Bannzeit von insgesamt 30 Tagen überschreiten, wird ein Spieler automatisch permanent gebannt.
 - <u>Entbannung</u>: Ist ein Spieler der Meinung, ein Bann sei nicht gerechtfertigt, so kann er jederzeit im Forum unter der Kategorie “Gebannt” oder im TeamSpeak den Beweis fordern. Wenn man permanent gebannt ist,
