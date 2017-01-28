@@ -9,7 +9,8 @@ pages:
   - Webseite und Forum: 'web.md'
   - TeamSpeak: 'teamspeak.md'
 - Regelwerk:
-  - Regeln: 'rules/rules.md'
+  - Games-Regeln: 'rules/games.md'
+  - CityBuild-Regeln: 'rules/city.md'
   - Foren-Regeln: 'rules/forum.md'
   - TeamSpeak-Regeln: 'rules/teamspeak.md'
 - Games:
