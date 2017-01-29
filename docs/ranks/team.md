@@ -215,6 +215,14 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Hauptverantwortlich:</u> Spieler melden Forum
 - <u>Nebenverantwortlich:</u> Usern helfen
 
+### <strong><span style="color:#E4D100">Percyfan55</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+- <u>Nebenverantwortlich:</u> Usern helfen
+
+### <strong><span style="color:#E4D100">Pixtopiane</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+- <u>Nebenverantwortlich:</u> Usern helfen
+
 ### <strong><span style="color:#E4D100">Salvopro</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Usern helfen
@@ -257,6 +265,14 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Nebenverantwortlich:</u> Usern helfen
 
 ### <strong><span style="color:#E4D100">TobCrafterDE</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+- <u>Nebenverantwortlich:</u> Usern helfen
+
+### <strong><span style="color:#E4D100">Tobifaction</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+- <u>Nebenverantwortlich:</u> Usern helfen
+
+### <strong><span style="color:#E4D100">Tnevel</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Usern helfen
 
