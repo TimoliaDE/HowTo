@@ -7,9 +7,9 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
 | ------ | ------ | ------ | ------ | ------ |
 |Fyniks | <span style="color:#848484">Spieler</span> | <span style="color:#007812">Developer</span> | Gute Development-Arbeiten | 12.02.17 |
-|Kritzelkiste | <span style="color:#F99500">Pro</span> | <span style="color:#00646F">Creator</span> | Kreative Arbeiten | 02.02.17 |
-|nek0chi | <span style="color:#00F9EC">Expert</span> | <span style="color:#00646F">Creator</span> | Kreative Arbeiten | 02.02.17 |
-|MyLadyJane | <span style="color:#00F9EC">Expert</span> | <span style="color:#00646F">Creator</span> | Kreative Arbeiten | 02.02.17 |
+|Kritzelkiste | <span style="color:#F99500">Pro</span> | <span style="color:#00F9EC">Creator</span> | Kreative Arbeiten | 02.02.17 |
+|nek0chi | <span style="color:#00F9EC">Expert</span> | <span style="color:#00F9EC">Creator</span> | Kreative Arbeiten | 02.02.17 |
+|MyLadyJane | <span style="color:#00F9EC">Expert</span> | <span style="color:#00F9EC">Creator</span> | Kreative Arbeiten | 02.02.17 |
 
 ###<strong>Januar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |

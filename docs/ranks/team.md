@@ -535,14 +535,14 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ## Creator
 Creator sind für kreative Arbeiten, wie Texte, Bilder und Grafiken zuständig und sind kreative Köpfe des Teams.
 
-### <strong><span style="color:#00646F">Kritzelkiste</span></strong>
-- <u>Rang (ingame):</u> Creator
+### <strong><span style="color:#00F9EC">Kritzelkiste</span></strong>
+- <u>Rang (ingame):</u> Expert
 - <u>Nebenverantwortlich:</u> Kreative Arbeiten
 
-### <strong><span style="color:#00646F">nek0chi</span></strong>
-- <u>Rang (ingame):</u> Creator
+### <strong><span style="color:#00F9EC">nek0chi</span></strong>
+- <u>Rang (ingame):</u> Expert
 - <u>Nebenverantwortlich:</u> Kreative Arbeiten
 
-### <strong><span style="color:#00646F">MyLadyJane</span></strong>
-- <u>Rang (ingame):</u> Creator
+### <strong><span style="color:#00F9EC">MyLadyJane</span></strong>
+- <u>Rang (ingame):</u> Expert
 - <u>Nebenverantwortlich:</u> Kreative Arbeiten
