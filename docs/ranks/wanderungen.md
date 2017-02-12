@@ -2,9 +2,19 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 
 # 2017
 
+
+###<strong>Februar</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
+| ------ | ------ | ------ | ------ | ------ |
+|Fyniks | <span style="color:#848484">Spieler</span> | <span style="color:#007812">Developer</span> | Gute Development-Arbeiten | 12.02.17 |
+|Kritzelkiste | <span style="color:#F99500">Pro</span> | <span style="color:#00646F">Creator</span> | Kreative Arbeiten | 02.02.17 |
+|nek0chi | <span style="color:#00F9EC">Expert</span> | <span style="color:#00646F">Creator</span> | Kreative Arbeiten | 02.02.17 |
+|MyLadyJane | <span style="color:#00F9EC">Expert</span> | <span style="color:#00646F">Creator</span> | Kreative Arbeiten | 02.02.17 |
+
 ###<strong>Januar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
 | ------ | ------ | ------ | ------ | ------ |
+|Mari_W | <span style="color:#00F9EC">Expert</span> | <span style="color:#007812">Developer</span> | Gute Development-Arbeiten | 31.01.17 |
 |Pixtopiane | <span style="color:#848484">Spielerin</span> | <span style="color:#E4D100">Supporterin Games</span> | Positiv aufgefallen | 29.01.17 |
 |Percyfan55 | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | Positiv aufgefallen | 29.01.17 |
 |Tnevel | <span style="color:#848484">Spieler</span> | <span style="color:#E4D100">Supporter Games</span> | Positiv aufgefallen | 29.01.17 |

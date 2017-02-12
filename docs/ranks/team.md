@@ -94,6 +94,10 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Rang (ingame):</u> Developer
 - <u>Hauptverantworlich:</u> Chainreact, Weihnachts - Timolia Adventure
 
+### <strong><span style="color:#007812">Fyniks</span></strong>
+- <u>Rang (ingame):</u> Developer
+- <u>Nebenverantwortlich:</u> Timolia-Plugins
+
 ### <strong><span style="color:#007812">Jintzo</span></strong>
 - <u>Rang (ingame):</u> Developer
 - <u>Nebenverantwortlich:</u>  Webdevelopment (NV)
@@ -104,6 +108,10 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 ### <strong><span style="color:#007812">logito111</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
+- <u>Nebenverantwortlich:</u> Timolia-Plugins
+
+### <strong><span style="color:#007812">Mari_W</span></strong>
+- <u>Rang (ingame):</u> Developer
 - <u>Nebenverantwortlich:</u> Timolia-Plugins
 
 ### <strong><span style="color:#007812">Shustin</span></strong>
@@ -410,10 +418,9 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter CityBuild
 - <u>Nebenverantwortlich:</u> Usern helfen
 
+# 3 - Global
 
-
-##3 - Builder
-
+## Builder
 Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entwerfen stetig neue Bauten.
 
 ### <strong><span style="color:#00646F">\_CrystalSky\_</span></strong>
@@ -524,3 +531,18 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ### <strong><span style="color:#00646F">Zurrex</span></strong>
 - <u>Rang (ingame):</u> Builder
 - <u>Nebenverantwortlich:</u> Games-Maps
+
+## Creator
+Creator sind für kreative Arbeiten, wie Texte, Bilder und Grafiken zuständig und sind kreative Köpfe des Teams.
+
+### <strong><span style="color:#00646F">Kritzelkiste</span></strong>
+- <u>Rang (ingame):</u> Creator
+- <u>Nebenverantwortlich:</u> Kreative Arbeiten
+
+### <strong><span style="color:#00646F">nek0chi</span></strong>
+- <u>Rang (ingame):</u> Creator
+- <u>Nebenverantwortlich:</u> Kreative Arbeiten
+
+### <strong><span style="color:#00646F">MyLadyJane</span></strong>
+- <u>Rang (ingame):</u> Creator
+- <u>Nebenverantwortlich:</u> Kreative Arbeiten

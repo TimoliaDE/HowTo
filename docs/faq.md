@@ -57,9 +57,10 @@ gekickt wird, da die anderen Spieler nun eine niedrigere Kick-Value haben. Sobal
 
 ### Wo kann ich mich entschuldigen?
 Wenn du gebannt wurdest, kannst du mit  einem Entbannungsantrag eine Bannverkürzung von maximal 1/3 deiner Bannzeit bekommen, sofern
-deine Entschuldigung sehr gut geschrieben ist. Diese kannst du entweder in unserem Forum "Gebannt" oder im Hilfechannel posten, alternativ
+deine Entschuldigung sehr gut geschrieben ist. Diese kannst du in unserem Forum oder im Hilfechannel posten, alternativ
 kannst du auch eine E-Mail an gebannt@timolia.de schreiben. Achtung! Solltest du zwei Mal wegen Hacking gebannt worden sein oder hast eine
-Bannzeit von insgesamt über 45 Tagen, besteht für dich keine Chance mehr auf eine Entbannung.
+Bannzeit von insgesamt über 46 Tagen, besteht für dich keine Chance auf eine Entbannung, da die Banntage erst verjähren wüssen. Über den Minecraft-Server `register.timolia.de` kannst 
+du dich für unser Forum registrieren, sofern du dies nicht schon getan hast.
 
 ### Woher bekomme ich das Timolia Optifine-Cape?
 - URL: http://www.needcoolshoes.com/banner?=paeyeseqpwphec
