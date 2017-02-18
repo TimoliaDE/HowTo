@@ -71,7 +71,6 @@ In Downtown sind bis zu 50 Haustiere auf dem Grundstück erlaubt.
 | Verantwortliche | Funktion |
 | ------ | -------- |
 | saporital | Hauptverantwortlich |
-| JOlegna| Nebenverantwortlich |
 
 
 ## 4 - Summerfields
@@ -115,7 +114,6 @@ Erforsche sie und entdecke alle tollen Sachen von Ägypten und finde alle Geheim
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
-
 | Twilex | Hauptverantwortlich |
 | Caprea| Hauptverantwortlich |
 | JoJoYoshy| Nebenverantwortlich |
@@ -225,10 +223,7 @@ Jeder User darf auch nur ein Boot besitzen. Es sind keine Farmen auf den Booten 
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
-| JOlegna | Hauptverantwortlich |
-| JoJoYoshy | Nebenverantwortlich |
-| saporital | Nebenverantwortlich |
-| kd9b | Nebenverantwortlich |
+| saporital | Hauptverantwortlich |
 
 
 ## 11 - Mammutwald
@@ -328,7 +323,6 @@ Die Umgebung ist recht trocken und gleich über den Bergkamm hausen die Wilden i
 | Verantwortliche | Funktion |
 | ------ | -------- |
 | Caprea | Hauptverantwortlich |
-| JOlegna | Nebenverantwortlich |
 
 
 ## 16 - Wellington
