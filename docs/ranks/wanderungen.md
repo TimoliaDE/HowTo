@@ -6,7 +6,10 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>Februar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
 | ------ | ------ | ------ | ------ | ------ |
+|Nooahh | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | Wieder Motivation | 14.02.17 |
+|MCPhilipps | <span style="color:#E4D100">Supporter City</span> | <span style="color:#CF0101">Moderator City</span> | Gute Supporterleistung | 12.02.17 |
 |Fyniks | <span style="color:#848484">Spieler</span> | <span style="color:#007812">Developer</span> | Gute Development-Arbeiten | 12.02.17 |
+|Juliaan | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter Games</span> | Wieder Motivation | 05.02.17 |
 |Kritzelkiste | <span style="color:#F99500">Pro</span> | <span style="color:#00F9EC">Creator</span> | Kreative Arbeiten | 02.02.17 |
 |nek0chi | <span style="color:#00F9EC">Expert</span> | <span style="color:#00F9EC">Creator</span> | Kreative Arbeiten | 02.02.17 |
 |MyLadyJane | <span style="color:#00F9EC">Expert</span> | <span style="color:#00F9EC">Creator</span> | Kreative Arbeiten | 02.02.17 |
@@ -15,6 +18,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
 | ------ | ------ | ------ | ------ | ------ |
 |Mari_W | <span style="color:#00F9EC">Expert</span> | <span style="color:#007812">Developer</span> | Gute Development-Arbeiten | 31.01.17 |
+|Digimon | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter City</span> | Wieder Motivation | 29.01.17 |
 |Pixtopiane | <span style="color:#848484">Spielerin</span> | <span style="color:#E4D100">Supporterin Games</span> | Positiv aufgefallen | 29.01.17 |
 |Percyfan55 | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | Positiv aufgefallen | 29.01.17 |
 |Tnevel | <span style="color:#848484">Spieler</span> | <span style="color:#E4D100">Supporter Games</span> | Positiv aufgefallen | 29.01.17 |
