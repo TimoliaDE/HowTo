@@ -60,8 +60,8 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">L0L0</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Hauptverantworlich:</u> Spieler melden Forum
-- <u>Nebenverantwortlich:</u> JumpWorld Bilder, Usern helfen
+- <u>Hauptverantworlich:</u> JumpWorld Bilder, Spieler melden Forum
+- <u>Nebenverantwortlich:</u> Anti-Cheat, Usern helfen
 
 ###<strong><span style="color:#CF0101">Siimon</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
