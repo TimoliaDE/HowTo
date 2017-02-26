@@ -91,4 +91,4 @@ ist ebenfalls verboten und wird entsprechend sanktioniert.
 
 <strong>Das Team behält sich das Recht vor, bestimmtes Handeln (auch außerhalb des Minecraft- und Teamspeakservers) zu sanktionieren, welches nicht explizit in den Regeln aufgelistet ist.</strong>
 
-letzte Aktualisierung: 03. April 2016
+letzte Aktualisierung: 28. Januar 2017

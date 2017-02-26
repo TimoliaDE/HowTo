@@ -130,10 +130,6 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind die ersten, an die sich Spieler wenden können.
 
-###<strong><span style="color:#E4D100">_Shinox</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Entbannungsanträge, Usern helfen
-
 ###<strong><span style="color:#E4D100">\_TakeItEaZy\_</span></strong>
 - <u>Rang (ingame):</u> Supporter Games;TeamSpeak
 - <u>Hauptverantworlich:</u> Anregungen und Vorschläge Forum
