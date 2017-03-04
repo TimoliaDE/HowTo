@@ -6,7 +6,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>Februar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
 | ------ | ------ | ------ | ------ | ------ |
-|_Shinox | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | Keine Motivation | 26.02.17 |
+|_Shinox | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation | 26.02.17 |
 |Nooahh | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | Wieder Motivation | 14.02.17 |
 |MCPhilipps | <span style="color:#E4D100">Supporter City</span> | <span style="color:#CF0101">Moderator City</span> | Gute Supporterleistung | 12.02.17 |
 |Fyniks | <span style="color:#848484">Spieler</span> | <span style="color:#007812">Developer</span> | Gute Development-Arbeiten | 12.02.17 |

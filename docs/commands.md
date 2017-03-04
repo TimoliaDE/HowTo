@@ -17,11 +17,11 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/near` | Zeigt dir die Spieler, die sich direkt über und unter dir in der Punktewertung eines Modus befinden |
 | `/stats <Spieler> <Spieler>...` | Ermöglicht es dir, die Stats von mehreren Spielern zu vergleichen |
 | `/spawn` | Teleportiert dich zurück zum Spawn vom Hub |
+| `/tutorial` | Starte ein Tutorial (nicht in allen Modi verfügbar) |
 | `/register <EMail>` | Registriert dich für die Webseite |
 | `/togglerank`, `/tr` | Werde in BrainBow, 4rena, Splun, DNA, InTime u. TSpiele als normaler Spieler angezeigt |
 | `/lang <Sprache>` | Ändere deine Sprache |
-<span style="color:#4C0B5F">YouTuber</span> only:
-| `/nick` | Verwende das Nick-Tool (auch für <span style="color:#F99500">Pro+</span>) |
+<span style="color:#4C0B5F">YouTuber</span> und <span style="color:#F99500">Pro+</span>) only:
 | `/forcemap` | Erzwinge bei einem Spiel mit Voting-System eine bestimmte Map |
 
 ### Reportsystem
@@ -31,7 +31,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/report <Spieler> <Beweislink>` | Erstellt einen Report mit Beweis |
 | `/livereport <Spieler> <Grund>` | Erstellt einen Livereport |
 | `/chatreport <Spieler> [Grund]` | Erstellt einen Chatreprt |
-| `/reports [-c]` | Öffnet eine Übersicht über deine Reports |
+| `/reports [-c] [-a]` | Öffnet eine Übersicht über deine Reports |
 | `/reportstats` | Zeigt dir deine Reportwahrscheinlichkeit an |
 
 ### Freundesystem
