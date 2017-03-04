@@ -74,7 +74,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">Thomasch</span></strong>
 - <u>Rang (ingame):</u> Moderator Games;TeamSpeak
-- <u>Hauptverantworlich:</u> Forum, Internes Wiki, Map-Einsendungen, Timolia Anleitung
+- <u>Hauptverantworlich:</u> Forum, Internes Wiki, Timolia Anleitung, YouTube und Twitch
 - <u>Nebenverantwortlich:</u> TeamSpeak, Twitter, Usern helfen
 
 ## Developer
@@ -442,7 +442,8 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 ### <strong><span style="color:#00646F">Apfelrosine</span></strong>
 - <u>Rang (ingame):</u> Builder
-- <u>Nebenverantwortlich:</u> Games-Maps, Map-Einsendungen
+- <u>Hauptverantwortlich:</u> Map-Einsendungen
+- <u>Nebenverantwortlich:</u> Games-Maps
 
 ### <strong><span style="color:#00646F">BauEule</span></strong>
 - <u>Rang (ingame):</u> Builder
