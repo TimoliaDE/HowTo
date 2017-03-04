@@ -15,6 +15,7 @@ Diese Features stehen dir mit deinem Rang zur Verfügung:
 - größere Teams und Teamfarben in 1vs1
 - drei bzw. fünf Kits in 1vs1
 - zwei bzw. drei <strong>Stimmen beim Map-Voting-System</strong>
+- Teste Spiele als Beta-Tester
 - Rang im TeamSpeak-Server
 
 ###Die Zahlungsmöglichkeiten:
