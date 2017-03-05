@@ -1,9 +1,3 @@
-<span style="color:#CF0101">Moderator Games</span>
-<span style="color:#E4D100">Supporter Games</span>
-<span style="color:#00646F">Builder</span>
-<span style="color:#007812">Developer</span>
-
-
 Hier werden die verschiendenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 
 # Forum
@@ -52,13 +46,13 @@ Hier werden die verschiendenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 | ------ | ------ |
 |<span style="color:#E4D100">Tedget</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#CF0101">Moderatoren</span> und <span style="color:#007812">Developer</span>| Nebenverantwortlich |
+|Moderatoren und Developer| Nebenverantwortlich |
 
 ###<strong>Entbannungsanträge</strong>
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#E4D100">Tiem</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">ItsSarahh</span> | Hauptverantwortlich |
+|<span style="color:#E4D100">Tiem</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#E4D100">JOlegna</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">MaHacki</span> | Nebenverantwortlich |
@@ -98,36 +92,34 @@ Hier werden die verschiendenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 ##<strong>Games-Team</strong>
 | Teamler | Projekte |
 | ------ | ------ |
-|Edgxxar | todo |
-|MCExpertDE | 1vs1, JumpWorld, Arcade, Mineception |
-|Moehritz | todo |
-|Niklas | Webseite, Interne Webanwendung |
-|xiantiel | Root-Server |
-|Caelis | Interne Webanwendung, Timolia-Plugins |
-|KenaiHD | todo |
-|5zig | todo |
-|Flycofx | Chainreact, Weihnachts- Timolia Adventure |
-|Fyniks | todo |
-|Jintzo | Webdevelopment |
-|LastR_Raziel | AntiCheat |
-|logito111 | Pixel-Shop, Schneeballschlacht, todo |
-|Mari_W | todo |
-|Shustin | PixelShop, Broadcaster |
-|svdragster | AntiCheat, Spooky Halloween todo |
-|Zortax | Party, Verstecken Spielen |
+|<span style="color:#2980b9">Edgxxar</span> | Report-System, Castles, Backend |
+|<span style="color:#2980b9">MCExpertDE</span> | 1vs1, JumpWorld, Arcade, Mineception |
+|<span style="color:#2980b9">Moehritz</span> | Backend, Splun |
+|<span style="color:#2980b9">Niklas</span> | Webseite, Interne Webanwendung |
+|<span style="color:#2980b9">xiantiel</span> | Root-Server |
+|<span style="color:#CF0101">Caelis</span> | Interne Webanwendung, Backend |
+|<span style="color:#CF0101">KenaiHD</span> | Teamspeak |
+|<span style="color:#007812">5zig</span> | PixelShop, Backend |
+|<span style="color:#007812">Flycofx</span> | Chainreact, Weihnachts- Timolia Adventure |
+|<span style="color:#007812">Fyniks</span> | Ostereiersuche |
+|<span style="color:#007812">Jintzo</span> | Webdevelopment, Backend |
+|<span style="color:#007812">LastR_Raziel</span> | AntiCheat |
+|<span style="color:#007812">logito111</span> | PixelShop, Ostereiersuche |
+|<span style="color:#007812">Mari_W</span> | Backend |
+|<span style="color:#007812">Shustin</span> | PixelShop, Broadcaster |
+|<span style="color:#007812">svdragster</span> | AntiCheat, Spooky Halloween |
+|<span style="color:#007812">Zortax</span> | Party |
 
 ##<strong>CityBuild-Team</strong>
 | Teamler | Projekte |
 | ------ | ------ |
-|Docmac | todo |
-|Edgxxar | todo |
-|Evoferry | todo |
-|MCExpertDE | todo |
-|Moehritz | todo |
-|xiantiel | todo |
-|tr7zw | todo |
-|ich_komm_morgen | todo |
-|KenaiHD | todo |
+|<span style="color:#2980b9">Docmac</span> | Backend |
+|<span style="color:#2980b9">Evoferry</span> | Teamspeak, Backend |
+|<span style="color:#2980b9">xiantiel</span> | Rott-Server |
+|<span style="color:#CF0101">KenaiHD</span> | City-Games |
+|<span style="color:#007812">tr7zw</span> | CityBuild-Plugins |
+|<span style="color:#007812">ich_komm_morgen</span> | Missionen |
+
 
 
 # Sonstige Aufgaben
@@ -149,7 +141,7 @@ Hier werden die verschiendenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 | ------ | ------ |
 |<span style="color:#CF0101">Milam</span> | Hauptverantwortlich |
 | | |
-|Niklas | Nebenverantwortlich |
+|<span style="color:#2980b9">Niklas</span>| Nebenverantwortlich |
 |<span style="color:#CF0101">Caelis</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">FabsiFTW</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">Ferdy</span> | Nebenverantwortlich |
@@ -162,8 +154,8 @@ Hier werden die verschiendenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 ###<strong>TeamSpeak</strong>
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|Docmac | Hauptverantwortlich |
-|Evoferry | Hauptverantwortlich |
+|<span style="color:#2980b9">Docmac</span> | Hauptverantwortlich |
+|<span style="color:#2980b9">Evoferry</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">KenaiHD</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#CF0101">Caelis</span> | Nebenverantwortlich |
@@ -180,6 +172,6 @@ Hier werden die verschiendenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 ###<strong>Team-Leiter</strong>
 | Teamler | Zuständigkeit |
 | ------ | ------ |
-|<span style="color:#CF0101">Caelis</span> | Management des Developement-Teams |
+|<span style="color:#CF0101">Caelis</span> | Management des Development-Teams |
 |<span style="color:#CF0101">Ferdy</span> | Management des Supporter-Teams |
-|<span style="color:#00646F">Vectrail</span> | Management des Build-Teams |
+|<span style="color:#00646F">Vectrail</span> | Management des Bau-Teams |
