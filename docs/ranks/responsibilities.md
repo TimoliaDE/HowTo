@@ -138,19 +138,20 @@ Hier werden die verschiendenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 |<span style="color:#E4D100">Elegeta</span> | Hauptverantwortlich |
 
 ###<strong>Social-Media</strong>
-| Teamler | Verantwortungsgrad |
-| ------ | ------ |
+| Teamler | Projekte u. Verantwortungsgrad |
+| ------ | ------ | ------ |
 |<span style="color:#CF0101">Milam</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#2980b9">Niklas</span>| Nebenverantwortlich |
-|<span style="color:#CF0101">Caelis</span> | Nebenverantwortlich |
-|<span style="color:#CF0101">FabsiFTW</span> | Nebenverantwortlich |
-|<span style="color:#CF0101">Ferdy</span> | Nebenverantwortlich |
-|<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
-|<span style="color:#CF0101">Thomasch</span> | Nebenverantwortlich |
-|<span style="color:#CF0101">Caprea</span> | Nebenverantwortlich |
-|<span style="color:#007812">tr7zw</span> | Nebenverantwortlich |
-|<span style="color:#00646F">JukPlays</span> | Nebenverantwortlich |
+|<span style="color:#2980b9">Niklas</span>| Twitter NV |
+|<span style="color:#CF0101">Thomasch</span> | YouTube HV, Twitter NV |
+|<span style="color:#CF0101">KenaiHD</span> | YouTube HV|
+|<span style="color:#CF0101">Caelis</span> | Twitter NV |
+|<span style="color:#CF0101">FabsiFTW</span> | Twitter NV |
+|<span style="color:#CF0101">Ferdy</span> | Twitter NV |
+|<span style="color:#CF0101">ItsSarahh</span> | Twitter NV|
+|<span style="color:#CF0101">Caprea</span> | Twitter NV |
+|<span style="color:#007812">tr7zw</span> | Twitter NV |
+|<span style="color:#00646F">JukPlays</span> | Twitter NV |
 
 ###<strong>TeamSpeak</strong>
 | Teamler | Verantwortungsgrad |
@@ -163,7 +164,7 @@ Hier werden die verschiendenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 |<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">Thomasch</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">JOlegna</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">_TakeItEaZy_</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">\_TakeItEaZy\_</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">blackINK_</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Evageddon</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
@@ -174,5 +175,6 @@ Hier werden die verschiendenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 | Teamler | Zuständigkeit |
 | ------ | ------ |
 |<span style="color:#CF0101">Caelis</span> | Management des Development-Teams |
-|<span style="color:#CF0101">Ferdy</span> | Management des Supporter-Teams |
+|<span style="color:#CF0101">Milam</span> | Management des Creator-Teams |
+|<span style="color:#CF0101">Thomasch</span> | Management des Creator-Teams |
 |<span style="color:#00646F">Vectrail</span> | Management des Bau-Teams |
