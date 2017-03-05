@@ -129,13 +129,17 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">BuffmonsterOne</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
+- <u>Hauptverantwortlich:</u> Timolia-Turnier Kits
+- <u>Nebenverantwortlich:</u> Spieler melden Forum, Entbannungsanträge
 
 ###<strong><span style="color:#E4D100">Calavero</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
+- <u>Hauptverantwortlich:</u> Timolia-Turnier Kits
 
 ###<strong><span style="color:#E4D100">CubeFabi</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantworlich:</u> Fragen und Antworten Forum
+- <u>Nebenverantwortlich:</u> Entbannungsanträge, Off-Topic Forum
 
 ###<strong><span style="color:#E4D100">DrugDuck</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -157,6 +161,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">FlorianFida</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
+- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge
 
 ### <strong><span style="color:#E4D100">JOlegna</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -164,10 +169,12 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Juliaan</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Entbannungsanträge
+- <u>Hauptverantwortlich:</u> Off-Topic Forum, Vorstellungen Forum
+- <u>Nebenverantwortlich:</u> Entbannungsanträge, Spieler melden Forum
 
 ### <strong><span style="color:#E4D100">Julian_999999999</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
+- <u>Nebenverantwortlich:</u> Fragen und Antworten Forum, Spieler melden Forum
 
 ###<strong><span style="color:#E4D100">Karpfen17</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -189,6 +196,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">mTAce</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Spieler melden Forum
+- <u>Nebenverantwortlich:</u> Entbannungsanträge
 
 ### <strong><span style="color:#E4D100">Percyfan55</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -215,13 +223,14 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">Tedget</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Bugs und Spielfehler
-- <u>Nebenverantwortlich:</u> Teamspeak, YouTuber-Events
+- <u>Nebenverantwortlich:</u> Teamspeak, YouTuber-Events, Timolia Anleitung
 
 ###<strong><span style="color:#E4D100">TheBrownShape</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 
 ### <strong><span style="color:#E4D100">TheFeldi</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
+- <u>Nebenverantwortlich:</u> Fragen und Antworten Forum, Spielmodi Forum, Vorstellungen Forum
 
 ###<strong><span style="color:#E4D100">Tiem</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -244,6 +253,10 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">trojesatar</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 
+###<strong><span style="color:#E4D100">VapeVadium</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+- <u>Nebenverantwortlich:</u> Timolia Kits
+
 ###<strong><span style="color:#E4D100">vincent0110</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 
@@ -255,6 +268,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">xMaudodo</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
+- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge
 
 
 # 2 - CityBuild-Team
@@ -308,7 +322,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ### <strong><span style="color:#CF0101">JOlegna</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
-- <u>Hauptverantworlich:</u> Shopwelt, Upper Hills, Events
+- <u>Hauptverantworlich:</u> Shopwelt, Upper Hills, Events, CityBuild Forum
 - <u>Nebenverantwortlich:</u> Usern helfen, Timolia Anleitung, Teamspeak
 
 ###<strong><span style="color:#CF0101">kd9b</span></strong>
@@ -368,6 +382,10 @@ Sie stehen für alle grundlegenden Fragen und Tickets zur Verfügung und sind di
 ###<strong><span style="color:#E4D100">Vincent11127</span></strong>
 - <u>Rang (ingame):</u> Supporter CityBuild
 
+###<strong><span style="color:#E4D100">Digimon</span></strong>
+- <u>Rang (ingame):</u> Supporter CityBuild
+- <u>Nebenverantwortlich:</u> CityBuild Forum
+
 # 3 - Global
 
 ## Builder
@@ -389,7 +407,13 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ### <strong><span style="color:#00646F">BauEule</span></strong>
 - <u>Rang (ingame):</u> Builder
 
+### <strong><span style="color:#00646F">baumulu</span></strong>
+- <u>Rang (ingame):</u> Builder
+
 ###<strong><span style="color:#00646F">Denge</span></strong>
+- <u>Rang (ingame):</u> Builder
+
+###<strong><span style="color:#00646F">Eisenmaus</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ###<strong><span style="color:#00646F">engiwuck</span></strong>
@@ -412,6 +436,9 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder
 - <u>Nebenverantwortlich:</u> Social-Media
 
+### <strong><span style="color:#00646F">kirschen</span></strong>
+- <u>Rang (ingame):</u> Builder
+
 ###<strong><span style="color:#00646F">LaShadow</span></strong>
 - <u>Rang (ingame):</u> Builderin
 
@@ -430,6 +457,9 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ###<strong><span style="color:#00646F">ProExecution</span></strong>
 - <u>Rang (ingame):</u> Builder
 
+### <strong><span style="color:#00646F">Skerai</span></strong>
+- <u>Rang (ingame):</u> Builder
+
 ###<strong><span style="color:#00646F">Todbringender</span></strong>
 - <u>Rang (ingame):</u> Builder
 
@@ -439,6 +469,9 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ###<strong><span style="color:#00646F">Vectrail</span></strong>
 - <u>Rang (ingame):</u> Builder
 - <u>Hauptverantworlich:</u> Bauevent, Bautresor, Games-Maps, Management des Bauteams
+
+###<strong><span style="color:#00646F">Vemdex</span></strong>
+- <u>Rang (ingame):</u> Builder
 
 ### <strong><span style="color:#00646F">WildeMaus</span></strong>
 - <u>Rang (ingame):</u> Builderin
