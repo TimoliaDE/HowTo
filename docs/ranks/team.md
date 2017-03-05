@@ -84,7 +84,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ### <strong><span style="color:#007812">5zig</span></strong>
 - <u>Rang (ingame):</u> Developer Games
 
-###<strong><span style="color:#E4D100">Bukkit_PVP</span></strong>
+###<strong><span style="color:#007812">Bukkit_PVP</span></strong>
 - <u>Rang (ingame):</u> Developer Games
 
 ### <strong><span style="color:#007812">Flycofx</span></strong>
