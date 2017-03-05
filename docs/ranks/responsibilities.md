@@ -22,7 +22,6 @@ Hier werden die verschiendenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 | | |
 |<span style="color:#E4D100">xMaudodo</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">FlorianFida</span> | Nebenverantwortlich |
-| | |
 
 ###<strong>Fragen und Antworten</strong>
 | Teamler | Verantwortungsgrad |
@@ -177,3 +176,10 @@ Hier werden die verschiendenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Tedget</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">MCelements0815</span> | Nebenverantwortlich |
+
+###<strong>Team-Leiter</strong>
+| Teamler | Zuständigkeit |
+| ------ | ------ |
+|<span style="color:#CF0101">Caelis</span> | Management des Developement-Teams |
+|<span style="color:#CF0101">Ferdy</span> | Management des Supporter-Teams |
+|<span style="color:#00646F">Vectrail</span> | Management des Build-Teams |
