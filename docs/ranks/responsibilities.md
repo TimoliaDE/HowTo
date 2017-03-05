@@ -139,7 +139,7 @@ Hier werden die verschiendenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 
 ###<strong>Social-Media</strong>
 | Teamler | Projekte u. Verantwortungsgrad |
-| ------ | ------ | ------ |
+| ------ | ------ |
 |<span style="color:#CF0101">Milam</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#2980b9">Niklas</span>| Twitter NV |
