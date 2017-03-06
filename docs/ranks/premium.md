@@ -11,8 +11,9 @@ Diese Features stehen dir mit deinem Rang zur Verfügung:
 - <strong>Doppelte Pixel</strong> bei <span style="color:#F99500">Pro</span>, <strong>dreifache Pixel</strong> bei <span style="color:#00F9EC">Expert</span>
 - <span style="color:#F99500">Pro</span>-, bzw. <span style="color:#00F9EC">Expert</span>-Items im Pixelshop
 - zwei, bzw. drei <strong>Slots in JumpWorld</strong>
+- Armorstands in JumpWorld platzieren
 - <strong>Turniere</strong> in Arcade und 1vs1
-- größere Teams und Teamfarben in 1vs1
+- größere Teams und <strong>Teamfarben</strong> in 1vs1
 - drei bzw. fünf Kits in 1vs1
 - zwei bzw. drei <strong>Stimmen beim Map-Voting-System</strong>
 - Teste Spiele als Beta-Tester
