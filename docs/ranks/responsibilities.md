@@ -56,7 +56,6 @@ Hier werden die verschiendenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 | | |
 |<span style="color:#E4D100">JOlegna</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">MaHacki</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">mTAce</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">CubeFabi</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">BuffmonsterOne</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
@@ -106,9 +105,9 @@ Hier werden die verschiendenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 |<span style="color:#007812">LastR_Raziel</span> | AntiCheat |
 |<span style="color:#007812">logito111</span> | PixelShop, Ostereiersuche |
 |<span style="color:#007812">Mari_W</span> | Backend |
-|<span style="color:#007812">Shustin</span> | PixelShop, Broadcaster |
+|<span style="color:#007812">Shustin</span> | PixelShop, Broadcaster, Technische Leitung Adventskalender 2016 |
 |<span style="color:#007812">svdragster</span> | AntiCheat, Spooky Halloween |
-|<span style="color:#007812">Zortax</span> | Party |
+|<span style="color:#007812">Zortax</span> | Party, Castles |
 |<span style="color:#007812">Bukkit_PVP</span> | Backend |
 
 ##<strong>CityBuild-Team</strong>
@@ -116,7 +115,7 @@ Hier werden die verschiendenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 | ------ | ------ |
 |<span style="color:#2980b9">Docmac</span> | Backend |
 |<span style="color:#2980b9">Evoferry</span> | Teamspeak, Backend |
-|<span style="color:#2980b9">xiantiel</span> | Rott-Server |
+|<span style="color:#2980b9">xiantiel</span> | Root-Server |
 |<span style="color:#CF0101">KenaiHD</span> | City-Games |
 |<span style="color:#007812">tr7zw</span> | CityBuild-Plugins |
 |<span style="color:#007812">ich_komm_morgen</span> | Missionen |

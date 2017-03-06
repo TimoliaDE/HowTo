@@ -24,7 +24,7 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 ###<strong>Niklas</strong>
 - <u>Rang (ingame):</u> Administrator Games
 - <u>Hauptverantworlich:</u> Interne Webanwendung, Webseite
-- <u>Nebenverantwortlich:</u> Social-Media, Twitter
+- <u>Nebenverantwortlich:</u> Social-Media
 
 ###<strong>xiantiel</strong>
 - <u>Rang (ingame):</u> Administrator Games, CityBuild
@@ -196,7 +196,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">mTAce</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Spieler melden Forum
-- <u>Nebenverantwortlich:</u> Entbannungsanträge
 
 ### <strong><span style="color:#E4D100">Percyfan55</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
