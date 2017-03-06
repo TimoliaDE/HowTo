@@ -28,6 +28,8 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 Sie stehen für alle grundlegenden Fragen zur Verfügung, nehmen Reports entgegen und sind die ersten Ansprechpartner, wenn du Probleme hast.
 - <u>Builder:</u>
 Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entwerfen stetig neue Bauten.
+- <u>Creator:</u>
+Sie sind für kreative Arbeiten, wie Texte, Bilder und Grafiken zuständig und sind kreative Köpfe des Teams.
 - <u>Expert:</u>
 Dies ist der Lifetime-Premium-Rang von Timolia. Welche Vorteile dir dieser Rang bietet, erfährst du in unserem Shop.
 - <u>Pro:</u>
@@ -38,6 +40,9 @@ Welche Vorteile dir dieser Rang bietet erfährst, du in unserem Shop.
 Bezahlungen können eine Weile dauern, besonders, wenn der Kauf über Nitrado abgewickelt wurde. Sollte dein Rang 24 Stunden nach der Bestellung immer noch
 nicht da sein, melde dich bitte in einem unserer Hilfechannel. Nach ein paar Angaben über deinen Kauf wird die Bestellung von einem Administrator bearbeitet.
 Da dieser Vorgang manuell vorgenommen werden muss, kann dies ebenfalls ein paar Stunden in Anspruch nehmen.
+
+### Ich habe Premium, kann aber nicht auf volle Server verbinden, was kann ich tun?
+Wenn du trotz Premiumrang nicht in volle Lobbys gelangst, hilft der Command `/fixkv` weiter.
 
 ### Wie kann ich mit mehreren Paysafecards zahlen?
 Über Nitrado kannst du in Form von Spenden deinen Artikel in Etappen bezahlen, bei jeder Etappe kannst du eine Paysafecard angeben. 

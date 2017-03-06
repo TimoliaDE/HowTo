@@ -89,28 +89,43 @@ Hier werden die verschiendenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 # Technische Aufgaben
 
 ##<strong>Games-Team</strong>
+
+###<strong>Aktuelle Projekte</strong>
 | Teamler | Projekte |
 | ------ | ------ |
 |<span style="color:#2980b9">Edgxxar</span> | Report-System, Castles, Backend |
 |<span style="color:#2980b9">MCExpertDE</span> | 1vs1, JumpWorld, Arcade, Mineception |
-|<span style="color:#2980b9">Moehritz</span> | Backend, Splun |
+|<span style="color:#2980b9">Moehritz</span> | Backend |
 |<span style="color:#2980b9">Niklas</span> | Webseite, Interne Webanwendung |
 |<span style="color:#2980b9">xiantiel</span> | Root-Server |
 |<span style="color:#CF0101">Caelis</span> | Interne Webanwendung, Backend |
 |<span style="color:#CF0101">KenaiHD</span> | Teamspeak |
-|<span style="color:#007812">5zig</span> | PixelShop, Backend |
-|<span style="color:#007812">Flycofx</span> | Chainreact, Weihnachts- Timolia Adventure |
+|<span style="color:#007812">5zig</span> | Backend |
 |<span style="color:#007812">Fyniks</span> | Ostereiersuche |
 |<span style="color:#007812">Jintzo</span> | Webdevelopment, Backend |
 |<span style="color:#007812">LastR_Raziel</span> | AntiCheat |
 |<span style="color:#007812">logito111</span> | PixelShop, Ostereiersuche |
 |<span style="color:#007812">Mari_W</span> | Backend |
-|<span style="color:#007812">Shustin</span> | PixelShop, Broadcaster, Technische Leitung Adventskalender 2016 |
 |<span style="color:#007812">svdragster</span> | AntiCheat, Spooky Halloween |
 |<span style="color:#007812">Zortax</span> | Party, Castles |
 |<span style="color:#007812">Bukkit_PVP</span> | Backend |
 
+###<strong>Beendete Projekte</strong>
+| Teamler | Projekte |
+| ------ | ------ |
+|<span style="color:#2980b9">Edgxxar</span> | Report-System, Castles |
+|<span style="color:#2980b9">MCExpertDE</span> | Timolianische Spiele, DNA, InTime, BrainBow, 4rena |
+|<span style="color:#2980b9">Moehritz</span> | Splun |
+|<span style="color:#007812">5zig</span> | PixelShop |
+|<span style="color:#007812">Flycofx</span> | Chainreact, Weihnachts- Timolia Adventure |
+|<span style="color:#007812">logito111</span> | Ostereiersuche |
+|<span style="color:#007812">Shustin</span> | PixelShop, Broadcaster, Technische Leitung Adventskalender 2016 |
+|<span style="color:#007812">svdragster</span> | Spooky Halloween |
+|<span style="color:#007812">Zortax</span> | Party, Castles |
+
 ##<strong>CityBuild-Team</strong>
+
+###<strong>Aktuelle Projekte</strong>
 | Teamler | Projekte |
 | ------ | ------ |
 |<span style="color:#2980b9">Docmac</span> | Backend |
@@ -120,6 +135,10 @@ Hier werden die verschiendenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 |<span style="color:#007812">tr7zw</span> | CityBuild-Plugins |
 |<span style="color:#007812">ich_komm_morgen</span> | Missionen |
 
+###<strong>Beendete Projekte</strong>
+| Teamler | Projekte |
+| ------ | ------ |
+todo
 
 
 # Sonstige Aufgaben
