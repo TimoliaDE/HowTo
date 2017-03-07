@@ -115,8 +115,9 @@ Hier werden die verschiendenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 | ------ | ------ |
 |<span style="color:#2980b9">Edgxxar</span> | Report-System, Castles |
 |<span style="color:#2980b9">MCExpertDE</span> | Timolianische Spiele, DNA, InTime, BrainBow, 4rena |
-|<span style="color:#2980b9">Moehritz</span> | Splun |
+|<span style="color:#2980b9">Moehritz</span> | Splun, Redeem-System |
 |<span style="color:#007812">5zig</span> | PixelShop |
+|<span style="color:#CF0101">Caelis</span> | Technische Leitung Adventskalender 2015 |
 |<span style="color:#007812">Flycofx</span> | Chainreact, Weihnachts- Timolia Adventure |
 |<span style="color:#007812">logito111</span> | Ostereiersuche |
 |<span style="color:#007812">Shustin</span> | PixelShop, Broadcaster, Technische Leitung Adventskalender 2016 |
@@ -134,12 +135,6 @@ Hier werden die verschiendenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 |<span style="color:#CF0101">KenaiHD</span> | City-Games |
 |<span style="color:#007812">tr7zw</span> | CityBuild-Plugins |
 |<span style="color:#007812">ich_komm_morgen</span> | Missionen |
-
-###<strong>Beendete Projekte</strong>
-| Teamler | Projekte |
-| ------ | ------ |
-todo
-
 
 # Sonstige Aufgaben
 

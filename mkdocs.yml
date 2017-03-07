@@ -32,9 +32,10 @@ pages:
 - Ränge auf Timolia:
   - Premium-Ränge: 'ranks/premium.md'
   - YouTuber-Rang: 'ranks/youtube.md'
-  - Das Timolia-Team: 'ranks/team.md'
-  - Team-Wanderungen: 'ranks/teamchanges.md'
-  - Aufgabenbereiche: 'ranks/responsibilities.md'
+- Timolia-Team:
+  - Das Timolia-Team: 'team/team.md'
+  - Team-Wanderungen: 'team/teamchanges.md'
+  - Aufgabenbereiche: 'team/responsibilities.md'
 
 theme: readthedocs
 site_author: tixia UG (haftungsbeschraenkt)
