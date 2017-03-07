@@ -148,11 +148,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantworlich:</u> Supporterauswahl
 
-###<strong><span style="color:#E4D100">Evageddon</span></strong>
-- <u>Rang (ingame):</u> Supporterin Games
-- <u>Hauptverantworlich:</u> Grafikdesign
-- <u>Nebenverantwortlich:</u> TeamSpeak
-
 ### <strong><span style="color:#E4D100">felliongi21</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 
@@ -486,6 +481,11 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 ## Creator
 Creator sind für kreative Arbeiten, wie Texte, Bilder und Grafiken zuständig und sind kreative Köpfe des Teams.
+
+###<strong><span style="color:#007812">Evageddon</span></strong>
+- <u>Rang (ingame):</u> Creator
+- <u>Hauptverantworlich:</u> Grafikdesign
+- <u>Nebenverantwortlich:</u> TeamSpeak
 
 ### <strong><span style="color:#007812">Kritzelkiste</span></strong>
 - <u>Rang (ingame):</u> Creator
