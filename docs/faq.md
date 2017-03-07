@@ -8,7 +8,7 @@ Wir wünschen dir viel Spaß beim Spielen auf unserem Netzwerk!
 Mit der TeamSpeak-Server-IP ts.timolia.de gelangst du zu unserem TeamSpeak-Server. 
 Dort gibt es nicht nur Hilfechannel für schnellen Support, auch öffentliche Zonen erwarten dich.
 Auf unserem Server bieten wir zeitlich begrenzte Channel zum Mieten an, 
-dafür benötigst du pro Monat 5000 Pixel oder  20000 Timolions. 
+dafür benötigst du pro Monat 2500 Pixel oder  10000 Timolions. 
 Alle weiteren Informationen findest du in der Channelbeschreibung von "Private Zonen".
 
 ### Wie gelange ich zum CityBuild?
