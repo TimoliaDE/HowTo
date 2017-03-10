@@ -28,6 +28,8 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 Sie stehen für alle grundlegenden Fragen zur Verfügung, nehmen Reports entgegen und sind die ersten Ansprechpartner, wenn du Probleme hast.
 - <u>Builder:</u>
 Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entwerfen stetig neue Bauten.
+- <u>Creator:</u>
+Creator sind für kreative Arbeiten, wie Texte, Bilder und Grafiken zuständig und sind kreative Köpfe des Teams.
 - <u>Expert:</u>
 Dies ist der Lifetime-Premium-Rang von Timolia. Welche Vorteile dir dieser Rang bietet, erfährst du in unserem Shop.
 - <u>Pro:</u>
@@ -44,9 +46,14 @@ Da dieser Vorgang manuell vorgenommen werden muss, kann dies ebenfalls ein paar 
 Alternativ kannst du dir auch einen Paysafecard-Account erstellen und mit diesem deinen Artikel bezahlen.
 
 ### Werden noch Developer gesucht?
-Mit einer E-Mail an development@timolia.de kannst du dich als Developer bewerben. Vorausgesetzt werden ausführliche Kenntnisse über Java und die
+Mit einer E-Mail an <a href="mailto:development@timolia.de">development@timolia.de</a> kannst du dich als Developer bewerben. Vorausgesetzt werden ausführliche Kenntnisse über Java und die
 Bukkit-API, Erfahrungen im Umgang mit Git, Teamfähigkeit und Grundkenntnisse der Sprache Englisch. Dein Bewerbungsschreiben sollte eine kurze Beschreibung deiner Person,
 Darstellung deiner Fähigkeiten und Kompetenzen und eine Angabe zur Kontaktmöglichkeit beinhalten.
+
+### Wie kann ich Creator werden?
+Auch hier kannst du dich per E-Mail an <a href="mailto:creator@timolia.de">creator@timolia.de</a> bewerben. Wichtig dabei ist, dass du uns eine kurze persönliche Beschreibung zukommen lässt, genau so wie 
+Beispiele deiner Arbeiten. Je nachdem, für welchen kreativen Bereich du dich bewerben willst, benötigst du folgende Kenntnisse: Grundkenntnisse in Bildgestaltung und Bildbearbeitung, wenn du im bildnerischen, bzw. 
+gestalterischen Bereich tätig sein willst; Kreativität; Sprachliche Fähigkeiten; Kenntnis über Design und kreativen Aufbau Timolias.
 
 ### Wie funktioniert das Kick-System bei vollen Lobbys?
 Timolia besitzt ein recht komplexes und einzigartiges Kicksystem, um sowohl Premium- als auch normalen Spielern ein tolles Spielerlebnis ohne ewige Wartezeiten zu ermöglichen.
@@ -82,7 +89,7 @@ In jeder Lobby der Modi findest du in deinem Inventar eine genaue Erklärung, di
 ### Kann ich auch Supporter, Moderator oder Admin werden?
 Durch positives Auffallen in Form von Live- und Chatreports, positiver Aktivität im Ingame-Chat, Hilfsbereitschaft oder andere Arten von Engagement kannst du
 deine Chancen auf ein Bewerbungsgespräch steigern, doch auch ohne besonderen Rang kannst du unser Servernetzwerk in vielerlei Hinsicht unterstützen.
-Explizite Bewerbungen sind nur für den Developer Rang möglich.
+Explizite Bewerbungen sind nur als Developer und Creator möglich.
 
 ### Wie kann ich Builder werden?
 In angekündigten Bauevents könnt ihr eure Baukünste unter Beweis stellen, 
