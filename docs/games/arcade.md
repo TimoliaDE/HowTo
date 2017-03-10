@@ -83,3 +83,6 @@ Insgesamt werden acht Runden gespielt.
 <span style="color:#F99500">Pro</span> und <span style="color:#00F9EC">Expert</span> only:
 | `/create` | Erstellt ein Turnier |
 | `/invite <Spieler>` | Lädt einen Spieler in dein Turnier ein |
+
+## Premium-Features
+- Werde mit `/togglerank` als normaler Spieler angezeigt

@@ -26,6 +26,7 @@ Jump and Run des Tages gekürt, dies ist der bestbewertetste Parcour des vorheri
 ## Premium-Features
 - Zwei Bauslots für <span style="color:#F99500">Pros</span>, drei Bauslots für <span style="color:#00F9EC">Experts</span>
 - Armorstands und Spielerköpfe beim Bauen von Jump and Runs
+- Werde mit `/togglerank` als normaler Spieler angezeigt
 
 ## Befehle
 

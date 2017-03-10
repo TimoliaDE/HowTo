@@ -24,7 +24,7 @@ unterstützen. Zahlungen per Buycraft werden direkt auf dem Server umgesetzt. Di
 daher ca. 1-24 Stunden nachdem du die Spende getätigt hast auf dem Server verfügbar. Im Betreff einer Nitrado-Spende müssen dein aktueller Ingame-Name und der gewünschte Rang stehen, bei mehreren Spenden 
 (z.B. bei Expert) sollten die Spenden auch numeriert sein.
 
-Klicke [<strong>hier</strong>, um über BuyCraft zu spenden](http://shop.timolia.de/) und [<strong>hier</strong>, um über Nitrado zu spenden](https://www.timolia.de/spenden-ueber-nitrado/).
+Klicke [<strong>hier</strong>, um über BuyCraft zu spenden](https://shop.timolia.de/).
 
 ###Mein Rang ist nicht da, was kann ich tun?
 Bezahlungen können eine Weile dauern - besonders, wenn der Kauf über Nitrado abgewickelt wurde. Sollte dein Rang 24 Stunden nach der Bestellung immer noch
