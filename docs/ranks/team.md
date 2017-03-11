@@ -210,6 +210,9 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">Schonas</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 
+###<strong><span style="color:#E4D100">Schmoritz</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+
 ###<strong><span style="color:#E4D100">Sinzilla</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> YouTuber-Events
