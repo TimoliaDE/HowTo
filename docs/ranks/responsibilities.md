@@ -150,6 +150,7 @@ Hier werden die verschiendenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 |<span style="color:#CF0101">Ferdy</span> | Twitter NV |
 |<span style="color:#CF0101">ItsSarahh</span> | Twitter NV|
 |<span style="color:#CF0101">Caprea</span> | Twitter NV |
+|<span style="color:#E4D100">Juliaan</span> | Twitter NV |
 |<span style="color:#007812">tr7zw</span> | Twitter NV |
 |<span style="color:#00646F">JukPlays</span> | Twitter NV |
 

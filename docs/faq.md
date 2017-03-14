@@ -12,7 +12,7 @@ dafür benötigst du pro Monat 5000 Pixel oder  20000 Timolions.
 Alle weiteren Informationen findest du in der Channelbeschreibung von "Private Zonen".
 
 ### Wie gelange ich zum CityBuild?
-Mit dem Befehl `/city` gelangs du von überall aus zu unserem CityBuild-Server, wo dich dich viele wunderschöne Baugebiete erwarten. Wichtig: Der CityBuild ist nur mit der <strong>Minecraft Version 1.9 oder höher</strong> betretbar!
+Mit dem Befehl `/city` gelangs du von überall aus zu unserem CityBuild-Server, wo dich dich viele wunderschöne Baugebiete erwarten. Wichtig: Der CityBuild ist nur mit der <strong>Minecraft Version 1.11.2 oder höher</strong> betretbar!
 
 ### Welche Ränge gibt es?
 - <u>Administratoren:</u>
@@ -110,7 +110,7 @@ Timolia besitzt ein goldenes Herz, einen der schönsten CityBuild-Server der Min
 Der CityBuild ist ein Community-Basierter Survival-Bauserver. Es gibt viele verschiedene Baugebiete an denen du dich auf deine Weise austoben und deiner Kreativität dabei freien Lauf lassen kannst
 
 ### Wie gelange ich  auf den CityBuild?
-Du kannst uns jederzeit auf dem Timolia-Netzwerk aufsuchen. Gib dafür einfach `/city` im Chat ein und der Spaß kann beginnen! Wichtig: Der CityBuild ist nur mit der <strong>Minecraft Version 1.9 oder höher</strong> betretbar!
+Du kannst uns jederzeit auf dem Timolia-Netzwerk aufsuchen. Gib dafür einfach `/city` im Chat ein und der Spaß kann beginnen! Wichtig: Der CityBuild ist nur mit der <strong>Minecraft Version 1.11.2 oder höher</strong> betretbar!
 
 ### Was kann ich hier machen?
 Auf dem CityBuild-Server kannst du dir Grundstücke kaufen und diese dem Baugebiet entsprechend bebauen. Hier und da finden kleine Events in Form von (zum Beispiel) Minigames statt.
