@@ -45,5 +45,5 @@ Ab einer Bannzeit von zehn Tagen kannst du mit einer Entschuldigung deine Bannze
 Bannzeit auf 30 Tage hinabgesetzt. Eine Entschuldigung kannst du im Forum im Themenbereich "Gebannt" schreiben. Solltest du keinen Account für unser
 Forum haben, kannst du im Hilfechannel deinen Text einem Teammitglied senden, welches deine Entschuldigung stellvertretend für dich im Forum postet.
 Wenn ein Bann acht Monate alt ist, beginnt er zu verjähren. Jedes Monat wird ein Bann um zwei Tage verkürzt. Ab einer Banndauer von 45 Tagen oder weniger, kann eine
-Entschuldigung geschrieben werden. <a href="https://forum.timolia.de/forums/entschuldigungen.49/create-thread" target="_blank">Hier kannst du dich entschuldigen</a>, 
-<a href="https://forum.timolia.de/forums/zu-unrecht-gebannt.122/" target="_blank">hier meldest du dich, wenn du zu unrecht gebannt wurdest</a>.
+Entschuldigung geschrieben werden. <a href="https://forum.timolia.de/forums/entschuldigungen.49/create-thread" target="_blank"><b>Hier</b> kannst du dich entschuldigen</a>, 
+<a href="https://forum.timolia.de/forums/zu-unrecht-gebannt.122/" target="_blank"><b>hier</b> meldest du dich, wenn du zu unrecht gebannt wurdest</a>.
