@@ -63,11 +63,12 @@ Spieler mit der niedrigsten KV wieder in eine der Games-Lobbies geschickt. Seine
 gekickt wird, da die anderen Spieler nun eine niedrigere Kick-Value haben. Sobald ein Spiel startet, wird jedem Spieler wieder seine Standard-Kick-Value zugewiesen.
 
 ### Wo kann ich mich entschuldigen?
-Wenn du gebannt wurdest, kannst du mit  einem Entbannungsantrag eine Bannverkürzung von maximal 1/3 deiner Bannzeit bekommen, sofern
+Wenn du gebannt wurdest, kannst du mit einem Entbannungsantrag eine Bannverkürzung von maximal 1/3 deiner Bannzeit bekommen, sofern
 deine Entschuldigung sehr gut geschrieben ist. Diese kannst du in unserem Forum oder im Hilfechannel posten, alternativ
 kannst du auch eine E-Mail an gebannt@timolia.de schreiben. Achtung! Solltest du zwei Mal wegen Hacking gebannt worden sein oder hast eine
-Bannzeit von insgesamt über 46 Tagen, besteht für dich keine Chance auf eine Entbannung, da die Banntage erst verjähren wüssen. Über den Minecraft-Server `register.timolia.de` kannst 
-du dich für unser Forum registrieren, sofern du dies nicht schon getan hast.
+Bannzeit von insgesamt über 46 Tage, musst du erst warten, bis deine Banntage auf =<46 Tage verjährt sind. Über den Minecraft-Server `register.timolia.de` kannst 
+du dich für unser Forum registrieren, sofern du dies nicht schon getan hast. <a href="https://forum.timolia.de/forums/entschuldigungen.49/create-thread" target="_blank">Hier kannst du dich entschuldigen</a>, 
+<a href="https://forum.timolia.de/forums/zu-unrecht-gebannt.122/" target="_blank">hier meldest du dich, wenn du zu unrecht gebannt wurdest</a>.
 
 ### Woher bekomme ich das Timolia Optifine-Cape?
 - URL: http://www.needcoolshoes.com/banner?=paeyeseqpwphec
