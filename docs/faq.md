@@ -87,6 +87,9 @@ Wer in den Timolianischen Spielen teamt, hat keine Konsequenzen zu befürchten.
 ### Wie funktioniert ... ?
 In jeder Lobby der Modi findest du in deinem Inventar eine genaue Erklärung, die das jeweilige Spielgeschehen erläutert.
 
+### Kann ich meine Statistiken resetten?
+Nein, das ist leider nicht möglich. Die Statistiken sollen die gesamte Spiellaufbahn darstellen, sowohl die guten, als auch die schlechten Kämpfe und Spiele.
+
 ### Kann ich auch Supporter, Moderator oder Admin werden?
 Durch positives Auffallen in Form von Live- und Chatreports, positiver Aktivität im Ingame-Chat, Hilfsbereitschaft oder andere Arten von Engagement kannst du
 deine Chancen auf ein Bewerbungsgespräch steigern, doch auch ohne besonderen Rang kannst du unser Servernetzwerk in vielerlei Hinsicht unterstützen.

@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>März</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
 | ------ | ------ | ------ | ------ | ------ |
+|Handis | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | Keine Zeit und Motivation | 08.03.17 |
 |Shustin | <span style="color:#007812">Developer</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation | 05.03.2017 |
 |Skerai | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 05.03.2017 |
 |baumulu | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 05.03.2017 |

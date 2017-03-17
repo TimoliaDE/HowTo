@@ -10,8 +10,6 @@ Turnieren gegen deine Mitspieler und gewinne die meisten Spiele.
 - Jedes Minispiel benötigt unterschiedliche Fähigkeiten und fordert alle deine Seiten.
 - Sowohl in Einzelkämpfen, als auch in Turnieren kannst du dich beweisen.
 
-## Premium-Features
-- Premium-Spieler können in Arcade öffentliche oder private Turniere erstellen.
 
 ## Die Minispiele
 
@@ -85,4 +83,6 @@ Insgesamt werden acht Runden gespielt.
 | `/invite <Spieler>` | Lädt einen Spieler in dein Turnier ein |
 
 ## Premium-Features
+- Erstelle öffentliche oder private Turniere
+- Favorisiere zwei, bzw. drei Spiele
 - Werde mit `/togglerank` als normaler Spieler angezeigt

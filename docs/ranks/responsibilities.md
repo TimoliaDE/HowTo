@@ -117,7 +117,7 @@ Hier werden die verschiendenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 |<span style="color:#2980b9">Docmac</span> | Backend |
 |<span style="color:#2980b9">Evoferry</span> | Teamspeak, Backend |
 |<span style="color:#2980b9">xiantiel</span> | Rott-Server |
-|<span style="color:#CF0101">KenaiHD</span> | City-Games |
+|<span style="color:#007812">KenaiHD</span> | City-Games |
 |<span style="color:#007812">tr7zw</span> | CityBuild-Plugins |
 |<span style="color:#007812">ich_komm_morgen</span> | Missionen |
 

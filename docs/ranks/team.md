@@ -179,9 +179,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ###<strong><span style="color:#E4D100">Karpfen17</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 
-### <strong><span style="color:#E4D100">Loris</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-
 ### <strong><span style="color:#E4D100">Metrixx7</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 

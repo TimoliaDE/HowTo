@@ -33,6 +33,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/chatreport <Spieler> [Grund]` | Erstellt einen Chatreprt |
 | `/reports [-c] [-a]` | Öffnet eine Übersicht über deine Reports |
 | `/reportstats` | Zeigt dir deine Reportwahrscheinlichkeit an |
+| `/closereport <Spieler/ID>` | Schließe deinen eigenen Report |
 
 ### Freundesystem
 
