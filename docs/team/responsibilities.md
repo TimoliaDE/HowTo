@@ -159,11 +159,12 @@ Hier werden die verschiendenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 |<span style="color:#2980b9">Niklas</span>| Twitter NV |
 |<span style="color:#CF0101">Thomasch</span> | YouTube HV, Twitter NV |
 |<span style="color:#CF0101">KenaiHD</span> | YouTube HV|
-|<span style="color:#CF0101">Caelis</span> | Twitter NV |
+|<span style="color:#CF0101">Caelis</span> | Twitter NV, JumpWorld Bilder |
 |<span style="color:#CF0101">FabsiFTW</span> | Twitter NV |
 |<span style="color:#CF0101">Ferdy</span> | Twitter NV |
 |<span style="color:#CF0101">ItsSarahh</span> | Twitter NV|
 |<span style="color:#CF0101">Caprea</span> | Twitter NV |
+|<span style="color:#CF0101">L0L0</span> | JumpWorld Bilder |
 |<span style="color:#007812">tr7zw</span> | Twitter NV |
 |<span style="color:#E4D100">Juliaan</span> | Twitter NV |
 |<span style="color:#00646F">JukPlays</span> | Twitter NV |

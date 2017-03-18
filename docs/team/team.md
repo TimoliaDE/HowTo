@@ -62,14 +62,14 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ###<strong><span style="color:#CF0101">L0L0</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
 - <u>Hauptverantworlich:</u> Spieler melden Forum
-- <u>Nebenverantwortlich:</u> Anti-Cheat
+- <u>Nebenverantwortlich:</u> Anti-Cheat, Social-Media
 
 ###<strong><span style="color:#CF0101">Siimon</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
 
 ###<strong><span style="color:#CF0101">Milam</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
-- <u>Hauptverantworlich:</u> Social Media
+- <u>Hauptverantworlich:</u> Social-Media
 - <u>Nebenverantwortlich:</u> Entbannungsanträge, Forum
 
 ###<strong><span style="color:#CF0101">Thomasch</span></strong>
