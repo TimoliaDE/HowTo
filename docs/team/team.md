@@ -125,7 +125,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">blackINK_</span></strong>
 - <u>Rang (ingame):</u> Supporterin Games
-- <u>Nebenverantwortlich:</u> TeamSpeak
 
 ### <strong><span style="color:#E4D100">BuffmonsterOne</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -274,7 +273,7 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 
 ###<strong>Docmac</strong>
 - <u>Rang (ingame):</u> Administrator CityBuild, Games
-- <u>Hauptverantworlich:</u> CityBuild-Builder, CityBuild-Server, CityBuild-Supporter, Steam, TeamSpeak
+- <u>Hauptverantworlich:</u> CityBuild-Builder, CityBuild-Server, CityBuild-Supporter, Steam
 
 ###<strong>Edgxxar</span></strong>
 - <u>Rang (ingame):</u> Administrator Games, CityBuild

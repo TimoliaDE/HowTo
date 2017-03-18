@@ -116,8 +116,8 @@ Hier werden die verschiendenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 |<span style="color:#2980b9">Edgxxar</span> | Report-System, Castles |
 |<span style="color:#2980b9">MCExpertDE</span> | Timolianische Spiele, DNA, InTime, BrainBow, 4rena |
 |<span style="color:#2980b9">Moehritz</span> | Splun, Redeem-System |
-|<span style="color:#007812">5zig</span> | PixelShop |
 |<span style="color:#CF0101">Caelis</span> | Technische Leitung Adventskalender 2015 |
+|<span style="color:#007812">5zig</span> | PixelShop |
 |<span style="color:#007812">Flycofx</span> | Chainreact, Weihnachts- Timolia Adventure |
 |<span style="color:#007812">logito111</span> | Ostereiersuche |
 |<span style="color:#007812">Shustin</span> | PixelShop, Broadcaster, Technische Leitung Adventskalender 2016 |
@@ -130,10 +130,11 @@ Hier werden die verschiendenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 | Teamler | Projekte |
 | ------ | ------ |
 |<span style="color:#2980b9">Docmac</span> | Backend |
-|<span style="color:#2980b9">Evoferry</span> | Teamspeak, Backend |
+|<span style="color:#2980b9">Evoferry</span> | Teamspeak |
 |<span style="color:#2980b9">xiantiel</span> | Root-Server |
 |<span style="color:#CF0101">KenaiHD</span> | City-Games |
-|<span style="color:#007812">tr7zw</span> | CityBuild-Plugins |
+|<span style="color:#007812">Caelis</span> | Mailsystem |
+|<span style="color:#007812">tr7zw</span> | CityBuild |
 |<span style="color:#007812">ich_komm_morgen</span> | Missionen |
 
 # Sonstige Aufgaben
@@ -164,12 +165,12 @@ Hier werden die verschiendenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 |<span style="color:#CF0101">ItsSarahh</span> | Twitter NV|
 |<span style="color:#CF0101">Caprea</span> | Twitter NV |
 |<span style="color:#007812">tr7zw</span> | Twitter NV |
+|<span style="color:#E4D100">Juliaan</span> | Twitter NV |
 |<span style="color:#00646F">JukPlays</span> | Twitter NV |
 
 ###<strong>TeamSpeak</strong>
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#2980b9">Docmac</span> | Hauptverantwortlich |
 |<span style="color:#2980b9">Evoferry</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">KenaiHD</span> | Hauptverantwortlich |
 | | |
@@ -178,7 +179,6 @@ Hier werden die verschiendenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 |<span style="color:#CF0101">Thomasch</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">JOlegna</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">\_TakeItEaZy\_</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">blackINK_</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Evageddon</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Tedget</span> | Nebenverantwortlich |
