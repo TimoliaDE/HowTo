@@ -41,6 +41,9 @@ Bezahlungen können eine Weile dauern, besonders, wenn der Kauf über Nitrado ab
 nicht da sein, melde dich bitte in einem unserer Hilfechannel. Nach ein paar Angaben über deinen Kauf wird die Bestellung von einem Administrator bearbeitet.
 Da dieser Vorgang manuell vorgenommen werden muss, kann dies ebenfalls ein paar Stunden in Anspruch nehmen.
 
+### Ich habe Premium, kann aber nicht auf volle Server verbinden, was kann ich tun?
+Wenn du trotz Premiumrang nicht in volle Lobbys gelangst, hilft der Command /fixkv weiter.
+
 ### Wie kann ich mit mehreren Paysafecards zahlen?
 Über Nitrado kannst du in Form von Spenden deinen Artikel in Etappen bezahlen, bei jeder Etappe kannst du eine Paysafecard angeben. 
 Alternativ kannst du dir auch einen Paysafecard-Account erstellen und mit diesem deinen Artikel bezahlen.
@@ -61,6 +64,9 @@ Jeder Spieler erhält beim Joinen des Netzwerkes eine individuelle "Kick-Value",
 Pros haben eine KV von 300, Experts eine von 400 und YouTuber besitzen eine Kick-Value von 500. Wenn nun z.B. ein Pro einen vollen Server betritt, wird ein zufälliger
 Spieler mit der niedrigsten KV wieder in eine der Games-Lobbies geschickt. Seine Kick-Value erhöht sich dabei um 1. Beim nächsten Versuch ist es also wahrscheinlicher, dass er nicht
 gekickt wird, da die anderen Spieler nun eine niedrigere Kick-Value haben. Sobald ein Spiel startet, wird jedem Spieler wieder seine Standard-Kick-Value zugewiesen.
+
+### Ich kann mich nicht im Forum anmelden, was kann ich tun?
+Wenn als Fehlermeldung "Passwort falsch" erscheint, solltest du als ersten Schritt prüfen, ob du auch wirklich deinen Minecraft-Namen als Benutzernamen angibst. Wenn du dies mit vollster Sicherheit bestätigen kannst, setze bitte dein Passwort zurück und versuche es erneut. Wenn der Fehler weiterhin existiert, solltest du dich bei uns auf dem Teamspeak im Hilfechannel melden. Dort können wir dir gezielter weiterhelfen.
 
 ### Wo kann ich mich entschuldigen?
 Wenn du gebannt wurdest, kannst du mit einem Entbannungsantrag eine Bannverkürzung von maximal 1/3 deiner Bannzeit bekommen, sofern
