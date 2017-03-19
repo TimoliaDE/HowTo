@@ -1,4 +1,3 @@
-
 # Allgemeines
 Dies ist eine Übersicht über alle Baugebiete, die du auf dem Citybuild Server erkunden kannst.
 Du findest eine kurze Beschreibung über das jeweilige Baugebiet und die dazugehörigen Regeln.
@@ -23,7 +22,7 @@ Du darfst auf deinem GS maximal 10 Haustiere haben.
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
-| TimoliaTeam | Hauptverantwortlich |
+| Docmac | Hauptverantwortlich |
 
 ## 2 - Upperhills
 
@@ -53,7 +52,6 @@ eingehalten werden, es werden keine Blöcke außerhalb des Grundstückes gesetzt
 | Verantwortliche | Funktion |
 | ------ | -------- |
 | JOlegna | Hauptverantwortlich |
-| kd9b | Nebenverantwortlich |
 
 ## 3 - Downtown
 
@@ -114,9 +112,7 @@ Erforsche sie und entdecke alle tollen Sachen von Ägypten und finde alle Geheim
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
-| Twilex | Hauptverantwortlich |
 | Caprea| Hauptverantwortlich |
-| JoJoYoshy| Nebenverantwortlich |
 
 ## 6 - Atlantis
 
@@ -198,7 +194,6 @@ Oben auf den Bergen ließen sich die reicheren Leute nieder und haben prachtvoll
 | Verantwortliche | Funktion |
 | ------ | -------- |
 | LaShadow | Hauptverantwortlich |
-| Twilex | Hauptverantwortlich |
 
 ## 10 - Karibik
 
