@@ -1,4 +1,3 @@
-
 # Allgemeines
 Dies ist eine Übersicht über alle Baugebiete, die du auf dem Citybuild Server erkunden kannst.
 Du findest eine kurze Beschreibung über das jeweilige Baugebiet und die dazugehörigen Regeln.
@@ -242,7 +241,7 @@ Es sind Baumhäuser zu bauen. Grundstücke kosten zwischen 76.000T und 121.000T 
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
-| saporital | Hauptverantwortlich |
+| engiwuck | Hauptverantwortlich |
 
 
 ## 12 - Minedig
@@ -260,7 +259,7 @@ Man kauft die Grundstücke in kleinen Gebäuden auf den Inseln. Es sind 4 Hausti
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
-| saporital | Hauptverantwortlich |
+| Todbringender | Hauptverantwortlich |
 
 
 ## 13 - Mittelalter
