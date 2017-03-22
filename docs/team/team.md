@@ -24,7 +24,7 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 ###<strong>Niklas</strong>
 - <u>Rang (ingame):</u> Administrator Games
 - <u>Hauptverantworlich:</u> Interne Webanwendung, Webseite
-- <u>Nebenverantwortlich:</u> Social-Media, Twitter
+- <u>Nebenverantwortlich:</u> Social-Media
 
 ###<strong>xiantiel</strong>
 - <u>Rang (ingame):</u> Administrator Games, CityBuild
@@ -62,14 +62,14 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ###<strong><span style="color:#CF0101">L0L0</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
 - <u>Hauptverantworlich:</u> Spieler melden Forum
-- <u>Nebenverantwortlich:</u> Anti-Cheat
+- <u>Nebenverantwortlich:</u> Anti-Cheat, Social-Media
 
 ###<strong><span style="color:#CF0101">Siimon</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
 
 ###<strong><span style="color:#CF0101">Milam</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
-- <u>Hauptverantworlich:</u> Social Media
+- <u>Hauptverantworlich:</u> Social-Media
 - <u>Nebenverantwortlich:</u> Entbannungsanträge, Forum
 
 ###<strong><span style="color:#CF0101">Thomasch</span></strong>
@@ -125,7 +125,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">blackINK_</span></strong>
 - <u>Rang (ingame):</u> Supporterin Games
-- <u>Nebenverantwortlich:</u> TeamSpeak
 
 ### <strong><span style="color:#E4D100">BuffmonsterOne</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -147,11 +146,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">Elegeta</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantworlich:</u> Supporterauswahl
-
-###<strong><span style="color:#E4D100">Evageddon</span></strong>
-- <u>Rang (ingame):</u> Supporterin Games
-- <u>Hauptverantworlich:</u> Grafikdesign
-- <u>Nebenverantwortlich:</u> TeamSpeak
 
 ### <strong><span style="color:#E4D100">felliongi21</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -193,7 +187,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">mTAce</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Spieler melden Forum
-- <u>Nebenverantwortlich:</u> Entbannungsanträge
 
 ### <strong><span style="color:#E4D100">Percyfan55</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -280,7 +273,7 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 
 ###<strong>Docmac</strong>
 - <u>Rang (ingame):</u> Administrator CityBuild, Games
-- <u>Hauptverantworlich:</u> CityBuild-Builder, CityBuild-Server, CityBuild-Supporter, Steam, TeamSpeak
+- <u>Hauptverantworlich:</u> CityBuild-Builder, CityBuild-Server, CityBuild-Supporter, Steam
 
 ###<strong>Edgxxar</span></strong>
 - <u>Rang (ingame):</u> Administrator Games, CityBuild
@@ -487,6 +480,11 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 ## Creator
 Creator sind für kreative Arbeiten, wie Texte, Bilder und Grafiken zuständig und sind kreative Köpfe des Teams.
+
+###<strong><span style="color:#007812">Evageddon</span></strong>
+- <u>Rang (ingame):</u> Creator
+- <u>Hauptverantworlich:</u> Grafikdesign
+- <u>Nebenverantwortlich:</u> TeamSpeak
 
 ### <strong><span style="color:#007812">Kritzelkiste</span></strong>
 - <u>Rang (ingame):</u> Creator

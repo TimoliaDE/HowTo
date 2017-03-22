@@ -12,7 +12,7 @@ dafür benötigst du pro Monat 5000 Pixel oder  20000 Timolions.
 Alle weiteren Informationen findest du in der Channelbeschreibung von "Private Zonen".
 
 ### Wie gelange ich zum CityBuild?
-Mit dem Befehl `/city` gelangs du von überall aus zu unserem CityBuild-Server, wo dich dich viele wunderschöne Baugebiete erwarten. Wichtig: Der CityBuild ist nur mit der <strong>Minecraft Version 1.11.2 oder höher</strong> betretbar!
+Mit dem Befehl `/city` gelangs du von überall aus zu unserem CityBuild-Server, wo dich dich viele wunderschöne Baugebiete erwarten. Wichtig: Der CityBuild ist nur mit der <strong>Minecraft Version 1.9 oder höher</strong> betretbar!
 
 ### Welche Ränge gibt es?
 - <u>Administratoren:</u>
@@ -28,8 +28,6 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 Sie stehen für alle grundlegenden Fragen zur Verfügung, nehmen Reports entgegen und sind die ersten Ansprechpartner, wenn du Probleme hast.
 - <u>Builder:</u>
 Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entwerfen stetig neue Bauten.
-- <u>Creator:</u>
-Creator sind für kreative Arbeiten, wie Texte, Bilder und Grafiken zuständig und sind kreative Köpfe des Teams.
 - <u>Expert:</u>
 Dies ist der Lifetime-Premium-Rang von Timolia. Welche Vorteile dir dieser Rang bietet, erfährst du in unserem Shop.
 - <u>Pro:</u>
@@ -41,22 +39,14 @@ Bezahlungen können eine Weile dauern, besonders, wenn der Kauf über Nitrado ab
 nicht da sein, melde dich bitte in einem unserer Hilfechannel. Nach ein paar Angaben über deinen Kauf wird die Bestellung von einem Administrator bearbeitet.
 Da dieser Vorgang manuell vorgenommen werden muss, kann dies ebenfalls ein paar Stunden in Anspruch nehmen.
 
-### Ich habe Premium, kann aber nicht auf volle Server verbinden, was kann ich tun?
-Wenn du trotz Premiumrang nicht in volle Lobbys gelangst, hilft der Command /fixkv weiter.
-
 ### Wie kann ich mit mehreren Paysafecards zahlen?
 Über Nitrado kannst du in Form von Spenden deinen Artikel in Etappen bezahlen, bei jeder Etappe kannst du eine Paysafecard angeben. 
 Alternativ kannst du dir auch einen Paysafecard-Account erstellen und mit diesem deinen Artikel bezahlen.
 
 ### Werden noch Developer gesucht?
-Mit einer E-Mail an <a href="mailto:development@timolia.de">development@timolia.de</a> kannst du dich als Developer bewerben. Vorausgesetzt werden ausführliche Kenntnisse über Java und die
+Mit einer E-Mail an development@timolia.de kannst du dich als Developer bewerben. Vorausgesetzt werden ausführliche Kenntnisse über Java und die
 Bukkit-API, Erfahrungen im Umgang mit Git, Teamfähigkeit und Grundkenntnisse der Sprache Englisch. Dein Bewerbungsschreiben sollte eine kurze Beschreibung deiner Person,
 Darstellung deiner Fähigkeiten und Kompetenzen und eine Angabe zur Kontaktmöglichkeit beinhalten.
-
-### Wie kann ich Creator werden?
-Auch hier kannst du dich per E-Mail an <a href="mailto:creator@timolia.de">creator@timolia.de</a> bewerben. Wichtig dabei ist, dass du uns eine kurze persönliche Beschreibung zukommen lässt, genau so wie 
-Beispiele deiner Arbeiten. Je nachdem, für welchen kreativen Bereich du dich bewerben willst, benötigst du folgende Kenntnisse: Grundkenntnisse in Bildgestaltung und Bildbearbeitung, wenn du im bildnerischen, bzw. 
-gestalterischen Bereich tätig sein willst; Kreativität; Sprachliche Fähigkeiten; Kenntnis über Design und kreativen Aufbau Timolias.
 
 ### Wie funktioniert das Kick-System bei vollen Lobbys?
 Timolia besitzt ein recht komplexes und einzigartiges Kicksystem, um sowohl Premium- als auch normalen Spielern ein tolles Spielerlebnis ohne ewige Wartezeiten zu ermöglichen.
@@ -65,16 +55,12 @@ Pros haben eine KV von 300, Experts eine von 400 und YouTuber besitzen eine Kick
 Spieler mit der niedrigsten KV wieder in eine der Games-Lobbies geschickt. Seine Kick-Value erhöht sich dabei um 1. Beim nächsten Versuch ist es also wahrscheinlicher, dass er nicht
 gekickt wird, da die anderen Spieler nun eine niedrigere Kick-Value haben. Sobald ein Spiel startet, wird jedem Spieler wieder seine Standard-Kick-Value zugewiesen.
 
-### Ich kann mich nicht im Forum anmelden, was kann ich tun?
-Wenn als Fehlermeldung "Passwort falsch" erscheint, solltest du als ersten Schritt prüfen, ob du auch wirklich deinen Minecraft-Namen als Benutzernamen angibst. Wenn du dies mit vollster Sicherheit bestätigen kannst, setze bitte dein Passwort zurück und versuche es erneut. Wenn der Fehler weiterhin existiert, solltest du dich bei uns auf dem Teamspeak im Hilfechannel melden. Dort können wir dir gezielter weiterhelfen.
-
 ### Wo kann ich mich entschuldigen?
-Wenn du gebannt wurdest, kannst du mit einem Entbannungsantrag eine Bannverkürzung von maximal 1/3 deiner Bannzeit bekommen, sofern
+Wenn du gebannt wurdest, kannst du mit  einem Entbannungsantrag eine Bannverkürzung von maximal 1/3 deiner Bannzeit bekommen, sofern
 deine Entschuldigung sehr gut geschrieben ist. Diese kannst du in unserem Forum oder im Hilfechannel posten, alternativ
 kannst du auch eine E-Mail an gebannt@timolia.de schreiben. Achtung! Solltest du zwei Mal wegen Hacking gebannt worden sein oder hast eine
-Bannzeit von insgesamt über 46 Tage, musst du erst warten, bis deine Banntage auf =<46 Tage verjährt sind. Über den Minecraft-Server `register.timolia.de` kannst 
-du dich für unser Forum registrieren, sofern du dies nicht schon getan hast. <a href="https://forum.timolia.de/forums/entschuldigungen.49/create-thread" target="_blank"><b>Hier</b> kannst du dich entschuldigen</a>, 
-<a href="https://forum.timolia.de/forums/zu-unrecht-gebannt.122/" target="_blank"><b>hier</b> meldest du dich, wenn du zu unrecht gebannt wurdest</a>.
+Bannzeit von insgesamt über 46 Tagen, besteht für dich keine Chance auf eine Entbannung, da die Banntage erst verjähren wüssen. Über den Minecraft-Server `register.timolia.de` kannst 
+du dich für unser Forum registrieren, sofern du dies nicht schon getan hast.
 
 ### Woher bekomme ich das Timolia Optifine-Cape?
 - URL: http://www.needcoolshoes.com/banner?=paeyeseqpwphec
@@ -93,13 +79,10 @@ Wer in den Timolianischen Spielen teamt, hat keine Konsequenzen zu befürchten.
 ### Wie funktioniert ... ?
 In jeder Lobby der Modi findest du in deinem Inventar eine genaue Erklärung, die das jeweilige Spielgeschehen erläutert.
 
-### Kann ich meine Statistiken resetten?
-Nein, das ist leider nicht möglich. Die Statistiken sollen die gesamte Spiellaufbahn darstellen, sowohl die guten, als auch die schlechten Kämpfe und Spiele.
-
 ### Kann ich auch Supporter, Moderator oder Admin werden?
 Durch positives Auffallen in Form von Live- und Chatreports, positiver Aktivität im Ingame-Chat, Hilfsbereitschaft oder andere Arten von Engagement kannst du
 deine Chancen auf ein Bewerbungsgespräch steigern, doch auch ohne besonderen Rang kannst du unser Servernetzwerk in vielerlei Hinsicht unterstützen.
-Explizite Bewerbungen sind nur als Developer und Creator möglich.
+Explizite Bewerbungen sind nur für den Developer Rang möglich.
 
 ### Wie kann ich Builder werden?
 In angekündigten Bauevents könnt ihr eure Baukünste unter Beweis stellen, 
@@ -120,7 +103,7 @@ Timolia besitzt ein goldenes Herz, einen der schönsten CityBuild-Server der Min
 Der CityBuild ist ein Community-Basierter Survival-Bauserver. Es gibt viele verschiedene Baugebiete an denen du dich auf deine Weise austoben und deiner Kreativität dabei freien Lauf lassen kannst
 
 ### Wie gelange ich  auf den CityBuild?
-Du kannst uns jederzeit auf dem Timolia-Netzwerk aufsuchen. Gib dafür einfach `/city` im Chat ein und der Spaß kann beginnen! Wichtig: Der CityBuild ist nur mit der <strong>Minecraft Version 1.11.2 oder höher</strong> betretbar!
+Du kannst uns jederzeit auf dem Timolia-Netzwerk aufsuchen. Gib dafür einfach `/city` im Chat ein und der Spaß kann beginnen! Wichtig: Der CityBuild ist nur mit der <strong>Minecraft Version 1.9 oder höher</strong> betretbar!
 
 ### Was kann ich hier machen?
 Auf dem CityBuild-Server kannst du dir Grundstücke kaufen und diese dem Baugebiet entsprechend bebauen. Hier und da finden kleine Events in Form von (zum Beispiel) Minigames statt.
