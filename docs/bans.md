@@ -1,4 +1,4 @@
-#Spieler melden und Entschuldigungen
+# pieler melden und Entschuldigungen
 Auf Timolia werden viele Freiheiten geboten. Provokationen wie "eZ" werden nicht geahndet und der Umgang miteinander ist ungefilterter.
 Dennoch gibt es Regeln, an die sich jeder Spieler auf Timolia halten soll. Leider gibt es immer wieder Regelverstöße, welche du auf verschiedene
 Arten dem Team melden kannst:
@@ -15,18 +15,24 @@ Minecraft-Fensters im Forum reporten.
 | `/report <Spieler> <Beweislink>` | Erstellt einen Report mit Beweis |
 | `/livereport <Spieler> <Grund>` | Erstellt einen Livereport |
 | `/chatreport <Spieler> [Grund]` | Erstellt einen Chatreprt |
-| `/reports [-a] [-c]` | Öffnet eine Übersicht über deine Reports |
-| `/reportstats` | Zeigt dir die Erfolgsrate deiner Reports an an |
+| `/kitreport <Spieler> [Kit]` | Erstellt einen Report über ein Kit |
+| `/teamingreport <Spieler 1> <Spieler 2> [Spieler 3] ...` | Erstellt einen Report über Spieler, die unerlaubt teamen. |
+| `/reports [-c] [-a]` | Öffnet eine Übersicht über deine Reports |
+| `/reportstats` | Zeigt dir deine Reportwahrscheinlichkeit an |
+| `/closereport <Spieler/ID>` | Schließe deinen eigenen Report |
 
 ### Spieler im Forum melden
 Ist der Hacker offline gegangen, bevor ein Teammitglied ihn beobachten konnte kannst du den Spieler mit einem Videobeweis in unserem Forum melden.
 Registrieren kannst du dich ingame mit dem Befehl `/register <EMail>`, im Forum "Spieler melden" kannst du den Regelverstoß beim Team melden. Ein Beweis ist Pflicht. Screenshots gelten 
 nur als Beweise bei MSG-Nachrichten, alle anderen Regelverstöße müssen mit einem Video bewiesen werden. Natürlich kann ingame auch `/livereport` und `/chatreport` verwendet werden. 
 
-###Entschuldigungen
+### Entschuldigungen
 Ab einer Bannzeit von zehn Tagen kannst du mit einer Entschuldigung deine Bannzeit um bis zu 1/3 verkürzen, bei einem permanenten Bann wird deine 
 Bannzeit auf 30 Tage hinabgesetzt. Eine Entschuldigung kannst du im Forum im Themenbereich "Gebannt" schreiben. Solltest du keinen Account für unser
 Forum haben, kannst du im Hilfechannel deinen Text einem Teammitglied senden, welches deine Entschuldigung stellvertretend für dich im Forum postet.
 Wenn ein Bann acht Monate alt ist, beginnt er zu verjähren. Jedes Monat wird ein Bann um zwei Tage verkürzt. Ab einer Banndauer von 45 Tagen oder weniger, kann eine
-Entschuldigung geschrieben werden. <a href="https://forum.timolia.de/forums/entschuldigungen.49/create-thread" target="_blank">Hier kannst du dich entschuldigen</a>, 
-<a href="https://forum.timolia.de/forums/zu-unrecht-gebannt.122/" target="_blank">hier meldest du dich, wenn du zu unrecht gebannt wurdest</a>.
+Entschuldigung geschrieben werden. <a href="https://forum.timolia.de/forums/entschuldigungen.49/create-thread" target="_blank"><b>Hier</b> kannst du dich entschuldigen</a>, 
+<a href="https://forum.timolia.de/forums/zu-unrecht-gebannt.122/" target="_blank"><b>hier</b> meldest du dich, wenn du zu unrecht gebannt wurdest</a>.
+
+Erklärungen, [wie du einen Entbannungsantrag](https://forum.timolia.de/threads/zu-unrecht-gebannt.5124/), beziehungsweise wie du
+[eine Entschuldigung schreiben](https://forum.timolia.de/threads/eine-entschuldigung-schreiben.4/) kannst, findest du in unserem Forum.
