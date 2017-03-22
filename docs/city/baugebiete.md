@@ -237,7 +237,7 @@ Es sind Baumhäuser zu bauen. Grundstücke kosten zwischen 76.000T und 121.000T 
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
-| saporital | Hauptverantwortlich |
+| engiwuck | Hauptverantwortlich |
 
 
 ## 12 - Minedig
@@ -255,7 +255,7 @@ Man kauft die Grundstücke in kleinen Gebäuden auf den Inseln. Es sind 4 Hausti
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
-| saporital | Hauptverantwortlich |
+| Todbringender | Hauptverantwortlich |
 
 
 ## 13 - Mittelalter
