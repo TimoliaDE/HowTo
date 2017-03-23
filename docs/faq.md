@@ -10,7 +10,7 @@ Auf unserem Server bieten wir zeitlich begrenzte Channel zum Mieten an, die Kost
 
 ### Wie gelange ich zum CityBuild?
 Mit dem Befehl `/city` gelangst du von überall aus auf unsere CityBuild-Server, dort erwarten dich viele verschiedene Baugebiete. 
-<strong>Bitte beachte:</strong> Du benötigst die <ul>Minecraft Version 1.11.2</ul> oder höher, um den CityBuild betreten zu können! 
+<strong>Bitte beachte:</strong> Du benötigst die <b>Minecraft Version 1.11.2</b> oder höher, um den CityBuild betreten zu können! 
 Weitere Informationen [findest du hier](/city/baugebiete/).
 
 ### Welche Ränge gibt es?
