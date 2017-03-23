@@ -272,7 +272,7 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 
 ###<strong>Docmac</strong>
 - <u>Rang (ingame):</u> Administrator CityBuild, Games
-- <u>Hauptverantworlich:</u> CityBuild-Builder, CityBuild-Server, CityBuild-Supporter, Steam
+- <u>Hauptverantworlich:</u> CityBuild-Server, CityBuild-Supporter, Steam
 
 ###<strong>Edgxxar</span></strong>
 - <u>Rang (ingame):</u> Administrator Games, CityBuild
@@ -281,7 +281,7 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 
 ###<strong>Evoferry</strong>
 - <u>Rang (ingame):</u> Administrator CityBuild
-- <u>Hauptverantworlich:</u> CityBuild-Builder, CityBuild-Server, CityBuild-Supporter, TeamSpeak
+- <u>Hauptverantworlich:</u> CityBuild-Server, CityBuild-Supporter, TeamSpeak
 
 ###<strong>MCExpertDE</strong>
 - <u>Rang (ingame):</u> Administrator Games, CityBuild
@@ -300,39 +300,30 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 
 Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen Server auf unserem Netzwerk und dienen als Schnittstelle zwischen Supporter und Administratoren.
 
-###<strong><span style="color:#CF0101">byMongo</span></strong>
-- <u>Rang (ingame):</u> Moderator CityBuild
-
 ###<strong><span style="color:#CF0101">Caprea</span></strong>
 - <u>Rang (ingame):</u> Moderatorin CityBuild
-- <u>Hauptverantworlich:</u> Flussufer, Summerfields, Sunset Valley
-- <u>Nebenverantwortlich:</u> Aegypten, Social-Media, Weststadt
+- <u>Hauptverantworlich:</u> Flussufer, Summerfields, Sunset Valley, Aegypten, Social-Media
 
 ###<strong><span style="color:#CF0101">JoJoYoshy</span></strong>
 - <u>Rang (ingame):</u> Moderatorin CityBuild
-- <u>Nebenverantwortlich:</u> Aegypten, Karibik
 
 ### <strong><span style="color:#CF0101">JOlegna</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
-- <u>Hauptverantworlich:</u> Shopwelt, Upper Hills, Events, CityBuild Forum
-- <u>Nebenverantwortlich:</u> Usern helfen, Timolia Anleitung, Teamspeak
+- <u>Hauptverantworlich:</u> Upper Hills, Citybuild-Supporter, CityBuild Forum
 
 ###<strong><span style="color:#CF0101">kd9b</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
-- <u>Nebenverantwortlich:</u> Karibik, Upperhills, Weststadt
 
 ###<strong><span style="color:#CF0101">MCPhilippS</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
 
 ###<strong><span style="color:#CF0101">saporital</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
-- <u>Hauptverantworlich:</u> Berg, Downtown, Mammutwald , Minedig, Mittelalter, Oldtown, Wunderland
-- <u>Nebenverantwortlich:</u> Atlantis, Hafen
+- <u>Hauptverantworlich:</u> Social-Media, Downtown, Minedig, Mittelalter, Oldtown, Chinatown, Wunderland, Atlantis
 
 ###<strong><span style="color:#CF0101">Twilex</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
-- <u>Hauptverantworlich:</u> Abbauwelt, Aegypten, Bahnlinien, Japan, Skyland, Wellington
-- <u>Nebenverantwortlich:</u> Weststadt
+- <u>Hauptverantworlich:</u> Shopwelt, Skyland, Wellington
 
 ## Developer
 
@@ -340,8 +331,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 ###<strong><span style="color:#007812">tr7zw</span></strong>
 - <u>Rang (ingame):</u> Developer CityBuild
-- <u>Hauptverantworlich:</u> CityBuild-Plugins, Farmwelt
-- <u>Nebenverantwortlich:</u> Social-Media
+- <u>Hauptverantworlich:</u> CityBuild-Plugins, Abbauwelt, Farmwelt
 
 ###<strong><span style="color:#007812">Caelis</span></strong>
 - <u>Rang (ingame):</u> Developer CityBuild
@@ -356,6 +346,10 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 Sie stehen für alle grundlegenden Fragen und Tickets zur Verfügung und sind die ersten, an die ihr euch wenden könnt.
 
+###<strong><span style="color:#E4D100">Caaro</span></strong>
+- <u>Rang (ingame):</u> Supporterin CityBuild
+- <u>Nebenverantwortlich:</u> CityBuild Forum, Fragen und Antworten Forum
+
 ###<strong><span style="color:#E4D100">MCelements0815</span></strong>
 - <u>Rang (ingame):</u> Supporter CityBuild,
 - <u>Nebenverantwortlich:</u> TeamSpeak
@@ -363,10 +357,6 @@ Sie stehen für alle grundlegenden Fragen und Tickets zur Verfügung und sind di
 ###<strong><span style="color:#E4D100">PodgeT</span></strong>
 - <u>Rang (ingame):</u> Supporter CityBuild
 - <u>Hauptverantwortlich:</u> CityBuild Forum
-
-###<strong><span style="color:#E4D100">Scorpittaria</span></strong>
-- <u>Rang (ingame):</u> Supporterin CityBuild
-- <u>Nebenverantwortlich:</u> CityBuild Forum, Fragen und Antworten Forum
 
 ###<strong><span style="color:#E4D100">uctdzfjkg</span></strong>
 - <u>Rang (ingame):</u> Supporterin CityBuild
@@ -405,6 +395,9 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ###<strong><span style="color:#00646F">Denge</span></strong>
 - <u>Rang (ingame):</u> Builder
 
+### <strong><span style="color:#00646F">Eddyyyyyyy</span></strong>
+- <u>:Rang (ingame):</u> Builder
+
 ###<strong><span style="color:#00646F">Eisenmaus</span></strong>
 - <u>Rang (ingame):</u> Builder
 
@@ -416,7 +409,7 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 ###<strong><span style="color:#00646F">GameZter</span></strong>
 - <u>Rang (ingame):</u> Builder
-- <u>Hauptverantwortlich:</u> Games-Maps
+- <u>Hauptverantwortlich:</u> Endprüfung der Games-Maps
 
 ### <strong><span style="color:#00646F">Haxxsmart</span></strong>
 - <u>Rang (ingame):</u> Builder
@@ -426,16 +419,13 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 ### <strong><span style="color:#00646F">Jukplays</span></strong>
 - <u>Rang (ingame):</u> Builder
-- <u>Nebenverantwortlich:</u> Social-Media
+- <u>Hauptverantwortlich:</u> Social-Media
 
 ### <strong><span style="color:#00646F">kirschen</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ###<strong><span style="color:#00646F">LaShadow</span></strong>
 - <u>Rang (ingame):</u> Builderin
-
-### <strong><span style="color:#00646F">magic_knoba</span></strong>
-- <u>:Rang (ingame):</u> Builder
 
 ###<strong><span style="color:#00646F">Manta</span></strong>
 - <u>Rang (ingame):</u> Builder
@@ -446,21 +436,18 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ###<strong><span style="color:#00646F">NikiPlays</span></strong>
 - <u>Rang (ingame):</u> Builder
 
-###<strong><span style="color:#00646F">ProExecution</span></strong>
+### <strong><span style="color:#00646F">Skerai</span></strong>
 - <u>Rang (ingame):</u> Builder
 
-### <strong><span style="color:#00646F">Skerai</span></strong>
+### <strong><span style="color:#00646F">TetzelHD</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ###<strong><span style="color:#00646F">Todbringender</span></strong>
 - <u>Rang (ingame):</u> Builder
 
-###<strong><span style="color:#00646F">ToxicBlom</span></strong>
-- <u>Rang (ingame):</u> Builder
-
 ###<strong><span style="color:#00646F">Vectrail</span></strong>
 - <u>Rang (ingame):</u> Builder
-- <u>Hauptverantworlich:</u> Bauevent, Bautresor, Games-Maps, Management des Bauteams
+- <u>Hauptverantworlich:</u> Bauevent, Bautresor, City-Maps, Games-Maps, Management des Bauteams
 
 ###<strong><span style="color:#00646F">Vemdex</span></strong>
 - <u>Rang (ingame):</u> Builder
@@ -472,9 +459,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span style="color:#00646F">XoroMC</span></strong>
-- <u>Rang (ingame):</u> Builder
-
-### <strong><span style="color:#00646F">Zurrex</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ## Creator
