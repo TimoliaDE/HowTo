@@ -21,8 +21,10 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/register <EMail>` | Registriert dich für die Webseite |
 | `/togglerank`, `/tr` | Werde in BrainBow, 4rena, Splun, DNA, InTime u. TSpiele als normaler Spieler angezeigt |
 | `/lang <Sprache>` | Ändere deine Sprache |
-<span style="color:#4C0B5F">YouTuber</span> und <span style="color:#F99500">Pro+</span>) only:
+<span style="color:#4C0B5F">YouTuber</span> und <span style="color:#F99500">Pro+</span> only:
 | `/forcemap` | Erzwinge bei einem Spiel mit Voting-System eine bestimmte Map |
+| `/stargame [Sekunde]` | Starte ein Spiel |
+| `/abortgame` | Brich den Start eines Spiels ab |
 
 ### Reportsystem
 
@@ -31,6 +33,8 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/report <Spieler> <Beweislink>` | Erstellt einen Report mit Beweis |
 | `/livereport <Spieler> <Grund>` | Erstellt einen Livereport |
 | `/chatreport <Spieler> [Grund]` | Erstellt einen Chatreprt |
+| `/kitreport <Spieler> [Kit]` | Erstellt einen Report über ein Kit |
+| `/teamingreport <Spieler 1> <Spieler 2> [Spieler 3] ...` | Erstellt einen Report über Spieler, die unerlaubt teamen. |
 | `/reports [-c] [-a]` | Öffnet eine Übersicht über deine Reports |
 | `/reportstats` | Zeigt dir deine Reportwahrscheinlichkeit an |
 | `/closereport <Spieler/ID>` | Schließe deinen eigenen Report |

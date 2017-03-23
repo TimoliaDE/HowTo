@@ -4,6 +4,14 @@
 Um die Sicherheit deines Accounts zu schützen, bieten wir eine Zwei-Faktor-Authentifizierung (2fA) an. Hierbei wird der Account durch einen zusätzlichen Code, der per Handy-App generiert wird, geschützt.
 Dieser Code ändert sich alle 30 Sekunden.
 
+# 2 - Registrierung
+Für das Forum kannst du dich in wenigen Schritten ingame registrieren.
+
+- Per `/register <E-Mail>` kannst du deine E-Mail Adresse mit deinem Account verbinden
+- In deinem Postfach befindet sich innerhalb von ein paar Minuten eine E-Mail von Timolia, diese kann ab und an auch im Spam-Ordner landen
+- Über den Link in der E-Mail kannst du ein Passwort für deinen Account setzen, danach kannst du die Webseite und das Forum benutzen
+- Solltest du gebannt sein, kannst du dich auf den Minecraft-Server `register.timolia.de` verbinden und dort die Registrierung durchführen
+
 ### 2fA einrichten
 
 - Logge dich auf unserer Homepage ein
@@ -15,14 +23,6 @@ Dieser Code ändert sich alle 30 Sekunden.
 - Der generierte Code ändert sich alle 30 Sekunden, um die 2fA endgültig zu aktivieren musst du den Code auf unserer Homepage eingeben
 
 Sollten Fragen auftreten, steht das Timolia-Team zur Verfügung.
-
-# 2 - Registrierung
-Für das Forum kannst du dich in wenigen Schritten ingame registrieren.
-
-- Per `/register <E-Mail>` kannst du deine E-Mail Adresse mit deinem Account verbinden
-- In deinem Postfach befindet sich innerhalb von ein paar Minuten eine E-Mail von Timolia, diese kann ab und an auch im Spam-Ordner landen
-- Über den Link in der E-Mail kannst du ein Passwort für deinen Account setzen, danach kannst du die Webseite und das Forum benutzen
-- Solltest du gebannt sein, kannst du dich auf den Minecraft-Server `register.timolia.de` verbinden und dort die Registrierung durchführen
 
 # 3 - Forum
 Die Foren-Regeln siehst du <a href="https://howto.timolia.de/rules/forum/" target="_blank">hier</a>.

@@ -16,3 +16,7 @@ Equipment dir zur Verfügung steht, bedenke aber: Die Items können nur einmalig
 ## Premium-Features
 - <span style="color:#F99500">Pros</span> besitzen zwei, <span style="color:#00F9EC">Experts</span> drei Stimmen im Voting-System.
 - Werde mit `/togglerank` als normaler Spieler angezeigt
+
+## Arenen und Maps
+Selbstgebaute Maps für diesen Modus können <a href="https://forum.timolia.de/forums/map-einsendungen.61/" target="_blank">im Forum eingesendet werden</a>. Mehr dazu erfährst du 
+<a href="https://forum.timolia.de/threads/wie-sende-ich-eine-map-ein.3/" target="_blank">in unserer Anleitung</a>.

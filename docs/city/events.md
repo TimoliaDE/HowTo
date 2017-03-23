@@ -91,7 +91,7 @@ Man muss eine gewisse Route schnellstmöglich ablaufen. Die angegebenen Checkpoi
 die man meistern muss, eventuell mit einem Pferd oder einem Boot. Der Schnellste gewinnt.
 
 ### Regeln und Informationen
-- Das benutzen von Tränken ist untersagt
+- Das Benutzen von Tränken ist untersagt
 
 ## 10 - Mobkiller
 

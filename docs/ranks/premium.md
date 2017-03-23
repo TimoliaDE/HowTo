@@ -6,6 +6,7 @@ Die Ränge sind in unserem Shop erhältlich, diesen kannst du unter [https://www
 Diese Features stehen dir mit deinem Rang zur Verfügung:
 
 - Zugang zur <strong>Premium Lobby</strong>
+- farbiger Name (<span style="color:#F99500">Pro</span> und <span style="color:#00F9EC">Expert</span>)
 - Betreten von vollen Lobbies 
 - <strong>Mehr Partyteilnehmer</strong> und öffentliche Parties
 - <strong>Doppelte Pixel</strong> bei <span style="color:#F99500">Pro</span>, <strong>dreifache Pixel</strong> bei <span style="color:#00F9EC">Expert</span>
@@ -19,13 +20,28 @@ Diese Features stehen dir mit deinem Rang zur Verfügung:
 - Teste Spiele als Beta-Tester
 - Rang im TeamSpeak-Server
 
-###Die Zahlungsmöglichkeiten:
+Vorteile auf unseren CityBuild Servern:
+
+- auf den vollen CityBuild joinen
+- farbiger Name (<span style="color:#F99500">Pro</span> und <span style="color:#00F9EC">Expert</span>)
+- mehrere Homes
+- Benutzung von `/ptime [day|night|reset]` und `/pweather [sun|storm|reset]`
+- erhalte ein 50x50 Grundstück in Upperhills für 2.500 Timolions statt 250.000 Timolions
+- Mobile Werkbank (`/craft`) und Enderchest (`/enderchest`)
+- setze so gut wie jedes Item auf deinen Kopf (`/hat`)
+- Rezepte für Items (`/recipe [Name|ID]`)
+
+###Die Zahlungsmöglichkeiten
 Timolia kannst du entweder per BuyCraft (PayPal, PaysafeCard, Überweisung) oder Nitrado (PaysafeCard, Sofort-Überweisung, uvm.) mit einer Spende
 unterstützen. Zahlungen per Buycraft werden direkt auf dem Server umgesetzt. Die Spenden per Nitrado müssen manuell bearbeitet werden und sind 
-daher ca. 1-24 Stunden nachdem du die Spende getätigt hast auf dem Server verfügbar. Im Betreff einer Nitrado-Spende müssen dein aktueller Ingame-Name und der gewünschte Rang stehen, bei mehreren Spenden 
-(z.B. bei Expert) sollten die Spenden auch numeriert sein.
+daher ca. 1-24 Stunden nachdem du die Spende getätigt hast auf dem Server verfügbar. <b>Spenden mit mehreren PaysafeCards müssen über Nitrado getätigt werden</b>.
 
 Klicke [<strong>hier</strong>, um über BuyCraft zu spenden](https://shop.timolia.de/).
+
+<b>Wichtig für Spenden über Nitrado</b>: Spenden per Nitrado müssen manuell bearbeitet werden und können deshalb bis zu 24 Stunden dauern. 
+Hierbei ist zu beachten, dass Geld, das bereits auf das Nitrado-Konto eingezahlt wurde, nicht mehr für Timolia gespendet werden kann! 
+In der Betreffzeile der Spende müssen der aktuelle Name deines Accounts und dein gewünschter Rang stehen, bei mehreren Spenden (z.B. bei Expert) 
+müssen diese ebenso nummeriert sein.
 
 ###Mein Rang ist nicht da, was kann ich tun?
 Bezahlungen können eine Weile dauern - besonders, wenn der Kauf über Nitrado abgewickelt wurde. Sollte dein Rang 24 Stunden nach der Bestellung immer noch
