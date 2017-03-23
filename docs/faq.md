@@ -6,7 +6,7 @@ Mit der Minecraft-Serveradresse `play.timolia.de` erreichst du alle Server Timol
 ### Gibt es auch einen TeamSpeak-Server?
 Mit der TeamSpeak-Serveradresse `ts.timolia.de` gelangst du auf unseren TeamSpeak-Server. Dort gibt es nicht nur Hilfechannel für schnellen Support, auch öffentliche Zonen erwarten dich.
 Auf unserem Server bieten wir zeitlich begrenzte Channel zum Mieten an, die Kosten betragen monatlich 2.500 Pixel oder 10.000 Timolions. Alle weiteren Informationen findest du 
-[in unserer TeamSpeak-Erklärung](/teamspeak).
+[in unserer TeamSpeak-Erklärung](/teamspeak/).
 
 ### Wie gelange ich zum CityBuild?
 Mit dem Befehl `/city` gelangst du von überall aus auf unsere CityBuild-Server, dort erwarten dich viele verschiedene Baugebiete. 

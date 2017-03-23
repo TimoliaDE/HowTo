@@ -31,7 +31,6 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 - <u>Hauptverantworlich:</u> Buycraft, Hardware, Management, Nitrado, Root-Server
 
 ## Moderatoren
-
 Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen Server auf unserem Netzwerk und dienen als Schnittstelle zwischen Supporter und Administratoren.
 
 ###<strong><span style="color:#CF0101">Caelis</span></strong>
