@@ -1,4 +1,4 @@
-# pieler melden und Entschuldigungen
+# Spieler melden und Entschuldigungen
 Auf Timolia werden viele Freiheiten geboten. Provokationen wie "eZ" werden nicht geahndet und der Umgang miteinander ist ungefilterter.
 Dennoch gibt es Regeln, an die sich jeder Spieler auf Timolia halten soll. Leider gibt es immer wieder Regelverstöße, welche du auf verschiedene
 Arten dem Team melden kannst:
