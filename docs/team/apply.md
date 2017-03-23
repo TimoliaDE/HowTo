@@ -6,7 +6,7 @@ Administratoren, bzw. Moderatoren werden teamintern befördert, Außenstehende k
 Supportern und Administratoren, sorgen für ein reibungsloses Spielerlebnis und leiten ebenfalls unterschiedliche Projekte.
 
 ### Developer
-Mit einer E-Mail an <a href="mailto:development@timolia.de>development@timolia.de</a> kannst du dich als Developer bewerben. 
+Mit einer E-Mail an <a href="mailto:development@timolia.de">development@timolia.de</a> kannst du dich als Developer bewerben. 
 Vorausgesetzt werden ausführliche Kenntnisse über Java und die Bukkit-API, Erfahrungen im Umgang mit Git, Teamfähigkeit und 
 Grundkenntnisse der Sprache Englisch. Dein Bewerbungsschreiben sollte eine kurze Beschreibung deiner Person, Darstellung 
 deiner Fähigkeiten und Kompetenzen und eine Angabe zur Kontaktmöglichkeit beinhalten.

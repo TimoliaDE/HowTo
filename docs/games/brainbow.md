@@ -27,3 +27,7 @@ Runde und kann den Kampf für sich entscheiden.
 - <span style="color:#F99500">Pros</span>  und <span style="color:#00F9EC">Experts</span> erhalten die doppelte, bzw. die dreifache Punkteanzahl.
 - Premium-Spieler können in der Voting-Phase Spieler aus einem vollen Team kicken.
 - Werde mit `/togglerank` als normaler Spieler angezeigt
+
+## Arenen und Maps
+Selbstgebaute Maps für diesen Modus können <a href="https://forum.timolia.de/forums/map-einsendungen.61/" target="_blank">im Forum eingesendet werden</a>. Mehr dazu erfährst du 
+<a href="https://forum.timolia.de/threads/wie-sende-ich-eine-map-ein.3/" target="_blank">in unserer Anleitung</a>.
