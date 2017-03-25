@@ -108,7 +108,7 @@ Du kannst jederzeit, wenn du dich auf dem Citybuild befindest gewisse Missionen 
 
 ### Wie verdiene ich Geld?
 Es gibt 3 Möglichkeiten Geld zu verdienen:
-- Onlinezeit: Du bekommst alle 15 Minuten genau 25 Timolions, dazu musst du die 15 Minuten aber durchgehend online sein.
+- Onlinezeit: Du bekommst alle 15 Minuten genau 50 Timolions, dazu musst du die 15 Minuten aber durchgehend online sein.
 - Items verkaufen: Du kannst deine gefarmten Sachen im  Adminshop oder in Shops von anderen Usern verkaufen. Jedoch hast du auch die Möglichkeit den Handelschat zu benutzen,
 hier kannst du mit anderen Usern handeln. Du erreichst den Handelschat  mit `/ch join handel`, zurück kommst du mit `/ch join city`. Der Handelschat ist ein globaler Chat und somit auf allen Cityserver zu lesen.
 - Durch das gewinnen von Spielen und Events kann man Geld verdienen.
