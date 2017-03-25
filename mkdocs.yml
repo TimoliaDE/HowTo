@@ -37,45 +37,7 @@ pages:
   - Veränderungen: 'team/changes.md'
   - Aufgabenbereiche: 'team/responsibilities.md'
   - Wie werde ich...?: 'team/apply.md'
+# - Changelog: 'changelog.md'
 
 theme: readthedocs
 site_author: tixia UG (haftungsbeschränkt)
-
-
-
-# pages:
-# - Über: 'index.md'
-# - Allgemein:
-#   - Frequently Asked Questions: 'faq.md'
-#   - Alle Befehle im Überblick: 'commands.md'
-#   - Spieler melden und Entschuldigungen: 'bans.md'
-#   - Webseite und Forum: 'web.md'
-#   - TeamSpeak: 'teamspeak.md'
-# - Regelwerk:
-#   - Games-Regeln: 'rules/games.md'
-#   - CityBuild-Regeln: 'rules/city.md'
-#   - Foren-Regeln: 'rules/forum.md'
-#   - TeamSpeak-Regeln: 'rules/teamspeak.md'
-# - Games:
-#   - 1vs1: 'games/1vs1.md'
-#   - 4rena: 'games/4rena.md'
-#   - Arcade: 'games/arcade.md'
-#   - BrainBow: 'games/brainbow.md'
-#   - Castles: 'games/castles.md'
-#   - DNA: 'games/dna.md'
-#   - InTime: 'games/intime.md'
-#   - JumpWorld: 'games/jumpworld.md'
-#   - Mineception: 'games/mineception.md'
-#   - Splun: 'games/splun.md'
-#   - Timolianische Spiele: 'games/tspiele.md'
-# - CityBuild:
-#   - Baugebiete: 'city/baugebiete.md'
-#   - Events: 'city/events.md'
-#   - Dienstleistungen: 'city/dienstleistungen.md'
-# - Ränge auf Timolia:
-#   - Premium-Ränge: 'ranks/premium.md'
-#   - YouTuber-Rang: 'ranks/youtube.md'
-# - Timolia-Team:
-#   - Das Timolia-Team: 'team/members.md'
-#   - Team-Wanderungen: 'team/changes.md'
-#   - Aufgabenbereiche: 'team/responsibilities.md'
