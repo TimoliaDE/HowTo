@@ -127,8 +127,8 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">BuffmonsterOne</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Hauptverantwortlich:</u> Timolia-Turnier Kits
-- <u>Nebenverantwortlich:</u> Spieler melden Forum, Entbannungsanträge
+- <u>Hauptverantwortlich:</u> Timolia-Turnier Kits, Spieler melden Forum
+- <u>Nebenverantwortlich:</u> Entbannungsanträge
 
 ###<strong><span style="color:#E4D100">Calavero</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -182,10 +182,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantworlich:</u> Spielmodi Foren
 - <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, YouTuber-Events, TeamSpeak
-
-### <strong><span style="color:#E4D100">mTAce</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Hauptverantwortlich:</u> Spieler melden Forum
 
 ### <strong><span style="color:#E4D100">Percyfan55</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
