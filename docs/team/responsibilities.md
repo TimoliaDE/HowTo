@@ -35,10 +35,9 @@ Hier werden die verschiendenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 ###<strong>Spieler melden</strong>
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#E4D100">mTAce</span> | Hauptverantwortlich |
+|<span style="color:#E4D100">BuffmonsterOne</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">BuffmonsterOne</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
 
 ###<strong>Bug melden</strong>
