@@ -7,7 +7,7 @@ Supportern und Administratoren, sorgen für ein reibungsloses Spielerlebnis und 
 
 ### Developer
 Mit einer E-Mail an <a href="mailto:development@timolia.de">development@timolia.de</a> kannst Du Dich als Developer bewerben. 
-Vorausgesetzt werden ausführliche Kenntnisse über Java und die Bukkit-API, Erfahrungen im Umgang mit Git, Teamfähigkeit und 
+Vorausgesetzt werden ausführliche Kenntnisse über Java und die Spigot-API, Erfahrungen im Umgang mit Git, Teamfähigkeit und 
 Grundkenntnisse der Sprache Englisch. Dein Bewerbungsschreiben sollte Deinen Ingamenamen, eine kurze Beschreibung Deiner Person, Darstellung 
 Deiner Fähigkeiten und Kompetenzen und eine Angabe zur Kontaktmöglichkeit beinhalten. 
 Außerdem bitten wir Dich, uns Zugriff auf von Dir programmierten Beispielcode zu geben. Optimalerweise sollte dieser auf Gitlab, Github 
