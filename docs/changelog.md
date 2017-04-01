@@ -12,7 +12,7 @@ Alle Veränderungen im Jahr 2017:
 ### 1. April 2017:
 <dl>
   <dd><b>Added</b>: Aprilscherz</dd>
-  <dd style="margin-left: 7%;">Die Chatumwandlung einiger Nachrichten wurde implementiert. Des weiteren wurde die 1vs1 Lobby mit der Gomme-Lobby ausgewechselt.</dd>
+  <dd style="margin-left: 7%;">Die Chatumwandlung einiger Nachrichten wurde implementiert. Des weiteren wurde die 1vs1 Lobby mit der Gomme-Lobby ausgewechselt. Auch die Beschreibung der Ränge in der Tabliste wurden geändert</dd>
   <dd style="margin-left: 7%;"><u>Verantwortlich</u>: FabsiFTW, Edgxxar</dd>
   <dd></dd>
 </dl>
