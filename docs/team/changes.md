@@ -13,7 +13,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 | ------ | ------ | ------ | ------ | ------ |
 |AeroSize | <span style="color:#00646F">Builder</span> |<span style="color:#F99500">Pro</span>  | Private Gründe | 25.03.17 |
 |mTAce | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span>  | Vermehrtes Fehlverhalten | 25.03.17 |
-|sirzurrex | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> |  | 15.03.17
+|sirzurrex | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | Private Gründe | 15.03.17
 |byMongo | <span style="color:#CF0101">Moderator City</span> | <span style="color:#F99500">Native</span> | Keine Zeit und Motivation | 12.02.17 |
 |Vincent11127 | <span style="color:#E4D100">Supporter City</span> | <span style="color:#F99500">Pro</span> | Keine Zeit und Motivation | 12.03.17 |
 |Loris | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | Keine Zeit und Motivation | 08.03.17 |
