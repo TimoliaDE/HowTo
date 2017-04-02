@@ -2,14 +2,22 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 
 # 2017
 
+###<strong>April</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
+| ------ | ------ | ------ | ------ | ------ |
+|kirschen | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | Inaktivität | 02.04.17 |
+
+
 ###<strong>März</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
 | ------ | ------ | ------ | ------ | ------ |
-|mTAce | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#848484">Spieler</span> | Vermehrtes Fehlverhalten | 25.03.17 |
+|AeroSize | <span style="color:#00646F">Builder</span> |<span style="color:#F99500">Pro</span>  | Private Gründe | 25.03.17 |
+|mTAce | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span>  | Vermehrtes Fehlverhalten | 25.03.17 |
+|sirzurrex | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> |  | 15.03.17
 |byMongo | <span style="color:#CF0101">Moderator City</span> | <span style="color:#F99500">Native</span> | Keine Zeit und Motivation | 12.02.17 |
 |Vincent11127 | <span style="color:#E4D100">Supporter City</span> | <span style="color:#F99500">Pro</span> | Keine Zeit und Motivation | 12.03.17 |
 |Loris | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | Keine Zeit und Motivation | 08.03.17 |
-|Evageddon | <span style="color:#E4D100">Supporterin Games</span> | <span style="color:#007812">Creator</span> | Fokussierung auf kreative Arbeiten | 02.02.17 |
+|Evageddon | <span style="color:#E4D100">Supporterin Games</span> | <span style="color:#007812">Creator</span> | Fokussierung auf kreative Arbeiten | 07.02.17 |
 |Shustin | <span style="color:#007812">Developer</span> | <span style="color:#00F9EC">Expert</span> | Keine Motivation | 05.03.17 |
 |Skerai | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 05.03.17 |
 |baumulu | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | Bauevent | 05.03.17 |
