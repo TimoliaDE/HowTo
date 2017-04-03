@@ -47,3 +47,10 @@ Alle Veränderungen im Jahr 2017:
   <dd style="margin-left: 7%;">Das HowTo Timolias wurde erweitert und umstrukturiert.</dd>
   <dd style="margin-left: 7%;"><u>Verantwortlich</u>: Thomasch</dd>
 </dl>
+
+### 22. März 2017:
+<dl>
+  <dd><b>Updated</b>: Neue YT-Quiz Skins</dd>
+  <dd style="margin-left: 7%;">In dem Spiel "YT-Quiz" in Arcade wurden einige neue YouTuber hinzugefügt, deren Skins erkannt werden müssen.</dd>
+  <dd style="margin-left: 7%;"><u>Verantwortlich</u>: Tedget, MCExpertDE</dd>
+</dl>
