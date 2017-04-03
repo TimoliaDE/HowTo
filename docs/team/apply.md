@@ -24,7 +24,7 @@ und das Probemonat bestanden hat, ist er/sie ein volles Teil unseres Supporterte
 
 ### Builder
 In angekündigten Bauevents können Bewerber ihre Baukünste unter Beweis stellen. Themen werden im Regelfall nicht vorgegeben, Kreativität 
-ist angesagt. Alle Mitglieder des Bauteams und Mitglieder des Supporter-/Moderatoren-/Administratorenteams können die eingereichten 
+ist angesagt. Alle Mitglieder des Bauteams und ausgewählte Mitglieder des Supporter-/Moderatoren-/Administratorenteams können die eingereichten 
 Bauten bewerten und entscheiden, ob diese den Qualitätskriterien unseres Netzwerkes entsprechen. Durch Map-Einsendungen kann man 
 sich im Regelfall nicht bewerben.
 
@@ -34,3 +34,7 @@ dass du uns eine kurze persönliche Beschreibung zukommen lässt, genau so wie B
 Bereich du dich bewerben willst, benötigst du folgende Kenntnisse: Grundkenntnisse in Bildgestaltung und Bildbearbeitung, wenn du im 
 bildnerischen, bzw. gestalterischen Bereich tätig sein willst; Kreativität; Sprachliche Fähigkeiten; Kenntnis über Design und 
 kreativen Aufbau Timolias.
+
+### Expert
+Expert ist der permanente Premium-Rang Timolias. Für diesen kann man sich nicht bewerben, als Dankeschön erhält jeder Spieler den Rang, 
+wenn dieser einen Betrag von 99,95 Euro an Timolia spendet. [Mehr dazu hier](/premium/)

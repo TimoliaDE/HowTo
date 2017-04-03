@@ -28,10 +28,13 @@ nur als Beweise bei MSG-Nachrichten, alle anderen Regelverstöße müssen mit ei
 
 ### Entschuldigungen
 Ab einer Bannzeit von zehn Tagen kannst du mit einer Entschuldigung deine Bannzeit um bis zu 1/3 verkürzen, bei einem permanenten Bann wird deine 
-Bannzeit auf 30 Tage hinabgesetzt. Eine Entschuldigung kannst du im Forum im Themenbereich "Gebannt" schreiben. Solltest du keinen Account für unser
-Forum haben, kannst du im Hilfechannel deinen Text einem Teammitglied senden, welches deine Entschuldigung stellvertretend für dich im Forum postet.
-Wenn ein Bann acht Monate alt ist, beginnt er zu verjähren. Jedes Monat wird ein Bann um zwei Tage verkürzt. Ab einer Banndauer von 45 Tagen oder weniger, kann eine
-Entschuldigung geschrieben werden. <a href="https://forum.timolia.de/forums/entschuldigungen.49/create-thread" target="_blank"><b>Hier</b> kannst du dich entschuldigen</a>, 
+Bannzeit auf 30 Tage hinabgesetzt. Eine Entschuldigung kannst du im Forum "Enschuldigungen", bzw "Zu Unrecht gebannt" schreiben. 
+Solltest du keinen Account für unser Forum haben, kannst du dich auf dem Minecraft-Server `register.timolia.de` für dieses registrieren.
+
+### Bannverjährung
+Ab einer Bannzeit von 46 oder mehr Banntagen musst du warten, bis Teile deines Banns zu verjähren beginnen, um eine Entschuldigung zu schreiben. 
+Nach acht Monaten beginnt ein Bann um zwei Monate pro Tag verkürzt. So hat du beispielsweise bei einer anfänglichen Banndauer von 50 Tagen nach 
+neun Monaten nur noch 48 Tage, usw. <a href="https://forum.timolia.de/forums/entschuldigungen.49/create-thread" target="_blank"><b>Hier</b> kannst du dich entschuldigen</a>, 
 <a href="https://forum.timolia.de/forums/zu-unrecht-gebannt.122/" target="_blank"><b>hier</b> meldest du dich, wenn du zu unrecht gebannt wurdest</a>.
 
 Erklärungen, [wie du einen Entbannungsantrag](https://forum.timolia.de/threads/zu-unrecht-gebannt.5124/), beziehungsweise wie du
