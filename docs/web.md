@@ -36,7 +36,7 @@ aus der Masse herausgefiltert. Bitte beachte die Themenbereiche, falsch "eingeor
 
 ### Konversationen führen
 In der oberen rechten Ecke des Forums befinden sich zwei Symbole, eine Sprechblase und eine Glocke. Über die Glocke werden Benachrichtigungen angezeigt, private Konversationen kannst du
-mithilfe der Spechblase führen.
+mithilfe der Sprechblase führen.
 
 Weitere Informationen findest du in <a href="https://forum.timolia.de/threads/die-neue-website.38/" target="_blank">diesem</a> Beitrag.
 
