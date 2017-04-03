@@ -9,7 +9,7 @@ Jump and Run des Tages gekürt, dies ist der bestbewertetste Parcour des vorheri
 - Solltest du ein bestimmtes Jump and Run spielen wollen nutze den Befehl `/enter <ID>`.
 - Mit `/duel invite <Spieler>` oder mit einem Linksklick mit dem Schwert forderst du einen Spieler zu einem Duell heraus.
 - Das Jump and Run des Tages erreichst du über das Portal in der JumpWorld-Lobby.
-- Das Ziel jedes Parcours ist eine goldene Druckpltte, eiserne Druckplatten sind Checkpoints.
+- Das Ziel jedes Parcours ist eine goldene Druckplatte, eiserne Druckplatten sind Checkpoints.
 - Wenn du ein Jump and Run betrittst befinden sich mehrere Items in deinem Inventar. Mit dem roten Farbstoff wirst du zum letzten Checkpoint zurück teleportiert.
 - Mit dem zweiten Item in deinem Inventar kannst du die Sichtbarkeit der Spieler einstellen.
 - Am Ende eines Jump and Runs kannst du den Parcour in insgesamt drei Kategorien bewerten.

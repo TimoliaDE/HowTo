@@ -2,7 +2,7 @@
 Hier findest du einen Überblick über alle Events die auf dem Citybuildserver stattfinden. Welches Event wann stattfindet wird direkt auf dem Server über einen Broadcast
 oder im Forum unter Citybuild - Events bzw Twitter @TimoliaCB angekündigt.
 Wir treten gegeneinander an um der Beste zu sein, oder beweisen wiederum welche Community wir sind und zeigen stets Zusammenhalt.
-Bevor ein Event stattfindet, werden die Regeln nocheinmal genau erklärt.
+Bevor ein Event stattfindet, werden die Regeln noch einmal genau erklärt.
 Bei weiteren Fragen steht das Team gerne zur Verfügung.
 
 ## 1 - Abbauevent
@@ -42,7 +42,7 @@ Ziel ist es, die Spitze eines Turmes zu erreichen und möglichst lange zu halten
 
 ## 5 - Smashing Anvil
 
-Eine gewisse Menge von Ambossen droppen vom Himmel, wird man von einem zerquetscht hat man die Runde verloren. Derjenige, der als letztes Überlebt hat gewonnnen.
+Eine gewisse Menge von Ambossen droppen vom Himmel, wird man von einem zerquetscht hat man die Runde verloren. Derjenige, der als letztes Überlebt hat gewonnen.
 
 ### Regeln und Informationen
 - Skills beim Ausweichen
@@ -72,7 +72,7 @@ wo man vorher weiß, welche Items ersteigert werden können, oder aber eine "ver
 
 ## 8 - Werwolf
 
-Werwolf ist ein Community Spiel, was von dem Gesellschaftsspiel Die Werwölfe vom Düsterwald angelehnt wurde. Im Standardspiel gibt es zwei konkurierende Gruppen: die Bürger und die Werwölfe.
+Werwolf ist ein Community Spiel, was von dem Gesellschaftsspiel Die Werwölfe vom Düsterwald angelehnt wurde. Im Standardspiel gibt es zwei konkurrierende Gruppen: die Bürger und die Werwölfe.
 Das Ziel der Bürger ist, die Werwölfe zu töten und jenes der Werwölfe, die Bürger auszulöschen. Es gibt es in erweiternden Ausführungen noch andere Gruppen (Vampire, Kultisten), die gegen alle anderen gewinnen müssen.
 Das Spiel wird zu Beginn genauer im Teamspeak erklärt.
 
@@ -134,8 +134,8 @@ Suche in einem Labyrinth den Ausgang. Du kannst dabei Kisten mit tollen Items fi
 
 ## 15 - Slenderwald
 
-Du bist in einem Wald mit Effekten wie Langsamkeit oder Blindheit gefangen. Das Ziel ist es Schilder zu suchen, mit welchen du einen Zettel erhälst und diesen am Spawn abzugeben.
-Du musst aber aufpassen das du nicht von den bösen Kreaturen im Wald getötet wirst.
+Du bist in einem Wald mit Effekten wie Langsamkeit oder Blindheit gefangen. Das Ziel ist es Schilder zu suchen, mit welchen du einen Zettel erhältst und diesen am Spawn abzugeben.
+Du musst aber aufpassen, dass du nicht von den bösen Kreaturen im Wald getötet wirst.
 Wenn du alle Schilder gefunden hast gewinnst du die Runde.
 
 ### Regeln und Informationen

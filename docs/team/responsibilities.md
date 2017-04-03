@@ -1,4 +1,4 @@
-Hier werden die verschiendenen Aufgabenbereiche der Timolia Teamler aufgelistet.
+Hier werden die verschiedenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 
 # Forum
 

@@ -11,7 +11,7 @@ Wenn deine eigene Zeit abgelaufen ist stirbst du, deshalb ist es wichtig mit der
 - Wenn deine Zeit abgelaufen ist stirbst du, doch natürlich ist es auch möglich Zeit hinzuzubekommen.
 - Schlägst du einen Gegner mit der Uhr ziehst du ihm kostbare Lebenszeit ab und transferierst diese auf dich selbst.
 - Nach einiger Zeit erhält man in der Mitte der Map Lebenszeit, sofern man sich dort alleine aufhält.
-- Stirbt ein Spieler wird die Restzeit, die der Spieler noch besaß, gleichmäßíg auf alle verbleibenden Kämpfer verteilt.
+- Stirbt ein Spieler wird die Restzeit, die der Spieler noch besaß, gleichmäßig auf alle verbleibenden Kämpfer verteilt.
 
 ## Spezielle Items
 - <strong>Zeitspeicher</strong>: Wenn man einen Zeitspeicher rechtsklickt bekommt man zwischen 90 und 190 Prozent des Kaufpreises an Zeit wieder zurück.
