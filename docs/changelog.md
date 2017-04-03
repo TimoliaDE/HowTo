@@ -51,6 +51,6 @@ Alle Veränderungen im Jahr 2017:
 ### 22. März 2017:
 <dl>
   <dd><b>Updated</b>: Neue YT-Quiz Skins</dd>
-  <dd style="margin-left: 7%;">In dem Spiel "YT-Quiz" in Arcade wurden einige neue YouTuber hinzugefügt, deren Skins erkannt werden müssen.</dd>
+  <dd style="margin-left: 7%;">Die Liste der YouTuber für das Spiel "YT-Quiz" in Arcade wurde um einige neue Skins erweitert.</dd>
   <dd style="margin-left: 7%;"><u>Verantwortlich</u>: Tedget, MCExpertDE</dd>
 </dl>
