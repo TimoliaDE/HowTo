@@ -9,6 +9,14 @@
 Alle Veränderungen im Jahr 2017:
 
 ## April
+### 4. April 2017
+<dl>
+  <dd><b>Added</b>: /pro und /expert</dd>
+  <dd style="margin-left: 7%;">Premium-Spieler können nun mit dem Befehl <code>/pro</code>, bzw. <code>/expert</code> nachsehen, wie lange sie ihren Premium-Rang noch besitzen.</dd>
+  <dd style="margin-left: 7%;"><u>Verantwortlich</u>: KenaiHD</dd>
+  <dd></dd>
+</dl>
+
 ### 1. April 2017:
 <dl>
   <dd><b>Added</b>: Aprilscherz</dd>
