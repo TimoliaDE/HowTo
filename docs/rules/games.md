@@ -1,6 +1,6 @@
 ## §1 - Allgemein
 Im Folgenden sind die Regeln für das Minecraft Servernetzwerk Timolia.de aufgelistet. Durch die Benutzung eines von Timolia bereitgestellten Dienstes akzeptiert jeder Nutzer sämtliche
-Punkte der Regeln und hat diesen Folge zu leisten. Missachtung kann zu Sanktionen führen, bishin zum Ausschluss vom Timolia Netzwerk und allen zugehörigen Seiten und Diensten.
+Punkte der Regeln und hat diesen Folge zu leisten. Missachtung kann zu Sanktionen führen, bis hin zum Ausschluss vom Timolia Netzwerk und allen zugehörigen Seiten und Diensten.
 
 Außerdem kann es jederzeit zu einer Änderung der Regeln kommen. Dazu wird das Datum der letzten Veränderung immer unter dem letzten Punkt des Regelwerkes angezeigt.
 
@@ -80,7 +80,7 @@ ist ebenfalls verboten und wird entsprechend sanktioniert.
 - <u>Entbannung</u>: Ist ein Spieler der Meinung, ein Bann sei nicht gerechtfertigt, so kann er jederzeit im Forum unter der Kategorie “Gebannt” oder im TeamSpeak den Beweis fordern. Wenn man permanent gebannt ist,
  kann man im Forum einen Antrag auf eine Entbannung stellen. Hierbei sollte man sich besonders viel Mühe geben, da es sehr schwer ist nach einem permanenten Bann wieder entbannt zu werden. 
  Wurde man allerdings zwei mal aufgrund von Hacks gebannt, so besteht für einen Spieler keinerlei Chance mehr entbannt zu werden.
-- <u>Bannverkürzung</u>:Ab einem Zeitraum von mindestens 10 Tagen hat jeder User das Recht einen Antrag auf Bannverkürzung im Forum stellen. Solltest du keinen Account im Forum haben,
+- <u>Bannverkürzung</u>: Ab einem Zeitraum von mindestens 10 Tagen hat jeder User das Recht einen Antrag auf Bannverkürzung im Forum stellen. Solltest du keinen Account im Forum haben,
  so kannst du deine Entschuldigung einem Teammitglied im TeamSpeak schicken, welches diese dann ins Forum stellt.
 - <u>Bannumgehung</u>: Das Umgehen von Banns mit einem Zweitaccount ist auf Timolia verboten. Als “gebannt” wird sowohl der Account, als auch die Person, welche den Account nutzt, und die zu diesem Zeitpunkt verwendete Adresse angesehen.
 

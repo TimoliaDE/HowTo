@@ -33,7 +33,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | ------ | -------- |
 | `/report <Spieler> <Beweislink>` | Erstellt einen Report mit Beweis |
 | `/livereport <Spieler> <Grund>` | Erstellt einen Livereport |
-| `/chatreport <Spieler> [Grund]` | Erstellt einen Chatreprt |
+| `/chatreport <Spieler> [Grund]` | Erstellt einen Chatreport |
 | `/kitreport <Spieler> [Kit]` | Erstellt einen Report über ein Kit |
 | `/teamingreport <Spieler 1> <Spieler 2> [Spieler 3] ...` | Erstellt einen Report über Spieler, die unerlaubt teamen. |
 | `/reports [-c] [-a]` | Öffnet eine Übersicht über deine Reports |
@@ -137,7 +137,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | Befehl | Funktion |
 | ------ | -------- |
 | `/sb` | Öffnet das Menü des Scoreboards |
-| `/rezepte` | Zeigt dir zu jedem Item das Craftinrezept an |
+| `/rezepte` | Zeigt dir zu jedem Item das Craftingrezept an |
 | `/achievements` | Listet eine Übersicht aller Achievements auf |
 | `/mission` | Zeigt eine Übersicht über die aktive/alle Missionen |
 | `/timazon`oder`/tbay` | Öffnet ein Menü zum Items bestellen |
@@ -149,7 +149,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/mails` | Öffnet das Menü deiner Mails |
 | `/mail <read/send/clear>` | Mails lesen/senden/löschen |
 | `$<Nachricht>` | Schreibe im Handelschat |
-| `/ch join handel` | Wählt den Handelschat als Standartchannel aus |
+| `/ch join handel` | Wählt den Handelschat als Standardchannel aus |
 | `/ch join global` | Wechselt in den default Citychannel |
 <span style="color:#F99500">Pro</span> und <span style="color:#00F9EC">Expert</span> only:
 | `/ptime <day/night>` | Zeit für sich selbst umstellen |

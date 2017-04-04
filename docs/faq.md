@@ -15,7 +15,7 @@ Weitere Informationen [findest du hier](/city/baugebiete/).
 
 ### Welche Ränge gibt es?
 - <b><span style="color:#0101DF">Administratoren</span></b>:
-Sie kümmern sich um die Technik von Timolia. Angefangen bei den Plugins über CraftBukkit bishin zu den Root-Server und dem Bungeecord-Netzwerk.
+Sie kümmern sich um die Technik von Timolia. Angefangen bei den Plugins über CraftBukkit bis hin zu den Root-Server und dem Bungeecord-Netzwerk.
 Des weiteren sind sie für die Website und den TeamSpeak-Server zuständig.
 
 - <b><span style="color:#CF0101">Moderatoren</span></b>:
@@ -42,7 +42,7 @@ YouTuber sind Personen der Minecraft-Szene, die durch YouTube (in Einzelfällen 
 Spieler mit diesem Rang besitzen den permanenten Premium-Rang Timolias. Welche Vorteile dir dieser Rang bietet, [erfährst du hier](/ranks/premium/).
 
 - <b><span style="color:#F99500">Pro</span></b>:
-Spieler mit diesem Rang besitzen den zeitbegrenzten Premium-Rang Timolias. Dieser ist für eine DAuer von einem, drei und zwölf Monaten als Gegenleistung für Spenden erhältlich. 
+Spieler mit diesem Rang besitzen den zeitbegrenzten Premium-Rang Timolias. Dieser ist für eine Dauer von einem, drei und zwölf Monaten als Gegenleistung für Spenden erhältlich. 
 Welche Vorteile dir dieser Rang bietet, [erfährst du hier](/ranks/premium/).
 
 <b>Alles rund um Bewerbungen [ist hier zu finden](/team/apply/).</b> Solltest du Probleme mit deinem  Premium-Rang haben, findest du [hier Hilfe](/ranks/premium/).
@@ -93,7 +93,7 @@ Der CityBuild ist ein Community-Basierter Survival-Bauserver. Es gibt viele vers
 
 ### Was kann ich hier machen?
 Auf dem CityBuild-Server kannst du dir Grundstücke kaufen und diese dem Baugebiet entsprechend bebauen. Hier und da finden kleine Events in Form von (zum Beispiel) Minigames statt.
-Auch eine PvP Arena ist natürlich vorhanden. Desweiteren kannst du viele weitere Dinge mit anderen Usern entdecken.
+Auch eine PvP Arena ist natürlich vorhanden. Des Weiteren kannst du viele weitere Dinge mit anderen Usern entdecken.
 
 ### Wo finde ich das Tutorial?
 Wenn du das erste Mal auf den Citybuild joinst, landest du direkt bei deiner ersten Mission. Hier wird dir Stück für Stück alles erklärt und der Einstieg auf den Citybuild erleichtert.
@@ -108,11 +108,11 @@ Du kannst jederzeit, wenn du dich auf dem Citybuild befindest gewisse Missionen 
 
 ### Wie verdiene ich Geld?
 Es gibt 3 Möglichkeiten Geld zu verdienen:
-- Onlinezeit: Du bekommst alle 15 Minuten genau 25 Timolions, dazu musst du die 15 Minuten aber durchgehend online sein.
+- Onlinezeit: Du bekommst alle 15 Minuten genau 50 Timolions, dazu musst du die 15 Minuten aber durchgehend online sein.
 - Items verkaufen: Du kannst deine gefarmten Sachen im  Adminshop oder in Shops von anderen Usern verkaufen. Jedoch hast du auch die Möglichkeit den Handelschat zu benutzen,
 hier kannst du mit anderen Usern handeln. Du erreichst den Handelschat  mit `/ch join handel`, zurück kommst du mit `/ch join city`. Der Handelschat ist ein globaler Chat und somit auf allen Cityserver zu lesen.
 - Durch das gewinnen von Spielen und Events kann man Geld verdienen.
-- Jobs: Eine weitere Möglickeit, an Geld zu kommen, sind Jobs. Du kannst im öffentlichen Chat nach Jobs mit Bezahlung von anderen Usern fragen.
+- Jobs: Eine weitere Möglichkeit, an Geld zu kommen, sind Jobs. Du kannst im öffentlichen Chat nach Jobs mit Bezahlung von anderen Usern fragen.
 Wieviel Geld du momentan besitzt siehst du mit `/money` bzw. im Infoboard rechts an der Seite oder im Tab.
 
 ### Was sind Achievements?

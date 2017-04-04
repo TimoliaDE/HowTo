@@ -27,8 +27,7 @@ Bewahre diesen Chip in deinem Inventar auf, um keinen Fallschaden zu bekommen - 
 - mit Ausnahme des verbrauchten “Inventar behalten” Chips. Pro Chip kann man übrigens nur einmal nach oben teleportiert, anschließend verschwindet der Chip.
 - <strong>Gefängnisausbruch Chip</strong>: Solltest du dich nicht auf deine Teammates verlassen wollen oder alleine spielen, sorgt dieser Chip dafür, dass du dein Gefängnis selbstständig wieder verlassen kannst. 
 Wie viel du für diesen Chip bezahlen musst, hängt von der Zahl deiner Mitspieler ab - in jedem Fall solltest du jedoch mit Diamanten rechnen!
-- <strong>Blitzstab</strong>: Der Blitzstab erzeugt einen schmalen Blitz aus Glasscheiben bis zur nächsten anvisierten Insel. Sei vorsichtig, er ist schmal, lückenhaft und genau 
-so schnell wieder verschwunden, wie er erschienen ist!
+- <strong>Blitzstab</strong>: Der Blitzstab erzeugt einen schmalen Blitz aus Glasscheiben bis zur nächsten anvisierten Insel. Sei vorsichtig, er ist schmal, lückenhaft und genauso schnell wieder verschwunden, wie er erschienen ist!
 
 ## Premium-Features
 - <span style="color:#F99500">Pros</span> besitzen zwei, <span style="color:#00F9EC">Experts</span> drei Stimmen im Voting-System.
