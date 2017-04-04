@@ -59,6 +59,7 @@ Hier werden die verschiedenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 |<span style="color:#E4D100">CubeFabi</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">BuffmonsterOne</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
+|<span style="color:#E4D100'>Metrixx7</span> | Nebenverantwortlich |
 
 ###<strong>Spielmodi</strong>
 | Teamler | Verantwortungsgrad |
@@ -134,10 +135,16 @@ Hier werden die verschiedenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 |<span style="color:#E4D100">Tedget</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">MCelements0815</span> | Nebenverantwortlich |
 
+###<strong>Broadcasts</strong>
+| Teamler | Verantwortungsgrad |
+| ------ | ------ |
+|<span style="color:#E4D100">\_TakeItEaZy\_</span> | Hauptverantwortlich |
+
 ###<strong>Team-Leiter</strong>
 | Teamler | Zuständigkeit |
 | ------ | ------ |
 |<span style="color:#CF0101">Caelis</span> | Management des Development-Teams |
-|<span style="color:#CF0101">Milam</span> | Management des Creator-Teams |
-|<span style="color:#CF0101">Thomasch</span> | Management des Creator-Teams |
+|<span style="color:#CF0101">Thomasch</span> | Management des Creator-Teams und des YouTube-Teams |
+|<span style="color:#CF0101">Milam</span> | Management des Creator-Teams und des YouTube-Teams |
+|<span style="color:#CF0101">KenaiHD</span> | Management des YouTube-Teams |
 |<span style="color:#00646F">Vectrail</span> | Management des Bau-Teams |
