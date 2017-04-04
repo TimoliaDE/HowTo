@@ -1,4 +1,7 @@
 site_name: Timolia Anleitung
+site_author: thomasgneist, Tedget
+site_description: Alle wichtigen und auch unwichtigen Informationen über Timolia sind hier zu finden.
+copyright: tixia UG (haftungsbeschränkt)
 
 pages:
 - Über: 'index.md'
@@ -40,4 +43,3 @@ pages:
 # - Changelog: 'changelog.md'
 
 theme: readthedocs
-site_author: tixia UG (haftungsbeschränkt)

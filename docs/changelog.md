@@ -17,6 +17,19 @@ Alle Veränderungen im Jahr 2017:
   <dd></dd>
 </dl>
 
+### 3. April 2017:
+<dl>
+  <dd><b>Fixed</b>: Pixelshop Inventar-Anzeige und Trending Items</dd>
+  <dd style="margin-left: 7%;">Die Trending-Seite enthält nun keine kostenlosen Items mehr. Außerdem stimmt die Farbanzeige im Inventar nun mit den tatsächlichen Farben überein.</dd>
+  <dd style="margin-left: 7%;"><u>Verantwortlich</u>: Moehritz</dd>
+  <dd></dd>
+  <dd><b>Added</b>: /sync, Shiftklick und Starterpakete</dd>
+   <dd style="margin-left: 7%;">Der Befehl /sync synchronisiert nun die Farben einer farbwechselnden Lederrüstung. Ein Shift-Klick in "Meine Items" setzt die Farbrotation zurück. 
+   Des weiteren wurden Kuh, Katze und Hund als billige Starterpakete hinzugefügt.</dd>
+   <dd style="margin-left: 7%;"><u>Verantwortlich</u>: Moehritz</dd>
+   ydd></dd>
+</dl
+
 ### 1. April 2017:
 <dl>
   <dd><b>Added</b>: Aprilscherz</dd>
