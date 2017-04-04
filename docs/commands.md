@@ -11,6 +11,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/city` | Teleportiert dich zu den CityBuild-Servern |
 | `/msg <Spieler>` | Schreibe mit einem Spieler im Privatchat |
 | `/lookup <Spieler>`, `/lu` | Zeigt dir LogIn-Informationen über einen Spieler |
+| `/pro`, `/expert` | Zeigt die restliche Premium-Zeit an |
 | `/top` | Zeigt dir die Top 10 Spieler in einem Spielmodus an |
 | `/vote <Zahl>` | Votet für eine Map in einem Spielmodus |
 | `/stats <Spieler>` | Zeigt dir die Stats eines Spielers an |

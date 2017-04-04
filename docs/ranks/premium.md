@@ -19,6 +19,7 @@ Diese Features stehen dir mit deinem Rang zur Verfügung:
 - zwei bzw. drei <strong>Stimmen beim Map-Voting-System</strong>
 - Teste Spiele als Beta-Tester
 - Rang im TeamSpeak-Server
+- `/pro` und `/expert` zeigt die Premium-Restzeit an
 
 Vorteile auf unseren CityBuild Servern:
 
