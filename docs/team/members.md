@@ -257,7 +257,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">xMaudodo</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge
+- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge, Feedback Forum
 
 
 # 2 - CityBuild-Team

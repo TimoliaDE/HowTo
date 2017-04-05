@@ -31,6 +31,7 @@ Hier werden die verschiedenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 |<span style="color:#E4D100">Juliaan</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">xMaudodo</span> | Nebenverantwortlich |
 
 ###<strong>Map-Einsendungen</strong>
 | Teamler | Verantwortungsgrad |
