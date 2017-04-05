@@ -51,12 +51,12 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ###<strong><span style="color:#CF0101">ItsSarahh</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
 - <u>Hauptverantwortlich:</u> Entbannungsanträge, Supporterauswahl
-- <u>Nebenverantwortlich:</u> Social-Media, Teamspeak
+- <u>Nebenverantwortlich:</u> Feedback Forum, Social-Media, Teamspeak
 
 ###<strong><span style="color:#CF0101">KenaiHD</span></strong>
 - <u>Rang (ingame):</u> Moderator Games, CityBuild
-- <u>Hauptverantwortlich:</u> Entbannungsanträge, Feedback Forum, TeamSpeak
-- <u>Nebenverantwortlich:</u> Timolia-Plugins
+- <u>Hauptverantwortlich:</u> Entbannungsanträge, Feedback Forum, YouTube und Twitch
+- <u>Nebenverantwortlich:</u> TeamSpeak, Timolia-Plugins
 
 ###<strong><span style="color:#CF0101">L0L0</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
@@ -73,7 +73,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">Thomasch</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Hauptverantwortlich:</u> Forum, Internes Wiki, Timolia Anleitung, YouTube und Twitch
+- <u>Hauptverantwortlich:</u> Gesamtes Forum, Internes Wiki, Timolia Anleitung, YouTube und Twitch
 - <u>Nebenverantwortlich:</u> TeamSpeak, Social-Media
 
 ## Developer
@@ -162,7 +162,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Juliaan</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Hauptverantwortlich:</u> Off-Topic Forum, Vorstellungen Forum
+- <u>Hauptverantwortlich:</u> Feedback Forum, Off-Topic Forum, Vorstellungen Forum
 - <u>Nebenverantwortlich:</u> Entbannungsanträge, Spieler melden Forum
 
 ### <strong><span style="color:#E4D100">Julian_999999999</span></strong>
@@ -174,6 +174,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Metrixx7</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
+- <u>Nebenverantwortlich:</u> Zu Unrecht gebannt Forum, Twitter
 
 ### <strong><span style="color:#E4D100">Morileh</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -256,7 +257,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">xMaudodo</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge
+- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge, Feedback Forum
 
 
 # 2 - CityBuild-Team

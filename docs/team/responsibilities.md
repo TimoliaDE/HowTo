@@ -25,6 +25,14 @@ Hier werden die verschiedenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">TheFeldi</span> | Nebenverantwortlich |
 
+###<strong>Feedback</strong>
+| Teamler | Verantwortungsgrad |
+| ------ | ------ |
+|<span style="color:#E4D100">Juliaan</span> | Hauptverantwortlich |
+| | |
+|<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">xMaudodo</span> | Nebenverantwortlich |
+
 ###<strong>Map-Einsendungen</strong>
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
@@ -59,6 +67,7 @@ Hier werden die verschiedenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 |<span style="color:#E4D100">CubeFabi</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">BuffmonsterOne</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
+|<span style="color:#E4D100'>Metrixx7</span> | Nebenverantwortlich |
 
 ###<strong>Spielmodi</strong>
 | Teamler | Verantwortungsgrad |
@@ -122,22 +131,28 @@ Hier werden die verschiedenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#2980b9">Evoferry</span> | Hauptverantwortlich |
-|<span style="color:#CF0101">KenaiHD</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#CF0101">Caelis</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
-|<span style="color:#CF0101">Thomasch</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">JOlegna</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">KenaiHD</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">Thomasch</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">\_TakeItEaZy\_</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Evageddon</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Tedget</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">MCelements0815</span> | Nebenverantwortlich |
 
+###<strong>Broadcasts</strong>
+| Teamler | Verantwortungsgrad |
+| ------ | ------ |
+|<span style="color:#E4D100">\_TakeItEaZy\_</span> | Hauptverantwortlich |
+
 ###<strong>Team-Leiter</strong>
 | Teamler | Zuständigkeit |
 | ------ | ------ |
 |<span style="color:#CF0101">Caelis</span> | Management des Development-Teams |
-|<span style="color:#CF0101">Milam</span> | Management des Creator-Teams |
-|<span style="color:#CF0101">Thomasch</span> | Management des Creator-Teams |
+|<span style="color:#CF0101">Thomasch</span> | Management des Creator-Teams und des YouTube-Teams |
+|<span style="color:#CF0101">Milam</span> | Management des Creator-Teams und des YouTube-Teams |
+|<span style="color:#CF0101">KenaiHD</span> | Management des YouTube-Teams |
 |<span style="color:#00646F">Vectrail</span> | Management des Bau-Teams |
