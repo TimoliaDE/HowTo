@@ -4,48 +4,48 @@ Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbe
 
 ## Administratoren
 
-Administratoren kümmern sich um die Technik von Timolia. Angefangen bei den Plugins, über CraftBukkit bishin zum Root-Server und dem BungeeCord-Netzwerk.
+Administratoren kümmern sich um die Technik von Timolia. Angefangen bei den Plugins, über CraftBukkit bis hin zum Root-Server und dem BungeeCord-Netzwerk.
 Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 
 ###<strong>Edgxxar</span></strong>
 - <u>Rang (ingame):</u> Administrator Games, CityBuild
-- <u>Hauptverantworlich:</u> Timolia-Plugins
+- <u>Hauptverantwortlich:</u> Timolia-Plugins
 - <u>Nebenverantwortlich:</u> Root-Server
 
 ###<strong>MCExpertDE</strong>
 - <u>Rang (ingame):</u> Administrator Games, CityBuild
-- <u>Hauptverantworlich:</u> Games, Timolia-Plugins
+- <u>Hauptverantwortlich:</u> Games, Timolia-Plugins
 - <u>Nebenverantwortlich:</u> Hardware
 
 ###<strong>Moehritz</strong>
 - <u>Rang (ingame):</u> Administrator Games, CityBuild
-- <u>Hauptverantworlich:</u> Development , Timolia-Plugins
+- <u>Hauptverantwortlich:</u> Development , Timolia-Plugins
 
 ###<strong>Niklas</strong>
 - <u>Rang (ingame):</u> Administrator Games
-- <u>Hauptverantworlich:</u> Interne Webanwendung, Webseite
+- <u>Hauptverantwortlich:</u> Interne Webanwendung, Webseite
 - <u>Nebenverantwortlich:</u> Social-Media
 
 ###<strong>xiantiel</strong>
 - <u>Rang (ingame):</u> Administrator Games, CityBuild
-- <u>Hauptverantworlich:</u> Buycraft, Hardware, Management, Nitrado, Root-Server
+- <u>Hauptverantwortlich:</u> Buycraft, Hardware, Management, Nitrado, Root-Server
 
 ## Moderatoren
 Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen Server auf unserem Netzwerk und dienen als Schnittstelle zwischen Supporter und Administratoren.
 
 ###<strong><span style="color:#CF0101">Caelis</span></strong>
 - <u>Rang (ingame):</u> Moderator Games, CityBuild
-- <u>Hauptverantworlich:</u> Ansprechpartner f. Development, Technische Leitung des Bauteams
+- <u>Hauptverantwortlich:</u> Ansprechpartner f. Development, Technische Leitung des Bauteams
 - <u>Nebenverantwortlich:</u> Timolia-Plugins, TeamSpeak, Interne Webanwendung, Social-Media
 
 ###<strong><span style="color:#CF0101">FabsiFTW</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Hauptverantworlich:</u> YouTube-Rang, Supporterauswahl, YouTuber-Events
+- <u>Hauptverantwortlich:</u> YouTube-Rang, Supporterauswahl, YouTuber-Events
 - <u>Nebenverantwortlich:</u> Social-Media
 
 ###<strong><span style="color:#CF0101">Ferdy</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Hauptverantworlich:</u> Supporterauswahl, Management des Supporterteams
+- <u>Hauptverantwortlich:</u> Supporterauswahl, Management des Supporterteams
 - <u>Nebenverantwortlich:</u> Social-Media
 
 ###<strong><span style="color:#CF0101">ItsSarahh</span></strong>
@@ -55,12 +55,12 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">KenaiHD</span></strong>
 - <u>Rang (ingame):</u> Moderator Games, CityBuild
-- <u>Hauptverantworlich:</u> Entbannungsanträge, Feedback Forum, TeamSpeak
+- <u>Hauptverantwortlich:</u> Entbannungsanträge, Feedback Forum, TeamSpeak
 - <u>Nebenverantwortlich:</u> Timolia-Plugins
 
 ###<strong><span style="color:#CF0101">L0L0</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Hauptverantworlich:</u> Spieler melden Forum
+- <u>Hauptverantwortlich:</u> Spieler melden Forum
 - <u>Nebenverantwortlich:</u> Anti-Cheat, Social-Media
 
 ###<strong><span style="color:#CF0101">Siimon</span></strong>
@@ -68,12 +68,12 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">Milam</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
-- <u>Hauptverantworlich:</u> Social-Media
+- <u>Hauptverantwortlich:</u> Social-Media
 - <u>Nebenverantwortlich:</u> Entbannungsanträge, Forum
 
 ###<strong><span style="color:#CF0101">Thomasch</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Hauptverantworlich:</u> Forum, Internes Wiki, Timolia Anleitung, YouTube und Twitch
+- <u>Hauptverantwortlich:</u> Forum, Internes Wiki, Timolia Anleitung, YouTube und Twitch
 - <u>Nebenverantwortlich:</u> TeamSpeak, Social-Media
 
 ## Developer
@@ -88,7 +88,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 ### <strong><span style="color:#007812">Flycofx</span></strong>
 - <u>Rang (ingame):</u> Developer Games
-- <u>Hauptverantworlich:</u> Chainreact, Weihnachts - Timolia Adventure
+- <u>Hauptverantwortlich:</u> Chainreact, Weihnachts - Timolia Adventure
 
 ### <strong><span style="color:#007812">Fyniks</span></strong>
 - <u>Rang (ingame):</u> Developer Games
@@ -99,7 +99,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 ### <strong><span style="color:#007812">LastR_Raziel</span></strong>
 - <u>Rang (ingame):</u> Developer Games
-- <u>Hauptverantworlich:</u> Anti-Cheat
+- <u>Hauptverantwortlich:</u> Anti-Cheat
 
 ### <strong><span style="color:#007812">logito111</span></strong>
 - <u>Rang (ingame):</u> Developer Games
@@ -109,7 +109,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 ### <strong><span style="color:#007812">svdragster</span></strong>
 - <u>Rang (ingame):</u> Developer Games
-- <u>Hauptverantworlich:</u> Anti-Cheat
+- <u>Hauptverantwortlich:</u> Anti-Cheat
 
 ### <strong><span style="color:#007812">Zortax</span></strong>
 - <u>Rang (ingame):</u> Developer Games
@@ -136,7 +136,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">CubeFabi</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Hauptverantworlich:</u> Fragen und Antworten Forum
+- <u>Hauptverantwortlich:</u> Fragen und Antworten Forum
 - <u>Nebenverantwortlich:</u> Entbannungsanträge, Off-Topic Forum
 
 ###<strong><span style="color:#E4D100">DrugDuck</span></strong>
@@ -144,7 +144,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Elegeta</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Hauptverantworlich:</u> Supporterauswahl
+- <u>Hauptverantwortlich:</u> Supporterauswahl
 
 ### <strong><span style="color:#E4D100">felliongi21</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -180,7 +180,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">medicoo</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Hauptverantworlich:</u> Spielmodi Foren
+- <u>Hauptverantwortlich:</u> Spielmodi Foren
 - <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, YouTuber-Events, TeamSpeak
 
 ### <strong><span style="color:#E4D100">Percyfan55</span></strong>
@@ -222,7 +222,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">Tiem</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Hauptverantworlich:</u> Entbannungsanträge, Anregungen und Vorschläge
+- <u>Hauptverantwortlich:</u> Entbannungsanträge, Anregungen und Vorschläge
 - <u>Nebenverantwortlich:</u> Map-Einsendungen
 
 ### <strong><span style="color:#E4D100">MaHacki</span></strong>
@@ -263,34 +263,34 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ## Administratoren
 
-Administratoren kümmern sich um die Technik von Timolia. Angefangen bei den Plugins, über CraftBukkit bishin zum Root-Server und dem BungeeCord-Netzwerk.
+Administratoren kümmern sich um die Technik von Timolia. Angefangen bei den Plugins, über CraftBukkit bis hin zum Root-Server und dem BungeeCord-Netzwerk.
 Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 
 ###<strong>Docmac</strong>
 - <u>Rang (ingame):</u> Administrator CityBuild, Games
-- <u>Hauptverantworlich:</u> CityBuild-Server, CityBuild-Supporter, Steam
+- <u>Hauptverantwortlich:</u> CityBuild-Server, CityBuild-Supporter, Steam
 
 ###<strong>Edgxxar</span></strong>
 - <u>Rang (ingame):</u> Administrator Games, CityBuild
-- <u>Hauptverantworlich:</u> Timolia-Plugins
+- <u>Hauptverantwortlich:</u> Timolia-Plugins
 - <u>Nebenverantwortlich:</u> Root-Server
 
 ###<strong>Evoferry</strong>
 - <u>Rang (ingame):</u> Administrator CityBuild
-- <u>Hauptverantworlich:</u> CityBuild-Server, CityBuild-Supporter, TeamSpeak
+- <u>Hauptverantwortlich:</u> CityBuild-Server, CityBuild-Supporter, TeamSpeak
 
 ###<strong>MCExpertDE</strong>
 - <u>Rang (ingame):</u> Administrator Games, CityBuild
-- <u>Hauptverantworlich:</u> Games, Timolia-Plugins
+- <u>Hauptverantwortlich:</u> Games, Timolia-Plugins
 - <u>Nebenverantwortlich:</u> Hardware
 
 ###<strong>Moehritz</strong>
 - <u>Rang (ingame):</u> Administrator Games, CityBuild
-- <u>Hauptverantworlich:</u> Development, Timolia-Plugins
+- <u>Hauptverantwortlich:</u> Development, Timolia-Plugins
 
 ###<strong>xiantiel</strong>
 - <u>Rang (ingame):</u> Administrator Games, CityBuild
-- <u>Hauptverantworlich:</u> Buycraft, Hardware, Management, Nitrado, Root-Server
+- <u>Hauptverantwortlich:</u> Buycraft, Hardware, Management, Nitrado, Root-Server
 
 ## Moderatoren
 
@@ -298,14 +298,14 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">Caprea</span></strong>
 - <u>Rang (ingame):</u> Moderatorin CityBuild
-- <u>Hauptverantworlich:</u> Flussufer, Summerfields, Sunset Valley, Aegypten, Social-Media
+- <u>Hauptverantwortlich:</u> Flussufer, Summerfields, Sunset Valley, Aegypten, Social-Media
 
 ###<strong><span style="color:#CF0101">JoJoYoshy</span></strong>
 - <u>Rang (ingame):</u> Moderatorin CityBuild
 
 ### <strong><span style="color:#CF0101">JOlegna</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
-- <u>Hauptverantworlich:</u> Upper Hills, Citybuild-Supporter, CityBuild Forum
+- <u>Hauptverantwortlich:</u> Upper Hills, Citybuild-Supporter, CityBuild Forum
 
 ###<strong><span style="color:#CF0101">kd9b</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
@@ -315,11 +315,11 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">saporital</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
-- <u>Hauptverantworlich:</u> Social-Media, Downtown, Minedig, Mittelalter, Oldtown, Chinatown, Wunderland, Atlantis
+- <u>Hauptverantwortlich:</u> Social-Media, Downtown, Minedig, Mittelalter, Oldtown, Chinatown, Wunderland, Atlantis
 
 ###<strong><span style="color:#CF0101">Twilex</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
-- <u>Hauptverantworlich:</u> Shopwelt, Skyland, Wellington
+- <u>Hauptverantwortlich:</u> Shopwelt, Skyland, Wellington
 
 ## Developer
 
@@ -327,7 +327,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 ###<strong><span style="color:#007812">tr7zw</span></strong>
 - <u>Rang (ingame):</u> Developer CityBuild
-- <u>Hauptverantworlich:</u> CityBuild-Plugins, Abbauwelt, Farmwelt
+- <u>Hauptverantwortlich:</u> CityBuild-Plugins, Abbauwelt, Farmwelt
 
 ###<strong><span style="color:#007812">Caelis</span></strong>
 - <u>Rang (ingame):</u> Developer CityBuild
@@ -443,7 +443,7 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 ###<strong><span style="color:#00646F">Vectrail</span></strong>
 - <u>Rang (ingame):</u> Builder
-- <u>Hauptverantworlich:</u> Bauevent, Bautresor, City-Maps, Games-Maps, Management des Bauteams
+- <u>Hauptverantwortlich:</u> Bauevent, Bautresor, City-Maps, Games-Maps, Management des Bauteams
 
 ###<strong><span style="color:#00646F">Vemdex</span></strong>
 - <u>Rang (ingame):</u> Builder
@@ -462,7 +462,7 @@ Creator sind für kreative Arbeiten, wie Texte, Bilder und Grafiken zuständig u
 
 ###<strong><span style="color:#007812">Evageddon</span></strong>
 - <u>Rang (ingame):</u> Creator
-- <u>Hauptverantworlich:</u> Grafikdesign
+- <u>Hauptverantwortlich:</u> Grafikdesign
 - <u>Nebenverantwortlich:</u> TeamSpeak
 
 ### <strong><span style="color:#007812">Kritzelkiste</span></strong>

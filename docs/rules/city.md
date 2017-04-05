@@ -40,7 +40,7 @@ Dein Haus und deine Items sind davon jedoch nicht betroffen.
 ## §8 – Macros
 Einige von euch werden den MacroMod kennen. Er bietet die Möglichkeit, durch nur einen Knopfdruck einzelne Befehle bzw. ganze Befehlsketten auszuführen oder sogar Chatnachrichten vorzuschreiben und ausgeben zu lassen.
 Erlaubt sind auf dem CityBuild nur Befehle, welche einem keine Vorteile im Spiel bringen, sondern einem nur das Spielen erleichtern/einfacher gestalten. Dazu gehören zB. Befehle wie `/home`, `/city`, `/mail read`… usw. 
-Nicht erlaubte sind Befehle sind zB. `/craft`, `/enderchest`… und alle, welche einem einen direkten Vorteil, zb. im PvP geben. Auch das Spammen von Nachrichten und das damit in manchen Fällen auch mögliche AFK-Farmen 
+Nicht erlaubte sind Befehle sind z.B. `/craft`, `/enderchest`… und alle, welche einem einen direkten Vorteil, zb. im PvP geben. Auch das Spammen von Nachrichten und das damit in manchen Fällen auch mögliche AFK-Farmen 
 (§7.5) ist strengstens Verboten und wird mit einem Bann bestraft.
 
 ## §9 - Rückerstattung bei technischen Fehlern

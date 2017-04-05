@@ -1,4 +1,4 @@
-Hier werden die verschiendenen Aufgabenbereiche der Timolia Teamler aufgelistet.
+Hier werden die verschiedenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 
 # Forum
 
@@ -35,6 +35,7 @@ Hier werden die verschiendenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 ###<strong>Spieler melden</strong>
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
+|<span style="color:#CF0101">L0L0</span> | Hauptverantwortlich |
 |<span style="color:#E4D100">BuffmonsterOne</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |

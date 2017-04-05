@@ -1,5 +1,5 @@
 Da Timolia sich ausschließlich durch die Community finanziert, sind wir für jede Spende von Dir dankbar. Da du nicht ganz grundlos dein
-Geld für einen Minecraft-Server ausgeben sollst, bekommst du als Gegenleistung einen speziellen Rang auf unserem Netzkwerk!
+Geld für einen Minecraft-Server ausgeben sollst, bekommst du als Gegenleistung einen speziellen Rang auf unserem Netzwerk!
 Die Ränge sind in unserem Shop erhältlich, diesen kannst du unter [https://www.timolia.de/shop](https://www.timolia.de/shop) erreichen.
 
 ###Welche Vorteile habe ich als Expert / Pro?
@@ -19,6 +19,7 @@ Diese Features stehen dir mit deinem Rang zur Verfügung:
 - zwei bzw. drei <strong>Stimmen beim Map-Voting-System</strong>
 - Teste Spiele als Beta-Tester
 - Rang im TeamSpeak-Server
+- `/pro` und `/expert` zeigt die Premium-Restzeit an
 
 Vorteile auf unseren CityBuild Servern:
 

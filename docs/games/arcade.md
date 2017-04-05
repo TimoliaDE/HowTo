@@ -21,7 +21,7 @@ Ziel dieses Spiel ist es, der letzte Überlebende zu sein. Es fallen jede Sekund
 
 ### Colour Clock
 Ziel dieses Spiel ist es, vor Ablauf der Zeit das Farbfeld am Rand der Map zu erreichen, welches in der Mitte der Arena von der Decke fällt.
-Wichtig ist es taktisch zu entscheiden, ob es sich noch lohnt zm nächsten Farbfeld zu laufen, oder lieber direkt zum übernächsten.
+Wichtig ist es taktisch zu entscheiden, ob es sich noch lohnt zum nächsten Farbfeld zu laufen, oder lieber direkt zum übernächsten.
 Die Reihenfolge der Farben wird in der Mitte durch übereinanderliegende Wollblöcke angezeigt.
 
 ### Cube Builder
@@ -37,7 +37,7 @@ Ziel dieses Spiel ist es, in einer zufällig generierten Zeit den weitesten Weg 
 keine Blöcke aufsammeln.
 
 ### Gravity
-Ziel dieses Spiel ist es, als erster Spieler fünf Punkte zu ergattern. Mit der Schallplatte änderst du deine Graviation und kannst so vorankommen, der nächste Punkt wird dir im Kompass angezeigt. 
+Ziel dieses Spiel ist es, als erster Spieler fünf Punkte zu ergattern. Mit der Schallplatte änderst du deine Gravitation und kannst so vorankommen, der nächste Punkt wird dir im Kompass angezeigt. 
 Die fünf farbigen Glasblöcke zeigen dir zusätzlich den nächsten Punkt. Wichtig: Du musst die Punkte in der richtigen Reihenfolge ablaufen.
 
 ### Kabelsalat
@@ -56,7 +56,7 @@ Ziel dieses Spiel ist es, auf einer Seite des Würfels nur ein Farbfeld zu besit
  
 ### Sammelfieber
 Ziel dieses Spiel ist es, nach Ablauf der Zeit am meisten verschiedene Items gesammelt zu haben, die Welt, in der gespielt wird, ist dabei zufällig generiert und auf 24x24 Chunks begrenzt. 
-Im Scoreboard wird angezeigt, wie viele verschiedene Items bereits gesammelt wurden, am Ende des Spiels wird dsa Inventar des Gewinners eingeblendet.
+Im Scoreboard wird angezeigt, wie viele verschiedene Items bereits gesammelt wurden, am Ende des Spiels wird das Inventar des Gewinners eingeblendet.
  
 ### Turmspringen
 Ziel dieses Spiels ist es, durch das Treffen von Wasserlöchern die meisten Punkte zu sammeln. Je nach Größe des Wasserlochs bekommt man einen, zwei oder drei Punkte. 
