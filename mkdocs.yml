@@ -41,3 +41,4 @@ pages:
 
 theme: readthedocs
 site_author: tixia UG (haftungsbeschränkt)
+extra_css: [extra.css]
