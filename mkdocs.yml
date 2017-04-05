@@ -43,3 +43,4 @@ pages:
 # - Changelog: 'changelog.md'
 
 theme: readthedocs
+extra_css: [extra.css]
