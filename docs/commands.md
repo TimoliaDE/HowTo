@@ -24,7 +24,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/lang <Sprache>` | Ändere deine Sprache |
 <span style="color:#4C0B5F">YouTuber</span> und <span style="color:#F99500">Pro+</span> only:
 | `/forcemap` | Erzwinge bei einem Spiel mit Voting-System eine bestimmte Map |
-| `/stargame [Sekunde]` | Starte ein Spiel |
+| `/startgame [Sekunden]` | Starte ein Spiel |
 | `/abortgame` | Brich den Start eines Spiels ab |
 
 ### Reportsystem
