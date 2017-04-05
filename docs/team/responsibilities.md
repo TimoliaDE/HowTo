@@ -25,6 +25,13 @@ Hier werden die verschiedenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">TheFeldi</span> | Nebenverantwortlich |
 
+###<strong>Feedback</strong>
+| Teamler | Verantwortungsgrad |
+| ------ | ------ |
+|<span style="color:#E4D100">Juliaan</span> | Hauptverantwortlich |
+| | |
+|<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
+
 ###<strong>Map-Einsendungen</strong>
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
@@ -123,12 +130,12 @@ Hier werden die verschiedenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#2980b9">Evoferry</span> | Hauptverantwortlich |
-|<span style="color:#CF0101">KenaiHD</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#CF0101">Caelis</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
-|<span style="color:#CF0101">Thomasch</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">JOlegna</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">KenaiHD</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">Thomasch</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">\_TakeItEaZy\_</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Evageddon</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
