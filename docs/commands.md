@@ -92,6 +92,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/join <Name> <Passwort>` | Tritt einem passwortgeschützten Turnier bei |
 | `/t` | Zeigt die Turnier Informationen |
 | `/xp <Level>` | Setzt ein XP-Level für dein Kit |
+| `/matchinfo` | Zeigt Informationen über den aktuellen Kampf |
 <span style="color:#F99500">Pro</span> und <span style="color:#00F9EC">Expert</span> only:
 | `/hat` | Setzt das Item in deiner Hand als den Helm deines Kits |
 | `/create <Passwort>` | Erstellt ein Turnier (optional mit einem Passwort) |

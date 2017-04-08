@@ -24,7 +24,7 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 ###<strong>Niklas</strong>
 - <u>Rang (ingame):</u> Administrator Games
 - <u>Hauptverantwortlich:</u> Interne Webanwendung, Webseite
-- <u>Nebenverantwortlich:</u> Social-Media
+- <u>Nebenverantwortlich:</u> Twitter
 
 ###<strong>xiantiel</strong>
 - <u>Rang (ingame):</u> Administrator Games, CityBuild
@@ -36,22 +36,21 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ###<strong><span style="color:#CF0101">Caelis</span></strong>
 - <u>Rang (ingame):</u> Moderator Games, CityBuild
 - <u>Hauptverantwortlich:</u> Ansprechpartner f. Development, Technische Leitung des Bauteams
-- <u>Nebenverantwortlich:</u> Timolia-Plugins, TeamSpeak, Interne Webanwendung, Social-Media
+- <u>Nebenverantwortlich:</u> Timolia-Plugins, TeamSpeak, Interne Webanwendung, Twitter
 
 ###<strong><span style="color:#CF0101">FabsiFTW</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
 - <u>Hauptverantwortlich:</u> YouTube-Rang, Supporterauswahl, YouTuber-Events
-- <u>Nebenverantwortlich:</u> Social-Media
+- <u>Nebenverantwortlich:</u> Twitter
 
 ###<strong><span style="color:#CF0101">Ferdy</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
 - <u>Hauptverantwortlich:</u> Supporterauswahl, Management des Supporterteams
-- <u>Nebenverantwortlich:</u> Social-Media
 
 ###<strong><span style="color:#CF0101">ItsSarahh</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
 - <u>Hauptverantwortlich:</u> Entbannungsanträge, Supporterauswahl
-- <u>Nebenverantwortlich:</u> Feedback Forum, Social-Media, Teamspeak
+- <u>Nebenverantwortlich:</u> Feedback Forum, Twitter, Teamspeak
 
 ###<strong><span style="color:#CF0101">KenaiHD</span></strong>
 - <u>Rang (ingame):</u> Moderator Games, CityBuild
@@ -61,7 +60,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ###<strong><span style="color:#CF0101">L0L0</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
 - <u>Hauptverantwortlich:</u> Spieler melden Forum
-- <u>Nebenverantwortlich:</u> Anti-Cheat, Social-Media
+- <u>Nebenverantwortlich:</u> Anti-Cheat, Jump-World Bilder
 
 ###<strong><span style="color:#CF0101">Siimon</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
@@ -74,7 +73,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ###<strong><span style="color:#CF0101">Thomasch</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
 - <u>Hauptverantwortlich:</u> Gesamtes Forum, Internes Wiki, Timolia Anleitung, YouTube und Twitch
-- <u>Nebenverantwortlich:</u> TeamSpeak, Social-Media
+- <u>Nebenverantwortlich:</u> TeamSpeak, Twitter
 
 ## Developer
 
@@ -163,7 +162,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">Juliaan</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Feedback Forum, Off-Topic Forum, Vorstellungen Forum
-- <u>Nebenverantwortlich:</u> Entbannungsanträge, Spieler melden Forum
+- <u>Nebenverantwortlich:</u> Entbannungsanträge, Spieler melden Forum, Twitter
 
 ### <strong><span style="color:#E4D100">Julian_999999999</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -174,7 +173,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Metrixx7</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Zu Unrecht gebannt Forum, Social-Media
+- <u>Nebenverantwortlich:</u> Zu Unrecht gebannt Forum, Twitter
 
 ### <strong><span style="color:#E4D100">Morileh</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -299,7 +298,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">Caprea</span></strong>
 - <u>Rang (ingame):</u> Moderatorin CityBuild
-- <u>Hauptverantwortlich:</u> Flussufer, Summerfields, Sunset Valley, Aegypten, Social-Media
+- <u>Hauptverantwortlich:</u> Flussufer, Summerfields, Sunset Valley, Aegypten, Twitter
 
 ###<strong><span style="color:#CF0101">JoJoYoshy</span></strong>
 - <u>Rang (ingame):</u> Moderatorin CityBuild
@@ -316,7 +315,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">saporital</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
-- <u>Hauptverantwortlich:</u> Social-Media, Downtown, Minedig, Mittelalter, Oldtown, Chinatown, Wunderland, Atlantis
+- <u>Hauptverantwortlich:</u> Twitter, Downtown, Minedig, Mittelalter, Oldtown, Chinatown, Wunderland, Atlantis
 
 ###<strong><span style="color:#CF0101">Twilex</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
@@ -416,7 +415,7 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 ### <strong><span style="color:#00646F">Jukplays</span></strong>
 - <u>Rang (ingame):</u> Builder
-- <u>Hauptverantwortlich:</u> Social-Media
+- <u>Hauptverantwortlich:</u> Twitter
 
 ### <strong><span style="color:#00646F">kirschen</span></strong>
 - <u>Rang (ingame):</u> Builder

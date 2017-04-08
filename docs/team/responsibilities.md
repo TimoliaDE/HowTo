@@ -139,7 +139,6 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 |<span style="color:#CF0101">KenaiHD</span> | YouTube HV|
 |<span style="color:#CF0101">Caelis</span> | Twitter NV, JumpWorld Bilder |
 |<span style="color:#CF0101">FabsiFTW</span> | Twitter NV |
-|<span style="color:#CF0101">Ferdy</span> | Twitter NV |
 |<span style="color:#CF0101">ItsSarahh</span> | Twitter NV|
 |<span style="color:#CF0101">Caprea</span> | Twitter NV |
 |<span style="color:#CF0101">L0L0</span> | JumpWorld Bilder |
