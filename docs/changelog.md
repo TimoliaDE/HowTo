@@ -1,8 +1,21 @@
-- <strong>Added</strong>: Implementiertes Feature oder Funktion
-- <strong>Changed</strong>: Verändertes Feature oder Funktion
-- <strong>Updated</strong>: Erweiterung eines Features oder Modus
-- <strong>Fixed</strong>: Behobene Fehler
-- <strong>Removed</strong>: Entfernte Feature oder Funktionen
+- <strong><span style="color:#199F29">Added</span></strong>: Implementiertes Feature oder Funktion
+- <strong><span style="color:#00646F">Changed</span></strong>: Verändertes Feature oder Funktion
+- <strong><span style="color:#E4D100">Updated</span></strong>: Erweiterung eines Features oder Modus
+- <strong><span style="color:#F99500">Fixed</span></strong>: Behobene Fehler
+- <strong><span style="color:#CF0101">Removed</span></strong>: Entfernte Feature oder Funktionen
+
+
+# 2017
+
+###<strong>März</strong>
+| Datum | Veränderung | Update-Art | Kurzbeschreibung | Erklärung | Verantwortliche(r) |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| 25.03.17 | HowTo | <span style="color:#CF0101">Removed</span> | Technische Aufgaben im HowTo entfernt | Der Bereich "Technische Aufgaben" wurde im HowTo entfernt | Thomasch |
+| 24.03.17 | Lobby | <span style="color:#E4D100">Updated</span> | Hervorhebung eines Double Pixel Wochenendes | Das Icon des Modus mit einem Double Pixel Wochenende ist im Kompass nun mit einer Verzauberung hervorgehoben. Zusätzlich wird die verbleibende Dauer des Events in der Lore angezeigt | Caelis |
+| 23.03.17 | HowTo | <strong><span style="color:#E4D100">Updated</span></strong> | Umstrukturierung des HowTos | Das HowTo Timolias wurde erweitert und umstrukturiert | Thomasch |
+| 22.03.17 | Arcade | <strong><span style="color:#E4D100">Updated</span></strong> | Neue YT-Quiz Skins | Die Liste der YouTuber für das Spiel "YT-Quiz" in Arcade wurde um einige neue Skins erweitert| Tedget, MCExpertDE
+
+
 
 
 # 2017
@@ -27,7 +40,7 @@ Alle Veränderungen im Jahr 2017:
    <dd style="margin-left: 7%;">Der Befehl /sync synchronisiert nun die Farben einer farbwechselnden Lederrüstung. Ein Shift-Klick in "Meine Items" setzt die Farbrotation zurück. 
    Des weiteren wurden Kuh, Katze und Hund als billige Starterpakete hinzugefügt.</dd>
    <dd style="margin-left: 7%;"><u>Verantwortlich</u>: Moehritz</dd>
-   ydd></dd>
+   </dd>
 </dl
 
 ### 1. April 2017:
@@ -53,25 +66,4 @@ Alle Veränderungen im Jahr 2017:
   <dd style="margin-left: 7%;">Der Bereich "Technische Aufgaben" wurde im HowTo entfernt.</dd>
   <dd style="margin-left: 7%;"><u>Verantwortlich</u>: Thomasch</dd>
   <dd></dd>
-</dl>
-
-### 24. März 2017:
-<dl>
-  <dd><b>Updated</b>: Hervorhebung eines Double Pixel Wochenendes</dd>
-  <dd style="margin-left: 7%;">Das Icon des Modus mit einem Double Pixel Wochenende ist im Kompass nun mit einer Verzauberung hervorgehoben. Zusätzlich wird die verbleibende Dauer des Events in der Lore angezeigt.</dd>
-  <dd style="margin-left: 7%;"><u>Verantwortlich</u>: Caelis</dd>
-</dl>
-
-### 23. März 2017:
-<dl>
-  <dd><b>Updated</b>: Umstrukturierung des HowTos</dd>
-  <dd style="margin-left: 7%;">Das HowTo Timolias wurde erweitert und umstrukturiert.</dd>
-  <dd style="margin-left: 7%;"><u>Verantwortlich</u>: Thomasch</dd>
-</dl>
-
-### 22. März 2017:
-<dl>
-  <dd><b>Updated</b>: Neue YT-Quiz Skins</dd>
-  <dd style="margin-left: 7%;">Die Liste der YouTuber für das Spiel "YT-Quiz" in Arcade wurde um einige neue Skins erweitert.</dd>
-  <dd style="margin-left: 7%;"><u>Verantwortlich</u>: Tedget, MCExpertDE</dd>
 </dl>
