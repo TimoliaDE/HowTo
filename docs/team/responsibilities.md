@@ -119,7 +119,7 @@ Bei jeglichen Fehlern in den Diensten von Timolia kümmert sich dieser Teamler d
 |<span style="color:#E4D100">Tedget</span> | Hauptverantwortlich |
 
 ###<strong>Supporterauswahl</strong>
-Wenn es wieder daran geht, neue Teamler in unsere Reihen zu holen, kümmern sich diese Verantwortlichen darum.
+Wenn es wieder daran geht, neue Supporter in unsere Reihen zu holen, kümmern sich diese Verantwortlichen darum.
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
@@ -148,7 +148,7 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 |<span style="color:#00646F">JukPlays</span> | Twitter NV |
 
 ###<strong>TeamSpeak</strong>
-//todo Descr
+Der Teamspeak von Timolia ist unter ts.timolia.de zu erreichen. Er wird betreut von diesen Teamlern.
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
@@ -166,7 +166,7 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 |<span style="color:#E4D100">MCelements0815</span> | Nebenverantwortlich |
 
 ###<strong>Timolia Turnier Organisation</strong>
-Diese beiden Teamler entscheiden über Turniereinstellungen bei den Freitagsturnieren.
+Die beiden Supporter entscheiden über Turniereinstellungen bei den Freitagsturnieren.
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
@@ -174,14 +174,14 @@ Diese beiden Teamler entscheiden über Turniereinstellungen bei den Freitagsturn
 |<span style="color:#E4D100">Calavero</span> | Hauptverantwortlich |
 
 ###<strong>Broadcasts</strong>
-//todo Descr
+Um auch ingame immer auf dem neusten Stand zu bleiben wird sich hier um Broadcast Mitteilungen gekümmert.
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#E4D100">\_TakeItEaZy\_</span> | Hauptverantwortlich |
 
 ###<strong>Team-Leiter</strong>
-//todo Descr
+Im Timolia Team gibt es kleinere Teams, welche unter anderem durch diese Verantwortlichen organisiert werden.
 
 | Teamler | Zuständigkeit |
 | ------ | ------ |
