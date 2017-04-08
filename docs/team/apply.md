@@ -20,7 +20,7 @@ Anders als bei anderen Servernetzwerken gibt es auf Timolia <b>keine Bewerbungsp
 gute Reportstatistik (Livereports sind besonders wichtig), keine gravierenden Verstöße gegen unser Regelwerk (beispielsweise zwei Banns 
 wegen des Benutzens eines Autoklickers) und Aktivität auf anderen Plattformen, wie im Forum und TeamSpeak (und ev. auf Twitter). 
 Zusätzlich führen wir Bewerbungsgespräche durch, bevor wir jemanden in unsere Reihen aufnehmen. Erst, wenn jemand alle Kriterien erfüllt hat 
-und das Probemonat bestanden hat, ist er/sie ein volles Teil unseres Supporterteams.
+und den Probemonat bestanden hat, ist er/sie ein volles Teil unseres Supporterteams.
 
 ### Builder
 In angekündigten Bauevents können Bewerber ihre Baukünste unter Beweis stellen. Themen werden im Regelfall nicht vorgegeben, Kreativität 
