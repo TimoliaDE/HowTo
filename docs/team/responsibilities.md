@@ -197,17 +197,6 @@ Dieses Team sorgt für einen aktuellen Changelog im HowTo.
 |<span style="color:#E4D100">Tnevel</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
 
-###<strong>Meldungen im Forum</strong>
-Fehlverhalten im Forum wird durch dieses Team sanktioniert.
-
-| Teamler | Verantwortungsgrad |
-| ------ | ------ |
-|<span style="color:#CF0101">KenaiHD</span> | Nebenverantwortlich |
-|<span style="color:#CF0101">Milam</span> | Nebenverantwortlich |
-|<span style="color:#CF0101">Thomasch</span> | Nebenverantwortlich |
-|<span style="color:#CF0101">Ferdy</span> | Hauptverantwortlich |
-|<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
-
 ###<strong>Broadcasts</strong>
 Um auch ingame immer auf dem neusten Stand zu bleiben wird sich hier um Broadcast Mitteilungen gekümmert.
 
