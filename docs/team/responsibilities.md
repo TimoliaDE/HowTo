@@ -127,6 +127,16 @@ Wenn es wieder daran geht, neue Supporter in unsere Reihen zu holen, kümmern si
 |<span style="color:#CF0101">ItsSarahh</span> | Hauptverantwortlich |
 |<span style="color:#E4D100">Elegeta</span> | Hauptverantwortlich |
 
+###<strong>Timolia Anleitung</strong>
+Diese Teamler kümmern sich um's Aktualisieren und Erstellen des HowTos Timolias.
+
+| Teamler | Verantwortungsgrad |
+| ------ | ------ |
+|<span style="color:#CF0101">Thomasch</span> | Hauptverantwortlich |
+| | |
+|<span style="color:#CF0101">JOlegna</span> | Hauptverantwortlich |
+|<span style="color:#E4D100">Tedget</span> | Nebenverantwortlich |
+
 ###<strong>Social-Media</strong>
 Für einen ständigen Support und Content auf Twitter und anderen sozialen Medien sorgen diese Teamler.
 
@@ -136,7 +146,7 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 | | |
 |<span style="color:#2980b9">Niklas</span>| Twitter NV |
 |<span style="color:#CF0101">Thomasch</span> | YouTube HV, Twitter NV |
-|<span style="color:#CF0101">KenaiHD</span> | YouTube HV|
+|<span style="color:#CF0101">KenaiHD</span> | YouTube HV, Facebook HV |
 |<span style="color:#CF0101">Caelis</span> | Twitter NV, JumpWorld Bilder |
 |<span style="color:#CF0101">FabsiFTW</span> | Twitter NV |
 |<span style="color:#CF0101">ItsSarahh</span> | Twitter NV|
@@ -173,6 +183,31 @@ Die beiden Supporter entscheiden über Turniereinstellungen bei den Freitagsturn
 |<span style="color:#E4D100">BuffmonsterOne</span> | Hauptverantwortlich |
 |<span style="color:#E4D100">Calavero</span> | Hauptverantwortlich |
 
+###<strong>Changelog</strong>
+Dieses Team sorgt für einen aktuellen Changelog im HowTo.
+
+| Teamler | Verantwortungsgrad |
+| ------ | ------ |
+|<span style="color:#CF0101">Thomasch</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">Caelis</span> | Hauptverantwortlich |
+|<span style="color:#E4D100">Tedget</span> | Hauptverantwortlich |
+| | |
+|<span style="color:#CF0101">Milam</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">trojesatar</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Tnevel</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
+
+###<strong>Meldungen im Forum</strong>
+Fehlverhalten im Forum wird durch dieses Team sanktioniert.
+
+| Teamler | Verantwortungsgrad |
+| ------ | ------ |
+|<span style="color:#CF0101">KenaiHD</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">Milam</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">Thomasch</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">Ferdy</span> | Hauptverantwortlich |
+|<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
+
 ###<strong>Broadcasts</strong>
 Um auch ingame immer auf dem neusten Stand zu bleiben wird sich hier um Broadcast Mitteilungen gekümmert.
 
@@ -190,3 +225,4 @@ Im Timolia Team gibt es kleinere Teams, welche unter anderem durch diese Verantw
 |<span style="color:#CF0101">Milam</span> | Management des Creator-Teams und des YouTube-Teams |
 |<span style="color:#CF0101">KenaiHD</span> | Management des YouTube-Teams |
 |<span style="color:#00646F">Vectrail</span> | Management des Bau-Teams |
+
