@@ -106,6 +106,9 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ### <strong><span style="color:#007812">Mari_W</span></strong>
 - <u>Rang (ingame):</u> Developer Games
 
+### <strong><span style="color:#007812">MatzyDE</span></strong>
+- <u>Rang (ingame):</u> Developer Games
+
 ### <strong><span style="color:#007812">svdragster</span></strong>
 - <u>Rang (ingame):</u> Developer Games
 - <u>Hauptverantwortlich:</u> Anti-Cheat
