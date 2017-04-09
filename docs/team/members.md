@@ -418,9 +418,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder
 - <u>Hauptverantwortlich:</u> Endprüfung der Games-Maps
 
-### <strong><span style="color:#00646F">Haxxsmart</span></strong>
-- <u>Rang (ingame):</u> Builder
-
 ###<strong><span style="color:#00646F">Invidia</span></strong>
 - <u>Rang (ingame):</u> Builderin
 
