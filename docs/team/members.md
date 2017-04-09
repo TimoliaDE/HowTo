@@ -147,6 +147,9 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Hauptverantwortlich:</u> Fragen und Antworten Forum
 - <u>Nebenverantwortlich:</u> Entbannungsanträge, Off-Topic Forum
 
+###<strong><span style="color:#E4D100">DrProfVincent</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+
 ###<strong><span style="color:#E4D100">DrugDuck</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 
@@ -163,6 +166,10 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">FlorianFida</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Anregungen und Vorschläge
+
+###<strong><span style="color:#E4D100">InkognitoVadium</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+- <u>Nebenverantwortlich:</u> Timolia 1vs1 Kits
 
 ### <strong><span style="color:#E4D100">JOlegna</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -251,13 +258,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">trojesatar</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Changelog
-
-###<strong><span style="color:#E4D100">VapeVadium</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Timolia 1vs1 Kits
-
-###<strong><span style="color:#E4D100">vincent0110</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
 
 ### <strong><span style="color:#E4D100">xH3lix</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
