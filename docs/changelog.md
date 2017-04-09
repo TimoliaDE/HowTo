@@ -13,6 +13,7 @@ Alle Veränderungen im Jahr 2017:
 ###<strong>April</strong>
 | Datum | Veränderung | Update-Art | Kurzbeschreibung | Erklärung | Verantwortliche(r) |
 | ------ | ------ | ------ | ------ | ------ | ------ |
+| 05.04.17 | Forum | <span style="color:#E4D100">Updated</span> | Archiv | Das Archiv des Forums wurde neu konfiguriert. Die Rechte wurden aktualisiert und die Position des Archivs wurde verändert. Falsch eingestellte Rechte wurden gefixt. | Thomasch 
 | 04.04.17 | Games | <span style="color:#199F29">Added</span> | /pro und /expert | Premium-Spieler können nun mit dem Befehl <code>/pro</code>, bzw. <code>/expert</code> nachsehen, wie lange sie ihren Premium-Rang noch besitzen. | KenaiHD
 | 03.04.17 | Lobby | <span style="color:#F99500">Fixed</span> | Pixelshop Inventar-Anzeige und Trending Items | Die Trending-Seite enthält nun keine kostenlosen Items mehr. Außerdem stimmt die Farbanzeige im Inventar nun mit den tatsächlichen Farben überein. | Moehritz
 | 03.04.17 | Lobby | <span style="color:#199F29">Added</span> | /sync, Shiftklick und Starterpakete | Der Befehl /sync synchronisiert nun die Farben einer farbwechselnden Lederrüstung. Ein Shift-Klick in "Meine Items" setzt die Farbrotation zurück. Des weiteren wurden Kuh, Katze und Hund als billige Starterpakete hinzugefügt. | Moehritz
