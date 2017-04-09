@@ -134,7 +134,7 @@ Diese Teamler kümmern sich um's Aktualisieren und Erstellen des HowTos Timolias
 | ------ | ------ |
 |<span style="color:#CF0101">Thomasch</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#CF0101">JOlegna</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">JOlegna</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Tedget</span> | Nebenverantwortlich |
 
 ###<strong>Social-Media</strong>

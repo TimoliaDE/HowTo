@@ -35,7 +35,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">Caelis</span></strong>
 - <u>Rang (ingame):</u> Moderator Games, CityBuild
-- <u>Hauptverantwortlich:</u> Ansprechpartner f. Development, Technische Leitung des Bauteams
+- <u>Hauptverantwortlich:</u> Ansprechpartner f. Development, Technische Leitung des Bauteams, Changelog
 - <u>Nebenverantwortlich:</u> Timolia-Plugins, TeamSpeak, Interne Webanwendung, Twitter
 
 ###<strong><span style="color:#CF0101">FabsiFTW</span></strong>
@@ -68,11 +68,11 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ###<strong><span style="color:#CF0101">Milam</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
 - <u>Hauptverantwortlich:</u> Social-Media
-- <u>Nebenverantwortlich:</u> Entbannungsanträge, Forum
+- <u>Nebenverantwortlich:</u> Entbannungsanträge, Forum, Changelog
 
 ###<strong><span style="color:#CF0101">Thomasch</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Hauptverantwortlich:</u> Gesamtes Forum, Internes Wiki, Timolia Anleitung, YouTube und Twitch
+- <u>Hauptverantwortlich:</u> Gesamtes Forum, Internes Wiki, Timolia Anleitung, YouTube und Twitch, Changelog
 - <u>Nebenverantwortlich:</u> TeamSpeak, Twitter
 
 ## Developer
@@ -104,6 +104,9 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Rang (ingame):</u> Developer Games
 
 ### <strong><span style="color:#007812">Mari_W</span></strong>
+- <u>Rang (ingame):</u> Developer Games
+
+### <strong><span style="color:#007812">MatzyDE</span></strong>
 - <u>Rang (ingame):</u> Developer Games
 
 ### <strong><span style="color:#007812">svdragster</span></strong>
@@ -162,7 +165,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">Juliaan</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Feedback Forum, Off-Topic Forum, Vorstellungen Forum
-- <u>Nebenverantwortlich:</u> Entbannungsanträge, Spieler melden Forum, Twitter
+- <u>Nebenverantwortlich:</u> Entbannungsanträge, Spieler melden Forum, Twitter, Changelog
 
 ### <strong><span style="color:#E4D100">Julian_999999999</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -170,6 +173,10 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">Karpfen17</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
+
+### <strong><span style="color:#E4D100">MaHacki</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+- <u>Nebenverantwortlich:</u> Entbannungsanträge
 
 ### <strong><span style="color:#E4D100">Metrixx7</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -210,7 +217,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Tedget</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Hauptverantwortlich:</u> Bugs und Spielfehler
+- <u>Hauptverantwortlich:</u> Bugs und Spielfehler, Changelog
 - <u>Nebenverantwortlich:</u> Teamspeak, YouTuber-Events, Timolia Anleitung
 
 ###<strong><span style="color:#E4D100">TheBrownShape</span></strong>
@@ -225,10 +232,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Hauptverantwortlich:</u> Entbannungsanträge, Anregungen und Vorschläge
 - <u>Nebenverantwortlich:</u> Map-Einsendungen
 
-### <strong><span style="color:#E4D100">MaHacki</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Entbannungsanträge
-
 ### <strong><span style="color:#E4D100">TobCrafterDE</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 
@@ -237,13 +240,15 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Tnevel</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
+- <u>Nebenverantwortlich:</u> Changelog
 
 ### <strong><span style="color:#E4D100">trojesatar</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
+- <u>Nebenverantwortlich:</u> Changelog
 
 ###<strong><span style="color:#E4D100">VapeVadium</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Timolia Kits
+- <u>Nebenverantwortlich:</u> Timolia 1vs1 Kits
 
 ###<strong><span style="color:#E4D100">vincent0110</span></strong>
 - <u>Rang (ingame):</u> Supporter Games

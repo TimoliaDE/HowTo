@@ -11,6 +11,7 @@ pages:
   - Reports und Entbannungen: 'bans.md'
   - Webseite und Forum: 'web.md'
   - TeamSpeak: 'teamspeak.md'
+  - Changelog: 'changelog.md'
 - Das Regelwerk:
   - Games: 'rules/games.md'
   - CityBuild: 'rules/city.md'
@@ -40,7 +41,7 @@ pages:
   - Veränderungen: 'team/changes.md'
   - Aufgabenbereiche: 'team/responsibilities.md'
   - Wie werde ich...?: 'team/apply.md'
-# - Changelog: 'changelog.md'
+
 
 theme: readthedocs
 extra_css: [extra.css]
