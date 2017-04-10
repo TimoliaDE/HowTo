@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>April</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Grund | Datum |
 | ------ | ------ | ------ | ------ | ------ |
+|PodgeT | <span style="color:#E4D100">Supporter City</span> | <span style="color:#00F9EC">Expert</span> | Keine Zeit und Motivation | 10.04.17 |
 |Haxxsmart | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | Inaktivität | 09.04.17 |
 |kirschen | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | Inaktivität | 02.04.17 |
 

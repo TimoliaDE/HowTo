@@ -361,10 +361,6 @@ Sie stehen für alle grundlegenden Fragen und Tickets zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter CityBuild,
 - <u>Nebenverantwortlich:</u> TeamSpeak
 
-###<strong><span style="color:#E4D100">PodgeT</span></strong>
-- <u>Rang (ingame):</u> Supporter CityBuild
-- <u>Hauptverantwortlich:</u> CityBuild Forum
-
 ###<strong><span style="color:#E4D100">uctdzfjkg</span></strong>
 - <u>Rang (ingame):</u> Supporterin CityBuild
 
