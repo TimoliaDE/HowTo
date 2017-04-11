@@ -140,7 +140,6 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/sb` | Öffnet das Menü des Scoreboards |
 | `/rezepte` | Zeigt dir zu jedem Item das Craftingrezept an |
 | `/achievements` | Listet eine Übersicht aller Achievements auf |
-| `/mission` | Zeigt eine Übersicht über die aktive/alle Missionen |
 | `/timazon`oder`/tbay` | Öffnet ein Menü zum Items bestellen |
 | `/firma`oder`/company` | Öffnet das Firmenmenü |
 | `/suicide` | Tötet sich selbst |
@@ -152,12 +151,17 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `$<Nachricht>` | Schreibe im Handelschat |
 | `/ch join handel` | Wählt den Handelschat als Standardchannel aus |
 | `/ch join global` | Wechselt in den default Citychannel |
+| `/tickets` | Öffnet eine Übersicht über deine Tickets |
+| `! <Nachricht>` | Schreibe im Firmenchat |
+| `/trg` | Öffnet das Interface des Grundstücks |
 <span style="color:#F99500">Pro</span> und <span style="color:#00F9EC">Expert</span> only:
-| `/ptime <day/night>` | Zeit für sich selbst umstellen |
+| `/ptime <day/night/midnight/sunrise/noon/afternoon/sunset/reset>` | Zeit für sich selbst umstellen |
 | `/pweather <sun,rain>` | Wetter für sich selbst umstellen |
 | `/craft` od. `/workbench` | Craftingfeld aufrufen |
 | `/hat` | Item in der Hand auf den Kopf setzen |
 | `/enderchest` | Enderchest aufrufen |
+| `/shulkerbox` od. `/box` | Öffnet die Shulkerbox, ohne sie abstellen zu müssen |
+
 
 ### Homes und Grundstücke
 
