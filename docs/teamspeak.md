@@ -1,5 +1,5 @@
 Mit der TeamSpeak-Server-IP ts.timolia.de gelangst du zu unserem TeamSpeak-Server. 
-Dort gibt es nicht Hilfechannel zum schnellen Support, auch öffentliche Zonen und private Channel erwarten dich. 
+Dort gibt es nicht nur Hilfechannel zum schnellen Support, auch öffentliche Zonen und private Channel erwarten dich. 
 
 #1 - Verifizierung im TeamSpeak
 - Wenn du dich das erste Mal auf den TeamSpeak Server verbindest, bist du standardmäßig ein normaler User.
