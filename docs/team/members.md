@@ -171,10 +171,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Timolia 1vs1 Kits
 
-### <strong><span style="color:#E4D100">JOlegna</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Entbannungsanträge, TeamSpeak, Timolia Anleitung
-
 ### <strong><span style="color:#E4D100">Juliaan</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Feedback Forum, Off-Topic Forum, Vorstellungen Forum
