@@ -1,5 +1,5 @@
 ## §1 - Allgemein
-Grundsätzlich gelten dieselben Regeln, wie auch auf dem Timolia Minecraft Server. Sollten dir die Regeln noch unbekannt sein, kannst du diese hier nachlesen: https://www.timolia.de/regeln/
+Grundsätzlich gelten dieselben Regeln, wie auch auf dem Timolia Minecraft Server. Sollten dir die Regeln noch unbekannt sein, kannst du diese [<strong>hier</strong> nachlesen](https://howto.timolia.de/rules/games/).
 
 ## §2 - Ausnutzen der Hilfechannel
 Es ist verboten den Hilfechannel ohne triftigen Grund aufzusuchen und dort die Hilfsbereitschaft von Teammitgliedern auszunutzen.
