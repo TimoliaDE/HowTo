@@ -25,7 +25,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 <span style="color:#4C0B5F">YouTuber</span> und <span style="color:#F99500">Pro+</span> only:
 | `/forcemap` | Erzwinge bei einem Spiel mit Voting-System eine bestimmte Map |
 | `/startgame [Sekunden]` | Starte ein Spiel |
-| `/abortgame` | Brich den Start eines Spiels ab |
+| `/abortstart` | Brich den Start eines Spiels ab |
 
 ### Reportsystem
 
@@ -39,6 +39,13 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/reports [-c] [-a]` | Öffnet eine Übersicht über deine Reports |
 | `/reportstats` | Zeigt dir deine Reportwahrscheinlichkeit an |
 | `/closereport <Spieler/ID>` | Schließe deinen eigenen Report |
+
+### Lobby
+| Befehl | Funktion |
+| ------ | -------- |
+| `/sync {0, 1, 2...]` | Synchronisiert die farbwechselnde Rüstung aus dem PixelShop|
+| `/fixkv` | Setzt deine Kick-Value zurück. Wie das Kick-System funktioniert, kannst du [<strong>hier</strong> nachlesen](https://howto.timolia.de/faq/#wie-funtkioniert-das-kick-system-bei-vollen-lobbys)
+
 
 ### Freundesystem
 
