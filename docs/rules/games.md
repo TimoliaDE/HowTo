@@ -86,7 +86,7 @@ ist ebenfalls verboten und wird entsprechend sanktioniert.
 
 ## §12 – Rückerstattung bei technischen Fehlern
 - Sollten durch technische Fehler (Serverabstürze, etc.) Pixel oder Punkte zurückgesetzt werden, sieht das übliche Verhalten des Teams vor, diese nicht zu erstatten. 
-- Solltest du Verstöße gegen die Regeln bemerken, so ist es erwünscht, diese immer mit Beweis im [Forum](http://timolia.de), ingame einem Teammitglied oder auf dem TeamSpeak im Hilfechannel zu melden.
+- Solltest du Verstöße gegen die Regeln bemerken, so ist es erwünscht, diese immer mit Beweis im [Forum](http://forum.timolia.de), ingame einem Teammitglied oder auf dem TeamSpeak im Hilfechannel zu melden.
 
 
 <strong>Das Team behält sich das Recht vor, bestimmtes Handeln (auch außerhalb des Minecraft- und Teamspeakservers) zu sanktionieren, welches nicht explizit in den Regeln aufgelistet ist.</strong>

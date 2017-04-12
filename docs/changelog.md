@@ -13,6 +13,7 @@ Alle Veränderungen im Jahr 2017:
 ###<strong>April</strong>
 | Datum | Veränderung | Update-Art | Kurzbeschreibung | Erklärung | Verantwortliche(r) |
 | ------ | ------ | ------ | ------ | ------ | ------ |
+| 12.04.17 | Timolia | <span style="color:#00646F">Changed</span> | Oster-Sale | Über die Oster Feiertage gibt es nun 20% auf alle Produkte in unserem [Shop](https://www.timolia.de/shop). | Timolia Team
 | 05.04.17 | Forum | <span style="color:#E4D100">Updated</span> | Archiv | Das Archiv des Forums wurde neu konfiguriert. Die Rechte wurden aktualisiert und die Position des Archivs wurde verändert. Falsch eingestellte Rechte wurden gefixt. | Thomasch 
 | 04.04.17 | Games | <span style="color:#199F29">Added</span> | /pro und /expert | Premium-Spieler können nun mit dem Befehl <code>/pro</code>, bzw. <code>/expert</code> nachsehen, wie lange sie ihren Premium-Rang noch besitzen. | KenaiHD
 | 03.04.17 | Lobby | <span style="color:#F99500">Fixed</span> | Pixelshop Inventar-Anzeige und Trending Items | Die Trending-Seite enthält nun keine kostenlosen Items mehr. Außerdem stimmt die Farbanzeige im Inventar nun mit den tatsächlichen Farben überein. | Moehritz
@@ -29,6 +30,7 @@ Alle Veränderungen im Jahr 2017:
 | 24.03.17 | Lobby | <span style="color:#E4D100">Updated</span> | Hervorhebung eines Double Pixel Wochenendes | Das Icon des Modus mit einem Double Pixel Wochenende ist im Kompass nun mit einer Verzauberung hervorgehoben. Zusätzlich wird die verbleibende Dauer des Events in der Lore angezeigt. | Caelis |
 | 23.03.17 | HowTo | <span style="color:#E4D100">Updated</span> | Umstrukturierung des HowTos | Das HowTo Timolias wurde erweitert und umstrukturiert. | Thomasch |
 | 22.03.17 | Arcade | <span style="color:#E4D100">Updated</span> | Neue YT-Quiz Skins | Die Liste der YouTuber für das Spiel "YT-Quiz" in Arcade wurde um einige neue Skins erweitert.| Tedget, MCExpertDE
+| 20.03.17 | HowTo | <span style="color:#199F29">Added</span> | Changelog hinzugefügt | Alle Änderungen rund um Timolia werden nun in einem Changelog festgehalten. | Tedget, Thomasch, Caelis|
 
 
 
