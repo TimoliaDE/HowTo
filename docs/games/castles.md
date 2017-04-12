@@ -16,7 +16,7 @@ in seiner eigenen Burg.
 ## Punkteverteilung in Castles
 - <strong>INFO:</strong> Wenn man die Runde verlässt, bevor das Team ausgeschieden ist, bekommt man <strong>keine</strong> Punkte.
 - Die Kills werden am Ende verdoppelt (Kills * 2)
-- Die Flaggeneroberungen werden am Ende versechsfacht (Kills * 6)
+- Die Flaggeneroberungen werden am Ende verachtfacht (Kills * 8)
 - Wenn man im Gewinnerteam ist, werden die Punkte am Ende verdoppelt (* 2)
 - Wenn man am meisten Kills hat, erhält man +15 Punkte
 - Wenn man am zweitmeisten Kills hat, erhält man +10 Punkte
