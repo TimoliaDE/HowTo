@@ -33,7 +33,7 @@ Solltest du keinen Account für unser Forum haben, kannst du dich auf dem Minecr
 
 ### Bannverjährung
 Ab einer Bannzeit von 46 oder mehr Banntagen musst du warten, bis Teile deines Banns zu verjähren beginnen, um eine Entschuldigung zu schreiben. 
-Nach acht Monaten beginnt ein Bann um zwei Monate pro Tag verkürzt. So hat du beispielsweise bei einer anfänglichen Banndauer von 50 Tagen nach 
+Nach acht Monaten beginnt ein Bann um zwei Tage pro Monat verkürzt. So hat du beispielsweise bei einer anfänglichen Banndauer von 50 Tagen nach 
 neun Monaten nur noch 48 Tage, usw. <a href="https://forum.timolia.de/forums/entschuldigungen.49/create-thread" target="_blank"><b>Hier</b> kannst du dich entschuldigen</a>, 
 <a href="https://forum.timolia.de/forums/zu-unrecht-gebannt.122/" target="_blank"><b>hier</b> meldest du dich, wenn du zu unrecht gebannt wurdest</a>.
 

@@ -45,7 +45,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">Ferdy</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Hauptverantwortlich:</u> Supporterauswahl, Management des Supporterteams
+- <u>Hauptverantwortlich:</u> Supporterauswahl, Organisation der inaktiven Supporter
 
 ###<strong><span style="color:#CF0101">ItsSarahh</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
