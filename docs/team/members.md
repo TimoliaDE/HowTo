@@ -40,12 +40,12 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">FabsiFTW</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Hauptverantwortlich:</u> YouTube-Rang, Supporterauswahl, YouTuber-Events
-- <u>Nebenverantwortlich:</u> Twitter
+- <u>Hauptverantwortlich:</u> YouTube-Rang, YouTuber-Events
+- <u>Nebenverantwortlich:</u> Twitter, Supporterauswahl
 
 ###<strong><span style="color:#CF0101">Ferdy</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Hauptverantwortlich:</u> Supporterauswahl, Organisation der inaktiven Supporter
+- <u>Hauptverantwortlich:</u> Supporterauswahl, Organisation und Koordination neuer, inaktiver und alter Teamler
 
 ###<strong><span style="color:#CF0101">ItsSarahh</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
