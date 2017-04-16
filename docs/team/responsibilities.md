@@ -8,9 +8,7 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#CF0101">Thomasch</span> | Hauptverantwortlich |
-| | |
-|<span style="color:#CF0101">Milam</span> | Nebenverantwortlich |
-
+|<span style="color:#CF0101">Milam</span> | Hauptverantwortlich i.V. |
 ###<strong>Anregungen und Vorschläge</strong>
 
 | Teamler | Verantwortungsgrad |
@@ -133,9 +131,9 @@ Diese Teamler kümmern sich um's Aktualisieren und Erstellen des HowTos Timolias
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#CF0101">Thomasch</span> | Hauptverantwortlich |
+|<span style="color:#E4D100">Tedget</span> | Hauptverantwortlich i.V. |
 | | |
 |<span style="color:#CF0101">JOlegna</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Tedget</span> | Nebenverantwortlich |
 
 ###<strong>Social-Media</strong>
 Für einen ständigen Support und Content auf Twitter und anderen sozialen Medien sorgen diese Teamler.

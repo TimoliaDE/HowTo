@@ -35,7 +35,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">Caelis</span></strong>
 - <u>Rang (ingame):</u> Moderator Games, CityBuild
-- <u>Hauptverantwortlich:</u> Ansprechpartner f. Development, Technische Leitung des Bauteams, Changelog
+- <u>Hauptverantwortlich:</u> Ansprechpartner f. Development, Internes Wiki (i.V.), Technische Leitung des Bauteams, Changelog
 - <u>Nebenverantwortlich:</u> Timolia-Plugins, TeamSpeak, Interne Webanwendung, Twitter
 
 ###<strong><span style="color:#CF0101">FabsiFTW</span></strong>
@@ -62,13 +62,13 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 - <u>Hauptverantwortlich:</u> Spieler melden Forum
 - <u>Nebenverantwortlich:</u> Anti-Cheat, Jump-World Bilder
 
-###<strong><span style="color:#CF0101">Siimon</span></strong>
-- <u>Rang (ingame):</u> Moderator Games
-
 ###<strong><span style="color:#CF0101">Milam</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
-- <u>Hauptverantwortlich:</u> Social-Media
-- <u>Nebenverantwortlich:</u> Entbannungsanträge, Forum, Changelog
+- <u>Hauptverantwortlich:</u> Gesamtes Forum (i.V.), Social-Media
+- <u>Nebenverantwortlich:</u> Entbannungsanträge, Changelog
+
+###<strong><span style="color:#CF0101">Siimon</span></strong>
+- <u>Rang (ingame):</u> Moderator Games
 
 ###<strong><span style="color:#CF0101">Thomasch</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
@@ -226,8 +226,8 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Tedget</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Hauptverantwortlich:</u> Bugs und Spielfehler, Changelog
-- <u>Nebenverantwortlich:</u> Teamspeak, YouTuber-Events, Timolia Anleitung
+- <u>Hauptverantwortlich:</u> Bugs und Spielfehler, Changelog, Internes Wiki (i.V.), Timolia Anleitung (i.V.)
+- <u>Nebenverantwortlich:</u> Teamspeak, YouTuber-Events
 
 ###<strong><span style="color:#E4D100">TheBrownShape</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
