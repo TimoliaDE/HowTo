@@ -9,6 +9,7 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 | ------ | ------ |
 |<span style="color:#CF0101">Thomasch</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">Milam</span> | Hauptverantwortlich i.V. |
+
 ###<strong>Anregungen und Vorschläge</strong>
 
 | Teamler | Verantwortungsgrad |
