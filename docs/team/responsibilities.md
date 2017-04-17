@@ -65,7 +65,6 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 |<span style="color:#CF0101">ItsSarahh</span> | Hauptverantwortlich |
 |<span style="color:#E4D100">Tiem</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#E4D100">JOlegna</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">MaHacki</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">CubeFabi</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">BuffmonsterOne</span> | Nebenverantwortlich |
