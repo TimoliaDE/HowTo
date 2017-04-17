@@ -71,6 +71,10 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 |<span style="color:#E4D100">BuffmonsterOne</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Metrixx7</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Flaxify</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Elegeta</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">TaiToni</span> | Nebenverantwortlich |
 
 ###<strong>Spielmodi</strong>
 | Teamler | Verantwortungsgrad |
