@@ -198,7 +198,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">medicoo</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Hauptverantwortlich:</u> Spielmodi Foren
 - <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, YouTuber-Events, TeamSpeak, Entbannungsanträge
 
 ### <strong><span style="color:#E4D100">Percyfan55</span></strong>
