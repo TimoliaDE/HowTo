@@ -108,6 +108,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 ### <strong><span style="color:#007812">Mari_W</span></strong>
 - <u>Rang (ingame):</u> Developer Games
+- <u>Nebenverantwortlich:</u>  Backend
 
 ### <strong><span style="color:#007812">MatzyDE</span></strong>
 - <u>Rang (ingame):</u> Developer Games
