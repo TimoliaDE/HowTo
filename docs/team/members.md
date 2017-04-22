@@ -35,7 +35,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">Caelis</span></strong>
 - <u>Rang (ingame):</u> Moderator Games, CityBuild
-- <u>Hauptverantwortlich:</u> Ansprechpartner f. Development, Internes Wiki (i.V.), Technische Leitung des Bauteams, Changelog
+- <u>Hauptverantwortlich:</u> Ansprechpartner f. Development, Developer Bewerbungen, Internes Wiki (i.V.), Technische Leitung des Bauteams, Changelog
 - <u>Nebenverantwortlich:</u> Timolia-Plugins, TeamSpeak, Interne Webanwendung, Twitter
 
 ###<strong><span style="color:#CF0101">FabsiFTW</span></strong>
@@ -157,7 +157,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">Elegeta</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Supporterauswahl
-- <u>Nebenverantwortlich:</u> Entbannungsanträge
+- <u>Nebenverantwortlich:</u> Entbannungsanträge, Zu Unrecht gebannt Forum
 
 ### <strong><span style="color:#E4D100">felliongi21</span></strong>
 - <u>Rang (ingame):</u> Supporter Games

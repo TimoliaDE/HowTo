@@ -59,7 +59,7 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 | | |
 |Moderatoren und Developer| Nebenverantwortlich |
 
-###<strong>Entbannungsanträge</strong>
+###<strong>Entschuldigungen</strong>
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#CF0101">ItsSarahh</span> | Hauptverantwortlich |
@@ -67,13 +67,21 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 | | |
 |<span style="color:#E4D100">MaHacki</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">CubeFabi</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">BuffmonsterOne</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Metrixx7</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Flaxify</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Elegeta</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">TaiToni</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">trojesatar</span> | Nebenverantwortlich |
+
+###<strong>Zu Unrecht gebannt</strong>
+| Teamler | Verantwortungsgrad |
+| ------ | ------ |
+|<span style="color:#E4D100">BuffmonsterOne</span> | Hauptverantwortlich |
+| | |
+|<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Elegeta</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Metrixx7</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">TobCrafterDE</span> | Nebenverantwortlich |
 
 ###<strong>Spielmodi</strong>
 | Teamler | Verantwortungsgrad |
