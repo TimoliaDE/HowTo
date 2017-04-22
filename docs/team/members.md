@@ -49,7 +49,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">ItsSarahh</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
-- <u>Hauptverantwortlich:</u> Entbannungsanträge, Supporterauswahl
+- <u>Hauptverantwortlich:</u> Entschuldigungen, Supporterauswahl
 - <u>Nebenverantwortlich:</u> Feedback Forum, Twitter, Teamspeak
 
 ###<strong><span style="color:#CF0101">KenaiHD</span></strong>
@@ -65,7 +65,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ###<strong><span style="color:#CF0101">Milam</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
 - <u>Hauptverantwortlich:</u> Gesamtes Forum (i.V.), Social-Media
-- <u>Nebenverantwortlich:</u> Entbannungsanträge, Changelog
+- <u>Nebenverantwortlich:</u> Changelog
 
 ###<strong><span style="color:#CF0101">Siimon</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
@@ -136,8 +136,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">BuffmonsterOne</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Hauptverantwortlich:</u> Timolia-Turnier Kits, Spieler melden Forum
-- <u>Nebenverantwortlich:</u> Entbannungsanträge
+- <u>Hauptverantwortlich:</u> Timolia-Turnier Kits, Spieler melden Forum, Zu Unrecht gebannt Forum
 
 ###<strong><span style="color:#E4D100">Calavero</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -146,7 +145,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ###<strong><span style="color:#E4D100">CubeFabi</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Fragen und Antworten Forum
-- <u>Nebenverantwortlich:</u> Entbannungsanträge, Off-Topic Forum
+- <u>Nebenverantwortlich:</u> Entschuldigungen, Off-Topic Forum
 
 ###<strong><span style="color:#E4D100">DrProfVincent</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -157,14 +156,14 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">Elegeta</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Supporterauswahl
-- <u>Nebenverantwortlich:</u> Entbannungsanträge, Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Zu Unrecht gebannt Forum
 
 ### <strong><span style="color:#E4D100">felliongi21</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 
 ### <strong><span style="color:#E4D100">Flaxify</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Entbannungsanträge
+- <u>Nebenverantwortlich:</u> Entschuldigungen
 
 ### <strong><span style="color:#E4D100">FlorianFida</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -177,7 +176,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">Juliaan</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Feedback Forum, Off-Topic Forum, Vorstellungen Forum
-- <u>Nebenverantwortlich:</u> Entbannungsanträge, Spieler melden Forum, Twitter, Changelog
+- <u>Nebenverantwortlich:</u> Entschuldigungen, Spieler melden Forum, Twitter, Changelog
 
 ### <strong><span style="color:#E4D100">Julian_999999999</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -188,18 +187,18 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">MaHacki</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Entbannungsanträge
+- <u>Nebenverantwortlich:</u> Entschuldigungen
 
 ### <strong><span style="color:#E4D100">Metrixx7</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Zu Unrecht gebannt Forum, Twitter, Entbannungsanträge
+- <u>Nebenverantwortlich:</u> Zu Unrecht gebannt Forum, Twitter
 
 ### <strong><span style="color:#E4D100">Morileh</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 
 ###<strong><span style="color:#E4D100">medicoo</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, YouTuber-Events, TeamSpeak, Entbannungsanträge
+- <u>Nebenverantwortlich:</u> YouTuber-Events, TeamSpeak, Entschuldigungen, Zu Unrecht gebannt Forum
 
 ### <strong><span style="color:#E4D100">Percyfan55</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -225,7 +224,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">TaiToni</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Entbannungsanträge
+- <u>Nebenverantwortlich:</u> Entschuldigungen
 
 ### <strong><span style="color:#E4D100">Tedget</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -241,11 +240,12 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">Tiem</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Hauptverantwortlich:</u> Entbannungsanträge, Anregungen und Vorschläge
+- <u>Hauptverantwortlich:</u> Entschuldigungen, Anregungen und Vorschläge
 - <u>Nebenverantwortlich:</u> Map-Einsendungen
 
 ### <strong><span style="color:#E4D100">TobCrafterDE</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
+- <u>Nebenverantwortlich:</u> Zu Unrecht gebannt Forum
 
 ### <strong><span style="color:#E4D100">Tobifaction</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -256,7 +256,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">trojesatar</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Changelog
+- <u>Nebenverantwortlich:</u> Changelog, Entschuldigungen
 
 ### <strong><span style="color:#E4D100">xH3lix</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
