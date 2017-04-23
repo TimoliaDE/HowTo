@@ -38,20 +38,10 @@ in seiner eigenen Burg.
 | 9 | 2048 | ??? |
 | 10 | 4096 | ??? |
 | 11 | 8192 | ??? |
-| 12 | 16384 | 
-| 13 |  |
-| 14 | |
-| 15 | |
-| 16 | |
-| 17 | |
-| 18 | |
-| 19 | |
-| 20 | |
-| 21 | |
-| 22 | |
+| 12 | 16384 | ??? |
+| 13 | 32768 | ??? |
 
-
-Um den Überraschungsfaktor zu bewahren werden namentlich nur die ersten Ränge genannt.
+Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren werden namentlich nur die ersten Ränge genannt. 
 
 ## Premium-Features
 - <span style="color:#F99500">Pros</span> besitzen zwei, <span style="color:#00F9EC">Experts</span> drei Stimmen im Voting-System.
