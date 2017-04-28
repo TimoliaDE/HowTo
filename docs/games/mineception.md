@@ -15,6 +15,22 @@ aus dem Gefängnis auf eurer Spawninsel befreien! Um sie zu dir zu rufen, kannst
 - In unregelmäßigen Abständen spawnen in der Mitte der Map neue Fackeln, die abgebaut und in die eigene Base gebracht werden können.
 - Zur besseren Übersichtlichkeit kannst du im Shop übrigens einstellen, ob nur mit deinen momentanen Items kaufbare Dinge angezeigt werden sollen!
 
+## Die Ränge in Mineception
+
+| Rang | Punkte | Name |
+| ------ | ------ | ------ |
+| 1 | 64 | Dimensionsstolperer |
+| 2 | 128 | Void-Freund |
+| 3 | 256 | Knasti |
+| 4 | 512 | Umdenker |
+| 5 | 1024 | Glasblockchiller |
+| 6 | 2048 | ??? |
+| 7 | 4096 | ??? |
+| 8 | 8129 | ??? |
+| 9 | 16348 | ??? |
+
+Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren werden namentlich nur die ersten Ränge genannt. 
+
 ## Spezielle Items
 - <strong>Glasblöcke</strong>: Glasblöcke sind die günstigsten Blöcke im Spiel. Sie eignen sich hervorragend dafür, sich schnell irgendwohin zu bauen, aber Achtung! 
 Du solltest neue Blöcke für den Rückweg dabei haben - Glasblöcke despawnen nämlich nach einigen Sekunden.
