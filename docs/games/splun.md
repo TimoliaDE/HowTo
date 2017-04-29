@@ -23,6 +23,23 @@ Splun ist eine Kombination aus <strong>Spl</strong>eef und Jump and R<strong>un<
 - <strong>Goldapfel</strong>: Du kannst fliegen
 - <strong>Ei</strong>: Wirf die Eier, um  Blöcke zu spawnen
 
+## Die Ränge in Splun
+
+| Rang | Punkte | Name |
+| ------ | ------ | ------ |
+| 1 | 64 | Noob |
+| 2 | 128 | Anfänger |
+| 3 | 256 | Hoppelhase |
+| 4 | 512 | Glückspilz |
+| 5 | 1024 | Grashüpfer |
+| 6 | 2048 | ??? |
+| 7 | 4096 | ??? |
+| 8 | 8129 | ??? |
+| 9 | 16348 | ??? |
+| 10 | 32768 | ??? |
+
+Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren werden namentlich nur die ersten Ränge genannt. 
+
 ## Premium-Features
 - <span style="color:#F99500">Pros</span> besitzen zwei, <span style="color:#00F9EC">Experts</span> drei Stimmen im Voting-System.
 - Werde mit `/togglerank` als normaler Spieler angezeigt
