@@ -2,9 +2,17 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 
 # 2017
 
+###<strong>Mai</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+|NikiPlays | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | 03.05.17 |
+|Invidia | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | 03.05.17 |
+
 ###<strong>April</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|Fabiewww | <span style="color:#00646F">Builder</span> | <span style="color:#00F9EC">Expert</span> | 29.04.17 |
+|ProExecution | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | 29.04.17
 |Haxxsmart | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | 09.04.17 |
 |PodgeT | <span style="color:#E4D100">Supporter City</span> | <span style="color:#00F9EC">Expert</span> | 06.04.17 |
 |kirschen | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | 02.04.17 |
