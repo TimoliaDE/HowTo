@@ -27,20 +27,21 @@ in seiner eigenen Burg.
 
 | Rang | Punkte | Name |
 | ------ | ------ | ------ |
-| 0 | 0 | Bettler |
 | 1 | 8 | Stalljunge |
 | 2 | 16 | Totengräber |
 | 3 | 32 | Nachtwächter |
 | 4 | 64 | Kämmerer |
 | 5 | 128 | Mundschenk |
-| 6 | 256 | Edelmann |
-| 7 | 512 | Hofnarr |
-| 8 | 1024 | Landmann |
-| 9 | 2048 | Heckenritter |
-| 10 | 4096 | Ritter |
+| 6 | 256 | ??? |
+| 7 | 512 | ??? |
+| 8 | 1024 | ??? |
+| 9 | 2048 | ??? |
+| 10 | 4096 | ??? |
 | 11 | 8192 | ??? |
+| 12 | 16384 | ??? |
+| 13 | 32768 | ??? |
 
-Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden.
+Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren werden namentlich nur die ersten Ränge genannt. 
 
 ## Premium-Features
 - <span style="color:#F99500">Pros</span> besitzen zwei, <span style="color:#00F9EC">Experts</span> drei Stimmen im Voting-System.

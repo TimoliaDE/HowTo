@@ -22,6 +22,24 @@ Runde und kann den Kampf für sich entscheiden.
 - <span style="color:#64FE2E">Emerald</span>: Gifttrank
 - <span style="color:#D8D8D8">Quartz</span>: Schneefeld (verlangsamt)
 
+## Die Ränge in BrainBow
+
+| Rang | Punkte | Name |
+| ------ | ------ | ------ |
+| 1 | 64 | Bob |
+| 2 | 128 | Keine Gefahr |
+| 3 | 256 | Glücksschuss |
+| 4 | 512 | Amateur |
+| 5 | 1024 | Nachwuchsschütze |
+| 6 | 2048 | ??? |
+| 7 | 4096 | ??? |
+| 8 | 8129 | ??? |
+| 9 | 16348 | ??? |
+| 10 | 32768 | ??? |
+| 11 | 65536 | ??? |
+
+Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren werden namentlich nur die ersten Ränge genannt. 
+
 ## Premium-Features
 - <span style="color:#F99500">Pros</span> besitzen zwei, <span style="color:#00F9EC">Experts</span> drei Stimmen im Voting-System.
 - <span style="color:#F99500">Pros</span>  und <span style="color:#00F9EC">Experts</span> erhalten die doppelte, bzw. die dreifache Punkteanzahl.
