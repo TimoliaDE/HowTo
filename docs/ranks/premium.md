@@ -56,3 +56,6 @@ Bitte gib jedoch immer deinen aktuellen Namen an, um Komplikationen zu vermeiden
 ###Kann ich meinen Rang übertragen?
 Nein, alle Ränge sind an den Account gebunden und können nicht übertragen werden. Sollte dir also bei einer Bestellung ein Fehler unterlaufen sein,
 melde diesen bitte so schnell wie möglich, andernfalls behält eventuell ein anderer Account deinen Rang.
+
+###Wird mein Rang zurückerstattet?
+Das Geld, welches für einen Rang bezahlt wurde, wird von uns in der Regel nicht rückerstattet.
