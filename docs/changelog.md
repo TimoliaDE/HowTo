@@ -13,6 +13,11 @@ Alle Veränderungen im Jahr 2017:
 ###<strong>April</strong>
 | Datum | Veränderung | Update-Art | Kurzbeschreibung | Erklärung | Verantwortliche(r) |
 | ------ | ------ | ------ | ------ | ------ | ------ |
+| 05.05.17 - 19.05. | Games | <strong><span style="color:#199F29">Added</span></strong> | Timolia Champ | Timolia Champ ist ein Wettbewerb, an dem jeder Timolianer teilnehmen kann. Alle regulär gespielten Spiele bringen Punkte - auch Champignons genannt. Im Verlauf der zwei Wochen solltest du so viele Champignons wie möglich sammlen, um Chancen auf einen der coolen Preise zu haben! Da in JumpWorld ein kompetetives Spiel sonst nicht möglich ist, findet der Parcour Part von Timolia Champ in drei speziell dafür gebauten Speedruns statt, die per NPC in der JumpWorld Lobbys erreicht werden können. Mehr Infos ingame unter /champ | Kenai, Tedget |
+
+###<strong>April</strong>
+| Datum | Veränderung | Update-Art | Kurzbeschreibung | Erklärung | Verantwortliche(r) |
+| ------ | ------ | ------ | ------ | ------ | ------ |
 | 29.04.17 | Games | <strong><span style="color:#199F29">Added</span></strong> | Pxlspace Eventserver | In Pxlspace gilt es, mit wohlplatzierten Blöcken Bilder zu erschaffen - und dank einer Wartezeit zwischen jedem gesetzten Block benötigt man hier vor allem eines, wenn man großes erreichen möchte: Teamwork. Mit /pxlspace ist der Server jederzeit und von überall zu erreichen. Ursprünglich als Website zu finden, ist die Timolia Version spontan während Tims Stream innerhalb von wenigen Stunden entwickelt und veröffentlicht worden. | Moehritz
 | 14.04.17 | Lobby | <strong><span style="color:#199F29">Added</span></strong> | Ostereiersuche in der Lobby | Der Osterhase hat in der Games Lobby 160 Ostereier versteckt, die von jedem Spieler gesammelt werden können. Als Belohnung für jedes gefundene Ei gibt es Pixel. Wenn ein Spieler alle Eier in der Lobby gefunden hat, dann bekommt er die Trophäe "Karottenrakete", mit der er sich in der Lobby umherschießen kann. | Fyniks |
 | 12.04.17 | Timolia | <span style="color:#00646F">Changed</span> | Oster-Sale | Über die Oster Feiertage gibt es nun 20% auf alle Produkte in unserem [Shop](https://www.timolia.de/shop). | Timolia Team
