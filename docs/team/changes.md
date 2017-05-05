@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>Mai</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|\_TakeItEaZy\_ | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | 04.05.17 |
 |NikiPlays | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | 03.05.17 |
 |Invidia | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | 03.05.17 |
 

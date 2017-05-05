@@ -127,10 +127,6 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind die ersten, an die sich Spieler wenden können.
 
-###<strong><span style="color:#E4D100">\_TakeItEaZy\_</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> TeamSpeak
-
 ###<strong><span style="color:#E4D100">blackINK_</span></strong>
 - <u>Rang (ingame):</u> Supporterin Games
 
@@ -228,8 +224,8 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Tedget</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Hauptverantwortlich:</u> Bugs und Spielfehler, Changelog, Internes Wiki (i.V.), Timolia Anleitung (i.V.)
-- <u>Nebenverantwortlich:</u> Teamspeak, YouTuber-Events
+- <u>Hauptverantwortlich:</u> Bugs und Spielfehler, Changelog, Internes Wiki (i.V.), Timolia Anleitung (i.V.), YouTuber-Events
+- <u>Nebenverantwortlich:</u> Teamspeak
 
 ###<strong><span style="color:#E4D100">TheBrownShape</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -407,15 +403,9 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ###<strong><span style="color:#00646F">engiwuck</span></strong>
 - <u>Rang (ingame):</u> Builder
 
-###<strong><span style="color:#00646F">Fabiewww</span></strong>
-- <u>Rang (ingame):</u> Builder
-
 ###<strong><span style="color:#00646F">GameZter</span></strong>
 - <u>Rang (ingame):</u> Builder
 - <u>Hauptverantwortlich:</u> Endprüfung der Games-Maps
-
-###<strong><span style="color:#00646F">Invidia</span></strong>
-- <u>Rang (ingame):</u> Builderin
 
 ### <strong><span style="color:#00646F">Jukplays</span></strong>
 - <u>Rang (ingame):</u> Builder
@@ -431,9 +421,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span style="color:#00646F">Memoryos</span></strong>
-- <u>Rang (ingame):</u> Builder
-
-###<strong><span style="color:#00646F">NikiPlays</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span style="color:#00646F">Skerai</span></strong>
