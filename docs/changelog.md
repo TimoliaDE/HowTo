@@ -10,10 +10,10 @@ Hier werden alle Änderungen rund um Timolia dargestellt.
 # 2017
 Alle Veränderungen im Jahr 2017:
 
-###<strong>April</strong>
+###<strong>Mai</strong>
 | Datum | Veränderung | Update-Art | Kurzbeschreibung | Erklärung | Verantwortliche(r) |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| 05.05.17 - 19.05. | Games | <strong><span style="color:#199F29">Added</span></strong> | Timolia Champ | Timolia Champ ist ein Wettbewerb, an dem jeder Timolianer teilnehmen kann. Alle regulär gespielten Spiele bringen Punkte - auch Champignons genannt. Im Verlauf der zwei Wochen solltest du so viele Champignons wie möglich sammlen, um Chancen auf einen der coolen Preise zu haben! Da in JumpWorld ein kompetetives Spiel sonst nicht möglich ist, findet der Parcour Part von Timolia Champ in drei speziell dafür gebauten Speedruns statt, die per NPC in der JumpWorld Lobbys erreicht werden können. Mehr Infos ingame unter /champ | Kenai, Tedget |
+| 05.05.17 - 19.05.17 | Games | <strong><span style="color:#199F29">Added</span></strong> | Timolia Champ | Timolia Champ ist ein Wettbewerb, an dem jeder Timolianer teilnehmen kann. Alle regulär gespielten Spiele bringen Punkte - auch Champignons genannt. Im Verlauf der zwei Wochen solltest du so viele Champignons wie möglich sammlen, um Chancen auf einen der coolen Preise zu haben! Da in JumpWorld ein kompetetives Spiel sonst nicht möglich ist, findet der Parcour Part von Timolia Champ in drei speziell dafür gebauten Speedruns statt, die per NPC in der JumpWorld Lobbys erreicht werden können. Mehr Infos ingame unter /champ | Kenai, Tedget |
 
 ###<strong>April</strong>
 | Datum | Veränderung | Update-Art | Kurzbeschreibung | Erklärung | Verantwortliche(r) |

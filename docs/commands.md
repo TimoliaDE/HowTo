@@ -85,7 +85,6 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/team add <Name>` | Lädt einen Spieler in dein Team ein |
 | `/team revoke <Name>` | Zieht eine Teameinladung zurück |
 | `/team kick <Name>` | Kickt einen Spieler aus deinem Team |
-| `/team setcolor` | Färbt euren Namen entsprechend der gewählten Farbe |
 | `/challenge <Spieler>`, `/c` | Fordert einen Spieler zu einem Duell heraus |
 | `/leave`, `/l` | Zieht eine Herausforderung zurück |
 | `/endmatch`  | Der Kampf wird nach einer Minute mit Entscheidung durch die Mitte beendet |
@@ -106,6 +105,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/create <Passwort>` | Erstellt ein Turnier (optional mit einem Passwort) |
 | `/modify` | bearbeitet die Turniereinstellungen |
 | `/start [Zeit]` | Startet dein Turnier |
+| `/team setcolor` | Färbt euren Namen entsprechend der gewählten Farbe |
 
 ### Arcade
 
