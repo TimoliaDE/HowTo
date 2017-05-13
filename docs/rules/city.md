@@ -69,5 +69,6 @@ Jeglicher Spielvorteil den man sich gegenüber anderen Spielern verschafft, wie 
 Sollten durch technische Fehler (Serverabstürze, etc.) Timolions, Items oder Grundstücke zurückgesetzt werden oder verloren gehen, sieht das übliche Verhalten des Teams vor, diese nicht zu erstatten.
 
 
+<strong>Das Team behält sich das Recht vor, bestimmtes Handeln (auch außerhalb des Minecraft- und Teamspeakservers) zu sanktionieren, welches nicht explizit in den Regeln aufgelistet ist.</strong>
 
-Das Team behält sich das Recht vor, bestimmtes Handeln (auch außerhalb des Minecraft- und Teamspeakservers) zu sanktionieren, welches nicht explizit in den Regeln aufgelistet ist.
+letzte Aktualisierung: Mai 2017
