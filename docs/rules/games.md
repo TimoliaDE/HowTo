@@ -18,13 +18,13 @@ Stattdessen ist es erwünscht diese Bugs dem Team über den Teamspeak, im Forum 
 ## §4 - Chat, Forum und Ingame Verhalten
 Das Timoliateam erwartet von jedem Spieler ein faires und respektvolles Verhalten. Sowohl ingame, als auch im Teamspeak.
 
-### Beleidigungen
+### Abs. 1 - Beleidigungen
 Sämtliche Beleidigungen sind verboten. Das Umgehen des Chatfilters durch Leerzeichen, Satzzeichen o.Ä. ist ebenfalls verboten.
 
 - <u>Rassismus</u>: Das Ausschließen, Beleidigen und Hetzen gegen andere Nationalitäten ist auf Timolia verboten und wird ohne Verwarnung gebannt.
 - <u>Nationalsozialismus</u>: Nationalsozialistische Äußerungen, Parolen und Ähnliches sind auf Timolia verboten und werden ohne Verwarnung gebannt.
 
-### Werbung und Phishing/Betrug
+### Abs. 2 - Werbung und Phishing/Betrug
 - <u>Eigenwerbung</u>: Eigenwerbung, in Form von Werbung für den eigenen YouTube-Kanal, TeamSpeak oder Ähnliches ist verboten. Werbung für den eigenen Livestream ist erlaubt, solange sie nicht gespammt wird. 
 Im 1v1 Kit ist Werbung für den eigenen YouTube-Kanal oder Twitteraccount erlaubt.
 - <u>Serverwerbung</u>: Serverwerbung ist verboten. Selbst das einmalige Senden einer Serveradresse kann und wird als Werbung empfunden und dementsprechend sanktioniert. 
@@ -35,7 +35,7 @@ Das Abschöpfen von Userdaten wie Passwörtern und E-Mails anderer User durch fa
 Dazu zählt auch der reine Versuch.
 - <u>Turnierwerbung im 1vs1</u>: Das Werben für ein Turnier durch jegliche Art von Gewinnen mit materiellem Wert ist verboten. Dazu zählt unter anderem das Versprechen von PaysafeCards oder Minecraft Accounts bei Turniergewinn.
 
-### Skins und Usernamen
+### Abs. 3 - Skins und Usernamen
 Anstößige, beleidigende, rassistische oder nationalsozialistische Skins und Usernamen sind verboten. Dazu zählen zum Beispiel Nacktskins, Hitlerskins und auch Capes mit entsprechenden Symbolen.
 
 ## §5 – Vortäuschen von Hacks & gefälschte Reports
@@ -75,7 +75,7 @@ Teaming über die Teamgrenzen hinaus (sog. Crossteaming) ist verboten. Auch das 
 (sog. Spleefen), Items klauen und das beabsichtige nicht Befreien aus dem Gefängnis oder anderen etwaigen Methoden, welche den üblichen Spielfluss hindern, 
 ist ebenfalls verboten und wird entsprechend sanktioniert.
 
-## §11 – Entbannung, Bannverkürzung und Bannumgehung
+## §13 – Entbannung, Bannverkürzung und Bannumgehung
 - <u>Permanente Banns</u>: Grundsätzlich sind alle Banns temporär. Sollte man aber eine Bannzeit von insgesamt 30 Tagen überschreiten, wird ein Spieler automatisch permanent gebannt.
 - <u>Entbannung</u>: Ist ein Spieler der Meinung, ein Bann sei nicht gerechtfertigt, so kann er jederzeit im Forum unter der Kategorie “Gebannt” oder im TeamSpeak den Beweis fordern. Wenn man permanent gebannt ist,
  kann man im Forum einen Antrag auf eine Entbannung stellen. Hierbei sollte man sich besonders viel Mühe geben, da es sehr schwer ist nach einem permanenten Bann wieder entbannt zu werden. 
@@ -84,7 +84,7 @@ ist ebenfalls verboten und wird entsprechend sanktioniert.
  so kannst du deine Entschuldigung einem Teammitglied im TeamSpeak schicken, welches diese dann ins Forum stellt.
 - <u>Bannumgehung</u>: Das Umgehen von Banns mit einem Zweitaccount ist auf Timolia verboten. Als “gebannt” wird sowohl der Account, als auch die Person, welche den Account nutzt, und die zu diesem Zeitpunkt verwendete Adresse angesehen.
 
-## §12 – Rückerstattung bei technischen Fehlern
+## §14 – Rückerstattung bei technischen Fehlern
 - Sollten durch technische Fehler (Serverabstürze, etc.) Pixel oder Punkte zurückgesetzt werden, sieht das übliche Verhalten des Teams vor, diese nicht zu erstatten. 
 - Solltest du Verstöße gegen die Regeln bemerken, so ist es erwünscht, diese immer mit Beweis im [Forum](http://forum.timolia.de), ingame einem Teammitglied oder auf dem TeamSpeak im Hilfechannel zu melden.
 
