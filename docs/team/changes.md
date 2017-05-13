@@ -12,6 +12,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>April</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|Evoferry | <span style="color:#2980b9">Administrator City</span> | <span style="color:#F99500">Native</span> | 30.04.17 |
 |Fabiewww | <span style="color:#00646F">Builder</span> | <span style="color:#00F9EC">Expert</span> | 29.04.17 |
 |ProExecution | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | 29.04.17
 |Haxxsmart | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | 09.04.17 |

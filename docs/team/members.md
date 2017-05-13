@@ -281,10 +281,6 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 - <u>Hauptverantwortlich:</u> Timolia-Plugins
 - <u>Nebenverantwortlich:</u> Root-Server
 
-###<strong>Evoferry</strong>
-- <u>Rang (ingame):</u> Administrator CityBuild
-- <u>Hauptverantwortlich:</u> CityBuild-Server, CityBuild-Supporter, TeamSpeak
-
 ###<strong>MCExpertDE</strong>
 - <u>Rang (ingame):</u> Administrator Games, CityBuild
 - <u>Hauptverantwortlich:</u> Games, Timolia-Plugins
