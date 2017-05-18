@@ -1,7 +1,7 @@
 Mit der TeamSpeak-Server-IP ts.timolia.de gelangst du zu unserem TeamSpeak-Server. 
 Dort gibt es nicht nur Hilfechannel zum schnellen Support, auch öffentliche Zonen und private Channel erwarten dich. 
 
-#1 - Verifizierung im TeamSpeak
+# 1 - Verifizierung im TeamSpeak
 - Wenn du dich das erste Mal auf den TeamSpeak Server verbindest, bist du standardmäßig ein normaler User.
 - Experts haben auf unserem TeamSpeak einen eigenen Rang, diese können von Teammitgliedern vergeben werden.
 - Euren Rang könnt ihr über den Hilfechannel anfordern.
@@ -33,7 +33,7 @@ Monat sein Icon besitzt, wenn der Channel bis dahin <strong>ausläuft</strong>. 
 - Ein Channel hat eine <strong>maximale Laufzeit von 6 Monaten</strong>
 - Jeder User darf maximal <strong>einen Channel</strong> besitzen
 - Der Channelname muss dem Namen des Channelbesitzers entsprechen
-- Es ist möglich, sich den Channel und die damit verbundenen Kosten mit Freunden zu teilen
+- Es ist möglich, sich den Channel und die damit verbundenen Kosten mit Freunden zu teilen. Jedoch ist zu beachten, dass es nur einen rechtmäßigen Besitzer geben kann. Dieser hat im Falle einer Uneinstimmigkeit zwischen den Besitzern, den alleinigen Anspruch auf den Channel.
 
 ## Channelgruppen
 
