@@ -162,6 +162,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/tickets` | Öffnet eine Übersicht über deine Tickets |
 | `! <Nachricht>` | Schreibe im Firmenchat |
 | `/trg` | Öffnet das Interface des Grundstücks |
+| `/skins` | Öffnet eine Übersicht deiner Kostüme |
 <span style="color:#F99500">Pro</span> und <span style="color:#00F9EC">Expert</span> only:
 | `/ptime <day/night/midnight/sunrise/noon/afternoon/sunset/reset>` | Zeit für sich selbst umstellen |
 | `/pweather <sun,rain>` | Wetter für sich selbst umstellen |
