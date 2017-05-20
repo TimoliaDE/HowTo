@@ -460,3 +460,6 @@ Creator sind für kreative Arbeiten, wie Texte, Bilder und Grafiken zuständig u
 
 ### <strong><span style="color:#007812">MyLadyJane</span></strong>
 - <u>Rang (ingame):</u> Creator
+
+### <strong><span style="color:#007812">Tollmolia</span></strong>
+- <u>Rang (ingame):</u> Creator
