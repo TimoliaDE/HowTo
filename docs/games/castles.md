@@ -13,16 +13,6 @@ in seiner eigenen Burg.
 - Sollte das Spiel lange andauern, weil ein Team sich verbarrikadiert hat, kann durch die Flaggenmacht, also das Besitzen des Großteiles der Flaggen über einen längeren Zeitraum - der Gewinner ermittelt werden. 
 - Das Spiel endet, sobald alle gegnerischen Spieler endgültig gestorben sind.
 
-## Punkteverteilung in Castles
-- <strong>INFO:</strong> Wenn man die Runde verlässt, bevor das Team ausgeschieden ist, bekommt man <strong>keine</strong> Punkte.
-- Die Kills werden am Ende verdoppelt (Kills * 2)
-- Die Flaggeneroberungen werden am Ende verachtfacht (Kills * 8)
-- Wenn man im Gewinnerteam ist, werden die Punkte am Ende verdoppelt (* 2)
-- Wenn man am meisten Kills hat, erhält man +15 Punkte
-- Wenn man am zweitmeisten Kills hat, erhält man +10 Punkte
-- Wenn man am drittmeisten Kills hat, erhält man +5 Punkte
-- Wenn man mehr als 60% des aufgesammelten Goldes in Strukturen investiert hat, erhält man +12 Punkte
-
 ## Die Ränge in Castles
 
 | Rang | Punkte | Name |
