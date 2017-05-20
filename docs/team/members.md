@@ -138,11 +138,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Timolia-Turnier Kits
 
-###<strong><span style="color:#E4D100">CubeFabi</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Hauptverantwortlich:</u> Fragen und Antworten Forum
-- <u>Nebenverantwortlich:</u> Entschuldigungen, Off-Topic Forum
-
 ###<strong><span style="color:#E4D100">DrProfVincent</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 

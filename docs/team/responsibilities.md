@@ -23,7 +23,7 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#E4D100">CubeFabi</span> | Hauptverantwortlich |
+| | |
 | | |
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">TheFeldi</span> | Nebenverantwortlich |
@@ -66,7 +66,6 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 |<span style="color:#E4D100">Tiem</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#E4D100">MaHacki</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">CubeFabi</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Flaxify</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
@@ -99,8 +98,6 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#E4D100">Juliaan</span> | Hauptverantwortlich |
-| | |
-|<span style="color:#E4D100">CubeFabi</span> | Nebenverantwortlich |
 
 ###<strong>Vorstellungen</strong>
 | Teamler | Verantwortungsgrad |
