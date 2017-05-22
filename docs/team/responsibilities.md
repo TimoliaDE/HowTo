@@ -203,11 +203,14 @@ Dieses Team sorgt für einen aktuellen Changelog im HowTo.
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
 
 ###<strong>Broadcasts</strong>
-Um auch ingame immer auf dem neusten Stand zu bleiben wird sich hier um Broadcast Mitteilungen gekümmert.
+Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadcast Mitteilungen gekümmert.
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#E4D100">\_TakeItEaZy\_</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">L0L0</span> | Hauptverantwortlich |
+| | |
+|<span style="color:#E4D100">Vadium</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
 
 ###<strong>Team-Leiter</strong>
 Im Timolia Team gibt es kleinere Teams, welche unter anderem durch diese Verantwortlichen organisiert werden.
