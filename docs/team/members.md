@@ -19,7 +19,7 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 
 ###<strong>Moehritz</strong>
 - <u>Rang (ingame):</u> Administrator Games, CityBuild
-- <u>Hauptverantwortlich:</u> Development , Timolia-Plugins
+- <u>Hauptverantwortlich:</u> Development, Timolia-Plugins
 
 ###<strong>Niklas</strong>
 - <u>Rang (ingame):</u> Administrator Games
@@ -35,39 +35,39 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">Caelis</span></strong>
 - <u>Rang (ingame):</u> Moderator Games, CityBuild
-- <u>Hauptverantwortlich:</u> Ansprechpartner f. Development, Developer Bewerbungen, Internes Wiki (i.V.), Technische Leitung des Bauteams, Changelog, YouTuber-Events
-- <u>Nebenverantwortlich:</u> Timolia-Plugins, TeamSpeak, Interne Webanwendung, Twitter
+- <u>Hauptverantwortlich:</u> Ansprechpartner f. Development, Changelog, Developer Bewerbungen, Internes Wiki (i.V.), Technische Leitung des Bauteams, YouTuber-Events
+- <u>Nebenverantwortlich:</u> Interne Webanwendung, TeamSpeak, Timolia-Plugins, Twitter
 
 ###<strong><span style="color:#CF0101">Ferdy</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Hauptverantwortlich:</u> Supporterauswahl, Organisation und Koordination neuer, inaktiver und alter Teamler
+- <u>Hauptverantwortlich:</u> Organisation und Koordination neuer, inaktiver und alter Teamler, Supporterauswahl
 
 ###<strong><span style="color:#CF0101">ItsSarahh</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
 - <u>Hauptverantwortlich:</u> Entschuldigungen, Supporterauswahl
-- <u>Nebenverantwortlich:</u> Feedback Forum, Twitter, Teamspeak, YouTuber-Ränge
+- <u>Nebenverantwortlich:</u> Feedback Forum, Teamspeak, Twitter, YouTuber-Ränge
 
 ###<strong><span style="color:#CF0101">KenaiHD</span></strong>
 - <u>Rang (ingame):</u> Moderator Games, CityBuild
-- <u>Hauptverantwortlich:</u> Feedback Forum, YouTube und Twitch, Facebook, Timolia YouTube Channel
-- <u>Nebenverantwortlich:</u> TeamSpeak, Timolia-Plugins, Reports im Forum
+- <u>Hauptverantwortlich:</u> Facebook, Feedback Forum, Timolia YouTube Channel, YouTube und Twitch
+- <u>Nebenverantwortlich:</u> Reports im Forum, TeamSpeak, Timolia-Plugins
 
 ###<strong><span style="color:#CF0101">L0L0</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Hauptverantwortlich:</u> Spieler melden Forum, Broadcasts
+- <u>Hauptverantwortlich:</u> Broadcasts, Spieler melden Forum
 - <u>Nebenverantwortlich:</u> Anti-Cheat, Jump-World Bilder, YouTuber-Ränge
 
 ###<strong><span style="color:#CF0101">Milam</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
-- <u>Hauptverantwortlich:</u> Gesamtes Forum (i.V.), Social-Media, Creator-Team Leitung, YouTuber-Events, Bauevent-Koordination
-- <u>Nebenverantwortlich:</u> Changelog, YouTuber-Ränge, Broadcasts
+- <u>Hauptverantwortlich:</u> Bauevent-Koordination, Creator-Team Leitung, Gesamtes Forum (i.V.), Social-Media, YouTuber-Events
+- <u>Nebenverantwortlich:</u> Broadcasts, Changelog, YouTuber-Ränge
 
 ###<strong><span style="color:#CF0101">Siimon</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
 
 ###<strong><span style="color:#CF0101">Thomasch</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Hauptverantwortlich:</u> Gesamtes Forum, Internes Wiki, Timolia Anleitung, YouTube und Twitch, Changelog, Creator-Team Leitung
+- <u>Hauptverantwortlich:</u> Changelog, Creator-Team Leitung, Gesamtes Forum, Internes Wiki, Timolia Anleitung, YouTube und Twitch
 - <u>Nebenverantwortlich:</u> TeamSpeak, Twitter, YouTuber-Ränge
 
 ## Developer
@@ -92,7 +92,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 ### <strong><span style="color:#007812">Jintzo</span></strong>
 - <u>Rang (ingame):</u> Developer Games
-- <u>Nebenverantwortlich:</u>  Webdevelopment
+- <u>Nebenverantwortlich:</u> Webdevelopment
 
 ### <strong><span style="color:#007812">LastR_Raziel</span></strong>
 - <u>Rang (ingame):</u> Developer Games
@@ -103,7 +103,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 ### <strong><span style="color:#007812">Mari_W</span></strong>
 - <u>Rang (ingame):</u> Developer Games
-- <u>Nebenverantwortlich:</u>  Backend
+- <u>Nebenverantwortlich:</u> Backend
 
 ### <strong><span style="color:#007812">MatzyDE</span></strong>
 - <u>Rang (ingame):</u> Developer Games
@@ -124,7 +124,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">BuffmonsterOne</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Hauptverantwortlich:</u> Timolia-Turnier Kits, Spieler melden Forum, Zu Unrecht gebannt Forum
+- <u>Hauptverantwortlich:</u> Spieler melden Forum, Timolia-Turnier Kits, Zu Unrecht gebannt Forum
 
 ###<strong><span style="color:#E4D100">Calavero</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -159,7 +159,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">Juliaan</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Feedback Forum, Off-Topic Forum, Vorstellungen Forum
-- <u>Nebenverantwortlich:</u> Entschuldigungen, Spieler melden Forum, Twitter, Changelog
+- <u>Nebenverantwortlich:</u> Changelog, Entschuldigungen, Spieler melden Forum, Twitter
 
 ### <strong><span style="color:#E4D100">Julian_999999999</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -174,14 +174,14 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Metrixx7</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Zu Unrecht gebannt Forum, Twitter, YouTuber-Ränge
+- <u>Nebenverantwortlich:</u> Twitter, YouTuber-Ränge, Zu Unrecht gebannt Forum
 
 ### <strong><span style="color:#E4D100">Morileh</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 
 ###<strong><span style="color:#E4D100">medicoo</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> YouTuber-Events, TeamSpeak, Entschuldigungen, Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Entschuldigungen, TeamSpeak, YouTuber-Events, Zu Unrecht gebannt Forum
 
 ### <strong><span style="color:#E4D100">Percyfan55</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
