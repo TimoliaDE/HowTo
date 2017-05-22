@@ -155,7 +155,6 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 |<span style="color:#CF0101">Thomasch</span> | YouTube HV, Twitter NV |
 |<span style="color:#CF0101">KenaiHD</span> | YouTube HV, Facebook HV |
 |<span style="color:#CF0101">Caelis</span> | Twitter NV, JumpWorld Bilder |
-|<span style="color:#CF0101">FabsiFTW</span> | Twitter NV |
 |<span style="color:#CF0101">ItsSarahh</span> | Twitter NV|
 |<span style="color:#CF0101">Caprea</span> | Twitter NV |
 |<span style="color:#CF0101">L0L0</span> | JumpWorld Bilder |
@@ -221,3 +220,26 @@ Im Timolia Team gibt es kleinere Teams, welche unter anderem durch diese Verantw
 |<span style="color:#CF0101">KenaiHD</span> | Management des YouTube-Teams |
 |<span style="color:#00646F">Vectrail</span> | Management des Bau-Teams |
 
+###<strong>YouTuber Events</strong>
+Events, welche von dem Timolia Team für YouTuber veranstaltet werden, werden von diesem Team organisiert.
+
+| Teamler | Zuständigkeit |
+| ------ | ------ |
+|<span style="color:#E4D100">Tedget</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">Milam</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">Caelis</span> | Hauptverantwortlich |
+| | |
+|<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Sinzilla</span> | Nebenverantwortlich |
+
+###<strong>YouTuber-Ränge</strong>
+Wenn sich ein YouTuber für einen Rang auf Timolia interessiert, werden die Anfragen von diesem Team bearbeitet.
+
+| Teamler | Zuständigkeit |
+| ------ | ------ |
+|<span style="color:#E4D100">Tedget</span> | Hauptverantwortlich |
+| | |
+|<span style="color:#CF0101">Milam</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">L0L0</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Metrixx7</span> | Nebenverantwortlich |
