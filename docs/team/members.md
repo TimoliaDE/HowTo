@@ -49,7 +49,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">KenaiHD</span></strong>
 - <u>Rang (ingame):</u> Moderator Games, CityBuild
-- <u>Hauptverantwortlich:</u> Facebook, Feedback Forum, Timolia YouTube Channel, YouTube und Twitch
+- <u>Hauptverantwortlich:</u> Facebook, Feedback Forum, YouTube und Twitch
 - <u>Nebenverantwortlich:</u> Reports im Forum, TeamSpeak, Timolia-Plugins
 
 ###<strong><span style="color:#CF0101">L0L0</span></strong>
@@ -334,7 +334,7 @@ Sie stehen für alle grundlegenden Fragen und Tickets zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">Caaro</span></strong>
 - <u>Rang (ingame):</u> Supporterin CityBuild
-- <u>Nebenverantwortlich:</u> CityBuild Forum, Fragen und Antworten Forum, Timolia YouTube Channel
+- <u>Nebenverantwortlich:</u> CityBuild Forum, Fragen und Antworten Forum
 
 ###<strong><span style="color:#E4D100">MCelements0815</span></strong>
 - <u>Rang (ingame):</u> Supporter CityBuild,
