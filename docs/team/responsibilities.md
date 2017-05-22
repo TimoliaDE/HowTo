@@ -209,6 +209,7 @@ Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadca
 | ------ | ------ |
 |<span style="color:#CF0101">L0L0</span> | Hauptverantwortlich |
 | | |
+|<span style="color:#CF0101">Milam</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Vadium</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
 

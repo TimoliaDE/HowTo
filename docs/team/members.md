@@ -45,7 +45,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ###<strong><span style="color:#CF0101">ItsSarahh</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
 - <u>Hauptverantwortlich:</u> Entschuldigungen, Supporterauswahl
-- <u>Nebenverantwortlich:</u> Feedback Forum, Twitter, Teamspeak, Timolia YouTube Channel
+- <u>Nebenverantwortlich:</u> Feedback Forum, Twitter, Teamspeak, Timolia YouTube Channel, YouTuber-Ränge
 
 ###<strong><span style="color:#CF0101">KenaiHD</span></strong>
 - <u>Rang (ingame):</u> Moderator Games, CityBuild
