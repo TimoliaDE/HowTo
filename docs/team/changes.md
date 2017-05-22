@@ -5,6 +5,9 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>Mai</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|FabsiFTW | <span style="color:#CF0101">Moderator Games</span> | <span style="color:#00F9EC">Expert</span> | 21.05.17 |
+|blackINK_ | <span style="color:#E4D100">Supporterin Games</span> | <span style="color:#F99500">Pro</span> | 21.05.17 |
+|CubeFabi | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | 20.05.17 |
 |Tollmolia | <span style="color:#00F9EC">Expert</span> | <span style="color:#007812">Creator</span> | 15.05.17 |
 |\_TakeItEaZy\_ | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | 04.05.17 |
 |NikiPlays | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | 03.05.17 |
