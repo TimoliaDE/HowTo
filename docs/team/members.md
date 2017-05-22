@@ -45,7 +45,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ###<strong><span style="color:#CF0101">ItsSarahh</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
 - <u>Hauptverantwortlich:</u> Entschuldigungen, Supporterauswahl
-- <u>Nebenverantwortlich:</u> Feedback Forum, Twitter, Teamspeak, Timolia YouTube Channel, YouTuber-Ränge
+- <u>Nebenverantwortlich:</u> Feedback Forum, Twitter, Teamspeak, YouTuber-Ränge
 
 ###<strong><span style="color:#CF0101">KenaiHD</span></strong>
 - <u>Rang (ingame):</u> Moderator Games, CityBuild
@@ -59,7 +59,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">Milam</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
-- <u>Hauptverantwortlich:</u> Gesamtes Forum (i.V.), Social-Media, Creator-Team Leitung, YouTuber-Events, Bauevent-Koordination, Timolia YouTube Channel
+- <u>Hauptverantwortlich:</u> Gesamtes Forum (i.V.), Social-Media, Creator-Team Leitung, YouTuber-Events, Bauevent-Koordination
 - <u>Nebenverantwortlich:</u> Changelog, YouTuber-Ränge, Broadcasts
 
 ###<strong><span style="color:#CF0101">Siimon</span></strong>
@@ -67,8 +67,8 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">Thomasch</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Hauptverantwortlich:</u> Gesamtes Forum, Internes Wiki, Timolia Anleitung, YouTube und Twitch, Changelog, Timolia YouTube Channel, Creator-Team Leitung
-- <u>Nebenverantwortlich:</u> TeamSpeak, Twitter
+- <u>Hauptverantwortlich:</u> Gesamtes Forum, Internes Wiki, Timolia Anleitung, YouTube und Twitch, Changelog, Creator-Team Leitung
+- <u>Nebenverantwortlich:</u> TeamSpeak, Twitter, YouTuber-Ränge
 
 ## Developer
 
@@ -159,7 +159,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">Juliaan</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Feedback Forum, Off-Topic Forum, Vorstellungen Forum
-- <u>Nebenverantwortlich:</u> Entschuldigungen, Spieler melden Forum, Twitter, Changelog, Timolia YouTube Channel
+- <u>Nebenverantwortlich:</u> Entschuldigungen, Spieler melden Forum, Twitter, Changelog
 
 ### <strong><span style="color:#E4D100">Julian_999999999</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -185,7 +185,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Percyfan55</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Timolia YouTube Channel
 
 ### <strong><span style="color:#E4D100">Pixtopiane</span></strong>
 - <u>Rang (ingame):</u> Supporterin Games
@@ -225,7 +224,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ###<strong><span style="color:#E4D100">Tiem</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Entschuldigungen, Anregungen und Vorschläge
-- <u>Nebenverantwortlich:</u> Map-Einsendungen, Timolia YouTube Channel
+- <u>Nebenverantwortlich:</u> Map-Einsendungen
 
 ### <strong><span style="color:#E4D100">TobCrafterDE</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -240,7 +239,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">trojesatar</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Changelog, Entschuldigungen, Timolia YouTube Channel
+- <u>Nebenverantwortlich:</u> Changelog, Entschuldigungen
 
 ### <strong><span style="color:#E4D100">xH3lix</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -250,7 +249,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">xMaudodo</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge, Feedback Forum, Timolia YouTube Channel
+- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge, Feedback Forum
 
 
 # 2 - CityBuild-Team
@@ -444,12 +443,10 @@ Creator sind für kreative Arbeiten, wie Texte, Bilder und Grafiken zuständig u
 ### <strong><span style="color:#007812">Kritzelkiste</span></strong>
 - <u>Rang (ingame):</u> Creator
 - <u>Hauptverantwortlich:</u> Zeichnungen und Entwürfe
-- <u>Nebenverantwortlich:</u> Timolia YouTube Channel
 
 ### <strong><span style="color:#007812">nek0chi</span></strong>
 - <u>Rang (ingame):</u> Creator
 - <u>Hauptverantwortlich:</u> Zeichnungen und Entwürfe
-- <u>Nebenverantwortlich:</u> Timolia YouTube Channel
 
 ### <strong><span style="color:#007812">MyLadyJane</span></strong>
 - <u>Rang (ingame):</u> Creator
@@ -457,4 +454,3 @@ Creator sind für kreative Arbeiten, wie Texte, Bilder und Grafiken zuständig u
 
 ### <strong><span style="color:#007812">Tollmolia</span></strong>
 - <u>Rang (ingame):</u> Creator
-- <u>Nebenverantwortlich:</u> Timolia YouTube Channel
