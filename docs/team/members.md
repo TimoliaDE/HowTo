@@ -67,7 +67,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">Thomasch</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Hauptverantwortlich:</u> Gesamtes Forum, Internes Wiki, Timolia Anleitung, YouTube und Twitch, Changelog, Timolia YouTube Channel
+- <u>Hauptverantwortlich:</u> Gesamtes Forum, Internes Wiki, Timolia Anleitung, YouTube und Twitch, Changelog, Timolia YouTube Channel, Creator-Team Leitung
 - <u>Nebenverantwortlich:</u> TeamSpeak, Twitter
 
 ## Developer
