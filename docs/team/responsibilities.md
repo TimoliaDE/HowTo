@@ -246,4 +246,5 @@ Wenn sich ein YouTuber für einen Rang auf Timolia interessiert, werden die Anfr
 |<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">L0L0</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">Milam</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">Thomasch</span> | Hauptverantwortlich |
 |<span style="color:#E4D100">Metrixx7</span> | Nebenverantwortlich |
