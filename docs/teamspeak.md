@@ -54,3 +54,16 @@ Monat sein Icon besitzt, wenn der Channel bis dahin <strong>ausläuft</strong>. 
 
 ### Channel-Knecht
 - Besitzt keine speziellen Rechte
+
+# 4 - myTeamspeak
+Es ist nur möglich eine Teamspeak-Identität mit einem Minecraft Account zu verbinden. Mit myTeamSpeak kann man diese Identität aber auf mehrere Geräte benutzen.
+
+## So kannst du es machen:
+- 1. Registriere dich auf [https://www.myteamspeak.com/register](https://www.myteamspeak.com/register)
+- 2. Bestätige die E-Mail.
+- 3. Melde dich im TeamSpeak an:
+    - a. Am Computer Extras -> Optionen -> myTeamSpeak.
+    - b. Android: klicke auf ![settings](img/settings.png) -> Konto
+    - c. IOS (Apple): klicke auf Menu -> Einstellungen -> Konto
+- 4. Melde dich mit deinen myTeamSpeak Daten an.
+- 5. Wiederhole Schritte 3 und 4 auf deinen anderen Geräten.
