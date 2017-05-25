@@ -67,5 +67,3 @@ Es ist nur möglich eine Teamspeak-Identität mit einem Minecraft Account zu ver
     - c. IOS (Apple): klicke auf Menu -> Einstellungen -> Konto
 - 4. Melde dich mit deinen myTeamSpeak Daten an.
 - 5. Wiederhole Schritte 3 und 4 auf deinen anderen Geräten.
-
-- 
