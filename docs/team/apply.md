@@ -37,4 +37,4 @@ kreativen Aufbau Timolias.
 
 ### Expert
 Expert ist der permanente Premium-Rang Timolias. Für diesen kann man sich nicht bewerben, als Dankeschön erhält jeder Spieler den Rang, 
-wenn dieser einen Betrag von 99,95 Euro an Timolia spendet. [Mehr dazu hier](/premium/)
+wenn dieser einen Betrag von 99,95 Euro an Timolia spendet. [Mehr dazu hier](/ranks/premium/)
