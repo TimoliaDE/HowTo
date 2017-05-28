@@ -219,7 +219,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">TheFeldi</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Fragen und Antworten Forum, Spielmodi Forum, Vorstellungen Forum
+- <u>Nebenverantwortlich:</u> Spielmodi Forum, Vorstellungen Forum
 
 ###<strong><span style="color:#E4D100">Tiem</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
