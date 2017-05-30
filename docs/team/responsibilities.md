@@ -23,10 +23,10 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
+|<span style="color:#E4D100">Julian_999999999</span> | Hauptverantwortlich |
 | | |
-| | |
-|<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">TheFeldi</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Caaro</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">trojesatar</span> | Nebenverantwortlich |
 
 ###<strong>Feedback</strong>
 | Teamler | Verantwortungsgrad |
@@ -246,5 +246,5 @@ Wenn sich ein YouTuber für einen Rang auf Timolia interessiert, werden die Anfr
 |<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">L0L0</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">Milam</span> | Nebenverantwortlich |
-|<span style="color:#CF0101">Thomasch</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">Thomasch</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Metrixx7</span> | Nebenverantwortlich |
