@@ -2,6 +2,12 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 
 # 2017
 
+###<strong>Juni</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+| MaHacki| <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | 04.06.17 |
+| DrugDuck | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | 04.06.17 |
+
 ###<strong>Mai</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |

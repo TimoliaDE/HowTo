@@ -133,9 +133,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ###<strong><span style="color:#E4D100">DrProfVincent</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 
-###<strong><span style="color:#E4D100">DrugDuck</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-
 ### <strong><span style="color:#E4D100">Elegeta</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Supporterauswahl
@@ -168,10 +165,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">Karpfen17</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-
-### <strong><span style="color:#E4D100">MaHacki</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Entschuldigungen
 
 ### <strong><span style="color:#E4D100">Metrixx7</span></strong>
 - <u>Rang (ingame):</u> Supporter Games

@@ -47,6 +47,10 @@ Welche Vorteile dir dieser Rang bietet, [erfährst du hier](/ranks/premium/).
 
 <b>Alles rund um Bewerbungen [ist hier zu finden](/team/apply/).</b> Solltest du Probleme mit deinem  Premium-Rang haben, findest du [hier Hilfe](/ranks/premium/).
 
+### Wer supportet mich, wenn ich fragen habe?
+Wenn du ingame oder im [Teamspeak](/teamspeak/) Fragen hast, steht dir unser großes [Supportteam](/team/members/#supporter) stets zur Verfügung. Wir freuen uns immer, wenn jemand auf uns zu kommt und können dir hoffentlich bei Problemen oder Anmerkungen weiterhelfen.
+Auf den Social Media Plattformen [Twitter](https://twitter.com/TimoliaTeam) und [Facebook](https://www.facebook.com/timoliamc) supportet rund um die Uhr das [Social Media Team](/team/responsibilities/#social-media).
+
 ### Wie funktioniert das Kick-System?
 Wir besitzen ein recht komplexes und einzigartiges Kicksystem, um sowohl Premium- als auch normalen Spielern ein tolles Spielerlebnis ohne ewige Wartezeiten zu ermöglichen. 
 Jeder Spieler erhält beim Joinen des Netzwerkes eine individuelle "Kick-Value", basierend auf dem Ingame-Rang. Normale User haben eine Kick-Value von 100, Pros haben eine KV von 300, 
