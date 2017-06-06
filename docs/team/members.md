@@ -156,7 +156,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">Juliaan</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Feedback Forum, Off-Topic Forum, Vorstellungen Forum
-- <u>Nebenverantwortlich:</u> Changelog, Entschuldigungen, Spieler melden Forum, Twitter
+- <u>Nebenverantwortlich:</u> Changelog, Entschuldigungen, Fragen und Antworten Forum, Spieler melden Forum, Twitter
 
 ### <strong><span style="color:#E4D100">Julian_999999999</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
