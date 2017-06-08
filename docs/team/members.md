@@ -65,6 +65,11 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ###<strong><span style="color:#CF0101">Siimon</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
 
+### <strong><span style="color:#CF0101">Tedget</span></strong>
+- <u>Rang (ingame):</u> Moderator Games
+- <u>Hauptverantwortlich:</u> Bugs und Spielfehler, Changelog, Internes Wiki (i.V.), Timolia Anleitung (i.V.), YouTuber-Events, YouTuber-Ränge
+- <u>Nebenverantwortlich:</u> Teamspeak
+
 ###<strong><span style="color:#CF0101">Thomasch</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
 - <u>Hauptverantwortlich:</u> Changelog, Creator-Team Leitung, Gesamtes Forum, Internes Wiki, Timolia Anleitung, YouTube und Twitch
@@ -156,7 +161,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">Juliaan</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Feedback Forum, Off-Topic Forum, Vorstellungen Forum
-- <u>Nebenverantwortlich:</u> Changelog, Entschuldigungen, Spieler melden Forum, Twitter
+- <u>Nebenverantwortlich:</u> Changelog, Entschuldigungen, Fragen und Antworten Forum, Spieler melden Forum, Twitter
 
 ### <strong><span style="color:#E4D100">Julian_999999999</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -189,9 +194,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">Schonas</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 
-###<strong><span style="color:#E4D100">Schmoritz</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-
 ###<strong><span style="color:#E4D100">Sinzilla</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> YouTuber-Events
@@ -202,11 +204,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">TaiToni</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Entschuldigungen
-
-### <strong><span style="color:#E4D100">Tedget</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Hauptverantwortlich:</u> Bugs und Spielfehler, Changelog, Internes Wiki (i.V.), Timolia Anleitung (i.V.), YouTuber-Events, YouTuber-Ränge
-- <u>Nebenverantwortlich:</u> Teamspeak
 
 ###<strong><span style="color:#E4D100">TheBrownShape</span></strong>
 - <u>Rang (ingame):</u> Supporter Games

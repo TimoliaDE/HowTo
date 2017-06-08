@@ -27,6 +27,7 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 | | |
 |<span style="color:#E4D100">Caaro</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">trojesatar</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
 
 ###<strong>Feedback</strong>
 | Teamler | Verantwortungsgrad |
@@ -55,7 +56,7 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 ###<strong>Bug melden</strong>
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#E4D100">Tedget</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
 | | |
 |Moderatoren und Developer| Nebenverantwortlich |
 
@@ -122,7 +123,7 @@ Bei jeglichen Fehlern in den Diensten von Timolia kümmert sich dieser Teamler d
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#E4D100">Tedget</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
 
 ###<strong>Supporterauswahl</strong>
 Wenn es wieder daran geht, neue Supporter in unsere Reihen zu holen, kümmern sich diese Verantwortlichen darum.
@@ -138,8 +139,8 @@ Diese Teamler kümmern sich um's Aktualisieren und Erstellen des HowTos Timolias
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
+|<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich i.V. |
 |<span style="color:#CF0101">Thomasch</span> | Hauptverantwortlich |
-|<span style="color:#E4D100">Tedget</span> | Hauptverantwortlich i.V. |
 | | |
 |<span style="color:#CF0101">JOlegna</span> | Nebenverantwortlich |
 
@@ -173,11 +174,11 @@ Der Teamspeak von Timolia ist unter ts.timolia.de zu erreichen. Er wird betreut 
 |<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">JOlegna</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">KenaiHD</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">Tedget</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">Thomasch</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Evageddon</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">MCelements0815</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Tedget</span> | Nebenverantwortlich |
 
 ###<strong>Timolia Turnier Organisation</strong>
 Die beiden Supporter entscheiden über Turniereinstellungen bei den Freitagsturnieren.
@@ -193,8 +194,8 @@ Dieses Team sorgt für einen aktuellen Changelog im HowTo.
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#CF0101">Caelis</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">Thomasch</span> | Hauptverantwortlich |
-|<span style="color:#E4D100">Tedget</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#CF0101">Milam</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
@@ -230,7 +231,7 @@ Events, welche von dem Timolia Team für YouTuber veranstaltet werden, werden vo
 | ------ | ------ |
 |<span style="color:#CF0101">Caelis</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">Milam</span> | Hauptverantwortlich |
-|<span style="color:#E4D100">Tedget</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Sinzilla</span> | Nebenverantwortlich |
@@ -240,7 +241,7 @@ Wenn sich ein YouTuber für einen Rang auf Timolia interessiert, werden die Anfr
 
 | Teamler | Zuständigkeit |
 | ------ | ------ |
-|<span style="color:#E4D100">Tedget</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">L0L0</span> | Nebenverantwortlich |

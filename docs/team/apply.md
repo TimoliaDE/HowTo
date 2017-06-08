@@ -15,8 +15,8 @@ oder einer ähnlichen Plattform gehostet sein. Wir achten vor allem auf sauberen
 Auch solltest Du auf die Einhaltung der Java-Konventionen achten.
 
 ### Supporter
-Anders als bei anderen Servernetzwerken gibt es auf Timolia <b>keine Bewerbungsphasen</b>. Das Team, wenn neue Mitglieder gesucht werden, 
-überprüft, welche Spieler besonders auf dem Netzwerk aktiv sind und positiv auffallen. Unter <i>positiv auffallen</i> verstehen wir eine 
+Anders als bei anderen Servernetzwerken gibt es auf Timolia <b>keine Bewerbungsphasen</b>. Sollten neue Teammitglieder gesucht werden, 
+überprüft das Team welche Spieler besonders aktiv auf dem Netzwerk sind und positiv auffallen. Unter <i>positiv auffallen</i> verstehen wir eine 
 gute Reportstatistik (Livereports sind besonders wichtig), keine gravierenden Verstöße gegen unser Regelwerk (beispielsweise zwei Banns 
 wegen des Benutzens eines Autoklickers) und Aktivität auf anderen Plattformen, wie im Forum und TeamSpeak (und ev. auf Twitter). 
 Zusätzlich führen wir Bewerbungsgespräche durch, bevor wir jemanden in unsere Reihen aufnehmen. Erst, wenn jemand alle Kriterien erfüllt hat 
