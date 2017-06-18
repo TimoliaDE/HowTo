@@ -9,7 +9,7 @@ Jegliche Modifikationen im und am Spiel sind auf Timolia verboten. Hierzu zähle
 Xray-Resourcepacks. Auch Macros und andere Modifikationen am Minecraft-Client, Maus und Tastatur, die das Spammen von Tasten/Befehlen und Chatnachrichten oder auch das Erhöhen der 
 Klickgeschwindigkeit ermöglichen sind verboten. Das beinhaltet auch programmierbare Tastaturen, Mäuse oder Hotkeys.
 Ausgenommen von dieser Regelung sind spielverschönernde Mods, wie [OptiFine](http://optifine.net/home.php) oder [Shader](https://www.google.de/#q=Minecraft+Shader),
-sowie die [5zig](http://5zig.eu/)- und [LabyMod](http://www.labymod.net/). Jede andere, hier nicht aufgeführte Mod ist verboten. Ebenfalls sind sämtliche Arten von Minimaps auf Timolia verboten.
+sowie die [5zig](http://5zig.net/)- und [LabyMod](http://www.labymod.net/). Jede andere, hier nicht aufgeführte Mod ist verboten. Ebenfalls sind sämtliche Arten von Minimaps auf Timolia verboten.
 
 ## §3 - Cheating/Bugusing
 Bugusing ist das bewusste Ausnutzen von Spielfehlern, welche im Spiel nicht vorgesehene Folgen haben und ist selbstverständlich verboten.
