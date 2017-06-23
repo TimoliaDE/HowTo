@@ -342,6 +342,9 @@ Sie stehen für alle grundlegenden Fragen und Tickets zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter CityBuild
 - <u>Nebenverantwortlich:</u> CityBuild Forum
 
+###<strong><span style="color:#E4D100">xTessia</span></strong>
+- <u>Rang (ingame):</u> Supporterin CityBuild
+
 # 3 - Global
 
 ## Builder
