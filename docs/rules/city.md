@@ -30,7 +30,12 @@ Erlaubt sind auf dem CityBuild nur Befehle, welche einem keine Vorteile im Spiel
 Nicht erlaubte sind Befehle sind z.B. `/craft`, `/enderchest`… und alle, welche einem einen direkten Vorteil, zb. im PvP geben. Auch das Spammen von Nachrichten und das damit in manchen Fällen auch mögliche AFK-Farmen 
 (§7.5) ist strengstens Verboten und wird mit einem Bann bestraft.
 
-## §5 – Griefing
+## §5 - AFK-Maschinen
+Auf dem CityBuild bekommst du für reine Onlinezeit Geld. Bist du über 5min AFK, so wirst du automatisch vom Server gekickt. 
+Versuchst du nun, diesen Kick mit bestimmten Mechanismen zu umgehen, so wird das zum so genannten “Geld farmen”. 
+Das ist auf dem CityBuild strengstens verboten und wird mit einem Ban bestraft.
+
+## §6 – Griefing
 Unter Griefing fällt das mutwillige und sinnlose Zerstören nicht eigener Gebäude, Straßen, Landschaften, Gebieten, oder Ähnlichem. Aufgrund der Protections ist dies nur eingeschränkt möglich. 
 Solltet ihr Baurechte auf eurem Grundstück an andere User verteilen, so tragt ihr die Verantwortung, sollten diese Rechte ausgenutzt werden.
 
@@ -40,35 +45,35 @@ entsprechenden User angemessen zu bestrafen. Diese Entscheidung liegt jedoch bei
 Zum Griefen zählt auch das Töten fremder Tiere ohne Erlaubnis oder das Zertrampeln von Feldern, sowie das Klauen von Items/Tieren von fremden Grundstücken. Unter Griefing fällt ebenfalls das unnötige Spawnen von Entities oder Tieren.
 Der Griefingparagraph gilt nicht für die Abbauwelt.
 
-## §6 – PVP/Töten von Mitspielern
+## §7 – PVP/Töten von Mitspielern
 Das mutwillige und/oder vorsätzliche Töten von Mitspielern außerhalb von PvP-Zonen ist verboten. Auch das Bauen von Fallen, welche zum Tod eines anderen Spielers führen können, ist nicht erlaubt.
 
-## §7 – Betrug von Spielern
+## §8 – Betrug von Spielern
 Das absichtliche Betrügen anderer Spieler oder des Serverteams ist verboten und wird mit einem Bann bestraft. Das beinhaltet irreführende Verkäufe von Items in deinem Shop, genauso wie das Abzocken anderer Spieler im Chat.
 
-## §8 – Handelschats
+## §9 – Handelschats
 Auf dem Citybuild gibt es einen Chat welcher zum Handeln benutzt wird. Diesen erreicht man mit `/ch join handel` oder man schreibt einfach ein $ vor seine Nachricht. Dieser Chat muss für Handel jeder Art genutzt werden. 
 Darunter zählt explizit das An- und Verkaufen von Items, aber auch Werbung für den eigenen Shop gehört in diesen Channel.
 Das absichtige Ignorieren des Handelschats kann Konsequenzen mit sich ziehen.
 
-## §9 – Redstoneclocks
+## §10 – Redstoneclocks
 Vollautomatische Farmen, die über eine Redstoneclock angesteuert werden und zu Laggs des Servers und Beeinträchtigung anderer Spieler führen sind verboten. Hierzu zählen auch Halbautomatische Farmen die über einen Hebel oder Knopf angesteuert werden.
 
-## §10 – Inaktivität
+## §11 – Inaktivität
 Solltest du den CityBuild für eine längere Zeit verlassen, so kann es passieren, dass deine Grundstücke vorläufig entladen werden. Dies tritt in der Weststadt nach frühestens 30 
 und in allen anderen Baugebiet nach frühestens 90 Tagen ein. Joinst du nach Ablauf dieser Frist wieder auf den Server, so kannst du dein Grundstück wiederherstellen. 
 Du musst auf das Grundstücks-Schild klicken, um dir dein Grundstück zurückzuholen. Dein Haus und deine Items sollten dann wieder für dich erreichbar sein.
 Bei sehr langer Inaktivität oder technischen Fehlern besteht kein Anspruch auf das Vorhandensein einer Schematic (=Backup) für deine Grundstücke.
 
-## §11 – Multiaccounting
+## §12 – Multiaccounting
 Multiaccounting, also das Nutzen mehrerer Accounts, die sich gleichzeitig auf dem Citybuild befinden, ist strengstens verboten. 
 Es ist allerdings möglich, mit unterschiedlichen Accounts zu spielen, die sich aber nicht zur gleichen Zeit auf dem Server befinden dürfen. 
 Jeglicher Spielvorteil den man sich gegenüber anderen Spielern verschafft, wie sich gegenseitig Geld überweisen ist verboten. 
 
-## §12 - Rückerstattung bei technischen Fehlern
+## §13 - Rückerstattung bei technischen Fehlern
 Sollten durch technische Fehler (Serverabstürze, etc.) Timolions, Items oder Grundstücke zurückgesetzt werden oder verloren gehen, sieht das übliche Verhalten des Teams vor, diese nicht zu erstatten.
 
 
 <strong>Das Team behält sich das Recht vor, bestimmtes Handeln (auch außerhalb des Minecraft- und Teamspeakservers) zu sanktionieren, welches nicht explizit in den Regeln aufgelistet ist.</strong>
 
-letzte Aktualisierung: Mai 2017
+letzte Aktualisierung: Juni 2017
