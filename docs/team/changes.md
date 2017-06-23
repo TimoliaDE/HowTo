@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>Juni</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| xTessia | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporterin City</span> | 18.06.17 |
 | Tedget | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#CF0101">Moderator Games</span> | 07.06.17
 | Schmoritz | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | 06.06.17 | 
 | MaHacki| <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | 04.06.17 |
