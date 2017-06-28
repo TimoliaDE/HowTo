@@ -114,6 +114,10 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ### <strong><span style="color:#007812">MatzyDE</span></strong>
 - <u>Rang (ingame):</u> Developer Games
 
+###<strong><span style="color:#007812">MCelements0815</span></strong>
+- <u>Rang (ingame):</u> Developer Games
+- <u>Nebenverantwortlich:</u> TeamSpeak
+
 ### <strong><span style="color:#007812">svdragster</span></strong>
 - <u>Rang (ingame):</u> Developer Games
 - <u>Hauptverantwortlich:</u> Anti-Cheat
@@ -154,10 +158,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">FlorianFida</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Anregungen und Vorschläge
-
-###<strong><span style="color:#E4D100">InkognitoVadium</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Timolia 1vs1 Kits
 
 ### <strong><span style="color:#E4D100">Juliaan</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -320,6 +320,10 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ###<strong><span style="color:#007812">KenaiHD</span></strong>
 - <u>Rang (ingame):</u> Developer CityBuild
 
+###<strong><span style="color:#007812">MCelements0815</span></strong>
+- <u>Rang (ingame):</u> Developer CityBuild
+- <u>Nebenverantwortlich:</u> TeamSpeak
+
 ## Supporter
 
 Sie stehen für alle grundlegenden Fragen und Tickets zur Verfügung und sind die ersten, an die ihr euch wenden könnt.
@@ -327,10 +331,6 @@ Sie stehen für alle grundlegenden Fragen und Tickets zur Verfügung und sind di
 ###<strong><span style="color:#E4D100">Caaro</span></strong>
 - <u>Rang (ingame):</u> Supporterin CityBuild
 - <u>Nebenverantwortlich:</u> CityBuild Forum, Fragen und Antworten Forum
-
-###<strong><span style="color:#E4D100">MCelements0815</span></strong>
-- <u>Rang (ingame):</u> Supporter CityBuild,
-- <u>Nebenverantwortlich:</u> TeamSpeak
 
 ###<strong><span style="color:#E4D100">uctdzfjkg</span></strong>
 - <u>Rang (ingame):</u> Supporterin CityBuild
@@ -356,9 +356,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ### <strong><span style="color:#00646F">\_Geizhals\_</span></strong>
 - <u>Rang (ingame):</u> Builder
 
-### <strong><span style="color:#00646F">Aerosize</span></strong>
-- <u>Rang (ingame):</u> Builder
-
 ### <strong><span style="color:#00646F">Apfelrosine</span></strong>
 - <u>Rang (ingame):</u> Builder
 - <u>Hauptverantwortlich:</u> Map-Einsendungen
@@ -366,7 +363,7 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ### <strong><span style="color:#00646F">BauEule</span></strong>
 - <u>Rang (ingame):</u> Builder
 
-### <strong><span style="color:#00646F">baumulu</span></strong>
+###<strong><span style="color:#00646F">Dankbarkeit</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ###<strong><span style="color:#00646F">Denge</span></strong>
@@ -381,17 +378,20 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ###<strong><span style="color:#00646F">engiwuck</span></strong>
 - <u>Rang (ingame):</u> Builder
 
+###<strong><span style="color:#00646F">eZZrael</span></strong>
+- <u>Rang (ingame):</u> Builder
+
 ###<strong><span style="color:#00646F">GameZter</span></strong>
 - <u>Rang (ingame):</u> Builder
 - <u>Hauptverantwortlich:</u> Endprüfung der Games-Maps
+
+###<strong><span style="color:#00646F">InfiniteFery</span></strong>
+- <u>Rang (ingame):</u> Builder
 
 ### <strong><span style="color:#00646F">Jukplays</span></strong>
 - <u>Rang (ingame):</u> Builder
 - <u>Hauptverantwortlich:</u> Twitter
 - <u>Nebenverantwortlich:</u> Bereitstellung von Bildern für das Creator Team
-
-### <strong><span style="color:#00646F">kirschen</span></strong>
-- <u>Rang (ingame):</u> Builder
 
 ###<strong><span style="color:#00646F">LaShadow</span></strong>
 - <u>Rang (ingame):</u> Builderin
@@ -403,6 +403,9 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span style="color:#00646F">Skerai</span></strong>
+- <u>Rang (ingame):</u> Builder
+
+### <strong><span style="color:#00646F">StrombergHD</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span style="color:#00646F">TetzelHD</span></strong>
