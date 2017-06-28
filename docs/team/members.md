@@ -35,7 +35,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">Caelis</span></strong>
 - <u>Rang (ingame):</u> Moderator Games, CityBuild
-- <u>Hauptverantwortlich:</u> Ansprechpartner f. Development, Changelog, Developer Bewerbungen, Internes Wiki (i.V.), Technische Leitung des Bauteams, YouTuber-Events
+- <u>Hauptverantwortlich:</u> Changelog, Internes Wiki (i.V.), Management des Development-Teams, Technische Leitung des Bauteams, YouTuber-Events
 - <u>Nebenverantwortlich:</u> Interne Webanwendung, TeamSpeak, Timolia-Plugins, Twitter
 
 ###<strong><span style="color:#CF0101">Ferdy</span></strong>
@@ -67,7 +67,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ### <strong><span style="color:#CF0101">Tedget</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Hauptverantwortlich:</u> Bugs und Spielfehler, Changelog, Internes Wiki (i.V.), Timolia Anleitung (i.V.), YouTuber-Events, YouTuber-Ränge
+- <u>Hauptverantwortlich:</u> Bugs und Spielfehler, Changelog, Internes Wiki (i.V.), Management des Development-Teams, Timolia Anleitung (i.V.), YouTuber-Events, YouTuber-Ränge
 - <u>Nebenverantwortlich:</u> Teamspeak
 
 ###<strong><span style="color:#CF0101">Thomasch</span></strong>

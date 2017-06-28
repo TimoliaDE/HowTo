@@ -219,6 +219,7 @@ Im Timolia Team gibt es kleinere Teams, welche unter anderem durch diese Verantw
 | Teamler | Zuständigkeit |
 | ------ | ------ |
 |<span style="color:#CF0101">Caelis</span> | Management des Development-Teams |
+|<span style="color:#CF0101">Tedget</span> | Management des Development-Teams |
 |<span style="color:#CF0101">KenaiHD</span> | Management des YouTube-Teams |
 |<span style="color:#CF0101">Milam</span> | Management des Creator-Teams und des YouTube-Teams |
 |<span style="color:#CF0101">Thomasch</span> | Management des Creator-Teams und des YouTube-Teams |
