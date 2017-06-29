@@ -83,7 +83,7 @@ Je weiter man sich vom Spawn entfernt, desto größer und verstreuter werden die
 - Grundstücke sind in verschiedenen Größen zu haben.
 - Baustil: rustikale Dorfhäuser um den Spawn und Bauernhöfe mit Feldern/Weiden
 - automatische Farmen unterirdisch bauen
-- pro User sind <strong>zwei</strong> Grundstücke erlaubt
+- pro User sind <strong>drei</strong> Grundstücke erlaubt
 - es sind insgesamt 75 Tiere und Entities pro GS erlaubt
 - die Häuser sollten nicht mehr als 40 Blöcke in die Höhe ragen.
 - angebunden an das Bahnnetz

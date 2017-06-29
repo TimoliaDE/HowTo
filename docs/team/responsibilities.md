@@ -25,6 +25,7 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 | ------ | ------ |
 |<span style="color:#E4D100">Julian_999999999</span> | Hauptverantwortlich |
 | | |
+|<span style="color:#007812">Bukkit_PVP</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Caaro</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">trojesatar</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
@@ -176,8 +177,8 @@ Der Teamspeak von Timolia ist unter ts.timolia.de zu erreichen. Er wird betreut 
 |<span style="color:#CF0101">KenaiHD</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">Tedget</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">Thomasch</span> | Nebenverantwortlich |
+|<span style="color:#007812">MCelements0815</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Evageddon</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">MCelements0815</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
 
 ###<strong>Timolia Turnier Organisation</strong>
@@ -211,7 +212,6 @@ Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadca
 | | |
 |<span style="color:#CF0101">Milam</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Vadium</span> | Nebenverantwortlich |
 
 ###<strong>Team-Leiter</strong>
 Im Timolia Team gibt es kleinere Teams, welche unter anderem durch diese Verantwortlichen organisiert werden.
@@ -219,6 +219,7 @@ Im Timolia Team gibt es kleinere Teams, welche unter anderem durch diese Verantw
 | Teamler | Zuständigkeit |
 | ------ | ------ |
 |<span style="color:#CF0101">Caelis</span> | Management des Development-Teams |
+|<span style="color:#CF0101">Tedget</span> | Management des Development-Teams |
 |<span style="color:#CF0101">KenaiHD</span> | Management des YouTube-Teams |
 |<span style="color:#CF0101">Milam</span> | Management des Creator-Teams und des YouTube-Teams |
 |<span style="color:#CF0101">Thomasch</span> | Management des Creator-Teams und des YouTube-Teams |

@@ -5,10 +5,17 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>Juni</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
-| Tedget | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#CF0101">Moderator Games</span> | 07.06.17
-| Schmoritz | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | 06.06.17 | 
-| MaHacki| <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | 04.06.17 |
-| DrugDuck | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | 04.06.17 |
+|Dankbarkeit | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 25.06.17 |
+|StrombergHD | <span style="color:#00F9EC">Expert</span> | <span style="color:#00646F">Builder</span> | 25.06.17 |
+|InfiniteFery | <span style="color:#00F9EC">Expert</span> | <span style="color:#00646F">Builder</span> | 25.06.17 |
+|eZZrael | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 25.06.17 |
+|MCelements0815 | <span style="color:#E4D100">Supporter City</span> | <span style="color:#007812">Developer</span> | 24.06.17 |
+|Vadium | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#848484">Spieler</span> | 23.06.17 | 
+|xTessia | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporterin City</span> | 18.06.17 |
+|Tedget | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#CF0101">Moderator Games</span> | 07.06.17 |
+|Schmoritz | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | 06.06.17 | 
+|MaHacki| <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | 04.06.17 |
+|DrugDuck | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | 04.06.17 |
 
 ###<strong>Mai</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
@@ -30,7 +37,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 |Haxxsmart | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | 09.04.17 |
 |PodgeT | <span style="color:#E4D100">Supporter City</span> | <span style="color:#00F9EC">Expert</span> | 06.04.17 |
 |kirschen | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | 02.04.17 |
-
+|baumulu | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | 02.04.17 |
 
 ###<strong>März</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
