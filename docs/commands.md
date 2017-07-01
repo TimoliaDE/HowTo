@@ -22,6 +22,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/register <EMail>` | Registriert dich für die Webseite |
 | `/togglerank`, `/tr` | Werde in BrainBow, 4rena, Splun, DNA, InTime u. TSpiele als normaler Spieler angezeigt |
 | `/lang <Sprache>` | Ändere deine Sprache |
+| `/bannotify` | Deaktiviere Nofitikationen zu deinen Banntagen |
 <span style="color:#4C0B5F">YouTuber</span> und <span style="color:#F99500">Pro+</span> only:
 | `/forcemap` | Erzwinge bei einem Spiel mit Voting-System eine bestimmte Map |
 | `/startgame [Sekunden]` | Starte ein Spiel |
