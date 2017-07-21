@@ -2,6 +2,15 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 
 # 2017
 
+###<strong>Juli</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+|ferdedelino | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 21.07.17 |
+|iskander | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 21.07.17 |
+|SpaceJumper | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 21.07.17 |
+|Aenzo | <span style="color:#848484">Spieler</span> | <span style="color:#E4D100">Supporter Games</span> | 21.07.17 |
+|Digimon | <span style="color:#E4D100">Supporter City</span> | <span style="color:#F99500">Pro</span> | 16.07.17 |
+
 ###<strong>Juni</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
@@ -9,7 +18,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 |StrombergHD | <span style="color:#00F9EC">Expert</span> | <span style="color:#00646F">Builder</span> | 25.06.17 |
 |InfiniteFery | <span style="color:#00F9EC">Expert</span> | <span style="color:#00646F">Builder</span> | 25.06.17 |
 |eZZrael | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 25.06.17 |
-|MCelements0815 | <span style="color:#E4D100">Supporter City</span> | <span style="color:#007812">Developer</span> | 24.06.17 |
+|MCelements | <span style="color:#E4D100">Supporter City</span> | <span style="color:#007812">Developer</span> | 24.06.17 |
 |Vadium | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#848484">Spieler</span> | 23.06.17 | 
 |xTessia | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporterin City</span> | 18.06.17 |
 |Tedget | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#CF0101">Moderator Games</span> | 07.06.17 |

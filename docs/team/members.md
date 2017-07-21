@@ -114,7 +114,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ### <strong><span style="color:#007812">MatzyDE</span></strong>
 - <u>Rang (ingame):</u> Developer Games
 
-###<strong><span style="color:#007812">MCelements0815</span></strong>
+###<strong><span style="color:#007812">MCelements</span></strong>
 - <u>Rang (ingame):</u> Developer Games
 - <u>Nebenverantwortlich:</u> TeamSpeak
 
@@ -320,7 +320,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ###<strong><span style="color:#007812">KenaiHD</span></strong>
 - <u>Rang (ingame):</u> Developer CityBuild
 
-###<strong><span style="color:#007812">MCelements0815</span></strong>
+###<strong><span style="color:#007812">MCelements</span></strong>
 - <u>Rang (ingame):</u> Developer CityBuild
 - <u>Nebenverantwortlich:</u> TeamSpeak
 
@@ -331,16 +331,6 @@ Sie stehen für alle grundlegenden Fragen und Tickets zur Verfügung und sind di
 ###<strong><span style="color:#E4D100">Caaro</span></strong>
 - <u>Rang (ingame):</u> Supporterin CityBuild
 - <u>Nebenverantwortlich:</u> CityBuild Forum, Fragen und Antworten Forum
-
-###<strong><span style="color:#E4D100">uctdzfjkg</span></strong>
-- <u>Rang (ingame):</u> Supporterin CityBuild
-
-###<strong><span style="color:#E4D100">Vincent11127</span></strong>
-- <u>Rang (ingame):</u> Supporter CityBuild
-
-###<strong><span style="color:#E4D100">Digimon</span></strong>
-- <u>Rang (ingame):</u> Supporter CityBuild
-- <u>Nebenverantwortlich:</u> CityBuild Forum
 
 ###<strong><span style="color:#E4D100">xTessia</span></strong>
 - <u>Rang (ingame):</u> Supporterin CityBuild
