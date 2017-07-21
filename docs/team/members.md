@@ -114,7 +114,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ### <strong><span style="color:#007812">MatzyDE</span></strong>
 - <u>Rang (ingame):</u> Developer Games
 
-###<strong><span style="color:#007812">MCelements0815</span></strong>
+###<strong><span style="color:#007812">MCelements</span></strong>
 - <u>Rang (ingame):</u> Developer Games
 - <u>Nebenverantwortlich:</u> TeamSpeak
 
@@ -320,7 +320,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ###<strong><span style="color:#007812">KenaiHD</span></strong>
 - <u>Rang (ingame):</u> Developer CityBuild
 
-###<strong><span style="color:#007812">MCelements0815</span></strong>
+###<strong><span style="color:#007812">MCelements</span></strong>
 - <u>Rang (ingame):</u> Developer CityBuild
 - <u>Nebenverantwortlich:</u> TeamSpeak
 
