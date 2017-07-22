@@ -92,8 +92,6 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#CF0101">JOlegna</span> | Hauptverantwortlich |
-| | |
-|<span style="color:#E4D100">Digimon</span> | Nebenverantwortlich |
 
 ###<strong>Off-Topic</strong>
 | Teamler | Verantwortungsgrad |
