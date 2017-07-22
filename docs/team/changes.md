@@ -9,7 +9,10 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 |iskander | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 21.07.17 |
 |SpaceJumper | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 21.07.17 |
 |Aenzo | <span style="color:#848484">Spieler</span> | <span style="color:#E4D100">Supporter Games</span> | 21.07.17 |
+|Karpfen17 | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | 17.07.17 |
 |Digimon | <span style="color:#E4D100">Supporter City</span> | <span style="color:#F99500">Pro</span> | 16.07.17 |
+|play4me_ | <span style="color:#848484">Spieler</span> | <span style="color:#007812">Developer</span> | 13.07.17 |
+|FlemmoTV | <span style="color:#00F9EC">Expert</span> | <span style="color:#007812">Creaotor</span> | 04.07.17 |
 
 ###<strong>Juni</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
