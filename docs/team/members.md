@@ -98,7 +98,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 ### <strong><span style="color:#007812">Jintzo</span></strong>
 - <u>Rang (ingame):</u> Developer Games
-- <u>Nebenverantwortlich:</u> Webdevelopment
+- <u>Nebenverantwortlich:</u> Web-Development
 
 ### <strong><span style="color:#007812">LastR_Raziel</span></strong>
 - <u>Rang (ingame):</u> Developer Games
@@ -117,6 +117,10 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ###<strong><span style="color:#007812">MCelements</span></strong>
 - <u>Rang (ingame):</u> Developer Games
 - <u>Nebenverantwortlich:</u> TeamSpeak
+
+###<strong><span style="color:#007812">play4me_</span></strong>
+- <u>Rang (ingame):</u> Developer Games
+- <u>Nebenverantwortlich:</u> Web-Development
 
 ### <strong><span style="color:#007812">svdragster</span></strong>
 - <u>Rang (ingame):</u> Developer Games
@@ -168,9 +172,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Fragen und Antworten Forum
 - <u>Nebenverantwortlich:</u> Spieler melden Forum
-
-###<strong><span style="color:#E4D100">Karpfen17</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
 
 ### <strong><span style="color:#E4D100">Metrixx7</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -427,6 +428,10 @@ Creator sind für kreative Arbeiten wie Texte, Bilder und Grafiken zuständig un
 - <u>Rang (ingame):</u> Creator
 - <u>Hauptverantwortlich:</u> Grafikdesign
 - <u>Nebenverantwortlich:</u> TeamSpeak
+
+###<strong><span style="color:#007812">FlemmoTV</span></strong>
+- <u>Rang (ingame):</u> Creator
+- <u>Nebenverantwortlich:</u> Youtube
 
 ### <strong><span style="color:#007812">Kritzelkiste</span></strong>
 - <u>Rang (ingame):</u> Creator
