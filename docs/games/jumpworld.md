@@ -33,7 +33,6 @@ Jump and Run des Tages gekürt, dies ist der bestbewertetste Parcour des vorheri
 | Befehl | Funktion |
 | ------ | -------- |
 | `/enter <ID>`, `/e` | Betrete einen bestimmtes Jump 'n Run |
-| `/editparcour`, `/edit [Slot]`| Editiert das Jump 'n Run auf einem bestimmten Slot |
 | `/saveparcour` | Speichert dein aktuelles Jump 'n Run |
 | `/leave`, `/l` | Verlässt das aktuelle Jump 'n Run |
 | `/setstart` | Setzt den Startpunkt deines Jump 'n Runs |
