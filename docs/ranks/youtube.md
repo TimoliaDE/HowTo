@@ -21,5 +21,5 @@ Diese sollten qualitativ hochwertig produziert sein und den Ansprüchen unseres 
 eine nicht unbedeutende Rolle spielen. Auch Livestreamer können einen Rang auf Timolia erhalten, in dem Fall wird je nach Livestream individuell entschieden.
 
 ## Wie beantrage ich einen Rang?
-Wenn du der Meinung bist, dass du alle Kriterien erfüllst und du einen Rang auf Timolia beantragen möchtest, wende dich per Twitter Direktnachricht an das [@TimoliaTeam](https://www.youtube.com/user/TimoliaTeam) oder per E-Mail an <strong>youtube@timolia.de</strong>. 
+Wenn du der Meinung bist, dass du alle Kriterien erfüllst und du einen Rang auf Timolia beantragen möchtest, wende dich per Twitter Direktnachricht an das [@TimoliaTeam](https://www.youtube.com/user/TimoliaTeam), per E-Mail an <strong>youtube@timolia.de</strong> oder verbinde dich auf unseren Teamspeak (ts.timolia.de) und melde dich im Hilfechannel.
 Wir werden uns deinen Kontent ansehen und entscheiden, ob für dich ein spezieller Rang infrage kommt.
