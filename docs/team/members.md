@@ -87,7 +87,6 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 ###<strong><span style="color:#007812">Bukkit_PVP</span></strong>
 - <u>Rang (ingame):</u> Developer Games
-- <u>Nebenverantwortlich:</u> Fragen und Antworten Forum
 
 ### <strong><span style="color:#007812">Flycofx</span></strong>
 - <u>Rang (ingame):</u> Developer Games
