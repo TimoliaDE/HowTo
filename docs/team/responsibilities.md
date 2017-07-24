@@ -43,7 +43,10 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 | ------ | ------ |
 |<span style="color:#00646F">Apfelrosine</span> | Hauptverantwortlich |
 | | |
+|<span style="color:#CF0101">KenaiHD</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Schonas</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Tiem</span> | Nebenverantwortlich |
+|<span style="color:#00646F">Vectrail</span> | Nebenverantwortlich |
 
 ###<strong>Spieler melden</strong>
 | Teamler | Verantwortungsgrad |
