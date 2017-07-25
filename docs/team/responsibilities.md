@@ -164,6 +164,7 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 |<span style="color:#CF0101">L0L0</span> | JumpWorld Bilder |
 |<span style="color:#CF0101">Thomasch</span> | YouTube HV, Twitter NV |
 |<span style="color:#007812">tr7zw</span> | Twitter NV |
+|<span style="color:#E4D100">Caaro</span> | Twitter NV |
 |<span style="color:#E4D100">Juliaan</span> | Twitter NV |
 |<span style="color:#E4D100">Metrixx7</span> | Twitter NV |
 |<span style="color:#00646F">JukPlays</span> | Twitter NV |
