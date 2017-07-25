@@ -281,6 +281,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ###<strong><span style="color:#CF0101">Caprea</span></strong>
 - <u>Rang (ingame):</u> Moderatorin CityBuild
 - <u>Hauptverantwortlich:</u> Flussufer, Summerfields, Sunset Valley, Aegypten, Twitter
+- <u>Nebenverantwortlich:</u> CityBuild Forum
 
 ###<strong><span style="color:#CF0101">JoJoYoshy</span></strong>
 - <u>Rang (ingame):</u> Moderatorin CityBuild
