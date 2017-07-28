@@ -143,6 +143,9 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Timolia-Turnier Kits
 
+###<strong><span style="color:#E4D100">DerBull</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+
 ###<strong><span style="color:#E4D100">DrProfVincent</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 
@@ -222,9 +225,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">TobCrafterDE</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Zu Unrecht gebannt Forum
-
-### <strong><span style="color:#E4D100">Tobifaction</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
 
 ### <strong><span style="color:#E4D100">Tnevel</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
