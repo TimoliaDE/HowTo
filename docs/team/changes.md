@@ -5,6 +5,8 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>Juli</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|Tobifaction | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | 27.07.17 |
+|DerBull | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 25.07.17 |
 |ferdedelino | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 21.07.17 |
 |iskander | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 21.07.17 |
 |SpaceJumper | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 21.07.17 |
