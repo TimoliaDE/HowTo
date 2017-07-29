@@ -146,9 +146,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ###<strong><span style="color:#E4D100">DerBull</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 
-###<strong><span style="color:#E4D100">DrProfVincent</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-
 ### <strong><span style="color:#E4D100">Elegeta</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Supporterauswahl
