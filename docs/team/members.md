@@ -49,8 +49,8 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">KenaiHD</span></strong>
 - <u>Rang (ingame):</u> Moderator Games, CityBuild
-- <u>Hauptverantwortlich:</u> Facebook, Feedback Forum, YouTube und Twitch
-- <u>Nebenverantwortlich:</u> Map-Einsendungen, Reports im Forum, TeamSpeak, Timolia-Plugins
+- <u>Hauptverantwortlich:</u> Facebook, YouTube und Twitch
+- <u>Nebenverantwortlich:</u> Reports im Forum, TeamSpeak, Timolia-Plugins
 
 ###<strong><span style="color:#CF0101">L0L0</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
