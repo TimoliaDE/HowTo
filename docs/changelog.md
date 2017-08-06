@@ -13,8 +13,8 @@ Alle Veränderungen im Jahr 2017:
 ###<strong>August</strong>
 | Datum | Veränderung | Update-Art | Kurzbeschreibung | Erklärung | Verantwortliche(r) |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| 05.08.17 | 1vs1 | <span style="color:#199F29">Added</span>/<span style="color:#00646F">Changed</span>| /near-Command, Mapauswahl | Mit /near <Kit> [Name] ist es möglich, den Ranglistenausschnitt eines kompetetiven Kits samt Platzierung, Punkten und den zwei sich direkt vor und nach dem Spieler befindlichen Plätzen zu sehen. Zudem lässt sich unter /settings bei der Mapauswahl nach vorgefertigten Kategorien auswählen (Emerald) , sowie die Maps nach bestimmten Merkmalen sortieren (Diamant) | MCExpertDE |
 | 06.08.17 | 4rena | <span style="color:#199F29">Added</span> | Spieler-Tracker und "Bereit"-Hinweis | Nach 15 Sekunden im Ausrüstungsraum erscheint Spielern, die den Knopf noch nicht gedrückt haben, eine Einblendung, dies zu tun, falls man sich fertig ausgerüstet hat. Zusätzlich bekommen verbleibende Spieler nach drei Minuten einen Kompass, der auf den sich am nächsten befindlichen Spieler zeigt. | Caelis |
+| 05.08.17 | 1vs1 | <span style="color:#199F29">Added</span>/<span style="color:#00646F">Changed</span>| /near-Command, Mapauswahl | Mit /near <Kit> [Name] ist es möglich, den Ranglistenausschnitt eines kompetetiven Kits samt Platzierung, Punkten und den zwei sich direkt vor und nach dem Spieler befindlichen Plätzen zu sehen. Zudem lässt sich unter /settings bei der Mapauswahl nach vorgefertigten Kategorien auswählen (Emerald) , sowie die Maps nach bestimmten Merkmalen sortieren (Diamant) | MCExpertDE |
 
 ###<strong>Juli</strong>
 | Datum | Veränderung | Update-Art | Kurzbeschreibung | Erklärung | Verantwortliche(r) |
