@@ -44,10 +44,12 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 |<span style="color:#00646F">Apfelrosine</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#CF0101">ItsSarahh</span> | Hauptverantwortlich |
-|<span style="color:#E4D100">Tiem</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">felliongi21</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">iskander</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Schonas</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Tiem</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">trojesatar</span> | Nebenverantwortlich |
+|<span style="color:#00646F">Vectrail</span> | Nebenverantwortlich |
 
 ###<strong>Spieler melden</strong>
 | Teamler | Verantwortungsgrad |
@@ -97,7 +99,8 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 | ------ | ------ |
 |<span style="color:#CF0101">JOlegna</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#E4D100">Digimon</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">Caprea</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Caaro</span> | Nebenverantwortlich |
 
 ###<strong>Off-Topic</strong>
 | Teamler | Verantwortungsgrad |
@@ -164,8 +167,10 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 |<span style="color:#CF0101">L0L0</span> | JumpWorld Bilder |
 |<span style="color:#CF0101">Thomasch</span> | YouTube HV, Twitter NV |
 |<span style="color:#007812">tr7zw</span> | Twitter NV |
+|<span style="color:#E4D100">Caaro</span> | YouTube HV, Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Twitter NV |
 |<span style="color:#E4D100">Metrixx7</span> | Twitter NV |
+|<span style="color:#E4D100">trojesatar</span> | YouTube HV |
 |<span style="color:#00646F">JukPlays</span> | Twitter NV |
 
 ###<strong>TeamSpeak</strong>

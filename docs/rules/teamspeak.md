@@ -11,7 +11,7 @@ Avatare, die rassistischen, sexistischen oder beleidigenden Kontent enthalten, s
 Das Nutzen von Stimmverzerrern und Soundboards ist untersagt!
 
 ## §5 - Identitäten und IP-Changer
-Das Benutzen mehrerer Identitäten, VPNs, Proxyserver und IP-Changern ist nicht gestattet.
+Das Benutzen von VPNs, Proxyservern, IP-Changern und mehreren Identitäten ist nicht gestattet.
 
 ## §6 - Verhalten im Teamspeak
 Belästigung (durch Nachrichten, Anstupsen, Spam oder Nachjoinen), ist verboten und wird sanktioniert. Darunter fällt Belästigung durch Beleidigung, Rassismus, Provokation, Drohungen, 
@@ -37,3 +37,5 @@ Bei einem Verstoß gegen das Regelwerk kann es zu Strafen auf dem Teamspeak-Serv
 In Extremfällen werden Regelverstöße auch auf anderen Plattformen Timolias sanktioniert. 
 
 Unwissenheit schützt nicht vor Strafe! Mit dem Betreten des Teamspeak-Servers akzeptierst du das Regelwerk.
+
+letzte Aktualisierung: 25. Juli 2017

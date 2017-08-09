@@ -49,7 +49,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">KenaiHD</span></strong>
 - <u>Rang (ingame):</u> Moderator Games, CityBuild
-- <u>Hauptverantwortlich:</u> Facebook, Feedback Forum, YouTube und Twitch
+- <u>Hauptverantwortlich:</u> Facebook, YouTube und Twitch
 - <u>Nebenverantwortlich:</u> Reports im Forum, TeamSpeak, Timolia-Plugins
 
 ###<strong><span style="color:#CF0101">L0L0</span></strong>
@@ -87,7 +87,6 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 ###<strong><span style="color:#007812">Bukkit_PVP</span></strong>
 - <u>Rang (ingame):</u> Developer Games
-- <u>Nebenverantwortlich:</u> Fragen und Antworten Forum
 
 ### <strong><span style="color:#007812">Flycofx</span></strong>
 - <u>Rang (ingame):</u> Developer Games
@@ -147,7 +146,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Timolia-Turnier Kits
 
-###<strong><span style="color:#E4D100">DrProfVincent</span></strong>
+###<strong><span style="color:#E4D100">DerBull</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 
 ### <strong><span style="color:#E4D100">Elegeta</span></strong>
@@ -206,6 +205,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Schonas</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
+- <u>Nebenverantwortlich:</u> Map-Einsendungen
 
 ###<strong><span style="color:#E4D100">Sinzilla</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -237,15 +237,13 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Zu Unrecht gebannt Forum
 
-### <strong><span style="color:#E4D100">Tobifaction</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-
 ### <strong><span style="color:#E4D100">Tnevel</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Changelog
 
 ### <strong><span style="color:#E4D100">trojesatar</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
+- <u>Hauptverantwortlich:</u> YouTube und Twitch
 - <u>Nebenverantwortlich:</u> Changelog, Entschuldigungen, Fragen und Antworten Forum, Map-Einsendungen
 
 ### <strong><span style="color:#E4D100">xH3lix</span></strong>
@@ -295,6 +293,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ###<strong><span style="color:#CF0101">Caprea</span></strong>
 - <u>Rang (ingame):</u> Moderatorin CityBuild
 - <u>Hauptverantwortlich:</u> Flussufer, Summerfields, Sunset Valley, Aegypten, Twitter
+- <u>Nebenverantwortlich:</u> CityBuild Forum
 
 ###<strong><span style="color:#CF0101">JoJoYoshy</span></strong>
 - <u>Rang (ingame):</u> Moderatorin CityBuild
@@ -345,8 +344,8 @@ Sie stehen für alle grundlegenden Fragen und Tickets zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">Caaro</span></strong>
 - <u>Rang (ingame):</u> Supporterin CityBuild
-- <u>Hauptverantwortlich:</u> Creator-Team Leitung
-- <u>Nebenverantwortlich:</u> CityBuild Forum, Fragen und Antworten Forum
+- <u>Hauptverantwortlich:</u> Creator-Team Leitung, YouTube und Twitch
+- <u>Nebenverantwortlich:</u> CityBuild Forum, Fragen und Antworten Forum, Social-Media
 
 ###<strong><span style="color:#E4D100">xTessia</span></strong>
 - <u>Rang (ingame):</u> Supporterin CityBuild
@@ -423,6 +422,7 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ###<strong><span style="color:#00646F">Vectrail</span></strong>
 - <u>Rang (ingame):</u> Builder
 - <u>Hauptverantwortlich:</u> Bauevent, Bautresor, City-Maps, Games-Maps, Management des Bauteams
+- <u>Nebenverantwortlich:</u> Map-Einsendungen
 
 ###<strong><span style="color:#00646F">Vemdex</span></strong>
 - <u>Rang (ingame):</u> Builder
