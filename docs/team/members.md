@@ -45,7 +45,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ###<strong><span style="color:#CF0101">ItsSarahh</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
 - <u>Hauptverantwortlich:</u> Entschuldigungen, Supporterauswahl
-- <u>Nebenverantwortlich:</u> Feedback Forum, Teamspeak, Twitter, YouTuber-Ränge
+- <u>Nebenverantwortlich:</u> Feedback Forum, Map-Einsendungen, Teamspeak, Twitter, YouTuber-Ränge
 
 ###<strong><span style="color:#CF0101">KenaiHD</span></strong>
 - <u>Rang (ingame):</u> Moderator Games, CityBuild
@@ -136,6 +136,9 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind die ersten, an die sich Spieler wenden können.
 
+### <strong><span style="color:#E4D100">Aenzo</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+
 ### <strong><span style="color:#E4D100">BuffmonsterOne</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Spieler melden Forum, Timolia-Turnier Kits, Zu Unrecht gebannt Forum
@@ -154,6 +157,10 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">felliongi21</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
+- <u>Nebenverantwortlich:</u> Map-Einsendungen
+
+### <strong><span style="color:#E4D100">ferdedelino</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
 
 ### <strong><span style="color:#E4D100">Flaxify</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -162,6 +169,10 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">FlorianFida</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Anregungen und Vorschläge
+
+### <strong><span style="color:#E4D100">iskander</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+- <u>Nebenverantwortlich:</u> Map-Einsendungen
 
 ### <strong><span style="color:#E4D100">Juliaan</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -200,6 +211,9 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> YouTuber-Events
 
+### <strong><span style="color:#E4D100">SpaceJumper</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+
 ### <strong><span style="color:#E4D100">Sry4BowAimbot</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 
@@ -232,7 +246,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">trojesatar</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Changelog, Entschuldigungen, Fragen und Antworten Forum
+- <u>Nebenverantwortlich:</u> Changelog, Entschuldigungen, Fragen und Antworten Forum, Map-Einsendungen
 
 ### <strong><span style="color:#E4D100">xH3lix</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -331,6 +345,7 @@ Sie stehen für alle grundlegenden Fragen und Tickets zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">Caaro</span></strong>
 - <u>Rang (ingame):</u> Supporterin CityBuild
+- <u>Hauptverantwortlich:</u> Creator-Team Leitung
 - <u>Nebenverantwortlich:</u> CityBuild Forum, Fragen und Antworten Forum
 
 ###<strong><span style="color:#E4D100">xTessia</span></strong>
