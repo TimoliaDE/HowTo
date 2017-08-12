@@ -13,7 +13,7 @@ Alle Veränderungen im Jahr 2017:
 ###<strong>August</strong>
 | Datum | Veränderung | Update-Art | Kurzbeschreibung | Erklärung | Verantwortliche(r) |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| 11.08.17 | 1vs1 | <span style="color:#00646F">Changed</span> | Veränderung des PotPvP-Serverkits | Aufgrund vermehrter Userwünsche wurde das kompetetive Kit PotPvP dahingehend verändert, dass Tränke mit negativen Effekten entfernt wurden. | BuffmonsterOne |
+| 11.08.17 | 1vs1 | <span style="color:#00646F">Changed</span> | Veränderung des PotPvP-Serverkits | Aufgrund vermehrter Userwünsche wurde das kompetitiv Kit PotPvP dahingehend verändert, dass Tränke mit negativen Effekten entfernt wurden. | BuffmonsterOne |
 | 10.08.17 | Regelwerk | <span style="color:#E4D100">Updated</span> | Verbot der MouseDelayFix Mod + Skinblinker | Das Verbot von der MouseDelayFix Mod und Skinblinkern wurde ins Regelwerk aufgenommen - beide waren bereits vorher verboten, wurden jedoch nicht explizit im [Regelwerk](https://howto.timolia.de/rules/games/) genannt. | TimoliaTeam | 
 | 08.08.17 | Global | <span style="color:#199F29">Added</span> | Mail-Benachrichtigung beim Joinen | Falls man noch ungelesene Mails hat, wird einem das beim Netzwerk-Connect angezeigt. | Caelis |
 | 06.08.17 | 4rena | <span style="color:#199F29">Added</span> | Spieler-Tracker und "Bereit"-Hinweis | Nach 15 Sekunden im Ausrüstungsraum erscheint Spielern, die den Knopf noch nicht gedrückt haben, eine Einblendung, dies zu tun, falls man sich fertig ausgerüstet hat. Zusätzlich bekommen verbleibende Spieler nach drei Minuten einen Kompass, der auf den sich am nächsten befindlichen Spieler zeigt. | Caelis |
