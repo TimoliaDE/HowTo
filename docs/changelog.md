@@ -13,6 +13,7 @@ Alle Veränderungen im Jahr 2017:
 ###<strong>August</strong>
 | Datum | Veränderung | Update-Art | Kurzbeschreibung | Erklärung | Verantwortliche(r) |
 | ------ | ------ | ------ | ------ | ------ | ------ |
+| 19.08.17 | Teamspeak | <span style="color:#00646F">Changed</span> | Teamspeak Verifizierung | Man kann sich nun auch Ingame über den Befehl /teamspeak (/ts) auf dem Teamspeak Server verifizieren und seine Identität verwalten. Die Verbindung von Minecraft Account und Teamspeak Identität läuft jetzt über die IP-Adresse. Dadurch ist gewährleistet, dass sich niemand anders als man selbst registrieren kann. | McElements |
 | 11.08.17 | 1vs1 | <span style="color:#00646F">Changed</span> | Veränderung des PotPvP-Serverkits | Aufgrund vermehrter Userwünsche wurde das kompetitiv Kit PotPvP dahingehend verändert, dass Tränke mit negativen Effekten entfernt wurden. | BuffmonsterOne |
 | 10.08.17 | Regelwerk | <span style="color:#E4D100">Updated</span> | Verbot der MouseDelayFix Mod + Skinblinker | Das Verbot von der MouseDelayFix Mod und Skinblinkern wurde ins Regelwerk aufgenommen - beide waren bereits vorher verboten, wurden jedoch nicht explizit im [Regelwerk](https://howto.timolia.de/rules/games/) genannt. | TimoliaTeam | 
 | 08.08.17 | Global | <span style="color:#199F29">Added</span> | Mail-Benachrichtigung beim Joinen | Falls man noch ungelesene Mails hat, wird einem das beim Netzwerk-Connect angezeigt. | Caelis |

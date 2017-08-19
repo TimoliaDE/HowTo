@@ -11,8 +11,8 @@ Vorausgesetzt werden ausführliche Kenntnisse über Java und die Spigot-API, Erf
 Grundkenntnisse der Sprache Englisch. Dein Bewerbungsschreiben sollte Deinen Ingamenamen, eine kurze Beschreibung Deiner Person, Darstellung 
 Deiner Fähigkeiten und Kompetenzen und eine Angabe zur Kontaktmöglichkeit beinhalten. 
 Außerdem bitten wir Dich, uns Zugriff auf von Dir programmierten Beispielcode zu geben. Optimalerweise sollte dieser auf Gitlab, Github 
-oder einer ähnlichen Plattform gehostet sein. Wir achten vor allem auf sauberen, gut kommentierten Code, der Deine Fähigkeiten widerspiegelt. 
-Auch solltest Du auf die Einhaltung der Java-Konventionen achten.
+oder einer ähnlichen Plattform gehostet sein, da wir Beispielcodes nicht als Datei akzeptieren.
+Wir achten vor allem auf sauberen, gut kommentierten Code, der Deine Fähigkeiten widerspiegelt. Auch solltest Du auf die Einhaltung der Java-Konventionen achten.
 
 ### Supporter
 Anders als bei anderen Servernetzwerken gibt es auf Timolia <b>keine Bewerbungsphasen</b>. Sollten neue Teammitglieder gesucht werden, 
