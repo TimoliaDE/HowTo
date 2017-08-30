@@ -250,7 +250,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 
 ### <strong><span style="color:#E4D100">xJu1ia</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
+- <u>Rang (ingame):</u> Supporterin Games
 
 ### <strong><span style="color:#E4D100">xMaudodo</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -391,7 +391,7 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Hauptverantwortlich:</u> Endprüfung der Games-Maps
 
 ###<strong><span style="color:#00646F">InfiniteFery</span></strong>
-- <u>Rang (ingame):</u> Builder
+- <u>Rang (ingame):</u> Builderin
 
 ### <strong><span style="color:#00646F">Jukplays</span></strong>
 - <u>Rang (ingame):</u> Builder
@@ -408,7 +408,7 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span style="color:#00646F">Skerai</span></strong>
-- <u>Rang (ingame):</u> Builder
+- <u>Rang (ingame):</u> Builderin
 
 ### <strong><span style="color:#00646F">StrombergHD</span></strong>
 - <u>Rang (ingame):</u> Builder
