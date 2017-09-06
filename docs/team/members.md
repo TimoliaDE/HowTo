@@ -36,7 +36,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ###<strong><span style="color:#CF0101">Caelis</span></strong>
 - <u>Rang (ingame):</u> Moderator Games, CityBuild
 - <u>Hauptverantwortlich:</u> Changelog, Internes Wiki (i.V.), Management des Development-Teams, Technische Leitung des Bauteams, YouTuber-Events
-- <u>Nebenverantwortlich:</u> Interne Webanwendung, TeamSpeak, Timolia-Plugins, Twitter
+- <u>Nebenverantwortlich:</u> Interne Webanwendung, Timolia-Plugins, Twitter
 
 ###<strong><span style="color:#CF0101">Ferdy</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
@@ -181,7 +181,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">Julian_999999999</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Fragen und Antworten Forum
-- <u>Nebenverantwortlich:</u> Spieler melden Forum
+- <u>Nebenverantwortlich:</u> Spieler melden Forum, Teamspeak
 
 ### <strong><span style="color:#E4D100">Metrixx7</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -196,6 +196,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Percyfan55</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
+- <u>Nebenverantwortlich:</u> TeamSpeak
 
 ### <strong><span style="color:#E4D100">Pixtopiane</span></strong>
 - <u>Rang (ingame):</u> Supporterin Games
@@ -244,7 +245,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">trojesatar</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> YouTube und Twitch
-- <u>Nebenverantwortlich:</u> Changelog, Entschuldigungen, Fragen und Antworten Forum, Map-Einsendungen
+- <u>Nebenverantwortlich:</u> Changelog, Entschuldigungen, Fragen und Antworten Forum, Map-Einsendungen, Teamspeak
 
 ### <strong><span style="color:#E4D100">xH3lix</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -349,6 +350,7 @@ Sie stehen für alle grundlegenden Fragen und Tickets zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">xTessia</span></strong>
 - <u>Rang (ingame):</u> Supporterin CityBuild
+- <u>Neberverantwortlich:</u> Teamspeak
 
 # 3 - Global
 
@@ -442,7 +444,6 @@ Creator sind für kreative Arbeiten wie Texte, Bilder und Grafiken zuständig un
 ###<strong><span style="color:#007812">Evageddon</span></strong>
 - <u>Rang (ingame):</u> Creator
 - <u>Hauptverantwortlich:</u> Grafikdesign
-- <u>Nebenverantwortlich:</u> TeamSpeak
 
 ###<strong><span style="color:#007812">FlemmoTV</span></strong>
 - <u>Rang (ingame):</u> Creator

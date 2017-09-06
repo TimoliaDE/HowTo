@@ -178,7 +178,6 @@ Der Teamspeak von Timolia ist unter ts.timolia.de zu erreichen. Er wird betreut 
 | ------ | ------ |
 |<span style="color:#2980b9">Evoferry</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#CF0101">Caelis</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">JOlegna</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">KenaiHD</span> | Nebenverantwortlich |
@@ -186,8 +185,11 @@ Der Teamspeak von Timolia ist unter ts.timolia.de zu erreichen. Er wird betreut 
 |<span style="color:#CF0101">Thomasch</span> | Nebenverantwortlich |
 |<span style="color:#007812">MCelements</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Caaro</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Evageddon</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Percyfan55</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">trojesatar</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
 
 ###<strong>Timolia Turnier Organisation</strong>
 Die beiden Supporter entscheiden über Turniereinstellungen bei den Freitagsturnieren.
