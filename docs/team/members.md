@@ -68,7 +68,6 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ### <strong><span style="color:#CF0101">Tedget</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
 - <u>Hauptverantwortlich:</u> Bugs und Spielfehler, Changelog, Internes Wiki (i.V.), Management des Development-Teams, Timolia Anleitung (i.V.), YouTuber-Events, YouTuber-Ränge
-- <u>Nebenverantwortlich:</u> Teamspeak
 
 ###<strong><span style="color:#CF0101">Thomasch</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
@@ -397,7 +396,7 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 ### <strong><span style="color:#00646F">Jukplays</span></strong>
 - <u>Rang (ingame):</u> Builder
-- <u>Hauptverantwortlich:</u> Twitter
+- <u>Hauptverantwortlich:</u> Bauteam-Twitter
 - <u>Nebenverantwortlich:</u> Bereitstellung von Bildern für das Creator Team
 
 ###<strong><span style="color:#00646F">LaShadow</span></strong>
@@ -424,7 +423,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ###<strong><span style="color:#00646F">Vectrail</span></strong>
 - <u>Rang (ingame):</u> Builder
 - <u>Hauptverantwortlich:</u> Bauevent, Bautresor, City-Maps, Games-Maps, Management des Bauteams
-- <u>Nebenverantwortlich:</u> Map-Einsendungen
 
 ###<strong><span style="color:#00646F">Vemdex</span></strong>
 - <u>Rang (ingame):</u> Builder
