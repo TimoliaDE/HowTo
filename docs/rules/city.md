@@ -70,10 +70,14 @@ Multiaccounting, also das Nutzen mehrerer Accounts, die sich gleichzeitig auf de
 Es ist allerdings möglich, mit unterschiedlichen Accounts zu spielen, die sich aber nicht zur gleichen Zeit auf dem Server befinden dürfen. 
 Jeglicher Spielvorteil den man sich gegenüber anderen Spielern verschafft, wie sich gegenseitig Geld überweisen ist verboten. 
 
-## §13 - Rückerstattung bei technischen Fehlern
+## §13 - Wither
+In der Shopwelt ist es nicht gestattet Wither zu spawnen. Des Weiteren gilt ein generelles Verbot Wither umzubenennen. 
+Bei Nichteinhaltung der Regelung wird der Wither ohne Rückerstattung entfernt.
+
+## §14 - Rückerstattung bei technischen Fehlern
 Sollten durch technische Fehler (Serverabstürze, etc.) Timolions, Items oder Grundstücke zurückgesetzt werden oder verloren gehen, sieht das übliche Verhalten des Teams vor, diese nicht zu erstatten.
 
 
 <strong>Das Team behält sich das Recht vor, bestimmtes Handeln (auch außerhalb des Minecraft- und Teamspeakservers) zu sanktionieren, welches nicht explizit in den Regeln aufgelistet ist.</strong>
 
-letzte Aktualisierung: Juni 2017
+letzte Aktualisierung: September 2017
