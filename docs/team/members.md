@@ -59,7 +59,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ### <strong><span style="color:#CF0101">Metrixx7</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Hauptverantwortlich:</u> YouTuber-Ränge
+- <u>Hauptverantwortlich:</u> Organisation und Koordination neuer, inaktiver und alter Teamler, YouTuber-Ränge
 - <u>Nebenverantwortlich:</u> Twitter, Zu Unrecht gebannt Forum
 
 ###<strong><span style="color:#CF0101">Milam</span></strong>
