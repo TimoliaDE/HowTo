@@ -2,6 +2,15 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 
 # 2017
 
+###<strong>September</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+|Thomasch | <span style="color:#CF0101">Moderator Games</span> | <span style="color:#00F9EC">Expert</span> | 11.09.17 |
+|Manta | <span style="color:#00646F">Builder</span> | <span style="color:#00F9EC">Expert</span> | 11.09.17 |
+|Denge | <span style="color:#00646F">Builder</span> | <span style="color:#00F9EC">Expert</span> | 11.09.17 |
+|StrombergHD | <span style="color:#00646F">Builder</span> | <span style="color:#00F9EC">Expert</span> | 11.09.17 |
+|Metrixx7 | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#CF0101">Moderator Games</span> | 10.09.17 |
+
 ###<strong>Juli</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |

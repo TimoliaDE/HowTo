@@ -35,7 +35,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">Caelis</span></strong>
 - <u>Rang (ingame):</u> Moderator Games, CityBuild
-- <u>Hauptverantwortlich:</u> Changelog, Internes Wiki (i.V.), Management des Development-Teams, Technische Leitung des Bauteams, YouTuber-Events
+- <u>Hauptverantwortlich:</u> Changelog, Internes Wiki, Management des Development-Teams, Technische Leitung des Bauteams, YouTuber-Events
 - <u>Nebenverantwortlich:</u> Interne Webanwendung, Timolia-Plugins, Twitter
 
 ###<strong><span style="color:#CF0101">Ferdy</span></strong>
@@ -57,9 +57,14 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 - <u>Hauptverantwortlich:</u> Broadcasts, Spieler melden Forum
 - <u>Nebenverantwortlich:</u> Anti-Cheat, Jump-World Bilder, YouTuber-Ränge
 
+### <strong><span style="color:#CF0101">Metrixx7</span></strong>
+- <u>Rang (ingame):</u> Moderator Games
+- <u>Hauptverantwortlich:</u> YouTuber-Ränge
+- <u>Nebenverantwortlich:</u> Twitter, Zu Unrecht gebannt Forum
+
 ###<strong><span style="color:#CF0101">Milam</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
-- <u>Hauptverantwortlich:</u> Bauevent-Koordination, Creator-Team Leitung, Gesamtes Forum (i.V.), Social-Media, YouTuber-Events
+- <u>Hauptverantwortlich:</u> Bauevent-Koordination, Management des Creator-Teams, Gesamtes Forum, Social-Media, YouTuber-Events
 - <u>Nebenverantwortlich:</u> Broadcasts, Changelog, YouTuber-Ränge
 
 ###<strong><span style="color:#CF0101">Siimon</span></strong>
@@ -67,12 +72,8 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ### <strong><span style="color:#CF0101">Tedget</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Hauptverantwortlich:</u> Bugs und Spielfehler, Changelog, Internes Wiki (i.V.), Management des Development-Teams, Timolia Anleitung (i.V.), YouTuber-Events, YouTuber-Ränge
+- <u>Hauptverantwortlich:</u> Bugs und Spielfehler, Changelog, Internes Wiki, Management des Development-Teams, Timolia Anleitung, YouTuber-Events, YouTuber-Ränge
 
-###<strong><span style="color:#CF0101">Thomasch</span></strong>
-- <u>Rang (ingame):</u> Moderator Games
-- <u>Hauptverantwortlich:</u> Changelog, Creator-Team Leitung, Gesamtes Forum, Internes Wiki, Timolia Anleitung, YouTube und Twitch
-- <u>Nebenverantwortlich:</u> TeamSpeak, Twitter, YouTuber-Ränge
 
 ## Developer
 
@@ -181,10 +182,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Fragen und Antworten Forum
 - <u>Nebenverantwortlich:</u> Spieler melden Forum, Teamspeak
-
-### <strong><span style="color:#E4D100">Metrixx7</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Twitter, YouTuber-Ränge, Zu Unrecht gebannt Forum
 
 ### <strong><span style="color:#E4D100">Morileh</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -372,9 +369,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ###<strong><span style="color:#00646F">Dankbarkeit</span></strong>
 - <u>Rang (ingame):</u> Builder
 
-###<strong><span style="color:#00646F">Denge</span></strong>
-- <u>Rang (ingame):</u> Builder
-
 ### <strong><span style="color:#00646F">Eddyyyyyyy</span></strong>
 - <u>Rang (ingame):</u> Builder
 
@@ -402,17 +396,11 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ###<strong><span style="color:#00646F">LaShadow</span></strong>
 - <u>Rang (ingame):</u> Builderin
 
-###<strong><span style="color:#00646F">Manta</span></strong>
-- <u>Rang (ingame):</u> Builder
-
 ### <strong><span style="color:#00646F">Memoryos</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span style="color:#00646F">Skerai</span></strong>
 - <u>Rang (ingame):</u> Builderin
-
-### <strong><span style="color:#00646F">StrombergHD</span></strong>
-- <u>Rang (ingame):</u> Builder
 
 ### <strong><span style="color:#00646F">TetzelHD</span></strong>
 - <u>Rang (ingame):</u> Builder

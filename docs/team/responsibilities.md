@@ -7,8 +7,7 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#CF0101">Milam</span> | Hauptverantwortlich i.V. |
-|<span style="color:#CF0101">Thomasch</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">Milam</span> | Hauptverantwortlich |
 
 ###<strong>Anregungen und Vorschläge</strong>
 
@@ -82,9 +81,9 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 | ------ | ------ |
 |<span style="color:#E4D100">BuffmonsterOne</span> | Hauptverantwortlich |
 | | |
+|<span style="color:#CF0101">Metrixx7</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Elegeta</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Metrixx7</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">TobCrafterDE</span> | Nebenverantwortlich |
 
 ###<strong>Spielmodi</strong>
@@ -145,8 +144,7 @@ Diese Teamler kümmern sich um's Aktualisieren und Erstellen des HowTos Timolias
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich i.V. |
-|<span style="color:#CF0101">Thomasch</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#CF0101">JOlegna</span> | Nebenverantwortlich |
 
@@ -163,11 +161,10 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 |<span style="color:#CF0101">ItsSarahh</span> | Twitter NV|
 |<span style="color:#CF0101">KenaiHD</span> | YouTube HV, Facebook HV |
 |<span style="color:#CF0101">L0L0</span> | JumpWorld Bilder |
-|<span style="color:#CF0101">Thomasch</span> | YouTube HV, Twitter NV |
+|<span style="color:#CF0101">Metrixx7</span> | Twitter NV |
 |<span style="color:#007812">tr7zw</span> | Twitter NV |
 |<span style="color:#E4D100">Caaro</span> | Nebenverantwortlich, YouTube HV |
 |<span style="color:#E4D100">Juliaan</span> | Twitter NV |
-|<span style="color:#E4D100">Metrixx7</span> | Twitter NV |
 |<span style="color:#E4D100">trojesatar</span> | YouTube HV |
 |<span style="color:#00646F">JukPlays</span> | Bauteam-Twitter HV |
 
@@ -181,7 +178,6 @@ Der Teamspeak von Timolia ist unter ts.timolia.de zu erreichen. Er wird betreut 
 |<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">JOlegna</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">KenaiHD</span> | Nebenverantwortlich |
-|<span style="color:#CF0101">Thomasch</span> | Nebenverantwortlich |
 |<span style="color:#007812">MCelements</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Caaro</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
@@ -205,7 +201,6 @@ Dieses Team sorgt für einen aktuellen Changelog im HowTo.
 | ------ | ------ |
 |<span style="color:#CF0101">Caelis</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
-|<span style="color:#CF0101">Thomasch</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#CF0101">Milam</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Caaro</span> | Nebenverantwortlich |
@@ -232,7 +227,6 @@ Im Timolia Team gibt es kleinere Teams, welche unter anderem durch diese Verantw
 |<span style="color:#CF0101">Caelis</span> | Management des Development-Teams |
 |<span style="color:#CF0101">Tedget</span> | Management des Development-Teams |
 |<span style="color:#CF0101">Milam</span> | Management des Creator-Teams und des YouTube-Teams |
-|<span style="color:#CF0101">Thomasch</span> | Management des Creator-Teams und des YouTube-Teams |
 |<span style="color:#E4D100">Caaro</span> | Management des Creator-Teams und des YouTube-Teams |
 |<span style="color:#CF0101">KenaiHD</span> | Management des YouTube-Teams |
 |<span style="color:#E4D100">trojesatar</span> | Management des YouTube-Teams |
@@ -255,10 +249,9 @@ Wenn sich ein YouTuber für einen Rang auf Timolia interessiert, werden die Anfr
 
 | Teamler | Zuständigkeit |
 | ------ | ------ |
+|<span style="color:#CF0101">Metrixx7</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">L0L0</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">Milam</span> | Nebenverantwortlich |
-|<span style="color:#CF0101">Thomasch</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Metrixx7</span> | Nebenverantwortlich |
