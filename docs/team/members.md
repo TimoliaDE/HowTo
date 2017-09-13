@@ -190,6 +190,9 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Entschuldigungen, TeamSpeak, YouTuber-Events, Zu Unrecht gebannt Forum
 
+### <strong><span style="color:#E4D100">Nooahh</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+
 ### <strong><span style="color:#E4D100">Percyfan55</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> TeamSpeak
