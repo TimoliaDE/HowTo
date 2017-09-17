@@ -304,12 +304,6 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 - <u>Hauptverantwortlich:</u> Upper Hills, CityBuild Forum
 - <u>Nebenverantwortlich:</u> Timolia Anleitung
 
-###<strong><span style="color:#CF0101">kd9b</span></strong>
-- <u>Rang (ingame):</u> Moderator CityBuild
-
-###<strong><span style="color:#CF0101">MCPhilippS</span></strong>
-- <u>Rang (ingame):</u> Moderator CityBuild
-
 ###<strong><span style="color:#CF0101">saporital</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
 - <u>Hauptverantwortlich:</u> Twitter, Downtown, Minedig, Mittelalter, Oldtown, Chinatown, Wunderland, Atlantis
@@ -327,9 +321,6 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Hauptverantwortlich:</u> CityBuild-Plugins, Abbauwelt, Farmwelt
 
 ###<strong><span style="color:#007812">Caelis</span></strong>
-- <u>Rang (ingame):</u> Developer CityBuild
-
-###<strong><span style="color:#007812">ich_komm_morgen</span></strong>
 - <u>Rang (ingame):</u> Developer CityBuild
 
 ###<strong><span style="color:#007812">KenaiHD</span></strong>
