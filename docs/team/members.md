@@ -92,9 +92,6 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Rang (ingame):</u> Developer Games
 - <u>Hauptverantwortlich:</u> Chainreact, Weihnachts - Timolia Adventure
 
-### <strong><span style="color:#007812">Fyniks</span></strong>
-- <u>Rang (ingame):</u> Developer Games
-
 ### <strong><span style="color:#007812">Jintzo</span></strong>
 - <u>Rang (ingame):</u> Developer Games
 - <u>Nebenverantwortlich:</u> Web-Development
@@ -137,10 +134,10 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">\_TakeItEaZy\_</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> YouTube und Twitch
 
 ### <strong><span style="color:#E4D100">Aenzo</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
+- <u>Nebenverantwortlich:</u> Entschuldigungen
 
 ### <strong><span style="color:#E4D100">BuffmonsterOne</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -156,11 +153,11 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">Elegeta</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Supporterauswahl
-- <u>Nebenverantwortlich:</u> Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Zu Unrecht gebannt Forum, Entschuldigungen
 
 ### <strong><span style="color:#E4D100">felliongi21</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Map-Einsendungen
+- <u>Nebenverantwortlich:</u> Map-Einsendungen, Social-Media, Spieler melden Forum
 
 ### <strong><span style="color:#E4D100">ferdedelino</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -204,7 +201,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">Pixtopiane</span></strong>
 - <u>Rang (ingame):</u> Supporterin Games
 
-### <strong><span style="color:#E4D100">Salvopro</span></strong>
+### <strong><span style="color:#E4D100">Saalvo</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 
 ### <strong><span style="color:#E4D100">Schonas</span></strong>
@@ -240,10 +237,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">TobCrafterDE</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Zu Unrecht gebannt Forum
-
-### <strong><span style="color:#E4D100">Tnevel</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Changelog
 
 ### <strong><span style="color:#E4D100">trojesatar</span></strong>
 - <u>Rang (ingame):</u> Supporter Games

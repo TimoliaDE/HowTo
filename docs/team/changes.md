@@ -5,6 +5,8 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>September</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|Fyniks | <span style="color:#007812">Developer Games</span> | <span style="color:#848484">Spieler</span> | 21.09.17 |
+|Tnevel | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | 20.09.17 |
 |\_TakeItEaZy\_| <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter Games</span> | 17.09.17 |
 |MCPhilippS | <span style="color:#CF0101">Moderator City</span> | <span style="color:#E4D100">Supporter City</span> | 16.09.17 |
 |ich_komm_morgen | <span style="color:#007812">Developer City</span> | <span style="color:#F99500">Native</span> | 16.09.17 |
