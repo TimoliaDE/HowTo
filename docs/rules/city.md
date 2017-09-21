@@ -31,9 +31,10 @@ Nicht erlaubte sind Befehle sind z.B. `/craft`, `/enderchest`… und alle, welch
 (§7.5) ist strengstens Verboten und wird mit einem Bann bestraft.
 
 ## §5 - AFK-Maschinen
-Auf dem CityBuild bekommst du für reine Onlinezeit Geld. Bist du über 5min AFK, so wirst du automatisch vom Server gekickt. 
+Auf dem CityBuild bekommst du für reine Onlinezeit Geld. Bist du über 10 Minuten AFK, so wirst du automatisch vom Server gekickt. 
 Versuchst du nun, diesen Kick mit bestimmten Mechanismen zu umgehen, so wird das zum so genannten “Geld farmen”. 
 Das ist auf dem CityBuild strengstens verboten und wird mit einem Ban bestraft.
+Auch das reine Besitzen von AFK-Maschinen ist verboten und wird dementsprechend geahndet.
 
 ## §6 – Griefing
 Unter Griefing fällt das mutwillige und sinnlose Zerstören nicht eigener Gebäude, Straßen, Landschaften, Gebieten, oder Ähnlichem. Aufgrund der Protections ist dies nur eingeschränkt möglich. 
