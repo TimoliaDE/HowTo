@@ -54,6 +54,7 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 |<span style="color:#CF0101">L0L0</span> | Hauptverantwortlich |
 |<span style="color:#E4D100">BuffmonsterOne</span> | Hauptverantwortlich |
 | | |
+|<span style="color:#E4D100">felliongi21</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 
@@ -70,6 +71,8 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 |<span style="color:#CF0101">ItsSarahh</span> | Hauptverantwortlich |
 |<span style="color:#E4D100">Tiem</span> | Hauptverantwortlich |
 | | |
+|<span style="color:#E4D100">Aenzo</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Elegeta</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Flaxify</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
@@ -164,6 +167,7 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 |<span style="color:#CF0101">Metrixx7</span> | Twitter NV |
 |<span style="color:#007812">tr7zw</span> | Twitter NV |
 |<span style="color:#E4D100">Caaro</span> | Nebenverantwortlich, YouTube HV |
+|<span style="color:#E4D100">felliongi21</span> | Twitter NV |
 |<span style="color:#E4D100">Juliaan</span> | Twitter NV |
 |<span style="color:#E4D100">trojesatar</span> | YouTube HV |
 |<span style="color:#00646F">JukPlays</span> | Bauteam-Twitter HV |
@@ -205,7 +209,6 @@ Dieses Team sorgt für einen aktuellen Changelog im HowTo.
 |<span style="color:#CF0101">Milam</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Caaro</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Tnevel</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">trojesatar</span> | Nebenverantwortlich |
 
 ###<strong>Broadcasts</strong>
