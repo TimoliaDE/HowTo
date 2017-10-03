@@ -333,6 +333,10 @@ Sie stehen für alle grundlegenden Fragen und Tickets zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporterin CityBuild
 - <u>Neberverantwortlich:</u> Teamspeak
 
+###<strong><span style="color:#E4D100">MCPhilippS</span></strong>
+- <u>Rang (ingame):</u> Supporter CityBuild
+
+
 # 3 - Global
 
 ## Builder
