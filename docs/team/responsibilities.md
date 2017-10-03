@@ -39,7 +39,7 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 ###<strong>Map-Einsendungen</strong>
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#00646F">Apfelrosine</span> | Hauptverantwortlich |
+|<span style="color:#00646F">Memoryos</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">felliongi21</span> | Nebenverantwortlich |
@@ -73,21 +73,18 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 | | |
 |<span style="color:#E4D100">Aenzo</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Elegeta</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Flaxify</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Saalvo</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">TaiToni</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">trojesatar</span> | Nebenverantwortlich |
 
 ###<strong>Zu Unrecht gebannt</strong>
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
+|<span style="color:#CF0101">Metrixx7</span> | Hauptverantwortlich |
 |<span style="color:#E4D100">BuffmonsterOne</span> | Hauptverantwortlich |
-| | |
-|<span style="color:#CF0101">Metrixx7</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Elegeta</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">TobCrafterDE</span> | Nebenverantwortlich |
 
 ###<strong>Spielmodi</strong>
 | Teamler | Verantwortungsgrad |
@@ -138,8 +135,8 @@ Wenn es wieder daran geht, neue Supporter in unsere Reihen zu holen, kümmern si
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#CF0101">Ferdy</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">ItsSarahh</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
 |<span style="color:#E4D100">Elegeta</span> | Hauptverantwortlich |
 
 ###<strong>Timolia Anleitung</strong>
@@ -235,16 +232,33 @@ Im Timolia Team gibt es kleinere Teams, welche unter anderem durch diese Verantw
 |<span style="color:#E4D100">trojesatar</span> | Management des YouTube-Teams |
 |<span style="color:#00646F">Vectrail</span> | Management des Bau-Teams |
 
+###<strong>Testen der Games-Maps</strong>
+Diese Teamler sind für das Bewerten, Aktualisieren und Kategorisieren von Games Maps zuständig.
+
+| Teamler | Zuständigkeit |
+| ------ | ------ |
+|<span style="color:#E4D100">Elegeta</span> | Hauptverantwortlich |
+| | |
+|<span style="color:#CF0101">Metrixx7</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">BuffmonsterOne</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">FlorianFida</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Morileh</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Schonas</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Sinzilla</span> | Nebenverantwortlich |
+
 ###<strong>YouTuber Events</strong>
 Events, welche von dem Timolia Team für YouTuber veranstaltet werden, werden von diesem Team organisiert.
 
 | Teamler | Zuständigkeit |
 | ------ | ------ |
-|<span style="color:#CF0101">Caelis</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">Milam</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">ItsSarahh</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Elegeta</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Sinzilla</span> | Nebenverantwortlich |
 
 ###<strong>YouTuber-Ränge</strong>
