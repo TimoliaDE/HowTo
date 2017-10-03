@@ -38,14 +38,10 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 - <u>Hauptverantwortlich:</u> Changelog, Internes Wiki, Management des Development-Teams, Technische Leitung des Bauteams, YouTuber-Events
 - <u>Nebenverantwortlich:</u> Interne Webanwendung, Timolia-Plugins, Twitter
 
-###<strong><span style="color:#CF0101">Ferdy</span></strong>
-- <u>Rang (ingame):</u> Moderator Games
-- <u>Hauptverantwortlich:</u> Organisation und Koordination neuer, inaktiver und alter Teamler, Supporterauswahl
-
 ###<strong><span style="color:#CF0101">ItsSarahh</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
-- <u>Hauptverantwortlich:</u> Entschuldigungen, Supporterauswahl
-- <u>Nebenverantwortlich:</u> Feedback Forum, Map-Einsendungen, Teamspeak, Twitter, YouTuber-Ränge
+- <u>Hauptverantwortlich:</u> Entschuldigungen, Supporterauswahl, YouTuber-Events
+- <u>Nebenverantwortlich:</u> Feedback Forum, Map-Einsendungen, Teamspeak, Testen der Games-Maps, Twitter, YouTuber-Ränge
 
 ###<strong><span style="color:#CF0101">KenaiHD</span></strong>
 - <u>Rang (ingame):</u> Moderator Games, CityBuild
@@ -59,8 +55,8 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ### <strong><span style="color:#CF0101">Metrixx7</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Hauptverantwortlich:</u> Organisation und Koordination neuer, inaktiver und alter Teamler, YouTuber-Ränge
-- <u>Nebenverantwortlich:</u> Twitter, Zu Unrecht gebannt Forum
+- <u>Hauptverantwortlich:</u> Organisation und Koordination neuer, inaktiver und alter Teamler, YouTuber-Ränge, Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Testen der Games-Maps, Twitter
 
 ###<strong><span style="color:#CF0101">Milam</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
@@ -72,7 +68,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ### <strong><span style="color:#CF0101">Tedget</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Hauptverantwortlich:</u> Bugs und Spielfehler, Changelog, Internes Wiki, Management des Development-Teams, Timolia Anleitung, YouTuber-Events, YouTuber-Ränge
+- <u>Hauptverantwortlich:</u> Bugs und Spielfehler, Changelog, Internes Wiki, Management des Development-Teams, Supporterauswahl, Timolia Anleitung, YouTuber-Events, YouTuber-Ränge
 
 
 ## Developer
@@ -142,6 +138,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">BuffmonsterOne</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Spieler melden Forum, Timolia-Turnier Kits, Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Testen der Games-Maps
 
 ###<strong><span style="color:#E4D100">Calavero</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -152,23 +149,22 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Elegeta</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Hauptverantwortlich:</u> Supporterauswahl
-- <u>Nebenverantwortlich:</u> Zu Unrecht gebannt Forum, Entschuldigungen
+- <u>Hauptverantwortlich:</u> Supporterauswahl, Testen der Games-Maps
+- <u>Nebenverantwortlich:</u> Entschuldigungen, YouTuber-Events
 
 ### <strong><span style="color:#E4D100">felliongi21</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Map-Einsendungen, Social-Media, Spieler melden Forum
+- <u>Nebenverantwortlich:</u> Map-Einsendungen, Spieler melden Forum, Twitter
 
 ### <strong><span style="color:#E4D100">ferdedelino</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 
 ### <strong><span style="color:#E4D100">Flaxify</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Entschuldigungen
 
 ### <strong><span style="color:#E4D100">FlorianFida</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge
+- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge, Testen der Games-Maps
 
 ### <strong><span style="color:#E4D100">iskander</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -177,19 +173,23 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">Juliaan</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Feedback Forum, Off-Topic Forum, Vorstellungen Forum
-- <u>Nebenverantwortlich:</u> Changelog, Entschuldigungen, Fragen und Antworten Forum, Spieler melden Forum, Twitter
+- <u>Nebenverantwortlich:</u> Changelog, Entschuldigungen, Fragen und Antworten Forum, Spieler melden Forum, Testen der Games-Maps, Twitter
 
 ### <strong><span style="color:#E4D100">Julian_999999999</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Fragen und Antworten Forum
-- <u>Nebenverantwortlich:</u> Spieler melden Forum, Teamspeak
+- <u>Nebenverantwortlich:</u> Entschuldigungen, Spieler melden Forum, Teamspeak
 
 ### <strong><span style="color:#E4D100">Morileh</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
+- <u>Nebenverantwortlich:</u> Testen der Games-Maps
 
 ###<strong><span style="color:#E4D100">medicoo</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Entschuldigungen, TeamSpeak, YouTuber-Events, Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Entschuldigungen, TeamSpeak, Testen der Games-Maps
+
+###<strong><span style="color:#E4D100">NameIsTaken</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
 
 ### <strong><span style="color:#E4D100">Percyfan55</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -200,14 +200,15 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Saalvo</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
+- <u>Nebenverantwortlich:</u> Entschuldigungen
 
 ### <strong><span style="color:#E4D100">Schonas</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Map-Einsendungen
+- <u>Nebenverantwortlich:</u> Map-Einsendungen, Testen der Games-Maps
 
 ###<strong><span style="color:#E4D100">Sinzilla</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> YouTuber-Events
+- <u>Nebenverantwortlich:</u> Testen der Games-Maps, YouTuber-Events
 
 ### <strong><span style="color:#E4D100">SpaceJumper</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -233,7 +234,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">TobCrafterDE</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Zu Unrecht gebannt Forum
 
 ### <strong><span style="color:#E4D100">trojesatar</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -344,14 +344,13 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ### <strong><span style="color:#00646F">\_Geizhals\_</span></strong>
 - <u>Rang (ingame):</u> Builder
 
-### <strong><span style="color:#00646F">Apfelrosine</span></strong>
-- <u>Rang (ingame):</u> Builder
-- <u>Hauptverantwortlich:</u> Map-Einsendungen
-
 ### <strong><span style="color:#00646F">BauEule</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ###<strong><span style="color:#00646F">Dankbarkeit</span></strong>
+- <u>Rang (ingame):</u> Builder
+
+### <strong><span style="color:#00646F">DeinMund</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span style="color:#00646F">Eddyyyyyyy</span></strong>
@@ -383,6 +382,7 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 ### <strong><span style="color:#00646F">Memoryos</span></strong>
 - <u>Rang (ingame):</u> Builder
+- - <u>Hauptverantwortlich:</u> Map-Einsendungen
 
 ### <strong><span style="color:#00646F">Skerai</span></strong>
 - <u>Rang (ingame):</u> Builderin
