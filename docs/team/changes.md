@@ -2,9 +2,17 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 
 # 2017
 
+###<strong>Oktober</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+|NameIsTaken | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 02.10.17 |
+
 ###<strong>September</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|Apfelrosine | <span style="color:#00646F">Builder</span> | <span style="color:#00F9EC">Expert</span> | 24.09.17 |
+|DeinMund | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 24.09.17 |
+|Ferdy | <span style="color:#CF0101">Moderator Games</span> | <span style="color:#00F9EC">Expert</span> | 23.09.17 |
 |Nooahh | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | 22.09.17 |
 |Fyniks | <span style="color:#007812">Developer Games</span> | <span style="color:#848484">Spieler</span> | 21.09.17 |
 |Tnevel | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | 20.09.17 |
