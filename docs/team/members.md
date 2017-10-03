@@ -382,7 +382,7 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 ### <strong><span style="color:#00646F">Memoryos</span></strong>
 - <u>Rang (ingame):</u> Builder
-- - <u>Hauptverantwortlich:</u> Map-Einsendungen
+- <u>Hauptverantwortlich:</u> Map-Einsendungen
 
 ### <strong><span style="color:#00646F">Skerai</span></strong>
 - <u>Rang (ingame):</u> Builderin
