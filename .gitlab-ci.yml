@@ -22,3 +22,9 @@ livedeploy:
   tags:
       - live
   environment: live
+# Dev
+devbuild:
+  type: build
+  script: "echo 'Dev-Build succeeded'"
+  except:
+    - master@timolia/howto
