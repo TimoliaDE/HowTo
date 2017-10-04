@@ -22,3 +22,8 @@ livedeploy:
   tags:
       - live
   environment: live
+# Dev
+devbuild:
+  type: build
+  except:
+    - master@timolia/howto
