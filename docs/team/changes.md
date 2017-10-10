@@ -212,7 +212,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 |TacticalDOC | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 31.07.16 |
 |Zurrex | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 31.07.16 |
 |12Build | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 24.07.16 |
-|_CrystalSky_ | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 24.07.16 |
+|\_CrystalSky_ | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 24.07.16 |
 |Memoryos | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 24.07.16 |
 |XoroMC | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 24.07.16 |
 |WildeMaus | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 24.07.16 |
