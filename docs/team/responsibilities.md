@@ -63,6 +63,7 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 | ------ | ------ |
 |<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
 | | |
+|<span style="color:#E4D100">Schonas</span> | Nebenverantwortlich |
 |Moderatoren und Developer| Nebenverantwortlich |
 
 ###<strong>Entschuldigungen</strong>
