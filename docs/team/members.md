@@ -114,6 +114,9 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Rang (ingame):</u> Developer Games
 - <u>Nebenverantwortlich:</u> Web-Development
 
+### <strong><span style="color:#007812">physanus</span></strong>
+- <u>Rang (ingame):</u> Developer Games
+
 ### <strong><span style="color:#007812">svdragster</span></strong>
 - <u>Rang (ingame):</u> Developer Games
 - <u>Hauptverantwortlich:</u> Anti-Cheat
@@ -139,6 +142,11 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Spieler melden Forum, Timolia-Turnier Kits, Zu Unrecht gebannt Forum
 - <u>Nebenverantwortlich:</u> Testen der Games-Maps
+
+###<strong><span style="color:#E4D100">Caaro</span></strong>
+- <u>Rang (ingame):</u> Supporterin Games
+- <u>Hauptverantwortlich:</u> Creator-Team Leitung, YouTube und Twitch
+- <u>Nebenverantwortlich:</u> CityBuild Forum, Fragen und Antworten Forum, Social-Media
 
 ###<strong><span style="color:#E4D100">Calavero</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -179,10 +187,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Fragen und Antworten Forum
 - <u>Nebenverantwortlich:</u> Entschuldigungen, Spieler melden Forum, Teamspeak
-
-### <strong><span style="color:#E4D100">Morileh</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Testen der Games-Maps
 
 ###<strong><span style="color:#E4D100">medicoo</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
