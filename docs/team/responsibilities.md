@@ -246,7 +246,6 @@ Diese Teamler sind für das Bewerten, Aktualisieren und Kategorisieren von Games
 |<span style="color:#E4D100">FlorianFida</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Morileh</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Schonas</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Sinzilla</span> | Nebenverantwortlich |
 
