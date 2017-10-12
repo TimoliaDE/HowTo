@@ -7,7 +7,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 | ------ | ------ | ------ | ------ |
 |Caaro | <span style="color:#E4D100">Supporterin City</span> | <span style="color:#E4D100">Supporterin City & Games</span>
 |Morileh | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | 12.10.17 |
-|physanus | <span style="color:#848484">Spieler</span> | <span style="color:#007812">Developer Games</span | 11.10.17 |
+|physanus | <span style="color:#848484">Spieler</span> | <span style="color:#007812">Developer Games</span> | 11.10.17 |
 |NameIsTaken | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 02.10.17 |
 
 ###<strong>September</strong>

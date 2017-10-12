@@ -68,7 +68,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ### <strong><span style="color:#CF0101">Tedget</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Hauptverantwortlich:</u> Bug melden Forum, Bugs und Spielfehler, Changelog, Internes Wiki, Management des Development-Teams, Supporterauswahl, Timolia Anleitung, YouTuber-Events, YouTuber-Ränge
+- <u>Hauptverantwortlich:</u> Bug melden Forum, Bugs und Spielfehler, Changelog, Internes Wiki, Management des Development-Teams, Supporterauswahl, Timolia HowTo, YouTuber-Events, YouTuber-Ränge
 
 
 ## Developer
@@ -296,7 +296,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ### <strong><span style="color:#CF0101">JOlegna</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
 - <u>Hauptverantwortlich:</u> Upper Hills, CityBuild Forum
-- <u>Nebenverantwortlich:</u> Timolia Anleitung
+- <u>Nebenverantwortlich:</u> Timolia HowTo
 
 ###<strong><span style="color:#CF0101">saporital</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
