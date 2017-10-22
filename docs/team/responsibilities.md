@@ -87,11 +87,6 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 |<span style="color:#CF0101">Metrixx7</span> | Hauptverantwortlich |
 |<span style="color:#E4D100">BuffmonsterOne</span> | Hauptverantwortlich |
 
-###<strong>Spielmodi</strong>
-| Teamler | Verantwortungsgrad |
-| ------ | ------ |
-|<span style="color:#E4D100">TheFeldi</span> | Nebenverantwortlich |
-
 ###<strong>CityBuild</strong>
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
@@ -169,6 +164,8 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 |<span style="color:#E4D100">Juliaan</span> | Twitter NV |
 |<span style="color:#E4D100">trojesatar</span> | YouTube HV |
 |<span style="color:#00646F">JukPlays</span> | Bauteam-Twitter HV |
+|<span style="color:#00646F">GameZter</span> | Bauteam-Twitter NV |
+|<span style="color:#00646F">xnulix</span> | Bauteam-Twitter NV |
 
 ###<strong>TeamSpeak</strong>
 Der Teamspeak von Timolia ist unter ts.timolia.de zu erreichen. Er wird betreut von diesen Teamlern.
