@@ -104,8 +104,6 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#E4D100">Juliaan</span> | Hauptverantwortlich |
-| | |
-|<span style="color:#E4D100">TheFeldi</span> | Nebenverantwortlich |
 
 # Sonstige Aufgaben
 
