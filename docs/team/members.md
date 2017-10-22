@@ -43,7 +43,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 - <u>Hauptverantwortlich:</u> Entschuldigungen, Supporterauswahl, YouTuber-Events
 - <u>Nebenverantwortlich:</u> Feedback Forum, Map-Einsendungen, Teamspeak, Testen der Games-Maps, Twitter, YouTuber-Ränge
 
-###<strong><span style="color:#CF0101">KenaiHD</span></strong>
+###<strong><span style="color:#CF0101">Kenaai</span></strong>
 - <u>Rang (ingame):</u> Moderator Games, CityBuild
 - <u>Hauptverantwortlich:</u> Facebook, YouTube und Twitch
 - <u>Nebenverantwortlich:</u> Reports im Forum, TeamSpeak, Timolia-Plugins
