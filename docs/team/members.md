@@ -167,9 +167,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">ferdedelino</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 
-### <strong><span style="color:#E4D100">Flaxify</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-
 ### <strong><span style="color:#E4D100">FlorianFida</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Anregungen und Vorschläge, Testen der Games-Maps
@@ -217,9 +214,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">SpaceJumper</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 
-### <strong><span style="color:#E4D100">Sry4BowAimbot</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-
 ### <strong><span style="color:#E4D100">TaiToni</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Entschuldigungen
@@ -229,7 +223,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">TheFeldi</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Spielmodi Forum, Vorstellungen Forum
 
 ###<strong><span style="color:#E4D100">Tiem</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -376,6 +369,7 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ###<strong><span style="color:#00646F">GameZter</span></strong>
 - <u>Rang (ingame):</u> Builder
 - <u>Hauptverantwortlich:</u> Endprüfung der Games-Maps
+- <u>Nebenverantwortlich:</u> Bauteam-Twitter
 
 ###<strong><span style="color:#00646F">InfiniteFery</span></strong>
 - <u>Rang (ingame):</u> Builderin
@@ -413,6 +407,7 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 ### <strong><span style="color:#00646F">xnulix</span></strong>
 - <u>Rang (ingame):</u> Builder
+- <u>Nebenverantwortlich:</u> Bauteam-Twitter
 
 ### <strong><span style="color:#00646F">XoroMC</span></strong>
 - <u>Rang (ingame):</u> Builder
