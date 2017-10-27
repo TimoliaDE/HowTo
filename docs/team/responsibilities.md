@@ -25,6 +25,7 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 |<span style="color:#E4D100">Julian_999999999</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#E4D100">Caaro</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">NameIsTaken</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">trojesatar</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
 

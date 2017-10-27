@@ -5,7 +5,7 @@ Punkte der Regeln und hat diesen Folge zu leisten. Missachtung kann zu Sanktione
 Außerdem kann es jederzeit zu einer Änderung der Regeln kommen. Dazu wird das Datum der letzten Veränderung immer unter dem letzten Punkt des Regelwerkes angezeigt.
 
 ## §2 - Modifikationen (Mods)/Hacks, Resource Packs und Minimaps
-Jegliche Modifikationen im und am Spiel sind auf Timolia verboten. Hierzu zählen grundsätzlich alle Mods, aber auch bestimmte Arten von Resource Packs, vor allem durchsichtige oder Xray-Resourcepacks. Auch Macros und andere Modifikationen am Minecraft-Client, Maus und Tastatur, die das Spammen von Tasten/Befehlen und Chatnachrichten oder auch das Erhöhen der Klickgeschwindigkeit ermöglichen sind verboten. Das beinhaltet Mods wie die MouseDelayFix Mod, sowie programmierbare Tastaturen, Mäuse oder Hotkeys. Skinblinker sind ebenfalls verboten. Ausgenommen von dieser Regelung sind spielverschönernde Mods, wie [OptiFine](http://optifine.net/home.php) oder [Shader](https://www.google.de/#q=Minecraft+Shader), sowie die [5zig](http://5zig.net/)- und [LabyMod](http://www.labymod.net/). Jede andere, hier nicht aufgeführte Mod ist verboten. Ebenfalls sind sämtliche Arten von Minimaps auf Timolia verboten.
+Jegliche Modifikationen im und am Spiel sind auf Timolia verboten. Hierzu zählen grundsätzlich alle Mods, aber auch bestimmte Arten von Resource Packs, vor allem durchsichtige oder Xray-Resourcepacks. Auch Macros und andere Modifikationen am Minecraft-Client, Maus und Tastatur, die das Spammen von Tasten/Befehlen und Chatnachrichten oder auch das Erhöhen der Klickgeschwindigkeit ermöglichen sind verboten. Das beinhaltet auch programmierbare Tastaturen, Mäuse oder Hotkeys. Skinblinker sind ebenfalls verboten. Ausgenommen von dieser Regelung sind spielverschönernde Mods, wie [OptiFine](http://optifine.net/home.php) oder [Shader](https://www.google.de/#q=Minecraft+Shader), sowie die [5zig](http://5zig.net/)- und [LabyMod](http://www.labymod.net/). Jede andere, hier nicht aufgeführte Mod ist verboten. Ebenfalls sind sämtliche Arten von Minimaps auf Timolia verboten.
 
 ## §3 - Cheating/Bugusing
 Bugusing ist das bewusste Ausnutzen von Spielfehlern, welche im Spiel nicht vorgesehene Folgen haben und ist selbstverständlich verboten.
@@ -90,4 +90,4 @@ ist ebenfalls verboten und wird entsprechend sanktioniert.
 
 <strong>Das Team behält sich das Recht vor, bestimmtes Handeln (auch außerhalb des Minecraft- und Teamspeakservers) zu sanktionieren, welches nicht explizit in den Regeln aufgelistet ist.</strong>
 
-letzte Aktualisierung: 11. August 2017
+letzte Aktualisierung: 27. Oktober 2017
