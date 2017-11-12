@@ -72,14 +72,13 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 |<span style="color:#CF0101">ItsSarahh</span> | Hauptverantwortlich |
 |<span style="color:#E4D100">Tiem</span> | Hauptverantwortlich |
 | | |
+|<span style="color:#CF0101">Milam</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Aenzo</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Elegeta</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Saalvo</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">TaiToni</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">trojesatar</span> | Nebenverantwortlich |
 
 ###<strong>Zu Unrecht gebannt</strong>
 | Teamler | Verantwortungsgrad |
