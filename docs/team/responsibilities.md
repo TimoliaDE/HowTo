@@ -53,9 +53,8 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#CF0101">L0L0</span> | Hauptverantwortlich |
-|<span style="color:#E4D100">BuffmonsterOne</span> | Hauptverantwortlich |
+|<span style="color:#E4D100">felliongi21</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#E4D100">felliongi21</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 
@@ -86,7 +85,6 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#CF0101">Metrixx7</span> | Hauptverantwortlich |
-|<span style="color:#E4D100">BuffmonsterOne</span> | Hauptverantwortlich |
 
 ###<strong>CityBuild</strong>
 | Teamler | Verantwortungsgrad |
@@ -189,7 +187,6 @@ Die beiden Supporter entscheiden über Turniereinstellungen bei den Freitagsturn
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#E4D100">BuffmonsterOne</span> | Hauptverantwortlich |
 |<span style="color:#E4D100">Calavero</span> | Hauptverantwortlich |
 
 ###<strong>Changelog</strong>
@@ -238,7 +235,6 @@ Diese Teamler sind für das Bewerten, Aktualisieren und Kategorisieren von Games
 | | |
 |<span style="color:#CF0101">Metrixx7</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">BuffmonsterOne</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">FlorianFida</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
