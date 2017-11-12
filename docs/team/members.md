@@ -56,7 +56,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ### <strong><span style="color:#CF0101">Metrixx7</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
 - <u>Hauptverantwortlich:</u> Organisation und Koordination neuer, inaktiver und alter Teamler, YouTuber-Ränge, Zu Unrecht gebannt Forum
-- <u>Nebenverantwortlich:</u> Testen der Games-Maps, Twitter
+- <u>Nebenverantwortlich:</u> Testen der Games-Maps, Twitter, Timolia HowTo
 
 ###<strong><span style="color:#CF0101">Milam</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
