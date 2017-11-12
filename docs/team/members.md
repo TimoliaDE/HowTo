@@ -61,7 +61,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ###<strong><span style="color:#CF0101">Milam</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
 - <u>Hauptverantwortlich:</u> Bauevent-Koordination, Management des Creator-Teams, Gesamtes Forum, Social-Media, YouTube und Twitch, YouTuber-Events
-- <u>Nebenverantwortlich:</u> Broadcasts, Changelog, YouTuber-Ränge
+- <u>Nebenverantwortlich:</u> Broadcasts, Changelog, YouTuber-Ränge, Entschuldigungen
 
 ###<strong><span style="color:#CF0101">Siimon</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
@@ -196,8 +196,9 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">Pixtopiane</span></strong>
 - <u>Rang (ingame):</u> Supporterin Games
 
-### <strong><span style="color:#E4D100">Saalvo</span></strong>
+### <strong><span style="color:#E4D100">Salvopro</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
+- <u>Nebenverantwortlich:</u> TeamSpeak
 
 ### <strong><span style="color:#E4D100">Schonas</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
