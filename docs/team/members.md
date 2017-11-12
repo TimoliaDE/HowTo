@@ -7,6 +7,11 @@ Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbe
 Administratoren kümmern sich um die Technik von Timolia. Angefangen bei den Plugins, über CraftBukkit bis hin zum Root-Server und dem BungeeCord-Netzwerk.
 Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 
+###<strong>Caelis</strong>
+- <u>Rang (ingame):</u> Administrator Games, CityBuild
+- <u>Hauptverantwortlich:</u> Changelog, Internes Wiki, Management des Development-Teams, Technische Leitung des Bauteams, YouTuber-Events
+- <u>Nebenverantwortlich:</u> Interne Webanwendung, Timolia-Plugins, Twitter
+
 ###<strong>Edgxxar</span></strong>
 - <u>Rang (ingame):</u> Administrator Games, CityBuild
 - <u>Hauptverantwortlich:</u> Timolia-Plugins
@@ -32,11 +37,6 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 
 ## Moderatoren
 Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen Server auf unserem Netzwerk und dienen als Schnittstelle zwischen Supporter und Administratoren.
-
-###<strong><span style="color:#CF0101">Caelis</span></strong>
-- <u>Rang (ingame):</u> Moderator Games, CityBuild
-- <u>Hauptverantwortlich:</u> Changelog, Internes Wiki, Management des Development-Teams, Technische Leitung des Bauteams, YouTuber-Events
-- <u>Nebenverantwortlich:</u> Interne Webanwendung, Timolia-Plugins, Twitter
 
 ###<strong><span style="color:#CF0101">ItsSarahh</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
@@ -248,6 +248,11 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 Administratoren kümmern sich um die Technik von Timolia. Angefangen bei den Plugins, über CraftBukkit bis hin zum Root-Server und dem BungeeCord-Netzwerk.
 Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 
+###<strong>Caelis</strong>
+- <u>Rang (ingame):</u> Administrator Games, CityBuild
+- <u>Hauptverantwortlich:</u> Changelog, Internes Wiki, Management des Development-Teams, Technische Leitung des Bauteams, YouTuber-Events
+- <u>Nebenverantwortlich:</u> Interne Webanwendung, Timolia-Plugins, Twitter
+
 ###<strong>Docmac</strong>
 - <u>Rang (ingame):</u> Administrator CityBuild, Games
 - <u>Hauptverantwortlich:</u> CityBuild-Server, CityBuild-Supporter, Steam
@@ -302,9 +307,6 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ###<strong><span style="color:#007812">tr7zw</span></strong>
 - <u>Rang (ingame):</u> Developer CityBuild
 - <u>Hauptverantwortlich:</u> CityBuild-Plugins, Abbauwelt, Farmwelt
-
-###<strong><span style="color:#007812">Caelis</span></strong>
-- <u>Rang (ingame):</u> Developer CityBuild
 
 ###<strong><span style="color:#007812">KenaiHD</span></strong>
 - <u>Rang (ingame):</u> Developer CityBuild
