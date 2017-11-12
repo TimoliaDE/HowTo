@@ -2,6 +2,11 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 
 # 2017
 
+###<strong>November</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+|BuffmonsterOne | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span>  | 3.11.17 | 
+
 ###<strong>Oktober</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |

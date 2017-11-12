@@ -138,11 +138,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Entschuldigungen
 
-### <strong><span style="color:#E4D100">BuffmonsterOne</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Hauptverantwortlich:</u> Spieler melden Forum, Timolia-Turnier Kits, Zu Unrecht gebannt Forum
-- <u>Nebenverantwortlich:</u> Testen der Games-Maps
-
 ###<strong><span style="color:#E4D100">Caaro</span></strong>
 - <u>Rang (ingame):</u> Supporterin Games
 - <u>Hauptverantwortlich:</u> Creator-Team Leitung, YouTube und Twitch
@@ -162,6 +157,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">felliongi21</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
+- <u>Hauptverantwortlich:</u> Spieler melden Forum
 - <u>Nebenverantwortlich:</u> Map-Einsendungen, Spieler melden Forum, Twitter
 
 ### <strong><span style="color:#E4D100">ferdedelino</span></strong>
@@ -202,7 +198,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Saalvo</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Entschuldigungen
 
 ### <strong><span style="color:#E4D100">Schonas</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -236,7 +231,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">trojesatar</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> YouTube und Twitch
-- <u>Nebenverantwortlich:</u> Changelog, Entschuldigungen, Fragen und Antworten Forum, Map-Einsendungen, Teamspeak
+- <u>Nebenverantwortlich:</u> Changelog, Fragen und Antworten Forum, Map-Einsendungen, Teamspeak
 
 ### <strong><span style="color:#E4D100">xJu1ia</span></strong>
 - <u>Rang (ingame):</u> Supporterin Games
