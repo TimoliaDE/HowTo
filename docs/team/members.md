@@ -56,12 +56,12 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ### <strong><span style="color:#CF0101">Metrixx7</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
 - <u>Hauptverantwortlich:</u> Organisation und Koordination neuer, inaktiver und alter Teamler, YouTuber-Ränge, Zu Unrecht gebannt Forum
-- <u>Nebenverantwortlich:</u> Testen der Games-Maps, Twitter, Timolia HowTo
+- <u>Nebenverantwortlich:</u> Testen der Games-Maps, Timolia HowTo, Twitter
 
 ###<strong><span style="color:#CF0101">Milam</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
 - <u>Hauptverantwortlich:</u> Bauevent-Koordination, Management des Creator-Teams, Gesamtes Forum, Social-Media, YouTube und Twitch, YouTuber-Events
-- <u>Nebenverantwortlich:</u> Broadcasts, Changelog, YouTuber-Ränge, Entschuldigungen
+- <u>Nebenverantwortlich:</u> Broadcasts, Changelog, Entschuldigungen, YouTuber-Ränge
 
 ###<strong><span style="color:#CF0101">Siimon</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
