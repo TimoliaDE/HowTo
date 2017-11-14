@@ -72,14 +72,13 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 |<span style="color:#CF0101">ItsSarahh</span> | Hauptverantwortlich |
 |<span style="color:#E4D100">Tiem</span> | Hauptverantwortlich |
 | | |
+|<span style="color:#CF0101">Milam</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Aenzo</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Elegeta</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Saalvo</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">TaiToni</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">trojesatar</span> | Nebenverantwortlich |
 
 ###<strong>Zu Unrecht gebannt</strong>
 | Teamler | Verantwortungsgrad |
@@ -140,6 +139,7 @@ Diese Teamler kümmern sich um's Aktualisieren und Erstellen des HowTos Timolias
 |<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#CF0101">JOlegna</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">Metrixx7</span> | Nebenverantwortlich |
 
 ###<strong>Social-Media</strong>
 Für einen ständigen Support und Content auf Twitter und anderen sozialen Medien sorgen diese Teamler.
@@ -148,8 +148,8 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 | ------ | ------ |
 |<span style="color:#CF0101">Milam</span> | Hauptverantwortlich |
 | | |
+|<span style="color:#2980b9">Caelis</span> | Twitter NV, JumpWorld Bilder |
 |<span style="color:#2980b9">Niklas</span>| Twitter NV |
-|<span style="color:#CF0101">Caelis</span> | Twitter NV, JumpWorld Bilder |
 |<span style="color:#CF0101">Caprea</span> | Twitter NV |
 |<span style="color:#CF0101">ItsSarahh</span> | Twitter NV|
 |<span style="color:#CF0101">Kenaai</span> | YouTube HV, Facebook HV |
@@ -179,6 +179,7 @@ Der Teamspeak von Timolia ist unter ts.timolia.de zu erreichen. Er wird betreut 
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Percyfan55</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Salvopro</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">trojesatar</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
 
@@ -195,7 +196,7 @@ Dieses Team sorgt für einen aktuellen Changelog im HowTo.
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#CF0101">Caelis</span> | Hauptverantwortlich |
+|<span style="color:#2980b9">Caelis</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#CF0101">Milam</span> | Nebenverantwortlich |
@@ -219,7 +220,7 @@ Im Timolia Team gibt es kleinere Teams, welche unter anderem durch diese Verantw
 
 | Teamler | Zuständigkeit |
 | ------ | ------ |
-|<span style="color:#CF0101">Caelis</span> | Management des Development-Teams |
+|<span style="color:#2980b9">Caelis</span> | Management des Development-Teams |
 |<span style="color:#CF0101">Tedget</span> | Management des Development-Teams |
 |<span style="color:#CF0101">Milam</span> | Management des Creator-Teams und des YouTube-Teams |
 |<span style="color:#E4D100">Caaro</span> | Management des Creator-Teams und des YouTube-Teams |
