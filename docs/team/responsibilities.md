@@ -188,6 +188,7 @@ Die beiden Supporter entscheiden über Turniereinstellungen bei den Freitagsturn
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#E4D100">Calavero</span> | Hauptverantwortlich |
+|<span style="color:#E4D100">FlorianFida</span> | Hauptverantwortlich |
 
 ###<strong>Changelog</strong>
 Dieses Team sorgt für einen aktuellen Changelog im HowTo.
