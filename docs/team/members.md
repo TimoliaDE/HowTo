@@ -145,7 +145,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">Calavero</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Hauptverantwortlich:</u> Timolia-Turnier Kits
+- <u>Hauptverantwortlich:</u>
 
 ###<strong><span style="color:#E4D100">DerBull</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -165,6 +165,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">FlorianFida</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
+- <u>Hauptverantwortlich:</u> Timolia-Turnier Kits
 - <u>Nebenverantwortlich:</u> Anregungen und Vorschläge, Testen der Games-Maps
 
 ### <strong><span style="color:#E4D100">iskander</span></strong>
