@@ -130,6 +130,8 @@ Wenn es wieder daran geht, neue Supporter in unsere Reihen zu holen, kümmern si
 |<span style="color:#CF0101">ItsSarahh</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
 |<span style="color:#E4D100">Elegeta</span> | Hauptverantwortlich |
+| | |
+|<span style="color:#CF0101">Metrixx7</span> | Nebenverantwortlich |
 
 ###<strong>Timolia HowTo</strong>
 Diese Teamler kümmern sich um's Aktualisieren und Erstellen des HowTos Timolias.
