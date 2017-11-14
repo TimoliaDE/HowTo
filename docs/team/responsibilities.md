@@ -179,6 +179,7 @@ Der Teamspeak von Timolia ist unter ts.timolia.de zu erreichen. Er wird betreut 
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Percyfan55</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Salvopro</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">trojesatar</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
 
