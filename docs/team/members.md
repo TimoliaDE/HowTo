@@ -292,7 +292,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ### <strong><span style="color:#CF0101">JOlegna</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
 - <u>Hauptverantwortlich:</u> Upper Hills, CityBuild Forum
-- <u>Nebenverantwortlich:</u> Timolia HowTo
+- <u>Nebenverantwortlich:</u> Supporterauswahl, Timolia HowTo
 
 ###<strong><span style="color:#CF0101">saporital</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
