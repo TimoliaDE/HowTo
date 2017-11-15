@@ -56,7 +56,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ### <strong><span style="color:#CF0101">Metrixx7</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
 - <u>Hauptverantwortlich:</u> Organisation und Koordination neuer, inaktiver und alter Teamler, YouTuber-Ränge, Zu Unrecht gebannt Forum
-- <u>Nebenverantwortlich:</u> Testen der Games-Maps, Timolia HowTo, Twitter
+- <u>Nebenverantwortlich:</u> Supporterauswahl, Testen der Games-Maps, Timolia HowTo, Twitter
 
 ###<strong><span style="color:#CF0101">Milam</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
@@ -158,7 +158,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">felliongi21</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Spieler melden Forum
-- <u>Nebenverantwortlich:</u> Map-Einsendungen, Spieler melden Forum, Twitter
+- <u>Nebenverantwortlich:</u> Map-Einsendungen, Twitter
 
 ### <strong><span style="color:#E4D100">ferdedelino</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -207,7 +207,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">Sinzilla</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Testen der Games-Maps, YouTuber-Events
+- <u>Nebenverantwortlich:</u> YouTuber-Events
 
 ### <strong><span style="color:#E4D100">SpaceJumper</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -292,7 +292,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ### <strong><span style="color:#CF0101">JOlegna</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
 - <u>Hauptverantwortlich:</u> Upper Hills, CityBuild Forum
-- <u>Nebenverantwortlich:</u> Timolia HowTo
+- <u>Nebenverantwortlich:</u> Supporterauswahl, Timolia HowTo
 
 ###<strong><span style="color:#CF0101">saporital</span></strong>
 - <u>Rang (ingame):</u> Moderator CityBuild
@@ -430,10 +430,6 @@ Creator sind für kreative Arbeiten wie Texte, Bilder und Grafiken zuständig un
 ### <strong><span style="color:#007812">nek0chi</span></strong>
 - <u>Rang (ingame):</u> Creator
 - <u>Hauptverantwortlich:</u> Zeichnungen und Entwürfe
-
-### <strong><span style="color:#007812">MyLadyJane</span></strong>
-- <u>Rang (ingame):</u> Creator
-- <u>Nebenverantwortlich:</u> Textgestaltung
 
 ### <strong><span style="color:#007812">Tollmolia</span></strong>
 - <u>Rang (ingame):</u> Creator

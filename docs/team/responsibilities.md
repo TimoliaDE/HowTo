@@ -244,7 +244,6 @@ Diese Teamler sind für das Bewerten, Aktualisieren und Kategorisieren von Games
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Schonas</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Sinzilla</span> | Nebenverantwortlich |
 
 ###<strong>YouTuber Events</strong>
 Events, welche von dem Timolia Team für YouTuber veranstaltet werden, werden von diesem Team organisiert.
