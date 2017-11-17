@@ -92,7 +92,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Rang (ingame):</u> Developer Games
 - <u>Nebenverantwortlich:</u> Web-Development
 
-### <strong><span style="color:#007812">LastR_Raziel</span></strong>
+### <strong><span style="color:#007812">Raziel</span></strong>
 - <u>Rang (ingame):</u> Developer Games
 - <u>Hauptverantwortlich:</u> Anti-Cheat
 
