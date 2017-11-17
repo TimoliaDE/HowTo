@@ -110,7 +110,7 @@ Diese Teamler sorgen für einen fortlaufend reibungslosen Spielverlauf ohne Hack
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#007812">LastR_Raziel</span> | Hauptverantwortlich |
+|<span style="color:#007812">Raziel</span> | Hauptverantwortlich |
 |<span style="color:#007812">svdragster</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#CF0101">L0L0</span> | Nebenverantwortlich |
