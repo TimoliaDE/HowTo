@@ -110,10 +110,12 @@ Diese Teamler sorgen für einen fortlaufend reibungslosen Spielverlauf ohne Hack
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#007812">LastR_Raziel</span> | Hauptverantwortlich |
+|<span style="color:#007812">Raziel</span> | Hauptverantwortlich |
 |<span style="color:#007812">svdragster</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#CF0101">L0L0</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">Metrixx7</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">felliongi21</span> | Nebenverantwortlich |
 
 ###<strong>Bugs und Spielfehler</strong>
 Bei jeglichen Fehlern in den Diensten von Timolia kümmert sich dieser Teamler darum, dass die Bugs an den jeweiligen Entwickler weitergetragen werden.

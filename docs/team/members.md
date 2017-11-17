@@ -56,7 +56,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ### <strong><span style="color:#CF0101">Metrixx7</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
 - <u>Hauptverantwortlich:</u> Organisation und Koordination neuer, inaktiver und alter Teamler, YouTuber-Ränge, Zu Unrecht gebannt Forum
-- <u>Nebenverantwortlich:</u> Supporterauswahl, Testen der Games-Maps, Timolia HowTo, Twitter
+- <u>Nebenverantwortlich:</u> Anti-Cheat, Supporterauswahl, Testen der Games-Maps, Timolia HowTo, Twitter
 
 ###<strong><span style="color:#CF0101">Milam</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
@@ -92,7 +92,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Rang (ingame):</u> Developer Games
 - <u>Nebenverantwortlich:</u> Web-Development
 
-### <strong><span style="color:#007812">LastR_Raziel</span></strong>
+### <strong><span style="color:#007812">Raziel</span></strong>
 - <u>Rang (ingame):</u> Developer Games
 - <u>Hauptverantwortlich:</u> Anti-Cheat
 
@@ -158,7 +158,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">felliongi21</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Spieler melden Forum
-- <u>Nebenverantwortlich:</u> Map-Einsendungen, Twitter
+- <u>Nebenverantwortlich:</u> Anti-Cheat, Map-Einsendungen, Twitter
 
 ### <strong><span style="color:#E4D100">ferdedelino</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -431,5 +431,5 @@ Creator sind für kreative Arbeiten wie Texte, Bilder und Grafiken zuständig un
 - <u>Rang (ingame):</u> Creator
 - <u>Hauptverantwortlich:</u> Zeichnungen und Entwürfe
 
-### <strong><span style="color:#007812">Tollmolia</span></strong>
+### <strong><span style="color:#007812">Storiie</span></strong>
 - <u>Rang (ingame):</u> Creator
