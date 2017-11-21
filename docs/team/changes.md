@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>November</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|\_TakeItEaZy\_ | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | 21.11.17 |
 |Storiie | <span style="color:#848484">Spieler</span> | <span style="color:#007812">Creator</span> | 15.11.17 |
 |Caelis | <span style="color:#CF0101">Moderator Games</span> | <span style="color:#2980b9">Administrator</span> | 12.11.17 |
 |MyLadyJane | <span style="color:#007812">Creator</span> | <span style="color:#00F9EC">Expert</span> | 05.11.17 |
