@@ -10,7 +10,7 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 ###<strong>Caelis</strong>
 - <u>Rang (ingame):</u> Administrator Games, CityBuild
 - <u>Hauptverantwortlich:</u> Changelog, Internes Wiki, Management des Development-Teams, Technische Leitung des Bauteams, YouTuber-Events
-- <u>Nebenverantwortlich:</u> Interne Webanwendung, Timolia-Plugins, Twitter
+- <u>Nebenverantwortlich:</u> Interne Webanwendung, Timolia-Plugins
 
 ###<strong>Edgxxar</span></strong>
 - <u>Rang (ingame):</u> Administrator Games, CityBuild
@@ -45,18 +45,18 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">Kenaai</span></strong>
 - <u>Rang (ingame):</u> Moderator Games, CityBuild
-- <u>Hauptverantwortlich:</u> Facebook, YouTube und Twitch
+- <u>Hauptverantwortlich:</u> YouTube und Twitch
 - <u>Nebenverantwortlich:</u> Reports im Forum, TeamSpeak, Timolia-Plugins
 
 ###<strong><span style="color:#CF0101">L0L0</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
 - <u>Hauptverantwortlich:</u> Broadcasts, Spieler melden Forum
-- <u>Nebenverantwortlich:</u> Anti-Cheat, Jump-World Bilder, YouTuber-Ränge
+- <u>Nebenverantwortlich:</u> Anti-Cheat, YouTuber-Ränge
 
 ### <strong><span style="color:#CF0101">Metrixx7</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Hauptverantwortlich:</u> Organisation und Koordination neuer, inaktiver und alter Teamler, YouTuber-Ränge, Zu Unrecht gebannt Forum
-- <u>Nebenverantwortlich:</u> Anti-Cheat, Supporterauswahl, Testen der Games-Maps, Timolia HowTo, Twitter
+- <u>Hauptverantwortlich:</u> Organisation und Koordination neuer, inaktiver und alter Teamler, Twitter, YouTuber-Ränge, Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Anti-Cheat, Supporterauswahl, Testen der Games-Maps, Timolia HowTo
 
 ###<strong><span style="color:#CF0101">Milam</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
@@ -137,8 +137,8 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">Caaro</span></strong>
 - <u>Rang (ingame):</u> Supporterin Games
-- <u>Hauptverantwortlich:</u> Creator-Team Leitung, YouTube und Twitch
-- <u>Nebenverantwortlich:</u> CityBuild Forum, Fragen und Antworten Forum, Social-Media
+- <u>Hauptverantwortlich:</u> Creator-Team Leitung, Socialmedia
+- <u>Nebenverantwortlich:</u> CityBuild Forum, Fragen und Antworten Forum
 
 ###<strong><span style="color:#E4D100">Calavero</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -303,7 +303,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Rang (ingame):</u> Developer CityBuild
 - <u>Hauptverantwortlich:</u> CityBuild-Plugins, Abbauwelt, Farmwelt
 
-###<strong><span style="color:#007812">KenaiHD</span></strong>
+###<strong><span style="color:#007812">Kenaai</span></strong>
 - <u>Rang (ingame):</u> Developer CityBuild
 
 ###<strong><span style="color:#007812">MCelements</span></strong>
@@ -316,8 +316,8 @@ Sie stehen für alle grundlegenden Fragen und Tickets zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">Caaro</span></strong>
 - <u>Rang (ingame):</u> Supporterin CityBuild
-- <u>Hauptverantwortlich:</u> Creator-Team Leitung, YouTube und Twitch
-- <u>Nebenverantwortlich:</u> CityBuild Forum, Fragen und Antworten Forum, Social-Media
+- <u>Hauptverantwortlich:</u> Creator-Team Leitung, Social-Media
+- <u>Nebenverantwortlich:</u> CityBuild Forum, Fragen und Antworten Forum
 
 ###<strong><span style="color:#E4D100">xTessia</span></strong>
 - <u>Rang (ingame):</u> Supporterin CityBuild
