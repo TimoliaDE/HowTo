@@ -152,6 +152,7 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 | Teamler | Projekte u. Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#CF0101">Milam</span> | Hauptverantwortlich |
+|<span style="color:#E4D100">Caaro</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#2980b9">Niklas</span>| Twitter NV |
 |<span style="color:#CF0101">Metrixx7</span> | Twitter HV |
@@ -159,7 +160,6 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 |<span style="color:#CF0101">ItsSarahh</span> | Twitter NV|
 |<span style="color:#CF0101">Kenaai</span> | YouTube HV |
 |<span style="color:#007812">tr7zw</span> | Twitter NV |
-|<span style="color:#E4D100">Caaro</span> | Nebenverantwortlich, YouTube HV |
 |<span style="color:#E4D100">felliongi21</span> | Twitter NV |
 |<span style="color:#E4D100">Juliaan</span> | Twitter NV |
 |<span style="color:#E4D100">trojesatar</span> | YouTube HV |
