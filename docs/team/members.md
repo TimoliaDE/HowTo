@@ -194,10 +194,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">Pixtopiane</span></strong>
 - <u>Rang (ingame):</u> Supporterin Games
 
-### <strong><span style="color:#E4D100">Salvopro</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> TeamSpeak
-
 ### <strong><span style="color:#E4D100">Schonas</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Bug melden Forum, Map-Einsendungen, Testen der Games-Maps
