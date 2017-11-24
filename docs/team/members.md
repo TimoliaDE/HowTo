@@ -137,7 +137,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">Caaro</span></strong>
 - <u>Rang (ingame):</u> Supporterin Games
-- <u>Hauptverantwortlich:</u> Creator-Team Leitung, Socialmedia
+- <u>Hauptverantwortlich:</u> Creator-Team Leitung, Social-Media, YouTube und Twitch
 - <u>Nebenverantwortlich:</u> CityBuild Forum, Fragen und Antworten Forum
 
 ###<strong><span style="color:#E4D100">Calavero</span></strong>
@@ -316,7 +316,7 @@ Sie stehen für alle grundlegenden Fragen und Tickets zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">Caaro</span></strong>
 - <u>Rang (ingame):</u> Supporterin CityBuild
-- <u>Hauptverantwortlich:</u> Creator-Team Leitung, Social-Media
+- <u>Hauptverantwortlich:</u> Creator-Team Leitung, Social-Media, YouTube und Twitch
 - <u>Nebenverantwortlich:</u> CityBuild Forum, Fragen und Antworten Forum
 
 ###<strong><span style="color:#E4D100">xTessia</span></strong>
