@@ -2,7 +2,7 @@ Ob und wie du dich als Administrator, Moderator, Developer, Supporter, Builder u
 
 ### Administrator und Moderator
 Administratoren und Moderatoren werden teamintern befördert, Außenstehende können sich nicht auf diese Ränge bewerben. 
-Administratoren betreuen (u.A.) dasBackend des Netzwerkes, leiten developmenttechnische Projekte und bilden die Leitung Timolias. 
+Administratoren betreuen (u.A.) das Backend des Netzwerkes, leiten developmenttechnische Projekte und bilden die Leitung Timolias. 
 Moderatoren bilden die Brücke zwischen Supportern und Administratoren, sorgen für ein reibungsloses Spielerlebnis und leiten ebenfalls spezialisierte Projekte.
 
 ### Developer
