@@ -135,6 +135,15 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Nebenverantwortlich:</u> Entschuldigungen
 
+### <strong><span style="color:#E4D100">autarkeSymmetrie</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+
+### <strong><span style="color:#E4D100">Be4rstrik3r</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+
+### <strong><span style="color:#E4D100">Bearchen</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
+
 ###<strong><span style="color:#E4D100">Caaro</span></strong>
 - <u>Rang (ingame):</u> Supporterin Games
 - <u>Hauptverantwortlich:</u> Creator-Team Leitung, Social-Media, YouTube und Twitch
@@ -143,6 +152,9 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ###<strong><span style="color:#E4D100">Calavero</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Timolia-Turnier Kits
+
+### <strong><span style="color:#E4D100">Chrissi1505</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
 
 ###<strong><span style="color:#E4D100">DerBull</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -219,6 +231,9 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Entschuldigungen, Anregungen und Vorschläge
 - <u>Nebenverantwortlich:</u> Map-Einsendungen
+
+### <strong><span style="color:#E4D100">Tim9875432</span></strong>
+- <u>Rang (ingame):</u> Supporter Games
 
 ### <strong><span style="color:#E4D100">TobCrafterDE</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
