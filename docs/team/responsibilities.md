@@ -61,9 +61,8 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 ###<strong>Bug melden</strong>
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
+|<span style="color:#E4D100">Schonas</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#E4D100">Schonas</span> | Nebenverantwortlich |
 |Moderatoren und Developer| Nebenverantwortlich |
 
 ###<strong>Entschuldigungen</strong>
@@ -78,12 +77,15 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">NameIsTaken</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">TaiToni</span> | Nebenverantwortlich |
 
 ###<strong>Zu Unrecht gebannt</strong>
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#CF0101">Metrixx7</span> | Hauptverantwortlich |
+| | |
+|<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
 
 ###<strong>CityBuild</strong>
 | Teamler | Verantwortungsgrad |
@@ -122,7 +124,7 @@ Bei jeglichen Fehlern in den Diensten von Timolia kümmert sich dieser Teamler d
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
+|<span style="color:#E4D100">Schonas</span> | Hauptverantwortlich |
 
 ###<strong>Supporterauswahl</strong>
 Wenn es wieder daran geht, neue Supporter in unsere Reihen zu holen, kümmern sich diese Verantwortlichen darum.
@@ -237,8 +239,8 @@ Diese Teamler sind für das Bewerten, Aktualisieren und Kategorisieren von Games
 | ------ | ------ |
 |<span style="color:#E4D100">Elegeta</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#CF0101">Metrixx7</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">Metrixx7</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">FlorianFida</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
@@ -249,8 +251,8 @@ Events, welche von dem Timolia Team für YouTuber veranstaltet werden, werden vo
 
 | Teamler | Zuständigkeit |
 | ------ | ------ |
-|<span style="color:#CF0101">Milam</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">ItsSarahh</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">Milam</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#E4D100">Elegeta</span> | Nebenverantwortlich |
