@@ -41,7 +41,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ###<strong><span style="color:#CF0101">ItsSarahh</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
 - <u>Hauptverantwortlich:</u> Entschuldigungen, Supporterauswahl, YouTuber-Events
-- <u>Nebenverantwortlich:</u> Feedback Forum, Map-Einsendungen, Teamspeak, Testen der Games-Maps, Twitter, YouTuber-Ränge, Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Feedback Forum, Map-Einsendungen, Teamspeak, Testen der Games-Maps, Twitter, YouTuber-Ränge
 
 ###<strong><span style="color:#CF0101">Kenaai</span></strong>
 - <u>Rang (ingame):</u> Moderator Games, CityBuild
