@@ -68,7 +68,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ### <strong><span style="color:#CF0101">Tedget</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Hauptverantwortlich:</u> Bug melden Forum, Bugs und Spielfehler, Changelog, Internes Wiki, Management des Development-Teams, Supporterauswahl, Timolia HowTo, YouTuber-Events, YouTuber-Ränge
+- <u>Hauptverantwortlich:</u> Changelog, Internes Wiki, Management des Development-Teams, Supporterauswahl, Timolia HowTo, YouTuber-Events, YouTuber-Ränge
 
 
 ## Developer
@@ -208,7 +208,8 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Schonas</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Bug melden Forum, Map-Einsendungen, Testen der Games-Maps
+- <u>Hauptverantwortlich:</u> Bug melden Forum, Bugs und Spielfehler
+- <u>Nebenverantwortlich:</u> Map-Einsendungen, Testen der Games-Maps
 
 ###<strong><span style="color:#E4D100">Sinzilla</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
