@@ -9,7 +9,7 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 
 ###<strong>Caelis</strong>
 - <u>Rang (ingame):</u> Administrator Games, CityBuild
-- <u>Hauptverantwortlich:</u> Changelog, Internes Wiki, Management des Development-Teams, Technische Leitung des Bauteams, YouTuber-Events
+- <u>Hauptverantwortlich:</u> Internes Wiki, Management des Development-Teams, Technische Leitung des Bauteams, YouTuber-Events
 - <u>Nebenverantwortlich:</u> Interne Webanwendung, Timolia-Plugins
 
 ###<strong>Edgxxar</span></strong>
@@ -61,14 +61,14 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ###<strong><span style="color:#CF0101">Milam</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
 - <u>Hauptverantwortlich:</u> Achievements, Bauevent-Koordination, Management des Creator-Teams, Gesamtes Forum, Social-Media, YouTube und Twitch, YouTuber-Events
-- <u>Nebenverantwortlich:</u> Broadcasts, Changelog, Entschuldigungen, YouTuber-Ränge
+- <u>Nebenverantwortlich:</u> Broadcasts, Entschuldigungen, YouTuber-Ränge
 
 ###<strong><span style="color:#CF0101">Siimon</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
 
 ### <strong><span style="color:#CF0101">Tedget</span></strong>
 - <u>Rang (ingame):</u> Moderator Games
-- <u>Hauptverantwortlich:</u> Changelog, Internes Wiki, Management des Development-Teams, Supporterauswahl, Timolia HowTo, YouTuber-Events, YouTuber-Ränge
+- <u>Hauptverantwortlich:</u> Internes Wiki, Management des Development-Teams, Supporterauswahl, Timolia HowTo, YouTuber-Events, YouTuber-Ränge
 
 
 ## Developer
@@ -184,7 +184,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">Juliaan</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> Feedback Forum, Off-Topic Forum, Vorstellungen Forum
-- <u>Nebenverantwortlich:</u> Changelog, Entschuldigungen, Fragen und Antworten Forum, Spieler melden Forum, Testen der Games-Maps, Twitter
+- <u>Nebenverantwortlich:</u> Entschuldigungen, Fragen und Antworten Forum, Spieler melden Forum, Testen der Games-Maps, Twitter
 
 ### <strong><span style="color:#E4D100">Julian_999999999</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -242,7 +242,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">trojesatar</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 - <u>Hauptverantwortlich:</u> YouTube und Twitch
-- <u>Nebenverantwortlich:</u> Changelog, Fragen und Antworten Forum, Map-Einsendungen, Teamspeak
+- <u>Nebenverantwortlich:</u> Fragen und Antworten Forum, Map-Einsendungen, Teamspeak
 
 ### <strong><span style="color:#E4D100">xJu1ia</span></strong>
 - <u>Rang (ingame):</u> Supporterin Games
@@ -261,7 +261,7 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 
 ###<strong>Caelis</strong>
 - <u>Rang (ingame):</u> Administrator Games, CityBuild
-- <u>Hauptverantwortlich:</u> Changelog, Internes Wiki, Management des Development-Teams, Technische Leitung des Bauteams, YouTuber-Events
+- <u>Hauptverantwortlich:</u> Internes Wiki, Management des Development-Teams, Technische Leitung des Bauteams, YouTuber-Events
 - <u>Nebenverantwortlich:</u> Interne Webanwendung, Timolia-Plugins
 
 ###<strong>Docmac</strong>
