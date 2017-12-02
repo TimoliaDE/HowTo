@@ -61,9 +61,8 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 ###<strong>Bug melden</strong>
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
+|<span style="color:#E4D100">Schonas</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#E4D100">Schonas</span> | Nebenverantwortlich |
 |Moderatoren und Developer| Nebenverantwortlich |
 
 ###<strong>Entschuldigungen</strong>
@@ -78,6 +77,7 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">NameIsTaken</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">TaiToni</span> | Nebenverantwortlich |
 
 ###<strong>Zu Unrecht gebannt</strong>
@@ -122,7 +122,7 @@ Bei jeglichen Fehlern in den Diensten von Timolia kümmert sich dieser Teamler d
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
+|<span style="color:#E4D100">Schonas</span> | Hauptverantwortlich |
 
 ###<strong>Supporterauswahl</strong>
 Wenn es wieder daran geht, neue Supporter in unsere Reihen zu holen, kümmern sich diese Verantwortlichen darum.
@@ -193,19 +193,6 @@ Die beiden Supporter entscheiden über Turniereinstellungen bei den Freitagsturn
 |<span style="color:#E4D100">Calavero</span> | Hauptverantwortlich |
 |<span style="color:#E4D100">FlorianFida</span> | Hauptverantwortlich |
 
-###<strong>Changelog</strong>
-Dieses Team sorgt für einen aktuellen Changelog im HowTo.
-
-| Teamler | Verantwortungsgrad |
-| ------ | ------ |
-|<span style="color:#2980b9">Caelis</span> | Hauptverantwortlich |
-|<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
-| | |
-|<span style="color:#CF0101">Milam</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Caaro</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">trojesatar</span> | Nebenverantwortlich |
-
 ###<strong>Broadcasts</strong>
 Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadcast Mitteilungen gekümmert.
 
@@ -237,8 +224,8 @@ Diese Teamler sind für das Bewerten, Aktualisieren und Kategorisieren von Games
 | ------ | ------ |
 |<span style="color:#E4D100">Elegeta</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#CF0101">Metrixx7</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">Metrixx7</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">FlorianFida</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
@@ -249,8 +236,8 @@ Events, welche von dem Timolia Team für YouTuber veranstaltet werden, werden vo
 
 | Teamler | Zuständigkeit |
 | ------ | ------ |
-|<span style="color:#CF0101">Milam</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">ItsSarahh</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">Milam</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#E4D100">Elegeta</span> | Nebenverantwortlich |
