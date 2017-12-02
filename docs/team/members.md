@@ -41,7 +41,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ###<strong><span style="color:#CF0101">ItsSarahh</span></strong>
 - <u>Rang (ingame):</u> Moderatorin Games
 - <u>Hauptverantwortlich:</u> Entschuldigungen, Supporterauswahl, YouTuber-Events
-- <u>Nebenverantwortlich:</u> Feedback Forum, Map-Einsendungen, Teamspeak, Testen der Games-Maps, Twitter, YouTuber-Ränge
+- <u>Nebenverantwortlich:</u> Feedback Forum, Map-Einsendungen, Teamspeak, Testen der Games-Maps, Twitter, YouTuber-Ränge, Zu Unrecht gebannt Forum
 
 ###<strong><span style="color:#CF0101">Kenaai</span></strong>
 - <u>Rang (ingame):</u> Moderator Games, CityBuild
@@ -197,7 +197,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">NameIsTaken</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-- <u>Nebenverantwortlich:</u> Fragen und Antworten Forum
+- <u>Nebenverantwortlich:</u> Entschuldigungen, Fragen und Antworten Forum
 
 ### <strong><span style="color:#E4D100">Percyfan55</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
@@ -261,7 +261,7 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 ###<strong>Caelis</strong>
 - <u>Rang (ingame):</u> Administrator Games, CityBuild
 - <u>Hauptverantwortlich:</u> Changelog, Internes Wiki, Management des Development-Teams, Technische Leitung des Bauteams, YouTuber-Events
-- <u>Nebenverantwortlich:</u> Interne Webanwendung, Timolia-Plugins, Twitter
+- <u>Nebenverantwortlich:</u> Interne Webanwendung, Timolia-Plugins
 
 ###<strong>Docmac</strong>
 - <u>Rang (ingame):</u> Administrator CityBuild, Games
