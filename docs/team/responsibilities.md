@@ -195,19 +195,6 @@ Die beiden Supporter entscheiden über Turniereinstellungen bei den Freitagsturn
 |<span style="color:#E4D100">Calavero</span> | Hauptverantwortlich |
 |<span style="color:#E4D100">FlorianFida</span> | Hauptverantwortlich |
 
-###<strong>Changelog</strong>
-Dieses Team sorgt für einen aktuellen Changelog im HowTo.
-
-| Teamler | Verantwortungsgrad |
-| ------ | ------ |
-|<span style="color:#2980b9">Caelis</span> | Hauptverantwortlich |
-|<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
-| | |
-|<span style="color:#CF0101">Milam</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Caaro</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">trojesatar</span> | Nebenverantwortlich |
-
 ###<strong>Broadcasts</strong>
 Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadcast Mitteilungen gekümmert.
 
