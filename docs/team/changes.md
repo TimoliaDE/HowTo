@@ -50,7 +50,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>Juli</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
-|DrProfVincent | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | 28.07.17 |
+|vincent0110 | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | 28.07.17 |
 |Tobifaction | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | 27.07.17 |
 |DerBull | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 25.07.17 |
 |ferdedelino | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 21.07.17 |
