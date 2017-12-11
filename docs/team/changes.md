@@ -2,13 +2,18 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 
 # 2017
 
+###<strong>Dezember</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+|trojesatar | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | 11.12.17 |
+
 ###<strong>November</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |Be4rstr1ker | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 22.11.17 |
 |Bearchen | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 22.11.17 |
 |Chrissi1505 | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 22.11.17 |
-|autarkeSymmetrie | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 22.11.17 |
+|SlimeGmes | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 22.11.17 |
 |Tim9875432 | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 22.11.17 |
 |Salvopro | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | 22.11.17 |
 |\_TakeItEaZy\_ | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | 21.11.17 |
