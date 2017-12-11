@@ -239,11 +239,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">TobCrafterDE</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
 
-### <strong><span style="color:#E4D100">trojesatar</span></strong>
-- <u>Rang (ingame):</u> Supporter Games
-- <u>Hauptverantwortlich:</u> YouTube und Twitch
-- <u>Nebenverantwortlich:</u> Fragen und Antworten Forum, Map-Einsendungen, Teamspeak
-
 ### <strong><span style="color:#E4D100">xJu1ia</span></strong>
 - <u>Rang (ingame):</u> Supporterin Games
 
