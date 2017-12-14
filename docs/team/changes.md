@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>Dezember</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|xJu1ia | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | 14.12.17 |
 |trojesatar | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | 11.12.17 |
 
 ###<strong>November</strong>
