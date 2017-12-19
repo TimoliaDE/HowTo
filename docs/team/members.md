@@ -22,10 +22,6 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 - <u>Hauptverantwortlich:</u> Games, Timolia-Plugins
 - <u>Nebenverantwortlich:</u> Hardware
 
-###<strong>Moehritz</strong>
-- <u>Rang (ingame):</u> Administrator Games, CityBuild
-- <u>Hauptverantwortlich:</u> Development, Timolia-Plugins
-
 ###<strong>Niklas</strong>
 - <u>Rang (ingame):</u> Administrator Games
 - <u>Hauptverantwortlich:</u> Interne Webanwendung, Webseite
@@ -98,10 +94,6 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 ### <strong><span style="color:#007812">logito111</span></strong>
 - <u>Rang (ingame):</u> Developer Games
-
-### <strong><span style="color:#007812">Mari_W</span></strong>
-- <u>Rang (ingame):</u> Developer Games
-- <u>Nebenverantwortlich:</u> Backend
 
 ### <strong><span style="color:#007812">MatzyDE</span></strong>
 - <u>Rang (ingame):</u> Developer Games
@@ -238,9 +230,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">TobCrafterDE</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
-
-### <strong><span style="color:#E4D100">xJu1ia</span></strong>
-- <u>Rang (ingame):</u> Supporterin Games
 
 ### <strong><span style="color:#E4D100">xMaudodo</span></strong>
 - <u>Rang (ingame):</u> Supporter Games
