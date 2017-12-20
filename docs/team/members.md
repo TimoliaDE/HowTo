@@ -408,6 +408,10 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ## Creator
 Creator sind für kreative Arbeiten wie Texte, Bilder und Grafiken zuständig und sind kreative Köpfe des Teams.
 
+###<strong><span style="color:#007812">die_maren</span></strong>
+- <u>Rang (ingame):</u> Creator
+- <u>Nebenverantwortlich:</u> Bauteam Twitter
+
 ###<strong><span style="color:#007812">Evageddon</span></strong>
 - <u>Rang (ingame):</u> Creator
 - <u>Hauptverantwortlich:</u> Grafikdesign
