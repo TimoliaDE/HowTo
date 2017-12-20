@@ -163,6 +163,7 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 |<span style="color:#00646F">JukPlays</span> | Bauteam-Twitter HV |
 |<span style="color:#00646F">GameZter</span> | Bauteam-Twitter NV |
 |<span style="color:#00646F">xnulix</span> | Bauteam-Twitter NV |
+|<span style="color:#007812">die_maren</span> | Bauteam-Twitter NV |
 
 ###<strong>TeamSpeak</strong>
 Der Teamspeak von Timolia ist unter ts.timolia.de zu erreichen. Er wird betreut von diesen Teamlern.
