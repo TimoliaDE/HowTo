@@ -279,15 +279,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ### <strong><span style="color:#00646F">\_Geizhals\_</span></strong>
 - <u>Rang (ingame):</u> Builder
 
-### <strong><span style="color:#00646F">BauEule</span></strong>
-- <u>Rang (ingame):</u> Builder
-
-###<strong><span style="color:#00646F">Dankbarkeit</span></strong>
-- <u>Rang (ingame):</u> Builder
-
-### <strong><span style="color:#00646F">DeinMund</span></strong>
-- <u>Rang (ingame):</u> Builder
-
 ### <strong><span style="color:#00646F">Eddyyyyyyy</span></strong>
 - <u>Rang (ingame):</u> Builder
 
@@ -295,9 +286,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder
 
 ###<strong><span style="color:#00646F">engiwuck</span></strong>
-- <u>Rang (ingame):</u> Builder
-
-###<strong><span style="color:#00646F">eZZrael</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ###<strong><span style="color:#00646F">GameZter</span></strong>
@@ -342,9 +330,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ### <strong><span style="color:#00646F">xnulix</span></strong>
 - <u>Rang (ingame):</u> Builder
 - <u>Nebenverantwortlich:</u> Bauteam-Twitter
-
-### <strong><span style="color:#00646F">XoroMC</span></strong>
-- <u>Rang (ingame):</u> Builder
 
 
 ## Creator
