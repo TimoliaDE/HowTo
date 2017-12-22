@@ -32,14 +32,13 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 
 | Befehl | Funktion |
 | ------ | -------- |
-| `/report <Spieler> <Beweislink>` | Erstellt einen Report mit Beweis |
-| `/livereport <Spieler> <Grund>` | Erstellt einen Livereport |
-| `/chatreport <Spieler> [Grund]` | Erstellt einen Chatreport |
-| `/kitreport <Spieler> [Kit]` | Erstellt einen Report über ein Kit |
-| `/teamingreport <Spieler 1> <Spieler 2> [Spieler 3] ...` | Erstellt einen Report über Spieler, die unerlaubt teamen. |
-| `/reports [-c] [-a]` | Öffnet eine Übersicht über deine Reports |
-| `/reportstats` | Zeigt dir deine Reportwahrscheinlichkeit an |
-| `/closereport <Spieler/ID>` | Schließe deinen eigenen Report |
+| `/report <Spieler>` | Erstellt nach Auswählen der Kategorie einen Report |
+| `/reportjnr <ID>` | Erstellt einen Report über ein Jump and Run in Jump World |
+| `/reportbugusing <Spieler> <Beschreibung>` | Erstellt einen Bugreport |
+| `/reportevidence <Spieler> <Beweis>` | Erstellt einen Report mit Beweis |
+| `/reportinfo <ID>` | Zeigt dir alle Infos über einen Report an |
+| `/reports [Seite]` | Öffnet eine Übersicht über deine Reports |
+| `/reportstats` | Zeigt dir die Erfolgsquoten deiner erstellten Reports an |
 
 ### Lobby
 | Befehl | Funktion |
