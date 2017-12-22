@@ -32,21 +32,13 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 
 | Befehl | Funktion |
 | ------ | -------- |
-
-/report <Spieler>
-/reportjnr <ID>
-/reportbugusing <Spieler> <Beschreibung>
-/reportevidence <Spieler> <Beweis>
-/reportinfo <ID>
-/reports [Seite]
-
-
 | `/report <Spieler>` | Erstellt nach Auswählen der Kategorie einen Report |
 | `/reportjnr <ID>` | Erstellt einen Report über ein Jump and Run in Jump World |
 | `/reportbugusing <Spieler> <Beschreibung>` | Erstellt einen Bugreport |
 | `/reportevidence <Spieler> <Beweis>` | Erstellt einen Report mit Beweis |
 | `/reportinfo <ID>` | Zeigt dir alle Infos über einen Report an |
 | `/reports [Seite]` | Öffnet eine Übersicht über deine Reports |
+| `/reportstats` | Zeigt dir die Erfolgsquoten deiner erstellten Reports an |
 
 ### Lobby
 | Befehl | Funktion |
