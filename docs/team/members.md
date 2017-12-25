@@ -355,6 +355,3 @@ Creator sind für kreative Arbeiten wie Texte, Bilder und Grafiken zuständig un
 ### <strong><span style="color:#007812">nek0chi</span></strong>
 - <u>Rang (ingame):</u> Creator
 - <u>Hauptverantwortlich:</u> Zeichnungen und Entwürfe
-
-### <strong><span style="color:#007812">Storiie</span></strong>
-- <u>Rang (ingame):</u> Creator
