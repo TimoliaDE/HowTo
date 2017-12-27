@@ -31,6 +31,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>Oktober</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|Eddyyyyyyy | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | 28.10.17 |
 |Flaxify | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | 19.10.17 |
 |Sry4BowAimbot | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | 19.10.17 |
 |Caaro | <span style="color:#E4D100">Supporterin City</span> | <span style="color:#E4D100">Supporterin City & Games</span> | 12.10.17 |
