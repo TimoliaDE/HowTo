@@ -6,6 +6,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |eZZrael | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | 22.12.17 |
+|Storiie | <span style="color:#007812">Creator</span> | <span style="color:#848484">Spieler</span> | 21.11.17 |
 |die_maren | <span style="color:#F99500">Pro</span> | <span style="color:#007812">Creator</span> | 16.12.17 |
 |xJu1ia | <span style="color:#E4D100">Supporterin Games</span> | <span style="color:#00F9EC">Expert</span> | 14.12.17 |
 |Mari_W | <span style="color:#007812">Developer</span> | <span style="color:#00F9EC">Expert</span> | 12.12.17 |
@@ -30,6 +31,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>Oktober</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|Eddyyyyyyy | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | 28.10.17 |
 |Flaxify | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | 19.10.17 |
 |Sry4BowAimbot | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | 19.10.17 |
 |Caaro | <span style="color:#E4D100">Supporterin City</span> | <span style="color:#E4D100">Supporterin City & Games</span> | 12.10.17 |
