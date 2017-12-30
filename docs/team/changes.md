@@ -12,7 +12,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 |xJu1ia | <span style="color:#E4D100">Supporterin Games</span> | <span style="color:#00F9EC">Expert</span> | 14.12.17 |
 |Mari_W | <span style="color:#007812">Developer</span> | <span style="color:#00F9EC">Expert</span> | 12.12.17 |
 |Moehritz | <span style="color:#2980b9">Administrator</span> | <span style="color:#00F9EC">Expert</span> | 12.12.17 |
-|trojesatar | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | 11.12.17 |
+|trojesatar | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | 11.12.17 |
 
 ###<strong>November</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
