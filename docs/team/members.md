@@ -53,7 +53,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ### <strong><span style="color:#CF0101">JOlegna</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Upper Hills, CityBuild Forum
-- <u>Nebenverantwortlich:</u> Supporterauswahl, Timolia HowTo
+- <u>Nebenverantwortlich:</u> Supporterauswahl, Teamspeak, Timolia HowTo
 
 ###<strong><span style="color:#CF0101">Kenaai</span></strong>
 - <u>Rang (ingame):</u> Moderator
@@ -231,10 +231,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter
 - <u>Hauptverantwortlich:</u> Bug melden Forum, Bugs und Spielfehler
 - <u>Nebenverantwortlich:</u> Map-Einsendungen, Testen der Games-Maps
-
-###<strong><span style="color:#E4D100">Sinzilla</span></strong>
-- <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> YouTuber-Events
 
 ### <strong><span style="color:#E4D100">SpaceJumper</span></strong>
 - <u>Rang (ingame):</u> Supporter
