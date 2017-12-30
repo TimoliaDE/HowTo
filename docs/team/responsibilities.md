@@ -237,7 +237,6 @@ Events, welche von dem Timolia Team für YouTuber veranstaltet werden, werden vo
 |<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#E4D100">Elegeta</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Sinzilla</span> | Nebenverantwortlich |
 
 ###<strong>YouTuber-Ränge</strong>
 Wenn sich ein YouTuber für einen Rang auf Timolia interessiert, werden die Anfragen von diesem Team bearbeitet.
