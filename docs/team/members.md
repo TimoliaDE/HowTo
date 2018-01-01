@@ -159,9 +159,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">Be4rstrik3r</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
-### <strong><span style="color:#E4D100">Bearchen</span></strong>
-- <u>Rang (ingame):</u> Supporter
-
 ###<strong><span style="color:#E4D100">Caaro</span></strong>
 - <u>Rang (ingame):</u> Supporterin
 - <u>Hauptverantwortlich:</u> Creator-Team Leitung, Social-Media, YouTube und Twitch
