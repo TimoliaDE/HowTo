@@ -11,10 +11,6 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 - <u>Hauptverantwortlich:</u> Internes Wiki, Management des Development-Teams, Technische Leitung des Bauteams, YouTuber-Events
 - <u>Nebenverantwortlich:</u> Interne Webanwendung, Timolia-Plugins
 
-###<strong>Docmac</strong>
-- <u>Rang (ingame):</u> Administrator
-- <u>Hauptverantwortlich:</u> CityBuild-Server, CityBuild-Supporter, Steam
-
 ###<strong>Edgxxar</span></strong>
 - <u>Rang (ingame):</u> Administrator
 - <u>Hauptverantwortlich:</u> Timolia-Plugins
@@ -157,9 +153,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter
 
 ### <strong><span style="color:#E4D100">Be4rstrik3r</span></strong>
-- <u>Rang (ingame):</u> Supporter
-
-### <strong><span style="color:#E4D100">Bearchen</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
 ###<strong><span style="color:#E4D100">Caaro</span></strong>
