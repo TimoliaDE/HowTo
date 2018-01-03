@@ -94,9 +94,6 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ### <strong><span style="color:#007812">5zig</span></strong>
 - <u>Rang (ingame):</u> Developer
 
-### <strong><span style="color:#007812">BlueWather2</span></strong>
-- <u>Rang (ingame):</u> Developer
-
 ###<strong><span style="color:#007812">Bukkit_PVP</span></strong>
 - <u>Rang (ingame):</u> Developer
 
@@ -113,9 +110,6 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Hauptverantwortlich:</u> Anti-Cheat
 
 ### <strong><span style="color:#007812">logito111</span></strong>
-- <u>Rang (ingame):</u> Developer
-
-### <strong><span style="color:#007812">MatzyDE</span></strong>
 - <u>Rang (ingame):</u> Developer
 
 ###<strong><span style="color:#007812">MCelements</span></strong>
