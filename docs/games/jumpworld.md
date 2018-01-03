@@ -17,6 +17,7 @@ In JumpWorld können verschiedenste Jump and Runs gespielt, aber auch selbst erb
 ## Das Jump and Run des Tages
 Täglich wird ein Jump and Run des Tages gekürt.
 Um das Jump and Run des Tages von Tag X zu werden:
+
 - veröffentlicht von 20 Uhr Tag X-2 bis 20 Uhr Tag X-1
 - geschafft von mindestens 10% aller Spieler, die es versucht haben
 - mindestens 25 Bewertungen
