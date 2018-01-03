@@ -1,8 +1,7 @@
 ![JumpWorld](img/JumpWorld.png)
 
 ## Das Spielprinzip
-In JumpWorld können verschiedenste Jump and Runs gespielt, aber auch selbst erbaut werden. Des weiteren kann man sich mit Freunden in Duellen messen. Täglich wird ein
-Jump and Run des Tages gekürt, dies ist der bestbewertetste Parcour des vorherigen Tages.
+In JumpWorld können verschiedenste Jump and Runs gespielt, aber auch selbst erbaut werden. Des weiteren kann man sich mit Freunden in Duellen messen.
 
 ## Und so gehts
 - Mit der Rakete in deinem Inventar können Jump and Runs gesucht werden.
@@ -14,6 +13,14 @@ Jump and Run des Tages gekürt, dies ist der bestbewertetste Parcour des vorheri
 - Mit dem zweiten Item in deinem Inventar kannst du die Sichtbarkeit der Spieler einstellen.
 - Am Ende eines Jump and Runs kannst du den Parcour in insgesamt drei Kategorien bewerten.
 - Solltest du ein Jump and Run begutachten wollen kannst du mit `/spec` den Flugmodus aktivieren.
+
+## Das Jump and Run des Tages
+Täglich wird ein Jump and Run des Tages gekürt.
+Um das Jump and Run des Tages von Tag X zu werden:
+- veröffentlicht von 20 Uhr Tag X-2 bis 20 Uhr Tag X-1
+- geschafft von mindestens 10% aller Spieler, die es versucht haben
+- mindestens 25 Bewertungen
+- besser bewertet als alle anderen, die auch die Kriterien erfüllen
 
 ## Der Bau-Modus
 - Mit dem Feuerwerksstern in deinem Inventar kannst du einen Bauslot auswählen, sofern andere Spieler mitbauen sollen musst du diese zuvor in ein Duell einladen.
