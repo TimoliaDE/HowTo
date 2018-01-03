@@ -13,6 +13,8 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |Docmac | <span style="color:#2980b9">Administrator</span> | <span style="color:#00F9EC">Expert</span> | 31.12.17 |
+|BlueWather2 | <span style="color:#007812">Developer</span> | <span style="color:#00F9EC">Expert</span> | 29.12.17 |
+|MatzyDE | <span style="color:#007812">Developer</span> | <span style="color:#00F9EC">Expert</span> | 29.12.17 |
 |Sinzilla | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 29.12.17 |
 |eZZrael | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | 22.12.17 |
 |Storiie | <span style="color:#007812">Creator</span> | <span style="color:#848484">Spieler</span> | 21.12.17 |
