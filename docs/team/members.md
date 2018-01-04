@@ -217,7 +217,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">Schonas</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Hauptverantwortlich:</u> Bug melden Forum, Bugs und Spielfehler
-- <u>Nebenverantwortlich:</u> Map-Einsendungen, Testen der Games-Maps
+- <u>Nebenverantwortlich:</u> Map-Einsendungen, Testen der Games-Maps, Zu Unrecht gebannt Forum
 
 ### <strong><span style="color:#E4D100">SpaceJumper</span></strong>
 - <u>Rang (ingame):</u> Supporter
