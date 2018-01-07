@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>Januar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|Be4rstr1ker | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 07.01.18 |
 |Bearchen | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 01.01.18 |
 
 # 2017
