@@ -143,12 +143,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Entschuldigungen
 
-### <strong><span style="color:#E4D100">SlimeGmes</span></strong>
-- <u>Rang (ingame):</u> Supporter
-
-### <strong><span style="color:#E4D100">Be4rstrik3r</span></strong>
-- <u>Rang (ingame):</u> Supporter
-
 ###<strong><span style="color:#E4D100">Caaro</span></strong>
 - <u>Rang (ingame):</u> Supporterin
 - <u>Hauptverantwortlich:</u> Creator-Team Leitung, Social-Media, YouTube und Twitch
@@ -218,6 +212,9 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter
 - <u>Hauptverantwortlich:</u> Bug melden Forum, Bugs und Spielfehler
 - <u>Nebenverantwortlich:</u> Map-Einsendungen, Testen der Games-Maps
+
+### <strong><span style="color:#E4D100">SlimeGmes</span></strong>
+- <u>Rang (ingame):</u> Supporter
 
 ### <strong><span style="color:#E4D100">SpaceJumper</span></strong>
 - <u>Rang (ingame):</u> Supporter
