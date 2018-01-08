@@ -5,7 +5,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>Januar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
-|JoJoYoshy | <span style="color:#CF0101">Moderatorin</span> | <span style="color:#F99500">Pro</span> | 08.11.17 |
+|JoJoYoshy | <span style="color:#CF0101">Moderatorin</span> | <span style="color:#00F9EC">Expert</span> | 08.11.17 |
 |Be4rstr1ker | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 07.01.18 |
 |Bearchen | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 01.01.18 |
 
