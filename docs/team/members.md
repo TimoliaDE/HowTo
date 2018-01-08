@@ -43,9 +43,6 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 - <u>Hauptverantwortlich:</u> Entschuldigungen, Supporterauswahl, YouTuber-Events
 - <u>Nebenverantwortlich:</u> Feedback Forum, Map-Einsendungen, Teamspeak, Testen der Games-Maps, Twitter, YouTuber-Ränge
 
-###<strong><span style="color:#CF0101">JoJoYoshy</span></strong>
-- <u>Rang (ingame):</u> Moderatorin
-
 ### <strong><span style="color:#CF0101">JOlegna</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Upper Hills, CityBuild Forum
@@ -127,6 +124,9 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Rang (ingame):</u> Developer
 - <u>Hauptverantwortlich:</u> Anti-Cheat
 
+###<strong><span style="color:#007812">TheBrownShape</span></strong>
+- <u>Rang (ingame):</u> Developer
+
 ###<strong><span style="color:#007812">tr7zw</span></strong>
 - <u>Rang (ingame):</u> Developer
 - <u>Hauptverantwortlich:</u> CityBuild-Plugins, Abbauwelt, Farmwelt
@@ -142,12 +142,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">Aenzo</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Entschuldigungen
-
-### <strong><span style="color:#E4D100">SlimeGmes</span></strong>
-- <u>Rang (ingame):</u> Supporter
-
-### <strong><span style="color:#E4D100">Be4rstrik3r</span></strong>
-- <u>Rang (ingame):</u> Supporter
 
 ###<strong><span style="color:#E4D100">Caaro</span></strong>
 - <u>Rang (ingame):</u> Supporterin
@@ -219,15 +213,15 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Hauptverantwortlich:</u> Bug melden Forum, Bugs und Spielfehler
 - <u>Nebenverantwortlich:</u> Map-Einsendungen, Testen der Games-Maps, Zu Unrecht gebannt Forum
 
+### <strong><span style="color:#E4D100">SlimeGmes</span></strong>
+- <u>Rang (ingame):</u> Supporter
+
 ### <strong><span style="color:#E4D100">SpaceJumper</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
 ### <strong><span style="color:#E4D100">TaiToni</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Entschuldigungen
-
-###<strong><span style="color:#E4D100">TheBrownShape</span></strong>
-- <u>Rang (ingame):</u> Supporter
 
 ### <strong><span style="color:#E4D100">TheFeldi</span></strong>
 - <u>Rang (ingame):</u> Supporter
