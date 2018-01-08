@@ -43,9 +43,6 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 - <u>Hauptverantwortlich:</u> Entschuldigungen, Supporterauswahl, YouTuber-Events
 - <u>Nebenverantwortlich:</u> Feedback Forum, Map-Einsendungen, Teamspeak, Testen der Games-Maps, Twitter, YouTuber-Ränge
 
-###<strong><span style="color:#CF0101">JoJoYoshy</span></strong>
-- <u>Rang (ingame):</u> Moderatorin
-
 ### <strong><span style="color:#CF0101">JOlegna</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Upper Hills, CityBuild Forum
