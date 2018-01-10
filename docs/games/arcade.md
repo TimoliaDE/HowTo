@@ -5,6 +5,8 @@
 Insgesamt sechzehn Minispiele werden in Arcade gespielt, Abwechslung und Spaß sind garantiert. Messe dich einzeln oder in
 Turnieren gegen deine Mitspieler und gewinne die meisten Spiele.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hctHaY6g-8A" frameborder="0" allowfullscreen></iframe>
+
 ## Und so gehts
 - In einer Arcade-Lobby rotieren alle der insgesamt sechzehn Minispiele kontinuierlich.
 - Jedes Minispiel benötigt unterschiedliche Fähigkeiten und fordert alle deine Seiten.
