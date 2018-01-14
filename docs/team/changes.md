@@ -5,7 +5,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>Januar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
-|InfiniteFery | <span style="color:#00646F">Builder</span> | <span style="color:#00F9EC">Expert</span> | 14.01.18 |
+|InfiniteFery | <span style="color:#00646F">Builderin</span> | <span style="color:#00F9EC">Expert</span> | 14.01.18 |
 |nek0chi | <span style="color:#007812">Creator</span> | <span style="color:#00F9EC">Expert</span> | 13.01.18 |
 |Kritzelkiste | <span style="color:#007812">Creator</span> | <span style="color:#00F9EC">Expert</span> | 13.01.18 |
 |Caaro | <span style="color:#E4D100">Supporterin</span> | <span style="color:#00F9EC">Expert</span> | 12.01.18 |
