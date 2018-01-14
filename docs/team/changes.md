@@ -5,6 +5,8 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>Januar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|nek0chi | <span style="color:#007812">Creator</span> | <span style="color:#00F9EC">Expert</span> | 13.01.18 |
+|Kritzelkiste | <span style="color:#007812">Creator</span> | <span style="color:#00F9EC">Expert</span> | 13.01.18 |
 |JoJoYoshy | <span style="color:#CF0101">Moderatorin</span> | <span style="color:#00F9EC">Expert</span> | 08.01.18 |
 |Be4rstr1ker | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 07.01.18 |
 |Bearchen | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 01.01.18 |
