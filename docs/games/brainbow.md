@@ -5,6 +5,8 @@
 In BrainBow kannst du gemeinsam mit deinen Teamkollegen deine Fähigkeiten im Bogenschießen unter Beweis stellen. Das Team mit den letzten Überlebenden gewinnt die
 Runde und kann den Kampf für sich entscheiden.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EPi7lAyV3R8" frameborder="0" allowfullscreen></iframe>
+
 ## Und so gehts
 - Bis zu vier Teams kämpfen in der Arena gegeneinander.
 - Zu Beginn des Spiels werden alle Teams in ihre Basis teleportiert, von denen aus das Spiel begonnen wird.
