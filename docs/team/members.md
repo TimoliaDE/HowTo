@@ -274,9 +274,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder
 - <u>Hauptverantwortlich:</u> Map-Einsendungen
 
-### <strong><span style="color:#00646F">Skerai</span></strong>
-- <u>Rang (ingame):</u> Builderin
-
 ### <strong><span style="color:#00646F">TetzelHD</span></strong>
 - <u>Rang (ingame):</u> Builder
 
