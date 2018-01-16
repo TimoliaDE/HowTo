@@ -143,11 +143,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Entschuldigungen
 
-###<strong><span style="color:#E4D100">Caaro</span></strong>
-- <u>Rang (ingame):</u> Supporterin
-- <u>Hauptverantwortlich:</u> Creator-Team Leitung, Social-Media, YouTube und Twitch
-- <u>Nebenverantwortlich:</u> CityBuild Forum, Fragen und Antworten Forum
-
 ###<strong><span style="color:#E4D100">Calavero</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Hauptverantwortlich:</u> Timolia-Turnier Kits
@@ -267,9 +262,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Hauptverantwortlich:</u> Endprüfung der Games-Maps
 - <u>Nebenverantwortlich:</u> Bauteam-Twitter
 
-###<strong><span style="color:#00646F">InfiniteFery</span></strong>
-- <u>Rang (ingame):</u> Builderin
-
 ### <strong><span style="color:#00646F">Jukplays</span></strong>
 - <u>Rang (ingame):</u> Builder
 - <u>Hauptverantwortlich:</u> Bauteam-Twitter
@@ -281,9 +273,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ### <strong><span style="color:#00646F">Memoryos</span></strong>
 - <u>Rang (ingame):</u> Builder
 - <u>Hauptverantwortlich:</u> Map-Einsendungen
-
-### <strong><span style="color:#00646F">Skerai</span></strong>
-- <u>Rang (ingame):</u> Builderin
 
 ### <strong><span style="color:#00646F">TetzelHD</span></strong>
 - <u>Rang (ingame):</u> Builder

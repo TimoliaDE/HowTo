@@ -24,7 +24,6 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 | ------ | ------ |
 |<span style="color:#E4D100">Julian_999999999</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#E4D100">Caaro</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">NameIsTaken</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
 
@@ -91,7 +90,6 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 |<span style="color:#CF0101">JOlegna</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#CF0101">Caprea</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Caaro</span> | Nebenverantwortlich |
 
 ###<strong>Off-Topic</strong>
 | Teamler | Verantwortungsgrad |
@@ -152,7 +150,6 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 | Teamler | Projekte u. Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#CF0101">Milam</span> | Hauptverantwortlich |
-|<span style="color:#E4D100">Caaro</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#2980b9">Niklas</span>| Twitter NV |
 |<span style="color:#CF0101">Metrixx7</span> | Twitter HV |
@@ -178,7 +175,6 @@ Der Teamspeak von Timolia ist unter ts.timolia.de zu erreichen. Er wird betreut 
 |<span style="color:#CF0101">JOlegna</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">Kenaai</span> | Nebenverantwortlich |
 |<span style="color:#007812">MCelements</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Caaro</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Percyfan55</span> | Nebenverantwortlich |
@@ -211,7 +207,6 @@ Im Timolia Team gibt es kleinere Teams, welche unter anderem durch diese Verantw
 |<span style="color:#2980b9">Caelis</span> | Management des Development-Teams |
 |<span style="color:#CF0101">Tedget</span> | Management des Development-Teams |
 |<span style="color:#CF0101">Milam</span> | Management des Creator-Teams und des YouTube-Teams |
-|<span style="color:#E4D100">Caaro</span> | Management des Creator-Teams und des YouTube-Teams |
 |<span style="color:#CF0101">Kenaai</span> | Management des YouTube-Teams |
 |<span style="color:#00646F">Vectrail</span> | Management des Bau-Teams |
 
