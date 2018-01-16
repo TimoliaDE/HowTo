@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>Januar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|WildeMaus | <span style="color:#00646F">Builderin</span> | <span style="color:#F99500">Pro</span> | 16.01.18 |
 |Skerai | <span style="color:#00646F">Builderin</span> | <span style="color:#F99500">Pro</span> | 15.01.18 |
 |InfiniteFery | <span style="color:#00646F">Builderin</span> | <span style="color:#00F9EC">Expert</span> | 14.01.18 |
 |nek0chi | <span style="color:#007812">Creator</span> | <span style="color:#00F9EC">Expert</span> | 13.01.18 |
