@@ -13,8 +13,6 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#E4D100">Tiem</span> | Hauptverantwortlich |
-| | |
 |<span style="color:#E4D100">FlorianFida</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">xMaudodo</span> | Nebenverantwortlich |
 
@@ -44,7 +42,6 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 |<span style="color:#E4D100">felliongi21</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">iskander</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Schonas</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Tiem</span> | Nebenverantwortlich |
 
 ###<strong>Spieler melden</strong>
 | Teamler | Verantwortungsgrad |
@@ -66,7 +63,6 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#CF0101">ItsSarahh</span> | Hauptverantwortlich |
-|<span style="color:#E4D100">Tiem</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#CF0101">Milam</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Aenzo</span> | Nebenverantwortlich |
