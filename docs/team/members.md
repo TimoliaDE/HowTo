@@ -287,9 +287,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ###<strong><span style="color:#00646F">Vemdex</span></strong>
 - <u>Rang (ingame):</u> Builder
 
-### <strong><span style="color:#00646F">WildeMaus</span></strong>
-- <u>Rang (ingame):</u> Builderin
-
 ### <strong><span style="color:#00646F">xnulix</span></strong>
 - <u>Rang (ingame):</u> Builder
 - <u>Nebenverantwortlich:</u> Bauteam-Twitter
