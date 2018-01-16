@@ -221,11 +221,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">TheFeldi</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
-###<strong><span style="color:#E4D100">Tiem</span></strong>
-- <u>Rang (ingame):</u> Supporter
-- <u>Hauptverantwortlich:</u> Entschuldigungen, Anregungen und Vorschläge
-- <u>Nebenverantwortlich:</u> Map-Einsendungen
-
 ### <strong><span style="color:#E4D100">Tim9875432</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
