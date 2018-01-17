@@ -8,13 +8,17 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#CF0101">Milam</span> | Hauptverantwortlich |
+| | |
+|<span style="color:#E4D100">NameIsTaken</span> | Nebenverantwortlich |
 
 ###<strong>Anregungen und Vorschläge</strong>
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#E4D100">FlorianFida</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">xMaudodo</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">Milam</span> | Hauptverantwortlich |
+|<span style="color:#E4D100">NameIsTaken</span> | Hauptverantwortlich |
+| | |
+|<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 
 ###<strong>Fragen und Antworten</strong>
 
@@ -22,16 +26,17 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 | ------ | ------ |
 |<span style="color:#E4D100">Julian_999999999</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#E4D100">NameIsTaken</span> | Nebenverantwortlich |
+|<span style="color:#007812">svdragster</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Chrissi1505</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">SlimeGmes</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">TobcrafterDE</span> | Nebenverantwortlich |
 
 ###<strong>Feedback</strong>
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#E4D100">Juliaan</span> | Hauptverantwortlich |
-| | |
-|<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">xMaudodo</span> | Nebenverantwortlich |
+|<span style="color:#007812">svdragster</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 
 ###<strong>Map-Einsendungen</strong>
 | Teamler | Verantwortungsgrad |
@@ -42,11 +47,11 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 |<span style="color:#E4D100">felliongi21</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">iskander</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Schonas</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Tiem</span> | Nebenverantwortlich |
 
 ###<strong>Spieler melden</strong>
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#CF0101">L0L0</span> | Hauptverantwortlich |
 |<span style="color:#E4D100">felliongi21</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
@@ -66,35 +71,26 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 | | |
 |<span style="color:#CF0101">Milam</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Aenzo</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Elegeta</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">NameIsTaken</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">TaiToni</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Tiem</span> | Nebenverantwortlich |
+
 
 ###<strong>Zu Unrecht gebannt</strong>
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#CF0101">Metrixx7</span> | Hauptverantwortlich |
-| | |
-|<span style="color:#E4D100">Schonas</span> | Nebenverantwortlich |
 
 ###<strong>CityBuild</strong>
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#CF0101">JOlegna</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#CF0101">Caprea</span> | Nebenverantwortlich |
-
-###<strong>Off-Topic</strong>
-| Teamler | Verantwortungsgrad |
-| ------ | ------ |
-|<span style="color:#E4D100">Juliaan</span> | Hauptverantwortlich |
-
-###<strong>Vorstellungen</strong>
-| Teamler | Verantwortungsgrad |
-| ------ | ------ |
-|<span style="color:#E4D100">Juliaan</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">xTessia</span> | Nebenverantwortlich |
 
 # Sonstige Aufgaben
 
