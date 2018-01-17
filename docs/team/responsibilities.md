@@ -35,6 +35,8 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 ###<strong>Feedback</strong>
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
+|<span style="color:#CF0101">Milam</span> | Hauptverantwortlich |
+| | |
 |<span style="color:#007812">svdragster</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 
