@@ -156,7 +156,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">Elegeta</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Hauptverantwortlich:</u> Supporterauswahl, Testen der Games-Maps
-- <u>Nebenverantwortlich:</u> Entschuldigungen, YouTuber-Events
+- <u>Nebenverantwortlich:</u> YouTuber-Events
 
 ### <strong><span style="color:#E4D100">felliongi21</span></strong>
 - <u>Rang (ingame):</u> Supporter
