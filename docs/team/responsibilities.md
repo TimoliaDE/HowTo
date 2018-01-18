@@ -28,7 +28,6 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 | | |
 |<span style="color:#007812">svdragster</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Chrissi1505</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">SlimeGmes</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">TobcrafterDE</span> | Nebenverantwortlich |
 
@@ -56,7 +55,6 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 | ------ | ------ |
 |<span style="color:#E4D100">felliongi21</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 
 ###<strong>Bug melden</strong>
