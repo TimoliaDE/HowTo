@@ -178,7 +178,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Juliaan</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Entschuldigungen, Testen der Games-Maps, Twitter
+- <u>Nebenverantwortlich:</u> Broadcasts, Entschuldigungen, Testen der Games-Maps, Twitter
 
 ### <strong><span style="color:#E4D100">Julian_999999999</span></strong>
 - <u>Rang (ingame):</u> Supporter
