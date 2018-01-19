@@ -64,7 +64,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">Milam</span></strong>
 - <u>Rang (ingame):</u> Moderatorin
-- <u>Hauptverantwortlich:</u> Achievements, Bauevent-Koordination, Feedback Forum, Gesamtes Forum, Management des Creator-Teams, Social-Media, YouTube und Twitch, YouTuber-Events
+- <u>Hauptverantwortlich:</u> Achievements, Anregungen und Vorschläge Forum, Bauevent-Koordination, Feedback Forum, Gesamtes Forum, Management des Creator-Teams, Social-Media, YouTube und Twitch, YouTuber-Events
 - <u>Nebenverantwortlich:</u> Broadcasts, Entschuldigungen, YouTuber-Ränge
 
 ###<strong><span style="color:#CF0101">saporital</span></strong>
