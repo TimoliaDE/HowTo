@@ -36,12 +36,11 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ###<strong><span style="color:#CF0101">Caprea</span></strong>
 - <u>Rang (ingame):</u> Moderatorin
 - <u>Hauptverantwortlich:</u> Flussufer, Summerfields, Sunset Valley, Aegypten, Twitter
-- <u>Nebenverantwortlich:</u> CityBuild Forum
 
 ###<strong><span style="color:#CF0101">ItsSarahh</span></strong>
 - <u>Rang (ingame):</u> Moderatorin
 - <u>Hauptverantwortlich:</u> Entschuldigungen, Supporterauswahl, YouTuber-Events
-- <u>Nebenverantwortlich:</u> Feedback Forum, Map-Einsendungen, Teamspeak, Testen der Games-Maps, Twitter, YouTuber-Ränge
+- <u>Nebenverantwortlich:</u> Map-Einsendungen, Teamspeak, Testen der Games-Maps, Twitter, YouTuber-Ränge
 
 ### <strong><span style="color:#CF0101">JOlegna</span></strong>
 - <u>Rang (ingame):</u> Moderator
@@ -55,7 +54,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">L0L0</span></strong>
 - <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Broadcasts, Spieler melden Forum
+- <u>Hauptverantwortlich:</u> Broadcasts
 - <u>Nebenverantwortlich:</u> Anti-Cheat, YouTuber-Ränge
 
 ### <strong><span style="color:#CF0101">Metrixx7</span></strong>
@@ -65,7 +64,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">Milam</span></strong>
 - <u>Rang (ingame):</u> Moderatorin
-- <u>Hauptverantwortlich:</u> Achievements, Bauevent-Koordination, Management des Creator-Teams, Gesamtes Forum, Social-Media, YouTube und Twitch, YouTuber-Events
+- <u>Hauptverantwortlich:</u> Achievements, Anregungen und Vorschläge Forum, Bauevent-Koordination, Feedback Forum, Gesamtes Forum, Management des Creator-Teams, Social-Media, YouTube und Twitch, YouTuber-Events
 - <u>Nebenverantwortlich:</u> Broadcasts, Entschuldigungen, YouTuber-Ränge
 
 ###<strong><span style="color:#CF0101">saporital</span></strong>
@@ -123,6 +122,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ### <strong><span style="color:#007812">svdragster</span></strong>
 - <u>Rang (ingame):</u> Developer
 - <u>Hauptverantwortlich:</u> Anti-Cheat
+- <u>Nebenverantwortlich:</u> Feedback Forum, Fragen & Antworten Forum
 
 ###<strong><span style="color:#007812">TheBrownShape</span></strong>
 - <u>Rang (ingame):</u> Developer
@@ -149,6 +149,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Chrissi1505</span></strong>
 - <u>Rang (ingame):</u> Supporter
+- <u>Hauptverantwortlich:</u> Fragen & Antworten Forum
 
 ###<strong><span style="color:#E4D100">DerBull</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -177,12 +178,11 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Juliaan</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Hauptverantwortlich:</u> Feedback Forum, Off-Topic Forum, Vorstellungen Forum
-- <u>Nebenverantwortlich:</u> Entschuldigungen, Fragen und Antworten Forum, Spieler melden Forum, Testen der Games-Maps, Twitter
+- <u>Nebenverantwortlich:</u> Broadcasts, Entschuldigungen, Testen der Games-Maps, Twitter
 
 ### <strong><span style="color:#E4D100">Julian_999999999</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Hauptverantwortlich:</u> Fragen und Antworten Forum
+- <u>Hauptverantwortlich:</u> Feedback Forum, Fragen und Antworten Forum
 - <u>Nebenverantwortlich:</u> Entschuldigungen, Spieler melden Forum, Teamspeak
 
 ###<strong><span style="color:#E4D100">MCPhilippS</span></strong>
@@ -206,10 +206,11 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">Schonas</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Hauptverantwortlich:</u> Bug melden Forum, Bugs und Spielfehler
-- <u>Nebenverantwortlich:</u> Map-Einsendungen, Testen der Games-Maps, Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Map-Einsendungen, Testen der Games-Maps
 
 ### <strong><span style="color:#E4D100">SlimeGmes</span></strong>
 - <u>Rang (ingame):</u> Supporter
+- <u>Nebenverantwortlich:</u> Fragen & Antworten Forum
 
 ### <strong><span style="color:#E4D100">SpaceJumper</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -226,14 +227,14 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">TobCrafterDE</span></strong>
 - <u>Rang (ingame):</u> Supporter
+- <u>Nebenverantwortlich:</u> Fragen & Antworten Forum
 
 ### <strong><span style="color:#E4D100">xMaudodo</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge, Feedback Forum
 
 ###<strong><span style="color:#E4D100">xTessia</span></strong>
 - <u>Rang (ingame):</u> Supporterin CityBuild
-- <u>Neberverantwortlich:</u> Teamspeak
+- <u>Neberverantwortlich:</u> CityBuild Forum, Teamspeak
 
 
 ## Builder
