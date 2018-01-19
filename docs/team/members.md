@@ -55,7 +55,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ###<strong><span style="color:#CF0101">L0L0</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Broadcasts
-- <u>Nebenverantwortlich:</u> Anti-Cheat, YouTuber-Ränge
+- <u>Nebenverantwortlich:</u> Anti-Cheat
 
 ### <strong><span style="color:#CF0101">Metrixx7</span></strong>
 - <u>Rang (ingame):</u> Moderator
