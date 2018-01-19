@@ -79,7 +79,6 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 |<span style="color:#E4D100">TaiToni</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Tiem</span> | Nebenverantwortlich |
 
-
 ###<strong>Zu Unrecht gebannt</strong>
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
