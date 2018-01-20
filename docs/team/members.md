@@ -50,7 +50,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ###<strong><span style="color:#CF0101">Kenaai</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> YouTube und Twitch
-- <u>Nebenverantwortlich:</u> Reports im Forum, TeamSpeak, Timolia-Plugins
+- <u>Nebenverantwortlich:</u> TeamSpeak, Timolia-Plugins
 
 ###<strong><span style="color:#CF0101">L0L0</span></strong>
 - <u>Rang (ingame):</u> Moderator
@@ -64,7 +64,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">Milam</span></strong>
 - <u>Rang (ingame):</u> Moderatorin
-- <u>Hauptverantwortlich:</u> Achievements, Anregungen und Vorschläge Forum, Bauevent-Koordination, Feedback Forum, Gesamtes Forum, Management des Creator-Teams, Social-Media, YouTube und Twitch, YouTuber-Events
+- <u>Hauptverantwortlich:</u> Achievements, Anregungen und Vorschläge, Bauevent-Koordination, Feedback Forum, Gesamtes Forum, Management des Creator-Teams, Social-Media, YouTube und Twitch, YouTuber-Events
 - <u>Nebenverantwortlich:</u> Broadcasts, Entschuldigungen, YouTuber-Ränge
 
 ###<strong><span style="color:#CF0101">saporital</span></strong>
@@ -182,11 +182,8 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Julian_999999999</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Hauptverantwortlich:</u> Feedback Forum, Fragen und Antworten Forum
-- <u>Nebenverantwortlich:</u> Entschuldigungen, Spieler melden Forum, Teamspeak
-
-###<strong><span style="color:#E4D100">MCPhilippS</span></strong>
-- <u>Rang (ingame):</u> Supporter
+- <u>Hauptverantwortlich:</u> Fragen und Antworten Forum
+- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Entschuldigungen, Feedback Forum, Spieler melden Forum, Teamspeak
 
 ###<strong><span style="color:#E4D100">medicoo</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -194,7 +191,8 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">NameIsTaken</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Entschuldigungen, Fragen und Antworten Forum
+- <u>Hauptverantwortlich:</u> Anregungen und Vorschläge
+- <u>Nebenverantwortlich:</u> Gesamtes Forum, Entschuldigungen, Fragen und Antworten Forum
 
 ### <strong><span style="color:#E4D100">Percyfan55</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -206,7 +204,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">Schonas</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Hauptverantwortlich:</u> Bug melden Forum, Bugs und Spielfehler
-- <u>Nebenverantwortlich:</u> Map-Einsendungen, Testen der Games-Maps
+- <u>Nebenverantwortlich:</u> Map-Einsendungen, Testen der Games-Maps, Zu Unrecht gebannt Forum
 
 ### <strong><span style="color:#E4D100">SlimeGmes</span></strong>
 - <u>Rang (ingame):</u> Supporter
