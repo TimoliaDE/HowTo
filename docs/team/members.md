@@ -185,9 +185,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Hauptverantwortlich:</u> Fragen und Antworten Forum
 - <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Entschuldigungen, Feedback Forum, Spieler melden Forum, Teamspeak
 
-###<strong><span style="color:#E4D100">MCPhilippS</span></strong>
-- <u>Rang (ingame):</u> Supporter
-
 ###<strong><span style="color:#E4D100">medicoo</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Entschuldigungen, TeamSpeak, Testen der Games-Maps
