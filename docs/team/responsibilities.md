@@ -48,7 +48,6 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 |<span style="color:#E4D100">felliongi21</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">iskander</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Schonas</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Tiem</span> | Nebenverantwortlich |
 
 ###<strong>Spieler melden</strong>
 | Teamler | Verantwortungsgrad |
@@ -77,7 +76,6 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">NameIsTaken</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">TaiToni</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Tiem</span> | Nebenverantwortlich |
 
 ###<strong>Zu Unrecht gebannt</strong>
 | Teamler | Verantwortungsgrad |
