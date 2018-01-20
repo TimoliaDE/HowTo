@@ -149,7 +149,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Chrissi1505</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Hauptverantwortlich:</u> Fragen & Antworten Forum
+- <u>Nebenverantwortlich:</u> Fragen & Antworten Forum
 
 ###<strong><span style="color:#E4D100">DerBull</span></strong>
 - <u>Rang (ingame):</u> Supporter
