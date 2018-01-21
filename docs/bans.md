@@ -32,9 +32,15 @@ Bannzeit auf 30 Tage hinabgesetzt. Eine Entschuldigung kannst du im Forum "Ensch
 Solltest du keinen Account für unser Forum haben, kannst du dich auf dem Minecraft-Server `register.timolia.de` für dieses registrieren.
 
 ### Bannverjährung
-Ab einer Bannzeit von 46 oder mehr Banntagen musst du warten, bis Teile deines Banns zu verjähren beginnen, um eine Entschuldigung zu schreiben. 
-Nach sechs Monaten beginnt ein Bann um drei Tage pro Monat zu verjähren. So hast du beispielsweise bei einer anfänglichen Banndauer von 30 Tagen nach 
-sieben Monaten nur noch 27 Tage usw. <a href="https://forum.timolia.de/forums/entschuldigungen.49/create-thread" target="_blank"><b>Hier</b> kannst du dich entschuldigen</a>, 
+Für einen Regelverstoß auf Timolia kann man für <strong>maximal 30 Tage</strong> gebannt werden. Ist die Bannzeit abgesessen, kann man wieder auf Timolia spielen, 
+allerdings sind die Banntage bei uns weiterhin vermerkt. Verstößt man wieder gegen die Regeln, so werden die neu erhaltenen Banntage auf die vermerkten Banntage addiert. 
+Übersteigt die Summe <strong>aller</strong> Banns <strong>30 Tage</strong>, ist man <strong>permanent</strong> gebannt.
+
+Da sich Spieler verändern, ihre Fehler einsehen und sich bessern können, gibt es die sogenannte <strong>Bannverjährung</strong>. Diese sorgt dafür, dass die vermerkten Tage nicht dauerhaft bleiben, sondern sich Stück für Stück abbauen. Sinkt durch die Bannverjährung die Summe der Banntage auf 30 oder weniger, kann man wieder auf Timolia spielen.
+Die Bannverjährung tritt <strong>6 Monate</strong> nach dem Zeitpunkt des Banns ein. Ab dann werden jeden Monat <strong>3 Banntage</strong> von dem entsprechenden Bann abgezogen.
+Wurde man also für 30 Tage gebannt, sind nach 7 Monaten noch 27 Tage vermerkt, nach 8 noch 24 Tage und nach 16 Monaten ist der Bann komplett verjährt
+
+<a href="https://forum.timolia.de/forums/entschuldigungen.49/create-thread" target="_blank"><b>Hier</b> kannst du dich entschuldigen</a>, 
 <a href="https://forum.timolia.de/forums/zu-unrecht-gebannt.122/" target="_blank"><b>hier</b> meldest du dich, wenn du zu unrecht gebannt wurdest</a>.
 
 Erklärungen, [wie du einen Entbannungsantrag](https://forum.timolia.de/threads/zu-unrecht-gebannt.5124/), beziehungsweise wie du
