@@ -162,7 +162,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">felliongi21</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Hauptverantwortlich:</u> Spieler melden Forum
-- <u>Nebenverantwortlich:</u> Anti-Cheat, Map-Einsendungen, Twitter
+- <u>Nebenverantwortlich:</u> Anti-Cheat, Map-Einsendungen
 
 ### <strong><span style="color:#E4D100">ferdedelino</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -203,8 +203,8 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Schonas</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Hauptverantwortlich:</u> Bug melden Forum, Bugs und Spielfehler
-- <u>Nebenverantwortlich:</u> Map-Einsendungen, Testen der Games-Maps, Zu Unrecht gebannt Forum
+- <u>Hauptverantwortlich:</u> Bug melden Forum, Bugs und Spielfehler, Map-Einsendungen
+- <u>Nebenverantwortlich:</u> Testen der Games-Maps, Zu Unrecht gebannt Forum
 
 ### <strong><span style="color:#E4D100">SlimeGmes</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -266,7 +266,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 ### <strong><span style="color:#00646F">Memoryos</span></strong>
 - <u>Rang (ingame):</u> Builder
-- <u>Hauptverantwortlich:</u> Map-Einsendungen
 
 ### <strong><span style="color:#00646F">TetzelHD</span></strong>
 - <u>Rang (ingame):</u> Builder
