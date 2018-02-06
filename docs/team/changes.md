@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>Januar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|TaiToni | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 27.01.18 |
 |MCPhilippS  | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | 20.01.18 |
 |Tiem | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | 16.01.18 |
 |WildeMaus | <span style="color:#00646F">Builderin</span> | <span style="color:#F99500">Pro</span> | 16.01.18 |
