@@ -35,7 +35,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">Caprea</span></strong>
 - <u>Rang (ingame):</u> Moderatorin
-- <u>Hauptverantwortlich:</u> Flussufer, Summerfields, Sunset Valley, Aegypten, Twitter
+- <u>Hauptverantwortlich:</u> Citygebiete: Flussufer, Summerfields, Sunset Valley, Aegypten, Twitter
 
 ###<strong><span style="color:#CF0101">ItsSarahh</span></strong>
 - <u>Rang (ingame):</u> Moderatorin
@@ -69,7 +69,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">saporital</span></strong>
 - <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Twitter, Downtown, Minedig, Mittelalter, Oldtown, Chinatown, Wunderland, Atlantis
+- <u>Hauptverantwortlich:</u> Citygebiete: Downtown, Minedig, Mittelalter, Oldtown, Chinatown, Wunderland, Atlantis, Twitter
 
 ###<strong><span style="color:#CF0101">Siimon</span></strong>
 - <u>Rang (ingame):</u> Moderator
@@ -80,7 +80,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ###<strong><span style="color:#CF0101">Twilex</span></strong>
 - <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Shopwelt, Skyland, Wellington
+- <u>Hauptverantwortlich:</u> Citygebiete: Shopwelt, Skyland, Wellington
 
 
 ## Developer
@@ -97,13 +97,12 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Rang (ingame):</u> Developer
 - <u>Hauptverantwortlich:</u> Chainreact, Weihnachts - Timolia Adventure
 
+### <strong><span style="color:#007812">iPushyy</span></strong>
+- <u>Rang (ingame):</u> Developer
+
 ### <strong><span style="color:#007812">Jintzo</span></strong>
 - <u>Rang (ingame):</u> Developer
 - <u>Nebenverantwortlich:</u> Web-Development
-
-### <strong><span style="color:#007812">Raziel</span></strong>
-- <u>Rang (ingame):</u> Developer
-- <u>Hauptverantwortlich:</u> Anti-Cheat
 
 ### <strong><span style="color:#007812">logito111</span></strong>
 - <u>Rang (ingame):</u> Developer
@@ -112,12 +111,16 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Rang (ingame):</u> Developer
 - <u>Nebenverantwortlich:</u> TeamSpeak
 
+### <strong><span style="color:#007812">physanus</span></strong>
+- <u>Rang (ingame):</u> Developer
+
 ###<strong><span style="color:#007812">play4me_</span></strong>
 - <u>Rang (ingame):</u> Developer
 - <u>Nebenverantwortlich:</u> Web-Development
 
-### <strong><span style="color:#007812">physanus</span></strong>
+### <strong><span style="color:#007812">Raziel</span></strong>
 - <u>Rang (ingame):</u> Developer
+- <u>Hauptverantwortlich:</u> Anti-Cheat
 
 ### <strong><span style="color:#007812">svdragster</span></strong>
 - <u>Rang (ingame):</u> Developer
@@ -204,7 +207,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">Schonas</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Hauptverantwortlich:</u> Bug melden Forum, Bugs und Spielfehler, Map-Einsendungen
-- <u>Nebenverantwortlich:</u> Testen der Games-Maps, Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Testen der Games-Maps, YouTuber-Ränge, Zu Unrecht gebannt Forum
 
 ### <strong><span style="color:#E4D100">SlimeGmes</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -212,10 +215,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">SpaceJumper</span></strong>
 - <u>Rang (ingame):</u> Supporter
-
-### <strong><span style="color:#E4D100">TaiToni</span></strong>
-- <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Entschuldigungen
 
 ### <strong><span style="color:#E4D100">TheFeldi</span></strong>
 - <u>Rang (ingame):</u> Supporter
