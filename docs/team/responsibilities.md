@@ -42,12 +42,11 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 ###<strong>Map-Einsendungen</strong>
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#00646F">Memoryos</span> | Hauptverantwortlich |
+|<span style="color:#E4D100">Schonas</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">felliongi21</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">iskander</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Schonas</span> | Nebenverantwortlich |
 
 ###<strong>Spieler melden</strong>
 | Teamler | Verantwortungsgrad |
@@ -147,7 +146,6 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 |<span style="color:#CF0101">ItsSarahh</span> | Twitter NV|
 |<span style="color:#CF0101">Kenaai</span> | YouTube HV |
 |<span style="color:#007812">tr7zw</span> | Twitter NV |
-|<span style="color:#E4D100">felliongi21</span> | Twitter NV |
 |<span style="color:#E4D100">Juliaan</span> | Twitter NV |
 |<span style="color:#00646F">JukPlays</span> | Bauteam-Twitter HV |
 |<span style="color:#00646F">GameZter</span> | Bauteam-Twitter NV |
@@ -235,3 +233,4 @@ Wenn sich ein YouTuber für einen Rang auf Timolia interessiert, werden die Anfr
 | | |
 |<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">Milam</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Schonas</span> | Nebenverantwortlich |
