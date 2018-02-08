@@ -230,7 +230,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter
 
 ###<strong><span style="color:#E4D100">xTessia</span></strong>
-- <u>Rang (ingame):</u> Supporterin CityBuild
+- <u>Rang (ingame):</u> Supporterin
 - <u>Neberverantwortlich:</u> CityBuild Forum, Teamspeak
 
 
