@@ -5,7 +5,8 @@ Grundsätzlich gelten dieselben Regeln, wie auch auf dem Timolia Minecraft Serve
 Es ist verboten den Hilfechannel ohne triftigen Grund aufzusuchen und dort die Hilfsbereitschaft von Teammitgliedern auszunutzen.
 
 ## §3 - TeamSpeak Avatar und Username
-Avatare, die rassistischen, sexistischen oder beleidigenden Kontent enthalten, sind verboten. Dasselbe gilt für den Usernamen.
+Avatare, die rassistischen, sexistischen oder beleidigenden Kontent enthalten, sind verboten. Dasselbe gilt für den Usernamen. Desweiteren dürfen Namen keine Zeichen enthalten, die unsichtbar sind oder die vorgesehene Größe des Namens von einer Zeile modifizieren.
+
 
 ## §4 - Stimmverzerrer und Soundboards
 Das Nutzen von Stimmverzerrern und Soundboards ist untersagt!
