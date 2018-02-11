@@ -2,6 +2,11 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 
 # 2018
 
+###<strong>Februar</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+|Pixtopiane | <span style="color:#E4D100">Supporterin</span> | <span style="color:#F99500">Pro</span> | 11.02.18 |
+
 ###<strong>Januar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
