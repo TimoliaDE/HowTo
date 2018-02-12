@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>Februar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|Kenaai | <span style="color:#CF0101">Moderator</span> | <span style="color:#00F9EC">Expert</span> | 12.02.18 |
 |Pixtopiane | <span style="color:#E4D100">Supporterin</span> | <span style="color:#F99500">Pro</span> | 11.02.18 |
 
 ###<strong>Januar</strong>
