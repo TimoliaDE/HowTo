@@ -47,11 +47,6 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 - <u>Hauptverantwortlich:</u> Upper Hills, CityBuild Forum
 - <u>Nebenverantwortlich:</u> Supporterauswahl, Teamspeak, Timolia HowTo
 
-###<strong><span style="color:#CF0101">Kenaai</span></strong>
-- <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> YouTube und Twitch
-- <u>Nebenverantwortlich:</u> TeamSpeak, Timolia-Plugins
-
 ###<strong><span style="color:#CF0101">L0L0</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Broadcasts
