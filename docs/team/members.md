@@ -92,9 +92,6 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Rang (ingame):</u> Developer
 - <u>Hauptverantwortlich:</u> Chainreact, Weihnachts - Timolia Adventure
 
-### <strong><span style="color:#007812">iPushyy</span></strong>
-- <u>Rang (ingame):</u> Developer
-
 ### <strong><span style="color:#007812">Jintzo</span></strong>
 - <u>Rang (ingame):</u> Developer
 - <u>Nebenverantwortlich:</u> Web-Development
