@@ -144,7 +144,6 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 |<span style="color:#CF0101">Metrixx7</span> | Twitter HV |
 |<span style="color:#CF0101">Caprea</span> | Twitter NV |
 |<span style="color:#CF0101">ItsSarahh</span> | Twitter NV|
-|<span style="color:#CF0101">Kenaai</span> | YouTube HV |
 |<span style="color:#007812">tr7zw</span> | Twitter NV |
 |<span style="color:#E4D100">Juliaan</span> | Twitter NV |
 |<span style="color:#00646F">JukPlays</span> | Bauteam-Twitter HV |
@@ -161,7 +160,6 @@ Der Teamspeak von Timolia ist unter ts.timolia.de zu erreichen. Er wird betreut 
 | | |
 |<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">JOlegna</span> | Nebenverantwortlich |
-|<span style="color:#CF0101">Kenaai</span> | Nebenverantwortlich |
 |<span style="color:#007812">MCelements</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
@@ -195,7 +193,6 @@ Im Timolia Team gibt es kleinere Teams, welche unter anderem durch diese Verantw
 |<span style="color:#2980b9">Caelis</span> | Management des Development-Teams |
 |<span style="color:#CF0101">Tedget</span> | Management des Development-Teams |
 |<span style="color:#CF0101">Milam</span> | Management des Creator-Teams und des YouTube-Teams |
-|<span style="color:#CF0101">Kenaai</span> | Management des YouTube-Teams |
 |<span style="color:#00646F">Vectrail</span> | Management des Bau-Teams |
 
 ###<strong>Testen der Games-Maps</strong>

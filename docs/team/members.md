@@ -47,11 +47,6 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 - <u>Hauptverantwortlich:</u> Upper Hills, CityBuild Forum
 - <u>Nebenverantwortlich:</u> Supporterauswahl, Teamspeak, Timolia HowTo
 
-###<strong><span style="color:#CF0101">Kenaai</span></strong>
-- <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> YouTube und Twitch
-- <u>Nebenverantwortlich:</u> TeamSpeak, Timolia-Plugins
-
 ###<strong><span style="color:#CF0101">L0L0</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Broadcasts
@@ -154,9 +149,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Fragen & Antworten Forum
 
-###<strong><span style="color:#E4D100">DerBull</span></strong>
-- <u>Rang (ingame):</u> Supporter
-
 ### <strong><span style="color:#E4D100">Elegeta</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Hauptverantwortlich:</u> Supporterauswahl, Testen der Games-Maps
@@ -201,9 +193,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> TeamSpeak
 
-### <strong><span style="color:#E4D100">Pixtopiane</span></strong>
-- <u>Rang (ingame):</u> Supporterin
-
 ### <strong><span style="color:#E4D100">Schonas</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Hauptverantwortlich:</u> Bug melden Forum, Bugs und Spielfehler, Map-Einsendungen
@@ -230,7 +219,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter
 
 ###<strong><span style="color:#E4D100">xTessia</span></strong>
-- <u>Rang (ingame):</u> Supporterin CityBuild
+- <u>Rang (ingame):</u> Supporterin
 - <u>Neberverantwortlich:</u> CityBuild Forum, Teamspeak
 
 
