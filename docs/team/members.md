@@ -60,7 +60,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ###<strong><span style="color:#CF0101">Milam</span></strong>
 - <u>Rang (ingame):</u> Moderatorin
 - <u>Hauptverantwortlich:</u> Achievements, Anregungen und Vorschläge, Bauevent-Koordination, Feedback Forum, Gesamtes Forum, Management des Creator-Teams, Social-Media, YouTube und Twitch, YouTuber-Events
-- <u>Nebenverantwortlich:</u> Broadcasts, Entschuldigungen, YouTuber-Ränge
+- <u>Nebenverantwortlich:</u> Broadcasts, YouTuber-Ränge
 
 ###<strong><span style="color:#CF0101">saporital</span></strong>
 - <u>Rang (ingame):</u> Moderator
@@ -91,9 +91,6 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ### <strong><span style="color:#007812">Flycofx</span></strong>
 - <u>Rang (ingame):</u> Developer
 - <u>Hauptverantwortlich:</u> Chainreact, Weihnachts - Timolia Adventure
-
-### <strong><span style="color:#007812">iPushyy</span></strong>
-- <u>Rang (ingame):</u> Developer
 
 ### <strong><span style="color:#007812">Jintzo</span></strong>
 - <u>Rang (ingame):</u> Developer
