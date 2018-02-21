@@ -179,7 +179,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">medicoo</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Entschuldigungen, TeamSpeak, Testen der Games-Maps
+- <u>Nebenverantwortlich:</u> TeamSpeak, Testen der Games-Maps
 
 ###<strong><span style="color:#E4D100">NameIsTaken</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -228,9 +228,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span style="color:#00646F">\_Geizhals\_</span></strong>
-- <u>Rang (ingame):</u> Builder
-
-###<strong><span style="color:#00646F">Eisenmaus</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ###<strong><span style="color:#00646F">engiwuck</span></strong>
