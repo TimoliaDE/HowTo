@@ -144,6 +144,7 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 |<span style="color:#CF0101">ItsSarahh</span> | Twitter NV|
 |<span style="color:#007812">tr7zw</span> | Twitter NV |
 |<span style="color:#E4D100">Juliaan</span> | Twitter NV |
+|<span style="color:#E4D100">xMaudodo</span> | Twitter NV |
 |<span style="color:#00646F">JukPlays</span> | Bauteam-Twitter HV |
 |<span style="color:#00646F">xnulix</span> | Bauteam-Twitter NV |
 |<span style="color:#007812">die_maren</span> | Bauteam-Twitter NV |
