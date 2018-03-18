@@ -72,7 +72,6 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">NameIsTaken</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">TaiToni</span> | Nebenverantwortlich |
 
 ###<strong>Zu Unrecht gebannt</strong>
 | Teamler | Verantwortungsgrad |
@@ -181,7 +180,6 @@ Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadca
 | | |
 |<span style="color:#CF0101">Milam</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">TaiToni</span> | Nebenverantwortlich |
 
 ###<strong>Team-Leiter</strong>
 Im Timolia Team gibt es kleinere Teams, welche unter anderem durch diese Verantwortlichen organisiert werden.
