@@ -255,9 +255,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder
 - <u>Hauptverantwortlich:</u> Bauevent, Bautresor, City-Maps, Games-Maps, Management des Bauteams
 
-###<strong><span style="color:#00646F">Vemdex</span></strong>
-- <u>Rang (ingame):</u> Builder
-
 ### <strong><span style="color:#00646F">xnulix</span></strong>
 - <u>Rang (ingame):</u> Builder
 - <u>Nebenverantwortlich:</u> Bauteam-Twitter
