@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>März</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|Vemdex | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | 25.03.18 |
 |LordKnockback | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 16.03.18 |
 |TetzelHD | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | 13.03.18 |
 
