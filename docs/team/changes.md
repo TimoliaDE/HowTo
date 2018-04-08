@@ -5,6 +5,8 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>April</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|Schonas | <span style="color:#E4D100">Supporter</span> | <span style="color:#CF0101">Moderator</span> | 08.04.18 |
+|NameIsTaken | <span style="color:#E4D100">Supporter</span> | <span style="color:#CF0101">Moderator</span> | 08.04.18 |
 |FlemmoTV | <span style="color:#007812">Creator</span> | <span style="color:#00F9EC">Expert</span> | 04.04.18 |
 
 ###<strong>März</strong>
