@@ -125,10 +125,10 @@ Diese Teamler kümmern sich um's Aktualisieren und Erstellen des HowTos Timolias
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
+|<span style="color:#CF0101">Metrixx7</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#CF0101">JOlegna</span> | Nebenverantwortlich |
-|<span style="color:#CF0101">Metrixx7</span> | Nebenverantwortlich |
 
 ###<strong>Social-Media</strong>
 Für einen ständigen Support und Content auf Twitter und anderen sozialen Medien sorgen diese Teamler.
