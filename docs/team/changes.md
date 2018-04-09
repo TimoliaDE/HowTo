@@ -2,6 +2,11 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 
 # 2018
 
+###<strong>April</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+|FlemmoTV | <span style="color:#007812">Creator</span> | <span style="color:#00F9EC">Expert</span> | 04.04.18 |
+
 ###<strong>März</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |

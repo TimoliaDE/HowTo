@@ -271,7 +271,3 @@ Creator sind für kreative Arbeiten wie Texte, Bilder und Grafiken zuständig un
 ###<strong><span style="color:#007812">Evageddon</span></strong>
 - <u>Rang (ingame):</u> Creator
 - <u>Hauptverantwortlich:</u> Grafikdesign
-
-###<strong><span style="color:#007812">FlemmoTV</span></strong>
-- <u>Rang (ingame):</u> Creator
-- <u>Nebenverantwortlich:</u> Youtube

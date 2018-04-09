@@ -71,6 +71,9 @@ Mehr über Entbannungsanträge und Entschuldigen [kannst du hier lesen](/bans/).
 - Top: 334CB2
 - Bottom: 334CB2
 
+### Woher bekomme ich die 5zig/LabyMod Capes?
+- LabyMod: [https://imgur.com/a/cc5Ou](https://imgur.com/a/cc5Ou)
+- 5zig: [https://imgur.com/gallery/v13iE](https://imgur.com/gallery/v13iE)
 
 # 2 - Games
 
