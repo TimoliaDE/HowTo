@@ -62,9 +62,19 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 - <u>Hauptverantwortlich:</u> Achievements, Anregungen und Vorschläge, Bauevent-Koordination, Feedback Forum, Gesamtes Forum, Management des Creator-Teams, Social-Media, YouTube und Twitch, YouTuber-Events
 - <u>Nebenverantwortlich:</u> Broadcasts, YouTuber-Ränge
 
+###<strong><span style="color:#CF0101">NameIsTaken</span></strong>
+- <u>Rang (ingame):</u> Moderator
+- <u>Hauptverantwortlich:</u> Anregungen und Vorschläge
+- <u>Nebenverantwortlich:</u> Gesamtes Forum, Entschuldigungen, Fragen und Antworten Forum
+
 ###<strong><span style="color:#CF0101">saporital</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Citygebiete: Downtown, Minedig, Mittelalter, Oldtown, Chinatown, Wunderland, Atlantis, Twitter
+
+### <strong><span style="color:#CF0101">Schonas</span></strong>
+- <u>Rang (ingame):</u> Moderator
+- <u>Hauptverantwortlich:</u> Bug melden Forum, Bugs und Spielfehler, Map-Einsendungen
+- <u>Nebenverantwortlich:</u> Testen der Games-Maps, YouTuber-Ränge, Zu Unrecht gebannt Forum
 
 ###<strong><span style="color:#CF0101">Siimon</span></strong>
 - <u>Rang (ingame):</u> Moderator
@@ -146,6 +156,9 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Fragen & Antworten Forum
 
+### <strong><span style="color:#E4D100">Digimon</span></strong>
+- <u>Rang (ingame):</u> Supporter
+
 ### <strong><span style="color:#E4D100">Elegeta</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Hauptverantwortlich:</u> Supporterauswahl, Testen der Games-Maps
@@ -184,19 +197,9 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> TeamSpeak, Testen der Games-Maps
 
-###<strong><span style="color:#E4D100">NameIsTaken</span></strong>
-- <u>Rang (ingame):</u> Supporter
-- <u>Hauptverantwortlich:</u> Anregungen und Vorschläge
-- <u>Nebenverantwortlich:</u> Gesamtes Forum, Entschuldigungen, Fragen und Antworten Forum
-
 ### <strong><span style="color:#E4D100">Percyfan55</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> TeamSpeak
-
-### <strong><span style="color:#E4D100">Schonas</span></strong>
-- <u>Rang (ingame):</u> Supporter
-- <u>Hauptverantwortlich:</u> Bug melden Forum, Bugs und Spielfehler, Map-Einsendungen
-- <u>Nebenverantwortlich:</u> Testen der Games-Maps, YouTuber-Ränge, Zu Unrecht gebannt Forum
 
 ### <strong><span style="color:#E4D100">SlimeGmes</span></strong>
 - <u>Rang (ingame):</u> Supporter

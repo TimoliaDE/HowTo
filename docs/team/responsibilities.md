@@ -9,14 +9,14 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 | ------ | ------ |
 |<span style="color:#CF0101">Milam</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#E4D100">NameIsTaken</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">NameIsTaken</span> | Nebenverantwortlich |
 
 ###<strong>Anregungen und Vorschläge</strong>
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#CF0101">Milam</span> | Hauptverantwortlich |
-|<span style="color:#E4D100">NameIsTaken</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">NameIsTaken</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 
@@ -42,7 +42,7 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 ###<strong>Map-Einsendungen</strong>
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#E4D100">Schonas</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">Schonas</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">felliongi21</span> | Nebenverantwortlich |
@@ -58,7 +58,7 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 ###<strong>Bug melden</strong>
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#E4D100">Schonas</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">Schonas</span> | Hauptverantwortlich |
 | | |
 |Moderatoren und Developer| Nebenverantwortlich |
 
@@ -67,18 +67,18 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 | ------ | ------ |
 |<span style="color:#CF0101">ItsSarahh</span> | Hauptverantwortlich |
 | | |
+|<span style="color:#CF0101">NameIsTaken</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Aenzo</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Elegeta</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">NameIsTaken</span> | Nebenverantwortlich |
 
 ###<strong>Zu Unrecht gebannt</strong>
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#CF0101">Metrixx7</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#E4D100">Schonas</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">Schonas</span> | Nebenverantwortlich |
 
 ###<strong>CityBuild</strong>
 | Teamler | Verantwortungsgrad |
@@ -106,7 +106,7 @@ Bei jeglichen Fehlern in den Diensten von Timolia kümmert sich dieser Teamler d
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#E4D100">Schonas</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">Schonas</span> | Hauptverantwortlich |
 
 ###<strong>Supporterauswahl</strong>
 Wenn es wieder daran geht, neue Supporter in unsere Reihen zu holen, kümmern sich diese Verantwortlichen darum.
@@ -200,10 +200,10 @@ Diese Teamler sind für das Bewerten, Aktualisieren und Kategorisieren von Games
 | | |
 |<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">Metrixx7</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">Schonas</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">FlorianFida</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Schonas</span> | Nebenverantwortlich |
 
 ###<strong>YouTuber Events</strong>
 Events, welche von dem Timolia Team für YouTuber veranstaltet werden, werden von diesem Team organisiert.
@@ -226,4 +226,4 @@ Wenn sich ein YouTuber für einen Rang auf Timolia interessiert, werden die Anfr
 | | |
 |<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">Milam</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Schonas</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">Schonas</span> | Nebenverantwortlich |
