@@ -17,7 +17,8 @@ Code, der Deine Fähigkeiten widerspiegelt. Auch solltest Du auf die Einhaltung 
 <p>Sollten neue Teammitglieder im Supportbereich gesucht werden, überprüft das Team, welche Spieler besonders aktiv auf dem Netzwerk sind und positiv auffallen. 
 Unter positiv auffallen verstehen wir unter anderem eine gute Reportstatistik, keine gravierenden Verstöße gegen unser Regelwerk und Aktivität auf anderen Plattformen,
 wie im Forum und TeamSpeak (und evtl. auf Twitter).</p>
-<p>Zusätzlich dazu gibt es die Möglichkeit, eine Initiativbewerbung per Mail an <a href="mailto:supporter@timolia.de">supporter@timolia.de</a> an uns zu senden.</p>
+<p>Zusätzlich dazu gibt es die Möglichkeit, eine Initiativbewerbung, welche eine Vorstellung von dir sowie Beschreibungen deiner bisherigen Erfahrungen beinhalten sollte,
+per Mail an <a href="mailto:supporter@timolia.de">supporter@timolia.de</a> an uns zu senden.</p>
 
 ### Builder
 Builder können sich bei den immer wieder stattfindenden Baueventen auf Timolia bewerben. Diese werden auf Twitter, im
