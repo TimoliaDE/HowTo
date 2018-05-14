@@ -8,8 +8,11 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 
 ###<strong>Caelis</strong>
 - <u>Rang (ingame):</u> Administrator
-- <u>Hauptverantwortlich:</u> Internes Wiki, Management des Development-Teams, Technische Leitung des Bauteams, YouTuber-Events
-- <u>Nebenverantwortlich:</u> Interne Webanwendung, Timolia-Plugins
+- <u>Hauptverantwortlich:</u> Interne Webanwendung, Internes Wiki, Management des Development-Teams, Technische Leitung des Bauteams, Timolia-Plugins, YouTuber-Events
+
+###<strong>Docmac</span></strong>
+- <u>Rang (ingame):</u> Administrator
+- <u>Hauptverantwortlich:</u> Timolia-Plugins
 
 ###<strong>Edgxxar</span></strong>
 - <u>Rang (ingame):</u> Administrator
