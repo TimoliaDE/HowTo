@@ -2,6 +2,11 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 
 # 2018
 
+###<strong>Mai</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+|Docmac | <span style="color:#00F9EC">Expert</span> | <span style="color:#2980b9">Administrator</span> | 06.05.18 |
+
 ###<strong>April</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
