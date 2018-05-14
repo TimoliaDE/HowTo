@@ -14,12 +14,10 @@ oder einer ähnlichen Plattform gehostet sein, da wir Beispielcodes nicht als Da
 Code, der Deine Fähigkeiten widerspiegelt. Auch solltest Du auf die Einhaltung der Java-Konventionen achten.
 
 ### Supporter
-Anders als bei anderen Servernetzwerken gibt es auf Timolia <b>keine Bewerbungsphasen</b>. Sollten neue Teammitglieder im Supportbereich gesucht
-werden, überprüft das Team, welche Spieler besonders aktiv auf dem Netzwerk sind und positiv auffallen. Unter positiv auffallen verstehen 
-wir eine gute Reportstatistik (Livereports sind besonders wichtig), keine gravierenden Verstöße gegen unser Regelwerk (beispielsweise zwei Banns
-wegen des Benutzens eines Autoklickers) und Aktivität auf anderen Plattformen, wie im Forum und TeamSpeak (und evtl. auf Twitter). Zusätzlich führen
-wir Bewerbungsgespräche durch, bevor wir jemanden in unsere Reihen aufnehmen. Erst, wenn jemand alle Kriterien erfüllt hat und den anschließenden
-Probemonat bestanden hat, ist er/sie ein voller Teil unseres Supporterteams.
+Sollten neue Teammitglieder im Supportbereich gesucht werden, überprüft das Team, welche Spieler besonders aktiv auf dem Netzwerk sind und positiv auffallen. 
+Unter positiv auffallen verstehen wir unter anderem eine gute Reportstatistik, keine gravierenden Verstöße gegen unser Regelwerk und Aktivität auf anderen Plattformen,
+wie im Forum und TeamSpeak (und evtl. auf Twitter).
+Zusätzlich dazu gibt es die Möglichkeit, eine Initiativbewerbung per Mail an <a href="mailto:supporter@timolia.de">supporter@timolia.de</a> an uns zu senden. 
 
 ### Builder
 Builder können sich bei den immer wieder stattfindenden Baueventen auf Timolia bewerben. Diese werden auf Twitter, im
