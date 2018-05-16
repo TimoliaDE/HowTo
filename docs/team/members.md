@@ -116,9 +116,6 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Rang (ingame):</u> Developer
 - <u>Nebenverantwortlich:</u> TeamSpeak
 
-### <strong><span style="color:#007812">physanus</span></strong>
-- <u>Rang (ingame):</u> Developer
-
 ###<strong><span style="color:#007812">play4me_</span></strong>
 - <u>Rang (ingame):</u> Developer
 - <u>Nebenverantwortlich:</u> Web-Development
