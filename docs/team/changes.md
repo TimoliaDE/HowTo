@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>Mai</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|physanus | <span style="color:#007812">Developer</span> | <span style="color:#F99500">Pro</span> | 15.05.18 |
 |Docmac | <span style="color:#00F9EC">Expert</span> | <span style="color:#2980b9">Administrator</span> | 06.05.18 |
 
 ###<strong>April</strong>
