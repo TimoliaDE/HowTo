@@ -11,7 +11,7 @@ Chatnachrichten oder auch das Erhöhen der Klickgeschwindigkeit ermöglichen, si
 Tastaturen, Mäusen oder Hotkeys für die oben genannten Zwecke. Skinblinker und sämltiche Arten von Minimaps sind ebenfalls verboten. 
 
 Ausgenommen von dieser Regelung sind spielverschönernde Mods wie [OptiFine](http://optifine.net/home.php) oder [Shader](https://www.google.de/#q=Minecraft+Shader), 
-sowie die [5zig](http://5zig.net/)- und [LabyMod](http://www.labymod.net/). Eine genaue Liste aller erlaubten Mods findest du hier[LINK]. Solltest du mit einer Mod spielen 
+sowie die [5zig](http://5zig.net/)- und [LabyMod](http://www.labymod.net/). Eine genaue Liste aller erlaubten Mods findest du [hier](https://howto.timolia.de/rules/approvedmods/). Solltest du mit einer Mod spielen 
 wollen, die nicht in dieser Liste aufgeführt ist, empfehlen wir dir, den Timolia Support zu kontaktieren. Die Liste wird regelmäßig geupdated und angepasst. 
 Mods, die zwar vergleichbare Funktionen wie die hier aufgelisteten Mods anbieten, jedoch nicht in der Liste stehen, sind nicht von uns geprüft und können ggf. zu einem Bann
 führen. Wir raten daher davon ab, diese Mods ungefragt zu verwenden.
@@ -26,7 +26,7 @@ Das Timoliateam erwartet von jedem Spieler ein faires und respektvolles Verhalte
 ### Abs. 1 - Beleidigungen
 Sämtliche Beleidigungen sind verboten. Das Umgehen des Chatfilters durch Leerzeichen, Satzzeichen o.Ä. ist ebenfalls verboten.
 
-- <u>Rassismus</u>: Das Ausschließen, Beleidigen und Hetzen gegen andere Nationalitäten ist auf Timolia verboten und wird ohne Verwarnung gebannt.
+- <u>Diskriminierung</u>: Das Ausschließen, Beleidigen und Hetzen gegen andere Nationalitäten, Ethnien, Glaubensrichtungen, Sexualitäten, Minderheiten ist auf Timolia verboten und wird ohne Verwarnung gebannt.
 - <u>Nationalsozialismus</u>: Nationalsozialistische Äußerungen, Parolen und Ähnliches sind auf Timolia verboten und werden ohne Verwarnung gebannt.
 
 ### Abs. 2 - Werbung und Phishing/Betrug
@@ -75,8 +75,10 @@ Sollte dies bei Spielern festgestellt werden, wird sowohl der Spieler gekickt un
 Bei wiederholtem Vorkommen kann es auch hier zu einem Bann kommen.
 
 ## §12 - Castles
-Teaming über die Teamgrenzen hinaus (sog. Crossteaming) ist verboten. Auch das vorsätzliche Behindern der eigenen Teammitglieder in Form von Gold klauen, eigene Strukturen zerstören und anderen etwaigen Methoden, 
-welche den üblichen Spielfluss hindern ist ebenfalls verboten und wird entsprechend sanktioniert.
+Teaming über die Teamgrenzen hinaus (sog. Crossteaming) ist verboten. Das vorsätzliche Behindern der eigenen Teammitglieder in Form von Golddiebstahl, 
+Zerstören eigener Strukturen, untaktischem Spawntrapping und anderen etwaigen Methoden, welche den üblichen Spielfluss hindern, ist ebenfalls verboten
+und wird entsprechend sanktioniert. Als untaktisch wird Spawntrapping dann bezeichnet, wenn man keine Flagge in der Base der gespawntrappten Gegner aufheben
+kann beziehungsweise die Gegner länger als fürs Stehlen der Flagge nötig tötet.
 
 ## §13 - Mineception
 Teaming über die Teamgrenzen hinaus (sog. Crossteaming) ist verboten. Auch das vorsätzliche Behindern der eigenen Teammitglieder in Form von Blöcken, die unter ihnen abgebaut werden 
