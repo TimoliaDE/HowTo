@@ -104,4 +104,4 @@ Bei wiederholten Verstößen gegen das Bannumgehungsverbot können alle betroffe
 
 <strong>Das Team behält sich das Recht vor, bestimmtes Handeln (auch außerhalb des Minecraft- und Teamspeakservers) zu sanktionieren, welches nicht explizit in den Regeln aufgelistet ist.</strong>
 
-letzte Aktualisierung: 27. Oktober 2017
+letzte Aktualisierung: 31. Mai 2018
