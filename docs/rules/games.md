@@ -5,7 +5,16 @@ Punkte der Regeln und hat diesen Folge zu leisten. Missachtung kann zu Sanktione
 Außerdem kann es jederzeit zu einer Änderung der Regeln kommen. Dazu wird das Datum der letzten Veränderung immer unter dem letzten Punkt des Regelwerkes angezeigt.
 
 ## §2 - Modifikationen (Mods)/Hacks, Resource Packs und Minimaps
-Jegliche Modifikationen im und am Spiel sind auf Timolia verboten. Hierzu zählen grundsätzlich alle Mods, aber auch bestimmte Arten von Resource Packs, vor allem durchsichtige oder Xray-Resourcepacks. Auch Macros und andere Modifikationen am Minecraft-Client, Maus und Tastatur, die das Spammen von Tasten/Befehlen und Chatnachrichten oder auch das Erhöhen der Klickgeschwindigkeit ermöglichen sind verboten. Das beinhaltet auch programmierbare Tastaturen, Mäuse oder Hotkeys. Skinblinker sind ebenfalls verboten. Ausgenommen von dieser Regelung sind spielverschönernde Mods, wie [OptiFine](http://optifine.net/home.php) oder [Shader](https://www.google.de/#q=Minecraft+Shader), sowie die [5zig](http://5zig.net/)- und [LabyMod](http://www.labymod.net/). Jede andere, hier nicht aufgeführte Mod ist verboten. Ebenfalls sind sämtliche Arten von Minimaps auf Timolia verboten.
+Jegliche Modifikationen im und am Spiel sind auf Timolia verboten. Hierzu zählen grundsätzlich alle Mods, aber auch bestimmte Arten von vorteilsbringenden Resource Packs, 
+vor allem durchsichtige oder Xray-Resource Packs. Auch Macros und andere Modifikationen an Minecraft-Client, Maus und Tastatur, die das Spammen von Tasten/Befehlen und 
+Chatnachrichten oder auch das Erhöhen der Klickgeschwindigkeit ermöglichen, sind verboten. Das beinhaltet auch und vor allem MouseTweaks sowie die Nutzung von programmierbaren 
+Tastaturen, Mäusen oder Hotkeys für die oben genannten Zwecke. Skinblinker und sämltiche Arten von Minimaps sind ebenfalls verboten. 
+
+Ausgenommen von dieser Regelung sind spielverschönernde Mods wie [OptiFine](http://optifine.net/home.php) oder [Shader](https://www.google.de/#q=Minecraft+Shader), 
+sowie die [5zig](http://5zig.net/)- und [LabyMod](http://www.labymod.net/). Eine genaue Liste aller erlaubten Mods findest du [hier](https://howto.timolia.de/rules/approvedmods/). 
+Solltest du mit einer Mod spielen wollen, die nicht in dieser Liste aufgeführt ist, empfehlen wir dir, den [Timolia Support](/faq/#wer-supportet-mich-wenn-ich-fragen-habe) zu kontaktieren. Die Liste wird regelmäßig geupdated 
+und angepasst. Mods, die zwar vergleichbare Funktionen wie die hier aufgelisteten Mods anbieten, jedoch nicht in der Liste stehen, sind nicht von uns geprüft und können
+ggf. zu einem Bann führen. Wir raten daher davon ab, diese Mods ungefragt zu verwenden.
 
 ## §3 - Cheating/Bugusing
 Bugusing ist das bewusste Ausnutzen von Spielfehlern, welche im Spiel nicht vorgesehene Folgen haben und ist selbstverständlich verboten.
@@ -17,7 +26,7 @@ Das Timoliateam erwartet von jedem Spieler ein faires und respektvolles Verhalte
 ### Abs. 1 - Beleidigungen
 Sämtliche Beleidigungen sind verboten. Das Umgehen des Chatfilters durch Leerzeichen, Satzzeichen o.Ä. ist ebenfalls verboten.
 
-- <u>Rassismus</u>: Das Ausschließen, Beleidigen und Hetzen gegen andere Nationalitäten ist auf Timolia verboten und wird ohne Verwarnung gebannt.
+- <u>Diskriminierung</u>: Das Ausschließen, Beleidigen und Hetzen gegen andere Nationalitäten, Ethnien, Glaubensrichtungen, Sexualitäten, Minderheiten ist auf Timolia verboten und wird ohne Verwarnung gebannt.
 - <u>Nationalsozialismus</u>: Nationalsozialistische Äußerungen, Parolen und Ähnliches sind auf Timolia verboten und werden ohne Verwarnung gebannt.
 
 ### Abs. 2 - Werbung und Phishing/Betrug
@@ -66,8 +75,10 @@ Sollte dies bei Spielern festgestellt werden, wird sowohl der Spieler gekickt un
 Bei wiederholtem Vorkommen kann es auch hier zu einem Bann kommen.
 
 ## §12 - Castles
-Teaming über die Teamgrenzen hinaus (sog. Crossteaming) ist verboten. Auch das vorsätzliche Behindern der eigenen Teammitglieder in Form von Gold klauen, eigene Strukturen zerstören und anderen etwaigen Methoden, 
-welche den üblichen Spielfluss hindern ist ebenfalls verboten und wird entsprechend sanktioniert.
+Teaming über die Teamgrenzen hinaus (sog. Crossteaming) ist verboten. Das vorsätzliche Behindern der eigenen Teammitglieder in Form von Golddiebstahl, 
+Zerstören eigener Strukturen, untaktischem Spawntrapping und anderen etwaigen Methoden, welche den üblichen Spielfluss hindern, ist ebenfalls verboten
+und wird entsprechend sanktioniert. Als untaktisch wird Spawntrapping dann bezeichnet, wenn man keine Flagge in der Base der gespawntrappten Gegner aufheben
+kann beziehungsweise die Gegner länger als fürs Stehlen der Flagge nötig tötet.
 
 ## §13 - Mineception
 Teaming über die Teamgrenzen hinaus (sog. Crossteaming) ist verboten. Auch das vorsätzliche Behindern der eigenen Teammitglieder in Form von Blöcken, die unter ihnen abgebaut werden 
@@ -82,6 +93,9 @@ ist ebenfalls verboten und wird entsprechend sanktioniert.
 - <u>Bannverkürzung</u>: Ab einem Zeitraum von mindestens 10 Tagen hat jeder User das Recht einen Antrag auf Bannverkürzung im Forum stellen. Solltest du keinen Account im Forum haben,
  so kannst du deine Entschuldigung einem Teammitglied im TeamSpeak schicken, welches diese dann ins Forum stellt.
 - <u>Bannumgehung</u>: Das Umgehen von Banns mit einem Zweitaccount ist auf Timolia verboten. Als “gebannt” wird sowohl der Account, als auch die Person, welche den Account nutzt, und die zu diesem Zeitpunkt verwendete Adresse angesehen.
+Wird eine Bannumgehung nachgewiesen, verjährt der ursprüngliche Bann einen Monat langsamer, eine Entschuldigung/Entbannung ist also erst 30 Tage später als bisher möglich. 
+Diese Regelung wird für jeden Zweitaccount angewendet, bei dem eine Bannumgehung nachgewiesen wird. Wird dabei zusätzlich auf dem Zweitaccount gehackt, zählt die Bannumgehung doppelt, der ursprüngliche Bann verjährt also zwei Monate später.
+Bei wiederholten Verstößen gegen das Bannumgehungsverbot können alle betroffenen Accounts permament und ohne Chance auf Entbannung auf Timolia gesperrt werden. Banntage des ursprünglichen Accounts werden auf Zweitaccounts übertragen.
 
 ## §15 – Rückerstattung bei technischen Fehlern
 - Sollten durch technische Fehler (Serverabstürze, etc.) Pixel oder Punkte zurückgesetzt werden, sieht das übliche Verhalten des Teams vor, diese nicht zu erstatten. 

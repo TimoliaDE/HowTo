@@ -19,6 +19,11 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 - <u>Hauptverantwortlich:</u> Timolia-Plugins
 - <u>Nebenverantwortlich:</u> Root-Server
 
+###<strong>Lascona</strong>
+- <u>Rang (ingame):</u> Administratorin
+- <u>Hauptverantwortlich:</u> Bauevent-Koordination, Gesamtes Forum, Internes und externes Feedback, Social Media, Teammanagement
+- <u>Nebenverantwortlich:</u> Broadcasts, YouTuber-Ränge
+
 ###<strong>MCExpertDE</strong>
 - <u>Rang (ingame):</u> Administrator
 - <u>Hauptverantwortlich:</u> Games, Timolia-Plugins
@@ -28,6 +33,11 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 - <u>Rang (ingame):</u> Administrator
 - <u>Hauptverantwortlich:</u> Interne Webanwendung, Webseite
 - <u>Nebenverantwortlich:</u> Twitter
+
+### <strong>svdragster</strong>
+- <u>Rang (ingame):</u> Administrator
+- <u>Hauptverantwortlich:</u> Anti-Cheat, Timolia-Plugins
+- <u>Nebenverantwortlich:</u> Feedback Forum, Fragen & Antworten Forum
 
 ###<strong>xiantiel</strong>
 - <u>Rang (ingame):</u> Administrator
@@ -45,11 +55,6 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 - <u>Hauptverantwortlich:</u> Entschuldigungen, Supporterauswahl, YouTuber-Events
 - <u>Nebenverantwortlich:</u> Map-Einsendungen, Teamspeak, Testen der Games-Maps, Twitter, YouTuber-Ränge
 
-### <strong><span style="color:#CF0101">JOlegna</span></strong>
-- <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Upper Hills, CityBuild Forum
-- <u>Nebenverantwortlich:</u> Supporterauswahl, Teamspeak, Timolia HowTo
-
 ###<strong><span style="color:#CF0101">L0L0</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Broadcasts
@@ -59,11 +64,6 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Organisation und Koordination neuer, inaktiver und alter Teamler, Timolia HowTo, Twitter, YouTuber-Ränge, Zu Unrecht gebannt Forum
 - <u>Nebenverantwortlich:</u> Anti-Cheat, Supporterauswahl, Testen der Games-Maps
-
-###<strong><span style="color:#CF0101">Milam</span></strong>
-- <u>Rang (ingame):</u> Moderatorin
-- <u>Hauptverantwortlich:</u> Achievements, Anregungen und Vorschläge, Bauevent-Koordination, Feedback Forum, Gesamtes Forum, Management des Creator-Teams, Social-Media, YouTube und Twitch, YouTuber-Events
-- <u>Nebenverantwortlich:</u> Broadcasts, YouTuber-Ränge
 
 ###<strong><span style="color:#CF0101">NameIsTaken</span></strong>
 - <u>Rang (ingame):</u> Moderator
@@ -123,11 +123,6 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ### <strong><span style="color:#007812">Raziel</span></strong>
 - <u>Rang (ingame):</u> Developer
 - <u>Hauptverantwortlich:</u> Anti-Cheat
-
-### <strong><span style="color:#007812">svdragster</span></strong>
-- <u>Rang (ingame):</u> Developer
-- <u>Hauptverantwortlich:</u> Anti-Cheat
-- <u>Nebenverantwortlich:</u> Feedback Forum, Fragen & Antworten Forum
 
 ###<strong><span style="color:#007812">TheBrownShape</span></strong>
 - <u>Rang (ingame):</u> Developer
@@ -237,7 +232,19 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ### <strong><span style="color:#00646F">\_Geizhals\_</span></strong>
 - <u>Rang (ingame):</u> Builder
 
+###<strong><span style="color:#00646F">Dankbarkeit</span></strong>
+- <u>Rang (ingame):</u> Builder
+
+###<strong><span style="color:#00646F">Eisenmaus</span></strong>
+- <u>Rang (ingame):</u> Builder
+
 ###<strong><span style="color:#00646F">engiwuck</span></strong>
+- <u>Rang (ingame):</u> Builder
+
+###<strong><span style="color:#00646F">eZZfery</span></strong>
+- <u>Rang (ingame):</u> Builderin
+
+###<strong><span style="color:#00646F">eZZrael</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span style="color:#00646F">Jukplays</span></strong>
