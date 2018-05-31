@@ -11,10 +11,10 @@ Chatnachrichten oder auch das Erhöhen der Klickgeschwindigkeit ermöglichen, si
 Tastaturen, Mäusen oder Hotkeys für die oben genannten Zwecke. Skinblinker und sämltiche Arten von Minimaps sind ebenfalls verboten. 
 
 Ausgenommen von dieser Regelung sind spielverschönernde Mods wie [OptiFine](http://optifine.net/home.php) oder [Shader](https://www.google.de/#q=Minecraft+Shader), 
-sowie die [5zig](http://5zig.net/)- und [LabyMod](http://www.labymod.net/). Eine genaue Liste aller erlaubten Mods findest du [hier](https://howto.timolia.de/rules/approvedmods/). Solltest du mit einer Mod spielen 
-wollen, die nicht in dieser Liste aufgeführt ist, empfehlen wir dir, den Timolia Support zu kontaktieren. Die Liste wird regelmäßig geupdated und angepasst. 
-Mods, die zwar vergleichbare Funktionen wie die hier aufgelisteten Mods anbieten, jedoch nicht in der Liste stehen, sind nicht von uns geprüft und können ggf. zu einem Bann
-führen. Wir raten daher davon ab, diese Mods ungefragt zu verwenden.
+sowie die [5zig](http://5zig.net/)- und [LabyMod](http://www.labymod.net/). Eine genaue Liste aller erlaubten Mods findest du [hier](https://howto.timolia.de/rules/approvedmods/). 
+Solltest du mit einer Mod spielen wollen, die nicht in dieser Liste aufgeführt ist, empfehlen wir dir, den [Timolia Support](/faq/#wer-supportet-mich-wenn-ich-fragen-habe) zu kontaktieren. Die Liste wird regelmäßig geupdated 
+und angepasst. Mods, die zwar vergleichbare Funktionen wie die hier aufgelisteten Mods anbieten, jedoch nicht in der Liste stehen, sind nicht von uns geprüft und können
+ggf. zu einem Bann führen. Wir raten daher davon ab, diese Mods ungefragt zu verwenden.
 
 ## §3 - Cheating/Bugusing
 Bugusing ist das bewusste Ausnutzen von Spielfehlern, welche im Spiel nicht vorgesehene Folgen haben und ist selbstverständlich verboten.
