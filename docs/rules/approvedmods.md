@@ -1,0 +1,82 @@
+Alle hier aufgeführten Mods sind vom Timolia Team geprüft und das Spielen mit diesen ist auf dem Timolia Netzwerk erlaubt. Für weitere Infos siehe das [Regelwerk - Games](/rules/games/#2-modifikationen-modshacks-resource-packs-und-minimaps).
+
+Suche am besten mit der Suchfunktion deines Browsers (<b>Strg+F</b>) auf dieser Seite nach der Mod, mit der du spielen möchtest.
+
+- lper
+- MemoryFix
+- ProjectL
+- ArmorStatusHUD
+- StatusEffectHUD
+- PerspectiveMod
+- ResourcePackOrganizer / Resourcepacks24
+- Vanilla Enhancements
+- FPSMod / FPS Spoof Mod
+- MotionBlurMod
+- KeyMod
+- DabMod
+- AutoTip
+- ComboDisplayMod
+- Powns' CheatbreakerHUD
+- BlockoverlayMod
+- ItemPhysics
+- WorldEditMod
+- ChromaHUD
+- AutoGG
+- IngameServerSwitcher
+- WingsMod
+- ChromaParticlesMod
+- CoordsMod
+- GlintColorizer
+- TcpNoDelayMod-2.0
+- MorePlayerModels
+- GUIScaleMod
+- FOVControl
+- PackDisplayMod
+- CustomSkyMod
+- XaeroBetterPVP (ohne MiniMap und DamageIndicators)
+- QuickPlayMod
+- NameTagMod
+- SuperSecretSettingsFix
+- ReplayMod
+- Schaftimer
+- DJTastyMod
+- ClanWarMod
+- LevelHead
+- ClearGlassMod
+- ScreenShotMod
+- AutoWho
+- ChatTriggersMod
+- ToggleChatMod
+- ChunkAnimator
+- MacroKeyMod
+- SaturationDisplay
+- SkinChangerMod
+- QuickSWMod
+- PingMod
+- CapeMod
+- MumbleMod
+- BetterF3Mod
+- NotEnoughItems
+- BetterSprinting
+- SoundFiltersMod
+- BetterFoilageMod
+- FpsReducerMod
+- ParadoxMod
+- ReachCirclesMod
+- EmojifyMod
+- NameHistoryMod
+- WaypointsMod
+- CustomMainMenu
+- ItemcounterMod
+- TooManyItems
+- FoamFixMod
+- DirectionHUD
+- AutoFriendMod
+- ProfileMod
+- FidgetSpinnerCPSMod
+- PackSwitcherMod
+- DynamicLightsMod
+- DeiraMod
+- HypixelToolsMod
+- YoutubeCounterMod
+- SimpleChunkLoaderMod
