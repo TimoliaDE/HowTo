@@ -7,7 +7,7 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#CF0101">Milam</span> | Hauptverantwortlich |
+|<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#CF0101">NameIsTaken</span> | Nebenverantwortlich |
 
@@ -15,7 +15,7 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#CF0101">Milam</span> | Hauptverantwortlich |
+|<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">NameIsTaken</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
@@ -26,7 +26,7 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 | ------ | ------ |
 |<span style="color:#E4D100">Julian_999999999</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#007812">svdragster</span> | Nebenverantwortlich |
+|<span style="color:#2980b9">svdragster</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Chrissi1505</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">SlimeGmes</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">TobcrafterDE</span> | Nebenverantwortlich |
@@ -34,9 +34,9 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 ###<strong>Feedback</strong>
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#CF0101">Milam</span> | Hauptverantwortlich |
+|<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#007812">svdragster</span> | Nebenverantwortlich |
+|<span style="color:#2980b9">svdragster</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 
 ###<strong>Map-Einsendungen</strong>
@@ -83,8 +83,6 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 ###<strong>CityBuild</strong>
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#CF0101">JOlegna</span> | Hauptverantwortlich |
-| | |
 |<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
 
 # Sonstige Aufgaben
@@ -94,8 +92,8 @@ Diese Teamler sorgen für einen fortlaufend reibungslosen Spielverlauf ohne Hack
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
+|<span style="color:#2980b9">svdragster</span> | Hauptverantwortlich |
 |<span style="color:#007812">Raziel</span> | Hauptverantwortlich |
-|<span style="color:#007812">svdragster</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#CF0101">L0L0</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">Metrixx7</span> | Nebenverantwortlich |
@@ -117,7 +115,6 @@ Wenn es wieder daran geht, neue Supporter in unsere Reihen zu holen, kümmern si
 |<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
 |<span style="color:#E4D100">Elegeta</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#CF0101">JOlegna</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">Metrixx7</span> | Nebenverantwortlich |
 
 ###<strong>Timolia HowTo</strong>
@@ -127,15 +124,13 @@ Diese Teamler kümmern sich um's Aktualisieren und Erstellen des HowTos Timolias
 | ------ | ------ |
 |<span style="color:#CF0101">Metrixx7</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
-| | |
-|<span style="color:#CF0101">JOlegna</span> | Nebenverantwortlich |
 
 ###<strong>Social-Media</strong>
 Für einen ständigen Support und Content auf Twitter und anderen sozialen Medien sorgen diese Teamler.
 
 | Teamler | Projekte u. Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#CF0101">Milam</span> | Hauptverantwortlich |
+|<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#2980b9">Niklas</span>| Twitter NV |
 |<span style="color:#CF0101">Metrixx7</span> | Twitter HV |
@@ -156,7 +151,6 @@ Der Teamspeak von Timolia ist unter ts.timolia.de zu erreichen. Er wird betreut 
 |<span style="color:#2980b9">Evoferry</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
-|<span style="color:#CF0101">JOlegna</span> | Nebenverantwortlich |
 |<span style="color:#007812">MCelements</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
@@ -188,7 +182,7 @@ Im Timolia Team gibt es kleinere Teams, welche unter anderem durch diese Verantw
 | ------ | ------ |
 |<span style="color:#2980b9">Caelis</span> | Management des Development-Teams |
 |<span style="color:#CF0101">Tedget</span> | Management des Development-Teams |
-|<span style="color:#CF0101">Milam</span> | Management des Creator-Teams und des YouTube-Teams |
+|<span style="color:#2980b9">Lascona</span> | Management des Creator-Teams und des YouTube-Teams |
 |<span style="color:#00646F">Vectrail</span> | Management des Bau-Teams |
 
 ###<strong>Testen der Games-Maps</strong>
@@ -210,8 +204,8 @@ Events, welche von dem Timolia Team für YouTuber veranstaltet werden, werden vo
 
 | Teamler | Zuständigkeit |
 | ------ | ------ |
+|<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">ItsSarahh</span> | Hauptverantwortlich |
-|<span style="color:#CF0101">Milam</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#E4D100">Elegeta</span> | Nebenverantwortlich |
@@ -224,6 +218,6 @@ Wenn sich ein YouTuber für einen Rang auf Timolia interessiert, werden die Anfr
 |<span style="color:#CF0101">Metrixx7</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
 | | |
+|<span style="color:#2980b9">Lascona</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
-|<span style="color:#CF0101">Milam</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">Schonas</span> | Nebenverantwortlich |
