@@ -62,6 +62,7 @@ Suche am besten mit der Suchfunktion deines Browsers (<b>Strg+F</b>) auf dieser 
 - NameTagMod
 - NotEnoughItems
 - OldAnimations (OrangeMarshall's und spiderfrog's)
+- OptiFine
 - Orange's Simple Mod
 - PackDisplayMod
 - PackSwitcherMod
