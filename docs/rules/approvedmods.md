@@ -2,6 +2,26 @@ Alle hier aufgeführten Mods sind vom Timolia Team geprüft und das Spielen mit 
 
 Suche am besten mit der Suchfunktion deines Browsers (<b>Strg+F</b>) auf dieser Seite nach der Mod, mit der du spielen möchtest.
 
+- Badlion Client 2
+- 5zigMod
+- LabyMod (Version 3.1 und höher)
+- CosmicClient
+- ZonixClient
+- OldAnimations (OrangeMarshall's und spiderfrog's)
+- MouseDelayFix
+- ReachDisplayMod
+- KeyStrokesMod
+- Orange's Simple Mod
+- CustomCrosshairMod
+- ParticleMod
+- Batty's Coordinates (+)
+- CPSMod
+- SidebarMod
+- Timechanger (nur ohne Misplace!)
+- ToggleSneak
+- PingTag
+- IngameAccountSwitcher
+- MLGHe
 - lper
 - MemoryFix
 - ProjectL
