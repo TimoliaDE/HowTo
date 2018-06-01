@@ -2,101 +2,101 @@ Alle hier aufgeführten Mods sind vom Timolia Team geprüft und das Spielen mit 
 
 Suche am besten mit der Suchfunktion deines Browsers (<b>Strg+F</b>) auf dieser Seite nach der Mod, mit der du spielen möchtest.
 
-- Badlion Client 2
 - 5zigMod
-- LabyMod (Version 3.1 und höher)
-- CosmicClient
-- ZonixClient
-- OldAnimations (OrangeMarshall's und spiderfrog's)
-- MouseDelayFix
-- ReachDisplayMod
-- KeyStrokesMod
-- Orange's Simple Mod
-- CustomCrosshairMod
-- ParticleMod
-- Batty's Coordinates (+)
-- CPSMod
-- SidebarMod
-- Timechanger (nur ohne Misplace!)
-- ToggleSneak
-- PingTag
-- IngameAccountSwitcher
-- MLGHe
-- lper
-- MemoryFix
-- ProjectL
 - ArmorStatusHUD
-- StatusEffectHUD
-- PerspectiveMod
-- ResourcePackOrganizer / Resourcepacks24
-- Vanilla Enhancements
-- FPSMod / FPS Spoof Mod
-- MotionBlurMod
-- KeyMod
-- DabMod
-- AutoTip
-- ComboDisplayMod
-- Powns' CheatbreakerHUD
-- BlockoverlayMod
-- ItemPhysics
-- WorldEditMod
-- ChromaHUD
-- AutoGG
-- IngameServerSwitcher
-- WingsMod
-- ChromaParticlesMod
-- CoordsMod
-- GlintColorizer
-- TcpNoDelayMod-2.0
-- MorePlayerModels
-- GUIScaleMod
-- FOVControl
-- PackDisplayMod
-- CustomSkyMod
-- XaeroBetterPVP (ohne MiniMap und DamageIndicators)
-- QuickPlayMod
-- NameTagMod
-- SuperSecretSettingsFix
-- ReplayMod
-- Schaftimer
-- DJTastyMod
-- ClanWarMod
-- LevelHead
-- ClearGlassMod
-- ScreenShotMod
-- AutoWho
-- ChatTriggersMod
-- ToggleChatMod
-- ChunkAnimator
-- MacroKeyMod
-- SaturationDisplay
-- SkinChangerMod
-- QuickSWMod
-- PingMod
-- CapeMod
-- MumbleMod
-- BetterF3Mod
-- NotEnoughItems
-- BetterSprinting
-- SoundFiltersMod
-- BetterFoilageMod
-- FpsReducerMod
-- ParadoxMod
-- ReachCirclesMod
-- EmojifyMod
-- NameHistoryMod
-- WaypointsMod
-- CustomMainMenu
-- ItemcounterMod
-- TooManyItems
-- FoamFixMod
-- DirectionHUD
 - AutoFriendMod
-- ProfileMod
-- FidgetSpinnerCPSMod
-- PackSwitcherMod
-- DynamicLightsMod
+- AutoGG
+- AutoTip
+- AutoWho
+- Badlion Client 2
+- Batty's Coordinates (+)
+- BetterF3Mod
+- BetterFoilageMod
+- BetterSprinting
+- BlockoverlayMod
+- CapeMod
+- ChatTriggersMod
+- ChromaHUD
+- ChromaParticlesMod
+- ChunkAnimator
+- ClanWarMod
+- ClearGlassMod
+- ComboDisplayMod
+- CoordsMod
+- CosmicClient
+- CPSMod
+- CustomCrosshairMod
+- CustomMainMenu
+- CustomSkyMod
+- DabMod
 - DeiraMod
+- DirectionHUD
+- DJTastyMod
+- DynamicLightsMod
+- EmojifyMod
+- FidgetSpinnerCPSMod
+- FoamFixMod
+- FOVControl
+- FPSMod / FPS Spoof Mod
+- FpsReducerMod
+- GlintColorizer
+- GUIScaleMod
 - HypixelToolsMod
-- YoutubeCounterMod
+- IngameAccountSwitcher
+- IngameServerSwitcher
+- ItemcounterMod
+- ItemPhysics
+- KeyMod
+- KeyStrokesMod
+- LabyMod (Version 3.1 und höher)
+- LevelHead
+- lper
+- MacroKeyMod
+- MemoryFix
+- MLGHe
+- MorePlayerModels
+- MotionBlurMod
+- MouseDelayFix
+- MumbleMod
+- NameHistoryMod
+- NameTagMod
+- NotEnoughItems
+- OldAnimations (OrangeMarshall's und spiderfrog's)
+- Orange's Simple Mod
+- PackDisplayMod
+- PackSwitcherMod
+- ParadoxMod
+- ParticleMod
+- PerspectiveMod
+- PingMod
+- PingTag
+- Powns' CheatbreakerHUD
+- ProfileMod
+- ProjectL
+- QuickPlayMod
+- QuickSWMod
+- ReachCirclesMod
+- ReachDisplayMod
+- ReplayMod
+- ResourcePackOrganizer / Resourcepacks24
+- SaturationDisplay
+- Schaftimer
+- ScreenShotMod
+- SidebarMod
 - SimpleChunkLoaderMod
+- SkinChangerMod
+- SoundFiltersMod
+- StatusEffectHUD
+- SuperSecretSettingsFix
+- TcpNoDelayMod-2.0
+- Timechanger (nur ohne Misplace!)
+- ToggleChatMod
+- ToggleSneak
+- TooManyItems
+- Vanilla Enhancements
+- WaypointsMod
+- WingsMod
+- WorldEditMod
+- XaeroBetterPVP (ohne MiniMap und DamageIndicators)
+- YoutubeCounterMod
+- ZonixClient
