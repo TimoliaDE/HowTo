@@ -14,6 +14,7 @@ Suche am besten mit der Suchfunktion deines Browsers (<b>Strg+F</b>) auf dieser 
 - BetterFoilageMod
 - BetterSprinting
 - BlockoverlayMod
+- bspkrscore
 - CapeMod
 - ChatTriggersMod
 - ChromaHUD
