@@ -5,6 +5,12 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>Mai</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|Tim9875432 | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 03.06.18 |
+|SpaceJumper | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 03.06.18 |
+
+###<strong>Mai</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
 |Eisenmaus | <span style="color:#F99500">Pro</span> | <span style="color:#00646F">Builder</span> | 29.05.18 |
 |JOlegna | <span style="color:#007812">Developer</span> | <span style="color:#00F9EC">Expert</span> | 27.05.18 |
 |eZZrael | <span style="color:#F99500">Pro</span> | <span style="color:#00646F">Builder</span> | 22.05.18 |
