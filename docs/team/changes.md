@@ -12,7 +12,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |Eisenmaus | <span style="color:#F99500">Pro</span> | <span style="color:#00646F">Builder</span> | 29.05.18 |
-|JOlegna | <span style="color:#007812">Developer</span> | <span style="color:#00F9EC">Expert</span> | 27.05.18 |
+|JOlegna | <span style="color:#CF0101">Moderator</span> | <span style="color:#00F9EC">Expert</span> | 27.05.18 |
 |eZZrael | <span style="color:#F99500">Pro</span> | <span style="color:#00646F">Builder</span> | 22.05.18 |
 |eZZfery | <span style="color:#00F9EC">Expert</span> | <span style="color:#00646F">Builderin</span> | 22.05.18 |
 |svdragster | <span style="color:#007812">Developer</span> | <span style="color:#2980b9">Administrator</span> | 16.05.18 |
