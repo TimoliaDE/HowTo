@@ -83,6 +83,8 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 ###<strong>CityBuild</strong>
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
+|<span style="color:#2980b9">Docmac</span> | Hauptverantwortlich |
+| | |
 |<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
 
 # Sonstige Aufgaben
@@ -172,7 +174,7 @@ Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadca
 | ------ | ------ |
 |<span style="color:#CF0101">L0L0</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#CF0101">Milam</span> | Nebenverantwortlich |
+|<span style="color:#2980b9">Lascona</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
 
 ###<strong>Team-Leiter</strong>
