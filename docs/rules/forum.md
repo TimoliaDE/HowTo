@@ -19,6 +19,10 @@ permanenter Ausschluss vom Timolia Netzwerk. Dazu zählt auch der reine Versuch.
 ### Doppelposts und Spammen von Beiträgen
 Das Spammen von Beiträgen ist verboten und wird bei häufigem Vorkommen geahndet. Des weiteren sollte die Such-Funktion benutzt werden, bevor ein Beitrag gepostet wird, doppelte Beiträge werden geschlossen oder gelöscht.
 
+### Signaturen
+Signaturen dürfen eine maximale Größe von 1500 Zeichen und 15 Zeilen nicht überschreiten. Erlaubt ist die Verwendung von maximal einem GIF oder einer Animation sowie die Verwendung von Bildern und Grafiken. Die Schriftgröße 5 sollte nicht überschritten werden.
+Signaturen, die diesen Vorgaben zwar entsprechen, aber durch ihre Gestaltung (z.B. extrem auffällige Gifs) den Lesefluss erheblich beeinträchtigen, sind ebenfalls verboten.
+
 ## §2 - Profil
 Für Posts an Profilen anderer Nutzer gilt ebenfalls §1. Das Spammen von Profilnachrichten ist verboten und wird bei wiederholtem Vorkommen geahndet. Anstößige, nationalsozialistische und 
 beleidigende Profilbilder und Profilnachrichten sind im gesamten Forum verboten.
