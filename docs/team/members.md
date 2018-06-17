@@ -220,7 +220,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">xTessia</span></strong>
 - <u>Rang (ingame):</u> Supporterin
-- <u>Neberverantwortlich:</u> Entschuldigungen, Teamspeak, Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Entschuldigungen, Teamspeak, Zu Unrecht gebannt Forum
 
 
 ## Builder
