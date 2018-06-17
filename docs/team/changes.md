@@ -2,9 +2,10 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 
 # 2018
 
-###<strong>Mai</strong>
+###<strong>Juni</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|TheFeldi | <span style="color:#E4D100">Supporter</span> | <span style="color:#007812">Developer</span> | 13.06.18 |
 |Tim9875432 | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 03.06.18 |
 |SpaceJumper | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 03.06.18 |
 
