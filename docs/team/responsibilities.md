@@ -72,6 +72,7 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 |<span style="color:#E4D100">Elegeta</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
 
 ###<strong>Zu Unrecht gebannt</strong>
 | Teamler | Verantwortungsgrad |
@@ -79,13 +80,13 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 |<span style="color:#CF0101">Metrixx7</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#CF0101">Schonas</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
 
 ###<strong>CityBuild</strong>
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#2980b9">Docmac</span> | Hauptverantwortlich |
-| | |
-|<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
 
 # Sonstige Aufgaben
 
