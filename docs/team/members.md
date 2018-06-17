@@ -187,7 +187,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">Julian_999999999</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Hauptverantwortlich:</u> Fragen und Antworten Forum
-- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Entschuldigungen, Feedback Forum, Spieler melden Forum, Teamspeak
+- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Entschuldigungen, Feedback Forum, Spieler melden Forum, Teamspeak, Zu Unrecht gebannt Forum
 
 ### <strong><span style="color:#E4D100">LordKnockback</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -220,7 +220,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">xTessia</span></strong>
 - <u>Rang (ingame):</u> Supporterin
-- <u>Neberverantwortlich:</u> CityBuild Forum, Teamspeak
+- <u>Neberverantwortlich:</u> Entschuldigungen, Teamspeak, Zu Unrecht gebannt Forum
 
 
 ## Builder
