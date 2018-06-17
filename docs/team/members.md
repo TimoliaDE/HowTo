@@ -127,6 +127,9 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ###<strong><span style="color:#007812">TheBrownShape</span></strong>
 - <u>Rang (ingame):</u> Developer
 
+### <strong><span style="color:#007812">TheFeldi</span></strong>
+- <u>Rang (ingame):</u> Developer
+
 ###<strong><span style="color:#007812">tr7zw</span></strong>
 - <u>Rang (ingame):</u> Developer
 - <u>Hauptverantwortlich:</u> CityBuild-Plugins, Abbauwelt, Farmwelt
@@ -202,9 +205,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Nebenverantwortlich:</u> Fragen & Antworten Forum
 
 ### <strong><span style="color:#E4D100">SpaceJumper</span></strong>
-- <u>Rang (ingame):</u> Supporter
-
-### <strong><span style="color:#E4D100">TheFeldi</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
 ### <strong><span style="color:#E4D100">Tim9875432</span></strong>
