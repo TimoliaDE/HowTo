@@ -47,6 +47,7 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 |<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">felliongi21</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">iskander</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">LordKnockback</span> | Nebenverantwortlich |
 
 ###<strong>Spieler melden</strong>
 | Teamler | Verantwortungsgrad |
@@ -54,6 +55,7 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 |<span style="color:#E4D100">felliongi21</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">LordKnockback</span> | Nebenverantwortlich |
 
 ###<strong>Bug melden</strong>
 | Teamler | Verantwortungsgrad |
@@ -140,8 +142,10 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 |<span style="color:#CF0101">Caprea</span> | Twitter NV |
 |<span style="color:#CF0101">ItsSarahh</span> | Twitter NV|
 |<span style="color:#007812">tr7zw</span> | Twitter NV |
+|<span style="color:#E4D100">Chrissi1505</span> | Twitter NV |
 |<span style="color:#E4D100">Juliaan</span> | Twitter NV |
 |<span style="color:#E4D100">xMaudodo</span> | Twitter NV |
+|<span style="color:#E4D100">xTessia</span> | Twitter NV |
 |<span style="color:#00646F">JukPlays</span> | Bauteam-Twitter HV |
 |<span style="color:#00646F">xnulix</span> | Bauteam-Twitter NV |
 |<span style="color:#007812">die_maren</span> | Bauteam-Twitter NV |
