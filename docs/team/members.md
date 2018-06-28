@@ -152,7 +152,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Chrissi1505</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Fragen & Antworten Forum
+- <u>Nebenverantwortlich:</u> Fragen & Antworten Forum, Twitter
 
 ### <strong><span style="color:#E4D100">Digimon</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -220,7 +220,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ###<strong><span style="color:#E4D100">xTessia</span></strong>
 - <u>Rang (ingame):</u> Supporterin
-- <u>Nebenverantwortlich:</u> Entschuldigungen, Teamspeak, Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Entschuldigungen, Teamspeak, Twitter, Zu Unrecht gebannt Forum
 
 
 ## Builder
