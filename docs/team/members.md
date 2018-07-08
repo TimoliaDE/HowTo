@@ -109,6 +109,9 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Rang (ingame):</u> Developer
 - <u>Nebenverantwortlich:</u> Web-Development
 
+### <strong><span style="color:#007812">Kenaai</span></strong>
+- <u>Rang (ingame):</u> Developer
+
 ### <strong><span style="color:#007812">logito111</span></strong>
 - <u>Rang (ingame):</u> Developer
 
@@ -175,10 +178,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter
 - <u>Hauptverantwortlich:</u> Timolia-Turnier Kits
 - <u>Nebenverantwortlich:</u> Anregungen und Vorschläge, Testen der Games-Maps
-
-### <strong><span style="color:#E4D100">iskander</span></strong>
-- <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Map-Einsendungen
 
 ### <strong><span style="color:#E4D100">Juliaan</span></strong>
 - <u>Rang (ingame):</u> Supporter

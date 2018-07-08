@@ -2,6 +2,12 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 
 # 2018
 
+###<strong>Juli</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+|Iskander | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 04.07.18 |
+|Kenaai | <span style="color:#00F9EC">Expert</span> | <span style="color:#007812">Developer</span> | 01.07.18 |
+
 ###<strong>Juni</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
