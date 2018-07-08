@@ -46,7 +46,6 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 | | |
 |<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">felliongi21</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">iskander</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">LordKnockback</span> | Nebenverantwortlich |
 
 ###<strong>Spieler melden</strong>
