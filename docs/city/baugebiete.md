@@ -55,8 +55,7 @@ eingehalten werden, es werden keine Blöcke außerhalb des Grundstückes gesetzt
 
 ![Screenshot](img/Downtown.png)
 
-Downtown bildet den Spawn von Timolia und stellt alle wichtigen, großen Gebäude zur Verfügung. Rund um den Marktplatz findest du die Bahngleise, die Polizei und
-die Kirche.
+Downtown bildet den Spawn von Timolia und stellt alle wichtigen, großen Gebäude zur Verfügung. Rund um den Marktplatz die Polizei und die Kirche.
 Die Grundstücke kosten zwischen 20.000T und 145.000T und sollten möglichst Urban wirken (Hohe, große Häuser; keine großen Gärten).
 In Downtown sind bis zu 50 Haustiere auf dem Grundstück erlaubt.
 
@@ -104,8 +103,6 @@ Erforsche sie und entdecke alle tollen Sachen von Ägypten und finde alle Geheim
 - <strong>Ägyptischer Baustil</strong>, keine modernen Sandsteinhäuser mit großen Glasfenstern, keine Pyramiden
 - Die Grundstücke sind 20x20, 20x25, 25x25, 25x30 und 30x30 groß
 - Die Gsrundstücke kosten 5000T, 5500T, 6000T, 6500T und 7000T. Der Preis richtet sich nach der Größe des Grundstückes
-- Ägypten hat eine Bahnanbindung
-
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
