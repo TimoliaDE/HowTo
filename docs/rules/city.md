@@ -47,7 +47,7 @@ Zum Griefen zählt auch das Töten fremder Tiere ohne Erlaubnis oder das Zertram
 Der Griefingparagraph gilt nicht für die Abbauwelt.
 
 ## §7 – PVP/Töten von Mitspielern
-Das mutwillige und/oder vorsätzliche Töten von Mitspielern außerhalb von PvP-Zonen ist verboten. Auch das Bauen von Fallen, welche zum Tod eines anderen Spielers führen können, ist nicht erlaubt.
+Das mutwillige und/oder vorsätzliche Töten von Mitspielern außerhalb von PvP-Zonen ist verboten. Sowohl das Töten durch den Befehl TPA, als auch das Bauen von Fallen, welche zum Tod eines anderen Spielers führen können, ist nicht erlaubt.
 
 ## §8 – Betrug von Spielern
 Das absichtliche Betrügen anderer Spieler oder des Serverteams ist verboten und wird mit einem Bann bestraft. Das beinhaltet irreführende Verkäufe von Items in deinem Shop, genauso wie das Abzocken anderer Spieler im Chat.
@@ -81,4 +81,4 @@ Sollten durch technische Fehler (Serverabstürze, etc.) Timolions, Items oder Gr
 
 <strong>Das Team behält sich das Recht vor, bestimmtes Handeln (auch außerhalb des Minecraft- und Teamspeakservers) zu sanktionieren, welches nicht explizit in den Regeln aufgelistet ist.</strong>
 
-letzte Aktualisierung: September 2017
+letzte Aktualisierung: Juli 2018
