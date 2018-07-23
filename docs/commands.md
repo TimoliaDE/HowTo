@@ -184,14 +184,13 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 Um Member auf seinem Grundstück zu protecten oder Flags zu ändern, muss man auf das Regionsschild klicken.
 
 
-### Farmwelt 
+### Teleportieren zu anderen Personen (Taxi / TPA) 
 
-Die Farmwelt läuft noch auf Timolia2.0, daher ist es im Moment nicht möglich, sich neue Farmgrundstücke zu kaufen.
+Mit dem Taxi kommst du direkt zu den gleichen Positionen wie dein Freund.
+Für User kostet ein Taxi 100T, für Pro's 75T und für Expert 50T
 
 | Befehl | Funktion |
 | ------ | -------- |
-| `/TCBuyFarm` | Farmgrunstück kaufen |
-| `/TCFarm buy` | Mobspawning kaufen |
-| `/TCFarm on` | Mobspawning aktivieren |
-| `/TCFarm off` | Mobspawning deaktivieren |
-| `/TPFarm <ID> <accept/deny/toggle>` | Zum Farmgrundstück eines Spielers porten |
+| `/tpa <Name>` | Stellt dem Spieler eine Anfrage |
+| `/tpaccept <Name>` | Nimmt die Anfrage des Spielers an |
+| `/tpa toggle` | Aktviert oder deaktiviert TPA-Anfragen für dich |
