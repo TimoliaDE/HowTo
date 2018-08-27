@@ -19,6 +19,7 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 |<span style="color:#CF0101">NameIsTaken</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">CoveredSymmetry</span> | Nebenverantwortlich |
 
 ###<strong>Fragen und Antworten</strong>
 
@@ -28,8 +29,8 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 | | |
 |<span style="color:#2980b9">svdragster</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Chrissi1505</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">SlimeGmes</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">TobcrafterDE</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">CoveredSymmetry</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Tobiocus</span> | Nebenverantwortlich |
 
 ###<strong>Feedback</strong>
 | Teamler | Verantwortungsgrad |
@@ -71,7 +72,7 @@ Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau d
 |<span style="color:#CF0101">NameIsTaken</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Aenzo</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Elegeta</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Naachtara</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
 
@@ -142,8 +143,7 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 |<span style="color:#CF0101">ItsSarahh</span> | Twitter NV|
 |<span style="color:#007812">tr7zw</span> | Twitter NV |
 |<span style="color:#E4D100">Chrissi1505</span> | Twitter NV |
-|<span style="color:#E4D100">Juliaan</span> | Twitter NV |
-|<span style="color:#E4D100">xMaudodo</span> | Twitter NV |
+|<span style="color:#E4D100">Naachtara</span> | Twitter NV |
 |<span style="color:#E4D100">xTessia</span> | Twitter NV |
 |<span style="color:#00646F">JukPlays</span> | Bauteam-Twitter HV |
 |<span style="color:#00646F">xnulix</span> | Bauteam-Twitter NV |
@@ -154,13 +154,11 @@ Der Teamspeak von Timolia ist unter ts.timolia.de zu erreichen. Er wird betreut 
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#2980b9">Evoferry</span> | Hauptverantwortlich |
+|<span style="color:#007812">MCelements</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
-|<span style="color:#007812">MCelements</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Percyfan55</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
 
 ###<strong>Timolia Turnier Organisation</strong>
@@ -179,7 +177,7 @@ Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadca
 |<span style="color:#CF0101">L0L0</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#2980b9">Lascona</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Naachtara</span> | Nebenverantwortlich |
 
 ###<strong>Team-Leiter</strong>
 Im Timolia Team gibt es kleinere Teams, welche unter anderem durch diese Verantwortlichen organisiert werden.
@@ -202,7 +200,7 @@ Diese Teamler sind für das Bewerten, Aktualisieren und Kategorisieren von Games
 |<span style="color:#CF0101">Metrixx7</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">Schonas</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">FlorianFida</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Juliaan</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Naachtara</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
 
 ###<strong>YouTuber Events</strong>

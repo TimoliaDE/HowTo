@@ -79,9 +79,6 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 - <u>Hauptverantwortlich:</u> Bug melden Forum, Bugs und Spielfehler, Map-Einsendungen
 - <u>Nebenverantwortlich:</u> Testen der Games-Maps, YouTuber-Ränge, Zu Unrecht gebannt Forum
 
-###<strong><span style="color:#CF0101">Siimon</span></strong>
-- <u>Rang (ingame):</u> Moderator
-
 ### <strong><span style="color:#CF0101">Tedget</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Internes Wiki, Management des Development-Teams, Supporterauswahl, Timolia HowTo, YouTuber-Events, YouTuber-Ränge
@@ -123,6 +120,9 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Rang (ingame):</u> Developer
 - <u>Nebenverantwortlich:</u> Web-Development
 
+###<strong><span style="color:#007812">physanus</span></strong>
+- <u>Rang (ingame):</u> Developer
+
 ### <strong><span style="color:#007812">Raziel</span></strong>
 - <u>Rang (ingame):</u> Developer
 - <u>Hauptverantwortlich:</u> Anti-Cheat
@@ -136,6 +136,9 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ###<strong><span style="color:#007812">tr7zw</span></strong>
 - <u>Rang (ingame):</u> Developer
 - <u>Hauptverantwortlich:</u> CityBuild-Plugins, Abbauwelt, Farmwelt
+
+### <strong><span style="color:#007812">YTKacperSKY</span></strong>
+- <u>Rang (ingame):</u> Developer
 
 ### <strong><span style="color:#007812">Zortax</span></strong>
 - <u>Rang (ingame):</u> Developer
@@ -179,7 +182,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Hauptverantwortlich:</u> Timolia-Turnier Kits
 - <u>Nebenverantwortlich:</u> Anregungen und Vorschläge, Testen der Games-Maps
 
-### <strong><span style="color:#E4D100">Juliaan</span></strong>
+### <strong><span style="color:#E4D100">Naachtara</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Broadcasts, Entschuldigungen, Testen der Games-Maps, Twitter
 
@@ -196,27 +199,13 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> TeamSpeak, Testen der Games-Maps
 
-### <strong><span style="color:#E4D100">Percyfan55</span></strong>
+### <strong><span style="color:#E4D100">CoveredSymmetry</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> TeamSpeak
+- <u>Nebenverantwortlich:</u> Fragen & Antworten Forum, Anregungen & Vorschläge Forum
 
-### <strong><span style="color:#E4D100">SlimeGmes</span></strong>
+### <strong><span style="color:#E4D100">Tobiocus</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Fragen & Antworten Forum
-
-### <strong><span style="color:#E4D100">SpaceJumper</span></strong>
-- <u>Rang (ingame):</u> Supporter
-
-### <strong><span style="color:#E4D100">Tim9875432</span></strong>
-- <u>Rang (ingame):</u> Supporter
-
-### <strong><span style="color:#E4D100">TobCrafterDE</span></strong>
-- <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Fragen & Antworten Forum
-
-### <strong><span style="color:#E4D100">xMaudodo</span></strong>
-- <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Twitter
 
 ###<strong><span style="color:#E4D100">xTessia</span></strong>
 - <u>Rang (ingame):</u> Supporterin
@@ -234,12 +223,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder
 
 ###<strong><span style="color:#00646F">Dankbarkeit</span></strong>
-- <u>Rang (ingame):</u> Builder
-
-###<strong><span style="color:#00646F">Eisenmaus</span></strong>
-- <u>Rang (ingame):</u> Builder
-
-###<strong><span style="color:#00646F">engiwuck</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ###<strong><span style="color:#00646F">eZZfery</span></strong>
