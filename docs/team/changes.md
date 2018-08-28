@@ -5,10 +5,10 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>August</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
-|YTKacperSKY | <span style="color:#F99500">Pro</span> | <span style="color:#007812">Developer</span> | 27.08.18 |
-|xMaudodo | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | 24.08.18 |
+|YTKacperSKY | <span style="color:#F99500">Native</span> | <span style="color:#007812">Developer</span> | 27.08.18 |
+|xMaudodo | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Native</span> | 24.08.18 |
 |Percyfan55 | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 19.08.18 |
-|physanus | <span style="color:#F99500">Pro</span> | <span style="color:#007812">Developer</span> | 17.08.18 |
+|physanus | <span style="color:#F99500">Native</span> | <span style="color:#007812">Developer</span> | 17.08.18 |
 
 ###<strong>Juli</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
@@ -21,7 +21,7 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 ###<strong>Juni</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
-|engiwuck | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | 29.06.18 |
+|engiwuck | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Native</span> | 29.06.18 |
 |TheFeldi | <span style="color:#E4D100">Supporter</span> | <span style="color:#007812">Developer</span> | 13.06.18 |
 |Tim9875432 | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 03.06.18 |
 |SpaceJumper | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 03.06.18 |
@@ -31,11 +31,11 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 | ------ | ------ | ------ | ------ |
 |Eisenmaus | <span style="color:#F99500">Pro</span> | <span style="color:#00646F">Builder</span> | 29.05.18 |
 |JOlegna | <span style="color:#CF0101">Moderator</span> | <span style="color:#00F9EC">Expert</span> | 27.05.18 |
-|eZZrael | <span style="color:#F99500">Pro</span> | <span style="color:#00646F">Builder</span> | 22.05.18 |
+|eZZrael | <span style="color:#F99500">Native</span> | <span style="color:#00646F">Builder</span> | 22.05.18 |
 |eZZfery | <span style="color:#00F9EC">Expert</span> | <span style="color:#00646F">Builderin</span> | 22.05.18 |
 |svdragster | <span style="color:#007812">Developer</span> | <span style="color:#2980b9">Administrator</span> | 16.05.18 |
 |Lascona | <span style="color:#CF0101">Moderatorin</span> | <span style="color:#2980b9">Administratorin</span> | 16.05.18 |
-|physanus | <span style="color:#007812">Developer</span> | <span style="color:#F99500">Pro</span> | 15.05.18 |
+|physanus | <span style="color:#007812">Developer</span> | <span style="color:#F99500">Native</span> | 15.05.18 |
 |Docmac | <span style="color:#00F9EC">Expert</span> | <span style="color:#2980b9">Administrator</span> | 06.05.18 |
 
 ###<strong>April</strong>
@@ -51,27 +51,27 @@ Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufg
 | ------ | ------ | ------ | ------ |
 |Vemdex | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | 25.03.18 |
 |LordKnockback | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 16.03.18 |
-|TetzelHD | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | 13.03.18 |
+|TetzelHD | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Native</span> | 13.03.18 |
 
 ###<strong>Februar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |GameZter | <span style="color:#00646F">Builder</span> | <span style="color:#00F9EC">Expert</span> | 21.02.18 |
-|Eisenmaus | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | 20.02.18 |
+|Eisenmaus | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Native</span> | 20.02.18 |
 |iPushyy | <span style="color:#007812">Developer</span> | <span style="color:#848484">Spieler</span> | 18.02.18 |
 |DerBull | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 17.02.18 |
 |Kenaai | <span style="color:#CF0101">Moderator</span> | <span style="color:#00F9EC">Expert</span> | 12.02.18 |
-|Pixtopiane | <span style="color:#E4D100">Supporterin</span> | <span style="color:#F99500">Pro</span> | 11.02.18 |
+|Pixtopiane | <span style="color:#E4D100">Supporterin</span> | <span style="color:#F99500">Native</span> | 11.02.18 |
 
 ###<strong>Januar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |TaiToni | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 27.01.18 |
 |iPushyy | <span style="color:#848484">Spieler</span> | <span style="color:#007812">Developer</span> | 23.01.18 |
-|MCPhilippS  | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | 20.01.18 |
-|Tiem | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Pro</span> | 16.01.18 |
-|WildeMaus | <span style="color:#00646F">Builderin</span> | <span style="color:#F99500">Pro</span> | 16.01.18 |
-|Skerai | <span style="color:#00646F">Builderin</span> | <span style="color:#F99500">Pro</span> | 15.01.18 |
+|MCPhilippS  | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Native</span> | 20.01.18 |
+|Tiem | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Native</span> | 16.01.18 |
+|WildeMaus | <span style="color:#00646F">Builderin</span> | <span style="color:#F99500">Native</span> | 16.01.18 |
+|Skerai | <span style="color:#00646F">Builderin</span> | <span style="color:#F99500">Native</span> | 15.01.18 |
 |InfiniteFery | <span style="color:#00646F">Builderin</span> | <span style="color:#00F9EC">Expert</span> | 14.01.18 |
 |nek0chi | <span style="color:#007812">Creator</span> | <span style="color:#00F9EC">Expert</span> | 13.01.18 |
 |Kritzelkiste | <span style="color:#007812">Creator</span> | <span style="color:#00F9EC">Expert</span> | 13.01.18 |

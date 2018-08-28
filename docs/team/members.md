@@ -160,6 +160,10 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Fragen & Antworten Forum, Twitter
 
+### <strong><span style="color:#E4D100">CoveredSymmetry</span></strong>
+- <u>Rang (ingame):</u> Supporter
+- <u>Nebenverantwortlich:</u> Fragen & Antworten Forum, Anregungen & Vorschläge Forum
+
 ### <strong><span style="color:#E4D100">Digimon</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Hauptverantwortlich:</u> City Forum
@@ -182,10 +186,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Hauptverantwortlich:</u> Timolia-Turnier Kits
 - <u>Nebenverantwortlich:</u> Anregungen und Vorschläge, Testen der Games-Maps
 
-### <strong><span style="color:#E4D100">Naachtara</span></strong>
-- <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Broadcasts, Entschuldigungen, Testen der Games-Maps, Twitter
-
 ### <strong><span style="color:#E4D100">Julian_999999999</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Hauptverantwortlich:</u> Fragen und Antworten Forum
@@ -199,9 +199,9 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> TeamSpeak, Testen der Games-Maps
 
-### <strong><span style="color:#E4D100">CoveredSymmetry</span></strong>
+### <strong><span style="color:#E4D100">Naachtara</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Fragen & Antworten Forum, Anregungen & Vorschläge Forum
+- <u>Nebenverantwortlich:</u> Broadcasts, Entschuldigungen, Testen der Games-Maps, Twitter
 
 ### <strong><span style="color:#E4D100">Tobiocus</span></strong>
 - <u>Rang (ingame):</u> Supporter
