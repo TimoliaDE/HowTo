@@ -1,4 +1,4 @@
-Hier werden alle Aus- und Eintritte, bzw. Beförderungen und Degradierungen aufgelistet.
+Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufgelistet.
 
 # 2018
 

@@ -2,11 +2,11 @@
 
 ## Das Spielprinzip
 Du bist gut in Jump and Runs und möchtest deine Fähigkeiten unter Beweis stellen? Dann ist DNA genau das Richtige für dich! Ziel ist es, als erster Spieler die obere
-Grenze von 32 Blöcken erreicht.
+Grenze von 32 Blöcken zu erreichen.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0xjnQXqb7-A" frameborder="0" allowfullscreen></iframe>
-<hr>
 
+<p></p>
 
 ## Und so gehts
 - Zu Beginn des Spiels bekommt jeder eine Farbe zugewiesen, diese zeigt die Farbe deines Jump and Runs an.
@@ -37,11 +37,11 @@ Grenze von 32 Blöcken erreicht.
 | 9 | 16348 | ??? |
 | 10 | 32768 | ??? |
 
-Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren werden namentlich nur die ersten Ränge genannt. 
+Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren werden namentlich nur die ersten Ränge genannt.
 
 ## Premium-Features
 
-- <span style="color:#F99500">Pros</span> besitzen zwei, <span style="color:#00F9EC">Experts</span> drei Stimmen im Voting-System.
+- <span style="color:#F99500">Pros</span> besitzen zwei, <span style="color:#00F9EC">Experts</span> drei Stimmen im Voting-System
 - Werde mit `/togglerank` als normaler Spieler angezeigt
 
 ## Arenen und Maps

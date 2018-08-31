@@ -3,7 +3,7 @@ Hier werden die verschiedenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 # Forum
 
 ###<strong>Gesamtes Forum</strong>
-Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau des Forums als auch um Probleme welche im Forum auftreten.
+Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau des Forums als auch um Probleme, welche im Forum auftreten.
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |

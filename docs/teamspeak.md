@@ -1,4 +1,4 @@
-Mit der TeamSpeak-Server-IP ts.timolia.de gelangst du zu unserem TeamSpeak-Server. 
+Mit der TeamSpeak-Server-IP `ts.timolia.de` gelangst du zu unserem TeamSpeak-Server.
 Dort gibt es nicht nur Hilfechannel zum schnellen Support, auch öffentliche Zonen und private Channel erwarten dich. 
 
 # 1 - Verifizierung im TeamSpeak
@@ -20,20 +20,20 @@ Einen Channel erhält man, in dem man sich im TeamSpeak an ein Teammitglied wend
 ein privater Channel mithilfe eines Tickets auf dem CityBuild angefordert werden.
 
 ### Kosten eines Channels
-Die Kosten eines privaten Channels belaufen sich <strong>pro Monat auf <u>2.500 Pixel oder 10.000 Timolions</u></strong>. (Es ist nicht möglich den Preis aus beiden Währungen zu kombinieren)
+Die Kosten eines privaten Channels belaufen sich <strong>pro Monat auf <u>2.500 Pixel oder 10.000 Timolions</u></strong>. (Es ist nicht möglich; den Preis aus beiden Währungen zu kombinieren)
 
 ## Wie erhalte ich ein Channel-Icon?
 - Ein Channel-Icon kostet monatlich <s>1.500</s> 750 Pixel oder <s>6.000</s> 3.000 Timolions.
 - Die maximale Laufzeit entspricht der Channellaufzeit.
-- <strong>Achtung!</strong> Die Icon-Laufzeit wird an den Channel angepasst. Ergo kann es passieren, dass man den <strong>vollen Icon Preis für einen Monat zahlt</strong>, jedoch nur einen halben
-Monat sein Icon besitzt, wenn der Channel bis dahin <strong>ausläuft</strong>. <strong>D.h. Vorher besser immer erst den Channel verlängern, dann das Icon kaufen!</strong>
-- Als Channel-Icon kann ausschließlich der Kopf des Minecraft-Skins dienen - keine eigens erstellte Icons.
+- **Achtung!** Die Icon-Laufzeit wird an den Channel angepasst. Ergo kann es passieren, dass man den **vollen** Icon-Preis für einen Monat zahlt, aber nur einen halben
+Monat sein Icon besitzt, da der Channel **vorher ausläuft**. Es ist daher ratsam, immer zunächst den Channel zu verlängern und dann das Icon zu kaufen.
+- Als Channel-Icon kann ausschließlich der Kopf des Minecraft-Skins dienen - kein eigens erstelltes Icon.
 
 ## Regeln für private Channel
 - Ein Channel hat eine <strong>maximale Laufzeit von 6 Monaten</strong>
 - Jeder User darf maximal <strong>einen Channel</strong> besitzen
 - Der Channelname muss dem Namen des Channelbesitzers entsprechen
-- Es ist möglich, sich den Channel und die damit verbundenen Kosten mit Freunden zu teilen. Jedoch ist zu beachten, dass es nur einen rechtmäßigen Besitzer geben kann. Dieser hat im Falle einer Uneinstimmigkeit zwischen den Besitzern, den alleinigen Anspruch auf den Channel.
+- Es ist möglich, sich den Channel und die damit verbundenen Kosten mit Freunden zu teilen. Jedoch ist zu beachten, dass es nur einen rechtmäßigen Besitzer geben kann. Dieser hat im Fall einer Uneinstimmigkeit zwischen den Besitzern den alleinigen Anspruch auf den Channel.
 
 ## Channelgruppen
 

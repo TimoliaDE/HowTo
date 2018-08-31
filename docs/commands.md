@@ -1,5 +1,5 @@
 Hier findest du alle Commands ausführlich aufgelistet, die du auf dem Server benutzen kannst.
-Variablen, die mit <> markiert sind werden benötigt, mit [] markierte Attribute sind optional.
+Variablen, die mit <> markiert sind, werden benötigt, mit [] markierte Attribute sind optional.
 
 ## 1 - Allgemeine Befehle
 Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
@@ -13,13 +13,14 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/lookup <Spieler>`, `/lu` | Zeigt dir LogIn-Informationen über einen Spieler |
 | `/pro`, `/expert` | Zeigt die restliche Premium-Zeit an |
 | `/top` | Zeigt dir die Top 10 Spieler in einem Spielmodus an |
+| `/achievements` | Listet eine Übersicht aller Achievements auf |
 | `/vote <Zahl>` | Votet für eine Map in einem Spielmodus |
 | `/stats <Spieler>` | Zeigt dir die Stats eines Spielers an |
 | `/near` | Zeigt dir die Spieler, die sich direkt über und unter dir in der Punktewertung eines Modus befinden |
 | `/stats <Spieler> <Spieler>...` | Ermöglicht es dir, die Stats von mehreren Spielern zu vergleichen |
 | `/spawn` | Teleportiert dich zurück zum Spawn vom Hub |
 | `/tutorial` | Starte ein Tutorial (nicht in allen Modi verfügbar) |
-| `/register <EMail>` | Registriert dich für die Webseite |
+| `/register <E-Mail>` | Registriert dich für die Webseite |
 | `/togglerank`, `/tr` | Werde in BrainBow, 4rena, Splun, DNA, InTime u. TSpiele als normaler Spieler angezeigt |
 | `/lang <Sprache>` | Ändere deine Sprache |
 | `/bannotify` | Deaktiviere Nofitikationen zu deinen Banntagen |
@@ -52,24 +53,27 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | Befehl | Funktion |
 | ------ | -------- |
 | `/friends` | Zeigt deine Freunde an |
-| `/friend <Spieler>` | Sendet dem Spieler eine Freundschaftsanfrage |
-| `/friend requests` | Zeigt deine offenen Anfragen an |
-| `/friend delete <Spieler>` | Beendet die Freundschaft mit einem Spieler |
-| `/friend deny <Spieler>` | Lehnt eine Freundschaftsanfrage ab |
-| `/friend toggle` | Schaltet Freundschaftsanfragen aus |
-| `/friend list` | Zeigt deine Freundesliste an |
 | `/friends online` | Zeigt deine Freunde an, die gerade online sind |
+| `/friend <Spieler>` | Sendet dem Spieler eine Freundschaftsanfrage |
+| `/friend add <Spieler>` | Sendet dem Spieler eine Freundschaftsanfrage |
+| `/friend remove <Spieler>` | Beendet die Freundschaft mit einem Spieler |
+| `/friend ignore <Spieler>` | Der ignorierte Spieler kann dir keine Freundschaftsanfrage mehr schicken |
+| `/friend deny <Spieler>` | Lehnt eine Freundschaftsanfrage ab |
+| `/friend list` | Zeigt deine Freundesliste an |
+| `/friend requests` | Listet unbeantwortete Freundschaftsanfragen auf |
+| `/friend toggle` | Schaltet Freundschaftsanfragen aus |
 | `/friend tp <Spieler>` | Teleportiert dich zu einem Freund |
+| `/friend broadcast <Nachricht>` | Schickt einen Broadcast an alle Freunde, die derzeit online sind |
 
 ### Partysystem
 
 | Befehl | Funktion |
 | ------ | -------- |
 | `/party` | Erstellt eine neue Party oder öffnet die Partyverwaltung |
-| `/party join <Spieler>` | Trete einer Party bei |
+| `/party join <Spieler>` | Tritt einer Party bei |
 | `/party invite <Spieler>` | Lädt einen Spieler in deine Party ein |
 | `/party leave` | Verlasse die aktuelle Party |
-| `/party togglechat` | Schaltet zwischen Party-Chat und globalem Chat um |
+| `/party togglechat` | Schaltet zwischen Party-Chat und normalem Chat um |
 | `/party promote <Spieler>` | Ernennt einen Spieler zum Moderator |
 | `/party demote <Spieler>` | Degradiert einen Spieler zum Mitglied |
 
@@ -147,12 +151,11 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | ------ | -------- |
 | `/sb` | Öffnet das Menü des Scoreboards |
 | `/rezepte` | Zeigt dir zu jedem Item das Craftingrezept an |
-| `/achievements` | Listet eine Übersicht aller Achievements auf |
-| `/timazon`oder`/tbay` | Öffnet ein Menü zum Items bestellen |
-| `/firma`oder`/company` | Öffnet das Firmenmenü |
+| `/timazon` oder `/tbay` | Öffnet ein Menü zum Items bestellen |
+| `/firma` oder `/company` | Öffnet das Firmenmenü |
 | `/suicide` | Tötet sich selbst |
 | `/pay <Spieler> <Betrag>` | Überweist einem anderen Spieler Geld |
-| `/money` od. `/balance` | Zeigt deinen Kontostand |
+| `/money` | Zeigt deinen Kontostand |
 | `/ticket <Anliegen>` | Erstellt ein Ticket |
 | `/mails` | Öffnet das Menü deiner Mails |
 | `/mail <read/send/clear>` | Mails lesen/senden/löschen |
@@ -165,7 +168,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/skins` | Öffnet eine Übersicht deiner Kostüme |
 <span style="color:#F99500">Pro</span> und <span style="color:#00F9EC">Expert</span> only:
 | `/ptime <day/night/midnight/sunrise/noon/afternoon/sunset/reset>` | Zeit für sich selbst umstellen |
-| `/pweather <sun,rain>` | Wetter für sich selbst umstellen |
+| `/pweather <sun/rain/reset>` | Wetter für sich selbst umstellen |
 | `/craft` od. `/workbench` | Craftingfeld aufrufen |
 | `/hat` | Item in der Hand auf den Kopf setzen |
 | `/enderchest` | Enderchest aufrufen |
@@ -186,8 +189,8 @@ Um Member auf seinem Grundstück zu protecten oder Flags zu ändern, muss man au
 
 ### Teleportieren zu anderen Personen (Taxi / TPA) 
 
-Mit dem Taxi kommst du direkt zu den gleichen Positionen wie dein Freund.
-Für User kostet ein Taxi 100T, für Pro's 75T und für Expert 50T
+Mit dem Taxi kommst du direkt zu der gleichen Position wie dein Freund.
+Für User kostet ein Taxi 100T, für Pros 75T und für Experts 50T
 
 | Befehl | Funktion |
 | ------ | -------- |

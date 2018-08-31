@@ -6,30 +6,30 @@ Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbe
 Administratoren kümmern sich um die Technik von Timolia. Angefangen bei den Plugins, über CraftBukkit bis hin zum Root-Server und dem BungeeCord-Netzwerk.
 Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 
-###<strong>Caelis</strong>
+### <strong>Caelis</strong>
 - <u>Rang (ingame):</u> Administrator
 - <u>Hauptverantwortlich:</u> Interne Webanwendung, Internes Wiki, Management des Development-Teams, Technische Leitung des Bauteams, Timolia-Plugins, YouTuber-Events
 
-###<strong>Docmac</span></strong>
+### <strong>Docmac</span></strong>
 - <u>Rang (ingame):</u> Administrator
 - <u>Hauptverantwortlich:</u> Timolia-Plugins
 
-###<strong>Edgxxar</span></strong>
+### <strong>Edgxxar</span></strong>
 - <u>Rang (ingame):</u> Administrator
 - <u>Hauptverantwortlich:</u> Timolia-Plugins
 - <u>Nebenverantwortlich:</u> Root-Server
 
-###<strong>Lascona</strong>
+### <strong>Lascona</strong>
 - <u>Rang (ingame):</u> Administratorin
 - <u>Hauptverantwortlich:</u> Bauevent-Koordination, Gesamtes Forum, Internes und externes Feedback, Social Media, Teammanagement
 - <u>Nebenverantwortlich:</u> Broadcasts, YouTuber-Ränge
 
-###<strong>MCExpertDE</strong>
+### <strong>MCExpertDE</strong>
 - <u>Rang (ingame):</u> Administrator
 - <u>Hauptverantwortlich:</u> Games, Timolia-Plugins
 - <u>Nebenverantwortlich:</u> Hardware
 
-###<strong>Niklas</strong>
+### <strong>Niklas</strong>
 - <u>Rang (ingame):</u> Administrator
 - <u>Hauptverantwortlich:</u> Interne Webanwendung, Webseite
 - <u>Nebenverantwortlich:</u> Twitter
@@ -39,23 +39,23 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 - <u>Hauptverantwortlich:</u> Anti-Cheat, Timolia-Plugins
 - <u>Nebenverantwortlich:</u> Feedback Forum, Fragen & Antworten Forum
 
-###<strong>xiantiel</strong>
+### <strong>xiantiel</strong>
 - <u>Rang (ingame):</u> Administrator
 - <u>Hauptverantwortlich:</u> Buycraft, Hardware, Management, Nitrado, Root-Server
 
 ## Moderatoren
-Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen Server auf unserem Netzwerk und dienen als Schnittstelle zwischen Supporter und Administratoren.
+Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen Server auf unserem Netzwerk und dienen als Schnittstelle zwischen Supportern und Administratoren.
 
-###<strong><span style="color:#CF0101">Caprea</span></strong>
+### <strong><span style="color:#CF0101">Caprea</span></strong>
 - <u>Rang (ingame):</u> Moderatorin
 - <u>Hauptverantwortlich:</u> Citygebiete: Flussufer, Summerfields, Sunset Valley, Aegypten, Twitter
 
-###<strong><span style="color:#CF0101">ItsSarahh</span></strong>
+### <strong><span style="color:#CF0101">ItsSarahh</span></strong>
 - <u>Rang (ingame):</u> Moderatorin
 - <u>Hauptverantwortlich:</u> Entschuldigungen, Supporterauswahl, YouTuber-Events
 - <u>Nebenverantwortlich:</u> Map-Einsendungen, Teamspeak, Testen der Games-Maps, Twitter, YouTuber-Ränge
 
-###<strong><span style="color:#CF0101">L0L0</span></strong>
+### <strong><span style="color:#CF0101">L0L0</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Broadcasts
 - <u>Nebenverantwortlich:</u> Anti-Cheat
@@ -65,12 +65,12 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 - <u>Hauptverantwortlich:</u> Organisation und Koordination neuer, inaktiver und alter Teamler, Timolia HowTo, Twitter, YouTuber-Ränge, Zu Unrecht gebannt Forum
 - <u>Nebenverantwortlich:</u> Anti-Cheat, Supporterauswahl, Testen der Games-Maps
 
-###<strong><span style="color:#CF0101">NameIsTaken</span></strong>
+### <strong><span style="color:#CF0101">NameIsTaken</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Anregungen und Vorschläge
 - <u>Nebenverantwortlich:</u> Gesamtes Forum, Entschuldigungen, Fragen und Antworten Forum
 
-###<strong><span style="color:#CF0101">saporital</span></strong>
+### <strong><span style="color:#CF0101">saporital</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Citygebiete: Downtown, Minedig, Mittelalter, Oldtown, Chinatown, Wunderland, Atlantis, Twitter
 
@@ -83,7 +83,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Internes Wiki, Management des Development-Teams, Supporterauswahl, Timolia HowTo, YouTuber-Events, YouTuber-Ränge
 
-###<strong><span style="color:#CF0101">Twilex</span></strong>
+### <strong><span style="color:#CF0101">Twilex</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Citygebiete: Shopwelt, Skyland, Wellington
 
@@ -95,7 +95,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ### <strong><span style="color:#007812">5zig</span></strong>
 - <u>Rang (ingame):</u> Developer
 
-###<strong><span style="color:#007812">Bukkit_PVP</span></strong>
+### <strong><span style="color:#007812">Bukkit_PVP</span></strong>
 - <u>Rang (ingame):</u> Developer
 
 ### <strong><span style="color:#007812">Flycofx</span></strong>
@@ -112,28 +112,28 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ### <strong><span style="color:#007812">logito111</span></strong>
 - <u>Rang (ingame):</u> Developer
 
-###<strong><span style="color:#007812">MCelements</span></strong>
+### <strong><span style="color:#007812">MCelements</span></strong>
 - <u>Rang (ingame):</u> Developer
 - <u>Nebenverantwortlich:</u> TeamSpeak
 
-###<strong><span style="color:#007812">play4me_</span></strong>
+### <strong><span style="color:#007812">physanus</span></strong>
+- <u>Rang (ingame):</u> Developer
+
+### <strong><span style="color:#007812">play4me_</span></strong>
 - <u>Rang (ingame):</u> Developer
 - <u>Nebenverantwortlich:</u> Web-Development
-
-###<strong><span style="color:#007812">physanus</span></strong>
-- <u>Rang (ingame):</u> Developer
 
 ### <strong><span style="color:#007812">Raziel</span></strong>
 - <u>Rang (ingame):</u> Developer
 - <u>Hauptverantwortlich:</u> Anti-Cheat
 
-###<strong><span style="color:#007812">TheBrownShape</span></strong>
+### <strong><span style="color:#007812">TheBrownShape</span></strong>
 - <u>Rang (ingame):</u> Developer
 
 ### <strong><span style="color:#007812">TheFeldi</span></strong>
 - <u>Rang (ingame):</u> Developer
 
-###<strong><span style="color:#007812">tr7zw</span></strong>
+### <strong><span style="color:#007812">tr7zw</span></strong>
 - <u>Rang (ingame):</u> Developer
 - <u>Hauptverantwortlich:</u> CityBuild-Plugins, Abbauwelt, Farmwelt
 
@@ -152,7 +152,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Entschuldigungen
 
-###<strong><span style="color:#E4D100">Calavero</span></strong>
+### <strong><span style="color:#E4D100">Calavero</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Hauptverantwortlich:</u> Timolia-Turnier Kits
 
@@ -195,7 +195,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Map-Einsendungen, Spieler Melden Forum 
 
-###<strong><span style="color:#E4D100">medicoo</span></strong>
+### <strong><span style="color:#E4D100">medicoo</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> TeamSpeak, Testen der Games-Maps
 
@@ -207,7 +207,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Fragen & Antworten Forum
 
-###<strong><span style="color:#E4D100">xTessia</span></strong>
+### <strong><span style="color:#E4D100">xTessia</span></strong>
 - <u>Rang (ingame):</u> Supporterin
 - <u>Nebenverantwortlich:</u> Entschuldigungen, Teamspeak, Twitter, Zu Unrecht gebannt Forum
 
@@ -222,13 +222,13 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ### <strong><span style="color:#00646F">\_Geizhals\_</span></strong>
 - <u>Rang (ingame):</u> Builder
 
-###<strong><span style="color:#00646F">Dankbarkeit</span></strong>
+### <strong><span style="color:#00646F">Dankbarkeit</span></strong>
 - <u>Rang (ingame):</u> Builder
 
-###<strong><span style="color:#00646F">eZZfery</span></strong>
+### <strong><span style="color:#00646F">eZZfery</span></strong>
 - <u>Rang (ingame):</u> Builderin
 
-###<strong><span style="color:#00646F">eZZrael</span></strong>
+### <strong><span style="color:#00646F">eZZrael</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span style="color:#00646F">Jukplays</span></strong>
@@ -236,16 +236,16 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Hauptverantwortlich:</u> Bauteam-Twitter
 - <u>Nebenverantwortlich:</u> Bereitstellung von Bildern für das Creator Team
 
-###<strong><span style="color:#00646F">LaShadow</span></strong>
+### <strong><span style="color:#00646F">LaShadow</span></strong>
 - <u>Rang (ingame):</u> Builderin
 
 ### <strong><span style="color:#00646F">Memoryos</span></strong>
 - <u>Rang (ingame):</u> Builder
 
-###<strong><span style="color:#00646F">Todbringender</span></strong>
+### <strong><span style="color:#00646F">Todbringender</span></strong>
 - <u>Rang (ingame):</u> Builder
 
-###<strong><span style="color:#00646F">Vectrail</span></strong>
+### <strong><span style="color:#00646F">Vectrail</span></strong>
 - <u>Rang (ingame):</u> Builder
 - <u>Hauptverantwortlich:</u> Bauevent, Bautresor, City-Maps, Games-Maps, Management des Bauteams
 
@@ -258,10 +258,10 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 Creator sind für kreative Arbeiten wie Texte, Bilder und Grafiken zuständig und sind kreative Köpfe des Teams.
 
-###<strong><span style="color:#007812">die_maren</span></strong>
+### <strong><span style="color:#007812">die_maren</span></strong>
 - <u>Rang (ingame):</u> Creator
 - <u>Nebenverantwortlich:</u> Bauteam Twitter
 
-###<strong><span style="color:#007812">Evageddon</span></strong>
+### <strong><span style="color:#007812">Evageddon</span></strong>
 - <u>Rang (ingame):</u> Creator
 - <u>Hauptverantwortlich:</u> Grafikdesign

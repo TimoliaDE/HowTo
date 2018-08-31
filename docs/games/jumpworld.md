@@ -1,18 +1,18 @@
 ![JumpWorld](img/JumpWorld.png)
 
 ## Das Spielprinzip
-In JumpWorld können verschiedenste Jump and Runs gespielt, aber auch selbst erbaut werden. Des weiteren kann man sich mit Freunden in Duellen messen.
+In JumpWorld können verschiedenste Jump and Runs gespielt, aber auch selbst erbaut werden. Des Weiteren kann man sich mit Freunden in Duellen messen.
 
 ## Und so gehts
-- Mit der Rakete in deinem Inventar können Jump and Runs gesucht werden.
-- Solltest du ein bestimmtes Jump and Run spielen wollen nutze den Befehl `/enter <ID>`.
-- Mit `/duel invite <Spieler>` oder mit einem Linksklick mit dem Schwert forderst du einen Spieler zu einem Duell heraus.
-- Das Jump and Run des Tages erreichst du über das Portal in der JumpWorld-Lobby.
-- Das Ziel jedes Parcours ist eine goldene Druckplatte, eiserne Druckplatten sind Checkpoints.
+- Mit der Rakete in deinem Inventar können Jump and Runs gesucht werden
+- Solltest du ein bestimmtes Jump and Run spielen wollen, nutze den Befehl `/enter <ID>`
+- Mit `/duel invite <Spieler>` oder mit einem Linksklick mit dem Schwert forderst du einen Spieler zu einem Duell heraus
+- Das Jump and Run des Tages erreichst du über das Portal in der JumpWorld-Lobby
+- Das Ziel jedes Parcours ist eine goldene Druckplatte, eiserne Druckplatten sind Checkpoints
 - Wenn du ein Jump and Run betrittst befinden sich mehrere Items in deinem Inventar. Mit dem roten Farbstoff wirst du zum letzten Checkpoint zurück teleportiert.
-- Mit dem zweiten Item in deinem Inventar kannst du die Sichtbarkeit der Spieler einstellen.
-- Am Ende eines Jump and Runs kannst du den Parcour in insgesamt drei Kategorien bewerten.
-- Solltest du ein Jump and Run begutachten wollen kannst du mit `/spec` den Flugmodus aktivieren.
+- Mit dem zweiten Item in deinem Inventar kannst du die Sichtbarkeit der Spieler einstellen
+- Am Ende eines Jump and Runs kannst du den Parcour in insgesamt drei Kategorien bewerten
+- Solltest du ein Jump and Run begutachten wollen, kannst du mit `/spec` den Flugmodus aktivieren
 
 ## Das Jump and Run des Tages
 Täglich wird ein Jump and Run des Tages gekürt.
@@ -24,7 +24,7 @@ Um das Jump and Run des Tages von Tag X zu werden:
 - besser bewertet als alle anderen, die auch die Kriterien erfüllen
 
 ## Der Bau-Modus
-- Mit dem Feuerwerksstern in deinem Inventar kannst du einen Bauslot auswählen, sofern andere Spieler mitbauen sollen musst du diese zuvor in ein Duell einladen.
+- Mit dem Feuerwerksstern in deinem Inventar kannst du einen Bauslot auswählen. Sofern andere Spieler mitbauen sollen, musst du diese zuvor in ein Duell einladen.
 - Du kannst zwischen verschiedenen Standard-Welten wählen oder in einem Void deine eigene Welt kreieren.
 - Mit `/b` kannst du dir Specialblöcke geben lassen, Portale und Effektdruckplatten kannst du mit einem Rechtsklick bearbeiten.
 - Mit `/setstart` kannst du den Startpunkt deines Parcours festlegen, mit `/setblock` kannst du unter dir einen Block setzen.

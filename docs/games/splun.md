@@ -41,7 +41,7 @@ Splun ist eine Kombination aus <strong>Spl</strong>eef und Jump and R<strong>un<
 Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren werden namentlich nur die ersten Ränge genannt. 
 
 ## Premium-Features
-- <span style="color:#F99500">Pros</span> besitzen zwei, <span style="color:#00F9EC">Experts</span> drei Stimmen im Voting-System.
+- <span style="color:#F99500">Pros</span> besitzen zwei, <span style="color:#00F9EC">Experts</span> drei Stimmen im Voting-System
 - Werde mit `/togglerank` als normaler Spieler angezeigt
 
 ## Arenen und Maps
