@@ -47,15 +47,14 @@ Zum Griefen zählt auch das Töten fremder Tiere ohne Erlaubnis oder das Zertram
 Der Griefingparagraph gilt nicht für die Abbauwelt.
 
 ## §7 – PVP/Töten von Mitspielern
-Das mutwillige und/oder vorsätzliche Töten von Mitspielern außerhalb von PvP-Zonen ist verboten. Sowohl das Töten durch den Befehl TPA, als auch das Bauen von Fallen, welche zum Tod eines anderen Spielers führen können, ist nicht erlaubt.
+Das mutwillige und/oder vorsätzliche Töten von Mitspielern außerhalb von PvP-Zonen ist verboten. Sowohl das Töten durch das Bauen von Fallen, den Befehl TPA oder durch Liftschilder, welche zum Tod eines anderen Spielers führen können, ist nicht erlaubt.
 
 ## §8 – Betrug von Spielern
 Das absichtliche Betrügen anderer Spieler oder des Serverteams ist verboten und wird mit einem Bann bestraft. Das beinhaltet irreführende Verkäufe von Items in deinem Shop, genauso wie das Abzocken anderer Spieler im Chat.
 
 ## §9 – Handelschats
 Auf dem Citybuild gibt es einen Chat welcher zum Handeln benutzt wird. Diesen erreicht man mit `/ch join handel` oder man schreibt einfach ein $ vor seine Nachricht. Dieser Chat muss für Handel jeder Art genutzt werden. 
-Darunter zählt explizit das An- und Verkaufen von Items, aber auch Werbung für den eigenen Shop gehört in diesen Channel.
-Das absichtige Ignorieren des Handelschats kann Konsequenzen mit sich ziehen.
+Darunter zählt explizit das An- und Verkaufen von Items, aber auch Werbung für den eigenen Shop gehört in diesen Channel. Das absichtige Ignorieren des Handelschats kann Konsequenzen mit sich ziehen.
 
 ## §10 – Redstoneclocks
 Vollautomatische Farmen, die über eine Redstoneclock angesteuert werden und zu Laggs des Servers und Beeinträchtigung anderer Spieler führen sind verboten. Hierzu zählen auch Halbautomatische Farmen die über einen Hebel oder Knopf angesteuert werden.
@@ -67,18 +66,14 @@ Du musst auf das Grundstücks-Schild klicken, um dir dein Grundstück zurückzuh
 Bei sehr langer Inaktivität oder technischen Fehlern besteht kein Anspruch auf das Vorhandensein einer Schematic (=Backup) für deine Grundstücke.
 
 ## §12 – Multiaccounting
-Multiaccounting, also das Nutzen mehrerer Accounts, die sich gleichzeitig auf dem Citybuild befinden, ist strengstens verboten. 
-Es ist allerdings möglich, mit unterschiedlichen Accounts zu spielen, die sich aber nicht zur gleichen Zeit auf dem Server befinden dürfen. 
-Jeglicher Spielvorteil den man sich gegenüber anderen Spielern verschafft, wie sich gegenseitig Geld überweisen ist verboten. 
+Multiaccounting, also das Nutzen mehrerer Accounts, die sich gleichzeitig auf dem Citybuild befinden, ist eingeschränkt erlaubt. Jeglicher Spielvorteil den man sich gegenüber anderen Spielern verschafft, wie sich gegenseitig Geld überweisen, ist verboten. 
 
 ## §13 - Wither
-In der Shopwelt ist es nicht gestattet Wither zu spawnen. Des Weiteren gilt ein generelles Verbot Wither umzubenennen. 
-Bei Nichteinhaltung der Regelung wird der Wither ohne Rückerstattung entfernt.
+In der Shopwelt ist es nicht gestattet Wither zu spawnen. Des Weiteren gilt ein generelles Verbot Wither umzubenennen. Bei Nichteinhaltung der Regelung wird der Wither ohne Rückerstattung entfernt.
 
 ## §14 - Rückerstattung bei technischen Fehlern
 Sollten durch technische Fehler (Serverabstürze, etc.) Timolions, Items oder Grundstücke zurückgesetzt werden oder verloren gehen, sieht das übliche Verhalten des Teams vor, diese nicht zu erstatten.
 
-
 <strong>Das Team behält sich das Recht vor, bestimmtes Handeln (auch außerhalb des Minecraft- und Teamspeakservers) zu sanktionieren, welches nicht explizit in den Regeln aufgelistet ist.</strong>
 
-letzte Aktualisierung: Juli 2018
+letzte Aktualisierung: September 2018
