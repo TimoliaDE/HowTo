@@ -12,12 +12,12 @@ Sämtliche Beleidigungen sind verboten.
 - <u>Eigenwerbung</u>: Eigenwerbung im Forum ist erlaubt, vorausgesetzt, dass diese nicht aufdringlich platziert oder gespammt wird.
 - <u>Serverwerbung</u>: Serverwerbung ist verboten. Selbst das einmalige Senden einer Serveradresse kann und wird als Werbung empfunden und dementsprechend sanktioniert. Das Senden einer IP oder Serveradresse 
 über den privaten Chat ist erlaubt, so lange man niemanden belästigt oder aktiv Werbung betreibt. 
-- <u>Phishing und Betrug</u>: Um Phishing und Betrug vorzubeugen ist der private Handel auf dem Server in jeglicher Form verboten. Dazu zählen unter anderem der vermeintliche Verkauf von Minecraft-Accounts, kostenlose Angebote 
-für beispielsweise Optifine-Capes und Ähnliches. Das Abschöpfen von Userdaten wie Passwörtern und E-Mails anderer User durch falsche Versprechungen ist eine Straftat und wird zur Anzeige gebracht. Ebenso erfolgt ein 
+- <u>Phishing und Betrug</u>: Um Phishing und Betrug vorzubeugen, ist der private Handel auf dem Server in jeglicher Form verboten. Dazu zählen unter anderem der vermeintliche Verkauf von Minecraft-Accounts, kostenlose Angebote
+für beispielsweise Optifine-Capes und Ähnliches. Das Abschöpfen von Userdaten wie Passwörter und E-Mails anderer User durch falsche Versprechungen ist eine Straftat und wird zur Anzeige gebracht. Ebenso erfolgt ein
 permanenter Ausschluss vom Timolia Netzwerk. Dazu zählt auch der reine Versuch.
 
 ### Doppelposts und Spammen von Beiträgen
-Das Spammen von Beiträgen ist verboten und wird bei häufigem Vorkommen geahndet. Des weiteren sollte die Such-Funktion benutzt werden, bevor ein Beitrag gepostet wird, doppelte Beiträge werden geschlossen oder gelöscht.
+Das Spammen von Beiträgen ist verboten und wird bei häufigem Vorkommen geahndet. Des Weiteren sollte die Such-Funktion benutzt werden, bevor ein Beitrag gepostet wird, doppelte Beiträge werden geschlossen oder gelöscht.
 
 ### Signaturen
 Signaturen dürfen eine maximale Größe von 1500 Zeichen und 15 Zeilen nicht überschreiten. Erlaubt ist die Verwendung von maximal einem GIF oder einer Animation sowie die Verwendung von Bildern und Grafiken. Die Schriftgröße 5 sollte nicht überschritten werden.
@@ -35,8 +35,8 @@ Das Spammen von Reports ist verboten und wird bei wiederholtem Vorkommen sanktio
 - <u>Fälschen von Reports</u>: Das Fälschen von Reports jeglicher Art ist verboten und wird mit einem Bann geahndet.
 
 ### Entbannungsanträge
-Ist ein Spieler gebannt kann dieser jederzeit im Bereich "Entbannungsanträge" einen Beweis anfordern oder eine Entschuldigung posten. Das Spammen von Entbannungsanträgen ist verboten 
-und wird bei wiederholtem Vorkommen geahndet. Sollte ein Spieler eine Bannzeit von über 46 Tagen haben muss er erst warten, bis die Banntage auf =<46 Tage verjährt sind. Des weiteren darf jeder Spieler 
+Ist ein Spieler gebannt, kann dieser jederzeit im Bereich "[Entbannungsanträge](https://forum.timolia.de/#reports-und-entbannungsantraege.46)" einen Beweis anfordern oder eine Entschuldigung posten. Das Spammen von Entbannungsanträgen ist verboten
+und wird bei wiederholtem Vorkommen geahndet. Sollte ein Spieler eine Bannzeit von über 30 Tagen haben, muss er erst warten, bis die Banntage auf <=30 Tage verjährt sind. Des Weiteren darf jeder Spieler
 maximal zwei Entbannungsanträge schreiben, außer ein weiterer Antrag wurde explizit erlaubt.
 
 ## §4 - Sanktionen im Forum
@@ -51,3 +51,5 @@ Sollte ein Nutzer gegen die Regeln verstoßen, wird dieser verwarnt und bekommt 
 - <u>>30 Punkte</u>: permanenter Ausschluss
 
 <strong>Das Team behält sich das Recht vor, bestimmtes Handeln zu sanktionieren, welches nicht explizit in den Regeln aufgelistet ist.</strong>
+
+Letzte Aktualisierung: 31. August 2018

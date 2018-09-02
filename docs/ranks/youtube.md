@@ -1,3 +1,5 @@
+# YouTuber und Pro+
+
 ## Welche Vorteile bieten mir die Ränge?
 
 ### Pro+
@@ -7,7 +9,7 @@
 ### YouTuber-Rang
 - Der YouTuber-Rang bietet dieselben Features wie der [Expert-Rang](premium.md).
 - Der Zugang zum Nick-Tool wird über das Item in der Hotbar oder den Befehl `/nick` gewährleistet.
-- YouTuber erhalten eine Kick-Value von 500. (Wie das Kick-System funktioniert, kannst du [<strong>hier</strong> nachlesen](https://howto.timolia.de/faq/#wie-funtkioniert-das-kick-system-bei-vollen-lobbys).
+- YouTuber erhalten eine Kick-Value von 500. (Wie das Kick-System funktioniert, kannst du [<strong>hier</strong> nachlesen](/faq/#wie-funktioniert-das-kick-system).
 - In der Lobby können Spieler von YouTubern weggeschlagen werden.
 - Der Nametag wird <span style="color:#4C0B5F">lila</span> gekennzeichnet.
 - Eine eigene JumpWorld-Lobby wird für YouTuber zur Verfügung gestellt.
@@ -22,4 +24,4 @@ eine nicht unbedeutende Rolle spielen. Auch Livestreamer können einen Rang auf 
 
 ## Wie beantrage ich einen Rang?
 Wenn du der Meinung bist, dass du alle Kriterien erfüllst und du einen Rang auf Timolia beantragen möchtest, wende dich per Twitter Direktnachricht an das [@TimoliaTeam](https://twitter.com/TimoliaTeam), per E-Mail an <strong>youtube@timolia.de</strong> oder verbinde dich auf unseren Teamspeak (ts.timolia.de) und melde dich im Hilfechannel.
-Wir werden uns deinen Kontent ansehen und entscheiden, ob für dich ein spezieller Rang infrage kommt.
+Wir werden uns deinen Content ansehen und entscheiden, ob für dich ein spezieller Rang infrage kommt.

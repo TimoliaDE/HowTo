@@ -29,22 +29,22 @@ aus dem Gefängnis auf eurer Spawninsel befreien! Um sie zu dir zu rufen, kannst
 | 8 | 8129 | ??? |
 | 9 | 16348 | ??? |
 
-Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren werden namentlich nur die ersten Ränge genannt. 
+Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren werden namentlich nur die ersten Ränge genannt.
 
 ## Spezielle Items
-- <strong>Glasblöcke</strong>: Glasblöcke sind die günstigsten Blöcke im Spiel. Sie eignen sich hervorragend dafür, sich schnell irgendwohin zu bauen, aber Achtung! 
-Du solltest neue Blöcke für den Rückweg dabei haben - Glasblöcke despawnen nämlich nach einigen Sekunden.
+- <strong>Glasblöcke</strong>: Glasblöcke sind die günstigsten Blöcke im Spiel. Sie eignen sich hervorragend dafür, sich schnell irgendwohin zu bauen.
+ Aber Achtung: Du solltest neue Blöcke für den Rückweg dabei haben - Glasblöcke despawnen nämlich nach einigen Sekunden.
 - <strong>Lehmblöcke</strong>: Lehmblöcke sind teurer als Glas, dafür aber auch solider und vor allem: sie despawnen nicht!
 - <strong>Home-Teleport Chip</strong>: Halte den Chip gedrückt, um schnell und sicher in deine Base teleportiert zu werden.
 - <strong>Kein Fallschaden Chip</strong>: Bewahre diesen Chip in deinem Inventar auf, um keinen Fallschaden zu bekommen - ganz egal, von welcher Höhe du springst!
 - <strong>Himmel & Hölle Chip</strong>: Solltest du einmal aus der Map fallen, wirst du wieder auf Höhe 256 teleportiert und fällst von dort aus - es empfiehlt sich die Kombination mit anderen Chips! 
 Bewahre diesen Chip in deinem Inventar auf, um keinen Fallschaden zu bekommen - ganz egal, von welcher Höhe du springst!
-- <strong>Inventar beim Tod behalten Chip</strong>: Wie der Name schon verrät, sorgt dieser Chip dafür, dass bei deinem Tod alle deine Items und weiteren Chips in deinem Inventar bleiben 
-- mit Ausnahme des verbrauchten “Inventar behalten” Chips. Pro Chip kann man übrigens nur einmal nach oben teleportiert, anschließend verschwindet der Chip.
+Der Chip verschwindet aus deinem Inventar, sobald er ein Mal benutzt wurde.
+- <strong>Inventar beim Tod behalten Chip</strong>: Wie der Name schon verrät, sorgt dieser Chip dafür, dass bei deinem Tod alle deine Items und weiteren Chips in deinem Inventar bleiben - mit Ausnahme des verbrauchten “Inventar behalten” Chips.
 - <strong>Gefängnisausbruch Chip</strong>: Solltest du dich nicht auf deine Teammates verlassen wollen oder alleine spielen, sorgt dieser Chip dafür, dass du dein Gefängnis selbstständig wieder verlassen kannst. 
 Wie viel du für diesen Chip bezahlen musst, hängt von der Zahl deiner Mitspieler ab - in jedem Fall solltest du jedoch mit Diamanten rechnen!
 - <strong>Blitzstab</strong>: Der Blitzstab erzeugt einen schmalen Blitz aus Glasscheiben bis zur nächsten anvisierten Insel. Sei vorsichtig, er ist schmal, lückenhaft und genauso schnell wieder verschwunden, wie er erschienen ist!
 
 ## Premium-Features
-- <span style="color:#F99500">Pros</span> besitzen zwei, <span style="color:#00F9EC">Experts</span> drei Stimmen im Voting-System.
+- <span style="color:#F99500">Pros</span> besitzen zwei, <span style="color:#00F9EC">Experts</span> drei Stimmen im Voting-System
 - Werde mit `/togglerank` als normaler Spieler angezeigt

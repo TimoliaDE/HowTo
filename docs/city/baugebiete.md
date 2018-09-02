@@ -6,18 +6,18 @@ Du findest eine kurze Beschreibung über das jeweilige Baugebiet und die dazugeh
 
 ![Screenshot](img/Weststadt.png)
 
-Die Weststadt ist ein stetig wachsendes Baugebiet mit vielen kleinen Häusern. Sie bildet die Vorstadt zu Downtown, hier bekommst du dein Startgrundstück,
+Die Weststadt ist ein stetig wachsendes Baugebiet mit vielen kleinen Häusern. Sie bildet die Vorstadt zu Downtown. Hier bekommst du dein Startgrundstück,
 welches in einem Vorstadt-Baustil bebaut werden sollte. Große viereckige Dirt oder Cobblestonewände, sowie 1x1 Türme (außer innerhalb der Bauzeit) sind nicht erwünscht und müssen abgerissen werden.
 Die Grundstücke sind 20×20 Blöcke groß und sind kostenlos.
 Du darfst auf deinem GS maximal 10 Haustiere haben.
 
 ### Baugebietsregeln, Informationen und Verantwortliche
-- Grundstücke sind <strong>20*20</strong> (20 hoch, 10 tief) Blöcke groß
-- <strong>Kostenloses</strong> Grundstück
-- Pro Spieler nur <strong>ein</strong> Grundstück
-- <strong>10 Tiere und 10 Entities</strong> pro GS erlaubt
-- <strong>Vorstadtbaustil</strong>
-- <strong>kein</strong> Ownerwechsel möglich
+- Grundstücke sind **20*20** (20 hoch, 10 tief) Blöcke groß
+- **Kostenloses** Grundstück
+- Pro Spieler nur **ein** Grundstück
+- **10 Tiere und 10 Entities** pro GS erlaubt
+- **Vorstadtbaustil**
+- **kein** Ownerwechsel möglich
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
@@ -31,20 +31,20 @@ Die Upper Hills liegen neben den Summerfields und bilden das Baugebiet für die 
 Die Grundstücke sind 50×50 Blöcke groß und kosten für Pro’s und Experts 2500 Timolions.
 Es ist nur ein Grundstück pro Spieler erlaubt.
 Das Baugebiet wird auch oft als “Villengebiet” gesehen. Wenn du dich hier niederlassen möchtest,
-ist es daher notwendig eine Villa zu bauen. Hochhäuser sind nicht erwünscht und müssen wieder abgerissen werden. 1x1 Türme sind nur zum Bau des
+ist es daher notwendig, eine Villa zu bauen. Hochhäuser sind nicht erwünscht und müssen wieder abgerissen werden. 1x1 Türme sind nur zum Bau des
 Hauses gestattet und müssen dann wieder abgerissen werden.
 Farmen sollten stets im Keller errichtet werden, die Gärten müssen immer gepflegt werden, Rasen mähen und Hecken schneiden nicht vergessen!
 Pro Grundstück sind 25 Tiere und 25 Entities erlaubt. Die Grundstücksgröße muss
 eingehalten werden, es werden keine Blöcke außerhalb des Grundstückes gesetzt.
 
 ### Baugebietsregeln, Informationen und Verantwortliche
-- <strong>Nach dem</strong> Umbau sollte das GS <strong>natürlich</strong> aussehen
-- Grundstücke sind <strong>50*50</strong> Blöcke groß
-- <strong>2500T</strong> kostet ein Grundstück
-- Es sollten <strong>Villen</strong> und ähnliches gebaut werden
+- **Nach dem** Umbau sollte das GS **natürlich** aussehen
+- Grundstücke sind **50*50** Blöcke groß
+- Ein Grundstück kostet **2500T**
+- Es sollten **Villen** und ähnliches gebaut werden
 - Grundstücke sind ausschließlich für PRO+
-- Pro Spieler nur <strong>ein</strong> Grundstück
-- maximal <strong>25 Tiere</strong> und <strong>25 Entities</strong> pro GS
+- Pro Spieler nur **ein** Grundstück
+- Maximal **25 Tiere** und **25 Entities** pro GS
 - Ownerwechsel möglich (5000T)
 
 | Verantwortliche | Funktion |
@@ -55,7 +55,7 @@ eingehalten werden, es werden keine Blöcke außerhalb des Grundstückes gesetzt
 
 ![Screenshot](img/Downtown.png)
 
-Downtown bildet den Spawn von Timolia und stellt alle wichtigen, großen Gebäude zur Verfügung. Rund um den Marktplatz die Polizei und die Kirche.
+Downtown bildet den Spawn von Timolia und stellt alle wichtigen, großen Gebäude zur Verfügung. Rund um den Marktplatz, die Polizei und die Kirche.
 Die Grundstücke kosten zwischen 20.000T und 145.000T und sollten möglichst Urban wirken (Hohe, große Häuser; keine großen Gärten).
 In Downtown sind bis zu 50 Haustiere auf dem Grundstück erlaubt.
 
@@ -80,7 +80,7 @@ Je weiter man sich vom Spawn entfernt, desto größer und verstreuter werden die
 - Grundstücke sind in verschiedenen Größen zu haben.
 - Baustil: rustikale Dorfhäuser um den Spawn und Bauernhöfe mit Feldern/Weiden
 - automatische Farmen unterirdisch bauen
-- pro User sind <strong>drei</strong> Grundstücke erlaubt
+- pro User sind **drei** Grundstücke erlaubt
 - es sind insgesamt 75 Tiere und Entities pro GS erlaubt
 - die Häuser sollten nicht mehr als 40 Blöcke in die Höhe ragen.
 
@@ -93,16 +93,16 @@ Je weiter man sich vom Spawn entfernt, desto größer und verstreuter werden die
 
 ![Screenshot](img/Aegypten.png)
 
-Ägypten, das sandige Gebiet mit seinen atemberaubenden Fluss und den hohen Sanddünen zeigt die Vielfalt der Natur die in Ägypten steckt.
-In den gigantischen Pyramiden lauern Gefahren und wertvolle Schätze. In der geheimen Bibliothek lauert eine mysteriöse magische Kraft, die der ganzen Atmossphäre Leben einhaucht.
-Erforsche sie und entdecke alle tollen Sachen von Ägypten und finde alle Geheimnisse die sich in der Wüste verbergen.
+Ägypten, das sandige Gebiet mit seinem atemberaubenden Fluss und den hohen Sanddünen, zeigt die Vielfalt der Natur, die in Ägypten steckt.
+In den gigantischen Pyramiden lauern Gefahren und wertvolle Schätze. In der geheimen Bibliothek lauert eine mysteriöse magische Kraft, die der ganzen Atmosphäre Leben einhaucht.
+Erforsche sie und entdecke alle tollen Sachen von Ägypten und finde alle Geheimnisse, die sich in der Wüste verbergen.
 
 ### Baugebietsregeln, Informationen und Verantwortliche
-- Nur <strong>1 Gs</strong> pro User
-- Maximal sind <strong>10 Tiere</strong> und <strong>25 Entities</strong> pro Grundstück erlaubt
-- <strong>Ägyptischer Baustil</strong>, keine modernen Sandsteinhäuser mit großen Glasfenstern, keine Pyramiden
+- Nur **1 GS** pro User
+- Maximal sind **10 Tiere** und **25 Entities** pro Grundstück erlaubt
+- **Ägyptischer Baustil**, keine modernen Sandsteinhäuser mit großen Glasfenstern, keine Pyramiden
 - Die Grundstücke sind 20x20, 20x25, 25x25, 25x30 und 30x30 groß
-- Die Gsrundstücke kosten 5000T, 5500T, 6000T, 6500T und 7000T. Der Preis richtet sich nach der Größe des Grundstückes
+- Die Grundstücke kosten 5000T, 5500T, 6000T, 6500T und 7000T. Der Preis richtet sich nach der Größe des Grundstückes.
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
@@ -112,7 +112,7 @@ Erforsche sie und entdecke alle tollen Sachen von Ägypten und finde alle Geheim
 
 ![Screenshot](img/Atlantis.png)
 
-Unter dem Meer.. In den endlose Tiefen liegt ein mystisches, verborgenes Reich - Atlantis! Tauche hinein und erlebe fantastische Abenteuer zwischen Korallen, schwimme mit Fischen,
+Unter dem Meer... in den endlosen Tiefen liegt ein mystisches, verborgenes Reich - Atlantis! Tauche hinein und erlebe fantastische Abenteuer zwischen Korallen, schwimme mit Fischen,
 bau dir ein kleines Reich inmitten der Ruinen von Atlantis.
 
 ### Baugebietsregeln, Informationen und Verantwortliche
@@ -127,16 +127,16 @@ bau dir ein kleines Reich inmitten der Ruinen von Atlantis.
 | ------ | -------- |
 | Saporital | Hauptverantwortlich |
 
-## 7 - Ice Spikes
+## 7 - Frozen City
 
 ![Screenshot](img/IceSpikes.png)
 
-Frozen City ist ein Baugebiet was in einem Ice Spike Biom liegt. In Frozen City soll man passend zum Ice Spikes Biom bauen, so dass die Umgebung mit dem Grundstück harmoniert.
-Grundstücke müssen Neugebaut werden, wenn die oben genannte Voraussetzung nicht eingehalten werden.
-Die Größe der Grundstücke sind unterschiedlich. Jeder Spieler darf nur 1 Grundstück in Frozen City besitzen.
+Frozen City ist ein Baugebiet, das in einem Ice Spikes Biom liegt. In Frozen City soll man passend zum Ice Spikes Biom bauen, sodass die Umgebung mit dem Grundstück harmoniert.
+Grundstücke müssen neu gebaut werden, wenn diese Voraussetzung nicht eingehalten wird.
+Die Größe der Grundstücke ist unterschiedlich. Jeder Spieler darf nur 1 Grundstück in Frozen City besitzen.
 
 ### Baugebietsregeln, Informationen und Verantwortliche/r
-- <strong>Ein Grundstück</strong> pro Spieler
+- **Ein Grundstück** pro Spieler
 - Baustil im Rahmen Ice-Spikes einhalten
 - Maximal 10 Tiere pro Grundstück
 - Tiefe: Bis Bedrock
@@ -159,7 +159,7 @@ dir ein großes, aber günstiges Grundstück kaufen und dich dort niederlassen u
 - Nach 3 Monaten Inaktivität wird das Grunstück resettet
 - Die Kaufschilder befinden sich direkt an den Grunstücken
 - Jeder User darf 2 Grunstücke besitzen
-- Max sind 25 Entities und 10 Tiere pro Grundstück erlaubt
+- Maximal sind 25 Entities und 10 Tiere pro Grundstück erlaubt
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
