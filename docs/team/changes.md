@@ -2,12 +2,12 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 
 # 2018
 
-###<strong>August</strong>
+###  <strong>September</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
-|_ELKMAN_ | <span style="color:#00F9EC">Expert</span> | <span style="color:#007812">Developer</span> | 03.09.18 |
+|\_ELKMAN\_ | <span style="color:#00F9EC">Expert</span> | <span style="color:#007812">Developer</span> | 03.09.18 |
 
-###<strong>August</strong>
+###  <strong>August</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |YTKacperSKY | <span style="color:#F99500">Native</span> | <span style="color:#007812">Developer</span> | 27.08.18 |
@@ -15,7 +15,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 |Percyfan55 | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 19.08.18 |
 |physanus | <span style="color:#F99500">Native</span> | <span style="color:#007812">Developer</span> | 17.08.18 |
 
-###<strong>Juli</strong>
+###  <strong>Juli</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |Siimon | <span style="color:#CF0101">Moderator</span> | <span style="color:#00F9EC">Expert</span> | 27.07.18 |
@@ -23,7 +23,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 |Iskander | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 04.07.18 |
 |Kenaai | <span style="color:#00F9EC">Expert</span> | <span style="color:#007812">Developer</span> | 01.07.18 |
 
-###<strong>Juni</strong>
+###  <strong>Juni</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |engiwuck | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Native</span> | 29.06.18 |
@@ -31,7 +31,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 |Tim9875432 | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 03.06.18 |
 |SpaceJumper | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 03.06.18 |
 
-###<strong>Mai</strong>
+###  <strong>Mai</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |Eisenmaus | <span style="color:#F99500">Pro</span> | <span style="color:#00646F">Builder</span> | 29.05.18 |
@@ -43,7 +43,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 |physanus | <span style="color:#007812">Developer</span> | <span style="color:#F99500">Native</span> | 15.05.18 |
 |Docmac | <span style="color:#00F9EC">Expert</span> | <span style="color:#2980b9">Administrator</span> | 06.05.18 |
 
-###<strong>April</strong>
+###  <strong>April</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |Digimon | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | 08.04.18 |
@@ -51,14 +51,14 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 |NameIsTaken | <span style="color:#E4D100">Supporter</span> | <span style="color:#CF0101">Moderator</span> | 08.04.18 |
 |FlemmoTV | <span style="color:#007812">Creator</span> | <span style="color:#00F9EC">Expert</span> | 04.04.18 |
 
-###<strong>März</strong>
+###  <strong>März</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |Vemdex | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | 25.03.18 |
 |LordKnockback | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 16.03.18 |
 |TetzelHD | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Native</span> | 13.03.18 |
 
-###<strong>Februar</strong>
+###  <strong>Februar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |GameZter | <span style="color:#00646F">Builder</span> | <span style="color:#00F9EC">Expert</span> | 21.02.18 |
@@ -68,7 +68,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 |Kenaai | <span style="color:#CF0101">Moderator</span> | <span style="color:#00F9EC">Expert</span> | 12.02.18 |
 |Pixtopiane | <span style="color:#E4D100">Supporterin</span> | <span style="color:#F99500">Native</span> | 11.02.18 |
 
-###<strong>Januar</strong>
+###  <strong>Januar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |TaiToni | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 27.01.18 |
@@ -87,7 +87,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 
 # 2017
 
-###<strong>Dezember</strong>
+###  <strong>Dezember</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |Docmac | <span style="color:#2980b9">Administrator</span> | <span style="color:#00F9EC">Expert</span> | 31.12.17 |
@@ -102,7 +102,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 |Moehritz | <span style="color:#2980b9">Administrator</span> | <span style="color:#00F9EC">Expert</span> | 12.12.17 |
 |trojesatar | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | 11.12.17 |
 
-###<strong>November</strong>
+###  <strong>November</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |Be4rstr1ker | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 22.11.17 |
@@ -117,7 +117,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 |MyLadyJane | <span style="color:#007812">Creator</span> | <span style="color:#00F9EC">Expert</span> | 05.11.17 |
 |BuffmonsterOne | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span>  | 03.11.17 | 
 
-###<strong>Oktober</strong>
+###  <strong>Oktober</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |Eddyyyyyyy | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | 28.10.17 |
@@ -128,7 +128,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 |physanus | <span style="color:#848484">Spieler</span> | <span style="color:#007812">Developer Games</span> | 11.10.17 |
 |NameIsTaken | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 02.10.17 |
 
-###<strong>September</strong>
+###  <strong>September</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |Apfelrosine | <span style="color:#00646F">Builder</span> | <span style="color:#00F9EC">Expert</span> | 24.09.17 |
@@ -148,7 +148,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 |StrombergHD | <span style="color:#00646F">Builder</span> | <span style="color:#00F9EC">Expert</span> | 11.09.17 |
 |Metrixx7 | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#CF0101">Moderator Games</span> | 10.09.17 |
 
-###<strong>Juli</strong>
+###  <strong>Juli</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |vincent0110 | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | 28.07.17 |
@@ -163,7 +163,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 |play4me_ | <span style="color:#848484">Spieler</span> | <span style="color:#007812">Developer</span> | 13.07.17 |
 |FlemmoTV | <span style="color:#00F9EC">Expert</span> | <span style="color:#007812">Creator</span> | 04.07.17 |
 
-###<strong>Juni</strong>
+###  <strong>Juni</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |Dankbarkeit | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 25.06.17 |
@@ -178,7 +178,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 |MaHacki| <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | 04.06.17 |
 |DrugDuck | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | 04.06.17 |
 
-###<strong>Mai</strong>
+###  <strong>Mai</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |FabsiFTW | <span style="color:#CF0101">Moderator Games</span> | <span style="color:#00F9EC">Expert</span> | 21.05.17 |
@@ -189,7 +189,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 |NikiPlays | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | 03.05.17 |
 |Invidia | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | 03.05.17 |
 
-###<strong>April</strong>
+###  <strong>April</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |Evoferry | <span style="color:#2980b9">Administrator City</span> | <span style="color:#F99500">Native</span> | 30.04.17 |
@@ -200,7 +200,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 |kirschen | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | 02.04.17 |
 |baumulu | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | 02.04.17 |
 
-###<strong>März</strong>
+###  <strong>März</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |AeroSize | <span style="color:#00646F">Builder</span> |<span style="color:#F99500">Pro</span>  | 25.03.17 |
@@ -214,7 +214,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 |baumulu | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 05.03.17 |
 |kirschen | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 05.03.17 |
 
-###<strong>Februar</strong>
+###  <strong>Februar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |Vemdex | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 26.02.17 |
@@ -229,7 +229,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 |nek0chi | <span style="color:#00F9EC">Expert</span> | <span style="color:#007812">Creator</span> | 02.02.17 |
 |MyLadyJane | <span style="color:#00F9EC">Expert</span> | <span style="color:#007812">Creator</span> | 02.02.17 |
 
-###<strong>Januar</strong>
+###  <strong>Januar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |Mari_W | <span style="color:#00F9EC">Expert</span> | <span style="color:#007812">Developer</span> | 31.01.17 |
@@ -250,7 +250,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 
 # 2016
 
-###<strong>Dezember</strong>
+###  <strong>Dezember</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |Fabiewww | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 30.12.16 |
@@ -260,7 +260,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 |Crimex | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | 14.12.16 |
 |Jintzo | <span style="color:#F99500">Pro</span> | <span style="color:#007812">Developer</span> | 02.12.16 |
 
-###<strong>November</strong>
+###  <strong>November</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |L0L0 | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#CF0101">Moderator Games</span> | 30.11.16 |
@@ -283,7 +283,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 |felliongi21 | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 03.11.16 |
 |Julian_999999999 | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 03.11.16 |
 
-###<strong>Oktober</strong>
+###  <strong>Oktober</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ |  ------ |
 |HoleOne | <span style="color:#CF0101">Moderator City</span> | <span style="color:#F99500">Native</span> | 22.10.16 |
@@ -303,14 +303,14 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 |Caelis | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#CF0101">Moderator Games</span> | 05.10.16 |
 |St3giLiebtTim | <span style="color:#E4D100">Supporterin Games</span> | <span style="color:#CF0101">Moderatorin Games</span> | 05.10.16 |
 
-###<strong>September</strong>
+###  <strong>September</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |MC_Meeh | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | 18.09.16 |
 |RayQu | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | 15.09.16 |
 |12build | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | 13.09.16 |
 
-###<strong>August</strong>
+###  <strong>August</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |TacticalDOC | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | 31.08.16 |
@@ -324,7 +324,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 |LeePvP | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | 05.08.16 |
 |Luzii | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | 05.08.16 |
 
-###<strong>Juli</strong>
+###  <strong>Juli</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |\_Geizhals_ | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 31.07.16 |
@@ -345,7 +345,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 |Jukplays | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 17.07.16 |
 |magic_knoba | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 17.07.16 |
 
-###<strong>Juni</strong>
+###  <strong>Juni</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |MarkuZ_ | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | 30.06.16 |
@@ -358,7 +358,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 |Elegeta | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 04.06.16 |
 |Flaxify | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 04.06.16 |
 
-###<strong>Mai</strong>
+###  <strong>Mai</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |St3giLiebtTim | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporterin Games</span> | 09.05.16 |

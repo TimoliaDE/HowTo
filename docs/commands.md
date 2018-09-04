@@ -52,6 +52,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 
 | Befehl | Funktion |
 | ------ | -------- |
+| `/friend` oder `/f` | Zeigt die Hilfe an |
 | `/friends` | Zeigt deine Freunde an |
 | `/friends online` | Zeigt deine Freunde an, die gerade online sind |
 | `/friend <Spieler>` | Sendet dem Spieler eine Freundschaftsanfrage |
