@@ -55,7 +55,7 @@ Monat sein Icon besitzt, da der Channel **vorher ausläuft**. Es ist daher ratsa
 - Besitzt keine speziellen Rechte
 
 # 4 - myTeamspeak
-Es ist nur möglich eine Teamspeak-Identität mit einem Minecraft Account zu verbinden. Mit myTeamSpeak kann man diese Identität aber auf mehrere Geräte benutzen.
+Es ist nur möglich, eine Teamspeak-Identität mit einem Minecraft Account zu verbinden. Mit myTeamSpeak kann man diese Identität aber auf mehreren Geräte benutzen.
 
 ## So kannst du es machen:
 - I. Registriere dich auf [https://www.myteamspeak.com/register](https://www.myteamspeak.com/register)
