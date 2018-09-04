@@ -92,6 +92,9 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi und helfen bei Problemen und Bugs.
 
+### <strong><span style="color:#007812">_ELKMAN_</span></strong>
+- <u>Rang (ingame):</u> Developer
+
 ### <strong><span style="color:#007812">5zig</span></strong>
 - <u>Rang (ingame):</u> Developer
 
