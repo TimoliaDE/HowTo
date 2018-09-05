@@ -37,14 +37,20 @@ Monat sein Icon besitzt, da der Channel **vorher ausläuft**. Es ist daher ratsa
 
 ## Channelgruppen
 
+### Channel-Owner
+- Kann User **aus dem Channel kicken**
+- Kann zwischen **Opus Voice und Opus Music** wählen
+- Kann Talk-Power vergeben
+- Kann Channel-Imperator, Channel-König, Channel-Ritter und Channel-Knecht vergeben
+
 ### Channel-Imperator
-- Kann <strong>aus Channel kicken</strong>
-- Kann zwischen <strong>Opus Voice und Opus Music</strong> wählen
+- Kann User **aus dem Channel kicken**
+- Kann zwischen **Opus Voice und Opus Music** wählen
 - Kann Talk Power vergeben
 - Kann Channel-König, Channel-Ritter und Channel-Knecht vergeben
 
 ### Channel-König
-- Kann <strong>aus Channel kicken</strong>
+- Kann User **aus dem Channel kicken**
 - Kann Talk Power vergeben
 - Kann Channel-Ritter und Channel-Knecht vergeben
 
