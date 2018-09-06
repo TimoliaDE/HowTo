@@ -21,7 +21,7 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 
 ### <strong>Lascona</strong>
 - <u>Rang (ingame):</u> Administratorin
-- <u>Hauptverantwortlich:</u> Bauevent-Koordination, Forenorganisation, Internes und externes Feedback, Social Media, Teammanagement
+- <u>Hauptverantwortlich:</u> Bauevent-Koordination, Forenorganisation, Internes und externes Feedback, Fragen und Antworten Forum, Social Media, Teammanagement
 - <u>Nebenverantwortlich:</u> Broadcasts, YouTuber-Ränge
 
 ### <strong>MCExpertDE</strong>
@@ -37,7 +37,7 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 ### <strong>svdragster</strong>
 - <u>Rang (ingame):</u> Administrator
 - <u>Hauptverantwortlich:</u> Anti-Cheat, Timolia-Plugins
-- <u>Nebenverantwortlich:</u> Feedback Forum, Fragen & Antworten Forum
+- <u>Nebenverantwortlich:</u> Feedback Forum, Fragen und Antworten Forum
 
 ### <strong>xiantiel</strong>
 - <u>Rang (ingame):</u> Administrator
@@ -68,7 +68,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ### <strong><span style="color:#CF0101">NameIsTaken</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Anregungen und Vorschläge
-- <u>Nebenverantwortlich:</u> Forenorganisation, Entschuldigungen, Fragen und Antworten Forum
+- <u>Nebenverantwortlich:</u> Forenorganisation, Entschuldigungen, Fragen und Antworten Forum, Feedback
 
 ### <strong><span style="color:#CF0101">saporital</span></strong>
 - <u>Rang (ingame):</u> Moderator
@@ -161,11 +161,11 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Chrissi1505</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Fragen & Antworten Forum, Twitter
+- <u>Nebenverantwortlich:</u> Fragen und Antworten Forum, Twitter
 
 ### <strong><span style="color:#E4D100">CoveredSymmetry</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Fragen & Antworten Forum, Anregungen & Vorschläge Forum
+- <u>Nebenverantwortlich:</u> Fragen und Antworten Forum, Anregungen & Vorschläge Forum
 
 ### <strong><span style="color:#E4D100">Digimon</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -208,7 +208,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Tobiocus</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Fragen & Antworten Forum
+- <u>Nebenverantwortlich:</u> Fragen und Antworten Forum
 
 ### <strong><span style="color:#E4D100">xTessia</span></strong>
 - <u>Rang (ingame):</u> Supporterin
