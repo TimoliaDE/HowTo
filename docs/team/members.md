@@ -21,7 +21,7 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 
 ### <strong>Lascona</strong>
 - <u>Rang (ingame):</u> Administratorin
-- <u>Hauptverantwortlich:</u> Bauevent-Koordination, Gesamtes Forum, Internes und externes Feedback, Social Media, Teammanagement
+- <u>Hauptverantwortlich:</u> Bauevent-Koordination, Forenorganisation, Internes und externes Feedback, Social Media, Teammanagement
 - <u>Nebenverantwortlich:</u> Broadcasts, YouTuber-Ränge
 
 ### <strong>MCExpertDE</strong>
@@ -68,7 +68,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 ### <strong><span style="color:#CF0101">NameIsTaken</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Anregungen und Vorschläge
-- <u>Nebenverantwortlich:</u> Gesamtes Forum, Entschuldigungen, Fragen und Antworten Forum
+- <u>Nebenverantwortlich:</u> Forenorganisation, Entschuldigungen, Fragen und Antworten Forum
 
 ### <strong><span style="color:#CF0101">saporital</span></strong>
 - <u>Rang (ingame):</u> Moderator
