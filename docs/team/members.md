@@ -3,8 +3,7 @@ Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbe
 
 ## Administratoren
 
-Administratoren kümmern sich um die Technik von Timolia. Angefangen bei den Plugins, über CraftBukkit bis hin zum Root-Server und dem BungeeCord-Netzwerk.
-Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
+Administratoren leiten das Netzwerk. Sie kümmern sich um teaminterne und technische Belange und koordinieren die Projekte und Ziele Timolias.
 
 ### <strong>Caelis</strong>
 - <u>Rang (ingame):</u> Administrator
@@ -21,7 +20,8 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 
 ### <strong>Lascona</strong>
 - <u>Rang (ingame):</u> Administratorin
-- <u>Hauptverantwortlich:</u> Bauevent-Koordination, Forenorganisation, Internes und externes Feedback, Fragen und Antworten Forum, Social Media, Teammanagement
+- <u>Hauptverantwortlich:</u> Bauevent-Koordination, Forenorganisation, Fragen und Antworten Forum, Internes und externes Feedback,
+Organisation und Koordination neuer, inaktiver und alter Teamler, Social Media, Teammanagement, Timolia Turnier Organisation
 - <u>Nebenverantwortlich:</u> Broadcasts, YouTuber-Ränge
 
 ### <strong>MCExpertDE</strong>
@@ -44,7 +44,8 @@ Außerdem sind sie für die Website und den TeamSpeak-Server zuständig.
 - <u>Hauptverantwortlich:</u> Buycraft, Hardware, Management, Nitrado, Root-Server
 
 ## Moderatoren
-Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen Server auf unserem Netzwerk und dienen als Schnittstelle zwischen Supportern und Administratoren.
+
+Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen so für ein reibungsloses Spielerlebnis in alle Bereichen. Außerdem dienen sie als erste Ansprechpartner für Supporter.
 
 ### <strong><span style="color:#CF0101">Caprea</span></strong>
 - <u>Rang (ingame):</u> Moderatorin
@@ -52,13 +53,11 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ### <strong><span style="color:#CF0101">ItsSarahh</span></strong>
 - <u>Rang (ingame):</u> Moderatorin
-- <u>Hauptverantwortlich:</u> Entschuldigungen, Supporterauswahl, YouTuber-Events
+- <u>Hauptverantwortlich:</u> Entschuldigungen, Supporterauswahl, Timolia Turnier Organisation, YouTuber-Events
 - <u>Nebenverantwortlich:</u> Map-Einsendungen, Teamspeak, Testen der Games-Maps, Twitter, YouTuber-Ränge
 
 ### <strong><span style="color:#CF0101">L0L0</span></strong>
 - <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Broadcasts
-- <u>Nebenverantwortlich:</u> Anti-Cheat
 
 ### <strong><span style="color:#CF0101">Metrixx7</span></strong>
 - <u>Rang (ingame):</u> Moderator
@@ -67,7 +66,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ### <strong><span style="color:#CF0101">NameIsTaken</span></strong>
 - <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Anregungen und Vorschläge
+- <u>Hauptverantwortlich:</u> Anregungen und Vorschläge, Verwaltung inaktiver Teamler
 - <u>Nebenverantwortlich:</u> Forenorganisation, Entschuldigungen, Fragen und Antworten Forum, Feedback
 
 ### <strong><span style="color:#CF0101">saporital</span></strong>
@@ -81,7 +80,7 @@ Moderatoren kümmern sich um das reibungslose Spielererlebnis der verschiedenen 
 
 ### <strong><span style="color:#CF0101">Tedget</span></strong>
 - <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Internes Wiki, Management des Development-Teams, Supporterauswahl, Timolia HowTo, YouTuber-Events, YouTuber-Ränge
+- <u>Hauptverantwortlich:</u> Internes Wiki, Management des Development-Teams, Supporterauswahl, Timolia Turnier Organisation, Timolia HowTo, YouTuber-Events, YouTuber-Ränge
 
 ### <strong><span style="color:#CF0101">Twilex</span></strong>
 - <u>Rang (ingame):</u> Moderator
@@ -157,7 +156,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Calavero</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Hauptverantwortlich:</u> Timolia-Turnier Kits
 
 ### <strong><span style="color:#E4D100">Chrissi1505</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -186,7 +184,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">FlorianFida</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Hauptverantwortlich:</u> Timolia-Turnier Kits
 - <u>Nebenverantwortlich:</u> Anregungen und Vorschläge, Testen der Games-Maps
 
 ### <strong><span style="color:#E4D100">Julian_999999999</span></strong>
@@ -196,15 +193,16 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">LordKnockback</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Map-Einsendungen, Spieler Melden Forum 
+- <u>Nebenverantwortlich:</u> Map-Einsendungen, Spieler Melden Forum
 
 ### <strong><span style="color:#E4D100">medicoo</span></strong>
 - <u>Rang (ingame):</u> Supporter
+- <u>Hauptverantwortlich:</u> Timolia Turnier Organisation
 - <u>Nebenverantwortlich:</u> TeamSpeak, Testen der Games-Maps
 
 ### <strong><span style="color:#E4D100">Naachtara</span></strong>
-- <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Broadcasts, Entschuldigungen, Testen der Games-Maps, Twitter
+- <u>Rang (ingame):</u> Broadcasts, Supporter
+- <u>Nebenverantwortlich:</u> Entschuldigungen, Testen der Games-Maps, Twitter
 
 ### <strong><span style="color:#E4D100">Tobiocus</span></strong>
 - <u>Rang (ingame):</u> Supporter

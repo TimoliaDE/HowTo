@@ -103,7 +103,6 @@ Diese Teamler sorgen für einen fortlaufend reibungslosen Spielverlauf ohne Hack
 |<span style="color:#2980b9">svdragster</span> | Hauptverantwortlich |
 |<span style="color:#007812">Raziel</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#CF0101">L0L0</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">Metrixx7</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">felliongi21</span> | Nebenverantwortlich |
 
@@ -169,18 +168,20 @@ Die beiden Supporter entscheiden über Turniereinstellungen bei den Freitagsturn
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#E4D100">Calavero</span> | Hauptverantwortlich |
-|<span style="color:#E4D100">FlorianFida</span> | Hauptverantwortlich |
+|<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">ItsSarahh</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
+|<span style="color:#E4D100">medicoo</span> | Hauptverantwortlich |
 
 ### **Broadcasts**
 Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadcast Mitteilungen gekümmert.
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#CF0101">L0L0</span> | Hauptverantwortlich |
+|<span style="color:#E4D100">Naachtara</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#2980b9">Lascona</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Naachtara</span> | Nebenverantwortlich |
+
 
 ### **Team-Leiter**
 Im Timolia Team gibt es kleinere Teams, welche unter anderem durch diese Verantwortlichen organisiert werden.
