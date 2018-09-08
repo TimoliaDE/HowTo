@@ -32,7 +32,6 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span style="color:#CF0101">NameIsTaken</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Chrissi1505</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">CoveredSymmetry</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Tobiocus</span> | Nebenverantwortlich |
 
 ### **Feedback**
 | Teamler | Verantwortungsgrad |
@@ -164,7 +163,7 @@ Der Teamspeak von Timolia ist unter ts.timolia.de zu erreichen. Er wird betreut 
 |<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
 
 ### **Timolia Turnier Organisation**
-Die beiden Supporter entscheiden über Turniereinstellungen bei den Freitagsturnieren.
+Dieses Team entscheidet über die Turniereinstellungen bei den Freitagsturnieren.
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
