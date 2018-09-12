@@ -50,7 +50,7 @@ Welche Vorteile dir dieser Rang bietet, [erfährst du hier](/ranks/premium/).
 
 ### Wer supportet mich, wenn ich fragen habe?
 Wenn du ingame oder im [Teamspeak](/teamspeak/) Fragen hast, steht dir unser großes [Supportteam](/team/members/#supporter) stets zur Verfügung. Wir freuen uns immer, wenn jemand auf uns zu kommt und können dir hoffentlich bei Problemen oder Anmerkungen weiterhelfen.
-Auf der Social Media Plattform [Twitter](https://twitter.com/TimoliaTeam) supportet rund um die Uhr das [Social Media Team](/team/responsibilities/#social-media).
+Auf der Social Media Plattform [Twitter](https://twitter.com/TimoliaTeam) supportet rund um die Uhr das [Social Media Team](/team/responsibilities/#social-media). Du kannst zusätzlich Ingame Probleme, Bugs und Anmerkungen über das Ticketsystem melden. Dazu kannst du den Befehl `/ticket <Anliegen>` eingeben.
 
 ### Wie funktioniert das Kick-System?
 Wir besitzen ein recht komplexes und einzigartiges Kicksystem, um sowohl Premium- als auch normalen Spielern ein tolles Spielerlebnis ohne ewige Wartezeiten zu ermöglichen. 
@@ -65,6 +65,9 @@ Diese kannst du in unserem Forum oder im Hilfechannel posten, alternativ kannst 
 sein oder hast du eine Bannzeit von insgesamt über 46 Tagen, musst du erst warten, bis deine Banntage auf <=46 Tage verjährt sind.
 Über den Minecraft-Server `register.timolia.de` kannst du dich für unser Forum registrieren, sofern du dies nicht schon getan hast. 
 Mehr über Entbannungsanträge und Entschuldigungen [kannst du hier lesen](/bans/).
+
+### Was sind Achievements?
+Achievements kann man während des Spielens auf Timolia abschließen. Eine Übersicht über alle Achievements findest du unter dem Befehl `/achievements`.
 
 ### Woher bekomme ich das Timolia Optifine-Cape?
 - URL: [https://www.needcoolshoes.com/banner?=paeyeseqpwphec](https://www.needcoolshoes.com/banner?=paeyeseqpwphec)
@@ -87,7 +90,7 @@ In jeder Lobby der Modi findest du in deinem Inventar eine genaue Erklärung, di
 
 ### Wo kann ich Maps einsenden?
 In unserem Forum im Themenbereich “Map-Einsendungen” können gebaute Arenen präsentiert werden, welche von allen Teammitgliedern,
-insbesondere von unserem Bauteam, begutachtet werden. Mehr dazu kannst du [hier nachlesen](https://forum.timolia.de/threads/wie-sende-ich-eine-map-ein.3/).
+insbesondere von unserem Bauteam, begutachtet werden. Mehr dazu kannst du [hier nachlesen](https://forum.timolia.de/threads/wie-sende-ich-eine-map-ein.21267/).
 
 ### Darf ich Arenen von Timolia verwenden?
 Alle Maps, die du auf unserem Netzwerk findest, bieten wir nicht zum Download an, da es nicht gerne gesehen wird, wenn unsere Arenen ohne vorherige Zustimmung verbreitet werden.
@@ -119,12 +122,9 @@ Es gibt 3 Möglichkeiten Geld zu verdienen:
 - Onlinezeit: Du bekommst alle 15 Minuten genau 50 Timolions, dazu musst du die 15 Minuten aber durchgehend online sein.
 - Items verkaufen: Du kannst deine gefarmten Sachen im  Adminshop oder in Shops von anderen Usern verkaufen. Jedoch hast du auch die Möglichkeit, den Handelschat zu benutzen.
 Hier kannst du mit anderen Usern handeln. Du erreichst den Handelschat  mit `/ch join handel`, zurück kommst du mit `/ch join city`. Der Handelschat ist ein globaler Chat und somit auf allen Cityservern zu lesen.
-- Durch das gewinnen von Spielen und Events kann man Geld verdienen.
+- Durch das Gewinnen von Spielen und Events kann man Geld verdienen.
 - Jobs: Eine weitere Möglichkeit, an Geld zu kommen, sind Jobs. Du kannst im öffentlichen Chat nach Jobs mit Bezahlung von anderen Usern fragen.
 Wieviel Geld du momentan besitzt siehst du mit `/money` bzw. im Infoboard rechts an der Seite oder im Tab.
-
-### Was sind Achievements?
-Achievements kann man während des Spielens auf dem Citybuild abschließen. Eine Übersicht über alle Achievements findest du unter dem Befehl `/achievements`.
 
 ### Wie gelange ich in die Abbauwelt?
 Du erreichst die Abbauwelt über den Citybuildhub, du musst `/city` in den Chat eingeben und dann über den Kompass den richtigen Server auswählen.
@@ -141,9 +141,6 @@ Du erreichst die Farmgrundstücke über den Citybuildhub, du musst `/city` in de
 ### Wie bekomme ich weitere Grundstücke in anderen Gebieten?
 Weitere Grundstücke kann man mit Timolions kaufen. Dazu muss man lediglich auf das Verkaufsschild neben dem Grundstück drücken.
 Bitte beachte die Grundstückspreise der spezifischen Baugebiete und halte das Geld auf deinem Konto bereit.
-
-### Wie kann ich Probleme melden?
-Probleme, Bugs, Anmerkungen (serverbezogen) können über das Ticketsystem gemeldet werden. Dazu kannst du den Befehl `/ticket <Anliegen>` eingeben.
 
 ### Was ist Karma?
 Karma kann man sich durch langes Spielen auf dem Server verdienen. Man erhält es durch das Abschließen von Achievements, das Karma wird in unterschiedlichen Leveln aufgestuft.
