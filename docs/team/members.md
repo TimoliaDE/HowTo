@@ -56,9 +56,6 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 - <u>Hauptverantwortlich:</u> Entschuldigungen, Supporterauswahl, Timolia Turnier Organisation, YouTuber-Events
 - <u>Nebenverantwortlich:</u> Map-Einsendungen, Teamspeak, Testen der Games-Maps, Twitter, YouTuber-Ränge
 
-### <strong><span style="color:#CF0101">L0L0</span></strong>
-- <u>Rang (ingame):</u> Moderator
-
 ### <strong><span style="color:#CF0101">Metrixx7</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Organisation und Koordination neuer, inaktiver und alter Teamler, Timolia HowTo, Twitter, YouTuber-Ränge, Zu Unrecht gebannt Forum
