@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>September</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|L0L0 | <span style="color:#CF0101">Moderator</span> | <span style="color:#00F9EC">Expert</span>  | 19.09.18 |
 |\_ELKMAN\_ | <span style="color:#00F9EC">Expert</span> | <span style="color:#007812">Developer</span> | 03.09.18 |
 
 ###  <strong>August</strong>
