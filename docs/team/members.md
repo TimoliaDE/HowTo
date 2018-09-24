@@ -5,10 +5,6 @@ Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbe
 
 Administratoren leiten das Netzwerk. Sie kümmern sich um teaminterne und technische Belange und koordinieren die Projekte und Ziele Timolias.
 
-### <strong>Caelis</strong>
-- <u>Rang (ingame):</u> Administrator
-- <u>Hauptverantwortlich:</u> Interne Webanwendung, Internes Wiki, Management des Development-Teams, Technische Leitung des Bauteams, Timolia-Plugins, YouTuber-Events
-
 ### <strong>Docmac</span></strong>
 - <u>Rang (ingame):</u> Administrator
 - <u>Hauptverantwortlich:</u> Timolia-Plugins
@@ -46,6 +42,10 @@ Organisation und Koordination neuer, inaktiver und alter Teamler, Social Media, 
 ## Moderatoren
 
 Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen so für ein reibungsloses Spielerlebnis in alle Bereichen. Außerdem dienen sie als erste Ansprechpartner für Supporter.
+
+### <strong><span style="color:#CF0101">Caelis</strong>
+- <u>Rang (ingame):</u> Moderator
+- <u>Hauptverantwortlich:</u> Interne Webanwendung, Internes Wiki, Technische Leitung des Bauteams, Timolia-Plugins, YouTuber-Events
 
 ### <strong><span style="color:#CF0101">Caprea</span></strong>
 - <u>Rang (ingame):</u> Moderatorin
