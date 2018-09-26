@@ -237,9 +237,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Hauptverantwortlich:</u> Bauteam-Twitter
 - <u>Nebenverantwortlich:</u> Bereitstellung von Bildern für das Creator Team
 
-### <strong><span style="color:#00646F">LaShadow</span></strong>
-- <u>Rang (ingame):</u> Builderin
-
 ### <strong><span style="color:#00646F">Memoryos</span></strong>
 - <u>Rang (ingame):</u> Builder
 
