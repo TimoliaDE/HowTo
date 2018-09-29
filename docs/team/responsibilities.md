@@ -188,7 +188,6 @@ Im Timolia Team gibt es kleinere Teams, welche unter anderem durch diese Verantw
 
 | Teamler | Zuständigkeit |
 | ------ | ------ |
-|<span style="color:#2980b9">Caelis</span> | Management des Development-Teams |
 |<span style="color:#CF0101">Tedget</span> | Management des Development-Teams |
 |<span style="color:#2980b9">Lascona</span> | Management des Creator-Teams und des YouTube-Teams |
 |<span style="color:#00646F">Vectrail</span> | Management des Bau-Teams |

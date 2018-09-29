@@ -6,6 +6,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 |LaShadow | <span style="color:#00646F">Builderin</span> | <span style="color:#00F9EC">Expert</span> | 25.09.18 |
+|Caelis | <span style="color:#2980b9">Administrator</span> | <span style="color:#CF0101">Moderator</span> | 24.09.18 |
 |L0L0 | <span style="color:#CF0101">Moderator</span> | <span style="color:#00F9EC">Expert</span>  | 19.09.18 |
 |\_ELKMAN\_ | <span style="color:#00F9EC">Expert</span> | <span style="color:#007812">Developer</span> | 03.09.18 |
 
