@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>September</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| LaShadow | <span style="color:#00646F">Builderin</span> | <span style="color:#00F9EC">Expert</span> | 25.09.18 |
 |\_ELKMAN\_ | <span style="color:#00F9EC">Expert</span> | <span style="color:#007812">Developer</span> | 03.09.18 |
 
 ###  <strong>August</strong>
