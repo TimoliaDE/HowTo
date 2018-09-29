@@ -116,7 +116,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 ### <strong><span style="color:#007812">MCelements</span></strong>
 - <u>Rang (ingame):</u> Developer
-- <u>Nebenverantwortlich:</u> TeamSpeak
+- <u>Hauptverantwortlich:</u> TeamSpeak
 
 ### <strong><span style="color:#007812">physanus</span></strong>
 - <u>Rang (ingame):</u> Developer
@@ -201,7 +201,8 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Nebenverantwortlich:</u> TeamSpeak, Testen der Games-Maps
 
 ### <strong><span style="color:#E4D100">Naachtara</span></strong>
-- <u>Rang (ingame):</u> Broadcasts, Supporter
+- <u>Rang (ingame):</u> Supporter
+- <u>Hauptverantwortlich:</u> Broadcasts
 - <u>Nebenverantwortlich:</u> Entschuldigungen, Testen der Games-Maps, Twitter
 
 ### <strong><span style="color:#E4D100">Tobiocus</span></strong>
