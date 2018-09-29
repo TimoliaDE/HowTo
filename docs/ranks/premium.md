@@ -13,26 +13,30 @@ Diese Features stehen dir mit deinem Rang zur Verfügung:
 - <strong>Doppelte Pixel</strong> bei <span style="color:#F99500">Pro</span>, <strong>dreifache Pixel</strong> bei <span style="color:#00F9EC">Expert</span>
 - <span style="color:#F99500">Pro</span>- bzw. <span style="color:#00F9EC">Expert</span>-Items im Pixelshop
 - zwei bzw. drei <strong>Slots in JumpWorld</strong>
-- Armorstands in JumpWorld platzieren
+- Armorstands und Userköpfe in JumpWorld platzieren
 - <strong>Turniere</strong> in Arcade und 1vs1
 - größere Teams und <strong>Teamfarben</strong> in 1vs1
 - drei bzw. fünf Kits in 1vs1
 - zwei bzw. drei <strong>Stimmen beim Map-Voting-System</strong>
-- Teste Spiele als Beta-Tester
+- teste Spiele als Beta-Tester
 - Rang im TeamSpeak-Server
 - `/pro` und `/expert` zeigt die Premium-Restzeit an
 - zwei bzw. drei <strong>Map-Profile in 1vs1</strong>
+- setzte so gut wie jedes Item in einem 1vs1-Kit auf deinen Kopf (`/hat`)
+- mehrere Homes
+- Benutzung von `/ptime [day|night|midnight|sunrise|noon|afternoon|sunset|hh:mm|reset]` und `/pweather [sun|rain|reset]`
 
 Vorteile auf unseren CityBuild Servern:
 
 - auf den vollen CityBuild joinen
 - farbiger Name (<span style="color:#F99500">Pro</span> und <span style="color:#00F9EC">Expert</span>)
 - mehrere Homes
-- Benutzung von `/ptime [day|night|reset]` und `/pweather [sun|storm|reset]`
+- Benutzung von `/ptime [day|night|midnight|sunrise|noon|afternoon|sunset|hh:mm|reset]` und `/pweather [sun|rain|reset]`
 - erhalte ein 50x50 Grundstück in Upperhills für 2.500 Timolions statt 250.000 Timolions
-- Mobile Werkbank (`/craft`) und Enderchest (`/enderchest`)
+- mobile Werkbank (`/craft`) und Enderchest (`/enderchest`)
+- öffne eine Shulkerbox ohne sie zu setzen (`/shulker`)
 - setze so gut wie jedes Item auf deinen Kopf (`/hat`)
-- Rezepte für Items (`/recipe [Name|ID]`)
+- Rezepte für Items (`/rezepte`)
 
 ### Die Zahlungsmöglichkeiten
 Timolia kannst du entweder per BuyCraft (PayPal, Paysafecard, Überweisung) oder Nitrado (Paysafecard, Sofort-Überweisung, uvm.) mit einer Spende
