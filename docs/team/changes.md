@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>September</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|engiwuck | <span style="color:#F99500">Native</span> | <span style="color:#E4D100">Supporter</span> | 30.09.18 |
 |LaShadow | <span style="color:#00646F">Builderin</span> | <span style="color:#00F9EC">Expert</span> | 25.09.18 |
 |Caelis | <span style="color:#2980b9">Administrator</span> | <span style="color:#CF0101">Moderator</span> | 24.09.18 |
 |L0L0 | <span style="color:#CF0101">Moderator</span> | <span style="color:#00F9EC">Expert</span>  | 19.09.18 |
