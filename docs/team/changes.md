@@ -2,6 +2,14 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 
 # 2018
 
+###  <strong>Oktober</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+|2h9m | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 07.10.18  |
+|arved | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 07.10.18  |
+|DiggerDieter | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span>  | 07.10.18  |
+|FrozenPete | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 07.10.18 |
+
 ###  <strong>September</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
