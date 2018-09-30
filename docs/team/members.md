@@ -220,13 +220,25 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ### <strong><span style="color:#00646F">\_Geizhals\_</span></strong>
 - <u>Rang (ingame):</u> Builder
 
+### <strong><span style="color:#00646F">2h9m</span></strong>
+- <u>Rang (ingame):</u> Builder
+
+### <strong><span style="color:#00646F">arved</span></strong>
+- <u>Rang (ingame):</u> Builder
+
 ### <strong><span style="color:#00646F">Dankbarkeit</span></strong>
+- <u>Rang (ingame):</u> Builder
+
+### <strong><span style="color:#00646F">DiggerDieter</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span style="color:#00646F">eZZfery</span></strong>
 - <u>Rang (ingame):</u> Builderin
 
 ### <strong><span style="color:#00646F">eZZrael</span></strong>
+- <u>Rang (ingame):</u> Builder
+
+### <strong><span style="color:#00646F">FrozenPete</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span style="color:#00646F">Jukplays</span></strong>
