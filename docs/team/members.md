@@ -220,6 +220,9 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ### <strong><span style="color:#00646F">\_Geizhals\_</span></strong>
 - <u>Rang (ingame):</u> Builder
 
+### <strong><span style="color:#00646F">\_Siimon\_</span></strong>
+- <u>Rang (ingame):</u> Builder
+
 ### <strong><span style="color:#00646F">2h9m</span></strong>
 - <u>Rang (ingame):</u> Builder
 
