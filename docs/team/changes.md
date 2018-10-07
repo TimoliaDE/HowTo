@@ -10,6 +10,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 |arved | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 07.10.18  |
 |DiggerDieter | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span>  | 07.10.18  |
 |FrozenPete | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 07.10.18 |
+|lyAlina | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Native</span> | 07.10.18 |
 
 ###  <strong>September</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
@@ -178,7 +179,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Juni</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
-|Dankbarkeit | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 25.06.17 |
+|lyAlina | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 25.06.17 |
 |StrombergHD | <span style="color:#00F9EC">Expert</span> | <span style="color:#00646F">Builder</span> | 25.06.17 |
 |InfiniteFery | <span style="color:#00F9EC">Expert</span> | <span style="color:#00646F">Builder</span> | 25.06.17 |
 |eZZrael | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 25.06.17 |
