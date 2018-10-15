@@ -70,12 +70,12 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#CF0101">ItsSarahh</span> | Hauptverantwortlich |
+|<span style="color:#E4D100">Julian_999999999</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#CF0101">NameIsTaken</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Aenzo</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Elegeta</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Naachtara</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
 
 ### **Zu Unrecht gebannt**
@@ -130,6 +130,8 @@ Diese Teamler kümmern sich um's Aktualisieren und Erstellen des HowTos Timolias
 | ------ | ------ |
 |<span style="color:#CF0101">Metrixx7</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
+| | |
+|<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 
 ### **Social-Media**
 Für einen ständigen Support und Content auf Twitter und anderen sozialen Medien sorgen diese Teamler.
