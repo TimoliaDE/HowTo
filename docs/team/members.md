@@ -63,7 +63,7 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 
 ### <strong><span style="color:#CF0101">NameIsTaken</span></strong>
 - <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Anregungen und Vorschläge, Verwaltung inaktiver Teamler
+- <u>Hauptverantwortlich:</u> Anregungen und Vorschläge
 - <u>Nebenverantwortlich:</u> Forenorganisation, Entschuldigungen, Fragen und Antworten Forum, Feedback
 
 ### <strong><span style="color:#CF0101">saporital</span></strong>
@@ -104,9 +104,6 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ### <strong><span style="color:#007812">Jintzo</span></strong>
 - <u>Rang (ingame):</u> Developer
 - <u>Nebenverantwortlich:</u> Web-Development
-
-### <strong><span style="color:#007812">Kenaai</span></strong>
-- <u>Rang (ingame):</u> Developer
 
 ### <strong><span style="color:#007812">logito111</span></strong>
 - <u>Rang (ingame):</u> Developer
@@ -181,12 +178,12 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">FlorianFida</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge, Testen der Games-Maps
+- <u>Nebenverantwortlich:</u> Testen der Games-Maps
 
 ### <strong><span style="color:#E4D100">Julian_999999999</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Hauptverantwortlich:</u> Fragen und Antworten Forum
-- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Entschuldigungen, Feedback Forum, Spieler melden Forum, Teamspeak, Zu Unrecht gebannt Forum
+- <u>Hauptverantwortlich:</u> Fragen und Antworten Forum, Entschuldigungen
+- <u>Nebenverantwortlich:</u> Teamspeak, TimoliaHowTo, Anregungen und Vorschläge Forum, Feedback Forum, Spieler melden Forum, Zu Unrecht gebannt Forum
 
 ### <strong><span style="color:#E4D100">LordKnockback</span></strong>
 - <u>Rang (ingame):</u> Supporter
