@@ -183,7 +183,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">Julian_999999999</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Hauptverantwortlich:</u> Fragen und Antworten Forum, Entschuldigungen
-- <u>Nebenverantwortlich:</u> Teamspeak, TimoliaHowTo, Anregungen und Vorschläge Forum, Feedback Forum, Spieler melden Forum, Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Teamspeak, Timolia HowTo, Anregungen und Vorschläge Forum, Feedback Forum, Spieler melden Forum, Zu Unrecht gebannt Forum
 
 ### <strong><span style="color:#E4D100">LordKnockback</span></strong>
 - <u>Rang (ingame):</u> Supporter
