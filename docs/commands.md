@@ -160,21 +160,21 @@ Anstatt `/friend` kann jeweils `/f` genutzt werden
 
 | Befehl | Funktion |
 | ------ | -------- |
-| `/enter <ID>`, `/e`             | Betrete ein bestimmtes Jump 'n' Run |
-| `/editparcour`, `/edit [Slot]`  | Editiert das Jump 'n' Run auf einem bestimmten Slot |
+| `/enter <ID>`, `/e <ID>`        | Betrete ein bestimmtes Jump 'n' Run |
 | `/leave`, `/l`                  | Verlässt das aktuelle Jump 'n' Run |
 | `/setstart`                     | Setzt den Startpunkt deines Jump 'n' Runs |
-| `/setend`                       | Setzt den Endpunkt deines Jump 'n' Runs |
 | `/checkpoint`, `/fall`, `/kill` | Teleportiert dich zurück zum letzten Checkpoint |
-| `/duel <Spieler>`               | Lädt einen Spieler in ein Duell ein |
+| `/duel invite <Spieler>`        | Lädt einen Spieler in ein Duell ein |
 | `/duel accept <Spieler>`        | Nimmt die Einladung in ein Duell an |
 | `/duel leave <Spieler>`         | Verlässt ein Duell |
+| `/duel kick <Spieler>`          | Kickt einen Spieler aus einem Duell |
 | `/setblock`                     | Platziert den Block in deiner Hand unter dir |
-| `/jump`                         | Lässt dich dein Jump 'n' Run testen |
+| `/jump`                         | Wechselt zwischen Jump- und Bau-Modus |
 | `/b`                            | Öffnet das Bau-Info-Menü |
+| `/kit`                          | Gibt dir die Start-Items im Bau-Modus |
 | `/join <Name>`                  | Betritt das Jump 'n' Run, auf dem sich [Spieler] gerade befindet |
 | `/top <ID>`                     | Zeigt die Top-Zeiten des Jump 'n' Runs mit der ID [id] an |
-| `/top <ID> -f`                  | Zeigt die schlechtesten Zeiten für ein Jump 'n' Run an |
+| `/top <ID> -f`                  | Zeigt die wenigsten Fails des Jump 'n' Runs mit der ID [id] an |
 
 ### Castles
 | Befehl | Funktion |
