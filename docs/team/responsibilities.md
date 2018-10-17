@@ -16,7 +16,6 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
-|<span style="color:#CF0101">NameIsTaken</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">CoveredSymmetry</span> | Nebenverantwortlich |
@@ -29,7 +28,6 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#2980b9">svdragster</span> | Nebenverantwortlich |
-|<span style="color:#CF0101">NameIsTaken</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Chrissi1505</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">CoveredSymmetry</span> | Nebenverantwortlich |
 
@@ -39,7 +37,6 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#2980b9">svdragster</span> | Nebenverantwortlich |
-|<span style="color:#CF0101">NameIsTaken</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 
 ### **Map-Einsendungen**
@@ -72,7 +69,6 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span style="color:#CF0101">ItsSarahh</span> | Hauptverantwortlich |
 |<span style="color:#E4D100">Julian_999999999</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#CF0101">NameIsTaken</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Aenzo</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Elegeta</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Naachtara</span> | Nebenverantwortlich |
