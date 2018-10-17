@@ -5,6 +5,9 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Oktober</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|12Build | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 22.10.18  |
+|B3artastic | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 22.10.18  |
+|flakk0devi | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 22.10.18  |
 |Kenaai | <span style="color:#007812">Developer</span> | <span style="color:#00F9EC">Expert</span> | 14.10.18 |
 |\_Siimon\_ | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 07.10.18  |
 |2h9m | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 07.10.18  |
