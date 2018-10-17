@@ -9,7 +9,7 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | ------ | ------ |
 |<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
 | | |
-|<span style=color:#007812>NameIsTaken</span> | Nebenverantwortlich |
+|<span style="color:#007812">NameIsTaken</span> | Nebenverantwortlich |
 
 ### **Anregungen und Vorschläge**
 
