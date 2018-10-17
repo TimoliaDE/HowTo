@@ -61,11 +61,6 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 - <u>Hauptverantwortlich:</u> Organisation und Koordination neuer, inaktiver und alter Teamler, Timolia HowTo, Twitter, YouTuber-Ränge, Zu Unrecht gebannt Forum
 - <u>Nebenverantwortlich:</u> Anti-Cheat, Supporterauswahl, Testen der Games-Maps
 
-### <strong><span style="color:#CF0101">NameIsTaken</span></strong>
-- <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Anregungen und Vorschläge
-- <u>Nebenverantwortlich:</u> Forenorganisation, Entschuldigungen, Fragen und Antworten Forum, Feedback
-
 ### <strong><span style="color:#CF0101">saporital</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Citygebiete: Downtown, Minedig, Mittelalter, Oldtown, Chinatown, Wunderland, Atlantis, Twitter
@@ -111,6 +106,10 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ### <strong><span style="color:#007812">MCelements</span></strong>
 - <u>Rang (ingame):</u> Developer
 - <u>Hauptverantwortlich:</u> TeamSpeak
+
+### <strong><span style="color:#007812">NameIsTaken</span></strong>
+- <u>Rang (ingame):</u> Developer
+- <u>Nebenverantwortlich:</u> Forenorganisation
 
 ### <strong><span style="color:#007812">physanus</span></strong>
 - <u>Rang (ingame):</u> Developer
