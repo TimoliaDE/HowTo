@@ -15,7 +15,7 @@ Du darfst auf deinem GS maximal 10 Haustiere haben.
 - Grundstücke sind **20*20** (20 hoch, 10 tief) Blöcke groß
 - **Kostenloses** Grundstück
 - Pro Spieler nur **ein** Grundstück
-- **10 Tiere und 10 Entities** pro GS erlaubt
+- **10 Tiere und 10 Entities** pro GS erlaubt. Sollte ein Tier oder Entity außerhalb des Grundstückes sein, wird dieses **nicht** erstattet (z.B. durch Serverneustart)
 - **Vorstadtbaustil**
 - **kein** Ownerwechsel möglich
 
@@ -44,7 +44,7 @@ eingehalten werden, es werden keine Blöcke außerhalb des Grundstückes gesetzt
 - Es sollten **Villen** und ähnliches gebaut werden
 - Grundstücke sind ausschließlich für PRO+
 - Pro Spieler nur **ein** Grundstück
-- Maximal **25 Tiere** und **25 Entities** pro GS
+- Maximal **25 Tiere** und **25 Entities** pro GS. Sollte ein Tier oder Entity außerhalb des Grundstückes sein, wird dieses **nicht** erstattet (z.B. durch Serverneustart)
 - Ownerwechsel möglich (5000T)
 
 | Verantwortliche | Funktion |
@@ -81,7 +81,7 @@ Je weiter man sich vom Spawn entfernt, desto größer und verstreuter werden die
 - Baustil: rustikale Dorfhäuser um den Spawn und Bauernhöfe mit Feldern/Weiden
 - automatische Farmen unterirdisch bauen
 - pro User sind **drei** Grundstücke erlaubt
-- es sind insgesamt 75 Tiere und Entities pro GS erlaubt
+- es sind insgesamt 75 Tiere und Entities pro GS erlaubt. Sollte ein Tier oder Entity außerhalb des Grundstückes sein, wird dieses **nicht** erstattet (z.B. durch Serverneustart)
 - die Häuser sollten nicht mehr als 40 Blöcke in die Höhe ragen.
 
 | Verantwortliche | Funktion |
@@ -120,7 +120,7 @@ bau dir ein kleines Reich inmitten der Ruinen von Atlantis.
 - Bauhöhe beträgt stets 20 Blöcke
 - Grundstücke auf dem Vorsprung (Klippen) haben eine Bautiefe von 20 Blöcken, Grundstücke auf festem Untergrund gehen 30 Blöcke in die Tiefe
 - Der Baustil sollte der Umgebung angepasst werden
-- es sind 10 Entities erlaubt (keine Tiere)
+- es sind 10 Entities erlaubt (keine Tiere). Sollte ein Tier oder Entity außerhalb des Grundstückes sein, wird dieses **nicht** erstattet (z.B. durch Serverneustart)
 - pro User sind zwei Grundstücke erlaubt
 
 | Verantwortliche | Funktion |
@@ -138,7 +138,7 @@ Die Größe der Grundstücke ist unterschiedlich. Jeder Spieler darf nur 1 Grund
 ### Baugebietsregeln, Informationen und Verantwortliche/r
 - **Ein Grundstück** pro Spieler
 - Baustil im Rahmen Ice-Spikes einhalten
-- Maximal 10 Tiere pro Grundstück
+- Maximal 10 Tiere pro Grundstück. Sollte ein Tier oder Entity außerhalb des Grundstückes sein, wird dieses **nicht** erstattet (z.B. durch Serverneustart)
 - Tiefe: Bis Bedrock
 - Höhe: 30 Blöcke über den Boden
 
@@ -159,7 +159,7 @@ dir ein großes, aber günstiges Grundstück kaufen und dich dort niederlassen u
 - Nach 3 Monaten Inaktivität wird das Grunstück resettet
 - Die Kaufschilder befinden sich direkt an den Grunstücken
 - Jeder User darf 2 Grunstücke besitzen
-- Maximal sind 25 Entities und 10 Tiere pro Grundstück erlaubt
+- Maximal sind 25 Entities und 10 Tiere pro Grundstück erlaubt. Sollte ein Tier oder Entity außerhalb des Grundstückes sein, wird dieses **nicht** erstattet (z.B. durch Serverneustart)
 
 | Verantwortliche | Funktion |
 | ------ | -------- |
