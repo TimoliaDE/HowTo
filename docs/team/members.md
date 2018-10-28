@@ -74,11 +74,6 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Internes Wiki, Management des Development-Teams, Supporterauswahl, Timolia Turnier Organisation, Timolia HowTo, YouTuber-Events, YouTuber-Ränge
 
-### <strong><span style="color:#CF0101">Twilex</span></strong>
-- <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Citygebiete: Shopwelt, Skyland, Wellington
-
-
 ## Developer
 
 Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi und helfen bei Problemen und Bugs.
