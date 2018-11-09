@@ -244,11 +244,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ### <strong><span style="color:#00646F">FrozenPete</span></strong>
 - <u>Rang (ingame):</u> Builder
 
-### <strong><span style="color:#00646F">Jukplays</span></strong>
-- <u>Rang (ingame):</u> Builder
-- <u>Hauptverantwortlich:</u> Bauteam-Twitter
-- <u>Nebenverantwortlich:</u> Bereitstellung von Bildern für das Creator Team
-
 ### <strong><span style="color:#00646F">Memoryos</span></strong>
 - <u>Rang (ingame):</u> Builder
 
