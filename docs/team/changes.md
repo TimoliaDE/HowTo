@@ -5,6 +5,11 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Oktober</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|Naachtara | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 10.11.18 |
+
+###  <strong>Oktober</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
 |Twilex | <span style="color:#CF0101">Moderator</span> | <span style="color:#F99500">Native</span> | 27.10.18 |
 |12Build | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 22.10.18  |
 |B3artastic | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 22.10.18  |
@@ -340,7 +345,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 |Thoasty | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | 11.08.16 |
 |BuffmonsterOne | <span style="color:#848484">Spieler</span> | <span style="color:#E4D100">Supporter Games</span> | 05.08.16 |
 |TimLiebtSt3gi | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 05.08.16 |
-|\_Rudi_ | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter Games</span> | 05.08.16 |
+|Naachtara | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter Games</span> | 05.08.16 |
 |LeePvP | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | 05.08.16 |
 |Luzii | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | 05.08.16 |
 
