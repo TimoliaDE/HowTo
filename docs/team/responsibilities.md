@@ -71,7 +71,6 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | | |
 |<span style="color:#E4D100">Aenzo</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Elegeta</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Naachtara</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
 
 ### **Zu Unrecht gebannt**
@@ -142,7 +141,6 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 |<span style="color:#CF0101">ItsSarahh</span> | Twitter NV|
 |<span style="color:#007812">tr7zw</span> | Twitter NV |
 |<span style="color:#E4D100">Chrissi1505</span> | Twitter NV |
-|<span style="color:#E4D100">Naachtara</span> | Twitter NV |
 |<span style="color:#E4D100">xTessia</span> | Twitter NV |
 |<span style="color:#00646F">JukPlays</span> | Bauteam-Twitter HV |
 |<span style="color:#00646F">xnulix</span> | Bauteam-Twitter NV |
@@ -175,9 +173,7 @@ Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadca
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#E4D100">Naachtara</span> | Hauptverantwortlich |
-| | |
-|<span style="color:#2980b9">Lascona</span> | Nebenverantwortlich |
+|<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
 
 
 ### **Team-Leiter**
@@ -200,7 +196,6 @@ Diese Teamler sind für das Bewerten, Aktualisieren und Kategorisieren von Games
 |<span style="color:#CF0101">Metrixx7</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">Schonas</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">FlorianFida</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Naachtara</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
 
 ### **YouTuber Events**
