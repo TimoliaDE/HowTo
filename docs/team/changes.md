@@ -2,6 +2,12 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 
 # 2018
 
+###  <strong>November</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+|logito111 | <span style="color:#007812">Developer</span> | <span style="color:#F99500">Native</span> | 12.11.18  |
+|Yeiel2 | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 11.11.18  |
+
 ###  <strong>Oktober</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
