@@ -95,9 +95,6 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Rang (ingame):</u> Developer
 - <u>Nebenverantwortlich:</u> Web-Development
 
-### <strong><span style="color:#007812">logito111</span></strong>
-- <u>Rang (ingame):</u> Developer
-
 ### <strong><span style="color:#007812">MCelements</span></strong>
 - <u>Rang (ingame):</u> Developer
 - <u>Hauptverantwortlich:</u> TeamSpeak
@@ -262,6 +259,9 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ### <strong><span style="color:#00646F">xnulix</span></strong>
 - <u>Rang (ingame):</u> Builder
 - <u>Nebenverantwortlich:</u> Bauteam-Twitter
+
+### <strong><span style="color:#00646F">Yeiel2</span></strong>
+- <u>Rang (ingame):</u> Builder
 
 
 ## Creator
