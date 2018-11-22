@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>November</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|Jukplays | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Native</span> | 09.11.18 |
 |Tobiocus | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 08.11.18 |
 |\_Geizhals\_ | <span style="color:#00646F">Builder</span> | <span style="color:#00F9EC">Expert</span> | 03.11.18 |
 |Digimon | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 01.11.18 |
