@@ -5,15 +5,13 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>November</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|logito111 | <span style="color:#007812">Developer</span> | <span style="color:#F99500">Native</span> | 12.11.18  |
+|Yeiel2 | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 11.11.18  |
+|Naachtara | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 10.11.18 |
 |Jukplays | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Native</span> | 09.11.18 |
 |Tobiocus | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 08.11.18 |
 |\_Geizhals\_ | <span style="color:#00646F">Builder</span> | <span style="color:#00F9EC">Expert</span> | 03.11.18 |
 |Digimon | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 01.11.18 |
-
-###  <strong>Oktober</strong>
-| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
-| ------ | ------ | ------ | ------ |
-|Naachtara | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 10.11.18 |
 
 ###  <strong>Oktober</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
