@@ -192,9 +192,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Hauptverantwortlich:</u> Broadcasts
 - <u>Nebenverantwortlich:</u> Entschuldigungen, Testen der Games-Maps, Twitter
 
-### <strong><span style="color:#E4D100">Tobiocus</span></strong>
-- <u>Rang (ingame):</u> Supporter
-
 ### <strong><span style="color:#E4D100">xTessia</span></strong>
 - <u>Rang (ingame):</u> Supporterin
 - <u>Nebenverantwortlich:</u> Entschuldigungen, Teamspeak, Twitter, Zu Unrecht gebannt Forum
