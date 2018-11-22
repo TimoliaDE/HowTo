@@ -153,10 +153,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Fragen und Antworten Forum, Anregungen & Vorschläge Forum
 
-### <strong><span style="color:#E4D100">Digimon</span></strong>
-- <u>Rang (ingame):</u> Supporter
-- <u>Hauptverantwortlich:</u> City Forum
-
 ### <strong><span style="color:#E4D100">Elegeta</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Hauptverantwortlich:</u> Supporterauswahl, Testen der Games-Maps
