@@ -3,7 +3,7 @@
 ## Welche Vorteile bieten mir die Ränge?
 
 ### VIP
-- Der Pro+ Rang bietet dieselben Features wie der reguläre [MVP-Rang](premium.md).
+- Der VIP Rang bietet dieselben Features wie der reguläre [MVP-Rang](premium.md).
 - Der Zugang zum Nick-Tool wird über das Item in der Hotbar oder den Befehl `/nick` gewährleistet.
 
 ### YouTuber-Rang
