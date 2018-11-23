@@ -197,6 +197,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Juni</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|Tollmolia | <span style="color:#007812">Creator</span> | <span style="color:#00646F">Builder</span> | 25.06.17 |
 |lyAlina | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 25.06.17 |
 |StrombergHD | <span style="color:#00F9EC">Expert</span> | <span style="color:#00646F">Builder</span> | 25.06.17 |
 |InfiniteFery | <span style="color:#00F9EC">Expert</span> | <span style="color:#00646F">Builder</span> | 25.06.17 |
