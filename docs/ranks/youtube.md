@@ -2,14 +2,14 @@
 
 ## Welche Vorteile bieten mir die Ränge?
 
-### Pro+
-- Der Pro+ Rang bietet dieselben Features wie der reguläre [Pro-Rang](premium.md).
+### VIP
+- Der Pro+ Rang bietet dieselben Features wie der reguläre [MVP-Rang](premium.md).
 - Der Zugang zum Nick-Tool wird über das Item in der Hotbar oder den Befehl `/nick` gewährleistet.
 
 ### YouTuber-Rang
 - Der YouTuber-Rang bietet dieselben Features wie der [Expert-Rang](premium.md).
 - Der Zugang zum Nick-Tool wird über das Item in der Hotbar oder den Befehl `/nick` gewährleistet.
-- YouTuber erhalten eine Kick-Value von 500. (Wie das Kick-System funktioniert, kannst du [<strong>hier</strong> nachlesen](/faq/#wie-funktioniert-das-kick-system).
+- YouTuber erhalten eine Kick-Value von 600. (Wie das Kick-System funktioniert, kannst du [<strong>hier</strong> nachlesen](/faq/#wie-funktioniert-das-kick-system).
 - In der Lobby können Spieler von YouTubern weggeschlagen werden.
 - Der Nametag wird <span style="color:#4C0B5F">lila</span> gekennzeichnet.
 - Eine eigene JumpWorld-Lobby wird für YouTuber zur Verfügung gestellt.
