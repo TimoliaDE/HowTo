@@ -232,6 +232,9 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ### <strong><span style="color:#00646F">Todbringender</span></strong>
 - <u>Rang (ingame):</u> Builder
 
+### <strong><span style="color:#00646F">Tollmolia</span></strong>
+- <u>Rang (ingame):</u> Builder
+
 ### <strong><span style="color:#00646F">Vectrail</span></strong>
 - <u>Rang (ingame):</u> Builder
 - <u>Hauptverantwortlich:</u> Bauevent, Bautresor, City-Maps, Games-Maps, Management des Bauteams
