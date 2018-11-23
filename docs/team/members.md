@@ -97,7 +97,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 ### <strong><span style="color:#007812">MCelements</span></strong>
 - <u>Rang (ingame):</u> Developer
-- <u>Hauptverantwortlich:</u> TeamSpeak
+- <u>Hauptverantwortlich:</u> TeamSpeak, City-Development
 - <u>Nebenverantwortlich:</u> Broadcasts
 
 ### <strong><span style="color:#007812">NameIsTaken</span></strong>
