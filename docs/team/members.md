@@ -16,9 +16,9 @@ Administratoren leiten das Netzwerk. Sie kümmern sich um teaminterne und techni
 
 ### <strong>Lascona</strong>
 - <u>Rang (ingame):</u> Administratorin
-- <u>Hauptverantwortlich:</u> Bauevent-Koordination, Forenorganisation, Fragen und Antworten Forum, Internes und externes Feedback,
+- <u>Hauptverantwortlich:</u> Bauevent-Koordination, Broadcasts Forenorganisation, Fragen und Antworten Forum, Internes und externes Feedback,
 Organisation und Koordination neuer, inaktiver und alter Teamler, Social Media, Teammanagement, Timolia Turnier Organisation
-- <u>Nebenverantwortlich:</u> Broadcasts, YouTuber-Ränge
+- <u>Nebenverantwortlich:</u> YouTuber-Ränge
 
 ### <strong>MCExpertDE</strong>
 - <u>Rang (ingame):</u> Administrator
@@ -54,7 +54,7 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 ### <strong><span style="color:#CF0101">ItsSarahh</span></strong>
 - <u>Rang (ingame):</u> Moderatorin
 - <u>Hauptverantwortlich:</u> Entschuldigungen, Supporterauswahl, Timolia Turnier Organisation, YouTuber-Events
-- <u>Nebenverantwortlich:</u> Map-Einsendungen, Teamspeak, Testen der Games-Maps, Twitter, YouTuber-Ränge
+- <u>Nebenverantwortlich:</u> Map-Einsendungen, Testen der Games-Maps, Twitter, YouTuber-Ränge
 
 ### <strong><span style="color:#CF0101">Metrixx7</span></strong>
 - <u>Rang (ingame):</u> Moderator
@@ -98,6 +98,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ### <strong><span style="color:#007812">MCelements</span></strong>
 - <u>Rang (ingame):</u> Developer
 - <u>Hauptverantwortlich:</u> TeamSpeak
+- <u>Nebenverantwortlich:</u> Broadcasts
 
 ### <strong><span style="color:#007812">NameIsTaken</span></strong>
 - <u>Rang (ingame):</u> Developer
@@ -105,6 +106,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 ### <strong><span style="color:#007812">physanus</span></strong>
 - <u>Rang (ingame):</u> Developer
+- <u>Nebenverantwortlich:</u> Teamspeak
 
 ### <strong><span style="color:#007812">play4me_</span></strong>
 - <u>Rang (ingame):</u> Developer
@@ -148,6 +150,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">CoveredSymmetry</span></strong>
 - <u>Rang (ingame):</u> Supporter
+- <u>Hauptverantwortlich:</u> Broadcasts
 - <u>Nebenverantwortlich:</u> Fragen und Antworten Forum, Anregungen & Vorschläge Forum
 
 ### <strong><span style="color:#E4D100">Elegeta</span></strong>
@@ -216,6 +219,7 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 ### <strong><span style="color:#00646F">eZZfery</span></strong>
 - <u>Rang (ingame):</u> Builderin
+- <u>Nebenverantwortlich:</u> Broadcasts
 
 ### <strong><span style="color:#00646F">eZZrael</span></strong>
 - <u>Rang (ingame):</u> Builder
