@@ -153,7 +153,7 @@ Der Teamspeak von Timolia ist unter ts.timolia.de zu erreichen. Er wird betreut 
 | ------ | ------ |
 |<span style="color:#007812">MCelements</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
+|<span style="color:#007812">physanus</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
@@ -174,7 +174,10 @@ Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadca
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
-
+|<span style="color:#E4D100">CoveredSymmetry</span> | Hauptverantwortlich |
+| | |
+|<span style="color:#007812">MCelements</span> | Nebenverantwortlich |
+|<span style="color:#00646F">eZZfery</span> | Nebenverantwortlich |
 
 ### **Team-Leiter**
 Im Timolia Team gibt es kleinere Teams, welche unter anderem durch diese Verantwortlichen organisiert werden.
