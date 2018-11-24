@@ -94,8 +94,9 @@ Insgesamt werden acht Runden gespielt.
 | `/invite <Spieler>` | Lädt einen Spieler in dein Turnier ein |
 
 ## Premium-Features
-- Erstelle öffentliche oder private Turniere
-- Favorisiere zwei bzw. drei Spiele
-- Werde mit `/togglerank` als normaler Spieler angezeigt
+- Erstelle öffentliche oder private Turniere.
+- Premium-Spieler erhalten bis zu drei mal mehr Pixel.
+- Favorisiere zwei bzw. drei Spiele.
+- Werde mit `/togglerank` als normaler Spieler angezeigt.
 
 Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium/) nachlesen.
