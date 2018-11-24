@@ -103,6 +103,23 @@ Anstatt `/friend` kann jeweils `/f` genutzt werden
 | `/party promote <Spieler>`      | Ernennt einen Spieler zum Moderator |
 | `/party demote <Spieler>`       | Degradiert einen Spieler zum Mitglied |
 
+### Zwei-Faktor-Authentifizierung
+
+Mit der Zwei-Faktor-Authentifizierung verhinderst du, dass Unbefugte mit deinem Account auf Timolia spielen. 
+Du wirst beim Login nach einem Code gefragt, den dein Handy automatisch alle 30 Sekunden neu generiert. 
+So können sich nur Personen verifizieren, die Zugriff auf dein Handy haben.
+Solltest du dein Handy verlieren, kannst du dich weiterhin mit Backupcodes anmelden, die du beim Einrichten von 2fa erhältst und sicher verwahren solltest.
+
+| Befehl | Funktion |
+| ------ | -------- |
+| `/2fa`                          | Zeigt dir die Hilfe für die Zwei-Faktor-Authentifizierung an |
+| `/2fa setup`                    | Richtet die Zwei-Faktor-Authentifizierung ein |
+| `/2fa disable`                  | Deaktiviert die Zwei-Faktor-Authentifizierung |
+| `/2fa buc`                      | Listet alle unbenutzten Backupcodes auf |
+| `/2fa logout`                   | Kickt dich vom Netzwerk und loggt dich aus der Zwei-Faktor-Authentifizierung aus |
+
+
+
 ## 2 - Befehle der einzelnen Modi
 
 ### 1vs1
