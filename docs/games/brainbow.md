@@ -45,7 +45,7 @@ Runde und kann den Kampf für sich entscheiden.
 Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren werden namentlich nur die ersten Ränge genannt.
 
 ## Premium-Features
-- Premium-Spieler besitzen je nach Rang bis zu vier Stimmen im Voting-System
+- Premium-Spieler besitzen je nach Rang bis zu vier Stimmen im Voting-System.
 - Premium-Spieler erhalten bis zu drei mal mehr Pixel.
 - Premium-Spieler können in der Voting-Phase Spieler aus einem vollen Team kicken.
 - Werde mit `/togglerank` als normaler Spieler angezeigt.
