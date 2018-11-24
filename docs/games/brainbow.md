@@ -45,10 +45,12 @@ Runde und kann den Kampf für sich entscheiden.
 Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren werden namentlich nur die ersten Ränge genannt.
 
 ## Premium-Features
-- <span style="color:#F99500">Pros</span> besitzen zwei, <span style="color:#00F9EC">Experts</span> drei Stimmen im Voting-System
-- <span style="color:#F99500">Pros</span>  und <span style="color:#00F9EC">Experts</span> erhalten die doppelte bzw. die dreifache Punkteanzahl.
+- Premium-Spieler besitzen je nach Rang bis zu vier Stimmen im Voting-System
+- Premium-Spieler erhalten bis zu drei mal mehr Pixel.
 - Premium-Spieler können in der Voting-Phase Spieler aus einem vollen Team kicken.
-- Werde mit `/togglerank` als normaler Spieler angezeigt
+- Werde mit `/togglerank` als normaler Spieler angezeigt.
+
+Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium/) nachlesen.
 
 ## Arenen und Maps
 Selbstgebaute Maps für diesen Modus können <a href="https://forum.timolia.de/forums/map-einsendungen.61/" target="_blank">im Forum eingesendet werden</a>. Mehr dazu erfährst du 
