@@ -3,7 +3,7 @@ Da Timolia sich ausschließlich durch die Community finanziert, sind wir für je
 Geld für einen Minecraft-Server ausgeben sollst, bekommst du als Gegenleistung einen speziellen Rang auf unserem Netzwerk!
 Die Ränge sind in unserem Shop erhältlich, diesen kannst du unter [https://www.timolia.de/shop](https://www.timolia.de/shop) erreichen.
 
-###Welche Vorteile habe ich als Premium-Spieler?
+### Welche Vorteile habe ich als Premium-Spieler?
 Diese Features stehen dir mit deinem Rang zur Verfügung:
 
 |                                        |   <span style="color:#F99500">Pro</span>  |  <span style="color:#F99500">Pro+</span>  | <span style="color:#55FF55">MVP</span>  | <span style="color:#55FF55">MVP+</span>  | <span style="color:#00F9EC">Expert</span> |
