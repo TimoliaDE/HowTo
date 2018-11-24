@@ -36,4 +36,8 @@ Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge ers
 - <strong>Kompass</strong>: Der Kompass führt dich zu deinem nächsten Gegner
 
 ## Premium-Features
-- Werde mit `/togglerank` als normaler Spieler angezeigt
+- Premium-Spieler besitzen je nach Rang bis zu vier Stimmen im Voting-System.
+- Premium-Spieler erhalten bis zu drei mal mehr Pixel.
+- Werde mit `/togglerank` als normaler Spieler angezeigt.
+
+Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium/) nachlesen.
