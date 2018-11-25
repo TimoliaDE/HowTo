@@ -8,7 +8,7 @@ Diese Features stehen dir mit deinem Rang zur Verfügung:
 <center>
 
 |                                        |   <span style="color:#F99500">Pro</span>  |  <span style="color:#F99500">Pro+</span>  | <span style="color:#55FF55">MVP</span>  | <span style="color:#55FF55">MVP+</span>  | <span style="color:#00F9EC">Expert</span> |
-| -------------------------------------- | ----------------------------------------- | ----------------------------------------- | --------------------------------------- | ---------------------------------------- | ----------------------------------------- |
+| :------------------------------------- | :---------------------------------------: | :---------------------------------------: | :-------------------------------------: | :--------------------------------------: | :---------------------------------------: |
 | Rangfarbe                              | <span style="color:#F99500">Orange</span> | <span style="color:#F99500">Orange</span> | <span style="color:#55FF55">Grün</span> | <span style="color:#55FF55">Grün</span>  | <span style="color:#00F9EC">Türkis</span> |
 | X-fach Pixel                           | 1,25                                      |  1,5                                      | 1,75                                    | 2                                        | 3                                         |
 | Zugang zur Premium Lobby               | &check;                                   | &check;                                   | &check;                                 | &check;                                  | &check;                                   | 
