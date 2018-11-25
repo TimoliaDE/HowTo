@@ -5,6 +5,7 @@ Die Ränge sind in unserem Shop erhältlich, diesen kannst du unter [https://www
 
 ### Welche Vorteile habe ich als Premium-Spieler?
 Diese Features stehen dir mit deinem Rang zur Verfügung:
+<center>
 
 |                                        |   <span style="color:#F99500">Pro</span>  |  <span style="color:#F99500">Pro+</span>  | <span style="color:#55FF55">MVP</span>  | <span style="color:#55FF55">MVP+</span>  | <span style="color:#00F9EC">Expert</span> |
 | -------------------------------------- | ----------------------------------------- | ----------------------------------------- | --------------------------------------- | ---------------------------------------- | ----------------------------------------- |
@@ -31,6 +32,7 @@ Diese Features stehen dir mit deinem Rang zur Verfügung:
 | Öffentliche Partys erstellen           | -                                         | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
 | Arcade: Turnier erstellen              | 1 Turnierpass                             | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
 
+</center>
 *Alle Infos zum Kick-System findest du [hier](/faq/).
 
 ### Die Zahlungsmöglichkeiten
