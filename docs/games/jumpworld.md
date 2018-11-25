@@ -58,4 +58,4 @@ Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium
 | `/top <ID>`                     | Zeigt die Top-Zeiten des Jump 'n' Runs mit der ID [id] an |
 | `/top <ID> -f`                  | Zeigt die wenigsten Fails des Jump 'n' Runs mit der ID [id] an |
 [Premium](/ranks/premium/) only:
-| `/skull <Name>`                 | Gibt dir einen Spielerkopf
+| `/skull [Name]`                 | Gibt dir einen Spielerkopf
