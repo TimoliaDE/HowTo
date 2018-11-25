@@ -32,11 +32,11 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/tickets`                      | Öffnet eine Übersicht über deine Tickets |
 | `/teamspeak`, `/ts`             | Zeigt die TS-IP, ermöglicht die Verifizierung und lässt dich deine Identität verwalten |
 | `/jointeam <Team-Farbe>`, `/team` | Betrete ein Team in Castles, Brainbow und Mineception |
-| <span style="color:#F99500">Pro</span> und <span style="color:#00F9EC">Expert</span> only: | |
+[Premium](/ranks/premium/) only:
 | `/togglerank`, `/tr`            | Werde in allen Spielmodi als normaler Spieler angezeigt |
 | `/ptime <day/night/midnight/sunrise/noon/afternoon/sunset/reset/hh:mm>` | Zeit für sich selbst umstellen |
 | `/pweather <sun/rain/reset>`    | Wetter für sich selbst umstellen |
-| <span style="color:#4C0B5F">YouTuber</span> und <span style="color:#F99500">Pro+</span> only: | |
+| [<span style="color:#4C0B5F">YouTuber</span> und <span style="color:#55FF55">VIP</span>](/ranks/youtube/) only: | |
 | `/forcemap`                     | Erzwinge bei einem Spiel mit Voting-System eine bestimmte Map |
 | `/startgame [Sekunden]`         | Starte ein Spiel |
 | `/abortstart`                   | Brich den Start eines Spiels ab |
@@ -75,7 +75,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 
 ### Freundesystem
 
-Anstatt `/friend` kann jeweils `/f` genutzt werden
+Anstatt `/friend` kann jeweils `/f` genutzt werden.
 
 | Befehl | Funktion |
 | ------ | -------- |
@@ -138,7 +138,7 @@ Anstatt `/friend` kann jeweils `/f` genutzt werden
 | `/liveinv <Spieler>`, `/liveinventory` | Zeigt das aktuelle Inventar eines Spielers |
 | `/rankinfo`, `/ranginfo`        | Zeigt Informationen zum aktuellen Rang |
 | `/settings`                     | Öffnet die Einstellungen |
-| <span style="color:#F99500">Pro</span> und <span style="color:#00F9EC">Expert</span> only: | |
+[Premium](/ranks/premium/) only:
 | `/hat`                          | Setzt das Item in deiner Hand als den Helm deines Kits |
 | `/create [Passwort]`, `/createtournament` | Erstellt ein Turnier (optional mit einem Passwort) |
 | `/modify`, `/modifytournament`  | Bearbeitet die Turniereinstellungen |
@@ -152,7 +152,7 @@ Anstatt `/friend` kann jeweils `/f` genutzt werden
 | `/rot`, `/rotation`             | Zeigt die Spielrotation |
 | `/last`                         | Zeigt die zuletzt gespielten Spiele |
 | `/join <Spieler>`               | Betrete ein öffentliches Turnier |
-| <span style="color:#F99500">Pro</span> und <span style="color:#00F9EC">Expert</span> only: | |
+[Premium](/ranks/premium/) only:
 | `/create`                       | Erstellt ein Turnier |
 | `/invite <Spieler>`             | Lädt einen Spieler in dein Turnier ein |
 
@@ -175,11 +175,14 @@ Anstatt `/friend` kann jeweils `/f` genutzt werden
 | `/join <Name>`                  | Betritt das Jump 'n' Run, auf dem sich [Spieler] gerade befindet |
 | `/top <ID>`                     | Zeigt die Top-Zeiten des Jump 'n' Runs mit der ID [id] an |
 | `/top <ID> -f`                  | Zeigt die wenigsten Fails des Jump 'n' Runs mit der ID [id] an |
+[Premium](/ranks/premium/) only:
+| `/skull [Name]`                 | Gibt dir einen Spielerkopf
 
 ### Castles
 | Befehl | Funktion |
 | ------ | -------- |
 | `/kill`                         | Tötet dich selbst |
+| `/jointeam <Team-Farbe>`, `/team` | Betrete ein Team |
 
 
 ## 3 - CityBuild
@@ -205,17 +208,11 @@ Anstatt `/friend` kann jeweils `/f` genutzt werden
 | `/shop`                         | Bringt dich in die Shopwelt |
 | `/ecolog`                       | Zeig einen Log über dein Geld |
 | `/worldspawn`                   | Teleportiert dich zum Spawn der aktuellen Welt |
-| <span style="color:#F99500">Pro</span> und <span style="color:#00F9EC">Expert</span> only: | |
-| `/craft`, `/workbench`          | Craftingfeld aufrufen |
-| `/hat`                          | Item in der Hand auf den Kopf setzen |
-| `/enderchest`                   | Enderchest aufrufen |
-| `/shulkerbox`, `/shulker`, `/sbox`, `/box` | Öffnet die Shulkerbox, ohne sie abstellen zu müssen |
-
 
 ### Teleportieren zu anderen Personen (Taxi / TPA)
 
 Mit dem Taxi kommst du direkt zu der gleichen Position wie dein Freund.
-Für User kostet ein Taxi 100T, für Pros 75T und für Experts 50T
+Für User kostet ein Taxi 100T.
 
 | Befehl | Funktion |
 | ------ | -------- |
