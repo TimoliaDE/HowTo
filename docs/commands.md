@@ -12,7 +12,6 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/msg`                          | Erlaubt MSGs mit Freunden, keinem oder allen |
 | `/msg <Spieler>`, `/m`          | Schreibe mit einem Spieler im Privatchat |
 | `/lookup <Spieler>`, `/lu`      | Zeigt dir LogIn-Informationen über einen Spieler |
-| `/pro`, `/expert`               | Zeigt die restliche Premium-Zeit an |
 | `/top`                          | Zeigt dir die Top 10 Spieler der letzten 30 Tage in einem Spielmodus an |
 | `/achievements`                 | Listet eine Übersicht aller Achievements auf |
 | `/vote <Zahl>`                  | Votet für eine Map in einem Spielmodus |
