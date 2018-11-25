@@ -15,7 +15,7 @@
 - Eine eigene JumpWorld-Lobby wird für YouTuber zur Verfügung gestellt.
 - YouTuber können bei Spielen mit einem Voting-System den Befehl `/forcemap` benutzen.
 
-Auch in Zukunft werden weitere tolle Features für YouTuber und Pro+ folgen.
+Auch in Zukunft werden weitere tolle Features für YouTuber und VIPs folgen.
 
 ## Welche Voraussetzungen und Bedingungen gibt es?
 Ab einer Abonnentenanzahl von ~5000 kann man auf Timolia einen Rang beantragen. Wichtig ist, dass auf deinem Kanal bereits ein paar Videos von/über Timolia vorhanden sind.
