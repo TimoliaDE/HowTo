@@ -33,7 +33,7 @@ Diese Features stehen dir mit deinem Rang zur Verfügung:
 | Arcade: Turnier erstellen              | 1 Turnierpass                             | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
 
 </center>
-*Alle Infos zum Kick-System findest du [hier](/faq/).
+*Alle Infos zum Kick-System findest du [hier](/faq/#wie-funktioniert-das-kick-system).
 
 ### Die Zahlungsmöglichkeiten
 Timolia kannst du entweder per BuyCraft (PayPal, Paysafecard, Überweisung) oder Nitrado (Paysafecard, Sofort-Überweisung, uvm.) mit einer Spende
