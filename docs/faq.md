@@ -37,10 +37,10 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 Creator sind für kreative Arbeiten, wie Texte, Bilder und Grafiken zuständig und sind kreative Köpfe des Teams.
 
 - <b><span style="color:#8B008B">YouTuber</span></b>:
-YouTuber sind Personen der Minecraft-Szene, die durch YouTube (in Einzelfällen auch Twitch) bekannt geworden sind. Für kleinere Youtuber gibt es den Rang <b><span style="color:#55FF55">VIP</span></b>. Alles zu diesen Rängen [erfährst du hier](/)
+YouTuber sind Personen der Minecraft-Szene, die durch YouTube (in Einzelfällen auch Twitch) bekannt geworden sind. Für kleinere Youtuber gibt es den Rang <b><span style="color:#55FF55">VIP</span></b>. Alles zu diesen Rängen [erfährst du hier](//ranks/youtube/)
 
 - <b>Premium-Ränge</b>:
-Spieler mit einem unserer permanenten Premium-Ränge erhalten gewisse Vorteile. Welche Vorteile dir welcher Rang bietet, [erfährst du hier](/ranks/youtube/).
+Spieler mit einem unserer permanenten Premium-Ränge erhalten gewisse Vorteile. Welche Vorteile dir welcher Rang bietet, [erfährst du hier](/ranks/premium/).
 
 **Alles rund um Bewerbungen [ist hier zu finden](/team/apply/).** Solltest du Probleme mit deinem  Premium-Rang haben, findest du [hier Hilfe](/ranks/premium/).
 
@@ -55,12 +55,12 @@ Jeder Spieler erhält beim Joinen des Netzwerkes eine individuelle "Kick-Value",
 | Rang | Kick-Value |
 | ------ | -------- |
 | User | 0 |
-| Pro | 200 |
-| Pro+ | 300 |
-| MVP | 400 |
-| MVP+ | 500 |
-| Expert | 600 |
-| Youtuber | 600 |
+| <span style="color:#F99500">Pro</span> | 200 |
+| <span style="color:#F99500">Pro+</span> | 300 |
+| <span style="color:#55FF55">MVP</span> | 400 |
+| <span style="color:#55FF55">MVP+</span> | 500 |
+| <span style="color:#00F9EC">Expert</span> | 600 |
+| <span style="color:#4C0B5F">Youtuber</span> | 600 |
 
 Wenn nun z.B. ein Expert einen vollen Server betritt, wird ein zufälliger Spieler mit der niedrigsten KV wieder in eine 
 der Games-Lobbies geschickt. Seine Kick-Value erhöht sich dabei um 1. Beim nächsten Versuch ist es also wahrscheinlicher, dass er nicht gekickt wird, da die anderen Spieler nun eine 
