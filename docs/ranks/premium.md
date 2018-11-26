@@ -18,7 +18,7 @@ Diese Features stehen dir mit deinem Rang zur Verfügung:
 | JumpWorld: Map-Slots                   | 1                                         | 2                                         | 2                                       | 2                                        | 3                                         |
 | JumpWorld Armorstands und Köpfe nutzen | -                                         | -                                         | &check;                                 | &check;                                  | &check;                                   |
 | Mapvoting: Stimmen                     | 1,5                                       | 2                                         | 2,5                                     | 3                                        | 4                                         |
-| Exklusive Pixelshop Items              | ?                                         | ?                                         | ?                                       | ?                                        | ?                                         |
+| Exklusive Pixelshop Items              | &check;                                   | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
 | Teamspeakrang                          | &check;                                   | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
 | Forenrang                              | &check;                                   | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
 | 1vs1: Kitanzahl                        | 1                                         | 2                                         | 2                                       | 3                                        | 5                                         |
@@ -31,7 +31,7 @@ Diese Features stehen dir mit deinem Rang zur Verfügung:
 | Individuelle Lobbyzeit                 | -                                         | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
 | Öffentliche Partys erstellen           | -                                         | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
 | Arcade: Turnier erstellen              | 1 Turnierpass                             | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
-
+| Spiele als Beta-Tester testen          | -                                         | &check;                                   | &check;                                 | &check;                                  | &check;                                   |                                
 </center>
 *Alle Infos zum Kick-System findest du [hier](/faq/#wie-funktioniert-das-kick-system).
 
