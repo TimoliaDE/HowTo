@@ -141,6 +141,9 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Entschuldigungen
 
+### <strong><span style="color:#E4D100">BowspamExpertDE</span></strong>
+- <u>Rang (ingame):</u> Supporter
+
 ### <strong><span style="color:#E4D100">Calavero</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
@@ -186,6 +189,15 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter
 - <u>Hauptverantwortlich:</u> Timolia Turnier Organisation
 - <u>Nebenverantwortlich:</u> TeamSpeak, Testen der Games-Maps
+
+### <strong><span style="color:#E4D100">OnlyFiinn</span></strong>
+- <u>Rang (ingame):</u> Supporter
+
+### <strong><span style="color:#E4D100">predii</span></strong>
+- <u>Rang (ingame):</u> Supporter
+
+### <strong><span style="color:#E4D100">RodspamExpertRU</span></strong>
+- <u>Rang (ingame):</u> Supporter
 
 ### <strong><span style="color:#E4D100">xTessia</span></strong>
 - <u>Rang (ingame):</u> Supporterin
