@@ -2,6 +2,14 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 
 # 2018
 
+###  <strong>Dezember</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+|BowspamExpertDE | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | 02.12.18 |
+|RodspamExpertRU | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | 02.12.18 |
+|predii | <span style="color:#848484">Spieler</span> | <span style="color:#E4D100">Supporter</span> | 02.12.18 |
+|OnlyFiinn | <span style="color:#848484">Spieler</span> | <span style="color:#E4D100">Supporter</span> | 02.12.18 |
+
 ###  <strong>November</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
