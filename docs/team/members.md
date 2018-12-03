@@ -141,6 +141,9 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Entschuldigungen
 
+### <strong><span style="color:#E4D100">BowspamExpertDE</span></strong>
+- <u>Rang (ingame):</u> Supporter
+
 ### <strong><span style="color:#E4D100">Calavero</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
@@ -187,6 +190,15 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Hauptverantwortlich:</u> Timolia Turnier Organisation
 - <u>Nebenverantwortlich:</u> TeamSpeak, Testen der Games-Maps
 
+### <strong><span style="color:#E4D100">OnlyFiinn</span></strong>
+- <u>Rang (ingame):</u> Supporter
+
+### <strong><span style="color:#E4D100">predii</span></strong>
+- <u>Rang (ingame):</u> Supporter
+
+### <strong><span style="color:#E4D100">RodspamExpertRU</span></strong>
+- <u>Rang (ingame):</u> Supporter
+
 ### <strong><span style="color:#E4D100">xTessia</span></strong>
 - <u>Rang (ingame):</u> Supporterin
 - <u>Nebenverantwortlich:</u> Entschuldigungen, Teamspeak, Twitter, Zu Unrecht gebannt Forum
@@ -217,6 +229,9 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ### <strong><span style="color:#00646F">DiggerDieter</span></strong>
 - <u>Rang (ingame):</u> Builder
 
+### <strong><span style="color:#00646F">DragonfighterBen</span></strong>
+- <u>Rang (ingame):</u> Builder
+
 ### <strong><span style="color:#00646F">eZZfery</span></strong>
 - <u>Rang (ingame):</u> Builderin
 - <u>Nebenverantwortlich:</u> Broadcasts
@@ -228,6 +243,9 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span style="color:#00646F">FrozenPete</span></strong>
+- <u>Rang (ingame):</u> Builder
+
+### <strong><span style="color:#00646F">Hiics</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span style="color:#00646F">Memoryos</span></strong>

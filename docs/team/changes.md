@@ -2,9 +2,19 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 
 # 2018
 
+###  <strong>Dezember</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+|BowspamExpertDE | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | 02.12.18 |
+|RodspamExpertRU | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | 02.12.18 |
+|predii | <span style="color:#848484">Spieler</span> | <span style="color:#E4D100">Supporter</span> | 02.12.18 |
+|OnlyFiinn | <span style="color:#848484">Spieler</span> | <span style="color:#E4D100">Supporter</span> | 02.12.18 |
+
 ###  <strong>November</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|DragonfighterBen | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 27.11.18  
+|Hiics | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 27.11.18  
 |logito111 | <span style="color:#007812">Developer</span> | <span style="color:#F99500">Native</span> | 12.11.18  |
 |Yeiel2 | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 11.11.18  |
 |Naachtara | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 10.11.18 |
