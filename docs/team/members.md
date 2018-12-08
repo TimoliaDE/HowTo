@@ -199,6 +199,12 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">RodspamExpertRU</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
+### <strong><span style="color:#E4D100">SpaceJumper</span></strong>
+- <u>Rang (ingame):</u> Supporter
+
+### <strong><span style="color:#E4D100">Tim9875432</span></strong>
+- <u>Rang (ingame):</u> Supporter
+
 ### <strong><span style="color:#E4D100">xTessia</span></strong>
 - <u>Rang (ingame):</u> Supporterin
 - <u>Nebenverantwortlich:</u> Entschuldigungen, Teamspeak, Twitter, Zu Unrecht gebannt Forum
@@ -263,9 +269,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Hauptverantwortlich:</u> Bauevent, Bautresor, City-Maps, Games-Maps, Management des Bauteams
 
 ### <strong><span style="color:#00646F">xnulix</span></strong>
-- <u>Rang (ingame):</u> Builder
-
-### <strong><span style="color:#00646F">Yeiel2</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 

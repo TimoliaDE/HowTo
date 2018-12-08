@@ -5,6 +5,9 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Dezember</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|Tim9875432 | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | 03.12.18 |
+|SpaceJumper | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | 03.12.18 |
+|Yeiel2 | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | 03.12.18  |
 |BowspamExpertDE | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | 02.12.18 |
 |RodspamExpertRU | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | 02.12.18 |
 |predii | <span style="color:#848484">Spieler</span> | <span style="color:#E4D100">Supporter</span> | 02.12.18 |
