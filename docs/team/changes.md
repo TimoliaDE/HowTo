@@ -5,10 +5,10 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Dezember</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
-|Sterax | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | 08.12.18 |
-|Seelentraum | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | 08.12.18 |
-|InfiniteNiki | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | 08.12.18  |
-|einMole | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | 08.12.18 |
+|2h9m | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | 09.12.18 |
+|Sterax | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | 09.12.18 |
+|InfiniteNiki | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | 09.12.18  |
+|einMole | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | 09.12.18 |
 |Tim9875432 | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | 03.12.18 |
 |SpaceJumper | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | 03.12.18 |
 |Yeiel2 | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | 03.12.18  |
