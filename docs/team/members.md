@@ -205,9 +205,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">RodspamExpertRU</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
-### <strong><span style="color:#E4D100">Seelentraum</span></strong>
-- <u>Rang (ingame):</u> Supporter
-
 ### <strong><span style="color:#E4D100">SpaceJumper</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
@@ -233,9 +230,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span style="color:#00646F">12Build</span></strong>
-- <u>Rang (ingame):</u> Builder
-
-### <strong><span style="color:#00646F">2h9m</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span style="color:#00646F">arved</span></strong>
