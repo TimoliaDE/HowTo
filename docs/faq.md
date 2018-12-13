@@ -55,10 +55,10 @@ Jeder Spieler erhält beim Joinen des Netzwerkes eine individuelle "Kick-Value",
 | Rang | Kick-Value |
 | ------ | -------- |
 | User | 0 |
-| <span style="color:#F99500">Pro</span> | 400 |
-| <span style="color:#F99500">Pro+</span> | 500 |
-| <span style="color:#55FF55">MVP</span> | 600 |
-| <span style="color:#55FF55">MVP+</span> | 700 |
+| <span style="color:#F99500">Pro</span> | 300 |
+| <span style="color:#F99500">Pro+</span> | 400 |
+| <span style="color:#55FF55">MVP</span> | 500 |
+| <span style="color:#55FF55">MVP+</span> | 600 |
 | <span style="color:#00F9EC">Expert</span> | 800 |
 | <span style="color:#4C0B5F">Youtuber</span> | 900 |
 
