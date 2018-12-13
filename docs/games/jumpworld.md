@@ -35,6 +35,7 @@ Um das Jump and Run des Tages von Tag X zu werden:
 - Premium-Spieler erhalten bis zu drei mal mehr Pixel.
 - Je nach Rang bis zu 3 Bauslots.
 - <span style="color:#55FF55">MVP</span> oder höher: Armorstands und Spielerköpfe beim Bauen von Jump and Runs.
+- Je nach Rang lassen sich bis zu 128 Entities platzieren.
 - Werde mit `/togglerank` als normaler Spieler angezeigt.
 
 Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium/) nachlesen.
