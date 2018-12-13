@@ -35,10 +35,6 @@ Organisation und Koordination neuer, inaktiver und alter Teamler, Social Media, 
 - <u>Hauptverantwortlich:</u> Anti-Cheat, Timolia-Plugins
 - <u>Nebenverantwortlich:</u> Feedback Forum, Fragen und Antworten Forum
 
-### <strong>xiantiel</strong>
-- <u>Rang (ingame):</u> Administrator
-- <u>Hauptverantwortlich:</u> Buycraft, Hardware, Management, Nitrado, Root-Server
-
 ## Moderatoren
 
 Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen so für ein reibungsloses Spielerlebnis in alle Bereichen. Außerdem dienen sie als erste Ansprechpartner für Supporter.
@@ -156,6 +152,9 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Hauptverantwortlich:</u> Broadcasts
 - <u>Nebenverantwortlich:</u> Fragen und Antworten Forum, Anregungen & Vorschläge Forum
 
+### <strong><span style="color:#E4D100">einMole</span></strong>
+- <u>Rang (ingame):</u> Supporter
+
 ### <strong><span style="color:#E4D100">Elegeta</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Hauptverantwortlich:</u> Supporterauswahl, Testen der Games-Maps
@@ -175,6 +174,9 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">FlorianFida</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Testen der Games-Maps
+
+### <strong><span style="color:#E4D100">InfiniteNiki</span></strong>
+- <u>Rang (ingame):</u> Supporter
 
 ### <strong><span style="color:#E4D100">Julian_999999999</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -202,6 +204,9 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">SpaceJumper</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
+### <strong><span style="color:#E4D100">Sterax</span></strong>
+- <u>Rang (ingame):</u> Supporter
+
 ### <strong><span style="color:#E4D100">Tim9875432</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
@@ -221,9 +226,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span style="color:#00646F">12Build</span></strong>
-- <u>Rang (ingame):</u> Builder
-
-### <strong><span style="color:#00646F">2h9m</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span style="color:#00646F">arved</span></strong>
