@@ -35,10 +35,6 @@ Organisation und Koordination neuer, inaktiver und alter Teamler, Social Media, 
 - <u>Hauptverantwortlich:</u> Anti-Cheat, Timolia-Plugins
 - <u>Nebenverantwortlich:</u> Feedback Forum, Fragen und Antworten Forum
 
-### <strong>xiantiel</strong>
-- <u>Rang (ingame):</u> Administrator
-- <u>Hauptverantwortlich:</u> Buycraft, Hardware, Management, Nitrado, Root-Server
-
 ## Moderatoren
 
 Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen so für ein reibungsloses Spielerlebnis in alle Bereichen. Außerdem dienen sie als erste Ansprechpartner für Supporter.
