@@ -1,4 +1,4 @@
-# YouTuber und Pro+
+# YouTuber und VIP
 
 ## Welche Vorteile bieten mir die Ränge?
 
