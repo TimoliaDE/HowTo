@@ -55,12 +55,12 @@ Jeder Spieler erhält beim Joinen des Netzwerkes eine individuelle "Kick-Value",
 | Rang | Kick-Value |
 | ------ | -------- |
 | User | 0 |
-| <span style="color:#F99500">Pro</span> | 200 |
-| <span style="color:#F99500">Pro+</span> | 300 |
-| <span style="color:#55FF55">MVP</span> | 400 |
-| <span style="color:#55FF55">MVP+</span> | 500 |
-| <span style="color:#00F9EC">Expert</span> | 600 |
-| <span style="color:#4C0B5F">Youtuber</span> | 600 |
+| <span style="color:#F99500">Pro</span> | 400 |
+| <span style="color:#F99500">Pro+</span> | 500 |
+| <span style="color:#55FF55">MVP</span> | 600 |
+| <span style="color:#55FF55">MVP+</span> | 700 |
+| <span style="color:#00F9EC">Expert</span> | 800 |
+| <span style="color:#4C0B5F">Youtuber</span> | 900 |
 
 Wenn nun z.B. ein Expert einen vollen Server betritt, wird ein zufälliger Spieler mit der niedrigsten KV wieder in eine 
 der Games-Lobbies geschickt. Seine Kick-Value erhöht sich dabei um 1. Beim nächsten Versuch ist es also wahrscheinlicher, dass er nicht gekickt wird, da die anderen Spieler nun eine 
