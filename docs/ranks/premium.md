@@ -5,7 +5,6 @@ Die Ränge sind in unserem Shop erhältlich, diesen kannst du unter [https://www
 
 ### Welche Vorteile habe ich als Premium-Spieler?
 Diese Features stehen dir mit deinem Rang zur Verfügung:
-<center>
 
 |                                        |   <span style="color:#F99500">Pro</span>  |  <span style="color:#F99500">Pro+</span>  | <span style="color:#55FF55">MVP</span>  | <span style="color:#55FF55">MVP+</span>  | <span style="color:#00F9EC">Expert</span> |
 | :------------------------------------- | :---------------------------------------: | :---------------------------------------: | :-------------------------------------: | :--------------------------------------: | :---------------------------------------: |
@@ -37,7 +36,6 @@ Diese Features stehen dir mit deinem Rang zur Verfügung:
 | Arcade: Lieblingsspiele auswählen      | 1                                         | 2                                         | 2                                       | 2                                        | 3                                         |
 | Exklusive Pixelshop Items              | 27                                        | 31                                        | 48                                      | 54                                       | 64                                        |
 
-</center>
 *Alle Infos zum Kick-System findest du [hier](/faq/#wie-funktioniert-das-kick-system).
 
 ### Die Zahlungsmöglichkeiten
