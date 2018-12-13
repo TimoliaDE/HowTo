@@ -35,6 +35,15 @@ in seiner eigenen Burg.
 Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren werden namentlich nur die ersten Ränge genannt.
 
 ## Premium-Features
-- <span style="color:#F99500">Pros</span> besitzen zwei, <span style="color:#00F9EC">Experts</span> drei Stimmen im Voting-System
-- Werde mit `/togglerank` als normaler Spieler angezeigt
+- Premium-Spieler besitzen je nach Rang bis zu vier Stimmen im Voting-System.
+- Premium-Spieler erhalten bis zu drei mal mehr Pixel.
+- Premium-Spieler können in der Voting-Phase Spieler aus einem vollen Team kicken.
+- Werde mit `/togglerank` als normaler Spieler angezeigt.
 
+Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium/) nachlesen.
+
+## Die Befehle
+| Befehl | Funktion |
+| ------ | -------- |
+| `/kill`                         | Tötet dich selbst |
+| `/jointeam <Team-Farbe>`, `/team` | Betrete ein Team |

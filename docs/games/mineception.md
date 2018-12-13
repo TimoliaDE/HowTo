@@ -46,5 +46,9 @@ Wie viel du für diesen Chip bezahlen musst, hängt von der Zahl deiner Mitspiel
 - <strong>Blitzstab</strong>: Der Blitzstab erzeugt einen schmalen Blitz aus Glasscheiben bis zur nächsten anvisierten Insel. Sei vorsichtig, er ist schmal, lückenhaft und genauso schnell wieder verschwunden, wie er erschienen ist!
 
 ## Premium-Features
-- <span style="color:#F99500">Pros</span> besitzen zwei, <span style="color:#00F9EC">Experts</span> drei Stimmen im Voting-System
-- Werde mit `/togglerank` als normaler Spieler angezeigt
+- Premium-Spieler besitzen je nach Rang bis zu vier Stimmen im Voting-System.
+- Premium-Spieler erhalten bis zu drei mal mehr Pixel.
+- Premium-Spieler können in der Voting-Phase Spieler aus einem vollen Team kicken.
+- Werde mit `/togglerank` als normaler Spieler angezeigt.
+
+Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium/) nachlesen.

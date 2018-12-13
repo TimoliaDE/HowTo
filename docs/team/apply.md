@@ -37,6 +37,6 @@ deiner Arbeiten zukommen lässt. Je nachdem, für welchen kreativen Bereich du d
 und Bildbearbeitung, wenn du im bildnerischen bzw. gestalterischen Bereich tätig sein willst; Grundkenntnisse in Videoproduktion, Schnitt und sonstiger
 Postproduktion für den Schwerpunkt der (YouTube)Videoproduktion; Kreativität; Sprachliche Fähigkeiten; Kenntnis über Design und kreativen Aufbau Timolias.
 
-### Expert
-Expert ist der permanente Premium-Rang Timolias. Für diesen kann man sich nicht bewerben, als Dankeschön erhält jeder Spieler den Rang, 
-wenn dieser einen Betrag von 99,95 Euro an Timolia spendet. [Mehr dazu hier](/ranks/premium/)
+### Premium-Ränge
+Timolia hat verschiedene permanente Premium-Ränge. Für diese kann man sich nicht bewerben, als Dankeschön erhält jeder Spieler einen Rang, 
+wenn dieser einen gewissen Betrag an Timolia spendet. [Mehr dazu hier](/ranks/premium/)

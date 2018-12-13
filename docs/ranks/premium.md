@@ -3,40 +3,42 @@ Da Timolia sich ausschließlich durch die Community finanziert, sind wir für je
 Geld für einen Minecraft-Server ausgeben sollst, bekommst du als Gegenleistung einen speziellen Rang auf unserem Netzwerk!
 Die Ränge sind in unserem Shop erhältlich, diesen kannst du unter [https://www.timolia.de/shop](https://www.timolia.de/shop) erreichen.
 
-###Welche Vorteile habe ich als Expert / Pro?
+### Welche Vorteile habe ich als Premium-Spieler?
 Diese Features stehen dir mit deinem Rang zur Verfügung:
+<center>
 
-- Zugang zur <strong>Premium Lobby</strong>
-- farbiger Name (<span style="color:#F99500">Pro</span> und <span style="color:#00F9EC">Expert</span>)
-- Betreten von vollen Lobbies 
-- <strong>Mehr Partyteilnehmer</strong> und öffentliche Parties
-- <strong>Doppelte Pixel</strong> bei <span style="color:#F99500">Pro</span>, <strong>dreifache Pixel</strong> bei <span style="color:#00F9EC">Expert</span>
-- <span style="color:#F99500">Pro</span>- bzw. <span style="color:#00F9EC">Expert</span>-Items im Pixelshop
-- zwei bzw. drei <strong>Slots in JumpWorld</strong>
-- Armorstands und Userköpfe in JumpWorld platzieren
-- <strong>Turniere</strong> in Arcade und 1vs1
-- größere Teams und <strong>Teamfarben</strong> in 1vs1
-- drei bzw. fünf Kits in 1vs1
-- zwei bzw. drei <strong>Stimmen beim Map-Voting-System</strong>
-- teste Spiele als Beta-Tester
-- Rang im TeamSpeak-Server
-- `/pro` und `/expert` zeigt die Premium-Restzeit an
-- zwei bzw. drei <strong>Map-Profile in 1vs1</strong>
-- setzte so gut wie jedes Item in einem 1vs1-Kit auf deinen Kopf (`/hat`)
-- mehrere Homes
-- Benutzung von `/ptime [day|night|midnight|sunrise|noon|afternoon|sunset|hh:mm|reset]` und `/pweather [sun|rain|reset]`
+|                                        |   <span style="color:#F99500">Pro</span>  |  <span style="color:#F99500">Pro+</span>  | <span style="color:#55FF55">MVP</span>  | <span style="color:#55FF55">MVP+</span>  | <span style="color:#00F9EC">Expert</span> |
+| :------------------------------------- | :---------------------------------------: | :---------------------------------------: | :-------------------------------------: | :--------------------------------------: | :---------------------------------------: |
+| Dauer                                  | LIFETIME                                  | LIFETIME                                  | LIFETIME                                | LIFETIME                                 | LIFETIME                                  |
+| Rangfarbe                              | &check;                                   | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
+| Volle Server betreten*                 | &check;                                   | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
+| Zugang zur Premium Lobby               | &check;                                   | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
+| Teamspeakrang                          | &check;                                   | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
+| Forenrang                              | &check;                                   | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
+| Arcade: Turnier erstellen              | 1 Turnierpass                             | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
+| 1vs1: Turniere starten                 | 1 Turnierpass                             | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
+| 1vs1: Teamfarbe ändern                 | -                                         | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
+| 1vs1: Items als Köpfe                  | -                                         | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
+| Größere Partys erstellen               | -                                         | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
+| Individuelle Lobbyzeit                 | -                                         | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
+| Betatests                              | -                                         | -                                         | &check;                                 | &check;                                  | &check;                                   |
+| JumpWorld Armorstands und Köpfe nutzen | -                                         | -                                         | &check;                                 | &check;                                  | &check;                                   |
+| 1vs1: serverweite Turniere erstellen   | -                                         | -                                         | -                                       | &check;                                  | &check;                                   |
+| Öffentliche Partys erstellen           | -                                         | -                                         | -                                       | &check;                                  | &check;                                   |
+| X-fach Pixel                           | 1                                         | 1,5                                       | 2                                       | 2,5                                      | 3                                         |
+| Gratis Pixelbooster                    | 1                                         | 2                                         | 3                                       | 5                                        | 10                                        | 
+| Mapvoting: Stimmen                     | 1,5                                       | 2                                         | 2,5                                     | 3                                        | 4                                         |
+| 1vs1: Kitanzahl                        | 1                                         | 2                                         | 3                                       | 4                                        | 5                                         |
+| 1vs1: Map-Slots                        | 1                                         | 2                                         | 3                                       | 4                                        | 5                                         |
+| 1vs1: maximale Teamgröße               | 3                                         | 4                                         | 5                                       | 6                                        | &infin;                                   |
+| 1vs1: Ranked Matches pro Tag           | 100                                       | 150                                       | 200                                     | 250                                      | &infin;                                   |
+| JumpWorld: Map-Slots                   | 1                                         | 2                                         | 2                                       | 2                                        | 3                                         |
+| JumpWorld: Entities platzieren         | 32                                        | 48                                        | 64                                      | 96                                       | 128                                       |
+| Arcade: Lieblingsspiele auswählen      | 1                                         | 2                                         | 2                                       | 2                                        | 3                                         |
+| Exklusive Pixelshop Items              | 27                                        | 31                                        | 48                                      | 54                                       | 64                                        |
 
-Vorteile auf unseren CityBuild Servern:
-
-- auf den vollen CityBuild joinen
-- farbiger Name (<span style="color:#F99500">Pro</span> und <span style="color:#00F9EC">Expert</span>)
-- mehrere Homes
-- Benutzung von `/ptime [day|night|midnight|sunrise|noon|afternoon|sunset|hh:mm|reset]` und `/pweather [sun|rain|reset]`
-- erhalte ein 50x50 Grundstück in Upperhills für 2.500 Timolions statt 250.000 Timolions
-- mobile Werkbank (`/craft`) und Enderchest (`/enderchest`)
-- öffne eine Shulkerbox ohne sie zu setzen (`/shulker`)
-- setze so gut wie jedes Item auf deinen Kopf (`/hat`)
-- Rezepte für Items (`/rezepte`)
+</center>
+*Alle Infos zum Kick-System findest du [hier](/faq/#wie-funktioniert-das-kick-system).
 
 ### Die Zahlungsmöglichkeiten
 Timolia kannst du entweder per BuyCraft (PayPal, Paysafecard, Überweisung) oder Nitrado (Paysafecard, Sofort-Überweisung, uvm.) mit einer Spende

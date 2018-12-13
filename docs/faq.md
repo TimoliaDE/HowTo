@@ -37,14 +37,10 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 Creator sind für kreative Arbeiten, wie Texte, Bilder und Grafiken zuständig und sind kreative Köpfe des Teams.
 
 - <b><span style="color:#8B008B">YouTuber</span></b>:
-YouTuber sind Personen der Minecraft-Szene, die durch YouTube (in Einzelfällen auch Twitch) bekannt geworden sind.
+YouTuber sind Personen der Minecraft-Szene, die durch YouTube (in Einzelfällen auch Twitch) bekannt geworden sind. Für kleinere Youtuber gibt es den Rang <b><span style="color:#55FF55">VIP</span></b>. Alles zu diesen Rängen [erfährst du hier](//ranks/youtube/)
 
-- <b><span style="color:#00F9EC">Expert</span></b>:
-Spieler mit diesem Rang besitzen den permanenten Premium-Rang Timolias. Welche Vorteile dir dieser Rang bietet, [erfährst du hier](/ranks/premium/).
-
-- <b><span style="color:#F99500">Pro</span></b>:
-Spieler mit diesem Rang besitzen den zeitbegrenzten Premium-Rang Timolias. Dieser ist für eine Dauer von einem, drei und zwölf Monaten als Gegenleistung für Spenden erhältlich. 
-Welche Vorteile dir dieser Rang bietet, [erfährst du hier](/ranks/premium/).
+- <b>Premium-Ränge</b>:
+Spieler mit einem unserer permanenten Premium-Ränge erhalten gewisse Vorteile. Welche Vorteile dir welcher Rang bietet, [erfährst du hier](/ranks/premium/).
 
 **Alles rund um Bewerbungen [ist hier zu finden](/team/apply/).** Solltest du Probleme mit deinem  Premium-Rang haben, findest du [hier Hilfe](/ranks/premium/).
 
@@ -54,8 +50,19 @@ Auf der Social Media Plattform [Twitter](https://twitter.com/TimoliaTeam) suppor
 
 ### Wie funktioniert das Kick-System?
 Wir besitzen ein recht komplexes und einzigartiges Kicksystem, um sowohl Premium- als auch normalen Spielern ein tolles Spielerlebnis ohne ewige Wartezeiten zu ermöglichen. 
-Jeder Spieler erhält beim Joinen des Netzwerkes eine individuelle "Kick-Value", basierend auf dem Ingame-Rang. Normale User haben eine Kick-Value von 100, Pros haben eine KV von 300, 
-Experts eine von 400 und YouTuber besitzen eine Kick-Value von 500. Wenn nun z.B. ein Pro einen vollen Server betritt, wird ein zufälliger Spieler mit der niedrigsten KV wieder in eine 
+Jeder Spieler erhält beim Joinen des Netzwerkes eine individuelle "Kick-Value", basierend auf dem Ingame-Rang. Umso höher der Rang, desto höher die "Kick-Value".
+
+| Rang | Kick-Value |
+| ------ | -------- |
+| User | 0 |
+| <span style="color:#F99500">Pro</span> | 300 |
+| <span style="color:#F99500">Pro+</span> | 400 |
+| <span style="color:#55FF55">MVP</span> | 500 |
+| <span style="color:#55FF55">MVP+</span> | 600 |
+| <span style="color:#00F9EC">Expert</span> | 800 |
+| <span style="color:#4C0B5F">Youtuber</span> | 900 |
+
+Wenn nun z.B. ein Expert einen vollen Server betritt, wird ein zufälliger Spieler mit der niedrigsten KV wieder in eine 
 der Games-Lobbies geschickt. Seine Kick-Value erhöht sich dabei um 1. Beim nächsten Versuch ist es also wahrscheinlicher, dass er nicht gekickt wird, da die anderen Spieler nun eine 
 niedrigere Kick-Value haben. Sobald ein Spiel startet, wird jedem Spieler wieder seine Standard-Kick-Value zugewiesen.
 

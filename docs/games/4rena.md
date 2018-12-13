@@ -18,8 +18,11 @@ Equipment dir zur Verfügung steht, bedenke aber: Die Items können nur einmalig
 - Gewinnt ein Kämpfer insgesamt fünf Runden, hat er das Spiel für sich entschieden.
 
 ## Premium-Features
-- <span style="color:#F99500">Pros</span> besitzen zwei, <span style="color:#00F9EC">Experts</span> drei Stimmen im Voting-System
-- Werde mit `/togglerank` als normaler Spieler angezeigt
+- Premium-Spieler besitzen ja nach Rang bis zu vier Stimmen im Voting-System.
+- Premium-Spieler erhalten bis zu drei mal mehr Pixel.
+- Werde mit `/togglerank` als normaler Spieler angezeigt.
+
+Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium/) nachlesen.
 
 ## Die Ränge in 4rena
 

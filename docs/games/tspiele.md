@@ -29,4 +29,7 @@ Willkommen bei den Timolianischen Spielen! Hier kannst du deine PvP-Skills im Ka
 Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren werden namentlich nur die ersten Ränge genannt. 
 
 ## Premium-Features
-- Werde mit `/togglerank` als normaler Spieler angezeigt
+- Premium-Spieler erhalten bis zu drei mal mehr Pixel.
+- Werde mit `/togglerank` als normaler Spieler angezeigt.
+
+Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium/) nachlesen.

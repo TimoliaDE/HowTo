@@ -32,9 +32,12 @@ Um das Jump and Run des Tages von Tag X zu werden:
 - Im Baumenü kannst du deinem Parcour einen Namen geben.
 
 ## Premium-Features
-- Zwei Bauslots für <span style="color:#F99500">Pros</span>, drei Bauslots für <span style="color:#00F9EC">Experts</span>
-- Armorstands und Spielerköpfe beim Bauen von Jump and Runs
-- Werde mit `/togglerank` als normaler Spieler angezeigt
+- Premium-Spieler erhalten bis zu drei mal mehr Pixel.
+- Je nach Rang bis zu 3 Bauslots.
+- <span style="color:#55FF55">MVP</span> oder höher: Armorstands und Spielerköpfe beim Bauen von Jump and Runs.
+- Werde mit `/togglerank` als normaler Spieler angezeigt.
+
+Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium/) nachlesen.
 
 ## Befehle
 | Befehl | Funktion |
@@ -54,3 +57,5 @@ Um das Jump and Run des Tages von Tag X zu werden:
 | `/join <Name>`                  | Betritt das Jump 'n' Run, auf dem sich [Spieler] gerade befindet |
 | `/top <ID>`                     | Zeigt die Top-Zeiten des Jump 'n' Runs mit der ID [id] an |
 | `/top <ID> -f`                  | Zeigt die wenigsten Fails des Jump 'n' Runs mit der ID [id] an |
+[Premium](/ranks/premium/) only:
+| `/skull [Name]`                 | Gibt dir einen Spielerkopf
