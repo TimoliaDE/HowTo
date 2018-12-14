@@ -31,7 +31,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/tickets`                      | Öffnet eine Übersicht über deine Tickets |
 | `/teamspeak`, `/ts`             | Zeigt die TS-IP, ermöglicht die Verifizierung und lässt dich deine Identität verwalten |
 | `/jointeam <Team-Farbe>`, `/team` | Betrete ein Team in Castles, Brainbow und Mineception |
-[Premium](/ranks/premium/) only:
+**[Premium](/ranks/premium/) only**:
 | `/togglerank`, `/tr`            | Werde in allen Spielmodi als normaler Spieler angezeigt |
 | `/ptime <day/night/midnight/sunrise/noon/afternoon/sunset/reset/hh:mm>` | Zeit für sich selbst umstellen |
 | `/pweather <sun/rain/reset>`    | Wetter für sich selbst umstellen |
@@ -154,7 +154,7 @@ Solltest du dein Handy verlieren, kannst du dich weiterhin mit Backupcodes anmel
 | `/liveinv <Spieler>`, `/liveinventory` | Zeigt das aktuelle Inventar eines Spielers |
 | `/rankinfo`, `/ranginfo`        | Zeigt Informationen zum aktuellen Rang |
 | `/settings`                     | Öffnet die Einstellungen |
-[Premium](/ranks/premium/) only:
+**[Premium](/ranks/premium/) only**:
 | `/hat`                          | Setzt das Item in deiner Hand als den Helm deines Kits |
 | `/create [Passwort]`, `/createtournament` | Erstellt ein Turnier (optional mit einem Passwort) |
 | `/modify`, `/modifytournament`  | Bearbeitet die Turniereinstellungen |
@@ -168,7 +168,7 @@ Solltest du dein Handy verlieren, kannst du dich weiterhin mit Backupcodes anmel
 | `/rot`, `/rotation`             | Zeigt die Spielrotation |
 | `/last`                         | Zeigt die zuletzt gespielten Spiele |
 | `/join <Spieler>`               | Betrete ein öffentliches Turnier |
-[Premium](/ranks/premium/) only:
+**[Premium](/ranks/premium/) only**:
 | `/create`                       | Erstellt ein Turnier |
 | `/invite <Spieler>`             | Lädt einen Spieler in dein Turnier ein |
 
@@ -191,7 +191,7 @@ Solltest du dein Handy verlieren, kannst du dich weiterhin mit Backupcodes anmel
 | `/join <Name>`                  | Betritt das Jump 'n' Run, auf dem sich [Spieler] gerade befindet |
 | `/top <ID>`                     | Zeigt die Top-Zeiten des Jump 'n' Runs mit der ID [id] an |
 | `/top <ID> -f`                  | Zeigt die wenigsten Fails des Jump 'n' Runs mit der ID [id] an |
-[Premium](/ranks/premium/) only:
+**[Premium](/ranks/premium/) only**:
 | `/skull [Name]`                 | Gibt dir einen Spielerkopf
 
 ### Castles

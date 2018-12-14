@@ -9,7 +9,7 @@
 ### YouTuber-Rang
 - Der YouTuber-Rang bietet dieselben Features wie der [Expert-Rang](premium.md).
 - Der Zugang zum Nick-Tool wird über das Item in der Hotbar oder den Befehl `/nick` gewährleistet.
-- YouTuber erhalten eine Kick-Value von 600. (Wie das Kick-System funktioniert, kannst du [<strong>hier</strong> nachlesen](/faq/#wie-funktioniert-das-kick-system).
+- YouTuber erhalten eine Kick-Value von 900. (Wie das Kick-System funktioniert, kannst du [<strong>hier</strong> nachlesen](/faq/#wie-funktioniert-das-kick-system).
 - In der Lobby können Spieler von YouTubern weggeschlagen werden.
 - Der Nametag wird <span style="color:#4C0B5F">lila</span> gekennzeichnet.
 - Eine eigene JumpWorld-Lobby wird für YouTuber zur Verfügung gestellt.

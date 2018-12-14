@@ -5,7 +5,6 @@ Die Ränge sind in unserem Shop erhältlich, diesen kannst du unter [https://www
 
 ### Welche Vorteile habe ich als Premium-Spieler?
 Diese Features stehen dir mit deinem Rang zur Verfügung:
-<center>
 
 |                                        |   <span style="color:#F99500">Pro</span>  |  <span style="color:#F99500">Pro+</span>  | <span style="color:#55FF55">MVP</span>  | <span style="color:#55FF55">MVP+</span>  | <span style="color:#00F9EC">Expert</span> |
 | :------------------------------------- | :---------------------------------------: | :---------------------------------------: | :-------------------------------------: | :--------------------------------------: | :---------------------------------------: |
@@ -15,8 +14,8 @@ Diese Features stehen dir mit deinem Rang zur Verfügung:
 | Zugang zur Premium Lobby               | &check;                                   | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
 | Teamspeakrang                          | &check;                                   | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
 | Forenrang                              | &check;                                   | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
-| Arcade: Turnier erstellen              | 1 Turnierpass                             | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
-| 1vs1: Turniere starten                 | 1 Turnierpass                             | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
+| Arcade: Turnier erstellen              | 3 Turnierpässe                             | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
+| 1vs1: Turniere starten                 | 3 Turnierpässe                            | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
 | 1vs1: Teamfarbe ändern                 | -                                         | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
 | 1vs1: Items als Köpfe                  | -                                         | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
 | Größere Partys erstellen               | -                                         | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
@@ -37,8 +36,16 @@ Diese Features stehen dir mit deinem Rang zur Verfügung:
 | Arcade: Lieblingsspiele auswählen      | 1                                         | 2                                         | 2                                       | 2                                        | 3                                         |
 | Exklusive Pixelshop Items              | 27                                        | 31                                        | 48                                      | 54                                       | 64                                        |
 
-</center>
 *Alle Infos zum Kick-System findest du [hier](/faq/#wie-funktioniert-das-kick-system).
+
+### Gutscheine und Pixelbooster
+Neben den Premium-Rängen kannst du in unserem Shop auch [Gutscheine](https://shop.timolia.de/#Gifts) und [Pixelbooster](https://shop.timolia.de/#Pixel) erhalten.    
+
+Mit unseren **Gutscheinen** können alle Ränge und Pixelbooster im Shop erworben werden. Sie sind außerdem frei mit anderen Gutscheinen und Zahlungsarten kombinierbar und können auch über mehrere Zahlungsvorgänge hinweg in unserem Buycraft System verwendet werden, sollten sie nicht in der ersten Zahlung vollständig verwendet werden.
+Die gekauften Gutscheine werden von uns per Email versendet und können somit sowohl digital als auch frisch ausgedruckt überreicht werden.    
+
+Mit **Pixelboostern** multipliziert ihr nicht nur die Anzahl der Pixel, die ihr selbst verdient, sondern ebenso die eurer Freunde und Mitspieler in gemeinsamen Runden. Einmal gekauft könnt ihr die Pixelbooster ingame im Pixelshop unter euren Items aktivieren. Die Dauer und Stärke hängen dabei davon ab, für welchen Booster ihr euch beim Kauf entschieden habt - bei der gegebenen Auswahl ist aber sicher für jeden was dabei!
+Nun bleibt noch die Frage, was passiert, wenn ihr schon einen Rang auf Timolia habt: Ganz einfach! Ihr bekommt zusätzlich zu euren durch den Rang erhöhten Pixeln noch die Pixel des Boosters dazu addiert, ihr könnt also mehr Pixel als je zuvor verdienen.
 
 ### Die Zahlungsmöglichkeiten
 Timolia kannst du entweder per BuyCraft (PayPal, Paysafecard, Überweisung) oder Nitrado (Paysafecard, Sofort-Überweisung, uvm.) mit einer Spende

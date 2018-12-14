@@ -82,17 +82,6 @@ Ziel dieses Spiels ist es, die meisten Skins von YouTubern in der schnellsmögli
 Der Spieler, der als Erster den Namen errät, bekommt drei Punkte, der Zweitplatzierte erhällt zwei Punkte. Alle weiteren Spieler erhalten beim Erraten jeweils einen Punkt.
 Insgesamt werden acht Runden gespielt.
  
-## Die Befehle
- 
-| Befehl | Funktion |
-| ------ | -------- |
-| `/rot` | Zeigt die Spielrotation |
-| `/last` | Zeigt die zuletzt gespielten Spiele |
-| `/join <Spieler>` | Betrete ein öffentliches Turnier |
-[Premium](/ranks/premium/) only:
-| `/create <Passwort>` | Erstellt ein Turnier (optimal mit einem Passwort) |
-| `/invite <Spieler>` | Lädt einen Spieler in dein Turnier ein |
-
 ## Premium-Features
 - Erstelle öffentliche oder private Turniere.
 - Premium-Spieler erhalten bis zu drei mal mehr Pixel.
@@ -100,3 +89,14 @@ Insgesamt werden acht Runden gespielt.
 - Werde mit `/togglerank` als normaler Spieler angezeigt.
 
 Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium/) nachlesen.
+ 
+## Die Befehle
+ 
+| Befehl | Funktion |
+| ------ | -------- |
+| `/rot` | Zeigt die Spielrotation |
+| `/last` | Zeigt die zuletzt gespielten Spiele |
+| `/join <Spieler>` | Betrete ein öffentliches Turnier |
+**[Premium](/ranks/premium/) only**:
+| `/create [Passwort]` | Erstellt ein Turnier (optimal mit einem Passwort) |
+| `/invite <Spieler>` | Lädt einen Spieler in dein Turnier ein |
