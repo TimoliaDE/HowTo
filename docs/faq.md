@@ -8,10 +8,9 @@ Mit der TeamSpeak-Serveradresse `ts.timolia.de` gelangst du auf unseren TeamSpea
 Auf unserem Server bieten wir zeitlich begrenzte Channel zum Mieten an, die Kosten betragen monatlich 2.500 Pixel oder 10.000 Timolions. Alle weiteren Informationen findest du 
 [in unserer TeamSpeak-Erklärung](/teamspeak/).
 
-### Wie gelange ich zum CityBuild?
-Mit dem Befehl `/city` gelangst du von überall aus auf unsere CityBuild-Server, dort erwarten dich viele verschiedene Baugebiete. 
-<strong>Bitte beachte:</strong> Du benötigst die **Minecraft Version 1.11.2** oder höher, um den CityBuild betreten zu können!
-Weitere Informationen [findest du hier](/city/baugebiete/).
+### Wo ist der Citybuild hin?
+Mit dem CityBuild begann alles. Am 07.05.2011 gründete Tim den CityBuild Timolias.  
+Leider musste City am 16.12.2018 aus verschiedenen Gründen schließen. Mehr Informationen dazu erhältst du [hier](http://timolia.de/city).
 
 ### Welche Ränge gibt es?
 - <b><span style="color:#0101DF">Administratoren</span></b>:
@@ -102,57 +101,3 @@ insbesondere von unserem Bauteam, begutachtet werden. Mehr dazu kannst du [hier 
 ### Darf ich Arenen von Timolia verwenden?
 Alle Maps, die du auf unserem Netzwerk findest, bieten wir nicht zum Download an, da es nicht gerne gesehen wird, wenn unsere Arenen ohne vorherige Zustimmung verbreitet werden.
 Jedoch werden wir in keinster Weise gegen die Verwendung unserer Maps vorgehen, daher bitten wir um eine Erwähnung der Erbauer, sofern ihr eine Timolia-Map verwenden solltet.
-
-
-# 3 - CityBuild
-Mit dem CityBuild begann alles. Am 07.05.2011 gründete Tim den CityBuild Timolias. Dieser Server existiert noch heute. 
-Timolia besitzt ein goldenes Herz, einen der schönsten CityBuild-Server der Minecraft-Community. Die Welt ist überzogen mit vielen einzigartigen Baugebieten.
-Der CityBuild ist ein Community-basierter Survival-Bauserver. Es gibt viele verschiedene Baugebiete, an denen du dich auf deine Weise austoben und deiner Kreativität dabei freien Lauf lassen kannst.
-
-### Was kann ich hier machen?
-Auf dem CityBuild-Server kannst du dir Grundstücke kaufen und diese dem Baugebiet entsprechend bebauen. Hier und da finden kleine Events in Form von (zum Beispiel) Minigames statt.
-Auch eine PvP Arena ist natürlich vorhanden. Des Weiteren kannst du viele weitere Dinge mit anderen Usern entdecken.
-
-### Wo finde ich das Tutorial?
-Wenn du das erste Mal auf den Citybuild joinst, landest du direkt bei deiner ersten Mission. Hier wird dir Stück für Stück alles erklärt und der Einstieg auf den Citybuild erleichtert.
-
-### Wie bekomme ich mein Startgrundstück?
-Du bekommst dein Startgrundstück kostenlos in der Weststadt. Wenn du auf einen beliebigen Weststadtserver joinst, wird dir automatisch ein Grundstück zugewiesen.
-Du kannst innerhalb der Weststadt jederzeit umziehen. Klicke hierzu einfach auf das Schild eines freien Grundstücks und bestätige im Chat.
-Achtung: Dieser Vorgang kostet dich pro Umzug 1000 Timolions!
-
-### Was sind Missionen?
-Du kannst jederzeit, wenn du dich auf dem Citybuild befindest, gewisse Missionen abschließen. Eine genaue Übersicht über alle Missionen wird dir Ingame per `/mission` aufgelistet.
-
-### Wie verdiene ich Geld?
-Es gibt 3 Möglichkeiten Geld zu verdienen:
-- Onlinezeit: Du bekommst alle 15 Minuten genau 50 Timolions, dazu musst du die 15 Minuten aber durchgehend online sein.
-- Items verkaufen: Du kannst deine gefarmten Sachen im  Adminshop oder in Shops von anderen Usern verkaufen. Jedoch hast du auch die Möglichkeit, den Handelschat zu benutzen.
-Hier kannst du mit anderen Usern handeln. Du erreichst den Handelschat  mit `/ch join handel`, zurück kommst du mit `/ch join city`. Der Handelschat ist ein globaler Chat und somit auf allen Cityservern zu lesen.
-- Durch das Gewinnen von Spielen und Events kann man Geld verdienen.
-- Jobs: Eine weitere Möglichkeit, an Geld zu kommen, sind Jobs. Du kannst im öffentlichen Chat nach Jobs mit Bezahlung von anderen Usern fragen.
-Wieviel Geld du momentan besitzt siehst du mit `/money` bzw. im Infoboard rechts an der Seite oder im Tab.
-
-### Wie gelange ich in die Abbauwelt?
-Du erreichst die Abbauwelt über den Citybuildhub, du musst `/city` in den Chat eingeben und dann über den Kompass den richtigen Server auswählen.
-Alternativ kannst du überall auf dem Citybuild `/abbau` eingeben.
-
-### Wo ist die Shopwelt?
-Du erreichst die Shopwelt über den Citybuildhub, du musst `/city` in den Chat eingeben und dann über den Kompass den richtigen Server auswählen.
-Alternativ kannst du überall auf dem Citybuild `/shop` eingeben.
-
-### Was sind Farmgrundstücke?
-Farmgrundstücke sind große 100x100 Grundstücke, die du dir für 500.000T kaufen kannst. Du kannst darauf, wie es der Name schon sagt, deine Farmen oder andere Großbauprojekte von dir errichten.
-Du erreichst die Farmgrundstücke über den Citybuildhub, du musst `/city` in den Chat eingeben und dann über den Kompass den richtigen Server auswählen.
-
-### Wie bekomme ich weitere Grundstücke in anderen Gebieten?
-Weitere Grundstücke kann man mit Timolions kaufen. Dazu muss man lediglich auf das Verkaufsschild neben dem Grundstück drücken.
-Bitte beachte die Grundstückspreise der spezifischen Baugebiete und halte das Geld auf deinem Konto bereit.
-
-### Was ist Karma?
-Karma kann man sich durch langes Spielen auf dem Server verdienen. Man erhält es durch das Abschließen von Achievements, das Karma wird in unterschiedlichen Leveln aufgestuft.
-Je höher dein Karmalevel ist, desto mehr Vorteile, wie z.B. längere Zeit vor dem AFK-Kick, hat man auf dem Server.
-
-### Wo kann ich seltene Items kaufen bzw. Items verkaufen?
-Der Adminshop verkauft diese Blöcke oder Items für relativ viel Geld. Du erreichst ihn, indem du über den Citybuildhub zu den Shopwelten gelangst.
-Du kannst alle Items außer Banner, Tränke, gefärbte Lederrüstung und verzauberte Items an den Schrotthändler, welcher in jedem Adminshop zu finden ist, verkaufen.
