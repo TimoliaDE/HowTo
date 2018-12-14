@@ -8,7 +8,6 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | ------ | -------- |
 | `/hub`, `/lobby`                | Teleportiert dich in die Lobby |
 | `/games`                        | Teleportiert dich zu den Games-Servern |
-| `/city`                         | Teleportiert dich zu den CityBuild-Servern |
 | `/msg`                          | Erlaubt MSGs mit Freunden, keinem oder allen |
 | `/msg <Spieler>`, `/m`          | Schreibe mit einem Spieler im Privatchat |
 | `/lookup <Spieler>`, `/lu`      | Zeigt dir LogIn-Informationen über einen Spieler |
@@ -168,6 +167,7 @@ Solltest du dein Handy verlieren, kannst du dich weiterhin mit Backupcodes anmel
 | `/rot`, `/rotation`             | Zeigt die Spielrotation |
 | `/last`                         | Zeigt die zuletzt gespielten Spiele |
 | `/join <Spieler>`               | Betrete ein öffentliches Turnier |
+| `/leave`                        | Verlasse ein Turnier |
 **[Premium](/ranks/premium/) only**:
 | `/create`                       | Erstellt ein Turnier |
 | `/invite <Spieler>`             | Lädt einen Spieler in dein Turnier ein |
@@ -199,39 +199,3 @@ Solltest du dein Handy verlieren, kannst du dich weiterhin mit Backupcodes anmel
 | ------ | -------- |
 | `/kill`                         | Tötet dich selbst |
 | `/jointeam <Team-Farbe>`, `/team` | Betrete ein Team |
-
-
-## 3 - CityBuild
-
-### Allgemeine Befehle
-
-| Befehl | Funktion |
-| ------ | -------- |
-| `/sb`                           | Öffnet das Menü des Scoreboards |
-| `/rezepte`                      | Zeigt dir zu jedem Item das Craftingrezept an |
-| `/timazon`, `/tbay`             | Öffnet ein Menü zum Items bestellen |
-| `/suicide`                      | Tötet sich selbst |
-| `/pay <Spieler> <Betrag>`       | Überweist einem anderen Spieler Geld |
-| `/money`                        | Zeigt deinen Kontostand |
-| `/mail senditems <Spieler> <Text>` | Schicke einem Spieler Items per Mail |
-| `$<Nachricht>`                  | Schreibe im Handelschat |
-| `/ch join handel`               | Wählt den Handelschat als Standardchannel aus |
-| `/ch join global`               | Wechselt in den default Citychannel |
-| `/trg`                          | Öffnet das Interface des Grundstücks |
-| `/skin`, `/skins`, `/gardarobe`, `/kostueme` | Öffnet eine Übersicht deiner Kostüme |
-| `/abbau`                        | Bringt dich in die Abbauwelt |
-| `/balancetop`                   | Zeigt die 10 reichsten Spieler an |
-| `/shop`                         | Bringt dich in die Shopwelt |
-| `/ecolog`                       | Zeig einen Log über dein Geld |
-| `/worldspawn`                   | Teleportiert dich zum Spawn der aktuellen Welt |
-
-### Teleportieren zu anderen Personen (Taxi / TPA)
-
-Mit dem Taxi kommst du direkt zu der gleichen Position wie dein Freund.
-Für User kostet ein Taxi 100T.
-
-| Befehl | Funktion |
-| ------ | -------- |
-| `/tpa <Name>`                   | Stellt dem Spieler eine Anfrage |
-| `/tpaccept <Name>`              | Nimmt die Anfrage des Spielers an |
-| `/tpa toggle`                   | Aktviert oder deaktiviert TPA-Anfragen für dich |
