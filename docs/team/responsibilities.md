@@ -82,11 +82,6 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
 
-### **CityBuild**
-| Teamler | Verantwortungsgrad |
-| ------ | ------ |
-|<span style="color:#2980b9">Docmac</span> | Hauptverantwortlich |
-
 # Sonstige Aufgaben
 
 ### **AntiCheat**
