@@ -45,7 +45,7 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 
 ### <strong><span style="color:#CF0101">Caprea</span></strong>
 - <u>Rang (ingame):</u> Moderatorin
-- <u>Hauptverantwortlich:</u> Twitter
+- <u>Nebenverantwortlich:</u> Twitter
 
 ### <strong><span style="color:#CF0101">ItsSarahh</span></strong>
 - <u>Rang (ingame):</u> Moderatorin
