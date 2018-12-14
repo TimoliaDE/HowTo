@@ -200,6 +200,18 @@ Solltest du dein Handy verlieren, kannst du dich weiterhin mit Backupcodes anmel
 | `/kill`                         | Tötet dich selbst |
 | `/jointeam <Team-Farbe>`, `/team` | Betrete ein Team |
 
+### Bauwelt
+| Befehl | Funktion |
+| ------ | -------- |
+| `/bauwelt` | Listet alle Befehle der Bauwelt auf |
+| `/spawn` | Telportiert dich zum Spawn der Bauwelt |
+| `/finish` | Gibt deinen fertigen Plot ab |
+| `/save` | Speichert deinen Plot |
+| `/backup [Seite]` | Ruft alle gespeicherten Backups auf |
+| `/tutorial` | Teleportiert dich zum Tutorial |
+| `/reset` | Resettet deinen Plot |
+| `/hdb` | Öffnet die HeadDatabase |
+
 
 ## 3 - CityBuild
 
