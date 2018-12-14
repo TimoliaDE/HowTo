@@ -16,7 +16,7 @@ Administratoren leiten das Netzwerk. Sie kümmern sich um teaminterne und techni
 
 ### <strong>Lascona</strong>
 - <u>Rang (ingame):</u> Administratorin
-- <u>Hauptverantwortlich:</u> Bauevent-Koordination, Broadcasts Forenorganisation, Fragen und Antworten Forum, Internes und externes Feedback,
+- <u>Hauptverantwortlich:</u> Bauevent-Koordination, Broadcasts, Forenorganisation, Fragen und Antworten Forum, Internes und externes Feedback,
 Organisation und Koordination neuer, inaktiver und alter Teamler, Social Media, Teammanagement, Timolia Turnier Organisation
 - <u>Nebenverantwortlich:</u> YouTuber-Ränge
 
@@ -45,7 +45,7 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 
 ### <strong><span style="color:#CF0101">Caprea</span></strong>
 - <u>Rang (ingame):</u> Moderatorin
-- <u>Hauptverantwortlich:</u> Citygebiete: Flussufer, Summerfields, Sunset Valley, Aegypten, Twitter
+- <u>Hauptverantwortlich:</u> Twitter
 
 ### <strong><span style="color:#CF0101">ItsSarahh</span></strong>
 - <u>Rang (ingame):</u> Moderatorin
@@ -59,7 +59,7 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 
 ### <strong><span style="color:#CF0101">saporital</span></strong>
 - <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Citygebiete: Downtown, Minedig, Mittelalter, Oldtown, Chinatown, Wunderland, Atlantis, Twitter
+- <u>Hauptverantwortlich:</u> Twitter
 
 ### <strong><span style="color:#CF0101">Schonas</span></strong>
 - <u>Rang (ingame):</u> Moderator
@@ -93,7 +93,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 ### <strong><span style="color:#007812">MCelements</span></strong>
 - <u>Rang (ingame):</u> Developer
-- <u>Hauptverantwortlich:</u> TeamSpeak, City-Development
+- <u>Hauptverantwortlich:</u> TeamSpeak
 - <u>Nebenverantwortlich:</u> Broadcasts
 
 ### <strong><span style="color:#007812">NameIsTaken</span></strong>
@@ -120,7 +120,6 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 ### <strong><span style="color:#007812">tr7zw</span></strong>
 - <u>Rang (ingame):</u> Developer
-- <u>Hauptverantwortlich:</u> CityBuild-Plugins, Abbauwelt, Farmwelt
 
 ### <strong><span style="color:#007812">YTKacperSKY</span></strong>
 - <u>Rang (ingame):</u> Developer
@@ -274,7 +273,7 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 ### <strong><span style="color:#00646F">Vectrail</span></strong>
 - <u>Rang (ingame):</u> Builder
-- <u>Hauptverantwortlich:</u> Bauevent, Bautresor, City-Maps, Games-Maps, Management des Bauteams
+- <u>Hauptverantwortlich:</u> Bauevent, Bautresor, Games-Maps, Management des Bauteams
 
 ### <strong><span style="color:#00646F">xnulix</span></strong>
 - <u>Rang (ingame):</u> Builder
