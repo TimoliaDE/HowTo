@@ -15,7 +15,6 @@ pages:
 - Das Regelwerk:
   - Games: 'rules/games.md'
   - Erlaubte Modifikationen: 'rules/approvedmods.md'
-  - CityBuild: 'rules/city.md'
   - Forum: 'rules/forum.md'
   - TeamSpeak: 'rules/teamspeak.md'
 - Games Netzwerk:
@@ -31,9 +30,6 @@ pages:
   - Mineception: 'games/mineception.md'
   - Splun: 'games/splun.md'
   - Timolianische Spiele: 'games/tspiele.md'
-- CityBuild:
-  - Baugebiete: 'city/baugebiete.md'
-  - Dienstleistungen: 'city/dienstleistungen.md'
 - Ränge auf Timolia:
   - Premium-Ränge: 'ranks/premium.md'
   - YouTuber und VIP: 'ranks/youtube.md'
