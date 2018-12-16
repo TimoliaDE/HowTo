@@ -83,7 +83,7 @@ Der Spieler, der als Erster den Namen errät, bekommt drei Punkte, der Zweitplat
 Insgesamt werden acht Runden gespielt.
  
 ## Premium-Features
-- Erstelle öffentliche oder private Turniere.
+- Erstelle öffentliche Turniere.
 - Premium-Spieler erhalten bis zu drei mal mehr Pixel.
 - Favorisiere zwei bzw. drei Spiele.
 - Werde mit `/togglerank` als normaler Spieler angezeigt.
