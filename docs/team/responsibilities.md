@@ -72,6 +72,18 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span style="color:#E4D100">Aenzo</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Elegeta</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
+einMole
+OnlyFiinn
+Predii
+RodspamExpertRU
+SpaceJumper
+Sterax
+Tim9875432
+|<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
 
 ### **Zu Unrecht gebannt**
 | Teamler | Verantwortungsgrad |
