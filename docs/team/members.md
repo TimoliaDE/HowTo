@@ -198,7 +198,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">predii</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Entschuldigungen
+- <u>Nebenverantwortlich:</u> Entschuldigungen, Spieler melden Forum
 
 ### <strong><span style="color:#E4D100">RodspamExpertRU</span></strong>
 - <u>Rang (ingame):</u> Supporter
