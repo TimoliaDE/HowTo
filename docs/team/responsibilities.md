@@ -55,6 +55,7 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | | |
 |<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">LordKnockback</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">predii</span> | Nebenverantwortlich |
 
 ### **Bug melden**
 | Teamler | Verantwortungsgrad |
@@ -71,6 +72,13 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | | |
 |<span style="color:#E4D100">Aenzo</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Elegeta</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">einMole</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">OnlyFiinn</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">predii</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">RodspamExpertRU</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">SpaceJumper</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Sterax</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Tim9875432</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
 
 ### **Zu Unrecht gebannt**
