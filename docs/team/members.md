@@ -52,6 +52,11 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 - <u>Hauptverantwortlich:</u> Entschuldigungen, Supporterauswahl, Timolia Turnier Organisation, YouTuber-Events
 - <u>Nebenverantwortlich:</u> Map-Einsendungen, Testen der Games-Maps, Twitter, YouTuber-Ränge
 
+### <strong><span style="color:#CF0101">Julian_999999999</span></strong>
+- <u>Rang (ingame):</u> Moderator
+- <u>Hauptverantwortlich:</u> Fragen und Antworten Forum, Entschuldigungen
+- <u>Nebenverantwortlich:</u> Teamspeak, Timolia HowTo, Anregungen und Vorschläge Forum, Feedback Forum, Spieler melden Forum, Zu Unrecht gebannt Forum
+
 ### <strong><span style="color:#CF0101">Metrixx7</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Organisation und Koordination neuer, inaktiver und alter Teamler, Timolia HowTo, Twitter, YouTuber-Ränge, Zu Unrecht gebannt Forum
@@ -177,11 +182,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">InfiniteNiki</span></strong>
 - <u>Rang (ingame):</u> Supporter
-
-### <strong><span style="color:#E4D100">Julian_999999999</span></strong>
-- <u>Rang (ingame):</u> Supporter
-- <u>Hauptverantwortlich:</u> Fragen und Antworten Forum, Entschuldigungen
-- <u>Nebenverantwortlich:</u> Teamspeak, Timolia HowTo, Anregungen und Vorschläge Forum, Feedback Forum, Spieler melden Forum, Zu Unrecht gebannt Forum
 
 ### <strong><span style="color:#E4D100">LordKnockback</span></strong>
 - <u>Rang (ingame):</u> Supporter
