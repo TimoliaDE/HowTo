@@ -42,11 +42,15 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 ### **Map-Einsendungen**
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#CF0101">Schonas</span> | Hauptverantwortlich |
+|<span style="color:#00646F">Vectrail</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">felliongi21</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">LordKnockback</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">Lascona</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">svdragster</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">saporital</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">RodspamExpertRU</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">BowspamExpertDE</span> | Nebenverantwortlich |
+|<span style="color:#00646F">12Build</span> | Nebenverantwortlich |
+|<span style="color:#00646F">B3artastic</span> | Nebenverantwortlich |
 
 ### **Spieler melden**
 | Teamler | Verantwortungsgrad |
