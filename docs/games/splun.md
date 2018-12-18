@@ -4,6 +4,7 @@
 Splun ist eine Kombination aus <strong>Spl</strong>eef und Jump and R<strong>un</strong> und eignet sich perfekt als kleines Spiel für Zwischendurch.
 
 ## Und so gehts
+- Stimme mit `/vote <Map>` oder einem Klick im Chat für die Map deiner Wahl.
 - Versuche, so lange wie möglich zu überleben, indem du von Block zu Block springst.
 - Alles, was du berührst, verschwindet unter deinen Füßen.
 - Mit verschiedenen Items kannst du deine Gegner beeinflussen oder dich schneller bewegen.
@@ -42,6 +43,7 @@ Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge ers
 
 ## Premium-Features
 - Premium-Spieler besitzen je nach Rang bis zu vier Stimmen im Voting-System.
+- Zum Mapvoting kann jederzeit die Liebslingsmap hinzugefügt werden.
 - Premium-Spieler erhalten bis zu drei mal mehr Pixel.
 - Werde mit `/togglerank` als normaler Spieler angezeigt.
 
