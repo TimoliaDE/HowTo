@@ -135,7 +135,6 @@ Diese Teamler kümmern sich um's Aktualisieren und Erstellen des HowTos Timolias
 | | |
 |<span style="color:#CF0101">Julian_999999999</span> | Nebenverantwortlich |
 
-### **Social-Media**
 Für einen ständigen Support und Content auf Twitter und anderen sozialen Medien sorgen diese Teamler.
 
 | Teamler | Projekte u. Verantwortungsgrad |
