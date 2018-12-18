@@ -18,7 +18,7 @@ Administratoren leiten das Netzwerk. Sie kümmern sich um teaminterne und techni
 - <u>Rang (ingame):</u> Administratorin
 - <u>Hauptverantwortlich:</u> Bauevent-Koordination, Broadcasts, Forenorganisation, Fragen und Antworten Forum, Internes und externes Feedback,
 Organisation und Koordination neuer, inaktiver und alter Teamler, Social Media, Teammanagement, Timolia Turnier Organisation
-- <u>Nebenverantwortlich:</u> YouTuber-Ränge
+- <u>Nebenverantwortlich:</u> YouTuber-Ränge, Map-Einsendungen
 
 ### <strong>MCExpertDE</strong>
 - <u>Rang (ingame):</u> Administrator
@@ -33,7 +33,7 @@ Organisation und Koordination neuer, inaktiver und alter Teamler, Social Media, 
 ### <strong>svdragster</strong>
 - <u>Rang (ingame):</u> Administrator
 - <u>Hauptverantwortlich:</u> Anti-Cheat, Timolia-Plugins
-- <u>Nebenverantwortlich:</u> Feedback Forum, Fragen und Antworten Forum
+- <u>Nebenverantwortlich:</u> Feedback Forum, Fragen und Antworten Forum, Map-Einsendungen
 
 ## Moderatoren
 
@@ -50,7 +50,12 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 ### <strong><span style="color:#CF0101">ItsSarahh</span></strong>
 - <u>Rang (ingame):</u> Moderatorin
 - <u>Hauptverantwortlich:</u> Entschuldigungen, Supporterauswahl, Timolia Turnier Organisation, YouTuber-Events
-- <u>Nebenverantwortlich:</u> Map-Einsendungen, Testen der Games-Maps, Twitter, YouTuber-Ränge
+- <u>Nebenverantwortlich:</u> Testen der Games-Maps, Twitter, YouTuber-Ränge
+
+### <strong><span style="color:#CF0101">Julian_999999999</span></strong>
+- <u>Rang (ingame):</u> Moderator
+- <u>Hauptverantwortlich:</u> Fragen und Antworten Forum, Entschuldigungen
+- <u>Nebenverantwortlich:</u> Teamspeak, Timolia HowTo, Anregungen und Vorschläge Forum, Feedback Forum, Spieler melden Forum, Zu Unrecht gebannt Forum
 
 ### <strong><span style="color:#CF0101">Metrixx7</span></strong>
 - <u>Rang (ingame):</u> Moderator
@@ -60,10 +65,11 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 ### <strong><span style="color:#CF0101">saporital</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Twitter
+- <u>Nebenverantwortlich:</u> Map-Einsendungen
 
 ### <strong><span style="color:#CF0101">Schonas</span></strong>
 - <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Bug melden Forum, Bugs und Spielfehler, Map-Einsendungen
+- <u>Hauptverantwortlich:</u> Bug melden Forum, Bugs und Spielfehler
 - <u>Nebenverantwortlich:</u> Testen der Games-Maps, YouTuber-Ränge, Zu Unrecht gebannt Forum
 
 ### <strong><span style="color:#CF0101">Tedget</span></strong>
@@ -138,6 +144,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">BowspamExpertDE</span></strong>
 - <u>Rang (ingame):</u> Supporter
+- <u>Nebenverantwortlich:</u> Map-Einsendungen
 
 ### <strong><span style="color:#E4D100">Calavero</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -166,7 +173,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">felliongi21</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Hauptverantwortlich:</u> Spieler melden Forum
-- <u>Nebenverantwortlich:</u> Anti-Cheat, Map-Einsendungen
+- <u>Nebenverantwortlich:</u> Anti-Cheat
 
 ### <strong><span style="color:#E4D100">ferdedelino</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -178,14 +185,9 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">InfiniteNiki</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
-### <strong><span style="color:#E4D100">Julian_999999999</span></strong>
-- <u>Rang (ingame):</u> Supporter
-- <u>Hauptverantwortlich:</u> Fragen und Antworten Forum, Entschuldigungen
-- <u>Nebenverantwortlich:</u> Teamspeak, Timolia HowTo, Anregungen und Vorschläge Forum, Feedback Forum, Spieler melden Forum, Zu Unrecht gebannt Forum
-
 ### <strong><span style="color:#E4D100">LordKnockback</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Map-Einsendungen, Spieler Melden Forum
+- <u>Nebenverantwortlich:</u> Spieler Melden Forum
 
 ### <strong><span style="color:#E4D100">medicoo</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -202,7 +204,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">RodspamExpertRU</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Entschuldigungen
+- <u>Nebenverantwortlich:</u> Entschuldigungen, Map-Einsendungen
 
 ### <strong><span style="color:#E4D100">SpaceJumper</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -233,12 +235,14 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 ### <strong><span style="color:#00646F">12Build</span></strong>
 - <u>Rang (ingame):</u> Builder
+- <u>Nebenverantwortlich:</u> Map-Einsendungen
 
 ### <strong><span style="color:#00646F">arved</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span style="color:#00646F">B3artastic</span></strong>
 - <u>Rang (ingame):</u> Builder
+- <u>Nebenverantwortlich:</u> Map-Einsendungen
 
 ### <strong><span style="color:#00646F">Char1sma</span></strong>
 - <u>Rang (ingame):</u> Builder

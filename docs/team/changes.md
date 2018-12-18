@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Dezember</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|Julian_999999999 | <span style="color:#E4D100">Supporter</span> | <span style="color:#CF0101">Moderator</span> | 17.12.18 |
 |Das_Lagu | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 13.12.18 | 
 |Char1sma | <span style="color:#00F9EC">Expert</span> | <span style="color:#00646F">Builder</span> | 13.12.18 |
 |xiantiel | <span style="color:#2980b9">Administrator</span> | <span style="color:#F99500">Native</span> | 13.12.18 |

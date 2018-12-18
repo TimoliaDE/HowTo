@@ -17,14 +17,14 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | ------ | ------ |
 |<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">CoveredSymmetry</span> | Nebenverantwortlich |
 
 ### **Fragen und Antworten**
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#E4D100">Julian_999999999</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">Julian_999999999</span> | Hauptverantwortlich |
 |<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#2980b9">svdragster</span> | Nebenverantwortlich |
@@ -37,23 +37,27 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#2980b9">svdragster</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">Julian_999999999</span> | Nebenverantwortlich |
 
 ### **Map-Einsendungen**
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#CF0101">Schonas</span> | Hauptverantwortlich |
+|<span style="color:#00646F">Vectrail</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">felliongi21</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">LordKnockback</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">Lascona</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">svdragster</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">saporital</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">RodspamExpertRU</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">BowspamExpertDE</span> | Nebenverantwortlich |
+|<span style="color:#00646F">12Build</span> | Nebenverantwortlich |
+|<span style="color:#00646F">B3artastic</span> | Nebenverantwortlich |
 
 ### **Spieler melden**
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#E4D100">felliongi21</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">LordKnockback</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">predii</span> | Nebenverantwortlich |
 
@@ -68,7 +72,7 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#CF0101">ItsSarahh</span> | Hauptverantwortlich |
-|<span style="color:#E4D100">Julian_999999999</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">Julian_999999999</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#E4D100">Aenzo</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Elegeta</span> | Nebenverantwortlich |
@@ -86,8 +90,8 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | ------ | ------ |
 |<span style="color:#CF0101">Metrixx7</span> | Hauptverantwortlich |
 | | |
+|<span style="color:#CF0101">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">Schonas</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
 
 # Sonstige Aufgaben
@@ -129,7 +133,7 @@ Diese Teamler kümmern sich um's Aktualisieren und Erstellen des HowTos Timolias
 |<span style="color:#CF0101">Metrixx7</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">Julian_999999999</span> | Nebenverantwortlich |
 
 ### **Social-Media**
 Für einen ständigen Support und Content auf Twitter und anderen sozialen Medien sorgen diese Teamler.
@@ -156,8 +160,8 @@ Der Teamspeak von Timolia ist unter ts.timolia.de zu erreichen. Er wird betreut 
 | ------ | ------ |
 |<span style="color:#007812">MCelements</span> | Hauptverantwortlich |
 | | |
+|<span style="color:#CF0101">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#007812">physanus</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
 
