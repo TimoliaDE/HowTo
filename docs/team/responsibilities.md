@@ -44,8 +44,8 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | ------ | ------ |
 |<span style="color:#00646F">Vectrail</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#CF0101">Lascona</span> | Nebenverantwortlich |
-|<span style="color:#CF0101">svdragster</span> | Nebenverantwortlich |
+|<span style="color:#2980b9">Lascona</span> | Nebenverantwortlich |
+|<span style="color:#2980b9">svdragster</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">saporital</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">RodspamExpertRU</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">BowspamExpertDE</span> | Nebenverantwortlich |
