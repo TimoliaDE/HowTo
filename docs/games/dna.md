@@ -9,6 +9,7 @@ Grenze von 32 Blöcken zu erreichen.
 <p></p>
 
 ## Und so gehts
+- Stimme mit `/vote <Map>` oder einem Klick im Chat für die Map deiner Wahl.
 - Zu Beginn des Spiels bekommt jeder eine Farbe zugewiesen, diese zeigt die Farbe deines Jump and Runs an.
 - Nach ein paar Sekunden spawnen die ersten Blöcke, bei jedem Erklimmen eines Blocks wird ein weiterer gespawnt und der vorherige entfernt.
 - Mit Rechtsklick auf einen Block wird ein Checkpoint gesetzt.
@@ -42,6 +43,7 @@ Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge ers
 ## Premium-Features
 
 - Premium-Spieler besitzen je nach Rang bis zu vier Stimmen im Voting-System.
+- Zum Mapvoting kann jederzeit die Liebslingsmap hinzugefügt werden.
 - Premium-Spieler erhalten bis zu drei mal mehr Pixel.
 - Werde mit `/togglerank` als normaler Spieler angezeigt.
 
