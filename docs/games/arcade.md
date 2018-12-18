@@ -27,7 +27,7 @@ Ziel dieses Spiels ist es, der letzte Überlebende zu sein. Es fallen jede Sekun
 Ziel dieses Spiels ist es, als erster Spieler 64 mal den Knopf an dem Goldblock zu treffen. Der Goldblock wechselt nach jedem Treffer beziehungsweise Verfehlen seine Position.
 Das richtige Zielen ist in diesem Spiel sehr wichtig.
 
-### Colour Clock
+### Color Clock
 Ziel dieses Spiels ist es, vor Ablauf der Zeit das Farbfeld am Rand der Map zu erreichen, welches in der Mitte der Arena von der Decke fällt.
 Wichtig ist es, taktisch zu entscheiden, ob es sich noch lohnt zum nächsten Farbfeld zu laufen, oder ob man lieber direkt zum übernächsten Feld läuft.
 Die Reihenfolge der Farben wird in der Mitte durch übereinanderliegende Wollblöcke angezeigt.
