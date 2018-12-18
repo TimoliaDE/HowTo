@@ -34,7 +34,9 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/togglerank`, `/tr`            | Werde in allen Spielmodi als normaler Spieler angezeigt |
 | `/ptime <day/night/midnight/sunrise/noon/afternoon/sunset/reset/hh:mm>` | Zeit für sich selbst umstellen |
 | `/pweather <sun/rain/reset>`    | Wetter für sich selbst umstellen |
-| [<span style="color:#4C0B5F">YouTuber</span> und <span style="color:#55FF55">VIP</span>](/ranks/youtube/) only: | |
+| [<span style="color:#55FF55">VIP</span>](/ranks/youtube/) only: | |
+| `/nick`, `/nickname`            | Ermöglicht es dir, dich zu nicken |
+| [<span style="color:#4C0B5F">YouTuber</span>](/ranks/youtube/) only: | |
 | `/forcemap`                     | Erzwinge bei einem Spiel mit Voting-System eine bestimmte Map |
 | `/startgame [Sekunden]`         | Starte ein Spiel |
 | `/abortstart`                   | Brich den Start eines Spiels ab |
