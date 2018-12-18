@@ -10,6 +10,7 @@ Runde und kann den Kampf für sich entscheiden.
 <p></p>
 
 ## Und so gehts
+- Stimme mit `/vote <Map>` oder einem Klick im Chat für die Map deiner Wahl.
 - Bis zu vier Teams kämpfen in der Arena gegeneinander.
 - Zu Beginn des Spiels werden alle Teams in ihre Basis teleportiert, von denen aus das Spiel begonnen wird.
 - Auf dem Boden befinden sich unterschiedliche Blöcke. Stellst du dich auf einen der Spezialblöcke, kannst du dessen Fähigkeit nutzen.
@@ -46,6 +47,7 @@ Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge ers
 
 ## Premium-Features
 - Premium-Spieler besitzen je nach Rang bis zu vier Stimmen im Voting-System.
+- Zum Mapvoting kann jederzeit die Liebslingsmap hinzugefügt werden.
 - Premium-Spieler erhalten bis zu drei mal mehr Pixel.
 - Premium-Spieler können in der Voting-Phase Spieler aus einem vollen Team kicken.
 - Werde mit `/togglerank` als normaler Spieler angezeigt.
