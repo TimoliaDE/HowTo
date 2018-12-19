@@ -21,11 +21,14 @@ Runde und kann den Kampf für sich entscheiden.
 - Mit 1000 ergatterten Punkten kann der BrainBow-Bogen in der Lobby freigeschalten werden.
 
 ## Die Blöcke
-- <span style="color:#CF0101">Redstone</span>: TNT-Blöcke
-- <strong>Kohle</strong>: Bombe
-- <span style="color:#0000FF">Lapislazuli</span>: Enderperle
-- <span style="color:#64FE2E">Emerald</span>: Gifttrank
-- <span style="color:#D8D8D8">Quartz</span>: Schneefeld (verlangsamt)
+
+| Block | Bezeichnung | Funktion |
+| ------ | ------ | ------ |
+| <span style="color:#CF0101">Redstone</span> | TNT-Block | Müssen in die gegnerischen Scorefelder geschossen werden. |
+| <strong>Kohle</strong>| Bombe | Man kann damit Gegner töten, TNT oder TNT-Blöcke zerstören und sich selbst nach oben boosten. |
+| <span style="color:#0000FF">Lapislazuli</span> | Enderperle | Hilft zur schnellen Fortbewegung auf der Map. |
+| <span style="color:#64FE2E">Smaragd</span> | Gitftrank | Vergiftet Spieler in einem gewissen Umkreis. Den Effekt wird man erst in der eigenes Base wieder los. |
+| <span style="color:#D8D8D8">Quartz</span> | Schneefeld | Damit kannst du Spieler in einem gewissen Umkreis „einfrieren”. |
 
 ## Die Ränge in BrainBow
 
