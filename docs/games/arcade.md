@@ -23,6 +23,10 @@ Ziel dieses Spiels ist es, deine Gegner im Zweikampf zu besiegen. Man kämpft na
 ### Anvil-Crusher
 Ziel dieses Spiels ist es, der letzte Überlebende zu sein. Es fallen jede Sekunde mehr Anvils vom Himmel, diesen musst du ausweichen.
 
+### Bomberman
+Ziel des Spieles ist es, als längstes zu überleben. Mit der Tastatur lässt sich der Charakter durch die Map steuern. Blöcke, die euch den weg versperren, können mit TNT gesprengt werden.
+Das TNT kann mit der Leertaste gesetzt werden. Auf der Map sind Power-Ups, wie mehrere Bomben, höhere Reichweite und Geschwindigkeit zu finden.
+
 ### Clicker
 Ziel dieses Spiels ist es, als erster Spieler 64 mal den Knopf an dem Goldblock zu treffen. Der Goldblock wechselt nach jedem Treffer beziehungsweise Verfehlen seine Position.
 Das richtige Zielen ist in diesem Spiel sehr wichtig.
@@ -49,6 +53,9 @@ keine Blöcke aufsammeln.
 Ziel dieses Spiels ist es, als erster Spieler fünf Punkte zu ergattern. Mit der Schallplatte änderst du deine Gravitation und kannst so vorankommen, der nächste Punkt wird dir im Kompass angezeigt. 
 Die fünf farbigen Glasblöcke zeigen dir zusätzlich den nächsten Punkt. Wichtig: Du musst die Punkte in der richtigen Reihenfolge ablaufen.
 
+### Half-Heart-Race
+Ziel des Spieles ist es, nach unten zu gelangen - und das nur mit einem halben Herz! Der Erste gewinnt.
+
 ### Kabelsalat
 Ziel dieses Spiels ist es, als Erster zwei Kabelenden zu verbinden und den Stromzufluss auf 100% zu bringen. Man kann andere Kabel manipulieren, indem man diese mit der Schere durchschneidet. 
 Berühren sich zwei stromdurchflossene Kabel explodieren sie, dies kann man durch Verwendung eines isolierten Kabels verhindern.
@@ -68,6 +75,12 @@ Den Würfel bewegst du mit Links- und Rechtsklick auf die Farbfelder.
 ### Sammelfieber
 Ziel dieses Spiels ist es, nach Ablauf der Zeit am meisten verschiedene Items gesammelt zu haben. Die Welt, in der gespielt wird, ist dabei zufällig generiert und auf 24x24 Chunks begrenzt.
 Im Scoreboard wird angezeigt, wie viele verschiedene Items bereits gesammelt wurden, am Ende des Spiels wird das Inventar des Gewinners eingeblendet.
+ 
+### Sumo
+Ziel dieses Spiels ist es, möglichst viele Gegner runterzuschlagen. Für jeden Kill bekommt man zwei. Punkte, für jeden Tod einen Punkt abgezogen. Mit dem Boost kannst du dich einmal retten. Der Spieler mit den meisten Punkten gewinnt. 
+ 
+### Tron
+Ziel des Spiel ist es, als längstes zu überleben. Die Minecarts der Spieler hinterlassen Spuren aus Glas. Sobald eine gegnerische Spur oder ein Hindernis berührt wird, stirbt man. 
  
 ### Turmspringen
 Ziel dieses Spiels ist es, durch das Treffen von Wasserlöchern die meisten Punkte zu sammeln. Je nach Größe des Wasserlochs bekommt man einen, zwei oder drei Punkte. 
