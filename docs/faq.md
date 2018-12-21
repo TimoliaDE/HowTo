@@ -5,7 +5,7 @@ Mit der Minecraft-Serveradresse `play.timolia.de` erreichst du alle Server Timol
 
 ### Gibt es auch einen TeamSpeak-Server?
 Mit der TeamSpeak-Serveradresse `ts.timolia.de` gelangst du auf unseren TeamSpeak-Server. Dort gibt es nicht nur Hilfechannel für schnellen Support, auch öffentliche Zonen erwarten dich.
-Auf unserem Server bieten wir zeitlich begrenzte Channel zum Mieten an, die Kosten betragen monatlich 2.500 Pixel oder 10.000 Timolions. Alle weiteren Informationen findest du 
+Auf unserem Server bieten wir zeitlich begrenzte Channel zum Mieten an, die Kosten betragen monatlich 2.500 Pixel. Alle weiteren Informationen findest du 
 [in unserer TeamSpeak-Erklärung](/teamspeak/).
 
 ### Wo ist der Citybuild hin?
@@ -36,7 +36,7 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 Creator sind für kreative Arbeiten, wie Texte, Bilder und Grafiken zuständig und sind kreative Köpfe des Teams.
 
 - <b><span style="color:#8B008B">YouTuber</span></b>:
-YouTuber sind Personen der Minecraft-Szene, die durch YouTube (in Einzelfällen auch Twitch) bekannt geworden sind. Für kleinere Youtuber gibt es den Rang <b><span style="color:#55FF55">VIP</span></b>. Alles zu diesen Rängen [erfährst du hier](//ranks/youtube/)
+YouTuber sind Personen der Minecraft-Szene, die durch YouTube (in Einzelfällen auch Twitch) bekannt geworden sind. Für kleinere Youtuber gibt es den Rang <b><span style="color:#55FF55">VIP</span></b>. Alles zu diesen Rängen [erfährst du hier](/ranks/youtube/).
 
 - <b>Premium-Ränge</b>:
 Spieler mit einem unserer permanenten Premium-Ränge erhalten gewisse Vorteile. Welche Vorteile dir welcher Rang bietet, [erfährst du hier](/ranks/premium/).
@@ -49,7 +49,7 @@ Auf der Social Media Plattform [Twitter](https://twitter.com/TimoliaTeam) suppor
 
 ### Wie funktioniert das Kick-System?
 Wir besitzen ein recht komplexes und einzigartiges Kicksystem, um sowohl Premium- als auch normalen Spielern ein tolles Spielerlebnis ohne ewige Wartezeiten zu ermöglichen. 
-Jeder Spieler erhält beim Joinen des Netzwerkes eine individuelle "Kick-Value", basierend auf dem Ingame-Rang. Umso höher der Rang, desto höher die "Kick-Value".
+Jeder Spieler erhält beim Joinen des Netzwerkes eine individuelle "Kick-Value", basierend auf dem Ingame-Rang. Umso höher der Rang, desto höher die "Kick-Value". Ein Spieler mit einer höheren "Kick-Value" kickt den Spieler mit der niedrigstend "Kick-Value", sollte ein Server voll sein.
 
 | Rang | Kick-Value |
 | ------ | -------- |

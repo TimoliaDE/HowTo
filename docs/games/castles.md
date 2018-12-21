@@ -5,6 +5,7 @@ Castles ist ein taktisches Spiel, in dem du gemeinsam mit deinen Teamkameraden d
 in seiner eigenen Burg.
 
 ## Und so gehts
+- Stimme mit `/vote <Map>` oder einem Klick im Chat für die Map deiner Wahl.
 - Ziel des Spiels ist es, die Flagge aus der gegnerischen Burg zu entwenden, zurück in die eigene Basis zu bringen und dann alle gegnerischen Spieler zu töten.
 - Mit dem Gold, das du in der Enderchest in deiner Basis und in Kisten auf den anderen Inseln finden kannst, kannst du Strukturen bauen oder Items kaufen.
 - In den verschiedenen Shops findest du viele nützliche Items, die es dir ermöglichen, die gegnerische Basis taktisch oder schnellstmöglich anzugreifen!
@@ -34,8 +35,19 @@ in seiner eigenen Burg.
 
 Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren werden namentlich nur die ersten Ränge genannt.
 
+## Punkteverteilung in Castles
+- Wenn man die Runde verlässt, bevor das Team ausgeschieden ist, bekommt man keine Punkte.
+- Die Kills werden am Ende verdoppelt (Kills * 2).
+- Die Flaggeneroberungen werden am Ende versechsfacht (Eroberungen * 6).
+- Wenn man im Gewinnerteam ist, werden die Punkte am Ende verdoppelt. (*2)
+- Wenn man am meisten Kills hat, erhält man +15 Punkte.
+- Wenn man am zweitmeisten Kills hat, erhält man +10 Punkte.
+- Wenn man am drittmeisten Kills hat, erhält man +5 Punkte.
+- Wenn man mehr als 60% des aufgesammelten Goldes in Strukturen investiert hat, erhält man +12 Punkte.
+
 ## Premium-Features
 - Premium-Spieler besitzen je nach Rang bis zu vier Stimmen im Voting-System.
+- Zum Mapvoting kann jederzeit die Liebslingsmap hinzugefügt werden.
 - Premium-Spieler erhalten bis zu drei mal mehr Pixel.
 - Premium-Spieler können in der Voting-Phase Spieler aus einem vollen Team kicken.
 - Werde mit `/togglerank` als normaler Spieler angezeigt.
