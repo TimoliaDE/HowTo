@@ -60,7 +60,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | Befehl | Funktion |
 | ------ | -------- |
 | `/sync {0, 1, 2...]`, `/armorsync` | Synchronisiert die farbwechselnde Rüstung aus dem PixelShop |
-| `/fixkickvalue`, `/fixkv`       | Setzt deine Kick-Value zurück. Wie das Kick-System funktioniert, kannst du [<strong>hier</strong> nachlesen](https://howto.timolia.de/faq/#wie-funtkioniert-das-kick-system-bei-vollen-lobbys) |
+| `/fixkickvalue`, `/fixkv`       | Setzt deine Kick-Value zurück. Wie das Kick-System funktioniert, kannst du [<strong>hier</strong> nachlesen](https://howto.timolia.de/faq/#wie-funktioniert-das-kick-system) |
 | `/stats <Spieler>`, `/records`, `/statistic`, `/statistik` | Zeigt dir die Stats eines Spielers an |
 | `/stats <Spieler> <Spieler>...` | Ermöglicht es dir, die Stats von mehreren Spielern zu vergleichen |
 | `/spawn`                        | Teleportiert dich zurück zum Spawn vom Hub |
