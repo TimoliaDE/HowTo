@@ -140,7 +140,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">BowspamExpertDE</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Map-Einsendungen
+- <u>Nebenverantwortlich:</u> Map-Einsendungen, Zu Unrecht gebannt Forum
 
 ### <strong><span style="color:#E4D100">Calavero</span></strong>
 - <u>Rang (ingame):</u> Supporter
