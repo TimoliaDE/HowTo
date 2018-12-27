@@ -5,10 +5,11 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Dezember</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|Jintzo | <span style="color:#007812">Developer</span> | <span style="color:#F99500">Native</span> | 27.12.18 |
 |Julian_999999999 | <span style="color:#E4D100">Supporter</span> | <span style="color:#CF0101">Moderator</span> | 17.12.18 |
 |Das_Lagu | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 13.12.18 | 
 |Char1sma | <span style="color:#00F9EC">Expert</span> | <span style="color:#00646F">Builder</span> | 13.12.18 |
-|xiantiel | <span style="color:#2980b9">Administrator</span> | <span style="color:#F99500">Native</span> | 13.12.18 |
+|xiantiel | <span style="color:#2980b9">Administrator</span> | <span style="color:#00F9EC">Expert</span> | 13.12.18 |
 |2h9m | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | 09.12.18 |
 |Sterax | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | 09.12.18 |
 |InfiniteNiki | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | 09.12.18  |

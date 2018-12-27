@@ -93,10 +93,6 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Rang (ingame):</u> Developer
 - <u>Hauptverantwortlich:</u> Chainreact, Weihnachts - Timolia Adventure
 
-### <strong><span style="color:#007812">Jintzo</span></strong>
-- <u>Rang (ingame):</u> Developer
-- <u>Nebenverantwortlich:</u> Web-Development
-
 ### <strong><span style="color:#007812">MCelements</span></strong>
 - <u>Rang (ingame):</u> Developer
 - <u>Hauptverantwortlich:</u> TeamSpeak
@@ -196,7 +192,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">OnlyFiinn</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Entschuldigungen
+- <u>Nebenverantwortlich:</u> Entschuldigungen, Zu Unrecht gebannt Forum
 
 ### <strong><span style="color:#E4D100">predii</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -212,7 +208,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Sterax</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Entschuldigungen
+- <u>Nebenverantwortlich:</u> Entschuldigungen, Zu Unrecht gebannt Forum
 
 ### <strong><span style="color:#E4D100">Tim9875432</span></strong>
 - <u>Rang (ingame):</u> Supporter
