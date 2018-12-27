@@ -92,6 +92,7 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | | |
 |<span style="color:#CF0101">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">Schonas</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">BowspamExpertDE</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">OnlyFiinn</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Sterax</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
