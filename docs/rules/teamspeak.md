@@ -39,4 +39,4 @@ In Extremfällen werden Regelverstöße auch auf anderen Plattformen Timolias sa
 
 Unwissenheit schützt nicht vor Strafe! Mit dem Betreten des Teamspeak-Servers akzeptierst du das Regelwerk.
 
-Letzte Aktualisierung: 31. August 2018
+Letzte Aktualisierung: 01. Januar 2019
