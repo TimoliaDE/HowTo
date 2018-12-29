@@ -1,5 +1,12 @@
 Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufgelistet.
 
+# 2019
+
+###  <strong>Januar</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+|Vectrail | <span style="color:#00646F">Builder</span> | <span style="color:#00F9EC">Expert</span> | 01.01.19 |
+
 # 2018
 
 ###  <strong>Dezember</strong>
