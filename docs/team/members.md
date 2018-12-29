@@ -278,10 +278,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder
 - <u>Nebenverantwortlich:</u> Bauteam-Twitter
 
-### <strong><span style="color:#00646F">Vectrail</span></strong>
-- <u>Rang (ingame):</u> Builder
-- <u>Hauptverantwortlich:</u> Bauevent, Bautresor, Games-Maps, Management des Bauteams
-
 ### <strong><span style="color:#00646F">xnulix</span></strong>
 - <u>Rang (ingame):</u> Builder
 
