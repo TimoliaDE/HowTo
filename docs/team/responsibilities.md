@@ -42,11 +42,10 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 ### **Map-Einsendungen**
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#00646F">Vectrail</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">saporital</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#2980b9">Lascona</span> | Nebenverantwortlich |
 |<span style="color:#2980b9">svdragster</span> | Nebenverantwortlich |
-|<span style="color:#CF0101">saporital</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">RodspamExpertRU</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">BowspamExpertDE</span> | Nebenverantwortlich |
 |<span style="color:#00646F">12Build</span> | Nebenverantwortlich |
@@ -152,7 +151,6 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 |<span style="color:#007812">tr7zw</span> | Twitter NV |
 |<span style="color:#E4D100">Chrissi1505</span> | Twitter NV |
 |<span style="color:#E4D100">xTessia</span> | Twitter NV |
-|<span style="color:#00646F">Vectrail</span> | Bauteam-Twitter HV |
 |<span style="color:#00646F">Tollmolia</span> | Bauteam-Twitter NV |
 |<span style="color:#007812">die_maren</span> | Bauteam-Twitter NV |
 
@@ -196,7 +194,7 @@ Im Timolia Team gibt es kleinere Teams, welche unter anderem durch diese Verantw
 | ------ | ------ |
 |<span style="color:#CF0101">Tedget</span> | Management des Development-Teams |
 |<span style="color:#2980b9">Lascona</span> | Management des Creator-Teams und des YouTube-Teams |
-|<span style="color:#00646F">Vectrail</span> | Management des Bau-Teams |
+|<span style="color:#CF0101">saporital</span> | Management des Bau-Teams |
 
 ### **Testen der Games-Maps**
 Diese Teamler sind für das Bewerten, Aktualisieren und Kategorisieren von Games Maps zuständig.

@@ -64,8 +64,7 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 
 ### <strong><span style="color:#CF0101">saporital</span></strong>
 - <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Twitter
-- <u>Nebenverantwortlich:</u> Map-Einsendungen
+- <u>Hauptverantwortlich:</u> Management des Bauteams, Map-Einsendungen, Twitter
 
 ### <strong><span style="color:#CF0101">Schonas</span></strong>
 - <u>Rang (ingame):</u> Moderator
@@ -277,10 +276,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ### <strong><span style="color:#00646F">Tollmolia</span></strong>
 - <u>Rang (ingame):</u> Builder
 - <u>Nebenverantwortlich:</u> Bauteam-Twitter
-
-### <strong><span style="color:#00646F">Vectrail</span></strong>
-- <u>Rang (ingame):</u> Builder
-- <u>Hauptverantwortlich:</u> Bauevent, Bautresor, Games-Maps, Management des Bauteams
 
 ### <strong><span style="color:#00646F">xnulix</span></strong>
 - <u>Rang (ingame):</u> Builder
