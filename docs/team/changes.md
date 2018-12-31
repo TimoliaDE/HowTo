@@ -1,17 +1,11 @@
 Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufgelistet.
 
-# 2019
-
-###  <strong>Januar</strong>
-| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
-| ------ | ------ | ------ | ------ |
-|Vectrail | <span style="color:#00646F">Builder</span> | <span style="color:#00F9EC">Expert</span> | 01.01.19 |
-
 # 2018
 
 ###  <strong>Dezember</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+|Vectrail | <span style="color:#00646F">Builder</span> | <span style="color:#00F9EC">Expert</span> | 31.12.18 |
 |Jintzo | <span style="color:#007812">Developer</span> | <span style="color:#F99500">Native</span> | 27.12.18 |
 |Julian_999999999 | <span style="color:#E4D100">Supporter</span> | <span style="color:#CF0101">Moderator</span> | 17.12.18 |
 |Das_Lagu | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 13.12.18 | 
