@@ -36,7 +36,7 @@ Das Spammen von Reports ist verboten und wird bei wiederholtem Vorkommen sanktio
 
 ### Entbannungsanträge
 Ist ein Spieler gebannt, kann dieser jederzeit im Bereich "[Entbannungsanträge](https://forum.timolia.de/#reports-und-entbannungsantraege.46)" einen Beweis anfordern oder eine Entschuldigung posten. Das Spammen von Entbannungsanträgen ist verboten
-und wird bei wiederholtem Vorkommen geahndet. Sollte ein Spieler eine Bannzeit von über 30 Tagen haben, muss er erst warten, bis die Banntage auf <=30 Tage verjährt sind. Des Weiteren darf jeder Spieler
+und wird bei wiederholtem Vorkommen geahndet. Sollte ein Spieler eine Bannzeit von über 46 Tagen haben, muss er erst warten, bis die Banntage auf <=46 Tage verjährt sind. Des Weiteren darf jeder Spieler
 maximal zwei Entbannungsanträge schreiben, außer ein weiterer Antrag wurde explizit erlaubt.
 
 ## §4 - Sanktionen im Forum
@@ -52,4 +52,4 @@ Sollte ein Nutzer gegen die Regeln verstoßen, wird dieser verwarnt und bekommt 
 
 <strong>Das Team behält sich das Recht vor, bestimmtes Handeln zu sanktionieren, welches nicht explizit in den Regeln aufgelistet ist.</strong>
 
-Letzte Aktualisierung: 31. August 2018
+Letzte Aktualisierung: 01. Januar 2019
