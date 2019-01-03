@@ -28,7 +28,6 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#2980b9">svdragster</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Chrissi1505</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">CoveredSymmetry</span> | Nebenverantwortlich |
 
 ### **Feedback**
