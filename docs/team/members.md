@@ -146,7 +146,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Chrissi1505</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Fragen und Antworten Forum, Twitter
+- <u>Nebenverantwortlich:</u> Twitter
 
 ### <strong><span style="color:#E4D100">CoveredSymmetry</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -259,9 +259,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span style="color:#00646F">flakk0devil</span></strong>
-- <u>Rang (ingame):</u> Builder
-
-### <strong><span style="color:#00646F">FrozenPete</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span style="color:#00646F">Hiics</span></strong>
