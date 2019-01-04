@@ -12,7 +12,6 @@ Suche am besten mit der Suchfunktion deines Browsers (**Strg+F**) auf dieser Sei
 - Batty's Coordinates (+)
 - BetterF3Mod
 - BetterFoilageMod
-- BetterSprinting
 - BlockoverlayMod
 - bspkrscore
 - CapeMod
