@@ -151,7 +151,7 @@ Solltest du dein Handy verlieren, kannst du dich weiterhin mit Backupcodes anmel
 | `/matchinfo`                    | Zeigt Informationen über den aktuellen Kampf |
 | `/queue`, `/q`                  | Fügt dich zur Warteschlange hinzu |
 | `/compare <Name> <Name>`, `/compareplayers` | Zeigt die Kampfstatistik zweier Spieler |
-| `/lastinv <Spieler>`, `/inv`    | Zeit das letzte Inventar eines Spielers |
+| `/lastinv <Spieler>`, `/inv`    | Zeigt das letzte Inventar eines Spielers |
 | `/liveinv <Spieler>`, `/liveinventory` | Zeigt das aktuelle Inventar eines Spielers |
 | `/rankinfo`, `/ranginfo`        | Zeigt Informationen zum aktuellen Rang |
 | `/settings`                     | Öffnet die Einstellungen |
