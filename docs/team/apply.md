@@ -18,7 +18,7 @@ Sollten neue Teammitglieder im Supportbereich gesucht werden, überprüft das Te
 Unter positiv auffallen verstehen wir unter anderem eine gute Reportstatistik, keine gravierenden Verstöße gegen unser Regelwerk und Aktivität auf anderen Plattformen,
 wie im Forum und TeamSpeak (und evtl. auf Twitter).
 
-Zusätzlich dazu gibt es die Möglichkeit, eine Initiativbewerbung, welche eine Vorstellung von dir sowie Beschreibungen deiner bisherigen Erfahrungen beinhalten sollte,
+Zusätzlich dazu gibt es die Möglichkeit, eine Initiativbewerbung, welche deinen Ingamenamen, eine Vorstellung von dir sowie Beschreibungen deiner bisherigen Erfahrungen beinhalten sollte,
 per Mail an <a href="mailto:supporter@timolia.de">supporter@timolia.de</a> an uns zu senden.
 
 ### Builder
