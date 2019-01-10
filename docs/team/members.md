@@ -103,7 +103,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 ### <strong><span style="color:#007812">physanus</span></strong>
 - <u>Rang (ingame):</u> Developer
-- <u>Nebenverantwortlich:</u> Teamspeak
+- <u>Nebenverantwortlich:</u> Supporter, Teamspeak
 
 ### <strong><span style="color:#007812">play4me_</span></strong>
 - <u>Rang (ingame):</u> Developer
