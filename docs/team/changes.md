@@ -35,7 +35,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 | Eisenmaus | <span style="color:#F99500">Native Pro</span> | <span style="color:#00646F">Builder</span> | 29.05.18 |
-| JOlegna | <span style="color:#CF0101">Moderator</span> | <span style="color:#00F9EC">Expert</span> | 27.05.18 |
+| JOlegna | <span style="color:#CF0101">Moderator</span> | <span style="color:#00F9EC">Native Expert</span> | 27.05.18 |
 | eZZrael | <span style="color:#F99500">Native Pro</span> | <span style="color:#00646F">Builder</span> | 22.05.18 |
 | eZZfery | <span style="color:#00F9EC">Expert</span> | <span style="color:#00646F">Builderin</span> | 22.05.18 |
 | svdragster | <span style="color:#007812">Developer</span> | <span style="color:#2980b9">Administrator</span> | 16.05.18 |
@@ -63,7 +63,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | ------ | ------ | ------ | ------ |
 | GameZter | <span style="color:#00646F">Builder</span> | <span style="color:#00F9EC">Native Expert</span> | 21.02.18 |
 | Eisenmaus | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Native Pro</span> | 20.02.18 |
-| iPushyy | <span style="color:#007812">Developer</span> | <span style="color:#848484">Spieler</span> | 18.02.18 |
+| iPushyy | <span style="color:#007812">Developer</span> | <span style="color:#F99500">Native Pro</span> | 18.02.18 |
 | DerBull | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Native Expert</span> | 17.02.18 |
 | Kenaai | <span style="color:#CF0101">Moderator</span> | <span style="color:#00F9EC">Native Expert</span> | 12.02.18 |
 | Pixtopiane | <span style="color:#E4D100">Supporterin</span> | <span style="color:#F99500">Native Pro</span> | 11.02.18 |
@@ -120,12 +120,12 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Oktober</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
-| Eddyyyyyyy | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | 28.10.17 |
+| Eddyyyyyyy | <span style="color:#00646F">Builder</span> | <span style="color:#00F9EC">Expert</span> | 28.10.17 |
 | Flaxify | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Native Expert</span> | 19.10.17 |
-| Sry4BowAimbot | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | 19.10.17 |
+| Sry4BowAimbot | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Native Expert</span> | 19.10.17 |
 | Caaro | <span style="color:#E4D100">Supporterin City</span> | <span style="color:#E4D100">Supporterin City & Games</span> | 12.10.17 |
 | Morileh | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Native Pro</span> | 12.10.17 |
-| physanus | <span style="color:#848484">Spieler</span> | <span style="color:#007812">Developer Games</span> | 11.10.17 |
+| physanus | <span style="color:#848484">Spieler</span> | <span style="color:#007812">Developer</span> | 11.10.17 |
 | NameIsTaken | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 02.10.17 |
 
 ###  <strong>September</strong>
@@ -176,7 +176,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | Tedget | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#CF0101">Moderator Games</span> | 07.06.17 |
 | Schmoritz | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Native Expert</span> | 06.06.17 |
 | MaHacki | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Native Expert</span> | 04.06.17 |
-| DrugDuck | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | 04.06.17 |
+| DrugDuck | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Native Pro</span> | 04.06.17 |
 
 ###  <strong>Mai</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
@@ -185,14 +185,14 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | blackINK_ | <span style="color:#E4D100">Supporterin Games</span> | <span style="color:#F99500">Native Pro</span> | 21.05.17 |
 | CubeFabi | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Native Expert</span> | 20.05.17 |
 | Tollmolia | <span style="color:#00F9EC">Expert</span> | <span style="color:#007812">Creator</span> | 15.05.17 |
-| \_TakeItEaZy\_ | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | 04.05.17 |
-| NikiPlays | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | 03.05.17 |
+| \_TakeItEaZy\_ | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Native Pro</span> | 04.05.17 |
+| NikiPlays | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Expert</span> | 03.05.17 |
 | Invidia | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | 03.05.17 |
 
 ###  <strong>April</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
-| Evoferry | <span style="color:#2980b9">Administrator City</span> | <span style="color:#F99500">Native Pro</span> | 30.04.17 |
+| Evoferry | <span style="color:#2980b9">Administrator City</span> | <span style="color:#00F9EC">Native Expert</span> | 30.04.17 |
 | Fabiewww | <span style="color:#00646F">Builder</span> | <span style="color:#00F9EC">Expert</span> | 29.04.17 |
 | ProExecution | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | 29.04.17
 | Haxxsmart | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | 09.04.17 |
@@ -204,7 +204,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 | AeroSize | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Native Pro</span> | 25.03.17 |
-| mTAce | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | 25.03.17 |
+| mTAce | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | 25.03.17 |
 | sirzurrex | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Pro</span> | 15.03.17
 | byMongo | <span style="color:#CF0101">Moderator City</span> | <span style="color:#F99500">Native Pro</span> | 12.03.17 |
 | Vincent11127 | <span style="color:#E4D100">Supporter City</span> | <span style="color:#F99500">Native Pro</span> | 12.03.17 |
@@ -244,7 +244,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | trojesatar | <span style="color:#848484">Spieler</span> | <span style="color:#E4D100">Supporter Games</span> | 28.01.17 |
 | Tobifaction | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 28.01.17 |
 | Handis | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Native Pro</span> | 04.01.17 |
-| Naachtara | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Native Pro <!-- TODO --></span> | 02.01.17 |
+| Naachtara | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Native Pro</span> | 02.01.17 |
 | Nooahh | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Native Expert</span> | 02.01.17 |
 | Re4perz | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Native Pro</span> | 02.01.17 |
 
@@ -270,9 +270,9 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | PodgeT | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter City</span> | 27.11.16 |
 | JOlegna | <span style="color:#F99500">Native Pro</span> | <span style="color:#CF0101">Moderator City</span> | 19.11.16 |
 | Malu8500 | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | 18.11.16 |
-| RobinGamerPack | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | 18.11.16 |
-| mTAce | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> <!-- TODO --> | 17.11.16 |
-| Digimon | <span style="color:#E4D100">Supporter City</span> | <span style="color:#F99500">Pro</span> <!-- TODO --> | 05.11.16 |
+| RobinGamerPack | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Native Expert</span> | 18.11.16 |
+| mTAce | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Native Pro</span> | 17.11.16 |
+| Digimon | <span style="color:#E4D100">Supporter City</span> | <span style="color:#F99500">Native Pro</span> | 05.11.16 |
 | Vadium | <span style="color:#E4D100">Supporter City</span> | <span style="color:#F99500">Pro</span> | 05.11.16 |
 | TheFeldi | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter Games</span> | 03.11.16 |
 | Sry4BowAimbot | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 03.11.16 |
@@ -295,11 +295,11 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | lauratatuetatah | <span style="color:#CF0101">Moderatorin Games</span> | <span style="color:#00F9EC">Expert</span> | 05.10.16 |
 | Toebi | <span style="color:#CF0101">Moderator Games</span> | <span style="color:#00F9EC">Expert</span> | 05.10.16 |
 | Vucanu | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Native Pro</span> | 05.10.16 |
-| SeiBitteLeise | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | 05.10.16 |
+| SeiBitteLeise | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Native Expert</span> | 05.10.16 |
 | Tobi_ | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Native Pro</span> | 05.10.16 |
 | SirD4ve | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Native Expert</span> | 05.10.16 |
-| Jvxvn | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Expert</span> | 05.10.16 |
-| litsche | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | 05.10.16 |
+| Jxvxn | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Native Expert</span> | 05.10.16 |
+| litsche | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Native Pro</span> | 05.10.16 |
 | Caelis | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#CF0101">Moderator Games</span> | 05.10.16 |
 | St3giLiebtTim | <span style="color:#E4D100">Supporterin Games</span> | <span style="color:#CF0101">Moderatorin Games</span> | 05.10.16 |
 
@@ -339,7 +339,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | WildeMaus | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 24.07.16 |
 | 0sch | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 24.07.16 |
 | Thomasch | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#CF0101">Moderator Games</span> | 24.07.16 |
-| ChaosLissi | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Native Pro</span> | 16.07.16 |
+| ChaosLissi | <span style="color:#00646F">Builder</span> | <span style="color:#00F9EC">Native Expert</span> | 16.07.16 |
 | Aerosize | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 17.07.16 |
 | Apfelrosine | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 17.07.16 |
 | Jukplays | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 17.07.16 |
