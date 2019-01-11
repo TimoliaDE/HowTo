@@ -10,7 +10,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>August</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
-| YTKacperSKY | <span style="color:#F99500">Native Pro</span> | <span style="color:#007812">Developer</span> <!-- TODO --> | 27.08.18 |
+| YTKacperSKY | <span style="color:#F99500">Native Pro</span> | <span style="color:#007812">Developer</span> | 27.08.18 |
 | xMaudodo | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Native Pro</span> | 24.08.18 |
 | Percyfan55 | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Native Expert</span> | 19.08.18 |
 | physanus | <span style="color:#F99500">Native Pro</span> | <span style="color:#007812">Developer</span> | 17.08.18 |
@@ -21,7 +21,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | Siimon | <span style="color:#CF0101">Moderator</span> | <span style="color:#00F9EC">Native Expert</span> | 27.07.18 |
 | Eisenmaus | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Native Pro</span> | 07.07.18 |
 | Iskander | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 04.07.18 |
-| Kenaai | <span style="color:#00F9EC">Native Expert</span> | <span style="color:#007812">Developer</span> <!-- TODO --> | 01.07.18 |
+| Kenaai | <span style="color:#00F9EC">Native Expert</span> | <span style="color:#007812">Developer</span> | 01.07.18 |
 
 ###  <strong>Juni</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
