@@ -18,10 +18,10 @@ Grenze von 32 Blöcken zu erreichen.
 
 ## Spezielle Items und Effekte
 
-- <strong>Schneeball</strong>: Schieße deine Gegner nach unten
-- <strong>Faules Ei</strong>: Verursache Übelkeit bei deinem Gegner
-- <strong>Speed</strong>: Springe durch den Speed-Effekt schneller und weiter
-- <strong>JumpBoost</strong>: Springe durch den Jump-Boost schneller und weiter
+- **Schneeball**: Schieße deine Gegner nach unten.
+- **Faules Ei**: Verursache Übelkeit bei deinem Gegner.
+- **Speed**: Springe durch den Speed-Effekt schneller und weiter.
+- **JumpBoost**: Springe durch den Jump-Boost schneller und weiter.
 
 ## Die Ränge in DNA
 
