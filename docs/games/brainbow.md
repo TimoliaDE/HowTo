@@ -10,6 +10,7 @@ Runde und kann den Kampf für sich entscheiden.
 <p></p>
 
 ## Und so gehts
+- Stimme mit `/vote <Map>` oder einem Klick im Chat für die Map deiner Wahl.
 - Bis zu vier Teams kämpfen in der Arena gegeneinander.
 - Zu Beginn des Spiels werden alle Teams in ihre Basis teleportiert, von denen aus das Spiel begonnen wird.
 - Auf dem Boden befinden sich unterschiedliche Blöcke. Stellst du dich auf einen der Spezialblöcke, kannst du dessen Fähigkeit nutzen.
@@ -20,11 +21,14 @@ Runde und kann den Kampf für sich entscheiden.
 - Mit 1000 ergatterten Punkten kann der BrainBow-Bogen in der Lobby freigeschalten werden.
 
 ## Die Blöcke
-- <span style="color:#CF0101">Redstone</span>: TNT-Blöcke
-- <strong>Kohle</strong>: Bombe
-- <span style="color:#0000FF">Lapislazuli</span>: Enderperle
-- <span style="color:#64FE2E">Emerald</span>: Gifttrank
-- <span style="color:#D8D8D8">Quartz</span>: Schneefeld (verlangsamt)
+
+| Block | Bezeichnung | Funktion |
+| ------ | ------ | ------ |
+| <span style="color:#CF0101">Redstone</span> | TNT-Block | Müssen in die gegnerischen Scorefelder geschossen werden. |
+| <strong>Kohle</strong>| Bombe | Man kann damit Gegner töten, TNT oder TNT-Blöcke zerstören und sich selbst nach oben boosten. |
+| <span style="color:#0000FF">Lapislazuli</span> | Enderperle | Hilft zur schnellen Fortbewegung auf der Map. |
+| <span style="color:#64FE2E">Smaragd</span> | Gitftrank | Vergiftet Spieler in einem gewissen Umkreis. Den Effekt wird man erst in der eigenes Base wieder los. |
+| <span style="color:#D8D8D8">Quartz</span> | Schneefeld | Damit kannst du Spieler in einem gewissen Umkreis „einfrieren”. |
 
 ## Die Ränge in BrainBow
 
@@ -45,10 +49,13 @@ Runde und kann den Kampf für sich entscheiden.
 Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren werden namentlich nur die ersten Ränge genannt.
 
 ## Premium-Features
-- <span style="color:#F99500">Pros</span> besitzen zwei, <span style="color:#00F9EC">Experts</span> drei Stimmen im Voting-System
-- <span style="color:#F99500">Pros</span>  und <span style="color:#00F9EC">Experts</span> erhalten die doppelte bzw. die dreifache Punkteanzahl.
+- Premium-Spieler besitzen je nach Rang bis zu vier Stimmen im Voting-System.
+- Zum Mapvoting kann jederzeit die Liebslingsmap hinzugefügt werden.
+- Premium-Spieler erhalten bis zu drei mal mehr Pixel.
 - Premium-Spieler können in der Voting-Phase Spieler aus einem vollen Team kicken.
-- Werde mit `/togglerank` als normaler Spieler angezeigt
+- Werde mit `/togglerank` als normaler Spieler angezeigt.
+
+Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium/) nachlesen.
 
 ## Arenen und Maps
 Selbstgebaute Maps für diesen Modus können <a href="https://forum.timolia.de/forums/map-einsendungen.61/" target="_blank">im Forum eingesendet werden</a>. Mehr dazu erfährst du 

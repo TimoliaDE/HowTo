@@ -10,7 +10,7 @@ Equipment dir zur Verfügung steht, bedenke aber: Die Items können nur einmalig
 <p></p>
 
 ## Und so gehts
-- Stimme mit `/vote <Map>` für die Arena deiner Wahl.
+- Stimme mit `/vote <Map>` oder einem Klick im Chat für die Arena deiner Wahl.
 - Nach dem Ende der Voting-Phase werden alle Spieler in die Arena teleportiert.
 - Dir stehen mehrere Kisten mit Items zur Verfügung, diese kannst du jedoch nur einmalig verwenden.
 - Drücke auf den Knopf an der Redstonelampe, um das Signal für den Beginn des Kampfes zu geben.
@@ -18,8 +18,11 @@ Equipment dir zur Verfügung steht, bedenke aber: Die Items können nur einmalig
 - Gewinnt ein Kämpfer insgesamt fünf Runden, hat er das Spiel für sich entschieden.
 
 ## Premium-Features
-- <span style="color:#F99500">Pros</span> besitzen zwei, <span style="color:#00F9EC">Experts</span> drei Stimmen im Voting-System
-- Werde mit `/togglerank` als normaler Spieler angezeigt
+- Premium-Spieler besitzen ja nach Rang bis zu vier Stimmen im Voting-System.
+- Premium-Spieler erhalten bis zu drei mal mehr Pixel.
+- Werde mit `/togglerank` als normaler Spieler angezeigt.
+
+Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium/) nachlesen.
 
 ## Die Ränge in 4rena
 

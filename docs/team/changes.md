@@ -1,11 +1,73 @@
 Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufgelistet.
 
+# 2019
+
+###  <strong>Januar</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+| predii | <span style="color:#E4D100">Supporter</span> | <span style="color:#848484">Spieler</span> | 10.01.19 |
+| FrozenPete | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | 02.01.19 |
+
 # 2018
+
+###  <strong>Dezember</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+| Vectrail | <span style="color:#00646F">Builder</span> | <span style="color:#00F9EC">Native Expert</span> | 31.12.18 |
+| Jintzo | <span style="color:#007812">Developer</span> | <span style="color:#F99500">Native Pro</span> | 27.12.18 |
+| Julian_999999999 | <span style="color:#E4D100">Supporter</span> | <span style="color:#CF0101">Moderator</span> | 17.12.18 |
+| Das_Lagu | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 13.12.18 | 
+| Char1sma | <span style="color:#00F9EC">Expert</span> | <span style="color:#00646F">Builder</span> | 13.12.18 |
+| xiantiel | <span style="color:#2980b9">Administrator</span> | <span style="color:#00F9EC">Native Expert</span> | 13.12.18 |
+| 2h9m | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | 09.12.18 |
+| Sterax | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | 09.12.18 |
+| InfiniteNiki | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | 09.12.18  |
+| einMole | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | 09.12.18 |
+| Tim9875432 | <span style="color:#00F9EC">Native Expert</span> | <span style="color:#E4D100">Supporter</span> | 03.12.18 |
+| SpaceJumper | <span style="color:#00F9EC">Native Expert</span> | <span style="color:#E4D100">Supporter</span> | 03.12.18 |
+| Yeiel2 | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | 03.12.18  |
+| BowspamExpertDE | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | 02.12.18 |
+| RodspamExpertRU | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | 02.12.18 |
+| predii | <span style="color:#848484">Spieler</span> | <span style="color:#E4D100">Supporter</span> | 02.12.18 |
+| OnlyFiinn | <span style="color:#848484">Spieler</span> | <span style="color:#E4D100">Supporter</span> | 02.12.18 |
+
+###  <strong>November</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+| DragonfighterBen | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 27.11.18 | 
+| Hiics | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 27.11.18 |
+| logito111 | <span style="color:#007812">Developer</span> | <span style="color:#F99500">Native Pro</span> | 12.11.18  |
+| Yeiel2 | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 11.11.18  |
+| Naachtara | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Native Expert</span> | 10.11.18 |
+| Jukplays | <span style="color:#00646F">Builder</span> | <span style="color:#00F9EC">Native Expert</span> | 09.11.18 |
+| Tobiocus | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Native Expert</span> | 08.11.18 |
+| \_Geizhals_ | <span style="color:#00646F">Builder</span> | <span style="color:#00F9EC">Native Expert</span> | 03.11.18 |
+| Digimon | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Native Expert</span> | 01.11.18 |
+
+###  <strong>Oktober</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+| Twilex | <span style="color:#CF0101">Moderator</span> | <span style="color:#F99500">Native Pro</span> | 27.10.18 |
+| 12Build | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 22.10.18  |
+| B3artastic | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 22.10.18  |
+| flakk0devil | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 22.10.18  |
+| NameIsTaken | <span style="color:#CF0101">Moderator</span> | <span style="color:#007812">Developer</span> | 15.10.18 |
+| Kenaai | <span style="color:#007812">Developer</span> | <span style="color:#00F9EC">Native Expert</span> | 14.10.18 |
+| \_Siimon_ | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 07.10.18  |
+| 2h9m | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 07.10.18  |
+| arved | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 07.10.18  |
+| DiggerDieter | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span>  | 07.10.18  |
+| FrozenPete | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 07.10.18 |
+| Dankbarkeit | <span style="color:#00646F">Builder</span> | <span style="color:#F99500">Native Pro</span> | 07.10.18 |
 
 ###  <strong>September</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
-| \_ELKMAN\_ | <span style="color:#00F9EC">Expert</span> | <span style="color:#007812">Developer</span> | 03.09.18 |
+| engiwuck | <span style="color:#F99500">Native Pro</span> | <span style="color:#E4D100">Supporter</span> | 30.09.18 |
+| LaShadow | <span style="color:#00646F">Builderin</span> | <span style="color:#00F9EC">Native Expert</span> | 25.09.18 |
+| Caelis | <span style="color:#2980b9">Administrator</span> | <span style="color:#CF0101">Moderator</span> | 24.09.18 |
+| L0L0 | <span style="color:#CF0101">Moderator</span> | <span style="color:#00F9EC">Native Expert</span>  | 19.09.18 |
+|  \_ELKMAN\_ | <span style="color:#00F9EC">Expert</span> | <span style="color:#007812">Developer</span> | 03.09.18 |
 
 ###  <strong>August</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
@@ -166,6 +228,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Juni</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| Tollmolia | <span style="color:#007812">Creator</span> | <span style="color:#00646F">Builder</span> | 25.06.17 |
 | Dankbarkeit | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 25.06.17 |
 | StrombergHD | <span style="color:#00F9EC">Expert</span> | <span style="color:#00646F">Builder</span> | 25.06.17 |
 | InfiniteFery | <span style="color:#00F9EC">Expert</span> | <span style="color:#00646F">Builder</span> | 25.06.17 |
@@ -313,6 +376,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>August</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+<<<<<<< docs/team/changes.md
 | TacticalDOC | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | 31.08.16 |
 | 0sch | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | 31.08.16 |
 | xnulix | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 28.08.16 |

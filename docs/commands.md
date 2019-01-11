@@ -8,11 +8,9 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | ------ | -------- |
 | `/hub`, `/lobby`                | Teleportiert dich in die Lobby |
 | `/games`                        | Teleportiert dich zu den Games-Servern |
-| `/city`                         | Teleportiert dich zu den CityBuild-Servern |
 | `/msg`                          | Erlaubt MSGs mit Freunden, keinem oder allen |
 | `/msg <Spieler>`, `/m`          | Schreibe mit einem Spieler im Privatchat |
 | `/lookup <Spieler>`, `/lu`      | Zeigt dir LogIn-Informationen über einen Spieler |
-| `/pro`, `/expert`               | Zeigt die restliche Premium-Zeit an |
 | `/top`                          | Zeigt dir die Top 10 Spieler der letzten 30 Tage in einem Spielmodus an |
 | `/achievements`                 | Listet eine Übersicht aller Achievements auf |
 | `/vote <Zahl>`                  | Votet für eine Map in einem Spielmodus |
@@ -32,11 +30,13 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/tickets`                      | Öffnet eine Übersicht über deine Tickets |
 | `/teamspeak`, `/ts`             | Zeigt die TS-IP, ermöglicht die Verifizierung und lässt dich deine Identität verwalten |
 | `/jointeam <Team-Farbe>`, `/team` | Betrete ein Team in Castles, Brainbow und Mineception |
-| <span style="color:#F99500">Pro</span> und <span style="color:#00F9EC">Expert</span> only: | |
+**[Premium](/ranks/premium/) only**:
 | `/togglerank`, `/tr`            | Werde in allen Spielmodi als normaler Spieler angezeigt |
 | `/ptime <day/night/midnight/sunrise/noon/afternoon/sunset/reset/hh:mm>` | Zeit für sich selbst umstellen |
 | `/pweather <sun/rain/reset>`    | Wetter für sich selbst umstellen |
-| <span style="color:#4C0B5F">YouTuber</span> und <span style="color:#F99500">Pro+</span> only: | |
+| [<span style="color:#55FF55">VIP</span>](/ranks/youtube/) only: | |
+| `/nick`, `/nickname`            | Ermöglicht es dir, dich zu nicken |
+| [<span style="color:#4C0B5F">YouTuber</span>](/ranks/youtube/) only: | |
 | `/forcemap`                     | Erzwinge bei einem Spiel mit Voting-System eine bestimmte Map |
 | `/startgame [Sekunden]`         | Starte ein Spiel |
 | `/abortstart`                   | Brich den Start eines Spiels ab |
@@ -48,7 +48,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 
 | Befehl | Funktion |
 | ------ | -------- |
-| `/report <Spieler>`, `/rp`, `/chatreport`, `/chatrp`, `/chatlog`, `/cl`, `/livereport`, `/liverp` | Erstellt nach Auswählen der Kategorie einen Report |
+| `/report <Spieler>`, `/rp`, `/chatreport`, `/chatrp`, `/chatlog`, `/cl`, `/livereport`, `/liverp`, `/teamingreport`, `/teamrp` | Erstellt nach Auswählen der Kategorie einen Report |
 | `/reportjnr <ID>`               | Erstellt einen Report über ein Jump and Run in Jump World |
 | `/reportbugusing <Spieler> <Beschreibung>` | Erstellt einen Bugusingreport |
 | `/reportevidence <Spieler> <Beweis>` | Erstellt einen Report mit Beweis |
@@ -60,7 +60,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | Befehl | Funktion |
 | ------ | -------- |
 | `/sync {0, 1, 2...]`, `/armorsync` | Synchronisiert die farbwechselnde Rüstung aus dem PixelShop |
-| `/fixkickvalue`, `/fixkv`       | Setzt deine Kick-Value zurück. Wie das Kick-System funktioniert, kannst du [<strong>hier</strong> nachlesen](https://howto.timolia.de/faq/#wie-funtkioniert-das-kick-system-bei-vollen-lobbys) |
+| `/fixkickvalue`, `/fixkv`       | Setzt deine Kick-Value zurück. Wie das Kick-System funktioniert, kannst du [<strong>hier</strong> nachlesen](https://howto.timolia.de/faq/#wie-funktioniert-das-kick-system) |
 | `/stats <Spieler>`, `/records`, `/statistic`, `/statistik` | Zeigt dir die Stats eines Spielers an |
 | `/stats <Spieler> <Spieler>...` | Ermöglicht es dir, die Stats von mehreren Spielern zu vergleichen |
 | `/spawn`                        | Teleportiert dich zurück zum Spawn vom Hub |
@@ -75,7 +75,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 
 ### Freundesystem
 
-Anstatt `/friend` kann jeweils `/f` genutzt werden
+Anstatt `/friend` kann jeweils `/f` genutzt werden.
 
 | Befehl | Funktion |
 | ------ | -------- |
@@ -102,6 +102,23 @@ Anstatt `/friend` kann jeweils `/f` genutzt werden
 | `/party togglechat`             | Schaltet zwischen Party-Chat und normalem Chat um |
 | `/party promote <Spieler>`      | Ernennt einen Spieler zum Moderator |
 | `/party demote <Spieler>`       | Degradiert einen Spieler zum Mitglied |
+
+### Zwei-Faktor-Authentifizierung
+
+Mit der Zwei-Faktor-Authentifizierung verhinderst du, dass Unbefugte mit deinem Account auf Timolia spielen. 
+Du wirst beim Login nach einem Code gefragt, den dein Handy automatisch alle 30 Sekunden neu generiert. 
+So können sich nur Personen verifizieren, die Zugriff auf dein Handy haben.
+Solltest du dein Handy verlieren, kannst du dich weiterhin mit Backupcodes anmelden, die du beim Einrichten von 2fa erhältst und sicher verwahren solltest.
+
+| Befehl | Funktion |
+| ------ | -------- |
+| `/2fa`                          | Zeigt dir die Hilfe für die Zwei-Faktor-Authentifizierung an |
+| `/2fa setup`                    | Richtet die Zwei-Faktor-Authentifizierung ein |
+| `/2fa disable`                  | Deaktiviert die Zwei-Faktor-Authentifizierung |
+| `/2fa buc`                      | Listet alle unbenutzten Backupcodes auf |
+| `/2fa logout`                   | Kickt dich vom Netzwerk und loggt dich aus der Zwei-Faktor-Authentifizierung aus |
+
+
 
 ## 2 - Befehle der einzelnen Modi
 
@@ -134,11 +151,11 @@ Anstatt `/friend` kann jeweils `/f` genutzt werden
 | `/matchinfo`                    | Zeigt Informationen über den aktuellen Kampf |
 | `/queue`, `/q`                  | Fügt dich zur Warteschlange hinzu |
 | `/compare <Name> <Name>`, `/compareplayers` | Zeigt die Kampfstatistik zweier Spieler |
-| `/lastinv <Spieler>`, `/inv`    | Zeit das letzte Inventar eines Spielers |
+| `/lastinv <Spieler>`, `/inv`    | Zeigt das letzte Inventar eines Spielers |
 | `/liveinv <Spieler>`, `/liveinventory` | Zeigt das aktuelle Inventar eines Spielers |
 | `/rankinfo`, `/ranginfo`        | Zeigt Informationen zum aktuellen Rang |
 | `/settings`                     | Öffnet die Einstellungen |
-| <span style="color:#F99500">Pro</span> und <span style="color:#00F9EC">Expert</span> only: | |
+**[Premium](/ranks/premium/) only**:
 | `/hat`                          | Setzt das Item in deiner Hand als den Helm deines Kits |
 | `/create [Passwort]`, `/createtournament` | Erstellt ein Turnier (optional mit einem Passwort) |
 | `/modify`, `/modifytournament`  | Bearbeitet die Turniereinstellungen |
@@ -152,7 +169,8 @@ Anstatt `/friend` kann jeweils `/f` genutzt werden
 | `/rot`, `/rotation`             | Zeigt die Spielrotation |
 | `/last`                         | Zeigt die zuletzt gespielten Spiele |
 | `/join <Spieler>`               | Betrete ein öffentliches Turnier |
-| <span style="color:#F99500">Pro</span> und <span style="color:#00F9EC">Expert</span> only: | |
+| `/leave`                        | Verlasse ein Turnier |
+**[Premium](/ranks/premium/) only**:
 | `/create`                       | Erstellt ein Turnier |
 | `/invite <Spieler>`             | Lädt einen Spieler in dein Turnier ein |
 
@@ -160,65 +178,38 @@ Anstatt `/friend` kann jeweils `/f` genutzt werden
 
 | Befehl | Funktion |
 | ------ | -------- |
-| `/enter <ID>`, `/e`             | Betrete ein bestimmtes Jump 'n' Run |
-| `/editparcour`, `/edit [Slot]`  | Editiert das Jump 'n' Run auf einem bestimmten Slot |
+| `/enter <ID>`, `/e <ID>`        | Betrete ein bestimmtes Jump 'n' Run |
 | `/leave`, `/l`                  | Verlässt das aktuelle Jump 'n' Run |
 | `/setstart`                     | Setzt den Startpunkt deines Jump 'n' Runs |
-| `/setend`                       | Setzt den Endpunkt deines Jump 'n' Runs |
 | `/checkpoint`, `/fall`, `/kill` | Teleportiert dich zurück zum letzten Checkpoint |
-| `/duel <Spieler>`               | Lädt einen Spieler in ein Duell ein |
+| `/duel invite <Spieler>`        | Lädt einen Spieler in ein Duell ein |
 | `/duel accept <Spieler>`        | Nimmt die Einladung in ein Duell an |
 | `/duel leave <Spieler>`         | Verlässt ein Duell |
+| `/duel kick <Spieler>`          | Kickt einen Spieler aus einem Duell |
 | `/setblock`                     | Platziert den Block in deiner Hand unter dir |
-| `/jump`                         | Lässt dich dein Jump 'n' Run testen |
+| `/jump`                         | Wechselt zwischen Jump- und Bau-Modus |
 | `/b`                            | Öffnet das Bau-Info-Menü |
+| `/kit`                          | Gibt dir die Start-Items im Bau-Modus |
 | `/join <Name>`                  | Betritt das Jump 'n' Run, auf dem sich [Spieler] gerade befindet |
 | `/top <ID>`                     | Zeigt die Top-Zeiten des Jump 'n' Runs mit der ID [id] an |
-| `/top <ID> -f`                  | Zeigt die schlechtesten Zeiten für ein Jump 'n' Run an |
+| `/top <ID> -f`                  | Zeigt die wenigsten Fails des Jump 'n' Runs mit der ID [id] an |
+**[Premium](/ranks/premium/) only**:
+| `/skull [Name]`                 | Gibt dir einen Spielerkopf
 
 ### Castles
 | Befehl | Funktion |
 | ------ | -------- |
 | `/kill`                         | Tötet dich selbst |
+| `/jointeam <Team-Farbe>`, `/team` | Betrete ein Team |
 
-
-## 3 - CityBuild
-
-### Allgemeine Befehle
-
+### Bauwelt
 | Befehl | Funktion |
 | ------ | -------- |
-| `/sb`                           | Öffnet das Menü des Scoreboards |
-| `/rezepte`                      | Zeigt dir zu jedem Item das Craftingrezept an |
-| `/timazon`, `/tbay`             | Öffnet ein Menü zum Items bestellen |
-| `/suicide`                      | Tötet sich selbst |
-| `/pay <Spieler> <Betrag>`       | Überweist einem anderen Spieler Geld |
-| `/money`                        | Zeigt deinen Kontostand |
-| `/mail senditems <Spieler> <Text>` | Schicke einem Spieler Items per Mail |
-| `$<Nachricht>`                  | Schreibe im Handelschat |
-| `/ch join handel`               | Wählt den Handelschat als Standardchannel aus |
-| `/ch join global`               | Wechselt in den default Citychannel |
-| `/trg`                          | Öffnet das Interface des Grundstücks |
-| `/skin`, `/skins`, `/gardarobe`, `/kostueme` | Öffnet eine Übersicht deiner Kostüme |
-| `/abbau`                        | Bringt dich in die Abbauwelt |
-| `/balancetop`                   | Zeigt die 10 reichsten Spieler an |
-| `/shop`                         | Bringt dich in die Shopwelt |
-| `/ecolog`                       | Zeig einen Log über dein Geld |
-| `/worldspawn`                   | Teleportiert dich zum Spawn der aktuellen Welt |
-| <span style="color:#F99500">Pro</span> und <span style="color:#00F9EC">Expert</span> only: | |
-| `/craft`, `/workbench`          | Craftingfeld aufrufen |
-| `/hat`                          | Item in der Hand auf den Kopf setzen |
-| `/enderchest`                   | Enderchest aufrufen |
-| `/shulkerbox`, `/shulker`, `/sbox`, `/box` | Öffnet die Shulkerbox, ohne sie abstellen zu müssen |
-
-
-### Teleportieren zu anderen Personen (Taxi / TPA)
-
-Mit dem Taxi kommst du direkt zu der gleichen Position wie dein Freund.
-Für User kostet ein Taxi 100T, für Pros 75T und für Experts 50T
-
-| Befehl | Funktion |
-| ------ | -------- |
-| `/tpa <Name>`                   | Stellt dem Spieler eine Anfrage |
-| `/tpaccept <Name>`              | Nimmt die Anfrage des Spielers an |
-| `/tpa toggle`                   | Aktviert oder deaktiviert TPA-Anfragen für dich |
+| `/bauwelt` | Listet alle Befehle der Bauwelt auf |
+| `/spawn` | Telportiert dich zum Spawn der Bauwelt |
+| `/finish` | Gibt deinen fertigen Plot ab |
+| `/save` | Speichert deinen Plot |
+| `/backup [Seite]` | Ruft alle gespeicherten Backups auf |
+| `/tutorial` | Teleportiert dich zum Tutorial |
+| `/reset` | Resettet deinen Plot |
+| `/hdb` | Öffnet die HeadDatabase |

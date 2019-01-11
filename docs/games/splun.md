@@ -4,6 +4,7 @@
 Splun ist eine Kombination aus <strong>Spl</strong>eef und Jump and R<strong>un</strong> und eignet sich perfekt als kleines Spiel für Zwischendurch.
 
 ## Und so gehts
+- Stimme mit `/vote <Map>` oder einem Klick im Chat für die Map deiner Wahl.
 - Versuche, so lange wie möglich zu überleben, indem du von Block zu Block springst.
 - Alles, was du berührst, verschwindet unter deinen Füßen.
 - Mit verschiedenen Items kannst du deine Gegner beeinflussen oder dich schneller bewegen.
@@ -41,8 +42,12 @@ Splun ist eine Kombination aus <strong>Spl</strong>eef und Jump and R<strong>un<
 Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren werden namentlich nur die ersten Ränge genannt. 
 
 ## Premium-Features
-- <span style="color:#F99500">Pros</span> besitzen zwei, <span style="color:#00F9EC">Experts</span> drei Stimmen im Voting-System
-- Werde mit `/togglerank` als normaler Spieler angezeigt
+- Premium-Spieler besitzen je nach Rang bis zu vier Stimmen im Voting-System.
+- Zum Mapvoting kann jederzeit die Liebslingsmap hinzugefügt werden.
+- Premium-Spieler erhalten bis zu drei mal mehr Pixel.
+- Werde mit `/togglerank` als normaler Spieler angezeigt.
+
+Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium/) nachlesen.
 
 ## Arenen und Maps
 Selbstgebaute Maps für diesen Modus können <a href="https://forum.timolia.de/forums/map-einsendungen.61/" target="_blank">im Forum eingesendet werden</a>. Mehr dazu erfährst du 

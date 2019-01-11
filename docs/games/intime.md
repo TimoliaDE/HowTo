@@ -13,6 +13,12 @@ Wenn deine eigene Zeit abgelaufen ist stirbst du, deshalb ist es wichtig, mit de
 - Nach einiger Zeit erhält man in der Mitte der Map Lebenszeit, sofern man sich dort alleine aufhält.
 - Stirbt ein Spieler, wird die Restzeit, die der Spieler noch besaß, gleichmäßig auf alle verbleibenden Kämpfer verteilt.
 
+## Spezielle Items
+- **Zeitspeicher**: Wenn man einen Zeitspeicher rechtsklickt, bekommt man zwischen 90 und 190 Prozent des Kaufpreises an Zeit wieder zurück.
+- **Timekeeper**: Wenn man einen Timekeeper rechtsklickt, wird die Schutzphase beendet.
+- **Uhr**: Wenn man einen Gegner mit der Uhr schlägt, klaut man diesem seine Lebenszeit. Bei einem normalen Schlag werden zehn, bei einem Critical Hit fünfzehn Sekunden übertragen.
+- **Kompass**: Der Kompass führt dich zu deinem nächsten Gegner.
+
 ## Die Ränge in InTime
 
 | Rang | Punkte | Name |
@@ -29,11 +35,9 @@ Wenn deine eigene Zeit abgelaufen ist stirbst du, deshalb ist es wichtig, mit de
 
 Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren werden namentlich nur die ersten Ränge genannt.
 
-## Spezielle Items
-- <strong>Zeitspeicher</strong>: Wenn man einen Zeitspeicher rechtsklickt, bekommt man zwischen 90 und 190 Prozent des Kaufpreises an Zeit wieder zurück.
-- <strong>Timekeeper</strong>: Wenn man einen Timekeeper rechtsklickt, wird die Schutzphase beendet
-- <strong>Uhr</strong>: Wenn man einen Gegner mit der Uhr schlägt, klaut man diesem seine Lebenszeit. Bei einem normalen Schlag werden zehn, bei einem Critical Hit fünfzehn Sekunden übertragen.
-- <strong>Kompass</strong>: Der Kompass führt dich zu deinem nächsten Gegner
-
 ## Premium-Features
-- Werde mit `/togglerank` als normaler Spieler angezeigt
+- Premium-Spieler besitzen je nach Rang bis zu vier Stimmen im Voting-System.
+- Premium-Spieler erhalten bis zu drei mal mehr Pixel.
+- Werde mit `/togglerank` als normaler Spieler angezeigt.
+
+Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium/) nachlesen.

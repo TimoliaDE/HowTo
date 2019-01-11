@@ -7,6 +7,7 @@ bauen sie sich von dir weg, kommen sie doch bei dir an! Mineception ist ein Team
 aus dem Gefängnis auf eurer Spawninsel befreien! Um sie zu dir zu rufen, kannst du einfach sneaken - eine Klingel ertönt als Signal bei deinen Mitspielern.
 
 ## Und so gehts
+- Stimme mit `/vote <Map>` oder einem Klick im Chat für die Map deiner Wahl.
 - Ziel des Spiels ist es, alle gegnerischen Mannschaften zu eliminieren. 
 - Eine Mannschaft ist ausgeschieden, sobald sich alle Spieler dieses Teams gleichzeitig im Gefängnis befinden und sich somit nicht mehr gegenseitig befreien können. 
 - Ist nur noch ein Team auf freiem Fuße, endet das Spiel - solange niemand einen “Du kommst aus dem Gefängnis frei!” Chip hat, versteht sich. Was genau es damit auf sich hat, findest du in der Itemerklärung.
@@ -46,5 +47,10 @@ Wie viel du für diesen Chip bezahlen musst, hängt von der Zahl deiner Mitspiel
 - <strong>Blitzstab</strong>: Der Blitzstab erzeugt einen schmalen Blitz aus Glasscheiben bis zur nächsten anvisierten Insel. Sei vorsichtig, er ist schmal, lückenhaft und genauso schnell wieder verschwunden, wie er erschienen ist!
 
 ## Premium-Features
-- <span style="color:#F99500">Pros</span> besitzen zwei, <span style="color:#00F9EC">Experts</span> drei Stimmen im Voting-System
-- Werde mit `/togglerank` als normaler Spieler angezeigt
+- Premium-Spieler besitzen je nach Rang bis zu vier Stimmen im Voting-System.
+- Zum Mapvoting kann jederzeit die Liebslingsmap hinzugefügt werden.
+- Premium-Spieler erhalten bis zu drei mal mehr Pixel.
+- Premium-Spieler können in der Voting-Phase Spieler aus einem vollen Team kicken.
+- Werde mit `/togglerank` als normaler Spieler angezeigt.
+
+Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium/) nachlesen.

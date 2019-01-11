@@ -21,13 +21,17 @@ Turnieren gegen deine Mitspieler und gewinne die meisten Spiele.
 Ziel dieses Spiels ist es, deine Gegner im Zweikampf zu besiegen. Man kämpft nach und nach gegen einen anderen Spieler, der letzte Überlebende gewinnt das Minispiel.
 
 ### Anvil-Crusher
-Ziel dieses Spiels ist es, der letzte Überlebende zu sein. Es fallen jede Sekunde mehr Anvils vom Himmel, diesen musst du ausweichen.
+Ziel dieses Spiels ist es, der letzte Überlebende zu sein. Es fallen jede Sekunde mehr Anvils vom Himmel, diesen musst du ausweichen. Tipp: FOV möglichst niedrig einstellen oder Zoom benutzen!
+
+### Bomberman
+Ziel des Spieles ist es, als längstes zu überleben. Mit der Tastatur lässt sich der Charakter durch die Map steuern. Blöcke, die euch den weg versperren, können mit TNT gesprengt werden.
+Das TNT kann mit der Leertaste gesetzt werden. Auf der Map sind Power-Ups, wie mehrere Bomben, höhere Reichweite und Geschwindigkeit zu finden.
 
 ### Clicker
 Ziel dieses Spiels ist es, als erster Spieler 64 mal den Knopf an dem Goldblock zu treffen. Der Goldblock wechselt nach jedem Treffer beziehungsweise Verfehlen seine Position.
 Das richtige Zielen ist in diesem Spiel sehr wichtig.
 
-### Colour Clock
+### Color Clock
 Ziel dieses Spiels ist es, vor Ablauf der Zeit das Farbfeld am Rand der Map zu erreichen, welches in der Mitte der Arena von der Decke fällt.
 Wichtig ist es, taktisch zu entscheiden, ob es sich noch lohnt zum nächsten Farbfeld zu laufen, oder ob man lieber direkt zum übernächsten Feld läuft.
 Die Reihenfolge der Farben wird in der Mitte durch übereinanderliegende Wollblöcke angezeigt.
@@ -49,6 +53,9 @@ keine Blöcke aufsammeln.
 Ziel dieses Spiels ist es, als erster Spieler fünf Punkte zu ergattern. Mit der Schallplatte änderst du deine Gravitation und kannst so vorankommen, der nächste Punkt wird dir im Kompass angezeigt. 
 Die fünf farbigen Glasblöcke zeigen dir zusätzlich den nächsten Punkt. Wichtig: Du musst die Punkte in der richtigen Reihenfolge ablaufen.
 
+### Half-Heart-Race
+Ziel des Spieles ist es, nach unten zu gelangen - und das nur mit einem halben Herz! Der Erste gewinnt.
+
 ### Kabelsalat
 Ziel dieses Spiels ist es, als Erster zwei Kabelenden zu verbinden und den Stromzufluss auf 100% zu bringen. Man kann andere Kabel manipulieren, indem man diese mit der Schere durchschneidet. 
 Berühren sich zwei stromdurchflossene Kabel explodieren sie, dies kann man durch Verwendung eines isolierten Kabels verhindern.
@@ -69,6 +76,12 @@ Den Würfel bewegst du mit Links- und Rechtsklick auf die Farbfelder.
 Ziel dieses Spiels ist es, nach Ablauf der Zeit am meisten verschiedene Items gesammelt zu haben. Die Welt, in der gespielt wird, ist dabei zufällig generiert und auf 24x24 Chunks begrenzt.
 Im Scoreboard wird angezeigt, wie viele verschiedene Items bereits gesammelt wurden, am Ende des Spiels wird das Inventar des Gewinners eingeblendet.
  
+### Sumo
+Ziel dieses Spiels ist es, möglichst viele Gegner runterzuschlagen. Für jeden Kill bekommt man zwei. Punkte, für jeden Tod einen Punkt abgezogen. Mit dem Boost kannst du dich einmal retten. Der Spieler mit den meisten Punkten gewinnt. 
+ 
+### Tron
+Ziel des Spiel ist es, als längstes zu überleben. Die Minecarts der Spieler hinterlassen Spuren aus Glas. Sobald eine gegnerische Spur oder ein Hindernis berührt wird, stirbt man. 
+ 
 ### Turmspringen
 Ziel dieses Spiels ist es, durch das Treffen von Wasserlöchern die meisten Punkte zu sammeln. Je nach Größe des Wasserlochs bekommt man einen, zwei oder drei Punkte. 
 Schafft man den Sprung ins Wasser nicht, verliert man einen Punkt. Das Spiel endet, wenn nach einer bestimmten Zeit niemand mehr im Wasser landet.
@@ -82,18 +95,22 @@ Ziel dieses Spiels ist es, die meisten Skins von YouTubern in der schnellsmögli
 Der Spieler, der als Erster den Namen errät, bekommt drei Punkte, der Zweitplatzierte erhällt zwei Punkte. Alle weiteren Spieler erhalten beim Erraten jeweils einen Punkt.
 Insgesamt werden acht Runden gespielt.
  
+## Premium-Features
+- Erstelle öffentliche Turniere.
+- Premium-Spieler erhalten bis zu drei mal mehr Pixel.
+- Favorisiere zwei bzw. drei Spiele.
+- Werde mit `/togglerank` als normaler Spieler angezeigt.
+
+Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium/) nachlesen.
+ 
 ## Die Befehle
  
 | Befehl | Funktion |
 | ------ | -------- |
 | `/rot` | Zeigt die Spielrotation |
 | `/last` | Zeigt die zuletzt gespielten Spiele |
-| `/join <Spieler>` | Betrete ein öffentliches Turnier |
-<span style="color:#F99500">Pro</span> und <span style="color:#00F9EC">Expert</span> only:
-| `/create` | Erstellt ein Turnier |
+| `/join <Spieler>` | Betrete ein Turnier |
+| `/leave` | Verlasse ein Turnier |
+**[Premium](/ranks/premium/) only**:
+| `/create`          | Erstellt ein öffentliches oder privates Turnier |
 | `/invite <Spieler>` | Lädt einen Spieler in dein Turnier ein |
-
-## Premium-Features
-- Erstelle öffentliche oder private Turniere
-- Favorisiere zwei bzw. drei Spiele
-- Werde mit `/togglerank` als normaler Spieler angezeigt

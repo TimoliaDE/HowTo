@@ -2,97 +2,102 @@ Hier werden die verschiedenen Aufgabenbereiche der Timolia Teamler aufgelistet.
 
 # Forum
 
-###<strong>Gesamtes Forum</strong>
-Die Verantwortlichen für das gesamte Forum kümmern sich sowohl um den Aufbau des Forums als auch um Probleme, welche im Forum auftreten.
+### **Forenorganisation**
+Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufbau des Forums als auch um Probleme, welche im Forum auftreten.
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#CF0101">NameIsTaken</span> | Nebenverantwortlich |
+|<span style="color:#007812">NameIsTaken</span> | Nebenverantwortlich |
 
-###<strong>Anregungen und Vorschläge</strong>
+### **Anregungen und Vorschläge**
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
-|<span style="color:#CF0101">NameIsTaken</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">CoveredSymmetry</span> | Nebenverantwortlich |
 
-###<strong>Fragen und Antworten</strong>
+### **Fragen und Antworten**
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#E4D100">Julian_999999999</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">Julian_999999999</span> | Hauptverantwortlich |
+|<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#2980b9">svdragster</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Chrissi1505</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">CoveredSymmetry</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Tobiocus</span> | Nebenverantwortlich |
 
-###<strong>Feedback</strong>
+### **Feedback**
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#2980b9">svdragster</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">Julian_999999999</span> | Nebenverantwortlich |
 
-###<strong>Map-Einsendungen</strong>
+### **Map-Einsendungen**
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#CF0101">Schonas</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">saporital</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">felliongi21</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">LordKnockback</span> | Nebenverantwortlich |
+|<span style="color:#2980b9">Lascona</span> | Nebenverantwortlich |
+|<span style="color:#2980b9">svdragster</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">RodspamExpertRU</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">BowspamExpertDE</span> | Nebenverantwortlich |
+|<span style="color:#00646F">12Build</span> | Nebenverantwortlich |
+|<span style="color:#00646F">B3artastic</span> | Nebenverantwortlich |
 
-###<strong>Spieler melden</strong>
+### **Spieler melden**
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#E4D100">felliongi21</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">LordKnockback</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">predii</span> | Nebenverantwortlich |
 
-###<strong>Bug melden</strong>
+### **Bug melden**
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#CF0101">Schonas</span> | Hauptverantwortlich |
 | | |
 |Moderatoren und Developer| Nebenverantwortlich |
 
-###<strong>Entschuldigungen</strong>
+### **Entschuldigungen**
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#CF0101">ItsSarahh</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">Julian_999999999</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#CF0101">NameIsTaken</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Aenzo</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Elegeta</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Naachtara</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">einMole</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">OnlyFiinn</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">predii</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">RodspamExpertRU</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">SpaceJumper</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Sterax</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Tim9875432</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
 
-###<strong>Zu Unrecht gebannt</strong>
+### **Zu Unrecht gebannt**
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#CF0101">Metrixx7</span> | Hauptverantwortlich |
 | | |
+|<span style="color:#CF0101">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">Schonas</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">BowspamExpertDE</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">OnlyFiinn</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Sterax</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
-
-###<strong>CityBuild</strong>
-| Teamler | Verantwortungsgrad |
-| ------ | ------ |
-|<span style="color:#2980b9">Docmac</span> | Hauptverantwortlich |
 
 # Sonstige Aufgaben
 
-###<strong>AntiCheat</strong>
+### **AntiCheat**
 Diese Teamler sorgen für einen fortlaufend reibungslosen Spielverlauf ohne Hacker.
 
 | Teamler | Verantwortungsgrad |
@@ -100,18 +105,17 @@ Diese Teamler sorgen für einen fortlaufend reibungslosen Spielverlauf ohne Hack
 |<span style="color:#2980b9">svdragster</span> | Hauptverantwortlich |
 |<span style="color:#007812">Raziel</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#CF0101">L0L0</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">Metrixx7</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">felliongi21</span> | Nebenverantwortlich |
 
-###<strong>Bugs und Spielfehler</strong>
+### **Bugs und Spielfehler**
 Bei jeglichen Fehlern in den Diensten von Timolia kümmert sich dieser Teamler darum, dass die Bugs an den jeweiligen Entwickler weitergetragen werden.
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#CF0101">Schonas</span> | Hauptverantwortlich |
 
-###<strong>Supporterauswahl</strong>
+### **Supporterauswahl**
 Wenn es wieder daran geht, neue Supporter in unsere Reihen zu holen, kümmern sich diese Verantwortlichen darum.
 
 | Teamler | Verantwortungsgrad |
@@ -122,15 +126,17 @@ Wenn es wieder daran geht, neue Supporter in unsere Reihen zu holen, kümmern si
 | | |
 |<span style="color:#CF0101">Metrixx7</span> | Nebenverantwortlich |
 
-###<strong>Timolia HowTo</strong>
+### **Timolia HowTo**
 Diese Teamler kümmern sich um's Aktualisieren und Erstellen des HowTos Timolias.
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#CF0101">Metrixx7</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
+| | |
+|<span style="color:#CF0101">Julian_999999999</span> | Nebenverantwortlich |
 
-###<strong>Social-Media</strong>
+### **Social-Media**
 Für einen ständigen Support und Content auf Twitter und anderen sozialen Medien sorgen diese Teamler.
 
 | Teamler | Projekte u. Verantwortungsgrad |
@@ -143,53 +149,53 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 |<span style="color:#CF0101">ItsSarahh</span> | Twitter NV|
 |<span style="color:#007812">tr7zw</span> | Twitter NV |
 |<span style="color:#E4D100">Chrissi1505</span> | Twitter NV |
-|<span style="color:#E4D100">Naachtara</span> | Twitter NV |
 |<span style="color:#E4D100">xTessia</span> | Twitter NV |
-|<span style="color:#00646F">JukPlays</span> | Bauteam-Twitter HV |
-|<span style="color:#00646F">xnulix</span> | Bauteam-Twitter NV |
+|<span style="color:#00646F">Tollmolia</span> | Bauteam-Twitter NV |
 |<span style="color:#007812">die_maren</span> | Bauteam-Twitter NV |
 
-###<strong>TeamSpeak</strong>
+### **TeamSpeak**
 Der Teamspeak von Timolia ist unter ts.timolia.de zu erreichen. Er wird betreut von diesen Teamlern.
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#007812">MCelements</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Julian_999999999</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">Julian_999999999</span> | Nebenverantwortlich |
+|<span style="color:#007812">physanus</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
 
-###<strong>Timolia Turnier Organisation</strong>
-Die beiden Supporter entscheiden über Turniereinstellungen bei den Freitagsturnieren.
+### **Timolia Turnier Organisation**
+Dieses Team entscheidet über die Turniereinstellungen bei den Freitagsturnieren.
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#E4D100">Calavero</span> | Hauptverantwortlich |
-|<span style="color:#E4D100">FlorianFida</span> | Hauptverantwortlich |
+|<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">ItsSarahh</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
+|<span style="color:#E4D100">medicoo</span> | Hauptverantwortlich |
 
-###<strong>Broadcasts</strong>
+### **Broadcasts**
 Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadcast Mitteilungen gekümmert.
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#CF0101">L0L0</span> | Hauptverantwortlich |
+|<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
+|<span style="color:#E4D100">CoveredSymmetry</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#2980b9">Lascona</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Naachtara</span> | Nebenverantwortlich |
+|<span style="color:#007812">MCelements</span> | Nebenverantwortlich |
+|<span style="color:#00646F">eZZfery</span> | Nebenverantwortlich |
 
-###<strong>Team-Leiter</strong>
+### **Team-Leiter**
 Im Timolia Team gibt es kleinere Teams, welche unter anderem durch diese Verantwortlichen organisiert werden.
 
 | Teamler | Zuständigkeit |
 | ------ | ------ |
-|<span style="color:#2980b9">Caelis</span> | Management des Development-Teams |
 |<span style="color:#CF0101">Tedget</span> | Management des Development-Teams |
 |<span style="color:#2980b9">Lascona</span> | Management des Creator-Teams und des YouTube-Teams |
-|<span style="color:#00646F">Vectrail</span> | Management des Bau-Teams |
+|<span style="color:#CF0101">saporital</span> | Management des Bau-Teams |
 
-###<strong>Testen der Games-Maps</strong>
+### **Testen der Games-Maps**
 Diese Teamler sind für das Bewerten, Aktualisieren und Kategorisieren von Games Maps zuständig.
 
 | Teamler | Zuständigkeit |
@@ -200,10 +206,9 @@ Diese Teamler sind für das Bewerten, Aktualisieren und Kategorisieren von Games
 |<span style="color:#CF0101">Metrixx7</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">Schonas</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">FlorianFida</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">Naachtara</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
 
-###<strong>YouTuber Events</strong>
+### **YouTuber Events**
 Events, welche von dem Timolia Team für YouTuber veranstaltet werden, werden von diesem Team organisiert.
 
 | Teamler | Zuständigkeit |
@@ -214,7 +219,7 @@ Events, welche von dem Timolia Team für YouTuber veranstaltet werden, werden vo
 | | |
 |<span style="color:#E4D100">Elegeta</span> | Nebenverantwortlich |
 
-###<strong>YouTuber-Ränge</strong>
+### **YouTuber-Ränge**
 Wenn sich ein YouTuber für einen Rang auf Timolia interessiert, werden die Anfragen von diesem Team bearbeitet.
 
 | Teamler | Zuständigkeit |

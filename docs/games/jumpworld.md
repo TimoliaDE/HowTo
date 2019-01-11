@@ -32,26 +32,31 @@ Um das Jump and Run des Tages von Tag X zu werden:
 - Im Baumenü kannst du deinem Parcour einen Namen geben.
 
 ## Premium-Features
-- Zwei Bauslots für <span style="color:#F99500">Pros</span>, drei Bauslots für <span style="color:#00F9EC">Experts</span>
-- Armorstands und Spielerköpfe beim Bauen von Jump and Runs
-- Werde mit `/togglerank` als normaler Spieler angezeigt
+- Premium-Spieler erhalten bis zu drei mal mehr Pixel.
+- Je nach Rang bis zu 3 Bauslots.
+- <span style="color:#55FF55">MVP</span> oder höher: Armorstands und Spielerköpfe beim Bauen von Jump and Runs.
+- Je nach Rang lassen sich bis zu 128 Entities platzieren.
+- Werde mit `/togglerank` als normaler Spieler angezeigt.
+
+Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium/) nachlesen.
 
 ## Befehle
-
 | Befehl | Funktion |
 | ------ | -------- |
-| `/enter <ID>`, `/e` | Betrete einen bestimmtes Jump 'n Run |
-| `/saveparcour` | Speichert dein aktuelles Jump 'n Run |
-| `/leave`, `/l` | Verlässt das aktuelle Jump 'n Run |
-| `/setstart` | Setzt den Startpunkt deines Jump 'n Runs |
-| `/setend` | Setzt den Endpunkt deines Jump 'n Runs |
+| `/enter <ID>`, `/e <ID>`        | Betrete ein bestimmtes Jump 'n' Run |
+| `/leave`, `/l`                  | Verlässt das aktuelle Jump 'n' Run |
+| `/setstart`                     | Setzt den Startpunkt deines Jump 'n' Runs |
 | `/checkpoint`, `/fall`, `/kill` | Teleportiert dich zurück zum letzten Checkpoint |
-| `/duel <Spieler>` | Lädt einen Spieler in ein Duell ein |
-| `/duel accept <Spieler>` | Nimmt die Einladung in ein Duell an |
-| `/duel leave <Spieler>` | Verlässt ein Duell |
-| `/setblock` | Platziert den Block in deiner Hand unter dir |
-| `/jump` | Lässt dich dein Jump'n'Run testen |
-| `/b` | Öffnet das Bau-Info-Menü |
-| `/join <Name>` | Betritt das Jump'n'Run, auf dem sich [Spieler] gerade befindet |
-| `/top <ID>` | Zeigt die Top-Zeiten des Jump'n'Runs mit der ID [id] an |
-| `/top <ID> -f` | Zeigt die schlechtesten Zeiten für ein Jump'n'Run an |
+| `/duel invite <Spieler>`        | Lädt einen Spieler in ein Duell ein |
+| `/duel accept <Spieler>`        | Nimmt die Einladung in ein Duell an |
+| `/duel leave <Spieler>`         | Verlässt ein Duell |
+| `/duel kick <Spieler>`          | Kickt einen Spieler aus einem Duell |
+| `/setblock`                     | Platziert den Block in deiner Hand unter dir |
+| `/jump`                         | Wechselt zwischen Jump- und Bau-Modus |
+| `/b`                            | Öffnet das Bau-Info-Menü |
+| `/kit`                          | Gibt dir die Start-Items im Bau-Modus |
+| `/join <Name>`                  | Betritt das Jump 'n' Run, auf dem sich [Spieler] gerade befindet |
+| `/top <ID>`                     | Zeigt die Top-Zeiten des Jump 'n' Runs mit der ID [id] an |
+| `/top <ID> -f`                  | Zeigt die wenigsten Fails des Jump 'n' Runs mit der ID [id] an |
+**[Premium](/ranks/premium/) only**:
+| `/skull [Name]`                 | Gibt dir einen Spielerkopf
