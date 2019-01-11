@@ -14,10 +14,10 @@ Wenn deine eigene Zeit abgelaufen ist stirbst du, deshalb ist es wichtig, mit de
 - Stirbt ein Spieler, wird die Restzeit, die der Spieler noch besaß, gleichmäßig auf alle verbleibenden Kämpfer verteilt.
 
 ## Spezielle Items
-- <strong>Zeitspeicher</strong>: Wenn man einen Zeitspeicher rechtsklickt, bekommt man zwischen 90 und 190 Prozent des Kaufpreises an Zeit wieder zurück.
-- <strong>Timekeeper</strong>: Wenn man einen Timekeeper rechtsklickt, wird die Schutzphase beendet
-- <strong>Uhr</strong>: Wenn man einen Gegner mit der Uhr schlägt, klaut man diesem seine Lebenszeit. Bei einem normalen Schlag werden zehn, bei einem Critical Hit fünfzehn Sekunden übertragen.
-- <strong>Kompass</strong>: Der Kompass führt dich zu deinem nächsten Gegner
+- **Zeitspeicher**: Wenn man einen Zeitspeicher rechtsklickt, bekommt man zwischen 90 und 190 Prozent des Kaufpreises an Zeit wieder zurück.
+- **Timekeeper**: Wenn man einen Timekeeper rechtsklickt, wird die Schutzphase beendet.
+- **Uhr**: Wenn man einen Gegner mit der Uhr schlägt, klaut man diesem seine Lebenszeit. Bei einem normalen Schlag werden zehn, bei einem Critical Hit fünfzehn Sekunden übertragen.
+- **Kompass**: Der Kompass führt dich zu deinem nächsten Gegner.
 
 ## Die Ränge in InTime
 
