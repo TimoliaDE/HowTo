@@ -5,10 +5,27 @@ Willkommen bei den Timolianischen Spielen! Hier kannst du deine PvP-Skills im Ka
 überall Beacons, die Items ausspucken, sobald du dich ihnen näherst, welche jedoch schon bald wieder verschwinden.
 
 ## Und so gehts
-- Alle Kämpfer spawnen in einer unendlich großen, zufällig generierten Welt.
-- In dieser Welt spawnen Beacons, diese spucken zufällige Items aus.
+- Alle Kämpfer spawnen in einer unendlich großen, zufällig generierten Welt. Diese wurde ein wenig modifiziert: Es wurden neue Biome und eigene Sturkturen hinzugefügt.
+- In dieser Welt spawnen weiße Beacons, diese sich beim Näherkommen blau und spucken zufällige Items aus.
 - Stehst du auf einem der Beacons, während dieser verschwindet, teleportierst du dich in die Nähe eines Gegners, eine Partikel-Spur zeigt dir ab dann den direkten Weg.
-- Entscheide selbst, wann du dich bereit für den Kampf fühlst. Aber Vorsicht! Es kann sich auch jederzeit jemand zu dir teleportieren.
+- Entscheide selbst, wann du dich bereit für den Kampf fühlst. Aber Vorsicht! Es kann sich auch jederzeit jemand zu dir teleportieren. Dann ertönt ein Geräusch der Warnung.
+
+## Spezielle Items
+Bei einem normalen, weißen Beacon droppen hin und wieder besondere Items. Wenn du einen Spieler tötest, erscheint ein roter Beacon, der dir nach kurzer Zeit eines der 10 Special-Items fallen lässt. 
+Das gleiche passiert bei lila Beacons, die sich nur in einem Nether- oder Endbiom finden lassen.
+
+- **Shield**: Dieses Item spawnt eine Glashülle um dich.
+- **Flammen**: Hiermit kannst du deine Gegner mit Flammen abschießen.
+- **Jump**: Das Jump-Item bringt dich einige Blöcke nach oben.
+- **Granate**: Mit der Granate kannst du deine Gegner explodieren lassen.
+- **Rain**: Solltest du brennen, kannst du dich mit diesem Item löschen.
+- **Heilung**: Jeder, der sich im Bereich der Herzen befindet, bekommt Heilung.
+- **Windstoß**: Ein kleiner Windstoß bringt dich und deine Gegner zum Taumeln.
+- **Dogs**: Hiermit spawnst du drei Hunde, die dich von nun an beschützen.
+- **Wither**: Mit dem Wither-Item kannst du Wither-Explosionen abfeuern.
+- **Thors Hammer**: Thors Hammer erzeugt einen gefährlichen Blitz.
+
+
 
 ## Die Ränge in den Timolianischen Spielen
 
