@@ -49,8 +49,8 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 
 ### <strong><span style="color:#CF0101">Julian_999999999</span></strong>
 - <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Fragen und Antworten Forum, Entschuldigungen
-- <u>Nebenverantwortlich:</u> Teamspeak, Timolia HowTo, Anregungen und Vorschläge Forum, Feedback Forum, Spieler melden Forum, Zu Unrecht gebannt Forum
+- <u>Hauptverantwortlich:</u> Bug melden Forum, Bugs und Spielfehler, Entschuldigungen, Fragen und Antworten Forum, Internes Wiki, Timolia HowTo, Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Feedback Forum, Spieler melden Forum, Teamspeak
 
 ### <strong><span style="color:#CF0101">saporital</span></strong>
 - <u>Rang (ingame):</u> Moderator
@@ -132,7 +132,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">CoveredSymmetry</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Hauptverantwortlich:</u> Broadcasts
-- <u>Nebenverantwortlich:</u> Fragen und Antworten Forum, Anregungen & Vorschläge Forum
+- <u>Nebenverantwortlich:</u> Anregungen & Vorschläge Forum, Fragen und Antworten Forum
 
 ### <strong><span style="color:#E4D100">einMole</span></strong>
 - <u>Rang (ingame):</u> Supporter
