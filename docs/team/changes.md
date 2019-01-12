@@ -5,11 +5,12 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Januar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| Caprea | <span style="color:#CF0101">Moderator</span> | <span style="color:#00F9EC">Native Expert</span> | 12.01.19 |
 | Tedget | <span style="color:#CF0101">Moderator</span> | <span style="color:#00F9EC">Native Expert</span> | 12.01.19 |
 | Schonas | <span style="color:#CF0101">Moderator</span> | <span style="color:#00F9EC">Native Expert</span> | 12.01.19 |
 | Metrixx7 | <span style="color:#CF0101">Moderator</span> | <span style="color:#00F9EC">Native Expert</span> | 12.01.19 |
 | ItsSarahh | <span style="color:#CF0101">Moderatorin</span> | <span style="color:#00F9EC">Native Expert</span> | 12.01.19 |
-| Elegeta | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Native Pro</span> | 12.01.19 |
+| Elegeta | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Native Expert</span> | 12.01.19 |
 | predii | <span style="color:#E4D100">Supporter</span> | <span style="color:#848484">Spieler</span> | 10.01.19 |
 | FrozenPete | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | 02.01.19 |
 
