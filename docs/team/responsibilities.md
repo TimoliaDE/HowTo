@@ -114,9 +114,10 @@ Wenn es wieder daran geht, neue Supporter in unsere Reihen zu holen, kümmern si
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#CF0101">?</span> | Hauptverantwortlich |
-| | |
-|<span style="color:#CF0101">?</span> | Nebenverantwortlich |
+|<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">Julian_999999999</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">saporital</span> | Hauptverantwortlich |
+|<span style="color:#007812">NameIsTaken</span> | Hauptverantwortlich |
 
 ### **Timolia HowTo**
 Diese Teamler kümmern sich um's Aktualisieren und Erstellen des HowTos Timolias.
@@ -179,17 +180,6 @@ Im Timolia Team gibt es kleinere Teams, welche unter anderem durch diese Verantw
 | ------ | ------ |
 |<span style="color:#2980b9">Lascona</span> | Management des Creator-Teams und des YouTube-Teams |
 |<span style="color:#CF0101">saporital</span> | Management des Bau-Teams |
-
-### **Testen der Games-Maps**
-Diese Teamler sind für das Bewerten, Aktualisieren und Kategorisieren von Games Maps zuständig.
-
-| Teamler | Zuständigkeit |
-| ------ | ------ |
-|<span style="color:#E4D100">?</span> | Hauptverantwortlich |
-| | |
-|<span style="color:#CF0101">?</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">FlorianFida</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
 
 ### **YouTuber Events**
 Events, welche von dem Timolia Team für YouTuber veranstaltet werden, werden von diesem Team organisiert.
