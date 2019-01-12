@@ -17,8 +17,8 @@ Administratoren leiten das Netzwerk. Sie kümmern sich um teaminterne und techni
 ### <strong>Lascona</strong>
 - <u>Rang (ingame):</u> Administratorin
 - <u>Hauptverantwortlich:</u> Bauevent-Koordination, Broadcasts, Forenorganisation, Fragen und Antworten Forum, Internes und externes Feedback,
-Organisation und Koordination neuer, inaktiver und alter Teamler, Social Media, Teammanagement, Timolia Turnier Organisation
-- <u>Nebenverantwortlich:</u> YouTuber-Ränge, Map-Einsendungen
+Organisation und Koordination neuer, inaktiver und alter Teamler, Social Media, Supporterauswahl, Teammanagement, Timolia Turnier Organisation, YouTuber-Ränge
+- <u>Nebenverantwortlich:</u> Map-Einsendungen
 
 ### <strong>MCExpertDE</strong>
 - <u>Rang (ingame):</u> Administrator
@@ -41,16 +41,16 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 
 ### <strong><span style="color:#CF0101">Caelis</strong>
 - <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Interne Webanwendung, Internes Wiki, Technische Leitung des Bauteams, Timolia-Plugins, YouTuber-Events
+- <u>Hauptverantwortlich:</u> Interne Webanwendung, Technische Leitung des Bauteams, Timolia-Plugins, YouTuber-Events
 
 ### <strong><span style="color:#CF0101">Julian_999999999</span></strong>
 - <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Bug melden Forum, Bugs und Spielfehler, Entschuldigungen, Fragen und Antworten Forum, Internes Wiki, Timolia HowTo, Zu Unrecht gebannt Forum
+- <u>Hauptverantwortlich:</u> Bug melden Forum, Bugs und Spielfehler, Entschuldigungen, Fragen und Antworten Forum, Internes Wiki, Supporterauswahl, Timolia HowTo, Zu Unrecht gebannt Forum
 - <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Feedback Forum, Spieler melden Forum, Teamspeak
 
 ### <strong><span style="color:#CF0101">saporital</span></strong>
 - <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Management des Bauteams, Map-Einsendungen, Twitter
+- <u>Hauptverantwortlich:</u> Management des Bauteams, Map-Einsendungen, Supporterauswahl, Twitter
 
 ## Developer
 
@@ -73,6 +73,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 ### <strong><span style="color:#007812">NameIsTaken</span></strong>
 - <u>Rang (ingame):</u> Developer
+- <u>Hauptverantwortlich:</u> Supporterauswahl
 - <u>Nebenverantwortlich:</u> Forenorganisation
 
 ### <strong><span style="color:#007812">physanus</span></strong>
@@ -92,6 +93,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 ### <strong><span style="color:#007812">TheFeldi</span></strong>
 - <u>Rang (ingame):</u> Developer
+- <u>Nebenverantwortlich:</u> YouTuber-Ränge
 
 ### <strong><span style="color:#007812">tr7zw</span></strong>
 - <u>Rang (ingame):</u> Developer
@@ -113,7 +115,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">BowspamExpertDE</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Map-Einsendungen, Spieler melden Forum, Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Map-Einsendungen, Spieler melden Forum, YouTuber-Ränge, Zu Unrecht gebannt Forum
 
 ### <strong><span style="color:#E4D100">Calavero</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -144,7 +146,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">FlorianFida</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Testen der Games-Maps
 
 ### <strong><span style="color:#E4D100">InfiniteNiki</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -155,8 +156,8 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">medicoo</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Hauptverantwortlich:</u> Timolia Turnier Organisation
-- <u>Nebenverantwortlich:</u> TeamSpeak, Testen der Games-Maps
+- <u>Hauptverantwortlich:</u> Timolia Turnier Organisation, YouTuber-Ränge
+- <u>Nebenverantwortlich:</u> TeamSpeak
 
 ### <strong><span style="color:#E4D100">OnlyFiinn</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -172,7 +173,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Sterax</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Entschuldigungen, Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Entschuldigungen, YouTuber-Ränge, Zu Unrecht gebannt Forum
 
 ### <strong><span style="color:#E4D100">Tim9875432</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -180,7 +181,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">xTessia</span></strong>
 - <u>Rang (ingame):</u> Supporterin
-- <u>Nebenverantwortlich:</u> Entschuldigungen, Teamspeak, Twitter, Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Entschuldigungen, Teamspeak, Twitter, YouTuber-Ränge, Zu Unrecht gebannt Forum
 
 
 ## Builder
