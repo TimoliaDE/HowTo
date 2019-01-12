@@ -116,7 +116,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">BowspamExpertDE</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Map-Einsendungen, Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Map-Einsendungen, Spieler melden Forum, Zu Unrecht gebannt Forum
 
 ### <strong><span style="color:#E4D100">Calavero</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -163,7 +163,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">OnlyFiinn</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Entschuldigungen, Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Entschuldigungen, Spieler melden Forum, Zu Unrecht gebannt Forum
 
 ### <strong><span style="color:#E4D100">RodspamExpertRU</span></strong>
 - <u>Rang (ingame):</u> Supporter
