@@ -184,11 +184,9 @@ Diese Teamler sind für das Bewerten, Aktualisieren und Kategorisieren von Games
 
 | Teamler | Zuständigkeit |
 | ------ | ------ |
-|<span style="color:#E4D100">Elegeta</span> | Hauptverantwortlich |
+|<span style="color:#E4D100">?</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
-|<span style="color:#CF0101">Metrixx7</span> | Nebenverantwortlich |
-|<span style="color:#CF0101">Schonas</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">?</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">FlorianFida</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
 
@@ -198,19 +196,16 @@ Events, welche von dem Timolia Team für YouTuber veranstaltet werden, werden vo
 | Teamler | Zuständigkeit |
 | ------ | ------ |
 |<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
-|<span style="color:#CF0101">ItsSarahh</span> | Hauptverantwortlich |
-|<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">?</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#E4D100">Elegeta</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">?</span> | Nebenverantwortlich |
 
 ### **YouTuber-Ränge**
 Wenn sich ein YouTuber für einen Rang auf Timolia interessiert, werden die Anfragen von diesem Team bearbeitet.
 
 | Teamler | Zuständigkeit |
 | ------ | ------ |
-|<span style="color:#CF0101">Metrixx7</span> | Hauptverantwortlich |
-|<span style="color:#CF0101">Tedget</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">?</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#2980b9">Lascona</span> | Nebenverantwortlich |
-|<span style="color:#CF0101">ItsSarahh</span> | Nebenverantwortlich |
-|<span style="color:#CF0101">Schonas</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">?</span> | Nebenverantwortlich |
