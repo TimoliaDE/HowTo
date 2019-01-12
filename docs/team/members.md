@@ -43,10 +43,6 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Interne Webanwendung, Internes Wiki, Technische Leitung des Bauteams, Timolia-Plugins, YouTuber-Events
 
-### <strong><span style="color:#CF0101">Caprea</span></strong>
-- <u>Rang (ingame):</u> Moderatorin
-- <u>Nebenverantwortlich:</u> Twitter
-
 ### <strong><span style="color:#CF0101">Julian_999999999</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Bug melden Forum, Bugs und Spielfehler, Entschuldigungen, Fragen und Antworten Forum, Internes Wiki, Timolia HowTo, Zu Unrecht gebannt Forum
