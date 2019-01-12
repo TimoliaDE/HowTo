@@ -59,9 +59,6 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ### <strong><span style="color:#007812">\_ELKMAN\_</span></strong>
 - <u>Rang (ingame):</u> Developer
 
-### <strong><span style="color:#007812">5zig</span></strong>
-- <u>Rang (ingame):</u> Developer
-
 ### <strong><span style="color:#007812">Bukkit_PVP</span></strong>
 - <u>Rang (ingame):</u> Developer
 
