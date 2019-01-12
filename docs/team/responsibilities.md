@@ -181,22 +181,15 @@ Im Timolia Team gibt es kleinere Teams, welche unter anderem durch diese Verantw
 |<span style="color:#2980b9">Lascona</span> | Management des Creator-Teams und des YouTube-Teams |
 |<span style="color:#CF0101">saporital</span> | Management des Bau-Teams |
 
-### **YouTuber Events**
-Events, welche von dem Timolia Team für YouTuber veranstaltet werden, werden von diesem Team organisiert.
-
-| Teamler | Zuständigkeit |
-| ------ | ------ |
-|<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
-|<span style="color:#CF0101">?</span> | Hauptverantwortlich |
-| | |
-|<span style="color:#E4D100">?</span> | Nebenverantwortlich |
-
 ### **YouTuber-Ränge**
 Wenn sich ein YouTuber für einen Rang auf Timolia interessiert, werden die Anfragen von diesem Team bearbeitet.
 
 | Teamler | Zuständigkeit |
 | ------ | ------ |
-|<span style="color:#CF0101">?</span> | Hauptverantwortlich |
+|<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
+|<span style="color:#E4D100">medicoo</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#2980b9">Lascona</span> | Nebenverantwortlich |
-|<span style="color:#CF0101">?</span> | Nebenverantwortlich |
+|<span style="color:#007812">TheFeldi</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">BowspamExpertDE</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Sterax</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
