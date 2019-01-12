@@ -56,7 +56,9 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span style="color:#E4D100">felliongi21</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#CF0101">Julian_999999999</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">BowspamExpertDE</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">LordKnockback</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">OnlyFiinn</span> | Nebenverantwortlich |
 
 ### **Bug melden**
 | Teamler | Verantwortungsgrad |
