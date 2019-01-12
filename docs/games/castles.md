@@ -38,12 +38,13 @@ Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge ers
 ## Punkteverteilung in Castles
 - Wenn man die Runde verlässt, bevor das Team ausgeschieden ist, bekommt man keine Punkte.
 - Die Kills werden am Ende verdoppelt (Kills * 2).
-- Die Flaggeneroberungen werden am Ende versechsfacht (Eroberungen * 6).
+- Die Flaggeneroberungen werden am Ende verachtfacht (Eroberungen * 6).
 - Wenn man im Gewinnerteam ist, werden die Punkte am Ende verdoppelt. (*2)
 - Wenn man am meisten Kills hat, erhält man +15 Punkte.
 - Wenn man am zweitmeisten Kills hat, erhält man +10 Punkte.
 - Wenn man am drittmeisten Kills hat, erhält man +5 Punkte.
 - Wenn man mehr als 60% des aufgesammelten Goldes in Strukturen investiert hat, erhält man +12 Punkte.
+- Am Ende wird diese Formel angewandt: 3,5 * &radic;((7 * Gesamtpunkte) / 3)
 
 ## Premium-Features
 - Premium-Spieler besitzen je nach Rang bis zu vier Stimmen im Voting-System.
