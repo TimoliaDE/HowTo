@@ -127,7 +127,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">CoveredSymmetry</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Hauptverantwortlich:</u> Broadcasts
-- <u>Nebenverantwortlich:</u> Anregungen & Vorschläge Forum, Fragen und Antworten Forum
+- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Fragen und Antworten Forum
 
 ### <strong><span style="color:#E4D100">einMole</span></strong>
 - <u>Rang (ingame):</u> Supporter
