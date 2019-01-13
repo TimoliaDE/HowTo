@@ -72,7 +72,6 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | ------ | ------ |
 |<span style="color:#CF0101">Julian_999999999</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#E4D100">Aenzo</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">einMole</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">OnlyFiinn</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">RodspamExpertRU</span> | Nebenverantwortlich |
