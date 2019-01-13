@@ -50,7 +50,7 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 
 ### <strong><span style="color:#CF0101">saporital</span></strong>
 - <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Management des Bauteams, Map-Einsendungen, Supporterauswahl, Twitter
+- <u>Hauptverantwortlich:</u> Management des Bauteams, Map-Einsendungen, Supporterauswahl, Bauteam-Twitter
 
 ## Developer
 
