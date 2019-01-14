@@ -383,7 +383,6 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>August</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
-<<<<<<< docs/team/changes.md
 | TacticalDOC | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | 31.08.16 |
 | 0sch | <span style="color:#00646F">Builder</span> | <span style="color:#848484">Spieler</span> | 31.08.16 |
 | xnulix | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 28.08.16 |
