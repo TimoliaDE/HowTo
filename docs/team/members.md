@@ -41,7 +41,7 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 
 ### <strong><span style="color:#CF0101">Caelis</strong>
 - <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Interne Webanwendung, Technische Leitung des Bauteams, Timolia-Plugins, YouTuber-Events
+- <u>Hauptverantwortlich:</u> Interne Webanwendung, Technische Leitung des Bauteams, Timolia-Plugins
 
 ### <strong><span style="color:#CF0101">Julian_999999999</span></strong>
 - <u>Rang (ingame):</u> Moderator
@@ -141,9 +141,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Nebenverantwortlich:</u> Anti-Cheat
 
 ### <strong><span style="color:#E4D100">ferdedelino</span></strong>
-- <u>Rang (ingame):</u> Supporter
-
-### <strong><span style="color:#E4D100">FlorianFida</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
 ### <strong><span style="color:#E4D100">InfiniteNiki</span></strong>
