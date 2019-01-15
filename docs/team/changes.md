@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Januar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| FlorianFida | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Native Expert</span> | 14.01.19 |
 | 5zig | <span style="color:#007812">Developer</span> | <span style="color:#00F9EC">Native Expert</span> | 12.01.19 |
 | Caprea | <span style="color:#CF0101">Moderatorin</span> | <span style="color:#00F9EC">Native Expert</span> | 12.01.19 |
 | Tedget | <span style="color:#CF0101">Moderator</span> | <span style="color:#00F9EC">Native Expert</span> | 12.01.19 |
