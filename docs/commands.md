@@ -29,7 +29,8 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/ticket <Anliegen>`            | Erstellt ein Ticket |
 | `/tickets`                      | Öffnet eine Übersicht über deine Tickets |
 | `/teamspeak`, `/ts`             | Zeigt die TS-IP, ermöglicht die Verifizierung und lässt dich deine Identität verwalten |
-| `/jointeam <Team-Farbe>`, `/team` | Betrete ein Team in Castles, Brainbow und Mineception |
+| `/jointeam <Team-Farbe>`, `/team`| Betrete ein Team in Castles, Brainbow und Mineception |
+| `/rank`                         | Zeigt deinen aktuellen Ingame-Rang und wie lange er läuft |
 **[Premium](/ranks/premium/) only**:
 | `/togglerank`, `/tr`            | Werde in allen Spielmodi als normaler Spieler angezeigt |
 | `/ptime <day/night/midnight/sunrise/noon/afternoon/sunset/reset/hh:mm>` | Zeit für sich selbst umstellen |
