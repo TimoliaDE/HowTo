@@ -171,10 +171,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Entschuldigungen, YouTuber-Ränge, Zu Unrecht gebannt Forum
 
-### <strong><span style="color:#E4D100">Tim9875432</span></strong>
-- <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Entschuldigungen
-
 ### <strong><span style="color:#E4D100">xTessia</span></strong>
 - <u>Rang (ingame):</u> Supporterin
 - <u>Nebenverantwortlich:</u> Entschuldigungen, Teamspeak, Twitter, YouTuber-Ränge, Zu Unrecht gebannt Forum
@@ -243,10 +239,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ## Creator
 
 Creator sind für kreative Arbeiten wie Texte, Bilder und Grafiken zuständig und sind kreative Köpfe des Teams.
-
-### <strong><span style="color:#007812">die_maren</span></strong>
-- <u>Rang (ingame):</u> Creator
-- <u>Nebenverantwortlich:</u> Bauteam Twitter
 
 ### <strong><span style="color:#007812">Evageddon</span></strong>
 - <u>Rang (ingame):</u> Creator
