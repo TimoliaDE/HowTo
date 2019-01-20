@@ -51,7 +51,7 @@ Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium
 | `/duel accept <Spieler>`        | Nimmt die Einladung in ein Duell an |
 | `/duel leave <Spieler>`         | Verlässt ein Duell |
 | `/duel kick <Spieler>`          | Kickt einen Spieler aus einem Duell |
-| `/setblock`                     | Platziert den Block in deiner Hand unter dir |
+| `/setblock`, `/sb`                    | Platziert den Block in deiner Hand unter dir |
 | `/jump`                         | Wechselt zwischen Jump- und Bau-Modus |
 | `/b`                            | Öffnet das Bau-Info-Menü |
 | `/kit`                          | Gibt dir die Start-Items im Bau-Modus |
