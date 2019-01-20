@@ -129,10 +129,10 @@ Solltest du dein Handy verlieren, kannst du dich weiterhin mit Backupcodes anmel
 | `/kit`, `/k`                    | Wählt dein Kit aus |
 | `/kit <Name(:1/2/3/4/5)>`       | Wählt das Kit eines anderen Spielers aus |
 | `/kits`                         | Listet dir alle von Timolia erstellten Kits auf |
-| `/importkit <Zahl>` | Importiere eines deiner Kits im Kitbereich |
-| `/kitinfo` | Zeigt Infos zum aktuellen Kit |
-| `/team add <Name>`              | Lädt einen Spieler in dein Team ein |
-| `/team revoke <Name>`           | Zieht eine Teameinladung zurück |
+| `/importkit <Zahl>`             | Importiere eines deiner Kits im Kitbereich |
+| `/kitinfo`                      | Zeigt Infos zum aktuellen Kit |
+| `/team invite <Name>`           | Lädt einen Spieler in dein Team ein |
+| `/team accept <Name>`           | Tritt einem Team bei |
 | `/team kick <Name>`             | Kickt einen Spieler aus deinem Team |
 | `/challenge <Spieler>`, `/c`    | Fordert einen Spieler zu einem Duell heraus |
 | `/leave`, `/l`                  | Zieht eine Herausforderung zurück |
@@ -141,7 +141,7 @@ Solltest du dein Handy verlieren, kannst du dich weiterhin mit Backupcodes anmel
 | `/spectate <Spieler>`, `/spec`  | Lässt dich den Kampf eines Spieler beobachten |
 | `/stats`                        | Zeigt dir deine Stats an |
 | `/stats <Name>`                 | Zeigt dir die Stats eines Spielers an |
-| `/statsmenu`                    | Öffnet das Statsmenü |
+| `/statsmenu [Name]`             | Öffnet das Statsmenü |
 | `/top <Kit>`                    | Zeigt die Rangliste eines Competitive-Kits an |
 | `/winstreak`, `/streak`         | Zeigt deine aktuelle Winstreak |
 | `/join <Name>`                  | Tritt einem Turnier bei |
@@ -150,11 +150,11 @@ Solltest du dein Handy verlieren, kannst du dich weiterhin mit Backupcodes anmel
 | `/xp <Level>`                   | Setzt ein XP-Level für dein Kit |
 | `/matchinfo`                    | Zeigt Informationen über den aktuellen Kampf |
 | `/queue`, `/q`                  | Fügt dich zur Warteschlange hinzu |
-| `/compare <Name> <Name>`, `/compareplayers` | Zeigt die Kampfstatistik zweier Spieler |
+| `/compare <Name> <Name>`        | Zeigt die Kampfstatistik zweier Spieler |
+| `/settings`                     | Öffnet die Einstellungen |
 | `/lastinv <Spieler>`, `/inv`    | Zeigt das letzte Inventar eines Spielers |
 | `/liveinv <Spieler>`, `/liveinventory` | Zeigt das aktuelle Inventar eines Spielers |
 | `/rankinfo`, `/ranginfo`        | Zeigt Informationen zum aktuellen Rang |
-| `/settings`                     | Öffnet die Einstellungen |
 **[Premium](/ranks/premium/) only**:
 | `/hat`                          | Setzt das Item in deiner Hand als den Helm deines Kits |
 | `/create [Passwort]`            | Erstellt ein Turnier (optional mit einem Passwort) |
