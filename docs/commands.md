@@ -166,7 +166,7 @@ Solltest du dein Handy verlieren, kannst du dich weiterhin mit Backupcodes anmel
 
 | Befehl | Funktion |
 | ------ | -------- |
-| `/rot`, `/rotation`             | Zeigt die Spielrotation |
+| `/rot`                          | Zeigt die Spielrotation |
 | `/last`                         | Zeigt die zuletzt gespielten Spiele |
 | `/join <Spieler>`               | Betrete ein öffentliches Turnier |
 | `/leave`                        | Verlasse ein Turnier |
@@ -186,7 +186,7 @@ Solltest du dein Handy verlieren, kannst du dich weiterhin mit Backupcodes anmel
 | `/duel accept <Spieler>`        | Nimmt die Einladung in ein Duell an |
 | `/duel leave <Spieler>`         | Verlässt ein Duell |
 | `/duel kick <Spieler>`          | Kickt einen Spieler aus einem Duell |
-| `/setblock`                     | Platziert den Block in deiner Hand unter dir |
+| `/setblock`, `/sb`              | Platziert den Block in deiner Hand unter dir |
 | `/jump`                         | Wechselt zwischen Jump- und Bau-Modus |
 | `/b`                            | Öffnet das Bau-Info-Menü |
 | `/kit`                          | Gibt dir die Start-Items im Bau-Modus |
