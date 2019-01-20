@@ -12,7 +12,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/msg <Spieler>`, `/m`          | Schreibe mit einem Spieler im Privatchat |
 | `/lookup <Spieler>`, `/lu`      | Zeigt dir LogIn-Informationen über einen Spieler |
 | `/top`                          | Zeigt dir die Top 10 Spieler der letzten 30 Tage in einem Spielmodus an |
-| `/achievements`                 | Listet eine Übersicht aller Achievements auf |
+| `/achievements`, `/ach`         | Listet eine Übersicht aller Achievements auf |
 | `/vote <Zahl>`                  | Votet für eine Map in einem Spielmodus |
 | `/stats [1,3,30,all]`           | Zeigt dir deine Stats in den meisten Modi |
 | `/near`                         | Zeigt dir die Spieler, die sich direkt über und unter dir in der Punktewertung eines Modus befinden |
@@ -20,11 +20,10 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/register <E-Mail>`            | Registriert dich für die Webseite |
 | `/lang <Sprache>`               | Ändere deine Sprache |
 | `/bannotify`                    | Deaktiviere Nofitikationen zu deinen Banntagen |
-| `/achievements`, `/ach`, `/advancements`, `/adv` | Listet eine Übersicht aller Achievements auf |
 | `/champ`, `/championship`       | Zeigt Infos zu Timolia Champ |
 | `/present <Spieler> <Betrag> [Nachricht]`, `/gift`, `/donate` | Ermöglicht es dir, in der Weihnachtszeit Pixel zu verschenken |
 | `/help`                         | Zeigt dir die wichtigsten Infos zu Timolia |
-| `/mail`, `/mails`, `/conversations`, `/messages`, `/nachrichten` | Öffnet das Menü deiner Mails |
+| `/mail`                         | Öffnet das Menü deiner Mails |
 | `/servername`                   | Zeigt dir wie auf Tab den aktuellen Server an |
 | `/ticket <Anliegen>`            | Erstellt ein Ticket |
 | `/tickets`                      | Öffnet eine Übersicht über deine Tickets |
@@ -36,20 +35,20 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/ptime <day/night/midnight/sunrise/noon/afternoon/sunset/reset/hh:mm>` | Zeit für sich selbst umstellen |
 | `/pweather <sun/rain/reset>`    | Wetter für sich selbst umstellen |
 | [<span style="color:#55FF55">VIP</span>](/ranks/youtube/) only: | |
-| `/nick`, `/nickname`            | Ermöglicht es dir, dich zu nicken |
+| `/nick`                         | Ermöglicht es dir, dich zu nicken |
 | [<span style="color:#4C0B5F">YouTuber</span>](/ranks/youtube/) only: | |
 | `/forcemap`                     | Erzwinge bei einem Spiel mit Voting-System eine bestimmte Map |
 | `/startgame [Sekunden]`         | Starte ein Spiel |
 | `/abortstart`                   | Brich den Start eines Spiels ab |
-| `/nick`, `/nickname`            | Ermöglicht es dir, dich zu nicken |
+| `/nick`                         | Ermöglicht es dir, dich zu nicken |
 | `/unnick`                       | Ermöglicht es dir, dich zu entnicken |
-| `/v`, `/vanish`                 | Ermöglicht es dir, dich in 1vs1, Jumpworld und in den Lobbys unsichtbar zu machen |
+| `/vanish`, `/v`                 | Ermöglicht es dir, dich in 1vs1, Jumpworld und in den Lobbys unsichtbar zu machen |
 
 ### Reportsystem
 
 | Befehl | Funktion |
 | ------ | -------- |
-| `/report <Spieler>`, `/rp`, `/chatreport`, `/chatrp`, `/chatlog`, `/cl`, `/livereport`, `/liverp`, `/teamingreport`, `/teamrp` | Erstellt nach Auswählen der Kategorie einen Report |
+| `/report <Spieler>`, `/rp`      | Erstellt nach Auswählen der Kategorie einen Report |
 | `/reportjnr <ID>`               | Erstellt einen Report über ein Jump and Run in Jump World |
 | `/reportbugusing <Spieler> <Beschreibung>` | Erstellt einen Bugusingreport |
 | `/reportevidence <Spieler> <Beweis>` | Erstellt einen Report mit Beweis |
@@ -62,7 +61,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | ------ | -------- |
 | `/sync {0, 1, 2...]`, `/armorsync` | Synchronisiert die farbwechselnde Rüstung aus dem PixelShop |
 | `/fixkickvalue`, `/fixkv`       | Setzt deine Kick-Value zurück. Wie das Kick-System funktioniert, kannst du [<strong>hier</strong> nachlesen](https://howto.timolia.de/faq/#wie-funktioniert-das-kick-system) |
-| `/stats <Spieler>`, `/records`, `/statistic`, `/statistik` | Zeigt dir die Stats eines Spielers an |
+| `/stats <Spieler>`              | Zeigt dir die Stats eines Spielers an |
 | `/stats <Spieler> <Spieler>...` | Ermöglicht es dir, die Stats von mehreren Spielern zu vergleichen |
 | `/spawn`                        | Teleportiert dich zurück zum Spawn vom Hub |
 
@@ -135,7 +134,7 @@ Solltest du dein Handy verlieren, kannst du dich weiterhin mit Backupcodes anmel
 | `/team add <Name>`              | Lädt einen Spieler in dein Team ein |
 | `/team revoke <Name>`           | Zieht eine Teameinladung zurück |
 | `/team kick <Name>`             | Kickt einen Spieler aus deinem Team |
-| `/challenge <Spieler>`, `/c`, `/duel`, `/duell` | Fordert einen Spieler zu einem Duell heraus |
+| `/challenge <Spieler>`, `/c`    | Fordert einen Spieler zu einem Duell heraus |
 | `/leave`, `/l`                  | Zieht eine Herausforderung zurück |
 | `/endmatch`                     | Der Kampf wird nach einer Minute mit Entscheidung durch die Mitte beendet |
 | `/surrender`                    | Man tötet sich selbst und beendet den Kampf vorzeitig |
@@ -158,8 +157,8 @@ Solltest du dein Handy verlieren, kannst du dich weiterhin mit Backupcodes anmel
 | `/settings`                     | Öffnet die Einstellungen |
 **[Premium](/ranks/premium/) only**:
 | `/hat`                          | Setzt das Item in deiner Hand als den Helm deines Kits |
-| `/create [Passwort]`, `/createtournament` | Erstellt ein Turnier (optional mit einem Passwort) |
-| `/modify`, `/modifytournament`  | Bearbeitet die Turniereinstellungen |
+| `/create [Passwort]`            | Erstellt ein Turnier (optional mit einem Passwort) |
+| `/modify`                       | Bearbeitet die Turniereinstellungen |
 | `/start [Zeit]`                 | Startet dein Turnier |
 | `/team setcolor`                | Färbt euren Namen entsprechend der gewählten Farbe |
 
