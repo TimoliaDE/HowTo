@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Januar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| Aenzo | <span style="color:#E4D100">Supporter</span> | <span style="color:#F99500">Native Pro</span> | 20.01.19 |
 | Tim9875432 | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Native Expert</span> | 18.01.19 |
 | die_maren | <span style="color:#007812">Creator</span> | <span style="color:#F99500">Native Pro</span> | 18.01.19 |
 | FlorianFida | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Native Expert</span> | 14.01.19 |
