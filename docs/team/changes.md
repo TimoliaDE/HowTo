@@ -185,7 +185,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | CoveredSymmetry | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 22.11.17 |
 | Tim9875432 | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter Games</span> | 22.11.17 |
 | Salvopro | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Native Expert</span> | 22.11.17 |
-| \_TakeItEaZy\_ | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | 21.11.17 |
+| \_TakeItEaZy\_ | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#55FF55">Native MVP</span> | 21.11.17 |
 | Storiie | <span style="color:#848484">Spieler</span> | <span style="color:#007812">Creator</span> | 15.11.17 |
 | Caelis | <span style="color:#CF0101">Moderator Games</span> | <span style="color:#2980b9">Administrator</span> | 12.11.17 |
 | MyLadyJane | <span style="color:#007812">Creator</span> | <span style="color:#00F9EC">Native Expert</span> | 05.11.17 |
@@ -211,7 +211,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | Nooahh | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Native Expert</span> | 22.09.17 |
 | Fyniks | <span style="color:#007812">Developer Games</span> | <span style="color:#848484">Spieler</span> | 21.09.17 |
 | Tnevel | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#F99500">Pro</span> | 20.09.17 |
-| \_TakeItEaZy\_ | <span style="color:#F99500">Pro</span> | <span style="color:#E4D100">Supporter Games</span> | 17.09.17 |
+| \_TakeItEaZy\_ | <span style="color:#55FF55">Native MVP</span> | <span style="color:#E4D100">Supporter Games</span> | 17.09.17 |
 | MCPhilippS | <span style="color:#CF0101">Moderator City</span> | <span style="color:#E4D100">Supporter City</span> | 16.09.17 |
 | ich_komm_morgen | <span style="color:#007812">Developer City</span> | <span style="color:#55FF55">Native MVP</span> | 16.09.17 |
 | kd9b | <span style="color:#CF0101">Moderator City</span> | <span style="color:#55FF55">Native MVP</span> | 16.09.17 |
