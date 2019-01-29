@@ -19,7 +19,8 @@ Unter positiv auffallen verstehen wir unter anderem eine gute Reportstatistik, k
 wie im Forum und TeamSpeak (und evtl. auf Twitter).
 
 Zusätzlich dazu gibt es die Möglichkeit, eine Initiativbewerbung, welche deinen Ingamenamen, eine Vorstellung von dir sowie Beschreibungen deiner bisherigen Erfahrungen beinhalten sollte,
-per Mail an <a href="mailto:supporter@timolia.de">supporter@timolia.de</a> an uns zu senden.
+per Mail an <a href="mailto:supporter@timolia.de">supporter@timolia.de</a> an uns zu senden. Wir bemühen uns, den Bewerbungsablauf so schnell wie möglich durchzuführen.
+Bitte beachte trotzdem, dass dieser Prozess unter Umständen über einen Monat in Anspruch nehmen kann.
 
 ### Builder
 Spieler haben die Möglichkeit, uns ihre Fähigkeiten auf der eigens dafür eingerichteten BauWelt zu präsentieren.
