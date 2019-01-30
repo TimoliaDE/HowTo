@@ -60,3 +60,35 @@ Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium
 | ------ | -------- |
 | `/kill`                         | Tötet dich selbst |
 | `/jointeam <Team-Farbe>`, `/team` | Betrete ein Team |
+
+## Maps
+
+<details><summary>Klicke hier für coole Maps</summary>
+
+Desch is die Map Aschia und die ist von xy(Link!(zumindest wenn die Erbauer im Team sind(vielleicht auch zu Twitter bei Usern? Zum Forum bei Usern??(ja, es gibt keine Usermaps bei Castles)))):
+
+![Asia small](img/MapTest.png)
+Ne super krasse Taktik ist einmal links rum, dann rechts und dann die Leertaste drücken.
+
+
+Desch is au die Map Aschia und die ist au von xy:  
+
+![Asia small](img/MapTest.png)
+</details>  
+<br>
+oooder
+<br><br>
+<details><summary>Klicke hier für coole Maps</summary>
+
+<details><summary>Aschia</summary>
+Desch is die Map Aschia und die ist von xy:
+
+![Asia small](img/MapTest.png)
+</details>
+
+<details><summary>Aschia</summary>
+Desch is au die Map Aschia und die ist au von xy:
+
+![Asia small](img/MapTest.png)
+</details>
+</details>
