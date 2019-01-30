@@ -32,6 +32,7 @@ in seiner eigenen Burg.
 | 12 | 16384 | ??? |
 | 13 | 32768 | ??? |
 | 14 | 65536 | ??? |
+| 15 | 131072 | ??? |
 
 Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren werden namentlich nur die ersten Ränge genannt.
 
