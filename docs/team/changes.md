@@ -2,6 +2,11 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 
 # 2019
 
+###  <strong>Februar</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+| Calavero | <span style="color:#E4D100">Supporter</span> | <span style="color:#55FF55">Native MVP</span> | 02.02.19 |
+
 ###  <strong>Januar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
