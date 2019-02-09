@@ -5,12 +5,12 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Februar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
-| Calavero | <span style="color:#E4D100">Supporter</span> | <span style="color:#55FF55">Native MVP</span> | 02.02.19 |
-| Calavero | <span style="color:#E4D100">Supporter</span> | <span style="color:#55FF55">Native MVP</span> | 02.02.19 |
-| Calavero | <span style="color:#E4D100">Supporter</span> | <span style="color:#55FF55">Native MVP</span> | 02.02.19 |
-| Calavero | <span style="color:#E4D100">Supporter</span> | <span style="color:#55FF55">Native MVP</span> | 02.02.19 |
-| Calavero | <span style="color:#E4D100">Supporter</span> | <span style="color:#55FF55">Native MVP</span> | 02.02.19 |
-| Calavero | <span style="color:#E4D100">Supporter</span> | <span style="color:#55FF55">Native MVP</span> | 02.02.19 |
+| Hiics | <span style="color:#00646F">Builder</span> | <span style="color:#E4D100">Supporter</span> | 10.02.19 |
+| eZZrael | <span style="color:#00646F">Builder</span> | <span style="color:#E4D100">Supporter</span> | 10.02.19 |
+| zSiq | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | 10.02.19 |
+| Sideax | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | 10.02.19 |
+| Blockeyy | <span style="color:#848484">Spieler</span> | <span style="color:#E4D100">Supporter</span> | 10.02.19 |
+| Calavero | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Native Expert</span> | 02.02.19 |
 
 ###  <strong>Januar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
