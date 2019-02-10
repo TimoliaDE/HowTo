@@ -132,7 +132,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">engiwuck</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
-### <strong><span style="color:#00646F">eZZrael</span></strong>
+### <strong><span style="color:#E4D100">eZZrael</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
 ### <strong><span style="color:#E4D100">felliongi21</span></strong>
@@ -143,7 +143,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">ferdedelino</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
-### <strong><span style="color:#00646F">Hiics</span></strong>
+### <strong><span style="color:#E4D100">Hiics</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
 ### <strong><span style="color:#E4D100">InfiniteNiki</span></strong>
