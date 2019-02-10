@@ -64,32 +64,47 @@ Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium
 
 ## Maps
 
-<details><summary>Klicke hier für coole Maps</summary>
+<details><summary>Klicke hier, um alle Maps zu sehen</summary>
 
-Desch is die Map Aschia und die ist von xy(Link!(zumindest wenn die Erbauer im Team sind(vielleicht auch zu Twitter bei Usern? Zum Forum bei Usern??(ja, es gibt keine Usermaps bei Castles)))):
+4x4 -Beduin
+    -Bollwerk
+    -Tower
+    -Asia
+    
+4x2 -Bollwerk
+    -Beduin
+    -Tower
+    
+1vs1-River (small)
+    -Tower (small)
+    -Space (small)
+    -Asia (small)
+    -Bollwerk (big)
+    -Candle Cove (small)
+    
+2x2 -River (small)
+    -Tower (small)
+    -Asia (small)
+    -Space (small)
+    -Super Mario (big)
+    -Candle Cove (small)
+    -Bollwerk (big)
+    -Inkkognito (big) Das muss raus!
+    
+2x4 -River (small)
+    -Tower (small)
+    -Asia (small)
+    -Space (small)
+    -Super Mario (big)
+    -Bollwerk (big)
+    -Candle Cove (small)
 
-![Asia small](img/MapTest.png)
-Ne super krasse Taktik ist einmal links rum, dann rechts und dann die Leertaste drücken.
 
 
-Desch is au die Map Aschia und die ist au von xy:  
+### Super Mario
 
-![Asia small](img/MapTest.png)
-</details>  
-<br>
-oooder
-<br><br>
-<details><summary>Klicke hier für coole Maps</summary>
+![Super Mario](img/Maps/Super_Mario_1.png)
+![Super Mario](img/Maps/Super_Mario_2.png)
+by [Memoryos](/team/members/#memoryos) & [xnulix](/team/members/#memoryos)
 
-<details><summary>Aschia</summary>
-Desch is die Map Aschia und die ist von xy:
 
-![Asia small](img/MapTest.png)
-</details>
-
-<details><summary>Aschia</summary>
-Desch is au die Map Aschia und die ist au von xy:
-
-![Asia small](img/MapTest.png)
-</details>
-</details>
