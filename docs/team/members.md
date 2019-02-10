@@ -109,6 +109,9 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind die ersten, an die sich Spieler wenden können.
 
+### <strong><span style="color:#E4D100">Blockeyy</span></strong>
+- <u>Rang (ingame):</u> Supporter
+
 ### <strong><span style="color:#E4D100">BowspamExpertDE</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Map-Einsendungen, Spieler melden Forum, YouTuber-Ränge, Zu Unrecht gebannt Forum
@@ -129,12 +132,18 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">engiwuck</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
+### <strong><span style="color:#00646F">eZZrael</span></strong>
+- <u>Rang (ingame):</u> Supporter
+
 ### <strong><span style="color:#E4D100">felliongi21</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Hauptverantwortlich:</u> Spieler melden Forum
 - <u>Nebenverantwortlich:</u> Anti-Cheat
 
 ### <strong><span style="color:#E4D100">ferdedelino</span></strong>
+- <u>Rang (ingame):</u> Supporter
+
+### <strong><span style="color:#00646F">Hiics</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
 ### <strong><span style="color:#E4D100">InfiniteNiki</span></strong>
@@ -153,6 +162,9 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Entschuldigungen, Map-Einsendungen
 
+### <strong><span style="color:#E4D100">Sideax</span></strong>
+- <u>Rang (ingame):</u> Supporter
+
 ### <strong><span style="color:#E4D100">SpaceJumper</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Entschuldigungen
@@ -164,6 +176,9 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">xTessia</span></strong>
 - <u>Rang (ingame):</u> Supporterin
 - <u>Nebenverantwortlich:</u> Entschuldigungen, Teamspeak, Twitter, YouTuber-Ränge, Zu Unrecht gebannt Forum
+
+### <strong><span style="color:#E4D100">zSiq</span></strong>
+- <u>Rang (ingame):</u> Supporter
 
 
 ## Builder
@@ -203,13 +218,7 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builderin
 - <u>Nebenverantwortlich:</u> Broadcasts
 
-### <strong><span style="color:#00646F">eZZrael</span></strong>
-- <u>Rang (ingame):</u> Builder
-
 ### <strong><span style="color:#00646F">flakk0devil</span></strong>
-- <u>Rang (ingame):</u> Builder
-
-### <strong><span style="color:#00646F">Hiics</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span style="color:#00646F">Memoryos</span></strong>
