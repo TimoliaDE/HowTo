@@ -48,6 +48,20 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 - <u>Hauptverantwortlich:</u> Bug melden Forum, Bugs und Spielfehler, Entschuldigungen, Fragen und Antworten Forum, Internes Wiki, Supporterauswahl, Timolia HowTo, Zu Unrecht gebannt Forum
 - <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Feedback Forum, Spieler melden Forum, Teamspeak
 
+### <strong><span style="color:#CF01012">medicoo</span></strong>
+- <u>Rang (ingame):</u> Moderator
+- <u>Hauptverantwortlich:</u> Timolia Turnier Organisation, YouTuber-Ränge
+- <u>Nebenverantwortlich:</u> TeamSpeak
+
+### <strong><span style="color:#CF01012">NameIsTaken</span></strong>
+- <u>Rang (ingame):</u> Moderator
+- <u>Hauptverantwortlich:</u> Supporterauswahl
+- <u>Nebenverantwortlich:</u> Forenorganisation
+
+### <strong><span style="color:#CF0101">physanus</span></strong>
+- <u>Rang (ingame):</u> Moderator
+- <u>Nebenverantwortlich:</u> Teamspeak, Timolia HowTo
+
 ### <strong><span style="color:#CF0101">saporital</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Management des Bauteams, Map-Einsendungen, Supporterauswahl, Bauteam-Twitter
@@ -70,15 +84,6 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Rang (ingame):</u> Developer
 - <u>Hauptverantwortlich:</u> TeamSpeak
 - <u>Nebenverantwortlich:</u> Broadcasts
-
-### <strong><span style="color:#007812">NameIsTaken</span></strong>
-- <u>Rang (ingame):</u> Developer
-- <u>Hauptverantwortlich:</u> Supporterauswahl
-- <u>Nebenverantwortlich:</u> Forenorganisation
-
-### <strong><span style="color:#007812">physanus</span></strong>
-- <u>Rang (ingame):</u> Developer
-- <u>Nebenverantwortlich:</u> Supporter, Teamspeak, Timolia HowTo
 
 ### <strong><span style="color:#007812">play4me_</span></strong>
 - <u>Rang (ingame):</u> Developer
@@ -148,11 +153,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">InfiniteNiki</span></strong>
 - <u>Rang (ingame):</u> Supporter
-
-### <strong><span style="color:#E4D100">medicoo</span></strong>
-- <u>Rang (ingame):</u> Supporter
-- <u>Hauptverantwortlich:</u> Timolia Turnier Organisation, YouTuber-Ränge
-- <u>Nebenverantwortlich:</u> TeamSpeak
 
 ### <strong><span style="color:#E4D100">OnlyFiinn</span></strong>
 - <u>Rang (ingame):</u> Supporter
