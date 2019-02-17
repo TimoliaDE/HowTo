@@ -48,12 +48,12 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 - <u>Hauptverantwortlich:</u> Bug melden Forum, Bugs und Spielfehler, Entschuldigungen, Fragen und Antworten Forum, Internes Wiki, Supporterauswahl, Timolia HowTo, Zu Unrecht gebannt Forum
 - <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Feedback Forum, Spieler melden Forum, Teamspeak
 
-### <strong><span style="color:#CF01012">medicoo</span></strong>
+### <strong><span style="color:#CF0101">medicoo</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Timolia Turnier Organisation, YouTuber-Ränge
 - <u>Nebenverantwortlich:</u> TeamSpeak
 
-### <strong><span style="color:#CF01012">NameIsTaken</span></strong>
+### <strong><span style="color:#CF0101">NameIsTaken</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Supporterauswahl
 - <u>Nebenverantwortlich:</u> Forenorganisation
