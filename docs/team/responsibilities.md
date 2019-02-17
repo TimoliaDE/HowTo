@@ -9,7 +9,7 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | ------ | ------ |
 |<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#007812">NameIsTaken</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">NameIsTaken</span> | Nebenverantwortlich |
 
 ### **Anregungen und Vorschläge**
 
@@ -115,8 +115,8 @@ Wenn es wieder daran geht, neue Supporter in unsere Reihen zu holen, kümmern si
 | ------ | ------ |
 |<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">Julian_999999999</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">NameIsTaken</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">saporital</span> | Hauptverantwortlich |
-|<span style="color:#007812">NameIsTaken</span> | Hauptverantwortlich |
 
 ### **Timolia HowTo**
 Diese Teamler kümmern sich um's Aktualisieren und Erstellen des HowTos Timolias.
@@ -125,7 +125,7 @@ Diese Teamler kümmern sich um's Aktualisieren und Erstellen des HowTos Timolias
 | ------ | ------ |
 |<span style="color:#CF0101">Julian_999999999</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#007812">physanus</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">physanus</span> | Nebenverantwortlich |
 
 ### **Social-Media**
 Für einen ständigen Support und Content auf Twitter und anderen sozialen Medien sorgen diese Teamler.
@@ -149,8 +149,8 @@ Der Teamspeak von Timolia ist unter ts.timolia.de zu erreichen. Er wird betreut 
 |<span style="color:#007812">MCelements</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#CF0101">Julian_999999999</span> | Nebenverantwortlich |
-|<span style="color:#007812">physanus</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">medicoo</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">medicoo</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">physanus</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
 
 ### **Timolia Turnier Organisation**
@@ -159,7 +159,7 @@ Dieses Team entscheidet über die Turniereinstellungen bei den Freitagsturnieren
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
-|<span style="color:#E4D100">medicoo</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">medicoo</span> | Hauptverantwortlich |
 
 ### **Broadcasts**
 Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadcast Mitteilungen gekümmert.
@@ -186,7 +186,7 @@ Wenn sich ein YouTuber für einen Rang auf Timolia interessiert, werden die Anfr
 | Teamler | Zuständigkeit |
 | ------ | ------ |
 |<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
-|<span style="color:#E4D100">medicoo</span> | Hauptverantwortlich |
+|<span style="color:#CF0101">medicoo</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#007812">TheFeldi</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">BowspamExpertDE</span> | Nebenverantwortlich |

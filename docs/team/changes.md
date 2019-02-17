@@ -5,6 +5,9 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Februar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| NameIsTaken | <span style="color:#007812">Developer</span> | <span style="color:#CF0101">Moderator</span> | 17.02.19 |
+| physanus | <span style="color:#007812">Developer</span> | <span style="color:#CF0101">Moderator</span> | 17.02.19 |
+| medicoo | <span style="color:#E4D100">Supporter</span> | <span style="color:#CF0101">Moderator</span> | 17.02.19 |
 | Hiics | <span style="color:#00646F">Builder</span> | <span style="color:#E4D100">Supporter</span> | 10.02.19 |
 | eZZrael | <span style="color:#00646F">Builder</span> | <span style="color:#E4D100">Supporter</span> | 10.02.19 |
 | zSiq | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | 10.02.19 |
