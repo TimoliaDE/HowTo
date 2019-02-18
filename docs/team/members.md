@@ -188,9 +188,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ### <strong><span style="color:#00646F">\_CrystalSky\_</span></strong>
 - <u>Rang (ingame):</u> Builder
 
-### <strong><span style="color:#00646F">\_Siimon\_</span></strong>
-- <u>Rang (ingame):</u> Builder
-
 ### <strong><span style="color:#00646F">12Build</span></strong>
 - <u>Rang (ingame):</u> Builder
 - <u>Nebenverantwortlich:</u> Map-Einsendungen
@@ -212,6 +209,9 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span style="color:#00646F">DragonfighterBen</span></strong>
+- <u>Rang (ingame):</u> Builder
+
+### <strong><span style="color:#00646F">Erdbeerkeks</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span style="color:#00646F">eZZfery</span></strong>

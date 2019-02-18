@@ -78,7 +78,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | flakk0devil | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 22.10.18  |
 | NameIsTaken | <span style="color:#CF0101">Moderator</span> | <span style="color:#007812">Developer</span> | 15.10.18 |
 | Kenaai | <span style="color:#007812">Developer</span> | <span style="color:#00F9EC">Native Expert</span> | 14.10.18 |
-| \_Siimon_ | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 07.10.18  |
+| Erdbeerkeks | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 07.10.18  |
 | 2h9m | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 07.10.18  |
 | arved | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 07.10.18  |
 | DiggerDieter | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span>  | 07.10.18  |
