@@ -66,45 +66,33 @@ Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium
 
 <details><summary>Klicke hier, um alle Maps zu sehen</summary>
 
-4x4 -Beduin
-    -Bollwerk
-    -Tower
-    -Asia
+### 4x2 und 4x4
+Hier findest du alle Maps der Teamgrößen 4x2 und 4x4:
+
+#### Asia (only 4x4)
+#### Beduin
+#### Bollwerk
+#### Tower
+
+### 2x2 und 2x4
+Hier findest du alle Maps der Teamgrößen 2x2 und 2x4:
+
+#### Asia (small)
+#### Bollwerk (big)
+#### Candle Cove (small)
+#### River (small)
+#### Space (small)
+#### Super Mario (big)
+Diese Map ist, wie es der Name bereits sagt, an Super Mario angelehnt:
+![Super Mario](img/maps/castles/Super_Mario_1.png)
+![Super Mario](img/maps/castles/Super_Mario_2.png)
+Built by [Memoryos](/team/members/#memoryos) & [xnulix](/team/members/#memoryos)
+#### Tower (small)
+
+    1vs1-River (small)
     
-4x2 -Bollwerk
-    -Beduin
-    -Tower
-    
-1vs1-River (small)
-    -Tower (small)
-    -Space (small)
     -Asia (small)
     -Bollwerk (big)
     -Candle Cove (small)
-    
-2x2 -River (small)
-    -Tower (small)
-    -Asia (small)
     -Space (small)
-    -Super Mario (big)
-    -Candle Cove (small)
-    -Bollwerk (big)
-    -Inkkognito (big) Das muss raus!
-    
-2x4 -River (small)
     -Tower (small)
-    -Asia (small)
-    -Space (small)
-    -Super Mario (big)
-    -Bollwerk (big)
-    -Candle Cove (small)
-
-
-
-### Super Mario
-
-![Super Mario](img/Maps/Super_Mario_1.png)
-![Super Mario](img/Maps/Super_Mario_2.png)
-by [Memoryos](/team/members/#memoryos) & [xnulix](/team/members/#memoryos)
-
-
