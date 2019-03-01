@@ -160,6 +160,8 @@ Dieses Team entscheidet über die Turniereinstellungen bei den Freitagsturnieren
 | ------ | ------ |
 |<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">medicoo</span> | Hauptverantwortlich |
+| | |
+|<span style="color:#CF0101">physanus</span> | Nebenverantwortlich |
 
 ### **Broadcasts**
 Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadcast Mitteilungen gekümmert.
