@@ -162,9 +162,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Entschuldigungen, Map-Einsendungen
 
-### <strong><span style="color:#E4D100">Sideax</span></strong>
-- <u>Rang (ingame):</u> Supporter
-
 ### <strong><span style="color:#E4D100">SpaceJumper</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Entschuldigungen
