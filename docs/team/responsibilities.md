@@ -78,6 +78,7 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span style="color:#E4D100">SpaceJumper</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Sterax</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">zSiq</span> | Nebenverantwortlich |
 
 ### **Zu Unrecht gebannt**
 | Teamler | Verantwortungsgrad |
