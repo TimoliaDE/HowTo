@@ -5,6 +5,8 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>März</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| Liisa | <span style="color:#848484">Spieler</span> | <span style="color:#E4D100">Supporter</span> | 05.03.19 |
+| Pexa | <span style="color:#848484">Spieler</span> | <span style="color:#E4D100">Supporter</span> | 05.03.19 |
 | Sideax | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 01.03.19 |
 
 ###  <strong>Februar</strong>
