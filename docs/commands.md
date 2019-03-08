@@ -64,6 +64,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/stats <Spieler>`              | Zeigt dir die Stats eines Spielers an |
 | `/stats <Spieler> <Spieler>...` | Ermöglicht es dir, die Stats von mehreren Spielern zu vergleichen |
 | `/spawn`                        | Teleportiert dich zurück zum Spawn vom Hub |
+| `/myspawn`                      | Setzt einen eigenen, individuellen Spawnpunkt in der Lobby |
 
 ### Homes
 | Befehl | Funktion |
