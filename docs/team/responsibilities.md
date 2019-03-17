@@ -136,6 +136,7 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 |<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#2980b9">Niklas</span>| Twitter NV |
+|<span style="color:#CF0101">physanus</span> | Twitter NV |
 |<span style="color:#007812">tr7zw</span> | Twitter NV |
 |<span style="color:#E4D100">Chrissi1505</span> | Twitter NV |
 |<span style="color:#E4D100">xTessia</span> | Twitter NV |
