@@ -222,6 +222,9 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ### <strong><span style="color:#00646F">flakk0devil</span></strong>
 - <u>Rang (ingame):</u> Builder
 
+### <strong><span style="color:#00646F">LegendBuild</span></strong>
+- <u>Rang (ingame):</u> Builder
+
 ### <strong><span style="color:#00646F">Memoryos</span></strong>
 - <u>Rang (ingame):</u> Builder
 
