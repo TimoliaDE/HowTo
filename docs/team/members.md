@@ -16,9 +16,7 @@ Administratoren leiten das Netzwerk. Sie kümmern sich um teaminterne und techni
 
 ### <strong>Lascona</strong>
 - <u>Rang (ingame):</u> Administratorin
-- <u>Hauptverantwortlich:</u> Bauevent-Koordination, Broadcasts, Forenorganisation, Fragen und Antworten Forum, Internes und externes Feedback,
-Organisation und Koordination neuer, inaktiver und alter Teamler, Social Media, Supporterauswahl, Teammanagement, Timolia Turnier Organisation, YouTuber-Ränge
-- <u>Nebenverantwortlich:</u> Map-Einsendungen
+- <u>Hauptverantwortlich:</u> Bauevent-Koordination, Broadcasts, Forenorganisation, Internes und externes Feedback, Social Media, Supporterauswahl, Teammanagement, Timolia Turnier Organisation, YouTuber-Ränge
 
 ### <strong>MCExpertDE</strong>
 - <u>Rang (ingame):</u> Administrator
@@ -28,7 +26,6 @@ Organisation und Koordination neuer, inaktiver und alter Teamler, Social Media, 
 ### <strong>Niklas</strong>
 - <u>Rang (ingame):</u> Administrator
 - <u>Hauptverantwortlich:</u> Interne Webanwendung, Webseite
-- <u>Nebenverantwortlich:</u> Twitter
 
 ### <strong>svdragster</strong>
 - <u>Rang (ingame):</u> Administrator
