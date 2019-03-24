@@ -134,9 +134,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">engiwuck</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
-### <strong><span style="color:#E4D100">eZZrael</span></strong>
-- <u>Rang (ingame):</u> Supporter
-
 ### <strong><span style="color:#E4D100">felliongi21</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Hauptverantwortlich:</u> Spieler melden Forum
@@ -211,10 +208,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 ### <strong><span style="color:#00646F">Erdbeerkeks</span></strong>
 - <u>Rang (ingame):</u> Builder
-
-### <strong><span style="color:#00646F">eZZfery</span></strong>
-- <u>Rang (ingame):</u> Builderin
-- <u>Nebenverantwortlich:</u> Broadcasts
 
 ### <strong><span style="color:#00646F">flakk0devil</span></strong>
 - <u>Rang (ingame):</u> Builder
