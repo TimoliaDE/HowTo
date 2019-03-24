@@ -171,7 +171,6 @@ Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadca
 |<span style="color:#E4D100">CoveredSymmetry</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#007812">MCelements</span> | Nebenverantwortlich |
-|<span style="color:#00646F">eZZfery</span> | Nebenverantwortlich |
 
 ### **Team-Leiter**
 Im Timolia Team gibt es kleinere Teams, welche unter anderem durch diese Verantwortlichen organisiert werden.
