@@ -30,6 +30,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/teamspeak`, `/ts`             | Zeigt die TS-IP, ermöglicht die Verifizierung und lässt dich deine Identität verwalten |
 | `/jointeam <Team-Farbe>`, `/team`| Betrete ein Team in Castles, Brainbow und Mineception |
 | `/rank`                         | Zeigt deinen aktuellen Ingame-Rang und wie lange er läuft |
+| `/quickjoin <Spielmodus>`       | Betritt einen Spielmodus per Befehl |
 **[Premium](/ranks/premium/) only**:
 | `/togglerank`, `/tr`            | Werde in allen Spielmodi als normaler Spieler angezeigt |
 | `/ptime <day/night/midnight/sunrise/noon/afternoon/sunset/reset/hh:mm>` | Zeit für sich selbst umstellen |
@@ -158,6 +159,7 @@ Solltest du dein Handy verlieren, kannst du dich weiterhin mit Backupcodes anmel
 | `/liveinv <Spieler>`, `/liveinventory` | Zeigt das aktuelle Inventar eines Spielers |
 | `/rankinfo`, `/ranginfo`        | Zeigt Informationen zum aktuellen Rang |
 **[Premium](/ranks/premium/) only**:
+| `/bestofx <Spieler> <Anzahl>`   | Fordert einen Spieler zu einem Best of 3 oder Best of 5 heraus |
 | `/hat`                          | Setzt das Item in deiner Hand als den Helm deines Kits |
 | `/create [Passwort]`            | Erstellt ein Turnier (optional mit einem Passwort) |
 | `/modify`                       | Bearbeitet die Turniereinstellungen |
