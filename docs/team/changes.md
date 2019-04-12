@@ -7,7 +7,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | ------ | ------ | ------ | ------ |
 | flakkko | <span style="color:#00646F">Builder</span> | <span style="color:#55FF55">Native MVP</span> | 29.03.19 |
 | eZZfery | <span style="color:#00646F">Builderin</span> | <span style="color:#00F9EC">Native Expert</span> | 24.03.19 |
-| eZZrael | <span style="color:#E4D100">Supporter</span> | <span style="color:#55FF55">Native MVP</span> | 24.03.19 |
+| eZZrael | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Native Expert</span> | 24.03.19 |
 | LegendBuild | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 13.03.19 |
 | Liisa | <span style="color:#848484">Spielerin</span> | <span style="color:#E4D100">Supporterin</span> | 05.03.19 |
 | Pexa | <span style="color:#848484">Spieler</span> | <span style="color:#E4D100">Supporter</span> | 05.03.19 |
