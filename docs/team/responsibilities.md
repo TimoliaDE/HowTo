@@ -141,7 +141,7 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 |<span style="color:#00646F">Tollmolia</span> | Bauteam-Twitter NV |
 
 ### **TeamSpeak**
-Der Teamspeak von Timolia ist unter ts.timolia.de zu erreichen. Er wird betreut von diesen Teamlern.
+Der TeamSpeak von Timolia ist unter ts.timolia.de zu erreichen. Er wird betreut von diesen Teamlern.
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |

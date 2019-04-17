@@ -18,10 +18,10 @@ ggf. zu einem Bann führen. Wir raten daher davon ab, diese Mods ungefragt zu ve
 
 ## §3 - Cheating/Bugusing
 Bugusing ist das bewusste Ausnutzen von Spielfehlern, welche im Spiel nicht vorgesehene Folgen haben, und ist selbstverständlich verboten.
-Stattdessen ist es erwünscht, diese Bugs dem Team über den Teamspeak, im [Forum](https://forum.timolia.de/forums/bug-melden.48/) oder ingame zu melden.
+Stattdessen ist es erwünscht, diese Bugs dem Team über den TeamSpeak, im [Forum](https://forum.timolia.de/forums/bug-melden.48/) oder ingame zu melden.
 
 ## §4 - Chat, Forum und Ingame Verhalten
-Das Timolia Team erwartet von jedem Spieler ein faires und respektvolles Verhalten. Sowohl ingame, als auch im Teamspeak.
+Das Timolia Team erwartet von jedem Spieler ein faires und respektvolles Verhalten. Sowohl ingame, als auch im TeamSpeak.
 
 ### Abs. 1 - Beleidigungen
 Sämtliche Beleidigungen sind verboten. Das Umgehen des Chatfilters durch Leerzeichen, Satzzeichen o.Ä. ist ebenfalls verboten.
@@ -107,6 +107,6 @@ Bei wiederholten Verstößen gegen das Bannumgehungsverbot können alle betroffe
 - Solltest du Verstöße gegen die Regeln bemerken, so ist es erwünscht, diese immer mit Beweis im [Forum](https://forum.timolia.de), ingame einem Teammitglied oder auf dem TeamSpeak im Hilfechannel zu melden.
 
 
-<strong>Das Team behält sich das Recht vor, bestimmtes Handeln (auch außerhalb des Minecraft- und Teamspeakservers) zu sanktionieren, welches nicht explizit in den Regeln aufgelistet ist.</strong>
+<strong>Das Team behält sich das Recht vor, bestimmtes Handeln (auch außerhalb des Minecraft- und TeamSpeakservers) zu sanktionieren, welches nicht explizit in den Regeln aufgelistet ist.</strong>
 
 Letzte Aktualisierung: 01. Januar 2019

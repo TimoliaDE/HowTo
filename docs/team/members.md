@@ -43,7 +43,7 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 ### <strong><span style="color:#CF0101">Julian_999999999</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Bug melden Forum, Bugs und Spielfehler, Entschuldigungen, Fragen und Antworten Forum, Internes Wiki, Supporterauswahl, Timolia HowTo, Zu Unrecht gebannt Forum
-- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Feedback Forum, Spieler melden Forum, Teamspeak
+- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Feedback Forum, Spieler melden Forum, TeamSpeak
 
 ### <strong><span style="color:#CF0101">medicoo</span></strong>
 - <u>Rang (ingame):</u> Moderator
@@ -57,7 +57,7 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 
 ### <strong><span style="color:#CF0101">physanus</span></strong>
 - <u>Rang (ingame):</u> Moderator
-- <u>Nebenverantwortlich:</u> Teamspeak, Timolia HowTo, Timolia Turnier Organisation, Twitter
+- <u>Nebenverantwortlich:</u> TeamSpeak, Timolia HowTo, Timolia Turnier Organisation, Twitter
 
 ### <strong><span style="color:#CF0101">saporital</span></strong>
 - <u>Rang (ingame):</u> Moderator
@@ -172,7 +172,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">xTessia</span></strong>
 - <u>Rang (ingame):</u> Supporterin
-- <u>Nebenverantwortlich:</u> Entschuldigungen, Teamspeak, Twitter, YouTuber-Ränge, Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Entschuldigungen, TeamSpeak, Twitter, YouTuber-Ränge, Zu Unrecht gebannt Forum
 
 ### <strong><span style="color:#E4D100">zSiq</span></strong>
 - <u>Rang (ingame):</u> Supporter

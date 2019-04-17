@@ -3,7 +3,7 @@ Dort gibt es nicht nur Hilfechannel zum schnellen Support, auch öffentliche Zon
 
 # 1 - Verifizierung im TeamSpeak
 - Wenn du dich das erste Mal auf den TeamSpeak Server verbindest, bist du standardmäßig ein Gast. Gäste können die Hilfechannel und die speziell für unverifizierte Usere eingerichteten Zonen des TeamSpeaks betreten
-- Wenn du den Teamspeak betrittst, schreibt dich ein Registrierungsbot an. Schreibe ihm deinen Ingame-Namen, um dich zu verifizieren und alle Bereiche des TeamSpeaks nutzen zu können. Sollten dabei Probleme auftreten, melde dich am besten im Hilfechannel.
+- Wenn du den TeamSpeak betrittst, schreibt dich ein Registrierungsbot an. Schreibe ihm deinen Ingame-Namen, um dich zu verifizieren und alle Bereiche des TeamSpeaks nutzen zu können. Sollten dabei Probleme auftreten, melde dich am besten im Hilfechannel.
 - Solltest du den Expert- oder Pro-Rang besitzen, erhältst du diesen und alle seine Rechte auf dem TeamSpeak automatisch mit der Registrierung.
 
 # 2 - Verhaltensregeln im Hilfechannel
@@ -60,8 +60,8 @@ Monat sein Icon besitzt, da der Channel **vorher ausläuft**. Es ist daher ratsa
 ### Channel-Knecht
 - Besitzt keine speziellen Rechte
 
-# 4 - myTeamspeak
-Es ist nur möglich, eine Teamspeak-Identität mit einem Minecraft Account zu verbinden. Mit myTeamSpeak kann man diese Identität aber auf mehreren Geräte benutzen.
+# 4 - myTeamSpeak
+Es ist nur möglich, eine TeamSpeak-Identität mit einem Minecraft Account zu verbinden. Mit myTeamSpeak kann man diese Identität aber auf mehreren Geräte benutzen.
 
 ## So kannst du es machen:
 - I. Registriere dich auf [https://www.myteamspeak.com/register](https://www.myteamspeak.com/register)
