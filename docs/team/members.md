@@ -7,7 +7,7 @@ Administratoren leiten das Netzwerk. Sie kümmern sich um teaminterne und techni
 
 ### <strong>Docmac</span></strong>
 - <u>Rang (ingame):</u> Administrator
-- <u>Hauptverantwortlich:</u> Timolia-Plugins
+- <u>Hauptverantwortlich:</u> Dynamische Lobbygestaltung, Timolia-Plugins
 
 ### <strong>Edgxxar</span></strong>
 - <u>Rang (ingame):</u> Administrator
@@ -79,7 +79,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 ### <strong><span style="color:#007812">MCelements</span></strong>
 - <u>Rang (ingame):</u> Developer
-- <u>Hauptverantwortlich:</u> TeamSpeak
+- <u>Hauptverantwortlich:</u> Dynamische Lobbygestaltung, TeamSpeak
 - <u>Nebenverantwortlich:</u> Broadcasts
 
 ### <strong><span style="color:#007812">play4me_</span></strong>
@@ -96,6 +96,9 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ### <strong><span style="color:#007812">TheFeldi</span></strong>
 - <u>Rang (ingame):</u> Developer
 - <u>Nebenverantwortlich:</u> YouTuber-Ränge
+
+### <strong><span style="color:#007812">TimderBusfahrer</span></strong>
+- <u>Rang (ingame):</u> Developer
 
 ### <strong><span style="color:#007812">tr7zw</span></strong>
 - <u>Rang (ingame):</u> Developer
