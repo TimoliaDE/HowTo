@@ -8,7 +8,8 @@ Ebenso sind bewusste Falschangaben und das Trollen anderer User im Communitysupp
 ## §3 - Verhalten in Textchanneln
 Das Timolia-Team erwartet von jedem Spieler ein faires und respektvolles Verhalten.
 
-- <u>Beleidigungen</u>: Sämtliche Beleidigungen sind verboten.
+### Beleidigungen
+Sämtliche Beleidigungen sind verboten.
 - <u>Diskriminierung</u>: Das Ausschließen, Beleidigen und Hetzen gegen andere Nationalitäten, Ethnien, Glaubensrichtungen, Sexualitäten, Minderheiten oder sonstiger Gruppen ist auf Timolia verboten und wird ohne Verwarnung gebannt.
 - <u>Nationalsozialismus</u>: Nationalsozialistische Äußerungen, Parolen und Ähnliches sind auf Timolia verboten und werden ohne Verwarnung gebannt.
 
@@ -18,8 +19,11 @@ Das Timolia-Team erwartet von jedem Spieler ein faires und respektvolles Verhalt
 - <u>Werbung für Hackclients, Posten von Accountdaten</u>: Das Bewerben von unerlaubten Minecraft Client-Modifikationen, das Posten von Alt-Accountlisten sowie generell Accountdaten ist verboten und wird entsprechend geahndet.
 - <u>Phishing und Betrug</u>: Um Phishing und Betrug vorzubeugen ist der private Handel auf dem Server in jeglicher Form verboten.
 Dazu zählen unter anderem der vermeintliche Verkauf von Minecraft-Accounts, kostenlose Angebote für beispielsweise Optifine-Capes und Ähnliches. Das Abschöpfen von Userdaten wie Passwörtern und E-Mails anderer User durch falsche Versprechungen ist eine Straftat und wird zur Anzeige gebracht. Ebenso erfolgt ein permanenter Ausschluss vom Timolia Netzwerk. Dazu zählt auch der reine Versuch.
-- <u>Spam</u>: Das Spammen von Nachrichten ist verboten und wird entsprechend der Schwere geahndet.
-- <u>Usernamen & Profilbilder</u>: Anstößige, beleidigende und in jeglicher Form diskriminierende User- und Nicknamen sowie Profilbilder sind verboten
+
+### Spam
+Das Spammen von Nachrichten ist verboten und wird entsprechend der Schwere geahndet.
+### Usernamen & Profilbilder
+Anstößige, beleidigende und in jeglicher Form diskriminierende User- und Nicknamen sowie Profilbilder sind verboten.  
 Des Weiteren ist es verboten, sich durch den User-/Nicknamen oder Textnachrichten als ein anderer User oder ein Teammitglied auszugeben.
 
 ## §4 - Discord Bot
