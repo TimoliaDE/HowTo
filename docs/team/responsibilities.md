@@ -152,6 +152,19 @@ Der TeamSpeak von Timolia ist unter ts.timolia.de zu erreichen. Er wird betreut 
 |<span style="color:#CF0101">physanus</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |
 
+### **Discord**
+Der Community-Discord von Timolia ist unter [https://timolia.de/discord](https://timolia.de/discord) zu erreichen. Er wird betreut von diesen Teamlern.
+
+| Teamler | Verantwortungsgrad |
+| ------ | ------ |
+|<span style="color:#CF0101">NameIsTaken</span> | Hauptverantwortlich |
+| | |
+|<span style="color:#2980b9">Lascona</span> | Nebenverantwortlich |
+|<span style="color:#CF0101">Julian_999999999</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Chrissi1505</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">InfiniteNiki</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">Sterax</span> | Nebenverantwortlich |
+
 ### **Timolia Turnier Organisation**
 Dieses Team entscheidet über die Turniereinstellungen bei den Freitagsturnieren.
 
