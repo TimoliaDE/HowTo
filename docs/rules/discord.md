@@ -1,5 +1,5 @@
 ## §1 - Allgemein
-Grundsätzlich gilt das allgemeine Regelwerk des Timolia Minecraft-Servers genau so für unseren Discord. [LINK GAMES REGELWERK]
+Grundsätzlich gilt das [allgemeine Regelwerk](games.md) des Timolia Minecraft-Servers genau so für unseren Discord.
 
 ## §2 - Support
 Das Ausnutzen der Supportchats (z.B. durch mehrfaches Erstellen eines Chats ohne triftigen Grund) ist verboten.
@@ -12,7 +12,7 @@ Das Timolia-Team erwartet von jedem Spieler ein faires und respektvolles Verhalt
 - <u>Diskriminierung</u>: Das Ausschließen, Beleidigen und Hetzen gegen andere Nationalitäten, Ethnien, Glaubensrichtungen, Sexualitäten, Minderheiten oder sonstiger Gruppen ist auf Timolia verboten und wird ohne Verwarnung gebannt.
 - <u>Nationalsozialismus</u>: Nationalsozialistische Äußerungen, Parolen und Ähnliches sind auf Timolia verboten und werden ohne Verwarnung gebannt.
 
-Werbung und Phishing/Betrug
+###Werbung und Phishing/Betrug
 - <u>Eigenwerbung</u>: Eigenwerbung auf dem Discord Server ist erlaubt, vorausgesetzt, dass diese nicht aufdringlich platziert oder gespammt wird.
 - <u>Serverwerbung</u>: Serverwerbung ist verboten. Selbst das einmalige Senden einer Serveradresse kann und wird als Werbung empfunden und dementsprechend sanktioniert.
 - <u>Werbung für Hackclients, Posten von Accountdaten</u>: Das Bewerben von unerlaubten Minecraft Client-Modifikationen, das Posten von Alt-Accountlisten sowie generell Accountdaten ist verboten und wird entsprechend geahndet.
