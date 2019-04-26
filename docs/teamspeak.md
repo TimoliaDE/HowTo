@@ -6,7 +6,7 @@ Dort gibt es nicht nur Hilfechannel zum schnellen Support, auch öffentliche Zon
 - Wenn du den TeamSpeak betrittst, schreibt dich ein Registrierungsbot an. Schreibe ihm deinen Ingame-Namen, um dich zu verifizieren und alle Bereiche des TeamSpeaks nutzen zu können. Sollten dabei Probleme auftreten, melde dich am besten im Hilfechannel.
 - Solltest du einen Premium-Rang besitzen, erhältst du diesen und alle seine Rechte auf dem TeamSpeak automatisch mit der Registrierung.
 
-# 2 - TeamSpeak Regeln
+# 2 - TeamSpeak Regelwerk
 Die Regeln des TeamSpeaks kannst du dem Channel "TeamSpeak Regeln" auf dem TeamSpeak entnehmen oder [hier](/rules/teamspeak/) nachlesen.
 
 # 3 - Verhaltensregeln im Hilfechannel
