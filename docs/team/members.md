@@ -145,6 +145,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">ferdedelino</span></strong>
 - <u>Rang (ingame):</u> Supporter
+- <u>Nebenverantwortlich:</u> Commnunity-Discord
 
 ### <strong><span style="color:#E4D100">Hiics</span></strong>
 - <u>Rang (ingame):</u> Supporter
