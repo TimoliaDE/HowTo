@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>April</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| Caelis | <span style="color:#CF0101">Moderator</span> | <span style="color:#2980b9">Administrator</span> | 27.04.19 |
 | TimderBusfahrer | <span style="color:#F99500">Pro+</span> | <span style="color:#007812">Developer</span> | 17.04.19 |
 
 ###  <strong>März</strong>
