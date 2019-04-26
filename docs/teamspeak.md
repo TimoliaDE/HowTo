@@ -6,13 +6,16 @@ Dort gibt es nicht nur Hilfechannel zum schnellen Support, auch öffentliche Zon
 - Wenn du den TeamSpeak betrittst, schreibt dich ein Registrierungsbot an. Schreibe ihm deinen Ingame-Namen, um dich zu verifizieren und alle Bereiche des TeamSpeaks nutzen zu können. Sollten dabei Probleme auftreten, melde dich am besten im Hilfechannel.
 - Solltest du einen Premium-Rang besitzen, erhältst du diesen und alle seine Rechte auf dem TeamSpeak automatisch mit der Registrierung.
 
-# 2 - Verhaltensregeln im Hilfechannel
+# 2 - TeamSpeak Regeln
+Die Regeln des TeamSpeaks kannst du dem Channel "TeamSpeak Regeln" auf dem TeamSpeak entnehmen oder [hier](/rules/teamspeak/) nachlesen.
+
+# 3 - Verhaltensregeln im Hilfechannel
 - Bitte sei nicht ungeduldig. Du musst mit einer Wartezeit von bis zu 10 Minuten rechnen.
 - Sei <strong>respektvoll</strong> und beleidige keine Teammitglieder. Außerdem bitten wir dich, keine laute Musik abzuspielen.
 - Schildere dein Problem <strong>ganz genau</strong>, damit dir schnell weitergeholfen werden kann.
 - Falls du dir Geschichten ausdenkst, welche gar nicht stimmen, oder Unfug betreibst, <strong>musst du mit einem Bann rechnen</strong>.
 
-# 3 - Private Zonen
+# 4 - Private Zonen
 Auf unserem Server bieten wir zeitlich begrenzte Channel zum Mieten an. Wie? Das erfährst du hier:
 
 ## Wie erhalte ich einen Channel?
@@ -60,7 +63,7 @@ Monat sein Icon besitzt, da der Channel **vorher ausläuft**. Es ist daher ratsa
 ### Channel-Knecht
 - Besitzt keine speziellen Rechte
 
-# 4 - myTeamSpeak
+# 5 - myTeamSpeak
 Es ist nur möglich, eine TeamSpeak-Identität mit einem Minecraft Account zu verbinden. Mit myTeamSpeak kann man diese Identität aber auf mehreren Geräte benutzen.
 
 ## So kannst du es machen:
