@@ -1,4 +1,4 @@
-Über [https://timolia.de/discord](https://timolia.de/discord) kannst du unserem Discord-Server joinen.
+Über [https://timolia.de/discord](https://timolia.de/discord) kannst du auf unseren Discord-Server joinen.
 
 blubb blubb
 
