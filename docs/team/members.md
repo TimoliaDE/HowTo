@@ -17,7 +17,7 @@ Administratoren leiten das Netzwerk. Sie kümmern sich um teaminterne und techni
 ### <strong>Lascona</strong>
 - <u>Rang (ingame):</u> Administratorin
 - <u>Hauptverantwortlich:</u> Bauevent-Koordination, Broadcasts, Forenorganisation, Internes und externes Feedback, Social Media, Supporterauswahl, Teammanagement, Timolia Turnier Organisation, YouTuber-Ränge
-- <u>Nebenverantwortlich:</u> Commnunity-Discord
+- <u>Nebenverantwortlich:</u> Community-Discord
 
 ### <strong>MCExpertDE</strong>
 - <u>Rang (ingame):</u> Administrator
@@ -44,7 +44,7 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 ### <strong><span style="color:#CF0101">Julian_999999999</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Bug melden Forum, Bugs und Spielfehler, Entschuldigungen, Fragen und Antworten Forum, Internes Wiki, Supporterauswahl, Timolia HowTo, Zu Unrecht gebannt Forum
-- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Commnunity-Discord, Feedback Forum, Spieler melden Forum, TeamSpeak
+- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Community-Discord, Feedback Forum, Spieler melden Forum, TeamSpeak
 
 ### <strong><span style="color:#CF0101">medicoo</span></strong>
 - <u>Rang (ingame):</u> Moderator
@@ -53,7 +53,7 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 
 ### <strong><span style="color:#CF0101">NameIsTaken</span></strong>
 - <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Commnunity-Discord, Supporterauswahl
+- <u>Hauptverantwortlich:</u> Community-Discord, Supporterauswahl
 - <u>Nebenverantwortlich:</u> Forenorganisation
 
 ### <strong><span style="color:#CF0101">physanus</span></strong>
@@ -124,7 +124,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Chrissi1505</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Commnunity-Discord, Twitter
+- <u>Nebenverantwortlich:</u> Community-Discord, Twitter
 
 ### <strong><span style="color:#E4D100">CoveredSymmetry</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -145,14 +145,14 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">ferdedelino</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Commnunity-Discord
+- <u>Nebenverantwortlich:</u> Community-Discord
 
 ### <strong><span style="color:#E4D100">Hiics</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
 ### <strong><span style="color:#E4D100">InfiniteNiki</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Commnunity-Discord
+- <u>Nebenverantwortlich:</u> Community-Discord
 
 ### <strong><span style="color:#E4D100">Liisa</span></strong>
 - <u>Rang (ingame):</u> Supporterin
@@ -174,7 +174,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Sterax</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Commnunity-Discord, Entschuldigungen, YouTuber-Ränge, Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Community-Discord, Entschuldigungen, YouTuber-Ränge, Zu Unrecht gebannt Forum
 
 ### <strong><span style="color:#E4D100">xTessia</span></strong>
 - <u>Rang (ingame):</u> Supporterin
