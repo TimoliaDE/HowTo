@@ -19,8 +19,8 @@ Die Regeln des TeamSpeaks kannst du dem Channel "TeamSpeak Regeln" auf dem TeamS
 Auf unserem Server bieten wir zeitlich begrenzte Channel zum Mieten an. Wie? Das erfährst du hier:
 
 ## Wie erhalte ich einen Channel?
-Einen Channel erhält man, in dem man sich im TeamSpeak an ein Teammitglied wendet. Für private Zonen sind Teammitglieder mit dem TeamSpeak-Icon verantwortlich. Ebenso kann 
-ein privater Channel mithilfe eines Tickets auf dem CityBuild angefordert werden.
+Einen Channel erhält man, in dem man sich im TeamSpeak an ein Teammitglied wendet. Am besten geht man dazu in den Hilfechannel. Für private Zonen sind Teammitglieder mit dem TeamSpeak-Icon verantwortlich. Ebenso kann 
+ein privater Channel mithilfe eines Tickets angefordert werden.
 
 ### Kosten eines Channels
 Die Kosten eines privaten Channels belaufen sich <strong>pro Monat auf <u>2.500 Pixel</u></strong>.
