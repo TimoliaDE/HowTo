@@ -121,7 +121,19 @@ Solltest du dein Handy verlieren, kannst du dich weiterhin mit Backupcodes anmel
 | `/2fa buc`                      | Listet alle unbenutzten Backupcodes auf |
 | `/2fa logout`                   | Kickt dich vom Netzwerk und loggt dich aus der Zwei-Faktor-Authentifizierung aus |
 
+### Community-Discord
 
+| Befehl | Funktion |
+| ------ | -------- |
+| `/help` | Listet alle verfügbaren Commands auf |
+| `/help <command>` | Gibt Infos über den ausgewählten Command aus |
+| `/verify <Ingamename>` | Verknüpft deinen Discord-Account mit deinem Minecraft-Account |
+| `/unverify` | Hebt die Verknüpfung deines Discord-Accounts mit deinem Minecraft-Account auf |
+| `/quote <NachrichtID>/<Nachricht Link>` | Zitiert die angegebene Nachricht |
+| `/top` | Zeigt die Top 10 der User an|
+| `/rank` | Zeigt Informationen zu deinem Rang an |
+| `/bug <Beschreibung>` | Meldet einen Bug an das Timolia Team |
+| `/support <Beschreibung>` | Erstellt einen Supportchat für dich mit dem angegebenen Problem |
 
 ## 2 - Befehle der einzelnen Modi
 
