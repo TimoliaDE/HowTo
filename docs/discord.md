@@ -1,18 +1,14 @@
-bli bla blub
+Über [https://timolia.de/discord](https://timolia.de/discord) kannst du unserem Discord-Server joinen.
 
-Mit der TeamSpeak-Server-IP `ts.timolia.de` gelangst du zu unserem TeamSpeak-Server.
-Dort gibt es nicht nur Hilfechannel zum schnellen Support, auch öffentliche Zonen und private Channel erwarten dich. 
+blubb blubb
 
-# 1 - Verifizierung im TeamSpeak
-- Wenn du dich das erste Mal auf den TeamSpeak Server verbindest, bist du standardmäßig ein Gast. Gäste können die Hilfechannel und die speziell für unverifizierte Usere eingerichteten Zonen des TeamSpeaks betreten
-- Wenn du den TeamSpeak betrittst, schreibt dich ein Registrierungsbot an. Schreibe ihm deinen Ingame-Namen, um dich zu verifizieren und alle Bereiche des TeamSpeaks nutzen zu können. Sollten dabei Probleme auftreten, melde dich am besten im Hilfechannel.
-- Solltest du den Expert- oder Pro-Rang besitzen, erhältst du diesen und alle seine Rechte auf dem TeamSpeak automatisch mit der Registrierung.
+# 1 - Verifizierung auf dem Discord
+- Wenn du den Coummunity-Discord betrittst, bist du zunächst unverifiziert. Durch die Verifizierung mit deinem Minecraft-Account erhälts du eine besondere Rolle mit deinem Ingamerang und einige neue Rechte auf dem Discord. Außerdem bekommst du ingame den "Discord Crew" Subtitle!
+- Sobald du den Discord-Server betreten hast, wird dich der "Timolia Bot" anschreiben. Sei ingame online und schreibe dem Bot auf dem Discord <code>/verify &lt;dein Ingamename&gt;</code>. Klicke dann im Minecraft Chat auf die Nachricht, die du dort bekmmen hast.
 
-# 2 - Verhaltensregeln im Hilfechannel
-- Bitte sei nicht ungeduldig. Du musst mit einer Wartezeit von bis zu 10 Minuten rechnen.
-- Sei <strong>respektvoll</strong> und beleidige keine Teammitglieder. Außerdem bitten wir dich, keine laute Musik abzuspielen.
-- Schildere dein Problem <strong>ganz genau</strong>, damit dir schnell weitergeholfen werden kann.
-- Falls du dir Geschichten ausdenkst, welche gar nicht stimmen, oder Unfug betreibst, <strong>musst du mit einem Bann rechnen</strong>.
+
+# 2 - Discord Regelwerk
+Die Regeln des Discord-Servers kannst du dem Channel [#regeln](https://discordapp.com/channels/407554118887014402/407565978025852929) auf dem Discord entnehmen oder [hier](/rules/discord/) nachlesen.
 
 # 3 - Private Zonen
 Auf unserem Server bieten wir zeitlich begrenzte Channel zum Mieten an. Wie? Das erfährst du hier:
