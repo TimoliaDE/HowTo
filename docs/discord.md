@@ -10,26 +10,36 @@ blubb blubb
 # 2 - Discord Regelwerk
 Die Regeln des Discord-Servers kannst du dem Channel [#regeln](https://discordapp.com/channels/407554118887014402/407565978025852929) auf dem Discord entnehmen oder [hier](/rules/discord/) nachlesen.
 
-# 3 - Das Score System
-
-bla bla bla
-
-# 4 - Private Channel
+# 3 - Private Channel
 Auf unserem Server bieten wir zeitlich begrenzte Channel zum Mieten an. Wie? Das erfährst du hier:
 
 ## Wie erhalte ich einen Channel?
 Einen Channel erhält man, in dem man sich auf dem Discord an ein Teammitglied wendet. Am besten eignet sich dafür <code>/support &lt;Problembeschreibung&gt;</code>, welches man dem Timolia Bot oder im Channel [#support](https://discordapp.com/channels/407554118887014402/413594798906408960) schreiben kann.
 
-### Kosten eines Channels
+## Kosten eines Channels
 Die Kosten eines privaten Channels belaufen sich <strong>pro Monat auf <u>1.000 Pixel</u></strong>.
 
-## Regeln für private Channel
+# 4 - Das Score System
 
-blibb blabb
-- Ein Channel hat eine <strong>maximale Laufzeit von 6 Monaten</strong>
-- Jeder User darf maximal <strong>einen Channel</strong> besitzen
-- Der Channelname muss dem Namen des Channelbesitzers entsprechen
-- Es ist möglich, sich den Channel und die damit verbundenen Kosten mit Freunden zu teilen. Jedoch ist zu beachten, dass es nur einen rechtmäßigen Besitzer geben kann. Dieser hat im Fall einer Uneinstimmigkeit zwischen den Besitzern den alleinigen Anspruch auf den Channel.
+## Wie funktioniert es?
+Nachrichten werden ab einer gewissen Länge gewertet und Score aus ihnen berechnet. Abgesehen von der Mindestlänge ist der Score für jede Nachricht aber unabhängig von der Länge der Nachricht.
+
+## Wie oft werden Nachrichten gewertet?
+Abhängig vom Rang gibt es einen Cooldown zwischen gewerteten Nachrichten - Spam funktioniert also nicht uneingeschränkt.
+
+## Wie viele Punkte gibt es pro Nachricht?
+Gewertete Nachrichten erhalten 1-20 Punkte.
+
+## Wo sehe ich, wie viele Punkte ich aktuell habe?
+Deine aktuellen Punkte sowie den daraus resultierenden Rang kannst du mit `/rank` einsehen. Dieser Befehl ist im Privatchat mit dem Timolia Bot oder in [#ranks](https://discordapp.com/channels/407554118887014402/548160287891783690) ausführbar. Auf die gleiche Weise kann der `/top` Befehl genutzt werden, mit dem die 10 User mit den meisten Punkten angezeigt werden.
+
+## Ich habe eine  längere Nachricht geschrieben und sie wurde nicht gewertet
+Nicht in jedem Channel werden Nachrichten gewertet. Private Channel und Supportchats sind beispielsweise aus dem Scoresystem komplett ausgeschlossen.
+
+## Wie viele Punkte brauche ich zum nächsten Rang?
+Der niedrigste Rang benötigt 128 Punkte. Ab da berechnet sich die Mindestpunktzahl aller Ränge durch das Doppelte des vorherigen. Der zweite benötigt also 256, dann 512, 1024 usw.
+
+<strong>User, die das System durch permanenten Spam ausnutzen (oder dies versuchen) werden auf einen Score von 0 Punkten zurückgesetzt.</strong>
 
 # 5 - Befehle
 
