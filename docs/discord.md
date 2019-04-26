@@ -10,7 +10,11 @@ blubb blubb
 # 2 - Discord Regelwerk
 Die Regeln des Discord-Servers kannst du dem Channel [#regeln](https://discordapp.com/channels/407554118887014402/407565978025852929) auf dem Discord entnehmen oder [hier](/rules/discord/) nachlesen.
 
-# 3 - Private Channel
+# 3 - Das Score System
+
+bla bla bla
+
+# 4 - Private Channel
 Auf unserem Server bieten wir zeitlich begrenzte Channel zum Mieten an. Wie? Das erfährst du hier:
 
 ## Wie erhalte ich einen Channel?
@@ -27,13 +31,18 @@ blibb blabb
 - Der Channelname muss dem Namen des Channelbesitzers entsprechen
 - Es ist möglich, sich den Channel und die damit verbundenen Kosten mit Freunden zu teilen. Jedoch ist zu beachten, dass es nur einen rechtmäßigen Besitzer geben kann. Dieser hat im Fall einer Uneinstimmigkeit zwischen den Besitzern den alleinigen Anspruch auf den Channel.
 
-# 4 - Befehle
+# 5 - Befehle
+
+Der Timolia Bot verfügt über mehrere Commands, die ausgeführt werden können.
 
 | Befehl | Funktion |
 | ------ | -------- |
-| | |
-| | |
-
-
-
-
+| `/help` | Listet alle verfügbaren Commands auf |
+| `/help <command>` | Gibt Infos über den ausgewählten Command aus |
+| `/verify <Ingamename>` | Verknüpft deinen Discord-Account mit deinem Minecraft-Account |
+| `/unverify` | Hebt die Verknüpfung deines Discord-Accounts mit deinem Minecraft-Account auf |
+| `/quote <NachrichtID>/<Nachricht Link>` | Zitiert die angegebene Nachricht |
+| `/top` | Zeigt die Top 10 der User an|
+| `/rank` | Zeigt Informationen zu deinem Rang an |
+| `/bug <Beschreibung>` | Meldet einen Bug an das Timolia Team |
+| `/support <Beschreibung>` | Erstellt einen Supportchat für dich mit dem angegebenen Problem |
