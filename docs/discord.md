@@ -52,7 +52,7 @@ Der niedrigste Rang benötigt 128 Punkte. Ab da berechnet sich die Mindestpunktz
 
 # 5 - Befehle
 
-Der Timolia Bot verfügt über mehrere Commands, die ausgeführt werden können.
+Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführt werden können.
 
 | Befehl | Funktion |
 | ------ | -------- |
