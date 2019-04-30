@@ -10,7 +10,7 @@ Auf unserem Server bieten wir zeitlich begrenzte Channel zum Mieten an, die Kost
 
 ### Gibt es auch einen Discord-Server?
 Über [https://timolia.de/discord](https://timolia.de/discord) kannst du auf unseren Discord-Server joinen. Hier kannst du dich mit anderen User austauschen, Support erhalten oder an Gewinnspielen teilnehmen.
-Auf unserem Server bieten wir zeitlich begrenzte Channel zum Mieten an, die Kosten betragen monatlich 1.000 Pixel. Alle weiteren Informationen findest du 
+Auf unserem Server bieten wir zeitlich begrenzte Chatchannel zum Mieten an, die Kosten betragen monatlich 1.000 Pixel. Alle weiteren Informationen findest du 
 [in unserer Discord-Erklärung](/Discord/).
 
 ### Wo ist der Citybuild hin?
