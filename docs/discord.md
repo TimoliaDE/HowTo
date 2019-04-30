@@ -1,4 +1,4 @@
-Über [https://timolia.de/discord](https://timolia.de/discord) kannst du auf unseren Discord-Server joinen. Dort kannst du mit deinen Freunden und der Community kommunizieren. Zudem erhälts du dort Support, kannst Bugs melden, an Gewinnspielen teilnehmen und vieles mehr.  
+Über [https://timolia.de/discord](https://timolia.de/discord) kannst du auf unseren Discord-Server joinen. Dort kannst du mit deinen Freunden und der Community kommunizieren. Zudem erhältst du dort Support, kannst Bugs melden, an Gewinnspielen teilnehmen und vieles mehr.  
 Unser Discord ist eine reine <strong>Chatplattform</strong>. Voicechannel kannst du auf unserem [TeamSpeak-Server](/teamspeak.md/) finden.  
 Hier findest du nun eine grobe Übersicht über den Discord, alle weiteren Informationen findest du direkt auf dem Discord in den Channeln unter der Kategorie „Informationen“.
 
