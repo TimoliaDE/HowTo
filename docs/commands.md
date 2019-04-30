@@ -123,17 +123,23 @@ Solltest du dein Handy verlieren, kannst du dich weiterhin mit Backupcodes anmel
 
 ### Community-Discord
 
+Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführt werden können.
+
 | Befehl | Funktion |
 | ------ | -------- |
 | `/help` | Listet alle verfügbaren Commands auf |
-| `/help <command>` | Gibt Infos über den ausgewählten Command aus |
+| `/help <command>` oder `/<command> help` | Gibt Infos über den ausgewählten Command aus |
 | `/verify <Ingamename>` | Verknüpft deinen Discord-Account mit deinem Minecraft-Account |
 | `/unverify` | Hebt die Verknüpfung deines Discord-Accounts mit deinem Minecraft-Account auf |
+| `/stats [@Name]` | Gibt einige Discord Stats von dir oder anderen aus |
+| `/stats all` | Gibt die Serverstats aus |
+| `/lookup <@Name>` | Gibt Informationen zu einem User aus |
 | `/quote <NachrichtID>/<Nachricht Link>` | Zitiert die angegebene Nachricht |
 | `/top` | Zeigt die Top 10 der User an|
 | `/rank` | Zeigt Informationen zu deinem Rang an |
 | `/bug <Beschreibung>` | Meldet einen Bug an das Timolia Team |
 | `/support <Beschreibung>` | Erstellt einen Supportchat für dich mit dem angegebenen Problem |
+| `/idea <Idee>` (in [#ideen](https://discordapp.com/channels/407554118887014402/413615776399097866) und [#discord-ideen](https://discordapp.com/channels/407554118887014402/569594169228656656))| Der Bot postet deine Idee und versieht sie mit einer positiven und einer negativen Reaction |
 
 ## 2 - Befehle der einzelnen Modi
 
