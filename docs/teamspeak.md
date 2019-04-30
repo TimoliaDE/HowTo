@@ -34,9 +34,9 @@ Monat sein Icon besitzt, da der Channel **vorher ausläuft**. Es ist daher ratsa
 - Als Channel-Icon kann ausschließlich der Kopf des Minecraft-Skins dienen - kein eigens erstelltes Icon.
 
 ## Regeln für private Channel
-- Ein Channel hat eine <strong>maximale Laufzeit von 6 Monaten</strong>
-- Jeder User darf maximal <strong>einen Channel</strong> besitzen
-- Der Channelname muss dem Namen des Channelbesitzers entsprechen
+- Ein Channel hat eine <strong>maximale Laufzeit von 6 Monaten</strong>.
+- Jeder User darf maximal <strong>einen Channel</strong> besitzen.
+- Der Channelname muss dem Namen des Channelbesitzers entsprechen.
 - Es ist möglich, sich den Channel und die damit verbundenen Kosten mit Freunden zu teilen. Jedoch ist zu beachten, dass es nur einen rechtmäßigen Besitzer geben kann. Dieser hat im Fall einer Uneinstimmigkeit zwischen den Besitzern den alleinigen Anspruch auf den Channel.
 
 ## Channelgruppen
