@@ -1,23 +1,32 @@
-Über [https://timolia.de/discord](https://timolia.de/discord) kannst du auf unseren Discord-Server joinen.
-
-blubb blubb
+Über [https://timolia.de/discord](https://timolia.de/discord) kannst du auf unseren Discord-Server joinen. Dort kannst du mit deinen Freunden und der Community kommunizieren. Zudem erhälts du dort Support, kannst Bugs melden, an Gewinnspielen teilnehmen und vieles mehr.  
+Unser Discord ist eine reine <strong>Chatplattform</strong>. Voicechannel kannst du auf unserem [TeamSpeak-Server](/teamspeak.md/) finden.  
+Hier findest du nun eine grobe Übersicht über den Discord, alle weiteren Informationen findest du direkt auf dem Discord in den Channeln unter der Kategorie „Informationen“.
 
 # 1 - Verifizierung auf dem Discord
-- Wenn du den Community-Discord betrittst, bist du zunächst unverifiziert. Durch die Verifizierung mit deinem Minecraft-Account erhälts du eine besondere Rolle mit deinem Ingamerang und einige neue Rechte auf dem Discord. Außerdem bekommst du ingame den "Discord Crew" Subtitle!
-- Sobald du den Discord-Server betreten hast, wird dich der "Timolia Bot" anschreiben. Sei ingame online und schreibe dem Bot auf dem Discord <code>/verify &lt;dein Ingamename&gt;</code>. Klicke dann im Minecraft Chat auf die Nachricht, die du dort bekmmen hast.
-- Solltest du gebannt sein, kannst du auf register.timolia.de joinen und dort die Verifizierung durchführen
+- Wenn du den Community-Discord betrittst, bist du zunächst unverifiziert. Durch die Verifizierung mit deinem Minecraft-Account erhältst du eine besondere Rolle mit deinem Ingamerang und einige neue Rechte auf dem Discord. Außerdem bekommst du ingame den "Discord Crew"-Subtitle!
+- Sobald du den Discord-Server betreten hast, wird dich der "<strong>Timolia Bot</strong>" anschreiben. Sei <strong>ingame online und schreibe dem Bot auf dem Discord</strong> `/verify <dein Ingamename>`. Klicke dann im <strong>Minecraft Chat</strong> auf die Nachricht, die du dort bekmmen hast.
+- Solltest du gebannt sein, kannst du auf *register.timolia.de* joinen und dort die Verifizierung durchführen
 
 # 2 - Discord Regelwerk
 Die Regeln des Discord-Servers kannst du dem Channel [#regeln](https://discordapp.com/channels/407554118887014402/407565978025852929) auf dem Discord entnehmen oder [hier](/rules/discord/) nachlesen.
 
 # 3 - Private Channel
-Auf unserem Server bieten wir zeitlich begrenzte Channel zum Mieten an. Wie? Das erfährst du hier:
+Auf unserem Server bieten wir zeitlich begrenzte Chatchannel zum Mieten an. Wie? Das erfährst du hier:
 
 ## Wie erhalte ich einen Channel?
-Einen Channel erhält man, in dem man sich auf dem Discord an ein Teammitglied wendet. Am besten eignet sich dafür <code>/support &lt;Problembeschreibung&gt;</code>, welches man dem Timolia Bot oder im Channel [#support](https://discordapp.com/channels/407554118887014402/413594798906408960) schreiben kann.
+Einen Channel erhält man, in dem man sich auf dem Discord an ein Teammitglied wendet. Am besten eignet sich dafür `/support <Problembeschreibung>`, welches man dem Timolia Bot oder im Channel [#support](https://discordapp.com/channels/407554118887014402/413594798906408960) schreiben kann.
 
 ## Kosten eines Channels
 Die Kosten eines privaten Channels belaufen sich <strong>pro Monat auf <u>1.000 Pixel</u></strong>.
+
+## Wie füge ich einen Freund hinzu?
+Weitere Mitglieder kann der Besitzer des Channels mit `/channel invite <@Name>` hinufügen. Mit `/channel remove <@Name>` kann ein Nutzer wieder entfernt werden.
+
+## Regeln für private Channel
+- Ein Channel hat eine <strong>maximale Laufzeit von 6 Monaten</strong>.
+- Jeder User darf maximal <strong>einen Channel</strong> besitzen.
+- Es ist möglich, sich den Channel und die damit verbundenen Kosten mit Freunden zu teilen. Jedoch ist zu beachten, dass es nur einen rechtmäßigen Besitzer geben kann. Dieser hat im Fall einer Uneinstimmigkeit zwischen den Besitzern den alleinigen Anspruch auf den Channel.
+- Nach Ablauf der Zeit werden die Channel automatisch gesperrt. Durch eine Verlängerung des Channels kann dieser weiter genutzt werden und die Nachrichten bleiben erhalten.
 
 # 4 - Das Score System
 
@@ -48,11 +57,15 @@ Der Timolia Bot verfügt über mehrere Commands, die ausgeführt werden können.
 | Befehl | Funktion |
 | ------ | -------- |
 | `/help` | Listet alle verfügbaren Commands auf |
-| `/help <command>` | Gibt Infos über den ausgewählten Command aus |
+| `/help <command>` oder `/<command> help` | Gibt Infos über den ausgewählten Command aus |
 | `/verify <Ingamename>` | Verknüpft deinen Discord-Account mit deinem Minecraft-Account |
 | `/unverify` | Hebt die Verknüpfung deines Discord-Accounts mit deinem Minecraft-Account auf |
+| `/stats [@Name]` | Gibt einige Discord Stats von dir oder anderen aus |
+| `/stats all` | Gibt die Serverstats aus |
+| `/lookup <@Name>` | Gibt Informationen zu einem User aus |
 | `/quote <NachrichtID>/<Nachricht Link>` | Zitiert die angegebene Nachricht |
 | `/top` | Zeigt die Top 10 der User an|
 | `/rank` | Zeigt Informationen zu deinem Rang an |
 | `/bug <Beschreibung>` | Meldet einen Bug an das Timolia Team |
 | `/support <Beschreibung>` | Erstellt einen Supportchat für dich mit dem angegebenen Problem |
+| `/idea <Idee>` (in [#ideen](https://discordapp.com/channels/407554118887014402/413615776399097866) und [#discord-ideen](https://discordapp.com/channels/407554118887014402/569594169228656656))| Der Bot postet deine Idee und versieht sie mit einer positiven und einer negativen Reaction |
