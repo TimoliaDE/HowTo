@@ -11,7 +11,7 @@ Hier findest du nun eine grobe Übersicht über den Discord, alle weiteren Infor
 Die Regeln des Discord-Servers kannst du dem Channel [#regeln](https://discordapp.com/channels/407554118887014402/407565978025852929) auf dem Discord entnehmen oder [hier](/rules/discord/) nachlesen.
 
 # 3 - Private Channel
-Auf unserem Server bieten wir zeitlich begrenzte Chatchannel zum Mieten an. Wie? Das erfährst du hier:
+Auf unserem Server bieten wir zeitlich begrenzte <strong>Chatchannel</strong> zum Mieten an. Wie? Das erfährst du hier:
 
 ## Wie erhalte ich einen Channel?
 Einen Channel erhält man, in dem man sich auf dem Discord an ein Teammitglied wendet. Am besten eignet sich dafür `/support <Problembeschreibung>`, welches man dem Timolia Bot oder im Channel [#support](https://discordapp.com/channels/407554118887014402/413594798906408960) schreiben kann.
