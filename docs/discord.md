@@ -5,7 +5,7 @@ Hier findest du nun eine grobe Übersicht über den Discord, alle weiteren Infor
 # 1 - Verifizierung auf dem Discord
 - Wenn du den Community-Discord betrittst, bist du zunächst unverifiziert. Durch die Verifizierung mit deinem Minecraft-Account erhältst du eine besondere Rolle mit deinem Ingamerang und einige neue Rechte auf dem Discord. Außerdem bekommst du ingame den "Discord Crew"-Subtitle!
 - Sobald du den Discord-Server betreten hast, wird dich der "<strong>Timolia Bot</strong>" anschreiben. Sollte er dies nicht tun, stelle bitte sicher, dass private Nachrichten von Usern auf diesem Discord-Server erlaubt sind! Sei <strong>ingame online und schreibe dem Bot auf dem Discord</strong> `/verify <dein Ingamename>`. Klicke dann im <strong>Minecraft Chat</strong> auf die Nachricht, die du dort bekmmen hast.
-- Solltest du gebannt sein, kannst du auf *register.timolia.de* joinen und dort die Verifizierung durchführen
+- Solltest du gebannt sein, kannst du auf *register.timolia.de* joinen und dort die Verifizierung durchführen.
 
 # 2 - Discord Regelwerk
 Die Regeln des Discord-Servers kannst du dem Channel [#regeln](https://discordapp.com/channels/407554118887014402/407565978025852929) auf dem Discord entnehmen oder [hier](/rules/discord/) nachlesen.
@@ -69,4 +69,4 @@ Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführ
 | `/channel invite <@Name>` oder `/channel remove <@Name>` | Timolia Bot (Privatchat) und eigener Channel | Lädt einen User in einen privaten Chatchannel ein oder entfernt ihn |
 | `/bug <Beschreibung>` | Timolia Bot (Privatchat) und [#bug-melden](https://discordapp.com/channels/407554118887014402/413638656264503317) | Meldet einen Bug an das Timolia Team |
 | `/support <Beschreibung>` | Timolia Bot (Privatchat) und [#support](https://discordapp.com/channels/407554118887014402/413594798906408960) | Erstellt einen Supportchat für dich mit dem angegebenen Problem |
-| `/idea <Idee>` | in [#ideen](https://discordapp.com/channels/407554118887014402/413615776399097866) und [#discord-ideen](https://discordapp.com/channels/407554118887014402/569594169228656656) | Der Bot postet deine Idee und versieht sie mit einer positiven und einer negativen Reaction |
+| `/idea <Idee>` | Nur in [#ideen](https://discordapp.com/channels/407554118887014402/413615776399097866) und [#discord-ideen](https://discordapp.com/channels/407554118887014402/569594169228656656) | Der Bot postet deine Idee und versieht sie mit einer positiven und einer negativen Reaction |
