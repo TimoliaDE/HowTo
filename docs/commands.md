@@ -121,7 +121,26 @@ Solltest du dein Handy verlieren, kannst du dich weiterhin mit Backupcodes anmel
 | `/2fa buc`                      | Listet alle unbenutzten Backupcodes auf |
 | `/2fa logout`                   | Kickt dich vom Netzwerk und loggt dich aus der Zwei-Faktor-Authentifizierung aus |
 
+### Community-Discord
 
+Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführt werden können.
+
+| Befehl | Channel | Funktion |
+| ------ | -------------- | -------- |
+| `/help` | Timolia Bot (Privatchat) | Listet alle verfügbaren Commands auf |
+| `/help <command>` oder `/<command> help` | Timolia Bot (Privatchat) | Gibt Infos über den ausgewählten Command aus |
+| `/verify <Ingamename>` | Timolia Bot (Privatchat) | Verknüpft deinen Discord-Account mit deinem Minecraft-Account |
+| `/unverify` | Timolia Bot (Privatchat) | Hebt die Verknüpfung deines Discord-Accounts mit deinem Minecraft-Account auf |
+| `/stats [@Name]` | Timolia Bot (Privatchat) | Gibt einige Discord Stats von dir oder anderen aus |
+| `/stats all` | Timolia Bot (Privatchat) | Gibt die Serverstats aus |
+| `/lookup <@Name>` | Timolia Bot (Privatchat) | Gibt Informationen zu einem User aus |
+| `/quote <NachrichtID>/<Nachricht Link>` | Nur in Channeln | Zitiert die angegebene Nachricht |
+| `/top` | Timolia Bot (Privatchat) und [#ranks](https://discordapp.com/channels/407554118887014402/548160287891783690)| Zeigt die Top 10 der User an|
+| `/rank` | Timolia Bot (Privatchat) und [#ranks](https://discordapp.com/channels/407554118887014402/548160287891783690) | Zeigt Informationen zu deinem Rang an |
+| `/channel invite <@Name>` oder `/channel remove <@Name>` | Timolia Bot (Privatchat) und eigener Channel | Lädt einen User in einen privaten Chatchannel ein oder entfernt ihn |
+| `/bug <Beschreibung>` | Timolia Bot (Privatchat) und [#bug-melden](https://discordapp.com/channels/407554118887014402/413638656264503317) | Meldet einen Bug an das Timolia Team |
+| `/support <Beschreibung>` | Timolia Bot (Privatchat) und [#support](https://discordapp.com/channels/407554118887014402/413594798906408960) | Erstellt einen Supportchat für dich mit dem angegebenen Problem |
+| `/idea <Idee>` | Nur in [#ideen](https://discordapp.com/channels/407554118887014402/413615776399097866) und [#discord-ideen](https://discordapp.com/channels/407554118887014402/569594169228656656) | Der Bot postet deine Idee und versieht sie mit einer positiven und einer negativen Reaction |
 
 ## 2 - Befehle der einzelnen Modi
 

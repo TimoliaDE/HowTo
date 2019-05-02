@@ -162,6 +162,7 @@ Der Community-Discord von Timolia ist unter [https://timolia.de/discord](https:/
 |<span style="color:#2980b9">Lascona</span> | Nebenverantwortlich |
 |<span style="color:#CF0101">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Chrissi1505</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">ferdedelino</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">InfiniteNiki</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Sterax</span> | Nebenverantwortlich |
 

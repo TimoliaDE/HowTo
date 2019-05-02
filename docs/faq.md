@@ -8,6 +8,11 @@ Mit der TeamSpeak-Serveradresse `ts.timolia.de` gelangst du auf unseren TeamSpea
 Auf unserem Server bieten wir zeitlich begrenzte Channel zum Mieten an, die Kosten betragen monatlich 2.500 Pixel. Alle weiteren Informationen findest du 
 [in unserer TeamSpeak-Erklärung](/teamspeak/).
 
+### Gibt es auch einen Discord-Server?
+Über [https://timolia.de/discord](https://timolia.de/discord) kannst du auf unseren Discord-Server joinen. Hier kannst du dich mit anderen User austauschen, Support erhalten oder an Gewinnspielen teilnehmen.
+Auf unserem Server bieten wir zeitlich begrenzte Chatchannel zum Mieten an, die Kosten betragen monatlich 1.000 Pixel. Alle weiteren Informationen findest du 
+[in unserer Discord-Erklärung](/Discord/).
+
 ### Wo ist der Citybuild hin?
 Mit dem CityBuild begann alles. Am 07.05.2011 gründete Tim den CityBuild Timolias.  
 Leider musste City am 16.12.2018 aus verschiedenen Gründen schließen. Mehr Informationen dazu erhältst du [hier](http://timolia.de/city).
