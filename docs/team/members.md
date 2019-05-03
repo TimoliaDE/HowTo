@@ -28,6 +28,10 @@ Administratoren leiten das Netzwerk. Sie kümmern sich um teaminterne und techni
 - <u>Hauptverantwortlich:</u> Games, Timolia-Plugins
 - <u>Nebenverantwortlich:</u> Hardware
 
+### <strong>>Niklas</strong>
+- <u>Rang (ingame):</u> Administrator
+- <u>Hauptverantwortlich:</u> Interne Webanwendung, Webseite
+
 ### <strong>svdragster</strong>
 - <u>Rang (ingame):</u> Administrator
 - <u>Hauptverantwortlich:</u> Anti-Cheat, Timolia-Plugins
@@ -78,10 +82,6 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Rang (ingame):</u> Developer
 - <u>Hauptverantwortlich:</u> TeamSpeak
 - <u>Nebenverantwortlich:</u> Broadcasts
-
-### <strong><span style="color:#007812">Niklas</span></strong>
-- <u>Rang (ingame):</u> Developer
-- <u>Hauptverantwortlich:</u> Interne Webanwendung, Webseite
 
 ### <strong><span style="color:#007812">play4me_</span></strong>
 - <u>Rang (ingame):</u> Developer
