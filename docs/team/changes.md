@@ -2,11 +2,6 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 
 # 2019
 
-###  <strong>Mai</strong>
-| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
-| ------ | ------ | ------ | ------ |
-| Niklas | <span style="color:#2980b9">Administrator</span> | <span style="color:#007812">Developer</span> | 01.05.19 | 
-
 ###  <strong>April</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
