@@ -58,7 +58,7 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 
 ### <strong><span style="color:#CF0101">physanus</span></strong>
 - <u>Rang (ingame):</u> Moderator
-- <u>Nebenverantwortlich:</u> TeamSpeak, Timolia HowTo (Kontrolle), Timolia Turnier Organisation, Twitter
+- <u>Nebenverantwortlich:</u> TeamSpeak, Timolia HowTo, Timolia Turnier Organisation, Twitter
 
 ### <strong><span style="color:#CF0101">saporital</span></strong>
 - <u>Rang (ingame):</u> Moderator
