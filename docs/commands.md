@@ -37,6 +37,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/pweather <sun/rain/reset>`    | Wetter für sich selbst umstellen |
 | [<span style="color:#55FF55">VIP</span>](/ranks/youtube/) only: | |
 | `/nick`                         | Ermöglicht es dir, dich zu nicken |
+| `/unnick`                       | Ermöglicht es dir, dich zu entnicken |
 | [<span style="color:#4C0B5F">YouTuber</span>](/ranks/youtube/) only: | |
 | `/forcemap`                     | Erzwinge bei einem Spiel mit Voting-System eine bestimmte Map |
 | `/startgame [Sekunden]`         | Starte ein Spiel |
