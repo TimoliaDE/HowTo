@@ -1,11 +1,13 @@
 # Katzen
 Hier im HowTo gibt es zu wenige Katzen, darum hier ein paar süße Katzenbilder für alle Katzenliebhaber (❤)!
 
-![](catsimg/cat-kitten-cats-nap-napping-gif-4402779.gif)
+![](catsimg/fettsack.png)
 
-![](catsimg/kitty-highkitten-mdmacat-cat-happykitty-gif-6198981.gif)
+![](catsimg/IMG_2134.jpg)
 
-![](catsimg/cats-ear-bite-gif-10614631.gif)
+![](catsimg/IMG_2137.jpg)
+
+![](catsimg/IMG_2170.jpg)
 
 \
 \
