@@ -70,11 +70,11 @@ Gib als **Empfänger** bitte Timolia an. Damit wir deine Spende auch korrekt zuo
 * Dein gewünschter Rang
 * Zahlung x/y, falls du den Gesamtbetrag in mehrere Teilbeträge aufteilst
 
-Der Betrag kann entsprechend dem gewünschten Betrag der Paysafecard ausgewählt werden.\
+Der Betrag kann entsprechend dem gewünschten Betrag der Paysafecard ausgewählt werden.<br />
 Bitte beachte, dass du das `+` von Pro+ und MVP+ ausschreibst, da Nitrado das `+`-Zeichen nicht verarbeiten kann!
 
-**Beispiel**: Ein Upgrade von Pro auf MVP+ (45 Euro) mit 3 Paysafecards kannst du also so angeben:\
-Empfänger: Timolia\
+**Beispiel**: Ein Upgrade von Pro auf MVP+ (45 Euro) mit 3 Paysafecards kannst du also so angeben:<br />
+Empfänger: Timolia<br />
 Verwendungszweck: MCExpertDE, Upgrade von Pro auf MVP Plus, Zahlung 1/3
 
 Es ist zu beachten, dass Geld, das bereits auf das Nitrado-Konto eingezahlt wurde, nicht mehr für Timolia gespendet werden kann! 
