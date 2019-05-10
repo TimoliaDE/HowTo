@@ -104,6 +104,9 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ### <strong><span style="color:#007812">tr7zw</span></strong>
 - <u>Rang (ingame):</u> Developer
 
+### <strong><span style="color:#007812">Web44</span></strong>
+- <u>Rang (ingame):</u> Developer
+
 ### <strong><span style="color:#007812">YTKacperSKY</span></strong>
 - <u>Rang (ingame):</u> Developer
 
@@ -153,6 +156,9 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">InfiniteNiki</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Community-Discord
+
+### <strong><span style="color:#E4D100">J4mPr0</span></strong>
+- <u>Rang (ingame):</u> Supporter
 
 ### <strong><span style="color:#E4D100">Liisa</span></strong>
 - <u>Rang (ingame):</u> Supporterin
