@@ -16,7 +16,7 @@ Code, der Deine Fähigkeiten widerspiegelt. Auch solltest Du auf die Einhaltung 
 ### Supporter
 Sollten neue Teammitglieder im Supportbereich gesucht werden, überprüft das Team, welche Spieler besonders aktiv auf dem Netzwerk sind und positiv auffallen.
 Unter positiv auffallen verstehen wir unter anderem eine gute Reportstatistik, keine gravierenden Verstöße gegen unser Regelwerk und Aktivität auf anderen Plattformen,
-wie im Forum und TeamSpeak (und evtl. auf Twitter).
+wie im Forum, TeamSpeak und Discord (und evtl. auf Twitter).
 
 Zusätzlich dazu gibt es die Möglichkeit, eine Initiativbewerbung, welche deinen Ingamenamen, eine Vorstellung von dir sowie Beschreibungen deiner bisherigen Erfahrungen beinhalten sollte,
 per Mail an <a href="mailto:supporter@timolia.de">supporter@timolia.de</a> an uns zu senden. Wir bemühen uns, den Bewerbungsablauf so schnell wie möglich durchzuführen.
