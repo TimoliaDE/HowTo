@@ -58,10 +58,27 @@ daher ca. 1-24 Stunden nachdem du die Spende getätigt hast auf dem Server verf�
 
 Klicke [<strong>hier</strong>, um über BuyCraft zu spenden](https://shop.timolia.de/).
 
+#### Nitrado
 **Wichtig für Spenden über Nitrado**: Spenden per Nitrado müssen manuell bearbeitet werden und können deshalb bis zu 24 Stunden dauern.
-Hierbei ist zu beachten, dass Geld, das bereits auf das Nitrado-Konto eingezahlt wurde, nicht mehr für Timolia gespendet werden kann! 
-In der Betreffzeile der Spende müssen der aktuelle Name deines Accounts und dein gewünschter Rang stehen, bei mehreren Spenden (z.B. bei Expert) 
-müssen diese ebenso nummeriert sein.
+
+Damit du über Nitrado spenden kannst, benötigst du ein eigenes Nitrao-Konto. Dieses kannst du dir [**hier** auf der offiziellen Nitrado-Website einrichten](https://nitra.do/timolia-minecraft). Sobald du eingeloggt bist, kannst du im oberen Menü "Spenden" auswählen.
+
+Gib als **Empfänger** bitte Timolia an. Damit wir deine Spende auch korrekt zuordnen und verarbeiten können, teile uns im **Verwendungszweck** bitte noch folgende Daten mit:
+
+* Dein aktueller Ingame-Name
+* Dein aktueller Rang
+* Dein gewünschter Rang
+* Zahlung x/y, falls du den Gesamtbetrag in mehrere Teilbeträge aufteilst
+
+Der Betrag kann entsprechend dem gewünschten Betrag der Paysafecard ausgewählt werden.\
+Bitte beachte, dass du das `+` von Pro+ und MVP+ ausschreibst, da Nitrado das `+`-Zeichen nicht verarbeiten kann!
+
+**Beispiel**: Ein Upgrade von Pro auf MVP+ (45 Euro) mit 3 Paysafecards kannst du also so angeben:\
+Empfänger: Timolia\
+Verwendungszweck: MCExpertDE, Upgrade von Pro auf MVP Plus, Zahlung 1/3
+
+Es ist zu beachten, dass Geld, das bereits auf das Nitrado-Konto eingezahlt wurde, nicht mehr für Timolia gespendet werden kann! 
+
 
 ### Mein Rang ist nicht da, was kann ich tun?
 Bezahlungen können eine Weile dauern - besonders, wenn der Kauf über Nitrado abgewickelt wurde. Sollte dein Rang 24 Stunden nach der Bestellung immer noch
