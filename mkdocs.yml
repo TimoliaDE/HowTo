@@ -41,6 +41,7 @@ pages:
   - Veränderungen: 'team/changes.md'
   - Aufgabenbereiche: 'team/responsibilities.md'
   - Wie werde ich...?: 'team/apply.md'
+- "": 'cats.md'
 
 
 theme: readthedocs
