@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Mai</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| TetzelHD | <span style="color:#55FF55">Native MVP</span> | <span style="color:#E4D100">Supporter</span> | 13.05.19 |
 | J4mPr0 | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporter</span> | 10.05.19 |
 | Web44 | <span style="color:#848484">Spieler</span> | <span style="color:#007812">Developer</span> | 08.05.19 |
 
