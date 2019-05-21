@@ -123,7 +123,8 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">BowspamExpertDE</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Map-Einsendungen, Spieler melden Forum, YouTuber-Ränge, Zu Unrecht gebannt Forum
+- <u>Hauptverantwortlich:</u> Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Map-Einsendungen, Spieler melden Forum, YouTuber-Ränge
 
 ### <strong><span style="color:#E4D100">Chrissi1505</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -165,7 +166,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">OnlyFiinn</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Entschuldigungen, Fragen und Antworten Forum, Spieler melden Forum, Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Entschuldigungen, Fragen und Antworten Forum, Spieler melden Forum
 
 ### <strong><span style="color:#E4D100">Pexa</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -180,14 +181,14 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Sterax</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Community-Discord, Entschuldigungen, YouTuber-Ränge, Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Community-Discord, Entschuldigungen, YouTuber-Ränge
 
 ### <strong><span style="color:#E4D100">TetzelHD</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
 ### <strong><span style="color:#E4D100">xTessia</span></strong>
 - <u>Rang (ingame):</u> Supporterin
-- <u>Nebenverantwortlich:</u> Entschuldigungen, TeamSpeak, Twitter, YouTuber-Ränge, Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Entschuldigungen, TeamSpeak, Twitter, YouTuber-Ränge
 
 ### <strong><span style="color:#E4D100">zSiq</span></strong>
 - <u>Rang (ingame):</u> Supporter
