@@ -89,7 +89,6 @@ Suche am besten mit der Suchfunktion deines Browsers (**Strg+F**) auf dieser Sei
 - SoundFiltersMod
 - StatusEffectHUD
 - SuperSecretSettingsFix
-- TcpNoDelayMod-2.0
 - Timechanger (nur ohne Misplace!)
 - ToggleChatMod
 - ToggleSneak
