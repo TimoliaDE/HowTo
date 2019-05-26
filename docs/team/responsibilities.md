@@ -40,11 +40,12 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 ### **Map-Einsendungen**
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#CF0101">saporital</span> | Hauptverantwortlich |
+|<span style="color:#E4D100">BowspamExpertDE</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#2980b9">svdragster</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">InfiniteNiki</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">J4mpr0</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">RodspamExpertRU</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">BowspamExpertDE</span> | Nebenverantwortlich |
 |<span style="color:#00646F">12Build</span> | Nebenverantwortlich |
 |<span style="color:#00646F">B3artastic</span> | Nebenverantwortlich |
 
