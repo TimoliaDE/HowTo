@@ -60,10 +60,6 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 - <u>Rang (ingame):</u> Moderator
 - <u>Nebenverantwortlich:</u> TeamSpeak, Timolia HowTo, Timolia Turnier Organisation, Twitter
 
-### <strong><span style="color:#CF0101">saporital</span></strong>
-- <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Management des Bauteams, Map-Einsendungen, Supporterauswahl, Bauteam-Twitter
-
 ## Developer
 
 Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi und helfen bei Problemen und Bugs.
@@ -163,10 +159,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">Liisa</span></strong>
 - <u>Rang (ingame):</u> Supporterin
-
-### <strong><span style="color:#E4D100">OnlyFiinn</span></strong>
-- <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Entschuldigungen, Fragen und Antworten Forum, Spieler melden Forum
 
 ### <strong><span style="color:#E4D100">Pexa</span></strong>
 - <u>Rang (ingame):</u> Supporter
