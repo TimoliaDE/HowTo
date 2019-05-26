@@ -48,7 +48,7 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 
 ### <strong><span style="color:#CF0101">medicoo</span></strong>
 - <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Timolia Turnier Organisation, YouTuber-Ränge
+- <u>Hauptverantwortlich:</u> Management des Bauteams, Timolia Turnier Organisation, YouTuber-Ränge
 - <u>Nebenverantwortlich:</u> TeamSpeak
 
 ### <strong><span style="color:#CF0101">NameIsTaken</span></strong>
@@ -193,6 +193,7 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 ### <strong><span style="color:#00646F">\_CrystalSky\_</span></strong>
 - <u>Rang (ingame):</u> Builder
+- <u>Hauptverantwortlich:</u> Management des Bauteams
 
 ### <strong><span style="color:#00646F">12Build</span></strong>
 - <u>Rang (ingame):</u> Builder
