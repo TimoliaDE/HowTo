@@ -48,7 +48,7 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 
 ### <strong><span style="color:#CF0101">medicoo</span></strong>
 - <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Timolia Turnier Organisation, YouTuber-Ränge
+- <u>Hauptverantwortlich:</u> Bauteam-Twitter, Management des Bauteams, Timolia Turnier Organisation, YouTuber-Ränge
 - <u>Nebenverantwortlich:</u> TeamSpeak
 
 ### <strong><span style="color:#CF0101">NameIsTaken</span></strong>
@@ -58,11 +58,7 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 
 ### <strong><span style="color:#CF0101">physanus</span></strong>
 - <u>Rang (ingame):</u> Moderator
-- <u>Nebenverantwortlich:</u> TeamSpeak, Timolia HowTo, Timolia Turnier Organisation, Twitter
-
-### <strong><span style="color:#CF0101">saporital</span></strong>
-- <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Management des Bauteams, Map-Einsendungen, Supporterauswahl, Bauteam-Twitter
+- <u>Nebenverantwortlich:</u> Bauteam-Twitter, TeamSpeak, Timolia HowTo, Timolia Turnier Organisation, Twitter
 
 ## Developer
 
@@ -123,8 +119,8 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">BowspamExpertDE</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Hauptverantwortlich:</u> Zu Unrecht gebannt Forum
-- <u>Nebenverantwortlich:</u> Map-Einsendungen, Spieler melden Forum, YouTuber-Ränge
+- <u>Hauptverantwortlich:</u> Map-Einsendungen, Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Spieler melden Forum, YouTuber-Ränge
 
 ### <strong><span style="color:#E4D100">Chrissi1505</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -156,17 +152,14 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">InfiniteNiki</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Community-Discord
+- <u>Nebenverantwortlich:</u> Community-Discord, Map-Einsendungen
 
 ### <strong><span style="color:#E4D100">J4mPr0</span></strong>
 - <u>Rang (ingame):</u> Supporter
+- <u>Nebenverantwortlich:</u> Map-Einsendungen
 
 ### <strong><span style="color:#E4D100">Liisa</span></strong>
 - <u>Rang (ingame):</u> Supporterin
-
-### <strong><span style="color:#E4D100">OnlyFiinn</span></strong>
-- <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Entschuldigungen, Fragen und Antworten Forum, Spieler melden Forum
 
 ### <strong><span style="color:#E4D100">Pexa</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -201,6 +194,7 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 ### <strong><span style="color:#00646F">\_CrystalSky\_</span></strong>
 - <u>Rang (ingame):</u> Builder
+- <u>Hauptverantwortlich:</u> Management des Bauteams
 
 ### <strong><span style="color:#00646F">12Build</span></strong>
 - <u>Rang (ingame):</u> Builder

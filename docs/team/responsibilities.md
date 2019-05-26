@@ -28,7 +28,6 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | | |
 |<span style="color:#2980b9">svdragster</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">CoveredSymmetry</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">OnlyFiinn</span> | Nebenverantwortlich |
 
 ### **Feedback**
 | Teamler | Verantwortungsgrad |
@@ -41,11 +40,12 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 ### **Map-Einsendungen**
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span style="color:#CF0101">saporital</span> | Hauptverantwortlich |
+|<span style="color:#E4D100">BowspamExpertDE</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#2980b9">svdragster</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">InfiniteNiki</span> | Nebenverantwortlich |
+|<span style="color:#E4D100">J4mpr0</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">RodspamExpertRU</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">BowspamExpertDE</span> | Nebenverantwortlich |
 |<span style="color:#00646F">12Build</span> | Nebenverantwortlich |
 |<span style="color:#00646F">B3artastic</span> | Nebenverantwortlich |
 
@@ -56,7 +56,6 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | | |
 |<span style="color:#CF0101">Julian_999999999</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">BowspamExpertDE</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">OnlyFiinn</span> | Nebenverantwortlich |
 
 ### **Bug melden**
 | Teamler | Verantwortungsgrad |
@@ -71,7 +70,6 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span style="color:#CF0101">Julian_999999999</span> | Hauptverantwortlich |
 | | |
 |<span style="color:#E4D100">einMole</span> | Nebenverantwortlich |
-|<span style="color:#E4D100">OnlyFiinn</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">RodspamExpertRU</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">SpaceJumper</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Sterax</span> | Nebenverantwortlich |
@@ -83,7 +81,6 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | ------ | ------ |
 |<span style="color:#CF0101">Julian_999999999</span> | Hauptverantwortlich |
 |<span style="color:#E4D100">BowspamExpertDE</span> | Hauptverantwortlich |
-
 
 # Sonstige Aufgaben
 
@@ -112,7 +109,6 @@ Wenn es wieder daran geht, neue Supporter in unsere Reihen zu holen, kümmern si
 |<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">Julian_999999999</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">NameIsTaken</span> | Hauptverantwortlich |
-|<span style="color:#CF0101">saporital</span> | Hauptverantwortlich |
 
 ### **Timolia HowTo**
 Diese Teamler kümmern sich um's Aktualisieren und Erstellen des HowTos Timolias.
@@ -134,7 +130,8 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 |<span style="color:#007812">tr7zw</span> | Twitter NV |
 |<span style="color:#E4D100">Chrissi1505</span> | Twitter NV |
 |<span style="color:#E4D100">xTessia</span> | Twitter NV |
-|<span style="color:#CF0101">saporital</span> | Bauteam-Twitter HV |
+|<span style="color:#CF0101">medicoo</span> | Bauteam-Twitter HV |
+|<span style="color:#CF0101">physanus</span> | Bauteam-Twitter NV |
 |<span style="color:#00646F">Tollmolia</span> | Bauteam-Twitter NV |
 
 ### **TeamSpeak**
@@ -188,8 +185,9 @@ Im Timolia Team gibt es kleinere Teams, welche unter anderem durch diese Verantw
 
 | Teamler | Zuständigkeit |
 | ------ | ------ |
-|<span style="color:#2980b9">Lascona</span> | Management des Creator-Teams und des YouTube-Teams |
-|<span style="color:#CF0101">saporital</span> | Management des Bau-Teams |
+|<span style="color:#2980b9">Lascona</span>          | Management des Creator-Teams und des YouTube-Teams |
+|<span style="color:#CF0101">medicoo</span>          | Management des Bau-Teams |
+|<span style="color:#00646F">\_CrystalSky\_</span>   | Management des Bau-Teams |
 
 ### **YouTuber-Ränge**
 Wenn sich ein YouTuber für einen Rang auf Timolia interessiert, werden die Anfragen von diesem Team bearbeitet.
