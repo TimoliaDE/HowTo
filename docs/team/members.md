@@ -48,7 +48,7 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 
 ### <strong><span style="color:#CF0101">medicoo</span></strong>
 - <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Management des Bauteams, Timolia Turnier Organisation, YouTuber-Ränge
+- <u>Hauptverantwortlich:</u> Bauteam-Twitter, Management des Bauteams, Timolia Turnier Organisation, YouTuber-Ränge
 - <u>Nebenverantwortlich:</u> TeamSpeak
 
 ### <strong><span style="color:#CF0101">NameIsTaken</span></strong>
@@ -58,7 +58,7 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 
 ### <strong><span style="color:#CF0101">physanus</span></strong>
 - <u>Rang (ingame):</u> Moderator
-- <u>Nebenverantwortlich:</u> TeamSpeak, Timolia HowTo, Timolia Turnier Organisation, Twitter
+- <u>Nebenverantwortlich:</u> Bauteam-Twitter, TeamSpeak, Timolia HowTo, Timolia Turnier Organisation, Twitter
 
 ## Developer
 
