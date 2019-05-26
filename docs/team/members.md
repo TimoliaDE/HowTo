@@ -119,8 +119,8 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">BowspamExpertDE</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Hauptverantwortlich:</u> Zu Unrecht gebannt Forum
-- <u>Nebenverantwortlich:</u> Map-Einsendungen, Spieler melden Forum, YouTuber-Ränge
+- <u>Hauptverantwortlich:</u> Map-Einsendungen, Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Spieler melden Forum, YouTuber-Ränge
 
 ### <strong><span style="color:#E4D100">Chrissi1505</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -152,10 +152,11 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span style="color:#E4D100">InfiniteNiki</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Community-Discord
+- <u>Nebenverantwortlich:</u> Community-Discord, Map-Einsendungen
 
 ### <strong><span style="color:#E4D100">J4mPr0</span></strong>
 - <u>Rang (ingame):</u> Supporter
+- <u>Nebenverantwortlich:</u> Map-Einsendungen
 
 ### <strong><span style="color:#E4D100">Liisa</span></strong>
 - <u>Rang (ingame):</u> Supporterin
