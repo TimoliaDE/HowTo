@@ -2,6 +2,11 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 
 # 2019
 
+###  <strong>Juni</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+| Tollmolia | <span style="color:#00646F">Builder</span> | <span style="color:#55FF55">Native MVP</span> | 07.06.19 |
+
 ###  <strong>Mai</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
