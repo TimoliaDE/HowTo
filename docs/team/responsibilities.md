@@ -197,7 +197,6 @@ Wenn sich ein YouTuber für einen Rang auf Timolia interessiert, werden die Anfr
 |<span style="color:#2980b9">Lascona</span> | Hauptverantwortlich |
 |<span style="color:#CF0101">medicoo</span> | Hauptverantwortlich |
 | | |
-|<span style="color:#007812">TheFeldi</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">BowspamExpertDE</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">Sterax</span> | Nebenverantwortlich |
 |<span style="color:#E4D100">xTessia</span> | Nebenverantwortlich |

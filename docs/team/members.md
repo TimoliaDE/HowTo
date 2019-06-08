@@ -90,10 +90,6 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ### <strong><span style="color:#007812">TheBrownShape</span></strong>
 - <u>Rang (ingame):</u> Developer
 
-### <strong><span style="color:#007812">TheFeldi</span></strong>
-- <u>Rang (ingame):</u> Developer
-- <u>Nebenverantwortlich:</u> YouTuber-Ränge
-
 ### <strong><span style="color:#007812">TimderBusfahrer</span></strong>
 - <u>Rang (ingame):</u> Developer
 
