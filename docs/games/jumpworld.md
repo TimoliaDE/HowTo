@@ -11,7 +11,7 @@ In JumpWorld können verschiedenste Jump and Runs gespielt, aber auch selbst erb
 - Das Ziel jedes Parcours ist eine goldene Druckplatte, eiserne Druckplatten sind Checkpoints
 - Wenn du ein Jump and Run betrittst befinden sich mehrere Items in deinem Inventar. Mit dem roten Farbstoff wirst du zum letzten Checkpoint zurück teleportiert.
 - Mit dem zweiten Item in deinem Inventar kannst du die Sichtbarkeit der Spieler einstellen
-- Am Ende eines Jump and Runs kannst du den Parcour in insgesamt drei Kategorien bewerten
+- Am Ende eines Jump and Runs kannst du den Parcours in insgesamt drei Kategorien bewerten
 - Solltest du ein Jump and Run begutachten wollen, kannst du mit `/spec` den Flugmodus aktivieren
 
 ## Das Jump and Run des Tages
@@ -29,7 +29,7 @@ Um das Jump and Run des Tages von Tag X zu werden:
 - Mit `/b` kannst du dir Specialblöcke geben lassen, Portale und Effektdruckplatten kannst du mit einem Rechtsklick bearbeiten.
 - Mit `/setstart` kannst du den Startpunkt deines Parcours festlegen, mit `/setblock` kannst du unter dir einen Block setzen.
 - Um dein Jump and Run veröffentlichen zu können musst du dieses vorher ein Mal selbst geschafft haben. Wähle dazu im jeweiligen Bauslot "JnR durchlaufen" aus.
-- Im Baumenü kannst du deinem Parcour einen Namen geben.
+- Im Baumenü kannst du deinem Parcours einen Namen geben.
 
 ## Premium-Features
 - Premium-Spieler erhalten bis zu drei mal mehr Pixel.
