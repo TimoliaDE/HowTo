@@ -6,6 +6,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 | Tollmolia | <span style="color:#00646F">Builder</span> | <span style="color:#55FF55">Native MVP</span> | 07.06.19 |
+| Tim9875432 | <span style="color:#00F9EC">Native Expert</span> | <span style="color:#E4D100">Supporter</span> | 01.06.19 |
 
 ###  <strong>Mai</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
