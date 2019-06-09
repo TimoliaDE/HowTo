@@ -175,6 +175,9 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 ### <strong><span style="color:#E4D100">TetzelHD</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
+### <strong><span style="color:#E4D100">Tim9875432</span></strong>
+- <u>Rang (ingame):</u> Supporter
+
 ### <strong><span style="color:#E4D100">xTessia</span></strong>
 - <u>Rang (ingame):</u> Supporterin
 - <u>Nebenverantwortlich:</u> Entschuldigungen, TeamSpeak, Twitter, YouTuber-Ränge
