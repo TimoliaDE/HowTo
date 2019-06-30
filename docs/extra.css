@@ -6,7 +6,7 @@
     color: #75b5d2 !important;
 }
 
-.md-nav__link:active {
+[data-md-color-primary="blue-grey"] .md-nav__link--active, [data-md-color-primary="blue-grey"] .md-nav__link:active {
     color: #75b5d2 !important;
 }
 
