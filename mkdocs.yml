@@ -49,7 +49,7 @@ theme:
   language: 'de'
   logo: 'img/logo.png'
   palette:
-    primary: 'indigo'
-    accent: 'indigo'
+    primary: 'blue'
+    accent: 'blue'
 
 extra_css: [extra.css]
