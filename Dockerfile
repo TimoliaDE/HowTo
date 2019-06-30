@@ -12,7 +12,6 @@ RUN apk add --update \
 
 RUN easy_install-2.7 pip 
 RUN pip install mkdocs
-RUN rm -rf /tmp/* /var/tmp/* /var/cache/apk/* /var/cache/distfiles/*
 
 COPY ./ /code/
 RUN cd /code && mkdocs build
