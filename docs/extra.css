@@ -158,6 +158,10 @@ tbody {
     font-size: .68rem;
 }
 
+.md-typeset table:not([class]) tr:hover {
+    box-shadow: inset 0 .0rem 0 #fff;
+}
+
 /*
 ////////////////////
 // Navigation bar //
