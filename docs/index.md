@@ -1,6 +1,6 @@
 ![Das HowTo](HowToTimolia.png)
 
-Dies ist die vollständige Dokumentation von und über Timolia. Alle wissenswerten Informationen werden hier gesammelt und sind jederzeit griffbereit und für dich mit nur ein paar Klicks abrufbar.  
-Du findest hier neben unserem Regelwerk und einer Erklärung der Spielmodi auch Informationen zu unseren Befehlen, den Rängen und dem Team.
+Das HowTo ist eine offizielle Sammlung von Informationen über Timolia und eine gute erste Anlaufstelle zu den meisten Fragen.
 
-Alles, was du wissen musst, und noch viele weitere interessante Informationen warten schon auf dich. Schau dich doch mal um!
+Wissenswertes über alle möglichen Bereiche ist hier jederzeit griffbereit. 
+Sollte deine Frage hier einmal nicht beantwortet werden oder etwas unvollständig wirken, melde dich jederzeit bei uns im [Support](/faq/#wer-supportet-mich-wenn-ich-fragen-habe)!

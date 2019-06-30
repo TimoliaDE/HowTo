@@ -9,7 +9,7 @@ Auf unserem Server bieten wir zeitlich begrenzte Channel zum Mieten an, die Kost
 [in unserer TeamSpeak-Erklärung](/teamspeak/).
 
 ### Gibt es auch einen Discord-Server?
-Über [https://timolia.de/discord](https://timolia.de/discord) kannst du auf unseren Discord-Server joinen. Hier kannst du dich mit anderen User austauschen, Support erhalten oder an Gewinnspielen teilnehmen.
+Über [https://timolia.de/discord](https://timolia.de/discord) kannst du auf unseren Discord-Server joinen. Hier kannst du dich mit anderen Usern austauschen, Support erhalten oder an Gewinnspielen teilnehmen.
 Auf unserem Server bieten wir zeitlich begrenzte Chatchannel zum Mieten an, die Kosten betragen monatlich 1.000 Pixel. Alle weiteren Informationen findest du 
 [in unserer Discord-Erklärung](/discord/).
 
@@ -49,8 +49,8 @@ Spieler mit einem unserer permanenten Premium-Ränge erhalten gewisse Vorteile. 
 **Alles rund um Bewerbungen [ist hier zu finden](/team/apply/).** Solltest du Probleme mit deinem  Premium-Rang haben, findest du [hier Hilfe](/ranks/premium/).
 
 ### Wer supportet mich, wenn ich fragen habe?
-Wenn du ingame oder im [Teamspeak](/teamspeak/) Fragen hast, steht dir unser großes [Supportteam](/team/members/#supporter) stets zur Verfügung. Wir freuen uns immer, wenn jemand auf uns zu kommt und können dir hoffentlich bei Problemen oder Anmerkungen weiterhelfen.
-Auf der Social Media Plattform [Twitter](https://twitter.com/TimoliaTeam) supportet rund um die Uhr das [Social Media Team](/team/responsibilities/#social-media). Du kannst zusätzlich Ingame Probleme, Bugs und Anmerkungen über das Ticketsystem melden. Dazu kannst du den Befehl `/ticket <Anliegen>` eingeben.
+Wenn du ingame oder im [Teamspeak](/teamspeak/) Fragen hast, steht dir unser großes [Supportteam](/team/members/#supporter) stets zur Verfügung. Wir freuen uns immer, wenn jemand auf uns zukommt und können dir hoffentlich bei Problemen oder Anmerkungen weiterhelfen.
+Auf der Social Media Plattform [Twitter](https://twitter.com/TimoliaTeam) supportet rund um die Uhr das [Social Media Team](/team/responsibilities/#social-media). Du kannst zusätzlich ingame Probleme, Bugs und Anmerkungen über das Ticketsystem melden. Dazu kannst du den Befehl `/ticket <Anliegen>` eingeben.
 
 ### Wie funktioniert das Kick-System?
 Wir besitzen ein recht komplexes und einzigartiges Kicksystem, um sowohl Premium- als auch normalen Spielern ein tolles Spielerlebnis ohne ewige Wartezeiten zu ermöglichen. 
@@ -72,8 +72,8 @@ niedrigere Kick-Value haben. Sobald ein Spiel startet, wird jedem Spieler wieder
 
 ### Wo kann ich mich entschuldigen?
 Wenn du gebannt wurdest, kannst du mit einem Entbannungsantrag eine Bannverkürzung von maximal 1/3 deiner Bannzeit bekommen, sofern deine Entschuldigung sehr gut geschrieben ist. 
-Diese kannst du in unserem Forum oder im Hilfechannel posten, alternativ kannst du auch eine E-Mail an gebannt@timolia.de schreiben. Achtung! Solltest du zwei Mal wegen Hacking gebannt worden 
-sein oder hast du eine Bannzeit von insgesamt über 46 Tagen, musst du erst warten, bis deine Banntage auf <=46 Tage verjährt sind.
+Diese kannst du in unserem [Forum](https://forum.timolia.de/forums/entschuldigungen.49) oder im Hilfechannel posten, alternativ kannst du auch eine E-Mail an gebannt@timolia.de schreiben. Achtung! Solltest du zwei Mal wegen Hacking gebannt worden 
+sein oder eine Bannzeit von insgesamt über 46 Tagen haben, musst du erst warten, bis deine Banntage auf <=46 Tage verjährt sind.
 Über den Minecraft-Server `register.timolia.de` kannst du dich für unser Forum registrieren, sofern du dies nicht schon getan hast. 
 Mehr über Entbannungsanträge und Entschuldigungen [kannst du hier lesen](/bans/).
 
@@ -94,7 +94,7 @@ Achievements kann man während des Spielens auf Timolia abschließen. Eine Über
 
 ### Wo sind Teams erlaubt?
 In 4rena und InTime sind Teams ausdrücklich verboten, in BrainBow wird Teaming lediglich zwischen zwei Teams toleriert.
-Wer in den Timolianischen Spielen teamt, hat keine Konsequenzen zu befürchten.
+Wer in den Timolianischen Spielen teamt, hat keine Konsequenzen zu befürchten. Weitere Informationen findest du im offiziellen [Regelwerk](/rules/games/).
 
 ### Wie funktioniert ... ?
 In jeder Lobby der Modi findest du in deinem Inventar eine genaue Erklärung, die das jeweilige Spielgeschehen erläutert. Natürlich kannst du alles auch hier in unserem HowTo nachlesen.

@@ -19,16 +19,16 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/tutorial`                     | Starte ein Tutorial (nicht in allen Modi verfügbar) |
 | `/register <E-Mail>`            | Registriert dich für die Webseite |
 | `/lang <Sprache>`               | Ändere deine Sprache |
-| `/bannotify`                    | Deaktiviere Nofitikationen zu deinen Banntagen |
+| `/bannotify`                    | Deaktiviere Benachrichtigungen zu deinen Banntagen |
 | `/champ`, `/championship`       | Zeigt Infos zu Timolia Champ |
 | `/present <Spieler> <Betrag> [Nachricht]`, `/gift`, `/donate` | Ermöglicht es dir, in der Weihnachtszeit Pixel zu verschenken |
 | `/help`                         | Zeigt dir die wichtigsten Infos zu Timolia |
 | `/mail`                         | Öffnet das Menü deiner Mails |
-| `/servername`                   | Zeigt dir wie auf Tab den aktuellen Server an |
+| `/servername`                   | Zeigt dir den Server an, auf dem du dich aktuell befindest (alternativ: TAB) |
 | `/ticket <Anliegen>`            | Erstellt ein Ticket |
-| `/tickets`                      | Öffnet eine Übersicht über deine Tickets |
+| `/tickets`                      | Öffnet eine Übersicht deiner Tickets |
 | `/teamspeak`, `/ts`             | Zeigt die TS-IP, ermöglicht die Verifizierung und lässt dich deine Identität verwalten |
-| `/jointeam <Team-Farbe>`, `/team`| Betrete ein Team in Castles, Brainbow und Mineception |
+| `/jointeam <Team-Farbe>`, `/team`| Betritt ein Team in Castles, Brainbow und Mineception |
 | `/rank`                         | Zeigt deinen aktuellen Ingame-Rang und wie lange er läuft |
 | `/quickjoin <Spielmodus>`       | Betritt einen Spielmodus per Befehl |
 **[Premium](/ranks/premium/) only**:
@@ -44,7 +44,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/abortstart`                   | Brich den Start eines Spiels ab |
 | `/nick`                         | Ermöglicht es dir, dich zu nicken |
 | `/unnick`                       | Ermöglicht es dir, dich zu entnicken |
-| `/vanish`, `/v`                 | Ermöglicht es dir, dich in 1vs1, Jumpworld und in den Lobbys unsichtbar zu machen |
+| `/vanish`, `/v`                 | Ermöglicht es dir, dich in 1vs1, Jumpworld und in den Lobbies unsichtbar zu machen |
 
 ### Reportsystem
 
@@ -90,7 +90,7 @@ Anstatt `/friend` kann jeweils `/f` genutzt werden.
 | `/friend list, /friends`        | Zeigt eine Liste deiner Freunde an |
 | `/friends online`               | Zeigt deine Freunde an, die gerade online sind |
 | `/friend requests`, `/friend req` | Listet unbeantwortete Freundschaftsanfragen auf |
-| `/friend toggle`                | Zeigt dir die übersicht anpassbarer Einstellungen an |
+| `/friend toggle`                | Zeigt dir eine Übersicht anpassbarer Einstellungen an |
 | `/friend teleport <Spieler>`, `/friend tp` | Teleportiert dich zu einem Freund |
 | `/friend broadcast <Nachricht>` | Schickt einen Broadcast an alle Freunde, die derzeit online sind |
 
@@ -161,7 +161,7 @@ Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführ
 | `/leave`, `/l`                  | Zieht eine Herausforderung zurück |
 | `/endmatch`                     | Der Kampf wird nach einer Minute mit Entscheidung durch die Mitte beendet |
 | `/surrender`                    | Man tötet sich selbst und beendet den Kampf vorzeitig |
-| `/spectate <Spieler>`, `/spec`  | Lässt dich den Kampf eines Spieler beobachten |
+| `/spectate <Spieler>`, `/spec`  | Lässt dich den Kampf eines Spielers beobachten |
 | `/stats`                        | Zeigt dir deine Stats an |
 | `/stats <Name>`                 | Zeigt dir die Stats eines Spielers an |
 | `/statsmenu [Name]`             | Öffnet das Statsmenü |
@@ -169,7 +169,7 @@ Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführ
 | `/winstreak`, `/streak`         | Zeigt deine aktuelle Winstreak |
 | `/join <Name>`                  | Tritt einem Turnier bei |
 | `/join <Name> <Passwort>`       | Tritt einem passwortgeschützten Turnier bei |
-| `/t`                            | Zeigt die Turnier Informationen |
+| `/t`                            | Zeigt die Turnierinformationen |
 | `/xp <Level>`                   | Setzt ein XP-Level für dein Kit |
 | `/matchinfo`                    | Zeigt Informationen über den aktuellen Kampf |
 | `/queue`, `/q`                  | Fügt dich zur Warteschlange hinzu |
@@ -192,7 +192,7 @@ Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführ
 | ------ | -------- |
 | `/rot`                          | Zeigt die Spielrotation |
 | `/last`                         | Zeigt die zuletzt gespielten Spiele |
-| `/join <Spieler>`               | Betrete ein öffentliches Turnier |
+| `/join <Spieler>`               | Betritt ein öffentliches Turnier |
 | `/leave`                        | Verlasse ein Turnier |
 **[Premium](/ranks/premium/) only**:
 | `/create`                       | Erstellt ein Turnier |
@@ -202,7 +202,7 @@ Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführ
 
 | Befehl | Funktion |
 | ------ | -------- |
-| `/enter <ID>`, `/e <ID>`        | Betrete ein bestimmtes Jump 'n' Run |
+| `/enter <ID>`, `/e <ID>`        | Betritt ein bestimmtes Jump 'n' Run |
 | `/leave`, `/l`                  | Verlässt das aktuelle Jump 'n' Run |
 | `/setstart`                     | Setzt den Startpunkt deines Jump 'n' Runs |
 | `/checkpoint`, `/fall`, `/kill` | Teleportiert dich zurück zum letzten Checkpoint |
@@ -224,7 +224,7 @@ Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführ
 | Befehl | Funktion |
 | ------ | -------- |
 | `/kill`                         | Tötet dich selbst |
-| `/jointeam <Team-Farbe>`, `/team` | Betrete ein Team |
+| `/jointeam <Team-Farbe>`, `/team` | Betritt ein Team |
 
 ### Bauwelt
 | Befehl | Funktion |

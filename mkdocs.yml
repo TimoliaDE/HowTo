@@ -44,5 +44,12 @@ pages:
 
 
 
-theme: readthedocs
+theme:
+  name: 'material'
+  language: 'de'
+  logo: 'img/logo.png'
+  palette:
+    primary: 'blue grey'
+    accent: 'blue grey'
+
 extra_css: [extra.css]
