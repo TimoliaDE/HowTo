@@ -7,6 +7,7 @@ RUN apk add --update \
     python2 \
     python2-dev \
     py-setuptools \
+    openrc \
     nginx
 
 RUN easy_install-2.7 pip 
@@ -26,4 +27,4 @@ COPY ./nginx.conf /etc/nginx/nginx.conf
 
 WORKDIR /code
 EXPOSE 8000
-
+CMD rc-service nginx start
