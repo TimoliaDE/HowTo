@@ -18,7 +18,7 @@ Mit dem CityBuild begann alles. Am 07.05.2011 gründete Tim den CityBuild Timoli
 Leider musste City am 16.12.2018 aus verschiedenen Gründen schließen. Mehr Informationen dazu erhältst du [hier](http://timolia.de/city).
 
 ### Welche Ränge gibt es?
-- <b><span style="color:#0101DF">Administratoren</span></b>:
+- <b><span style="color:#2980b9">Administratoren</span></b>:
 Sie kümmern sich um die Technik von Timolia. Angefangen bei den Plugins, über CraftBukkit bis hin zu den Root-Servern und dem Bungeecord-Netzwerk.
 Des Weiteren sind sie für die Website und den TeamSpeak-Server zuständig.
 
