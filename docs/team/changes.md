@@ -5,7 +5,11 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Juni</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
-| Tollmolia | <span style="color:#00646F">Builder</span> | <span style="color:#55FF55">Native MVP</span> | 07.06.19 |
+| LegendBuild | <span style="color:#00646F">Builder</span> | <span style="color:#55FF55">Native MVP</span> | 29.06.19 |
+| Niklas | <span style="color:#2980b9">Administrator</span> | <span style="color:#00F9EC">Native Expert</span> | 20.06.19 |
+| Tollmolia | <span style="color:#00646F">Builder</span> | <span style="color:#00F9EC">Native Expert</span> | 07.06.19 |
+| DiggerDieter  | <span style="color:#00646F">Builder</span> | <span style="color:#55FF55">Native MVP</span> | 04.06.19 |
+| LaShadow | <span style="color:#00646F">Builderin</span> | <span style="color:#00F9EC">Native Expert</span> | 03.06.19 |
 | Tim9875432 | <span style="color:#00F9EC">Native Expert</span> | <span style="color:#E4D100">Supporter</span> | 01.06.19 |
 
 ###  <strong>Mai</strong>
@@ -28,9 +32,11 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 | flakkko | <span style="color:#00646F">Builder</span> | <span style="color:#55FF55">Native MVP</span> | 29.03.19 |
+| Erdbeerkeks | <span style="color:#00646F">Builder</span> | <span style="color:#55FF55">Native MVP</span> | 24.03.19 |
 | eZZfery | <span style="color:#00646F">Builderin</span> | <span style="color:#00F9EC">Native Expert</span> | 24.03.19 |
 | eZZrael | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Native Expert</span> | 24.03.19 |
 | LegendBuild | <span style="color:#848484">Spieler</span> | <span style="color:#00646F">Builder</span> | 13.03.19 |
+| LaShadow | <span style="color:#00F9EC">Native Expert</span> | <span style="color:#00646F">Builderin</span> | 06.03.19 |
 | Liisa | <span style="color:#848484">Spielerin</span> | <span style="color:#E4D100">Supporterin</span> | 05.03.19 |
 | Pexa | <span style="color:#848484">Spieler</span> | <span style="color:#E4D100">Supporter</span> | 05.03.19 |
 | Sideax | <span style="color:#E4D100">Supporter</span> | <span style="color:#00F9EC">Expert</span> | 01.03.19 |
@@ -423,7 +429,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | Jxvxn | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Native Expert</span> | 05.10.16 |
 | litsche | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#55FF55">Native MVP</span> | 05.10.16 |
 | Caelis | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#CF0101">Moderator Games</span> | 05.10.16 |
-| St3giLiebtTim | <span style="color:#E4D100">Supporterin Games</span> | <span style="color:#CF0101">Moderatorin Games</span> | 05.10.16 |
+| Lascona | <span style="color:#E4D100">Supporterin Games</span> | <span style="color:#CF0101">Moderatorin Games</span> | 05.10.16 |
 
 ###  <strong>September</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
@@ -483,5 +489,5 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Mai</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
-| St3giLiebtTim | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporterin Games</span> | 09.05.16 |
+| Lascona | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporterin Games</span> | 09.05.16 |
 | xJu1ia | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporterin Games</span> | 09.05.16 |
