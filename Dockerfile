@@ -16,4 +16,5 @@ COPY ./ /code/
 RUN cd /code && mkdocs build
 WORKDIR /code
 
+EXPOSE 8000
 CMD mkdocs serve
