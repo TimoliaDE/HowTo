@@ -1,4 +1,6 @@
 ![Das HowTo](HowToTimolia.png)
 
-Dies ist die (hoffentlich :D) vollständige Dokumentation von und über Timolia. Alle wissenswerten Information sind hier gesammelt und jederzeit griffbereit und mit nur ein paar Klicks abrufbar.
-Alles, was du wissen musst, und noch viel mehr, findest du hier!
+Das HowTo ist eine offizielle Sammlung von Informationen über Timolia und eine gute erste Anlaufstelle zu den meisten Fragen.
+
+Wissenswertes über alle möglichen Bereiche ist hier jederzeit griffbereit. 
+Sollte deine Frage hier einmal nicht beantwortet werden oder etwas unvollständig wirken, melde dich jederzeit bei uns im [Support](/faq/#wer-supportet-mich-wenn-ich-fragen-habe)!
