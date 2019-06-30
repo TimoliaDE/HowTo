@@ -6,6 +6,7 @@ stages:
 
 variables:
   DOCKER_REGISTRY_LIVE: registry.timolia.de
+  DOCKER_REGISTRY_DEV: dev-registry.timolia.de
 
 
 build_live:
@@ -24,4 +25,22 @@ deploy_live:
   script:
     - sshpass -p $HOWTO_PW ssh -o "StrictHostKeyChecking=no" howto@web-team.timolia.de
   only:
+    - master
+
+build_dev:
+  stage: build
+  script:
+    - docker info
+    - docker login -u=$DOCKER_USERNAME_DEV -p=$DOCKER_PASSWORD_DEV $DOCKER_REGISTRY_DEV
+    - docker build -t $DOCKER_REGISTRY_DEV/howto:dev .
+    - docker push $DOCKER_REGISTRY_DEV/howto:dev
+  except:
+    - master
+
+deploy_dev:
+  stage: deploy
+  image: ictu/sshpass
+  script:
+    - sshpass -p $HOWTO_PW_DEV ssh -o "StrictHostKeyChecking=no" howto@devnet-new.timolia.de
+  except:
     - master
