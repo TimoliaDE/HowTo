@@ -44,5 +44,11 @@ pages:
 
 
 
-theme: readthedocs
+theme:
+  name: 'material'
+  language: 'de'
+  palette:
+    primaty: 'white'
+    accent: 'indigo'
+
 extra_css: [extra.css]

@@ -12,6 +12,7 @@ RUN apk add --update \
 
 RUN easy_install-2.7 pip 
 RUN pip install mkdocs
+RUN pip install mkdocs-material
 
 COPY ./ /code/
 RUN cd /code && mkdocs build
