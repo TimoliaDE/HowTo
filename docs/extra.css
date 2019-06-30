@@ -192,6 +192,10 @@ Arrow Right Icon
   background-color: #212121 !important;
 }
 
+.md-nav__link[data-md-state="blur"] {
+    color: rgb(224, 224, 224);
+}
+
 /*
 ////////////
 // Search //
