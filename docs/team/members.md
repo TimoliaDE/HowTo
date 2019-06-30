@@ -96,7 +96,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ### <strong><span style="color:#007812">tr7zw</span></strong>
 - <u>Rang (ingame):</u> Developer
 
-### <strong><span style="color:#007812">Web44</span></strong>
+### <strong><span style="color:#007812">Webbiii</span></strong>
 - <u>Rang (ingame):</u> Developer
 
 ### <strong><span style="color:#007812">YTKacperSKY</span></strong>
