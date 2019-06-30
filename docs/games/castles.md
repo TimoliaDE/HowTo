@@ -59,4 +59,4 @@ Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium
 | Befehl | Funktion |
 | ------ | -------- |
 | `/kill`                         | Tötet dich selbst |
-| `/jointeam <Team-Farbe>`, `/team` | Betrete ein Team |
+| `/jointeam <Team-Farbe>`, `/team` | Betritt ein Team |

@@ -109,7 +109,7 @@ Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium
 | ------ | -------- |
 | `/rot` | Zeigt die Spielrotation |
 | `/last` | Zeigt die zuletzt gespielten Spiele |
-| `/join <Spieler>` | Betrete ein Turnier |
+| `/join <Spieler>` | Betritt ein Turnier |
 | `/leave` | Verlasse ein Turnier |
 **[Premium](/ranks/premium/) only**:
 | `/create`          | Erstellt ein öffentliches oder privates Turnier |

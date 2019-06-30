@@ -72,8 +72,8 @@ niedrigere Kick-Value haben. Sobald ein Spiel startet, wird jedem Spieler wieder
 
 ### Wo kann ich mich entschuldigen?
 Wenn du gebannt wurdest, kannst du mit einem Entbannungsantrag eine Bannverkürzung von maximal 1/3 deiner Bannzeit bekommen, sofern deine Entschuldigung sehr gut geschrieben ist. 
-Diese kannst du in unserem Forum oder im Hilfechannel posten, alternativ kannst du auch eine E-Mail an gebannt@timolia.de schreiben. Achtung! Solltest du zwei Mal wegen Hacking gebannt worden 
-sein oder hast du eine Bannzeit von insgesamt über 46 Tagen, musst du erst warten, bis deine Banntage auf <=46 Tage verjährt sind.
+Diese kannst du in unserem [Forum](https://forum.timolia.de/forums/entschuldigungen.49) oder im Hilfechannel posten, alternativ kannst du auch eine E-Mail an gebannt@timolia.de schreiben. Achtung! Solltest du zwei Mal wegen Hacking gebannt worden 
+sein oder eine Bannzeit von insgesamt über 46 Tagen haben, musst du erst warten, bis deine Banntage auf <=46 Tage verjährt sind.
 Über den Minecraft-Server `register.timolia.de` kannst du dich für unser Forum registrieren, sofern du dies nicht schon getan hast. 
 Mehr über Entbannungsanträge und Entschuldigungen [kannst du hier lesen](/bans/).
 
@@ -94,7 +94,7 @@ Achievements kann man während des Spielens auf Timolia abschließen. Eine Über
 
 ### Wo sind Teams erlaubt?
 In 4rena und InTime sind Teams ausdrücklich verboten, in BrainBow wird Teaming lediglich zwischen zwei Teams toleriert.
-Wer in den Timolianischen Spielen teamt, hat keine Konsequenzen zu befürchten.
+Wer in den Timolianischen Spielen teamt, hat keine Konsequenzen zu befürchten. Weitere Informationen findest du im offiziellen [Regelwerk](/rules/games/).
 
 ### Wie funktioniert ... ?
 In jeder Lobby der Modi findest du in deinem Inventar eine genaue Erklärung, die das jeweilige Spielgeschehen erläutert. Natürlich kannst du alles auch hier in unserem HowTo nachlesen.

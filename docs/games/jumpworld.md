@@ -43,7 +43,7 @@ Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium
 ## Befehle
 | Befehl | Funktion |
 | ------ | -------- |
-| `/enter <ID>`, `/e <ID>`        | Betrete ein bestimmtes Jump 'n' Run |
+| `/enter <ID>`, `/e <ID>`        | Betritt ein bestimmtes Jump 'n' Run |
 | `/leave`, `/l`                  | Verlässt das aktuelle Jump 'n' Run |
 | `/setstart`                     | Setzt den Startpunkt deines Jump 'n' Runs |
 | `/checkpoint`, `/fall`, `/kill` | Teleportiert dich zurück zum letzten Checkpoint |
