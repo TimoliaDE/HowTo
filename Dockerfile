@@ -27,4 +27,4 @@ COPY ./nginx.conf /etc/nginx/nginx.conf
 
 WORKDIR /code
 EXPOSE 8000
-CMD rc-service nginx start && tail -f /var/log/nginx/access.log
+CMD nginx
