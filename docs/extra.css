@@ -121,7 +121,7 @@ Default text color
 and background color
 */
 .md-main {
-  color: #f0f0f0 !important;
+  color: #d4d4d4 !important;
   background-color: #212121 !important;
 }
 
@@ -159,7 +159,7 @@ Left and right toc scrollbar
 
 
 .md-nav {
-  color: #F5F5F5 !important;
+  color: #d4d4d4 !important;
   background-color: #212121 !important;
 }
 
@@ -167,11 +167,11 @@ Left and right toc scrollbar
 Arrow Left Icon
 */
 html .md-nav--primary .md-nav__title:before {
-  color: #FAFAFA !important;
+  color: #d4d4d4 !important;
 }
 
 .md-nav__title {
-  color: rgba(255,255,255,1) !important;
+  color: #d4d4d4 !important;
   background-color: #212121 !important;
 }
 
@@ -179,16 +179,16 @@ html .md-nav--primary .md-nav__title:before {
 Arrow Right Icon
 */
 .md-nav--primary .md-nav__link:after {
-  color: #FAFAFA !important;
+  color: #d4d4d4 !important;
 }
 
 .md-nav__list {
-  color: rgba(255,255,255,1) !important;
+  color: #d4d4d4 !important;
   background-color: #212121 !important;
 }
 
 .md-nav__item {
-  color: rgba(255,255,255,1) !important;
+  color: #d4d4d4 !important;
   background-color: #212121 !important;
 }
 
