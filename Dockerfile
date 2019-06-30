@@ -26,4 +26,4 @@ COPY ./nginx.conf /etc/nginx/nginx.conf
 
 WORKDIR /code
 EXPOSE 8000
-CMD nginx -g daemon off;
+CMD /etc/init.d/nginx start
