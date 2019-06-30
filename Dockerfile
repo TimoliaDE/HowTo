@@ -14,6 +14,6 @@ RUN rm -rf /tmp/* /var/tmp/* /var/cache/apk/* /var/cache/distfiles/*
 
 COPY ./ /code/
 RUN cd /code && mkdocs build
-WORKDIR /code
+WORKDIR /code/site
 
 CMD mkdocs serve
