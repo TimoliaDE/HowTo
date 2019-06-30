@@ -5,34 +5,34 @@ Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbe
 
 Administratoren leiten das Netzwerk. Sie kümmern sich um teaminterne und technische Belange und koordinieren die Projekte und Ziele Timolias.
 
-### <strong>Caelis</strong>
+### <strong><span style="color:#2980b9">Caelis</span></strong>
 - <u>Rang (ingame):</u> Administrator
 - <u>Hauptverantwortlich:</u> Interne Webanwendung, Technische Leitung des Bauteams, Timolia-Plugins
 
-### <strong>Docmac</strong>
+### <strong><span style="color:#2980b9">Docmac</span></strong>
 - <u>Rang (ingame):</u> Administrator
 - <u>Hauptverantwortlich:</u> Timolia-Plugins
 
-### <strong>Edgxxar</strong>
+### <strong><span style="color:#2980b9">Edgxxar</span></strong>
 - <u>Rang (ingame):</u> Administrator
 - <u>Hauptverantwortlich:</u> Timolia-Plugins
 - <u>Nebenverantwortlich:</u> Root-Server
 
-### <strong>Lascona</strong>
+### <strong><span style="color:#2980b9">Lascona</span></strong>
 - <u>Rang (ingame):</u> Administratorin
 - <u>Hauptverantwortlich:</u> Bauevent-Koordination, Broadcasts, Forenorganisation, Internes und externes Feedback, Social Media, Supporterauswahl, Teammanagement, Timolia Turnier Organisation, YouTuber-Ränge
 - <u>Nebenverantwortlich:</u> Community-Discord
 
-### <strong>MCExpertDE</strong>
+### <strong><span style="color:#2980b9">MCExpertDE</span></strong>
 - <u>Rang (ingame):</u> Administrator
 - <u>Hauptverantwortlich:</u> Games, Timolia-Plugins
 - <u>Nebenverantwortlich:</u> Hardware
 
-### <strong>Niklas</strong>
+### <strong><span style="color:#2980b9">Niklas</span></strong>
 - <u>Rang (ingame):</u> Administrator
 - <u>Hauptverantwortlich:</u> Interne Webanwendung, Webseite
 
-### <strong>svdragster</strong>
+### <strong><span style="color:#2980b9">svdragster</span></strong>
 - <u>Rang (ingame):</u> Administrator
 - <u>Hauptverantwortlich:</u> Anti-Cheat, Timolia-Plugins
 - <u>Nebenverantwortlich:</u> Feedback Forum, Fragen und Antworten Forum, Map-Einsendungen
