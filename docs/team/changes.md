@@ -429,7 +429,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | Jxvxn | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#00F9EC">Native Expert</span> | 05.10.16 |
 | litsche | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#55FF55">Native MVP</span> | 05.10.16 |
 | Caelis | <span style="color:#E4D100">Supporter Games</span> | <span style="color:#CF0101">Moderator Games</span> | 05.10.16 |
-| St3giLiebtTim | <span style="color:#E4D100">Supporterin Games</span> | <span style="color:#CF0101">Moderatorin Games</span> | 05.10.16 |
+| Lascona | <span style="color:#E4D100">Supporterin Games</span> | <span style="color:#CF0101">Moderatorin Games</span> | 05.10.16 |
 
 ###  <strong>September</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
@@ -489,5 +489,5 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Mai</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
-| St3giLiebtTim | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporterin Games</span> | 09.05.16 |
+| Lascona | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporterin Games</span> | 09.05.16 |
 | xJu1ia | <span style="color:#00F9EC">Expert</span> | <span style="color:#E4D100">Supporterin Games</span> | 09.05.16 |
