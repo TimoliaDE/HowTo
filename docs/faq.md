@@ -49,7 +49,7 @@ Spieler mit einem unserer permanenten Premium-Ränge erhalten gewisse Vorteile. 
 **Alles rund um Bewerbungen [ist hier zu finden](/team/apply/).** Solltest du Probleme mit deinem  Premium-Rang haben, findest du [hier Hilfe](/ranks/premium/).
 
 ### Wer supportet mich, wenn ich fragen habe?
-Wenn du ingame oder im [Teamspeak](/teamspeak/) Fragen hast, steht dir unser großes [Supportteam](/team/members/#supporter) stets zur Verfügung. Wir freuen uns immer, wenn jemand auf uns zu kommt und können dir hoffentlich bei Problemen oder Anmerkungen weiterhelfen.
+Wenn du ingame oder im [Teamspeak](/teamspeak/) Fragen hast, steht dir unser großes [Supportteam](/team/members/#supporter) stets zur Verfügung. Wir freuen uns immer, wenn jemand auf uns zukommt und können dir hoffentlich bei Problemen oder Anmerkungen weiterhelfen.
 Auf der Social Media Plattform [Twitter](https://twitter.com/TimoliaTeam) supportet rund um die Uhr das [Social Media Team](/team/responsibilities/#social-media). Du kannst zusätzlich Ingame Probleme, Bugs und Anmerkungen über das Ticketsystem melden. Dazu kannst du den Befehl `/ticket <Anliegen>` eingeben.
 
 ### Wie funktioniert das Kick-System?
