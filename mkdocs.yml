@@ -47,6 +47,7 @@ pages:
 theme:
   name: 'material'
   language: 'de'
+  logo: 'img/logo.png'
   palette:
     primary: 'white'
     accent: 'indigo'
