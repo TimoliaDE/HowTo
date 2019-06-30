@@ -26,5 +26,5 @@ RUN mv /etc/nginx/nginx.conf /etc/nginx/nginx.conf.orig
 COPY ./nginx.conf /etc/nginx/nginx.conf
 
 WORKDIR /code
-EXPOSE 8000
+EXPOSE 80
 CMD nginx
