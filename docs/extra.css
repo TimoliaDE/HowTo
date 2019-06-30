@@ -10,8 +10,9 @@
 
 .md-typeset code {
   color: #bcc2ff !important;
-  background-color: hsla(0, 0%, 50%, 0.5) !important;
-  box-shadow: .29412em 0 0 hsla(0, 0%, 50%, 0.5),-.29412em 0 0 hsla(0, 0%, 50%, 0.5) !important;
+  background-color: hsla(0, 0%, 10%, 0.5) !important;
+  box-shadow: .29412em 0 0 hsla(0, 0%, 10%, 0.5),-.29412em 0 0 hsla(0, 0%, 10%, 0.5) !important;
+  font-size: 100%;
 }
 
 /*
@@ -143,6 +144,10 @@ table {
 
 tbody {
   background-color: #484848 !important;
+}
+
+.md-typeset table:not([class]) {
+    font-size: .78rem;
 }
 
 /*
