@@ -28,10 +28,6 @@ Administratoren leiten das Netzwerk. Sie kümmern sich um teaminterne und techni
 - <u>Hauptverantwortlich:</u> Games, Timolia-Plugins
 - <u>Nebenverantwortlich:</u> Hardware
 
-### <strong><span style="color:#2980b9">Niklas</span></strong>
-- <u>Rang (ingame):</u> Administrator
-- <u>Hauptverantwortlich:</u> Interne Webanwendung, Webseite
-
 ### <strong><span style="color:#2980b9">svdragster</span></strong>
 - <u>Rang (ingame):</u> Administrator
 - <u>Hauptverantwortlich:</u> Anti-Cheat, Timolia-Plugins
@@ -102,7 +98,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ### <strong><span style="color:#007812">YTKacperSKY</span></strong>
 - <u>Rang (ingame):</u> Developer
 
-### <strong><span style="color:#007812">Zortax</span></strong>
+### <strong><span style="color:#007812">zortax</span></strong>
 - <u>Rang (ingame):</u> Developer
 
 
@@ -209,16 +205,7 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ### <strong><span style="color:#00646F">Char1sma</span></strong>
 - <u>Rang (ingame):</u> Builder
 
-### <strong><span style="color:#00646F">DiggerDieter</span></strong>
-- <u>Rang (ingame):</u> Builder
-
 ### <strong><span style="color:#00646F">DragonfighterBen</span></strong>
-- <u>Rang (ingame):</u> Builder
-
-### <strong><span style="color:#00646F">Erdbeerkeks</span></strong>
-- <u>Rang (ingame):</u> Builder
-
-### <strong><span style="color:#00646F">LegendBuild</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span style="color:#00646F">Memoryos</span></strong>
