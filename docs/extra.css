@@ -213,6 +213,10 @@ Arrow Right Icon
     color: rgb(176, 176, 176);
 }
 
+.md-nav__link:focus, .md-nav__link:hover {
+    color: #75b5d2;
+}
+
 /*
 ////////////
 // Search //
