@@ -1,30 +1,27 @@
-types:
+image: docker:stable
+
+stages:
   - build
   - deploy
 
-# Live
-livebuild:
-  type: build
-  script: "bash /home/builds/build-remote-Howto.sh live $CI_BUILD_REF_NAME $CI_PIPELINE_ID"
+variables:
+  DOCKER_REGISTRY_LIVE: registry.timolia.de
+
+
+build_live:
+  stage: build
+  script:
+    - docker info
+    - docker login -u=$DOCKER_USERNAME_LIVE -p=$DOCKER_PASSWORD_LIVE $DOCKER_REGISTRY_LIVE
+    - docker build -t $DOCKER_REGISTRY_LIVE/howto:$CI_COMMIT_REF_NAME .
+    - docker push $DOCKER_REGISTRY_LIVE/howto:$CI_COMMIT_REF_NAME
   only:
-    - master@timolia/howto
-  tags:
-      - live
-  environment: live
-  artifacts:
-      name: "howto:${CI_BUILD_REF_NAME}"
-livedeploy:
-  type: deploy
-  script: "bash /home/builds/updateHowto.sh live $CI_BUILD_REF_NAME $CI_PIPELINE_ID"
+    - master
+
+deploy_live:
+  stage: deploy
+  image: ictu/sshpass
+  script:
+    - sshpass -p $HOWTO_PW ssh -o "StrictHostKeyChecking=no" howto@web-team.timolia.de
   only:
-    - master@timolia/howto
-  when: manual
-  tags:
-      - live
-  environment: live
-# Dev
-devbuild:
-  type: build
-  script: "echo 'Dev-Build succeeded'"
-  except:
-    - master@timolia/howto
+    - master
