@@ -40,8 +40,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/unnick`                       | Ermöglicht es dir, dich zu entnicken |
 | [<span class='youtuber'>YouTuber</span>](/ranks/youtube/) only: | |
 | `/forcemap`                     | Erzwinge bei einem Spiel mit Voting-System eine bestimmte Map |
-| `/startgame [Sekunden]`         | Starte ein Spiel |
-| `/abortstart`                   | Brich den Start eines Spiels ab |
+| `/startgame`                    | Starte ein Spiel |
 | `/nick`                         | Ermöglicht es dir, dich zu nicken |
 | `/unnick`                       | Ermöglicht es dir, dich zu entnicken |
 | `/vanish`, `/v`                 | Ermöglicht es dir, dich in 1vs1, Jumpworld und in den Lobbies unsichtbar zu machen |
