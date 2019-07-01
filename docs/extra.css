@@ -271,3 +271,53 @@ article preview text color
 .md-search-result__teaser {
     color: #BDBDBD !important;
 }
+
+
+
+/*
+style ranks
+ */
+
+.administrator {
+    color: #2a84c0;
+}
+
+.moderator {
+    color: #da0101;
+}
+
+.developer {
+    color: #009e18;
+}
+
+.creator {
+    color: #009e18;
+}
+
+.supporter {
+    color: #ebd700;
+}
+
+.builder {
+    color: #008a99;
+}
+
+.youtuber {
+    color: #b800b8;
+}
+
+.expert {
+    color: #00F9EC;
+}
+
+.mvp {
+    color: #55ff55;
+}
+
+.pro {
+    color: #ff9900;
+}
+
+.user {
+    color: #919191;
+}

@@ -13,7 +13,7 @@
 - Der Zugang zum Nick-Tool wird über das Item in der Hotbar oder den Befehl `/nick` gewährleistet.
 - YouTuber erhalten eine Kick-Value von 900. (Wie das Kick-System funktioniert, kannst du [<strong>hier</strong> nachlesen](/faq/#wie-funktioniert-das-kick-system).)
 - In der Lobby können Spieler von YouTubern weggeschlagen werden.
-- Der Nametag wird <span style="color:#4C0B5F">**lila**</span> gekennzeichnet.
+- Der Nametag wird <span class='youtuber'>**lila**</span> gekennzeichnet.
 - Eine eigene JumpWorld-Lobby wird für YouTuber zur Verfügung gestellt.
 - YouTuber können bei Spielen mit einem Voting-System den Befehl `/forcemap` benutzen.
 - YouTuber können zum Starten eines Spieles `/start` verwenden.
