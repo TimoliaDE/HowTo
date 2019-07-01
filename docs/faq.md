@@ -18,30 +18,30 @@ Mit dem CityBuild begann alles. Am 07.05.2011 gründete Tim den CityBuild Timoli
 Leider musste City am 16.12.2018 aus verschiedenen Gründen schließen. Mehr Informationen dazu erhältst du [hier](http://timolia.de/city).
 
 ### Welche Ränge gibt es?
-- <b><span style="color:#2980b9">Administratoren</span></b>:
+- <b><span class='administrator'>Administratoren</span></b>:
 Sie kümmern sich um die Technik von Timolia. Angefangen bei den Plugins, über CraftBukkit bis hin zu den Root-Servern und dem Bungeecord-Netzwerk.
 Des Weiteren sind sie für die Website und den TeamSpeak-Server zuständig.
 
 
-- <b><span style="color:#CF0101">Moderatoren</span></b>:
+- <b><span class='moderator'>Moderatoren</span></b>:
 Sie koordinieren Supporter und dienen sowohl als Ansprechpartner als auch als Brücke zwischen Supportern und Administratoren.
 Er/Sie bündelt Fragen und Probleme und leitet diese weiter. Teammitglieder mit speziellen Aufgabenbereichen sind meist ebenfalls Moderatoren, 
 hierzu gehören zum Beispiel YouTube, TeamSpeak, Forum oder andere Bereiche.
 
-- <b><span style="color:#007812">Developer</span></b>:
+- <b><span class='developer'>Developer</span></b>:
 Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi und helfen bei Problemen und Bugs.
 
-- <b><span style="color:#E4D100">Supporter</span></b>:
+- <b><span class='supporter'>Supporter</span></b>:
 Sie stehen für alle grundlegenden Fragen zur Verfügung, nehmen Reports entgegen und sind die ersten Ansprechpartner, wenn du Probleme hast.
 
-- <b><span style="color:#00646F">Builder</span></b>:
+- <b><span class='builder'>Builder</span></b>:
 Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entwerfen stetig neue Bauten.
 
-- <b><span style="color:#007812">Creator</span></b>:
+- <b><span class='creator'>Creator</span></b>:
 Creator sind für kreative Arbeiten, wie Texte, Bilder und Grafiken zuständig und sind kreative Köpfe des Teams.
 
-- <b><span style="color:#8B008B">YouTuber</span></b>:
-YouTuber sind Personen der Minecraft-Szene, die durch YouTube (in Einzelfällen auch Twitch) bekannt geworden sind. Für kleinere Youtuber gibt es den Rang <b><span style="color:#55FF55">VIP</span></b>. Alles zu diesen Rängen [erfährst du hier](/ranks/youtube/).
+- <b><span class='youtuber'>YouTuber</span></b>:
+YouTuber sind Personen der Minecraft-Szene, die durch YouTube (in Einzelfällen auch Twitch) bekannt geworden sind. Für kleinere Youtuber gibt es den Rang <b><span class='mvp'>VIP</span></b>. Alles zu diesen Rängen [erfährst du hier](/ranks/youtube/).
 
 - <b>Premium-Ränge</b>:
 Spieler mit einem unserer permanenten Premium-Ränge erhalten gewisse Vorteile. Welche Vorteile dir welcher Rang bietet, [erfährst du hier](/ranks/premium/).
@@ -59,12 +59,12 @@ Jeder Spieler erhält beim Joinen des Netzwerkes eine individuelle "Kick-Value",
 | Rang | Kick-Value |
 | ------ | -------- |
 | User | 0 |
-| <span style="color:#F99500">Pro</span> | 300 |
-| <span style="color:#F99500">Pro+</span> | 400 |
-| <span style="color:#55FF55">MVP</span> | 500 |
-| <span style="color:#55FF55">MVP+</span> | 600 |
-| <span style="color:#00F9EC">Expert</span> | 800 |
-| <span style="color:#4C0B5F">Youtuber</span> | 900 |
+| <span class='pro'>Pro</span> | 300 |
+| <span class='pro'>Pro+</span> | 400 |
+| <span class='mvp'>MVP</span> | 500 |
+| <span class='mvp'>MVP+</span> | 600 |
+| <span class='expert'>Expert</span> | 800 |
+| <span class='youtuber'>Youtuber</span> | 900 |
 
 Wenn nun z.B. ein Expert einen vollen Server betritt, wird ein zufälliger Spieler mit der niedrigsten KV wieder in eine 
 der Games-Lobbies geschickt. Seine Kick-Value erhöht sich dabei um 1. Beim nächsten Versuch ist es also wahrscheinlicher, dass er nicht gekickt wird, da die anderen Spieler nun eine 

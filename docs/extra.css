@@ -17,10 +17,10 @@
 */
 
 .md-typeset code {
-  color: #bcc2ff !important;
-  background-color: hsla(0, 0%, 10%, 0.5) !important;
-  box-shadow: .29412em 0 0 hsla(0, 0%, 10%, 0.5),-.29412em 0 0 hsla(0, 0%, 10%, 0.5) !important;
-  font-size: 90%;
+    color: #bcc2ff !important;
+    background-color: hsla(0, 0%, 10%, 0.5) !important;
+    box-shadow: .29412em 0 0 hsla(0, 0%, 10%, 0.5),-.29412em 0 0 hsla(0, 0%, 10%, 0.5) !important;
+    font-size: 90%;
 }
 
 /*
@@ -33,15 +33,15 @@
 line number
 */
 .linenos {
-  color: #F5F5F5 !important;
-  background-color: #313131 !important;
+    color: #F5F5F5 !important;
+    background-color: #313131 !important;
 }
 
 /*
 code block background
 */
 .codehilite {
-  background-color: #424242 !important;
+    background-color: #424242 !important;
 }
 
 /*
@@ -49,7 +49,7 @@ scroll bar size
 */
 
 .md-typeset .codehilite::-webkit-scrollbar {
-  height: 1rem !important;
+    height: 1rem !important;
 }
 
 /*
@@ -132,26 +132,26 @@ Default text color
 and background color
 */
 .md-main {
-  color: #d4d4d4 !important;
-  background-color: #212121 !important;
+    color: #d4d4d4 !important;
+    background-color: #212121 !important;
 }
 
 /*
 Main headlines
 */
 .md-main h1 {
-  color: white !important;
+    color: white !important;
 }
 
 /*
 Tables
 */
 table {
-  background-color: #616161 !important;
+    background-color: #616161 !important;
 }
 
 tbody {
-  background-color: #484848 !important;
+    background-color: #484848 !important;
 }
 
 .md-typeset table:not([class]) {
@@ -172,45 +172,45 @@ tbody {
 Left and right toc scrollbar
 */
 .md-sidebar__scrollwrap::-webkit-scrollbar-thumb {
-  background-color: #E0E0E0 !important;
+    background-color: #E0E0E0 !important;
 }
 
 
 
 .md-nav {
-  color: #d4d4d4 !important;
-  background-color: #212121 !important;
-  font-size: .72rem;
-  line-height: 1.3;
+    color: #d4d4d4 !important;
+    background-color: #212121 !important;
+    font-size: .72rem;
+    line-height: 1.3;
 }
 
 /*
 Arrow Left Icon
 */
 html .md-nav--primary .md-nav__title:before {
-  color: #d4d4d4 !important;
+    color: #d4d4d4 !important;
 }
 
 .md-nav__title {
-  color: #d4d4d4 !important;
-  background-color: #212121 !important;
+    color: #d4d4d4 !important;
+    background-color: #212121 !important;
 }
 
 /*
 Arrow Right Icon
 */
 .md-nav--primary .md-nav__link:after {
-  color: #d4d4d4 !important;
+    color: #d4d4d4 !important;
 }
 
 .md-nav__list {
-  color: #d4d4d4 !important;
-  background-color: #212121 !important;
+    color: #d4d4d4 !important;
+    background-color: #212121 !important;
 }
 
 .md-nav__item {
-  color: #d4d4d4 !important;
-  background-color: #212121 !important;
+    color: #d4d4d4 !important;
+    background-color: #212121 !important;
 }
 
 .md-nav__link[data-md-state="blur"] {
@@ -233,20 +233,20 @@ attention:
 background is scroll handle color!
 */
 .md-search__scrollwrap::-webkit-scrollbar-thumb {
-  background-color: #E0E0E0 !important;
+    background-color: #E0E0E0 !important;
 }
 /*
 scroll bar background color
 */
 .md-search__scrollwrap {
-  background-color: #424242 !important;
+    background-color: #424242 !important;
 }
 
 /*
 Icon color
 */
 .md-search-result__article--document:before {
-  color: #EEEEEE !important;
+    color: #EEEEEE !important;
 }
 
 /*
@@ -254,20 +254,70 @@ headline color and
 result list background
 */
 .md-search-result__list {
-  color: #EEEEEE !important;
-  background-color: #212121 !important;
+    color: #EEEEEE !important;
+    background-color: #212121 !important;
 }
 
 /*
 result info/count
 */
 .md-search-result__meta {
-  background-color: #EEEEEE !important;
+    background-color: #EEEEEE !important;
 }
 
 /*
 article preview text color
 */
 .md-search-result__teaser {
-  color: #BDBDBD !important;
+    color: #BDBDBD !important;
+}
+
+
+
+/*
+style ranks
+ */
+
+.administrator {
+    color: #2a84c0;
+}
+
+.moderator {
+    color: #da0101;
+}
+
+.developer {
+    color: #009e18;
+}
+
+.creator {
+    color: #009e18;
+}
+
+.supporter {
+    color: #ebd700;
+}
+
+.builder {
+    color: #008a99;
+}
+
+.youtuber {
+    color: #b800b8;
+}
+
+.expert {
+    color: #00F9EC;
+}
+
+.mvp {
+    color: #55ff55;
+}
+
+.pro {
+    color: #ff9900;
+}
+
+.user {
+    color: #919191;
 }

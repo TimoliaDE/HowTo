@@ -6,7 +6,7 @@ Die Ränge sind in unserem Shop erhältlich, diesen kannst du unter [https://www
 ### Welche Vorteile habe ich als Premium-Spieler?
 Diese Features stehen dir mit deinem Rang zur Verfügung:
 
-|                                        |   <span style="color:#F99500">Pro</span>  |  <span style="color:#F99500">Pro+</span>  | <span style="color:#55FF55">MVP</span>  | <span style="color:#55FF55">MVP+</span>  | <span style="color:#00F9EC">Expert</span> |
+|                                        |   <span class='pro'>Pro</span>            |  <span class='pro'>Pro</span>             | <span class='mvp'>MVP</span>            | <span class='mvp'>MVP+</span>            | <span class='expert'>Expert</span>        |
 | :------------------------------------- | :---------------------------------------: | :---------------------------------------: | :-------------------------------------: | :--------------------------------------: | :---------------------------------------: |
 | Dauer                                  | LIFETIME                                  | LIFETIME                                  | LIFETIME                                | LIFETIME                                 | LIFETIME                                  |
 | Rangfarbe                              | &check;                                   | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
