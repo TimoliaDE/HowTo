@@ -31,7 +31,7 @@ Weitere Mitglieder kann der Besitzer des Channels mit `/channel invite <@Name>` 
 # 4 - Das Score System
 
 ## Wie funktioniert es?
-Nachrichten werden ab einer gewissen Länge gewertet und Score aus ihnen berechnet. Abgesehen von der Mindestlänge ist der Score für jede Nachricht aber unabhängig von der Länge der Nachricht.
+Nachrichten werden ab einer gewissen Länge gewertet und ein Score aus ihnen berechnet. Abgesehen von der Mindestlänge ist der Score für jede Nachricht aber unabhängig von der Länge der Nachricht.
 
 ## Wie oft werden Nachrichten gewertet?
 Abhängig vom Rang gibt es einen Cooldown zwischen gewerteten Nachrichten - Spam funktioniert also nicht uneingeschränkt.
