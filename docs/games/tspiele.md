@@ -8,7 +8,7 @@ Willkommen bei den Timolianischen Spielen! Hier kannst du deine PvP-Skills im Ka
 - Alle Kämpfer spawnen in einer unendlich großen, zufällig generierten Welt. Diese wurde jedoch ein wenig modifiziert: Es wurden neue Biome und eigene Strukturen hinzugefügt.
 - In dieser Welt spawnen weiße Beacons, die sich beim Näherkommen blau färben und zufällige Items ausspucken.
 - Stehst du auf einem der Beacons, während dieser verschwindet, teleportierst du dich in die Nähe eines Gegners. Eine Partikelspur zeigt dir ab dann den direkten Weg.
-- Entscheide selbst, wann du dich bereit für den Kampf fühlst. Aber Vorsicht! Es kann sich auch jederzeit jemand zu dir teleportieren. Dann ertönt ein Warngeräusch.
+- Entscheide selbst, wann du dich bereit für den Kampf fühlst. Aber Vorsicht! Es kann sich auch jederzeit jemand zu dir teleportieren. Dann ertönt ein Geräusch der Warnung.
 
 ## Spezielle Items
 Bei einem normalen, weißen Beacon droppen hin und wieder besondere Items. Wenn du einen Spieler tötest, erscheint ein roter Beacon, der dir nach kurzer Zeit eines der 10 Special-Items fallen lässt. 
