@@ -1,12 +1,12 @@
 ## §1 - Allgemein
-Grundsätzlich gelten dieselben Regeln, wie auch auf dem Timolia Minecraft Server. Sollten dir die Regeln noch unbekannt sein, kannst du diese [<strong>hier</strong> nachlesen](/rules/games/).
+Grundsätzlich gelten dieselben Regeln, wie auch auf dem Timolia Minecraft-Server. Sollten dir die Regeln noch unbekannt sein, kannst du diese [<strong>hier</strong> nachlesen](/rules/games/).
 
 ## §2 - Ausnutzen der Hilfechannel
 Es ist verboten, den Hilfechannel ohne triftigen Grund aufzusuchen und dort die Hilfsbereitschaft von Teammitgliedern auszunutzen.
 
-## §3 - TeamSpeak Avatar und Username
+## §3 - TeamSpeak-Avatar und Username
 Avatare, die rassistischen, sexistischen oder beleidigenden Content enthalten, sind verboten.
-Dasselbe gilt für den Usernamen. Des Weiteren dürfen Namen keine Zeichen enthalten, die unsichtbar sind oder die die vorgesehene Größe des Namens von einer Zeile modifizieren.
+Dasselbe gilt für den Usernamen. Des Weiteren dürfen Namen keine Zeichen enthalten, die unsichtbar sind oder die vorgesehene Größe des Namens von einer Zeile modifizieren.
 
 ## §4 - Stimmverzerrer und Soundboards
 Das Nutzen von Stimmverzerrern und Soundboards ist untersagt!

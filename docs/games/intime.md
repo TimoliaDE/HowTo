@@ -2,13 +2,13 @@
 
 ## Das Spielprinzip
 "Zeit ist Geld" - dieses Sprichwort beschreibt InTime mehr als alles andere. Waffen, Rüstung, Nahrung, Potions und spezielle Items kosten Zeit, Lebenszeit.
-Wenn deine eigene Zeit abgelaufen ist stirbst du, deshalb ist es wichtig, mit der eigenen Zeit achtsam umzugehen.
+Wenn deine eigene Zeit abgelaufen ist, stirbst du, deshalb ist es wichtig, mit der eigenen Zeit achtsam umzugehen.
 
 ## Und so gehts
 - Alle Spieler erhalten zu Beginn des Spiels ihre Lebenszeit, diese läuft bei Aktivierung des Time-Keepers ab.
 - In der Mapmitte und auf der Welt verteilt spawnen Villager, die unterschiedlichste Items handeln, die Art der Items kann man über den Köpfen der Villager erkennen.
 - Am Spawn werden nach einiger Zeit neue Villager gespawnt, diese handeln neue Items.
-- Wenn deine Zeit abgelaufen ist stirbst du, doch natürlich ist es auch möglich Zeit hinzuzubekommen.
+- Sobald deine Zeit abgelaufen ist, stirbst du, doch natürlich ist es auch möglich, Zeit hinzuzubekommen.
 - Schlägst du einen Gegner mit der Uhr, ziehst du ihm kostbare Lebenszeit ab und transferierst diese auf dich selbst.
 - Nach einiger Zeit erhält man in der Mitte der Map Lebenszeit, sofern man sich dort alleine aufhält.
 - Stirbt ein Spieler, wird die Restzeit, die der Spieler noch besaß, gleichmäßig auf alle verbleibenden Kämpfer verteilt.
@@ -33,7 +33,7 @@ Wenn deine eigene Zeit abgelaufen ist stirbst du, deshalb ist es wichtig, mit de
 | 8 | 8129 | ??? |
 | 9 | 16348 | ??? |
 
-Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren werden namentlich nur die ersten Ränge genannt.
+Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren, werden namentlich nur die ersten Ränge genannt.
 
 ## Premium-Features
 - Premium-Spieler besitzen je nach Rang bis zu vier Stimmen im Voting-System.

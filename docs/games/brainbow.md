@@ -24,11 +24,11 @@ Runde und kann den Kampf für sich entscheiden.
 
 | Block | Bezeichnung | Funktion |
 | ------ | ------ | ------ |
-| <span style="color:#CF0101">Redstone</span> | TNT-Block | Müssen in die gegnerischen Scorefelder geschossen werden. |
-| <strong>Kohle</strong>| Bombe | Man kann damit Gegner töten, TNT oder TNT-Blöcke zerstören und sich selbst nach oben boosten. |
+| <span style="color:#CF0101">Redstone</span> | TNT-Block | Muss in die gegnerischen Scorefelder geschossen werden. |
+| <strong>Kohle</strong>| Bombe | Gegner töten, TNT oder TNT-Blöcke zerstören und sich selbst nach oben boosten. |
 | <span style="color:#0000FF">Lapislazuli</span> | Enderperle | Hilft zur schnellen Fortbewegung auf der Map. |
-| <span style="color:#64FE2E">Smaragd</span> | Gitftrank | Vergiftet Spieler in einem gewissen Umkreis. Den Effekt wird man erst in der eigenes Base wieder los. |
-| <span style="color:#D8D8D8">Quartz</span> | Schneefeld | Damit kannst du Spieler in einem gewissen Umkreis „einfrieren”. |
+| <span style="color:#64FE2E">Smaragd</span> | Gitftrank | Vergiftet Spieler in einem gewissen Umkreis. Den Effekt wird man erst in der eigenen Base wieder los. |
+| <span style="color:#D8D8D8">Quartz</span> | Schneefeld | Spieler in einem gewissen Umkreis „einfrieren”. |
 
 ## Die Ränge in BrainBow
 
@@ -46,11 +46,11 @@ Runde und kann den Kampf für sich entscheiden.
 | 10 | 32768 | ??? |
 | 11 | 65536 | ??? |
 
-Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren werden namentlich nur die ersten Ränge genannt.
+Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren, werden namentlich nur die ersten Ränge genannt.
 
 ## Premium-Features
 - Premium-Spieler besitzen je nach Rang bis zu vier Stimmen im Voting-System.
-- Zum Mapvoting kann jederzeit die Liebslingsmap hinzugefügt werden.
+- Zum Mapvoting kann jederzeit die Lieblingsmap hinzugefügt werden.
 - Premium-Spieler erhalten bis zu drei mal mehr Pixel.
 - Premium-Spieler können in der Voting-Phase Spieler aus einem vollen Team kicken.
 - Werde mit `/togglerank` als normaler Spieler angezeigt.
