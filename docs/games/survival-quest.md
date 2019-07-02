@@ -9,7 +9,7 @@ Das Spiel startet alle 2 Stunden.
 - Das Quest-Buch enthält zudem einen Weltenkompass, mit dem man sich alle 12 Minuten teleportieren kann, eine mobile Werkbank, mobile Enderchest und einen mobilen Ofen.
 - Schwerere Quests geben mehr Punkte als leichtere. Man bekommt zudem mehr Punkte, wenn man eine Quest vor den anderen Konkurrenten erledigt.
 - Für jeden unnötigen Tod bekommt man 100 Punkte abgezogen!
-- Für waagerechte, senkrechte und diagonale Reihen bekommt man Extrapunkte.
+- Für waagrechte, senkrechte und diagonale Reihen bekommt man Extrapunkte.
 - Der Spieler mit den meisten Punkten gewinnt.
 
 ## Premium-Features
