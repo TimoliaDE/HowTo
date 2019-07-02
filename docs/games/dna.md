@@ -38,12 +38,12 @@ Grenze von 32 Blöcken zu erreichen.
 | 9 | 16348 | ??? |
 | 10 | 32768 | ??? |
 
-Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren werden namentlich nur die ersten Ränge genannt.
+Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren, werden namentlich nur die ersten Ränge genannt.
 
 ## Premium-Features
 
 - Premium-Spieler besitzen je nach Rang bis zu vier Stimmen im Voting-System.
-- Zum Mapvoting kann jederzeit die Liebslingsmap hinzugefügt werden.
+- Zum Mapvoting kann jederzeit die Lieblingsmap hinzugefügt werden.
 - Premium-Spieler erhalten bis zu drei mal mehr Pixel.
 - Werde mit `/togglerank` als normaler Spieler angezeigt.
 

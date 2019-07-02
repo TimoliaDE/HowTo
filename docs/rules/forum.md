@@ -12,12 +12,12 @@ Sämtliche Beleidigungen sind verboten.
 - <u>Eigenwerbung</u>: Eigenwerbung im Forum ist erlaubt, vorausgesetzt, dass diese nicht aufdringlich platziert oder gespammt wird.
 - <u>Serverwerbung</u>: Serverwerbung ist verboten. Selbst das einmalige Senden einer Serveradresse kann und wird als Werbung empfunden und dementsprechend sanktioniert. Das Senden einer IP oder Serveradresse 
 über den privaten Chat ist erlaubt, so lange man niemanden belästigt oder aktiv Werbung betreibt. 
-- <u>Phishing und Betrug</u>: Um Phishing und Betrug vorzubeugen, ist der private Handel auf dem Server in jeglicher Form verboten. Dazu zählen unter anderem der vermeintliche Verkauf von Minecraft-Accounts, kostenlose Angebote
+- <u>Phishing und Betrug</u>: Um Phishing und Betrug vorzubeugen, ist der private Handel auf dem Server und im Forum in jeglicher Form verboten. Dazu zählen unter anderem der vermeintliche Verkauf von Minecraft-Accounts, kostenlose Angebote
 für beispielsweise Optifine-Capes und Ähnliches. Das Abschöpfen von Userdaten wie Passwörter und E-Mails anderer User durch falsche Versprechungen ist eine Straftat und wird zur Anzeige gebracht. Ebenso erfolgt ein
-permanenter Ausschluss vom Timolia Netzwerk. Dazu zählt auch der reine Versuch.
+permanenter Ausschluss vom Timolia-Netzwerk. Dazu zählt auch der reine Versuch.
 
 ### Doppelposts und Spammen von Beiträgen
-Das Spammen von Beiträgen ist verboten und wird bei häufigem Vorkommen geahndet. Des Weiteren sollte die Such-Funktion benutzt werden, bevor ein Beitrag gepostet wird, doppelte Beiträge werden geschlossen oder gelöscht.
+Das Spammen von Beiträgen ist verboten und wird bei häufigem Vorkommen geahndet. Des Weiteren sollte die Suchfunktion benutzt werden, bevor ein Beitrag gepostet wird, doppelte Beiträge werden geschlossen oder gelöscht.
 
 ### Signaturen
 Signaturen dürfen eine maximale Größe von 1500 Zeichen und 15 Zeilen nicht überschreiten. Erlaubt ist die Verwendung von maximal einem GIF oder einer Animation sowie die Verwendung von Bildern und Grafiken. Die Schriftgröße 5 sollte nicht überschritten werden.

@@ -16,7 +16,7 @@ Splun ist eine Kombination aus <strong>Spl</strong>eef und Jump and R<strong>un<
 - <strong>Schwert</strong>: Schlage deine Gegner von der Plattform
 - <strong>Trank</strong>: Fülle deine Gegner ab (Übelkeitseffekt)
 - <strong>Schuhe</strong>: Du kannst schneller rennen
-- <strong>TNT</strong>: Blöcke, die du berührst verwandeln sich in TNT
+- <strong>TNT</strong>: Blöcke, die du berührst, verwandeln sich in TNT
 - <strong>Obsidian</strong>: Alle Gegner erhalten den Blindness-Effekt
 - <strong>Spitzhacke</strong>: Du kannst Blöcke mit der Spitzhacke abbauen
 - <strong>Enderperle</strong>: Du erhältst eine Enderperle
@@ -39,11 +39,11 @@ Splun ist eine Kombination aus <strong>Spl</strong>eef und Jump and R<strong>un<
 | 9 | 16348 | ??? |
 | 10 | 32768 | ??? |
 
-Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren werden namentlich nur die ersten Ränge genannt. 
+Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren, werden namentlich nur die ersten Ränge genannt. 
 
 ## Premium-Features
 - Premium-Spieler besitzen je nach Rang bis zu vier Stimmen im Voting-System.
-- Zum Mapvoting kann jederzeit die Liebslingsmap hinzugefügt werden.
+- Zum Mapvoting kann jederzeit die Lieblingsmap hinzugefügt werden.
 - Premium-Spieler erhalten bis zu drei mal mehr Pixel.
 - Werde mit `/togglerank` als normaler Spieler angezeigt.
 

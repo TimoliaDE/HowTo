@@ -1,6 +1,6 @@
-Alle hier aufgeführten Mods sind vom Timolia Team geprüft und das Spielen mit diesen ist auf dem Timolia Netzwerk erlaubt. Für weitere Infos siehe das [Regelwerk - Games](/rules/games/#2-modifikationen-modshacks-resource-packs-und-minimaps).
+Alle hier aufgeführten Mods sind vom Timolia-Team geprüft und das Spielen mit diesen ist auf dem Timolia-Netzwerk erlaubt. Für weitere Infos siehe das [Regelwerk - Games](/rules/games/#2-modifikationen-modshacks-resource-packs-und-minimaps).
 
-Suche am besten mit der Suchfunktion deines Browsers (**Strg+F**) auf dieser Seite nach der Mod, mit der du spielen möchtest.
+Die folgende Liste ist alphabetisch geordnet. Suche am besten mit der Suchfunktion deines Browsers (**Strg+F**) auf dieser Seite nach der Mod, mit der du spielen möchtest.
 
 - 5zigMod
 - ArmorStatusHUD

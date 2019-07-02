@@ -35,7 +35,7 @@ Administratoren leiten das Netzwerk. Sie kümmern sich um teaminterne und techni
 
 ## Moderatoren
 
-Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen so für ein reibungsloses Spielerlebnis in alle Bereichen. Außerdem dienen sie als erste Ansprechpartner für Supporter.
+Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen so für ein reibungsloses Spielerlebnis in allen Bereichen. Außerdem dienen sie als erste Ansprechpartner für Supporter.
 
 ### <strong><span class='moderator'>Julian_999999999</span></strong>
 - <u>Rang (ingame):</u> Moderator

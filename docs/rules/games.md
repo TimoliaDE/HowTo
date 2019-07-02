@@ -12,7 +12,7 @@ Tastaturen, Mäusen oder Hotkeys für die oben genannten Zwecke. Skinblinker und
 
 Ausgenommen von dieser Regelung sind spielverschönernde Mods wie [OptiFine](https://optifine.net/) oder [Shader](https://www.google.de/#q=Minecraft+Shader),
 sowie die [5zig](https://5zig.net/)- und [LabyMod](https://www.labymod.net/). Eine genaue Liste aller erlaubten Mods findest du [hier](/rules/approvedmods/).
-Solltest du mit einer Mod spielen wollen, die nicht in dieser Liste aufgeführt ist, empfehlen wir dir, den [Timolia Support](/faq/#wer-supportet-mich-wenn-ich-fragen-habe) zu kontaktieren. Die Liste wird regelmäßig geupdated 
+Solltest du mit einer Mod spielen wollen, die nicht in dieser Liste aufgeführt ist, empfehlen wir dir, den [Timolia Support](/faq/#wer-supportet-mich-wenn-ich-fragen-habe) zu kontaktieren. Die Liste wird regelmäßig aktualisiert 
 und angepasst. Mods, die zwar vergleichbare Funktionen wie die hier aufgelisteten Mods anbieten, jedoch nicht in der Liste stehen, sind nicht von uns geprüft und können
 ggf. zu einem Bann führen. Wir raten daher davon ab, diese Mods ungefragt zu verwenden.
 
@@ -20,8 +20,8 @@ ggf. zu einem Bann führen. Wir raten daher davon ab, diese Mods ungefragt zu ve
 Bugusing ist das bewusste Ausnutzen von Spielfehlern, welche im Spiel nicht vorgesehene Folgen haben, und ist selbstverständlich verboten.
 Stattdessen ist es erwünscht, diese Bugs dem Team über den TeamSpeak, im [Forum](https://forum.timolia.de/forums/bug-melden.48/) oder ingame zu melden.
 
-## §4 - Chat, Forum und Ingame Verhalten
-Das Timolia Team erwartet von jedem Spieler ein faires und respektvolles Verhalten. Sowohl ingame, als auch im TeamSpeak.
+## §4 - Chat, Forum und Ingame-Verhalten
+Das Timolia-Team erwartet von jedem Spieler ein faires und respektvolles Verhalten. Sowohl ingame, als auch im TeamSpeak.
 
 ### Abs. 1 - Beleidigungen
 Sämtliche Beleidigungen sind verboten. Das Umgehen des Chatfilters durch Leerzeichen, Satzzeichen o.Ä. ist ebenfalls verboten.
@@ -31,14 +31,14 @@ Sämtliche Beleidigungen sind verboten. Das Umgehen des Chatfilters durch Leerze
 
 ### Abs. 2 - Werbung und Phishing/Betrug
 - <u>Eigenwerbung</u>: Eigenwerbung, in Form von Werbung für den eigenen YouTube-Kanal, TeamSpeak oder Ähnliches, ist verboten. Werbung für den eigenen Livestream ist erlaubt, solange sie nicht gespammt wird.
-Im 1v1 Kit ist Werbung für den eigenen YouTube-Kanal oder Twitteraccount erlaubt.
+Im 1v1-Kit ist Werbung für den eigenen YouTube-Kanal oder Twitteraccount erlaubt.
 - <u>Serverwerbung</u>: Serverwerbung ist verboten. Selbst das einmalige Senden einer Serveradresse kann und wird als Werbung empfunden und dementsprechend sanktioniert. 
-Das Senden einer IP oder Serveradresse über den privaten Chat ist erlaubt, so lange man niemanden belästigt oder aktiv Werbung betreibt.
+Das Senden einer IP oder Serveradresse über den privaten Chat ist erlaubt, solange man niemanden belästigt oder aktiv Werbung betreibt.
 - <u>Phishing und Betrug</u>: Um Phishing und Betrug vorzubeugen, ist der private Handel auf dem Server in jeglicher Form verboten.
 Dazu zählen unter anderem der vermeintliche Verkauf von Minecraft-Accounts, kostenlose Angebote für beispielsweise Optifine-Capes und Ähnliches.
-Das Abschöpfen von Userdaten wie Passwörter und E-Mails anderer User durch falsche Versprechungen ist eine Straftat und wird zur Anzeige gebracht. Ebenso erfolgt ein permanenter Ausschluss vom Timolia Netzwerk.
+Das Abschöpfen von Userdaten wie Passwörter und E-Mails anderer User durch falsche Versprechungen ist eine Straftat und wird zur Anzeige gebracht. Ebenso erfolgt ein permanenter Ausschluss vom Timolia-Netzwerk.
 Dazu zählt auch der reine Versuch.
-- <u>Turnierwerbung in 1vs1</u>: Das Werben für ein Turnier durch jegliche Art von Gewinnen mit materiellem Wert ist verboten. Dazu zählt unter Anderem das Versprechen von Paysafecards oder Minecraft Accounts bei Turniergewinn.
+- <u>Turnierwerbung in 1vs1</u>: Das Werben für ein Turnier durch jegliche Art von Gewinnen mit materiellem Wert ist verboten. Dazu zählt unter anderem das Versprechen von Paysafecards oder Minecraft-Accounts bei Turniergewinn.
 
 ### Abs. 3 - Skins und Usernamen
 Anstößige, beleidigende, rassistische oder nationalsozialistische Skins und Usernamen sind verboten. Dazu zählen zum Beispiel Nacktskins, Hitlerskins und auch Capes mit entsprechenden Symbolen.
@@ -54,12 +54,12 @@ Das Boosten seiner Stats in den verschiedenen Spielmodi durch die Anwendung unfa
 - <u>Crash-Kits</u>: Als Crash-Kits werden 1v1-Kits bezeichnet, welche den Minecraft-Client eines Spielers “einfrieren” lassen, zum Absturz bringen oder verhindern, dass Spieler auf dem Server spielen können. 
 Sämtliche Kits dieser Art sind auf Timolia verboten.
 - <u>Kosmetische Kits</u>:
-Als kosmetische Kits werden 1v1-Kits bezeichnet, welche mit einem modifiziertem Minecraft-Client erstellt wurden und Veränderungen an Eigenschaften von Effekten, Eigenschaften der Items und die Veränderung 
+Als kosmetische Kits werden 1v1-Kits bezeichnet, welche mit einem modifizierten Minecraft-Client erstellt wurden und Veränderungen an Eigenschaften von Effekten, Eigenschaften der Items und die Veränderung 
 der Anzahl der Herzen beinhalten, die man nicht mit einem unveränderten Minecraft-Client bewirken kann. Sämtliche Kits dieser Art sind ebenfalls verboten und werden von uns gelöscht. 
 Sollte ein User ein gelöschtes Kit erneut erstellen und benutzen, wird dies mit einem Bann geahndet.
 
 ## §8 - JumpWorld
-Die allgemeinen Timolia Regeln gelten auch für erstellte Welten in JumpWorld. So sind jegliche Arten von rassistischen, anstößigen oder beleidigenden Bauwerken, Weltnamen oder Formulierungen auf Schildern verboten.
+Die allgemeinen Timolia-Regeln gelten auch für erstellte Welten in JumpWorld. So sind jegliche Arten von rassistischen, anstößigen oder beleidigenden Bauwerken, Weltnamen oder Formulierungen auf Schildern verboten.
 
 ## §9 - 4rena
 - <u>Teaming</u>: Teams sind in 4rena verboten. Wenn ein Team durch einen Supporter verwarnt wird und weiterhin teamt, werden sämtliche Teammitglieder gekickt oder gebannt. Sollte ein Team im Forum reportet werden,
@@ -77,7 +77,7 @@ Bei wiederholtem Vorkommen kann es auch hier zu einem Bann kommen.
 ## §12 - Castles
 Teaming über die Teamgrenzen hinaus (sog. Crossteaming) ist verboten. Das vorsätzliche Behindern der eigenen Teammitglieder in Form von Golddiebstahl, 
 Zerstören eigener Strukturen, untaktischem Spawntrapping und anderen etwaigen Methoden, welche den üblichen Spielfluss hindern, ist ebenfalls verboten
-und wird entsprechend sanktioniert. Als untaktisch wird Spawntrapping dann bezeichnet, wenn man keine Flagge in der Base der gespawntrappten Gegner aufheben
+und wird entsprechend sanktioniert. Als untaktisch wird Spawntrapping dann bezeichnet, wenn man keine Flagge in der Basis der gespawntrappten Gegner aufheben
 kann beziehungsweise die Gegner länger als fürs Stehlen der Flagge nötig tötet.
 
 ## §13 - Mineception
@@ -95,7 +95,7 @@ Teaming über die Teamgrenzen hinaus (sog. Crossteaming) ist verboten. Auch das 
  Wurde man allerdings zwei Mal aufgrund von Hacks gebannt, so besteht für einen Spieler keinerlei Chance mehr, entbannt zu werden.
 - <u>Bannverkürzung</u>: Ab einem Zeitraum von mindestens 10 Tagen hat jeder User das Recht, im Forum einen Antrag auf Bannverkürzung zu stellen.
 Solltest du keinen Account für unser Forum haben, kannst du dich auf dem Minecraft-Server `register.timolia.de` für dieses registrieren.
-Alternativ kannst du im Hilfechannel des [TeamSpeaks](/teamspeak/) deine Entschuldigung einem Teammitglied senden, welches deine Entschuldigung stellvertretend für dich im Forum postet.
+Alternativ kannst du im Hilfechannel des [TeamSpeaks](/teamspeak/) deine Entschuldigung einem Teammitglied senden, welches diese stellvertretend für dich im Forum postet.
 - <u>Bannumgehung</u>: Das Umgehen von Banns mit einem Zweitaccount ist auf Timolia verboten.
 Als "gebannt" werden der Account, die Person, welche den Account nutzt, und die zu diesem Zeitpunkt verwendete Adresse angesehen.
 Wird eine Bannumgehung nachgewiesen, verjährt der ursprüngliche Bann einen Monat langsamer, eine Entschuldigung/Entbannung ist also erst 30 Tage später als bisher möglich. 

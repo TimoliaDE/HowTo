@@ -6,13 +6,13 @@ Arten dem Team melden kannst:
 ### Das Reportsystem
 Mit ein paar einfachen Befehlen kannst du einen Spieler dem Team melden, wenn dieser einen Regelverstoß begeht. Für Hacking, Teaming und
 Bugusing gibt es sogenannte <strong>Livereports</strong>, sollte ein Spieler sich im Chat nicht benehmen können oder Werbung machen, werden mit einem
-<strong>Chatreport</strong> alle öffentliche Nachrichten des Beschuldigten aufgezeichnet. Bitte beachte, dass MSGs von uns zum Schutz eurer Privatsphäre
+<strong>Chatreport</strong> alle öffentlichen Nachrichten des Beschuldigten aufgezeichnet. Bitte beachte, dass MSGs von uns zum Schutz eurer Privatsphäre
 nicht aufgezeichnet werden. Sollte ein Spieler dich über das MSG-System belästigen, kannst du dies mit einem Screenshot oder einem Video des vollständigen
 Minecraft-Fensters im Forum reporten.
 
 | Befehl | Funktion |
 | ------ | -------- |
-| `/report <Spieler>`, `/rp`, `/chatreport`, `/chatrp`, `/chatlog`, `/cl`, `/livereport`, `/liverp`, `/teamingreport`, `teamrp` | Erstellt nach Auswählen der Kategorie einen Report |
+| `/report <Spieler>`, `/rp`, `/chatreport`, `/chatrp`, `/chatlog`, `/cl`, `/livereport`, `/liverp`, `/teamingreport`, `/teamrp` | Erstellt nach Auswählen der Kategorie einen Report |
 | `/reportjnr <ID>`               | Erstellt einen Report über ein Jump and Run in Jump World |
 | `/reportbugusing <Spieler> <Beschreibung>` | Erstellt einen Bugusingreport |
 | `/reportevidence <Spieler> <Beweis>` | Erstellt einen Report mit Beweis |
@@ -38,7 +38,7 @@ allerdings sind die Banntage bei uns weiterhin vermerkt. Verstößt man wieder g
 
 Da sich Spieler verändern, ihre Fehler einsehen und sich bessern können, gibt es die sogenannte <strong>Bannverjährung</strong>. Diese sorgt dafür, dass die vermerkten Tage nicht dauerhaft bleiben, sondern sich Stück für Stück abbauen. Sinkt durch die Bannverjährung die Summe der Banntage auf 30 oder weniger, kann man wieder auf Timolia spielen.
 Die Bannverjährung tritt <strong>6 Monate</strong> nach dem Zeitpunkt des Banns ein. Ab dann werden jeden Monat <strong>3 Banntage</strong> von dem entsprechenden Bann abgezogen.
-Wurde man also für 30 Tage gebannt, sind nach 7 Monaten noch 27 Tage vermerkt, nach 8 noch 24 Tage und nach 16 Monaten ist der Bann komplett verjährt.
+Wurde man also für 30 Tage gebannt, sind nach 7 Monaten noch 27 Tage vermerkt, nach 8 Monaten noch 24 Tage und nach 16 Monaten ist der Bann komplett verjährt.
 
 [**Hier** kannst du dich entschuldigen](https://forum.timolia.de/forums/entschuldigungen.49/) und [**hier** meldest du dich, wenn du zu unrecht gebannt wurdest](https://forum.timolia.de/forums/zu-unrecht-gebannt.122/).
 

@@ -1,5 +1,5 @@
 # Premium-Ränge
-Da Timolia sich ausschließlich durch die Community finanziert, sind wir für jede Spende von Dir dankbar. Da du nicht ganz grundlos dein
+Da sich Timolia ausschließlich durch die Community finanziert, sind wir für jede Spende von Dir dankbar. Da du nicht ganz grundlos dein
 Geld für einen Minecraft-Server ausgeben sollst, bekommst du als Gegenleistung einen speziellen Rang auf unserem Netzwerk!
 Die Ränge sind in unserem Shop erhältlich, diesen kannst du unter [https://www.timolia.de/shop](https://www.timolia.de/shop) erreichen.
 
@@ -11,7 +11,7 @@ Diese Features stehen dir mit deinem Rang zur Verfügung:
 | Dauer                                  | LIFETIME                                  | LIFETIME                                  | LIFETIME                                | LIFETIME                                 | LIFETIME                                  |
 | Rangfarbe                              | &check;                                   | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
 | Volle Server betreten*                 | &check;                                   | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
-| Zugang zur Premium Lobby               | &check;                                   | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
+| Zugang zur Premium-Lobby               | &check;                                   | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
 | TeamSpeak-Rang                         | &check;                                   | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
 | Forenrang                              | &check;                                   | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
 | Discord-Rang                           | &check;                                   | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
@@ -29,7 +29,7 @@ Diese Features stehen dir mit deinem Rang zur Verfügung:
 | 1vs1: serverweite Turniere erstellen   | -                                         | -                                         | -                                       | &check;                                  | &check;                                   |
 | Öffentliche Partys erstellen           | -                                         | -                                         | -                                       | &check;                                  | &check;                                   |
 | X-fach Pixel                           | 1                                         | 1,5                                       | 2                                       | 2,5                                      | 3                                         |
-| Gratis Pixelbooster                    | 1                                         | 2                                         | 3                                       | 5                                        | 10                                        | 
+| Gratis-Pixelbooster                    | 1                                         | 2                                         | 3                                       | 5                                        | 10                                        | 
 | Mapvoting: Stimmen                     | 1,5                                       | 2                                         | 2,5                                     | 3                                        | 4                                         |
 | 1vs1: Kitanzahl                        | 1                                         | 2                                         | 3                                       | 4                                        | 5                                         |
 | 1vs1: Map-Slots                        | 1                                         | 2                                         | 3                                       | 4                                        | 5                                         |
@@ -38,30 +38,30 @@ Diese Features stehen dir mit deinem Rang zur Verfügung:
 | JumpWorld: Map-Slots                   | 1                                         | 2                                         | 2                                       | 2                                        | 3                                         |
 | JumpWorld: Entities platzieren         | 32                                        | 48                                        | 64                                      | 96                                       | 128                                       |
 | Arcade: Lieblingsspiele auswählen      | 1                                         | 2                                         | 2                                       | 2                                        | 3                                         |
-| Exklusive Pixelshop Items              | 27                                        | 31                                        | 48                                      | 54                                       | 64                                        |
+| Exklusive Pixelshop-Items              | 27                                        | 31                                        | 48                                      | 54                                       | 64                                        |
 
 *Alle Infos zum Kick-System findest du [hier](/faq/#wie-funktioniert-das-kick-system).
 
 ### Gutscheine und Pixelbooster
 Neben den Premium-Rängen kannst du in unserem Shop auch [Gutscheine](https://shop.timolia.de/#Gifts) und [Pixelbooster](https://shop.timolia.de/#Pixel) erhalten.    
 
-Mit unseren **Gutscheinen** können alle Ränge und Pixelbooster im Shop erworben werden. Sie sind außerdem frei mit anderen Gutscheinen und Zahlungsarten kombinierbar und können auch über mehrere Zahlungsvorgänge hinweg in unserem Buycraft System verwendet werden, sollten sie nicht in der ersten Zahlung vollständig verwendet werden.
-Die gekauften Gutscheine werden von uns per Email versendet und können somit sowohl digital als auch frisch ausgedruckt überreicht werden.    
+Mit unseren **Gutscheinen** können alle Ränge und Pixelbooster im Shop erworben werden. Sie sind außerdem frei mit anderen Gutscheinen und Zahlungsarten kombinierbar und können auch über mehrere Zahlungsvorgänge hinweg in unserem Buycraft-System verwendet werden, sollten sie nicht in der ersten Zahlung vollständig verwendet werden.
+Die gekauften Gutscheine werden von uns per E-Mail versendet und können somit sowohl digital als auch frisch ausgedruckt überreicht werden.    
 
-Mit **Pixelboostern** multipliziert ihr nicht nur die Anzahl der Pixel, die ihr selbst verdient, sondern ebenso die eurer Freunde und Mitspieler in gemeinsamen Runden. Einmal gekauft könnt ihr die Pixelbooster ingame im Pixelshop unter euren Items aktivieren. Die Dauer und Stärke hängen dabei davon ab, für welchen Booster ihr euch beim Kauf entschieden habt - bei der gegebenen Auswahl ist aber sicher für jeden was dabei!
+Mit **Pixelboostern** multipliziert ihr nicht nur die Anzahl der Pixel, die ihr selbst verdient, sondern ebenso die eurer Freunde und Mitspieler in gemeinsamen Runden. Einmal gekauft könnt ihr die Pixelbooster ingame im Pixelshop unter euren Items aktivieren. Dauer und Stärke hängen hierbei davon ab, für welchen Booster ihr euch beim Kauf entschieden habt - bei der gegebenen Auswahl ist aber sicher für jeden etwas dabei!
 Nun bleibt noch die Frage, was passiert, wenn ihr schon einen Rang auf Timolia habt: Ganz einfach! Ihr bekommt zusätzlich zu euren durch den Rang erhöhten Pixeln noch die Pixel des Boosters dazu addiert, ihr könnt also mehr Pixel als je zuvor verdienen.
 
 ### Die Zahlungsmöglichkeiten
-Timolia kannst du entweder per BuyCraft (PayPal, Paysafecard, Überweisung) oder Nitrado (Paysafecard, Sofort-Überweisung, uvm.) mit einer Spende
+Timolia kannst du entweder per Buycraft (PayPal, Paysafecard, Überweisung) oder Nitrado (Paysafecard, Sofort-Überweisung, uvm.) mit einer Spende
 unterstützen. Zahlungen per Buycraft werden direkt auf dem Server umgesetzt. Die Spenden per Nitrado müssen manuell bearbeitet werden und sind 
 daher ca. 1-24 Stunden nachdem du die Spende getätigt hast auf dem Server verfügbar. **Spenden mit mehreren Paysafecards müssen über Nitrado getätigt werden**.
 
-Klicke [<strong>hier</strong>, um über BuyCraft zu spenden](https://shop.timolia.de/).
+Klicke [<strong>hier</strong>, um über Buycraft zu spenden](https://shop.timolia.de/).
 
-#### Nitrado
+### Nitrado
 **Wichtig für Spenden über Nitrado**: Spenden per Nitrado müssen manuell bearbeitet werden und können deshalb bis zu 24 Stunden dauern.
 
-Damit du über Nitrado spenden kannst, benötigst du ein eigenes Nitrao-Konto. Dieses kannst du dir [**hier** auf der offiziellen Nitrado-Website einrichten](https://nitra.do/timolia-minecraft). Sobald du eingeloggt bist, kannst du im oberen Menü "Spenden" auswählen.
+Um über Nitrado spenden zu können, benötigst du ein eigenes Nitrado-Konto. Dieses kannst du dir [**hier** auf der offiziellen Nitrado-Webseite einrichten](https://nitra.do/timolia-minecraft). Sobald du eingeloggt bist, kannst du im oberen Menü "Spenden" auswählen.
 
 Gib als **Empfänger** bitte Timolia an. Damit wir deine Spende auch korrekt zuordnen und verarbeiten können, teile uns im **Verwendungszweck** bitte noch folgende Daten mit:
 
@@ -86,7 +86,7 @@ nicht da sein, melde dich bitte in einem unserer Hilfechannel. Nach ein paar Ang
 Da dieser Vorgang manuell vorgenommen werden muss, kann dies ebenfalls ein paar Stunden in Anspruch nehmen.
 
 ### Behalte ich meinen Rang nach einer Namensänderung?
-Da bei einer Spende nicht nur der Name, sondern auch UUID gespeichert werden, bleibt dein Rang auch nach einer Namensänderung erhalten.
+Da bei einer Spende nicht nur der Name, sondern auch die UUID gespeichert wird, bleibt dein Rang auch nach einer Namensänderung erhalten.
 Bitte gib jedoch immer deinen aktuellen Namen an, um Komplikationen zu vermeiden!
 
 ### Kann ich meinen Rang übertragen?

@@ -8,15 +8,15 @@ In JumpWorld können verschiedenste Jump and Runs gespielt, aber auch selbst erb
 - Solltest du ein bestimmtes Jump and Run spielen wollen, nutze den Befehl `/enter <ID>`
 - Mit `/duel invite <Spieler>` oder mit einem Linksklick mit dem Schwert forderst du einen Spieler zu einem Duell heraus
 - Das Jump and Run des Tages erreichst du über das Portal in der JumpWorld-Lobby
-- Das Ziel jedes Parcours ist eine goldene Druckplatte, eiserne Druckplatten sind Checkpoints
-- Wenn du ein Jump and Run betrittst befinden sich mehrere Items in deinem Inventar. Mit dem roten Farbstoff wirst du zum letzten Checkpoint zurück teleportiert.
+- Das Ziel jedes Parkours ist eine goldene Druckplatte, eiserne Druckplatten sind Checkpoints
+- Wenn du ein Jump and Run betrittst, befinden sich mehrere Items in deinem Inventar. Mit dem roten Farbstoff wirst du zum letzten Checkpoint zurück teleportiert
 - Mit dem zweiten Item in deinem Inventar kannst du die Sichtbarkeit der Spieler einstellen
-- Am Ende eines Jump and Runs kannst du den Parcours in insgesamt drei Kategorien bewerten
-- Solltest du ein Jump and Run begutachten wollen, kannst du mit `/spec` den Flugmodus aktivieren
+- Am Ende eines Jump and Runs kannst du den Parkour in insgesamt drei Kategorien bewerten (Kreativität/Sprünge/Optik)
+- Solltest du ein Jump and Run begutachten wollen, kannst du mit `/spec` den Flugmodus aktivieren, das Jump and Run jedoch nicht mehr beenden
 
 ## Das Jump and Run des Tages
-Täglich wird ein Jump and Run des Tages gekürt.
-Um das Jump and Run des Tages von Tag X zu werden:
+Täglich wird ein Parkour zum Jump and Run des Tages gekürt.
+Um sogenannter Tagessieger zu werden:
 
 - veröffentlicht von 20 Uhr Tag X-4 bis 20 Uhr Tag X-1
 - geschafft von mindestens 10% aller Spieler, die es versucht haben
@@ -27,9 +27,9 @@ Um das Jump and Run des Tages von Tag X zu werden:
 - Mit dem Feuerwerksstern in deinem Inventar kannst du einen Bauslot auswählen. Sofern andere Spieler mitbauen sollen, musst du diese zuvor in ein Duell einladen.
 - Du kannst zwischen verschiedenen Standard-Welten wählen oder in einem Void deine eigene Welt kreieren.
 - Mit `/b` kannst du dir Specialblöcke geben lassen, Portale und Effektdruckplatten kannst du mit einem Rechtsklick bearbeiten.
-- Mit `/setstart` kannst du den Startpunkt deines Parcours festlegen, mit `/setblock` kannst du unter dir einen Block setzen.
-- Um dein Jump and Run veröffentlichen zu können musst du dieses vorher ein Mal selbst geschafft haben. Wähle dazu im jeweiligen Bauslot "JnR durchlaufen" aus.
-- Im Baumenü kannst du deinem Parcours einen Namen geben.
+- Mit `/setstart` kannst du den Startpunkt deines Parkours festlegen, mit `/setblock` kannst du unter dir einen Block setzen.
+- Um dein Jump and Run veröffentlichen zu können, musst du dieses vorher ein Mal selbst geschafft haben. Wähle dazu im jeweiligen Bauslot "JnR durchlaufen" aus.
+- Im Baumenü kannst du deinem Parkour einen Namen geben.
 
 ## Premium-Features
 - Premium-Spieler erhalten bis zu drei mal mehr Pixel.

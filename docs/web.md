@@ -7,7 +7,7 @@ Dieser Code ändert sich alle 30 Sekunden.
 # 2 - Registrierung
 Für das Forum kannst du dich in wenigen Schritten ingame registrieren.
 
-- Per `/register <E-Mail>` kannst du deine E-Mail Adresse mit deinem Account verbinden
+- Per `/register <E-Mail>` kannst du deine E-Mail-Adresse mit deinem Account verbinden
 - In deinem Postfach befindet sich innerhalb von ein paar Minuten eine E-Mail von Timolia, diese kann ab und an auch im Spam-Ordner landen
 - Über den Link in der E-Mail kannst du ein Passwort für deinen Account setzen, danach kannst du die Webseite und das Forum benutzen
 - Solltest du gebannt sein, kannst du dich auf den Minecraft-Server `register.timolia.de` verbinden und dort die Registrierung durchführen
@@ -21,7 +21,7 @@ Für das Forum kannst du dich in wenigen Schritten ingame registrieren.
 - Per Barcode-Scanner kannst du einen neuen Eintrag hinzufügen
 - Alternativ kann der Eintrag auch manuell durch die Eingabe des "Secrets" eingetragen werden
 - Der generierte Code ändert sich alle 30 Sekunden
-- Um die 2fa endgültig zu aktivieren musst du den Code auf unserer Homepage eingeben
+- Um die 2fa endgültig zu aktivieren, musst du den Code auf unserer Homepage eingeben
 
 Sollten Fragen auftreten, steht das Timolia-Team zur Verfügung.
 
@@ -49,7 +49,7 @@ Alternativ kannst du im Hilfechannel des [TeamSpeaks](/teamspeak/) deinen Text e
 
 Da sich Spieler verändern, ihre Fehler einsehen und sich bessern können, gibt es die sogenannte <strong>Bannverjährung</strong>. Diese sorgt dafür, dass die vermerkten Tage nicht dauerhaft bleiben, sondern sich Stück für Stück abbauen. Sinkt durch die Bannverjährung die Summe der Banntage auf 30 oder weniger, kann man wieder auf Timolia spielen.
 Die Bannverjährung tritt <strong>6 Monate</strong> nach dem Zeitpunkt des Banns ein. Ab dann werden jeden Monat <strong>3 Banntage</strong> von dem entsprechenden Bann abgezogen.
-Wurde man also für 30 Tage gebannt, sind nach 7 Monaten noch 27 Tage vermerkt, nach 8 noch 24 Tage und nach 16 Monaten ist der Bann komplett verjährt.
+Wurde man also für 30 Tage gebannt, sind nach 7 Monaten noch 27 Tage vermerkt, nach 8 Monaten noch 24 Tage und nach 16 Monaten ist der Bann komplett verjährt.
 
 [**Hier** kannst du dich entschuldigen](https://forum.timolia.de/forums/entschuldigungen.49/) und [**hier** meldest du dich, wenn du zu unrecht gebannt wurdest](https://forum.timolia.de/forums/zu-unrecht-gebannt.122/).
 
