@@ -10,7 +10,7 @@ aus dem Gefängnis auf eurer Spawninsel befreien! Um sie zu dir zu rufen, kannst
 - Stimme mit `/vote <Map>` oder einem Klick im Chat für die Map deiner Wahl.
 - Ziel des Spiels ist es, alle gegnerischen Mannschaften zu eliminieren. 
 - Eine Mannschaft ist ausgeschieden, sobald sich alle Spieler dieses Teams gleichzeitig im Gefängnis befinden und sich somit nicht mehr gegenseitig befreien können. 
-- Ist nur noch ein Team auf freiem Fuße, endet das Spiel - solange niemand einen “Du kommst aus dem Gefängnis frei!-Chip" hat, versteht sich. Was genau es damit auf sich hat, findest du in der Itemerklärung.
+- Ist nur noch ein Team auf freiem Fuße, endet das Spiel - solange niemand einen “Du kommst aus dem Gefängnis frei!"-Chip hat, versteht sich. Was genau es damit auf sich hat, findest du in der Itemerklärung.
 - Um Ausrüstung für die Kämpfe zu erhalten, musst du dir diese im Shop (der Netherstar in deinem Inventar oder /shop) kaufen. Die dazu nötigen Items spawnen rund um die Redstonefackeln.
 - Jedes Team hat zu Beginn des Spiels eine Redstonefackel in seiner Base.
 - In unregelmäßigen Abständen spawnen in der Mitte der Map neue Fackeln, die abgebaut und in die eigene Basis gebracht werden können.
