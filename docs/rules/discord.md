@@ -37,4 +37,4 @@ Privatnachrichten liegen außerhalb unseres Servers und damit unserer Zuständig
 
 <strong>Das Team behält sich das Recht vor, bestimmtes Handeln zu sanktionieren, welches nicht explizit in den Regeln aufgelistet ist.</strong>
 
-Letzte Aktualisierung: 19. April 2019
+Letzte Aktualisierung: 02. Juli 2019
