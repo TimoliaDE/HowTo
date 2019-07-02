@@ -29,7 +29,7 @@ Die Kosten eines privaten Channels belaufen sich <strong>pro Monat auf <u>2.500 
 ## Wie erhalte ich ein Channel-Icon?
 - Ein Channel-Icon kostet monatlich 750 Pixel.
 - Die maximale Laufzeit entspricht der Channellaufzeit.
-- **Achtung!** Die Icon-Laufzeit wird an den Channel angepasst. Es kann also passieren, dass man den **vollen** Icon-Preis für einen ganzen Monat zahlt, sein Icon jedoch nur
+- **Achtung!** Die Icon-Laufzeit wird an den Channel angepasst. Ergo kann es passieren, dass man den **vollen** Icon-Preis für einen ganzen Monat zahlt, sein Icon jedoch nur
 einen halben Monat besitzt, da der Channel **vorher ausläuft**. Es ist daher ratsam, immer zunächst den Channel zu verlängern und dann das Icon zu kaufen.
 - Als Channel-Icon kann ausschließlich der Kopf des Minecraft-Skins dienen - kein eigens erstelltes Icon.
 
