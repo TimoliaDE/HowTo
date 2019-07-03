@@ -87,7 +87,7 @@ Achievements kann man während des Spielens auf Timolia abschließen. Eine Über
 - Bottom: 334CB2
 
 ### Woher bekomme ich die 5zig/LabyMod Capes?
-- LabyMod: [https://imgur.com/a/cc5Ou](https://imgur.com/a/cc5Ou)
+- LabyMod: [https://imgur.com/a/cc5Ou](https://imgur.com/a/cc5Ou) und [https://imgur.com/a/08ghXiI](https://imgur.com/a/08ghXiI)
 - 5zig: [https://imgur.com/a/RXBwvGo](https://imgur.com/a/RXBwvGo)
 
 # 2 - Games
