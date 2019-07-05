@@ -6,7 +6,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 | SorgenKind_LP  | <span class='user'>Spieler</span> | <span class='builder'>Builder</span> | 04.07.19 |
-| Athenja | <span class='pro'>Pro</span> | <span class='builder'>Builder</span> | 04.07.19 |
+| Athenja | <span class='pro'>Pro</span> | <span class='builder'>Builderin</span> | 04.07.19 |
 | 168x12 | <span class='expert'>Expert</span> | <span class='builder'>Builder</span> | 04.07.19 |
 
 ###  <strong>Juni</strong>
