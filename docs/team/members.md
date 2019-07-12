@@ -138,7 +138,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span class='supporter'>ferdedelino</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Community-Discord
+- <u>Nebenverantwortlich:</u> Community-Discord, Zu Unrecht gebannt Forum
 
 ### <strong><span class='supporter'>Hiics</span></strong>
 - <u>Rang (ingame):</u> Supporter
