@@ -5,6 +5,8 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Juli</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| Todbringender  | <span class='builder'>Builder</span> | <span class='mvp'>Native MVP</span> | 14.07.19 |
+| engiwuck  | <span class='supporter'>Supporter</span> | <span class='expert'>Native Expert</span> | 05.07.19 |
 | SorgenKind_LP  | <span class='user'>Spieler</span> | <span class='builder'>Builder</span> | 04.07.19 |
 | Athenja | <span class='pro'>Pro</span> | <span class='builder'>Builderin</span> | 04.07.19 |
 | 168x12 | <span class='expert'>Expert</span> | <span class='builder'>Builder</span> | 04.07.19 |
