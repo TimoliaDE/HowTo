@@ -1,4 +1,4 @@
-Das Timolia-Team besteht aktuell aus insgesamt 53 Mitgliedern.  
+Das Timolia-Team besteht aktuell aus insgesamt 52 Mitgliedern.  
 Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbereichen.
 
 
@@ -188,10 +188,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ### <strong><span class='builder'>\_CrystalSky\_</span></strong>
 - <u>Rang (ingame):</u> Builder
 - <u>Hauptverantwortlich:</u> Management des Bauteams
-
-### <strong><span class='builder'>12Build</span></strong>
-- <u>Rang (ingame):</u> Builder
-- <u>Nebenverantwortlich:</u> Map-Einsendungen
 
 ### <strong><span class='builder'>168x12</span></strong>
 - <u>Rang (ingame):</u> Builder
