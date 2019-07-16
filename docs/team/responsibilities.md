@@ -47,7 +47,6 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span class='supporter'>InfiniteNiki</span> | Nebenverantwortlich |
 |<span class='supporter'>J4mpr0</span> | Nebenverantwortlich |
 |<span class='supporter'>RodspamExpertRU</span> | Nebenverantwortlich |
-|<span class='builder'>12Build</span> | Nebenverantwortlich |
 |<span class='builder'>B3artastic</span> | Nebenverantwortlich |
 
 ### **Spieler melden**
