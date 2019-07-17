@@ -1,4 +1,4 @@
-Das Timolia-Team besteht aktuell aus insgesamt 52 Mitgliedern.  
+Das Timolia-Team besteht aktuell aus insgesamt 51 Mitgliedern.  
 Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbereichen.
 
 
@@ -135,10 +135,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span class='supporter'>ferdedelino</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Community-Discord, Zu Unrecht gebannt Forum
-
-### <strong><span class='supporter'>Hiics</span></strong>
-- <u>Rang (ingame):</u> Supporter
+- <u>Nebenverantwortlich:</u> Community-Discord, Timolia Turnier Organisation, Zu Unrecht gebannt Forum
 
 ### <strong><span class='supporter'>InfiniteNiki</span></strong>
 - <u>Rang (ingame):</u> Supporter
