@@ -170,6 +170,7 @@ Dieses Team entscheidet über die Turniereinstellungen bei den Freitagsturnieren
 |<span class='moderator'>medicoo</span> | Hauptverantwortlich |
 | | |
 |<span class='moderator'>physanus</span> | Nebenverantwortlich |
+|<span class='supporter'>ferdedelino</span> | Nebenverantwortlich |
 
 ### **Broadcasts**
 Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadcast Mitteilungen gekümmert.

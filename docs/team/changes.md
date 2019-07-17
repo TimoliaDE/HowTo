@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Juli</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| Hiics | <span class='supporter'>Supporter</span> | <span class='mvp'>Native MVP</span> | 17.07.19 |
 | 12Build  | <span class='builder'>Builder</span> | <span class='expert'>Native Expert</span> | 16.07.19 |
 | Todbringender  | <span class='builder'>Builder</span> | <span class='expert'>Native Expert</span> | 14.07.19 |
 | engiwuck  | <span class='supporter'>Supporter</span> | <span class='expert'>Native Expert</span> | 05.07.19 |
