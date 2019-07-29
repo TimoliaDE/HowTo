@@ -44,7 +44,6 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span class='supporter'>BowspamExpertDE</span> | Hauptverantwortlich |
 | | |
 |<span class='administrator'>svdragster</span> | Nebenverantwortlich |
-|<span class='supporter'>InfiniteNiki</span> | Nebenverantwortlich |
 |<span class='supporter'>J4mPr0</span> | Nebenverantwortlich |
 |<span class='supporter'>RodspamExpertRU</span> | Nebenverantwortlich |
 |<span class='builder'>B3artastic</span> | Nebenverantwortlich |
@@ -158,7 +157,6 @@ Der Community-Discord von Timolia ist unter [https://timolia.de/discord](https:/
 |<span class='moderator'>Julian_999999999</span> | Nebenverantwortlich |
 |<span class='supporter'>Chrissi1505</span> | Nebenverantwortlich |
 |<span class='supporter'>ferdedelino</span> | Nebenverantwortlich |
-|<span class='supporter'>InfiniteNiki</span> | Nebenverantwortlich |
 |<span class='supporter'>Sterax</span> | Nebenverantwortlich |
 
 ### **Timolia Turnier Organisation**
