@@ -115,7 +115,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | Hiics | <span class='user'>Spieler</span> | <span class='builder'>Builder</span> | 27.11.18 |
 | logito111 | <span class='developer'>Developer</span> | <span class='mvp'>Native MVP</span> | 12.11.18  |
 | Yeiel2 | <span class='user'>Spieler</span> | <span class='builder'>Builder</span> | 11.11.18  |
-| Naachtara | <span class='supporter'>Supporter</span> | <span class='expert'>Native Expert</span> | 10.11.18 |
+| Naachtara | <span class='supporter'>Supporter</span> | <span class='expert'>Expert</span> | 10.11.18 |
 | Jukplays | <span class='builder'>Builder</span> | <span class='expert'>Native Expert</span> | 09.11.18 |
 | Tobiocus | <span class='supporter'>Supporter</span> | <span class='expert'>Native Expert</span> | 08.11.18 |
 | \_Geizhals_ | <span class='builder'>Builder</span> | <span class='expert'>Native Expert</span> | 03.11.18 |
