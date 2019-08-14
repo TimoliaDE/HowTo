@@ -36,7 +36,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/ptime <day/night/midnight/sunrise/noon/afternoon/sunset/reset/hh:mm>` | Zeit für sich selbst umstellen |
 | `/pweather <sun/rain/reset>`    | Wetter für sich selbst umstellen |
 [<span class= 'expert'>Expert</span>](/ranks/premium/) only:
-| `/giftpremium <Spieler>`        | Verschenke ein Mal im Monat 3 Tage Pro an einen Spieler |
+| `/giftpremium <Spieler>`        | Verschenke einmal im Monat 3 Tage Pro an einen Spieler |
 | [<span class='mvp'>VIP</span>](/ranks/youtube/) only: | |
 | `/nick`                         | Ermöglicht es dir, dich zu nicken |
 | `/unnick`                       | Ermöglicht es dir, dich zu entnicken |
