@@ -35,6 +35,8 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/togglerank`, `/tr`            | Werde in allen Spielmodi als normaler Spieler angezeigt |
 | `/ptime <day/night/midnight/sunrise/noon/afternoon/sunset/reset/hh:mm>` | Zeit für sich selbst umstellen |
 | `/pweather <sun/rain/reset>`    | Wetter für sich selbst umstellen |
+[<span class= 'expert'>Expert</span>](/ranks/premium/) only:
+| `/giftpremium <Spieler>`        | Verschenke ein Mal im Monat 3 Tage Pro an einen Spieler |
 | [<span class='mvp'>VIP</span>](/ranks/youtube/) only: | |
 | `/nick`                         | Ermöglicht es dir, dich zu nicken |
 | `/unnick`                       | Ermöglicht es dir, dich zu entnicken |
@@ -44,6 +46,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/nick`                         | Ermöglicht es dir, dich zu nicken |
 | `/unnick`                       | Ermöglicht es dir, dich zu entnicken |
 | `/vanish`, `/v`                 | Ermöglicht es dir, dich in 1vs1, Jumpworld und in den Lobbies unsichtbar zu machen |
+| `/giftpremium <Spieler>`        | Verschenke 3 Tage Pro an einen Spieler |
 
 ### Reportsystem
 
