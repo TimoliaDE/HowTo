@@ -17,6 +17,7 @@
 - Eine eigene JumpWorld-Lobby wird für YouTuber zur Verfügung gestellt.
 - YouTuber können bei Spielen mit einem Voting-System den Befehl `/forcemap` benutzen.
 - YouTuber können zum Starten eines Spieles `/start` verwenden.
+- Mit `/giftpremium <Name>` können YouTuber 3 Tage Pro verschenken.
 
 Auch in Zukunft werden weitere tolle Features für YouTuber und VIPs folgen.
 
