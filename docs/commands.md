@@ -46,7 +46,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/nick`                         | Ermöglicht es dir, dich zu nicken |
 | `/unnick`                       | Ermöglicht es dir, dich zu entnicken |
 | `/vanish`, `/v`                 | Ermöglicht es dir, dich in 1vs1, Jumpworld und in den Lobbies unsichtbar zu machen |
-| `/giftpremium <Spieler>`        | Verschenke 3 Tage Pro an einen Spieler |
+| `/giftpremium <Spieler>`        | Verschenke dreimal am Tag jeweils 3 Tage Pro an einen Spieler |
 
 ### Reportsystem
 
