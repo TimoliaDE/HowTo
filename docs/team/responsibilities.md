@@ -8,6 +8,7 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span class='administrator'>Lascona</span> | Hauptverantwortlich |
+|<span class='supporter'>CoveredSymmetry</span> | Hauptverantwortlich |
 | | |
 |<span class='moderator'>NameIsTaken</span> | Nebenverantwortlich |
 

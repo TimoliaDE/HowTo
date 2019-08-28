@@ -121,7 +121,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span class='supporter'>CoveredSymmetry</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Hauptverantwortlich:</u> Broadcasts
+- <u>Hauptverantwortlich:</u> Broadcasts, Forenorganisation
 - <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Fragen und Antworten Forum
 
 ### <strong><span class='supporter'>einMole</span></strong>
