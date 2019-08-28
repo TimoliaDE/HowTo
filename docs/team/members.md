@@ -55,7 +55,7 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 
 ### <strong><span class='moderator'>physanus</span></strong>
 - <u>Rang (ingame):</u> Moderator
-- <u>Nebenverantwortlich:</u> Bauteam-Twitter, TeamSpeak, Timolia HowTo, Timolia Turnier Organisation, Twitter
+- <u>Nebenverantwortlich:</u> Bauteam-Twitter, Broadcasts, TeamSpeak, Timolia HowTo, Timolia Turnier Organisation, Twitter
 
 ## Developer
 
@@ -161,13 +161,14 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span class='supporter'>TetzelHD</span></strong>
 - <u>Rang (ingame):</u> Supporter
+- <u>Nebenverantwortlich:</u> Broadcasts
 
 ### <strong><span class='supporter'>Tim9875432</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
 ### <strong><span class='supporter'>xTessia</span></strong>
 - <u>Rang (ingame):</u> Supporterin
-- <u>Nebenverantwortlich:</u> Entschuldigungen, TeamSpeak, Twitter, YouTuber-Ränge
+- <u>Nebenverantwortlich:</u> Broadcasts, Entschuldigungen, TeamSpeak, Twitter, YouTuber-Ränge
 
 ### <strong><span class='supporter'>CriticalSiq</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -184,6 +185,7 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 ### <strong><span class='builder'>168x12</span></strong>
 - <u>Rang (ingame):</u> Builder
+- <u>Hauptverantwortlich:</u> Broadcasts
 
 ### <strong><span class='builder'>arved</span></strong>
 - <u>Rang (ingame):</u> Builder

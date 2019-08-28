@@ -178,7 +178,11 @@ Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadca
 |<span class='administrator'>Lascona</span> | Hauptverantwortlich |
 |<span class='supporter'>CoveredSymmetry</span> | Hauptverantwortlich |
 | | |
+|<span class='moderator'>physanus</span> | Nebenverantwortlich |
 |<span class='developer'>MCelements</span> | Nebenverantwortlich |
+|<span class='supporter'>TetzelHD</span> | Nebenverantwortlich |
+|<span class='supporter'>xTessia</span> | Nebenverantwortlich |
+|<span class='builder'>168x12</span> | Nebenverantwortlich |
 
 ### **Team-Leiter**
 Im Timolia Team gibt es kleinere Teams, welche unter anderem durch diese Verantwortlichen organisiert werden.
