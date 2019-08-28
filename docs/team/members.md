@@ -169,7 +169,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporterin
 - <u>Nebenverantwortlich:</u> Entschuldigungen, TeamSpeak, Twitter, YouTuber-Ränge
 
-### <strong><span class='supporter'>zSiq</span></strong>
+### <strong><span class='supporter'>CriticalSiq</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Entschuldigungen
 
