@@ -185,8 +185,8 @@ Im Timolia Team gibt es kleinere Teams, welche unter anderem durch diese Verantw
 
 | Teamler | Zuständigkeit |
 | ------ | ------ |
-|<span class='administrator'>Lascona</span>          | Management des Creator-Teams und des YouTube-Teams |
-|<span class='moderator'>medicoo</span>          | Management des Bau-Teams |
+|<span class='administrator'>Lascona</span>    | Management des gesamten Timolia-Teams |
+|<span class='moderator'>medicoo</span>        | Management des Bau-Teams |
 |<span class='builder'>\_CrystalSky\_</span>   | Management des Bau-Teams |
 
 ### **YouTuber-Ränge**
