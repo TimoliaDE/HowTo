@@ -8,6 +8,7 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span class='administrator'>Lascona</span> | Hauptverantwortlich |
+|<span class='supporter'>CoveredSymmetry</span> | Hauptverantwortlich |
 | | |
 |<span class='moderator'>NameIsTaken</span> | Nebenverantwortlich |
 
@@ -73,7 +74,7 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span class='supporter'>SpaceJumper</span> | Nebenverantwortlich |
 |<span class='supporter'>Sterax</span> | Nebenverantwortlich |
 |<span class='supporter'>xTessia</span> | Nebenverantwortlich |
-|<span class='supporter'>zSiq</span> | Nebenverantwortlich |
+|<span class='supporter'>CriticalSiq</span> | Nebenverantwortlich |
 
 ### **Zu Unrecht gebannt**
 | Teamler | Verantwortungsgrad |
@@ -178,15 +179,19 @@ Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadca
 |<span class='administrator'>Lascona</span> | Hauptverantwortlich |
 |<span class='supporter'>CoveredSymmetry</span> | Hauptverantwortlich |
 | | |
+|<span class='moderator'>physanus</span> | Nebenverantwortlich |
 |<span class='developer'>MCelements</span> | Nebenverantwortlich |
+|<span class='supporter'>TetzelHD</span> | Nebenverantwortlich |
+|<span class='supporter'>xTessia</span> | Nebenverantwortlich |
+|<span class='builder'>168x12</span> | Nebenverantwortlich |
 
 ### **Team-Leiter**
 Im Timolia Team gibt es kleinere Teams, welche unter anderem durch diese Verantwortlichen organisiert werden.
 
 | Teamler | Zuständigkeit |
 | ------ | ------ |
-|<span class='administrator'>Lascona</span>          | Management des Creator-Teams und des YouTube-Teams |
-|<span class='moderator'>medicoo</span>          | Management des Bau-Teams |
+|<span class='administrator'>Lascona</span>    | Management des gesamten Timolia-Teams |
+|<span class='moderator'>medicoo</span>        | Management des Bau-Teams |
 |<span class='builder'>\_CrystalSky\_</span>   | Management des Bau-Teams |
 
 ### **YouTuber-Ränge**
