@@ -34,6 +34,10 @@ Administratoren leiten das Netzwerk. Sie kümmern sich um teaminterne und techni
 - <u>Hauptverantwortlich:</u> Anti-Cheat, Timolia-Plugins
 - <u>Nebenverantwortlich:</u> Feedback Forum, Fragen und Antworten Forum, Map-Einsendungen
 
+### <strong><span class='administrator'>xiantiel</span></strong>
+- <u>Rang (ingame):</u> Administrator
+- <u>Hauptverantwortlich:</u> Timolia-Plugins
+
 ## Moderatoren
 
 Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen so für ein reibungsloses Spielerlebnis in allen Bereichen. Außerdem dienen sie als erste Ansprechpartner für Supporter.
@@ -87,9 +91,6 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ### <strong><span class='developer'>TheBrownShape</span></strong>
 - <u>Rang (ingame):</u> Developer
 
-### <strong><span class='developer'>TimderBusfahrer</span></strong>
-- <u>Rang (ingame):</u> Developer
-
 ### <strong><span class='developer'>tr7zw</span></strong>
 - <u>Rang (ingame):</u> Developer
 
@@ -139,7 +140,7 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span class='supporter'>J4mPr0</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Map-Einsendungen
+- <u>Nebenverantwortlich:</u> Map-Einsendungen, Zu Unrecht gebannt Forum
 
 ### <strong><span class='supporter'>Liisa</span></strong>
 - <u>Rang (ingame):</u> Supporterin
