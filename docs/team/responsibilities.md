@@ -83,6 +83,7 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span class='supporter'>BowspamExpertDE</span> | Hauptverantwortlich |
 | | |
 |<span class='supporter'>ferdedelino</span> | Nebenverantwortlich |
+|<span class='supporter'>J4mPr0</span> | Nebenverantwortlich |
 
 # Sonstige Aufgaben
 
