@@ -2,6 +2,12 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 
 # 2019
 
+###  <strong>August</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+| xiantiel | <span class='expert'>Native Expert</span> | <span class='administrator'>Administrator</span> | 28.08.19 |
+| TimderBusfahrer | <span class='developer'>Developer</span> | <span class='mvp'>Native MVP</span> | 28.08.19 |
+
 ###  <strong>Juli</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
