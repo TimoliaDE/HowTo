@@ -207,6 +207,9 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 ### <strong><span class='builder'>Dankbarkeit</span></strong>
 - <u>Rang (ingame):</u> Builder
 
+### <strong><span class='builder'>Erdbeerkeks</span></strong>
+- <u>Rang (ingame):</u> Builder
+
 ### <strong><span class='builder'>DragonfighterBen</span></strong>
 - <u>Rang (ingame):</u> Builder
 
