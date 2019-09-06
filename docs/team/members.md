@@ -189,7 +189,7 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 ### <strong><span class='builder'>168x12</span></strong>
 - <u>Rang (ingame):</u> Builder
-- <u>Hauptverantwortlich:</u> Broadcasts
+- <u>Nebenverantwortlich:</u> Broadcasts
 
 ### <strong><span class='builder'>arved</span></strong>
 - <u>Rang (ingame):</u> Builder
