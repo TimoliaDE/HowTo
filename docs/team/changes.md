@@ -2,6 +2,12 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 
 # 2019
 
+###  <strong>September</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+| Hiics | <span class='mvp'>Native MVP</span> | <span class='supporter'>Supporter</span> | 05.09.19 |
+| Dankbarkeit | <span class='mvp'>Native MVP</span> | <span class='builder'>Builder</span> | 05.09.19 |
+
 ###  <strong>August</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
