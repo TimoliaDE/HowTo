@@ -138,6 +138,9 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Community-Discord, Timolia Turnier Organisation, Zu Unrecht gebannt Forum
 
+### <strong><span class='supporter'>Hiics</span></strong>
+- <u>Rang (ingame):</u> Supporter
+
 ### <strong><span class='supporter'>J4mPr0</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Map-Einsendungen, Zu Unrecht gebannt Forum
@@ -199,6 +202,9 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Nebenverantwortlich:</u> Map-Einsendungen
 
 ### <strong><span class='builder'>Char1sma</span></strong>
+- <u>Rang (ingame):</u> Builder
+
+### <strong><span class='builder'>Dankbarkeit</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span class='builder'>DragonfighterBen</span></strong>
