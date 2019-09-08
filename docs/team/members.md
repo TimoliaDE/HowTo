@@ -75,6 +75,9 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Rang (ingame):</u> Developer
 - <u>Hauptverantwortlich:</u> Chainreact, Weihnachts - Timolia Adventure
 
+### <strong><span class='developer'>Handis</span></strong>
+- <u>Rang (ingame):</u> Developer
+
 ### <strong><span class='developer'>MCelements</span></strong>
 - <u>Rang (ingame):</u> Developer
 - <u>Hauptverantwortlich:</u> TeamSpeak
