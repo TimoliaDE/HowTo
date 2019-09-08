@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>September</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| Handis | <span class='mvp'>Native MVP</span> | <span class='developer'>Developer</span> | 08.09.19 |
 | Hiics | <span class='mvp'>Native MVP</span> | <span class='supporter'>Supporter</span> | 05.09.19 |
 | Dankbarkeit | <span class='mvp'>Native MVP</span> | <span class='builder'>Builder</span> | 05.09.19 |
 | Erdbeerkeks | <span class='mvp'>Native MVP</span> | <span class='builder'>Builder</span> | 05.09.19 |
