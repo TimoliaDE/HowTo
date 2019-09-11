@@ -69,12 +69,10 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | ------ | ------ |
 |<span class='moderator'>Julian_999999999</span> | Hauptverantwortlich |
 | | |
-|<span class='supporter'>einMole</span> | Nebenverantwortlich |
 |<span class='supporter'>RodspamExpertRU</span> | Nebenverantwortlich |
 |<span class='supporter'>SpaceJumper</span> | Nebenverantwortlich |
 |<span class='supporter'>Sterax</span> | Nebenverantwortlich |
 |<span class='supporter'>xTessia</span> | Nebenverantwortlich |
-|<span class='supporter'>CriticalSiq</span> | Nebenverantwortlich |
 
 ### **Zu Unrecht gebannt**
 | Teamler | Verantwortungsgrad |
