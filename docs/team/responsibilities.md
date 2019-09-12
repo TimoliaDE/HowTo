@@ -80,7 +80,7 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span class='moderator'>Julian_999999999</span> | Hauptverantwortlich |
 |<span class='supporter'>BowspamExpertDE</span> | Hauptverantwortlich |
 | | |
-|<span class='supporter'>ferdedelino</span> | Nebenverantwortlich |
+|<span class='moderator'>ferdedelino</span> | Nebenverantwortlich |
 |<span class='supporter'>J4mPr0</span> | Nebenverantwortlich |
 
 # Sonstige Aufgaben
@@ -156,7 +156,7 @@ Der Community-Discord von Timolia ist unter [https://timolia.de/discord](https:/
 |<span class='administrator'>Lascona</span> | Nebenverantwortlich |
 |<span class='moderator'>Julian_999999999</span> | Nebenverantwortlich |
 |<span class='supporter'>Chrissi1505</span> | Nebenverantwortlich |
-|<span class='supporter'>ferdedelino</span> | Nebenverantwortlich |
+|<span class='moderator'>ferdedelino</span> | Nebenverantwortlich |
 |<span class='supporter'>Sterax</span> | Nebenverantwortlich |
 
 ### **Timolia Turnier Organisation**
@@ -168,7 +168,7 @@ Dieses Team entscheidet über die Turniereinstellungen bei den Freitagsturnieren
 |<span class='moderator'>medicoo</span> | Hauptverantwortlich |
 | | |
 |<span class='moderator'>physanus</span> | Nebenverantwortlich |
-|<span class='supporter'>ferdedelino</span> | Nebenverantwortlich |
+|<span class='moderator'>ferdedelino</span> | Nebenverantwortlich |
 
 ### **Broadcasts**
 Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadcast Mitteilungen gekümmert.

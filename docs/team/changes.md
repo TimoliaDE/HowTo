@@ -12,6 +12,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | Hiics | <span class='mvp'>Native MVP</span> | <span class='supporter'>Supporter</span> | 05.09.19 |
 | Dankbarkeit | <span class='mvp'>Native MVP</span> | <span class='builder'>Builder</span> | 05.09.19 |
 | Erdbeerkeks | <span class='mvp'>Native MVP</span> | <span class='builder'>Builder</span> | 05.09.19 |
+| ferdedelino | <span class='supporter'>Supporter</span> | <span class='moderator'>Moderator</span> | 01.09.19 |
 
 ###  <strong>August</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
