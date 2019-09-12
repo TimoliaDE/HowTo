@@ -154,9 +154,9 @@ Der Community-Discord von Timolia ist unter [https://timolia.de/discord](https:/
 |<span class='moderator'>NameIsTaken</span> | Hauptverantwortlich |
 | | |
 |<span class='administrator'>Lascona</span> | Nebenverantwortlich |
+|<span class='moderator'>ferdedelino</span> | Nebenverantwortlich |
 |<span class='moderator'>Julian_999999999</span> | Nebenverantwortlich |
 |<span class='supporter'>Chrissi1505</span> | Nebenverantwortlich |
-|<span class='moderator'>ferdedelino</span> | Nebenverantwortlich |
 |<span class='supporter'>Sterax</span> | Nebenverantwortlich |
 
 ### **Timolia Turnier Organisation**
@@ -167,8 +167,9 @@ Dieses Team entscheidet über die Turniereinstellungen bei den Freitagsturnieren
 |<span class='administrator'>Lascona</span> | Hauptverantwortlich |
 |<span class='moderator'>medicoo</span> | Hauptverantwortlich |
 | | |
-|<span class='moderator'>physanus</span> | Nebenverantwortlich |
 |<span class='moderator'>ferdedelino</span> | Nebenverantwortlich |
+|<span class='moderator'>physanus</span> | Nebenverantwortlich |
+
 
 ### **Broadcasts**
 Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadcast Mitteilungen gekümmert.
