@@ -42,6 +42,10 @@ Administratoren leiten das Netzwerk. Sie kümmern sich um teaminterne und techni
 
 Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen so für ein reibungsloses Spielerlebnis in allen Bereichen. Außerdem dienen sie als erste Ansprechpartner für Supporter.
 
+### <strong><span class='moderator'>ferdedelino</span></strong>
+- <u>Rang (ingame):</u> Supporter
+- <u>Nebenverantwortlich:</u> Community-Discord, Timolia Turnier Organisation, Zu Unrecht gebannt Forum
+
 ### <strong><span class='moderator'>Julian_999999999</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Bug melden Forum, Bugs und Spielfehler, Entschuldigungen, Fragen und Antworten Forum, Internes Wiki, Supporterauswahl, Timolia HowTo, Zu Unrecht gebannt Forum
@@ -135,10 +139,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter
 - <u>Hauptverantwortlich:</u> Spieler melden Forum
 - <u>Nebenverantwortlich:</u> Anti-Cheat
-
-### <strong><span class='supporter'>ferdedelino</span></strong>
-- <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Community-Discord, Timolia Turnier Organisation, Zu Unrecht gebannt Forum
 
 ### <strong><span class='supporter'>Hiics</span></strong>
 - <u>Rang (ingame):</u> Supporter
