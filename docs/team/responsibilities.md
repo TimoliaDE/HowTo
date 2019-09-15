@@ -70,8 +70,6 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span class='moderator'>Julian_999999999</span> | Hauptverantwortlich |
 | | |
 |<span class='supporter'>RodspamExpertRU</span> | Nebenverantwortlich |
-|<span class='supporter'>SpaceJumper</span> | Nebenverantwortlich |
-|<span class='supporter'>Sterax</span> | Nebenverantwortlich |
 |<span class='supporter'>xTessia</span> | Nebenverantwortlich |
 
 ### **Zu Unrecht gebannt**
@@ -157,7 +155,6 @@ Der Community-Discord von Timolia ist unter [https://timolia.de/discord](https:/
 |<span class='moderator'>ferdedelino</span> | Nebenverantwortlich |
 |<span class='moderator'>Julian_999999999</span> | Nebenverantwortlich |
 |<span class='supporter'>Chrissi1505</span> | Nebenverantwortlich |
-|<span class='supporter'>Sterax</span> | Nebenverantwortlich |
 
 ### **Timolia Turnier Organisation**
 Dieses Team entscheidet über die Turniereinstellungen bei den Freitagsturnieren.
@@ -203,5 +200,4 @@ Wenn sich ein YouTuber für einen Rang auf Timolia interessiert, werden die Anfr
 |<span class='moderator'>medicoo</span> | Hauptverantwortlich |
 | | |
 |<span class='supporter'>BowspamExpertDE</span> | Nebenverantwortlich |
-|<span class='supporter'>Sterax</span> | Nebenverantwortlich |
 |<span class='supporter'>xTessia</span> | Nebenverantwortlich |
