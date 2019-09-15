@@ -1,4 +1,4 @@
-Das Timolia-Team besteht aktuell aus insgesamt 50 Mitgliedern.  
+Das Timolia-Team besteht aktuell aus insgesamt 48 Mitgliedern.  
 Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbereichen.
 
 
@@ -72,7 +72,7 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ### <strong><span class='developer'>\_ELKMAN\_</span></strong>
 - <u>Rang (ingame):</u> Developer
 
-### <strong><span class='developer'>Bukkit_PVP</span></strong>
+### <strong><span class='developer'>Flubio</span></strong>
 - <u>Rang (ingame):</u> Developer
 
 ### <strong><span class='developer'>Flycofx</span></strong>
@@ -147,23 +147,12 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Map-Einsendungen, Zu Unrecht gebannt Forum
 
-### <strong><span class='supporter'>Liisa</span></strong>
-- <u>Rang (ingame):</u> Supporterin
-
 ### <strong><span class='supporter'>Pexa</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
 ### <strong><span class='supporter'>RodspamExpertRU</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Entschuldigungen, Fragen und Antworten Forum, Map-Einsendungen
-
-### <strong><span class='supporter'>SpaceJumper</span></strong>
-- <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Entschuldigungen
-
-### <strong><span class='supporter'>Sterax</span></strong>
-- <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Community-Discord, Entschuldigungen, YouTuber-Ränge
 
 ### <strong><span class='supporter'>TetzelHD</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -189,9 +178,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder
 - <u>Nebenverantwortlich:</u> Broadcasts
 
-### <strong><span class='builder'>arved</span></strong>
-- <u>Rang (ingame):</u> Builder
-
 ### <strong><span class='builder'>Athenja</span></strong>
 - <u>Rang (ingame):</u> Builderin
 
@@ -215,9 +201,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span class='builder'>SorgenKind_LP</span></strong>
-- <u>Rang (ingame):</u> Builder
-
-### <strong><span class='builder'>xnulix</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 
