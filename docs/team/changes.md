@@ -5,7 +5,8 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>September</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
-| arved | <span class='builder'>Builder</span> | <span class='mvp'>Native MVP</span> | 15.09.19 |
+| arved | <span class='builder'>Builder</span> | <span class='mvp'>Native MVP</span> | 17.09.19 |
+| NetflixGutschein | <span class='mvp'>MVP</span> | <span class='supporter'>Supporterin</span> | 15.09.19 |
 | Flubio | <span class='user'>Spieler</span> | <span class='developer'>Developer</span> | 15.09.19 |
 | SpaceJumper | <span class='supporter'>Supporter</span> | <span class='expert'>Native Expert</span> | 14.09.19 |
 | Liisa | <span class='supporter'>Supporterin</span> | <span class='mvp'>Native MVP</span> | 14.09.19 |
