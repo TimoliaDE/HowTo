@@ -147,6 +147,9 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Map-Einsendungen, Zu Unrecht gebannt Forum
 
+### <strong><span class='supporter'>NetflixGutschein</span></strong>
+- <u>Rang (ingame):</u> Supporterin
+
 ### <strong><span class='supporter'>Pexa</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
