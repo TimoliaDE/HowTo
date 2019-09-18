@@ -1,4 +1,4 @@
-Das Timolia-Team besteht aktuell aus insgesamt 48 Mitgliedern.  
+Das Timolia-Team besteht aktuell aus insgesamt 49 Mitgliedern.  
 Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbereichen.
 
 
