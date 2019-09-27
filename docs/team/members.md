@@ -63,6 +63,7 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 
 ### <strong><span class='moderator'>physanus</span></strong>
 - <u>Rang (ingame):</u> Moderator
+- <u>Hauptverantwortlich:</u> Timolia HowTo
 - <u>Nebenverantwortlich:</u> Bauteam-Twitter, Broadcasts, TeamSpeak, Timolia HowTo, Timolia Turnier Organisation, Twitter
 
 ## Developer
@@ -132,8 +133,8 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span class='supporter'>CoveredSymmetry</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Hauptverantwortlich:</u> Broadcasts, Forenorganisation
-- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Fragen und Antworten Forum
+- <u>Hauptverantwortlich:</u> Broadcasts, Forenorganisation, Fragen und Antworten Forum
+- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum
 
 ### <strong><span class='supporter'>felliongi21</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -155,7 +156,8 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span class='supporter'>RodspamExpertRU</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Entschuldigungen, Fragen und Antworten Forum, Map-Einsendungen
+- - <u>Hauptverantwortlich:</u> Entschuldigungen
+- <u>Nebenverantwortlich:</u> Fragen und Antworten Forum, Map-Einsendungen
 
 ### <strong><span class='supporter'>TetzelHD</span></strong>
 - <u>Rang (ingame):</u> Supporter
