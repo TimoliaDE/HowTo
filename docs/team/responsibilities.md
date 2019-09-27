@@ -26,9 +26,9 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span class='moderator'>Julian_999999999</span> | Hauptverantwortlich |
+|<span class='supporter'>CoveredSymmetry</span> | Hauptverantwortlich |
 | | |
 |<span class='administrator'>svdragster</span> | Nebenverantwortlich |
-|<span class='supporter'>CoveredSymmetry</span> | Nebenverantwortlich |
 |<span class='supporter'>RodspamExpertRU</span> | Nebenverantwortlich |
 
 ### **Feedback**
@@ -68,8 +68,8 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span class='moderator'>Julian_999999999</span> | Hauptverantwortlich |
+|<span class='supporter'>RodspamExpertRU</span> | Hauptverantwortlich |
 | | |
-|<span class='supporter'>RodspamExpertRU</span> | Nebenverantwortlich |
 |<span class='supporter'>xTessia</span> | Nebenverantwortlich |
 
 ### **Zu Unrecht gebannt**
@@ -115,8 +115,7 @@ Diese Teamler kümmern sich um's Aktualisieren und Erstellen des HowTos Timolias
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span class='moderator'>Julian_999999999</span> | Hauptverantwortlich |
-| | |
-|<span class='moderator'>physanus</span> | Nebenverantwortlich |
+|<span class='moderator'>physanus</span> | Hauptverantwortlich |
 
 ### **Social-Media**
 Für einen ständigen Support und Content auf Twitter und anderen sozialen Medien sorgen diese Teamler.
