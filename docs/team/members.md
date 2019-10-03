@@ -1,4 +1,4 @@
-Das Timolia-Team besteht aktuell aus insgesamt 49 Mitgliedern.  
+Das Timolia-Team besteht aktuell aus insgesamt 50 Mitgliedern.  
 Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbereichen.
 
 
@@ -103,6 +103,9 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 - <u>Rang (ingame):</u> Developer
 
 ### <strong><span class='developer'>tr7zw</span></strong>
+- <u>Rang (ingame):</u> Developer
+
+### <strong><span class='developer'>Vuquiz</span></strong>
 - <u>Rang (ingame):</u> Developer
 
 ### <strong><span class='developer'>Webbiii</span></strong>
