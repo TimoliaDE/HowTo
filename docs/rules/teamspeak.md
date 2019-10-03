@@ -23,14 +23,14 @@ Um Phishing und Betrug vorzubeugen, ist der private Handel auf allen Plattformen
 kostenlose Angebote für beispielsweise Optifine-Capes und Ähnliches. Das Abschöpfen von Userdaten wie Passwörter und E-Mails ist eine Straftat und wird schon beim Versuch geahndet.
 
 ## §8 - Identitätsdiebstahl
-Es ist nicht gestattet, sich im TeamSpeak als in der Öffentlichkeit stehende Person auszugeben. Das Benutzen der Verifizierung wird empfohlen.
+Es ist nicht gestattet, sich im TeamSpeak als andere Person auszugeben. Hierzu zählen auch irreführende Namen. Das Benutzen der Verifizierung wird empfohlen.
 
 ## §9 - Musikbots
 Das Benutzen von privaten Musikbots in den öffentlichen Channeln ist nicht gestattet. Solltet ihr einen Musikbot verwenden, kann dieser von einem TeamSpeak-Teammitglied mit einer speziellen
 Servergruppe gekennzeichnet werden.
 
 ## §10 - Aufnahmen
-Das Aufnehmen von Personen in öffentlichen Zonen ist unter allen Umständen verboten und wird sanktioniert. Teammitglieder dürfen bei Verdacht auf einen Regelverstoß Tonaufnahmen speichern 
+Das Aufnehmen von Personen ist unter allen Umständen verboten und wird sanktioniert. Teammitglieder dürfen bei Verdacht auf einen Regelverstoß Tonaufnahmen speichern 
 und Zwecks Beweis im Falle eines Banns an betroffene Personen weitergeben.
 
 ## §11 - Ahnden von Regelverstößen
@@ -39,4 +39,4 @@ In Extremfällen werden Regelverstöße auch auf anderen Plattformen Timolias sa
 
 Unwissenheit schützt nicht vor Strafe! Mit dem Betreten des TeamSpeak-Servers akzeptierst du das Regelwerk.
 
-Letzte Aktualisierung: 02. Juli 2019
+Letzte Aktualisierung: 03. Oktober 2019
