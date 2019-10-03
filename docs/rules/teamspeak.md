@@ -30,7 +30,7 @@ Das Benutzen von privaten Musikbots in den öffentlichen Channeln ist nicht gest
 Servergruppe gekennzeichnet werden.
 
 ## §10 - Aufnahmen
-Das Aufnehmen von Personen ist unter allen Umständen verboten und wird sanktioniert. Teammitglieder dürfen bei Verdacht auf einen Regelverstoß Tonaufnahmen speichern 
+Das Aufnehmen von Personen ist unter allen Umständen verboten und wird sanktioniert. Teammitglieder dürfen bei Verdacht auf einen Regelverstoß Sprachaufnahmen tätigen 
 und Zwecks Beweis im Falle eines Banns an betroffene Personen weitergeben.
 
 ## §11 - Ahnden von Regelverstößen
