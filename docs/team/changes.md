@@ -2,6 +2,11 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 
 # 2019
 
+###  <strong>Oktober</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+| Vuquiz | <span class='user'>Spieler</span> | <span class='developer'>Developer</span> | 03.10.19 |
+
 ###  <strong>September</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
