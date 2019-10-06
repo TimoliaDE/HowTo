@@ -42,7 +42,7 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 ### **Map-Einsendungen**
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='supporter'>BowspamExpertDE</span> | Hauptverantwortlich |
+|<span class='moderator'>BowspamExpertDE</span> | Hauptverantwortlich |
 | | |
 |<span class='administrator'>svdragster</span> | Nebenverantwortlich |
 |<span class='supporter'>J4mPr0</span> | Nebenverantwortlich |
@@ -54,8 +54,9 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | ------ | ------ |
 |<span class='supporter'>felliongi21</span> | Hauptverantwortlich |
 | | |
+|<span class='moderator'>BowspamExpertDE</span> | Nebenverantwortlich |
 |<span class='moderator'>Julian_999999999</span> | Nebenverantwortlich |
-|<span class='supporter'>BowspamExpertDE</span> | Nebenverantwortlich |
+
 
 ### **Bug melden**
 | Teamler | Verantwortungsgrad |
@@ -75,8 +76,8 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 ### **Zu Unrecht gebannt**
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
+|<span class='moderator'>BowspamExpertDE</span> | Hauptverantwortlich |
 |<span class='moderator'>Julian_999999999</span> | Hauptverantwortlich |
-|<span class='supporter'>BowspamExpertDE</span> | Hauptverantwortlich |
 | | |
 |<span class='moderator'>ferdedelino</span> | Nebenverantwortlich |
 |<span class='supporter'>J4mPr0</span> | Nebenverantwortlich |
@@ -198,5 +199,5 @@ Wenn sich ein YouTuber für einen Rang auf Timolia interessiert, werden die Anfr
 |<span class='administrator'>Lascona</span> | Hauptverantwortlich |
 |<span class='moderator'>medicoo</span> | Hauptverantwortlich |
 | | |
-|<span class='supporter'>BowspamExpertDE</span> | Nebenverantwortlich |
+|<span class='moderator'>BowspamExpertDE</span> | Nebenverantwortlich |
 |<span class='supporter'>xTessia</span> | Nebenverantwortlich |
