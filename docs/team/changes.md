@@ -6,7 +6,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 | Blockeyy | <span class='supporter'>Supporter</span> | <span class='mvp'>Native MVP</span> | 06.10.19 |
-| Webbiii | <span class='developer'>Developer</span> | <span class='mvp'>Native MVP</span> | 06.10.19 |
+| Webbiii | <span class='developer'>Developer</span> | <span class='user'>Spieler</span> | 06.10.19 |
 | Edgxxar | <span class='administrator'>Administrator</span> | <span class='expert'>Native Expert</span> | 06.10.19 |
 | BowspamExpertDE | <span class='supporter'>Supporter</span> | <span class='moderator'>Moderator</span> | 05.10.19 |
 | Vuquiz | <span class='user'>Spieler</span> | <span class='developer'>Developer</span> | 03.10.19 |
