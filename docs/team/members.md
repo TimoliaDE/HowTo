@@ -1,4 +1,4 @@
-Das Timolia-Team besteht aktuell aus insgesamt 50 Mitgliedern.  
+Das Timolia-Team besteht aktuell aus insgesamt 47 Mitgliedern.  
 Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbereichen.
 
 
@@ -13,11 +13,6 @@ Administratoren leiten das Netzwerk. Sie kümmern sich um teaminterne und techni
 ### <strong><span class='administrator'>Docmac</span></strong>
 - <u>Rang (ingame):</u> Administrator
 - <u>Hauptverantwortlich:</u> Timolia-Plugins
-
-### <strong><span class='administrator'>Edgxxar</span></strong>
-- <u>Rang (ingame):</u> Administrator
-- <u>Hauptverantwortlich:</u> Timolia-Plugins
-- <u>Nebenverantwortlich:</u> Root-Server
 
 ### <strong><span class='administrator'>Lascona</span></strong>
 - <u>Rang (ingame):</u> Administratorin
@@ -41,6 +36,12 @@ Administratoren leiten das Netzwerk. Sie kümmern sich um teaminterne und techni
 ## Moderatoren
 
 Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen so für ein reibungsloses Spielerlebnis in allen Bereichen. Außerdem dienen sie als erste Ansprechpartner für Supporter.
+
+
+### <strong><span class='moderator'>BowspamExpertDE</span></strong>
+- <u>Rang (ingame):</u> Moderator
+- <u>Hauptverantwortlich:</u> Map-Einsendungen, Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Spieler melden Forum, YouTuber-Ränge
 
 ### <strong><span class='moderator'>ferdedelino</span></strong>
 - <u>Rang (ingame):</u> Moderator
@@ -108,9 +109,6 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ### <strong><span class='developer'>Vuquiz</span></strong>
 - <u>Rang (ingame):</u> Developer
 
-### <strong><span class='developer'>Webbiii</span></strong>
-- <u>Rang (ingame):</u> Developer
-
 ### <strong><span class='developer'>YTKacperSKY</span></strong>
 - <u>Rang (ingame):</u> Developer
 
@@ -121,14 +119,6 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ## Supporter
 
 Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind die ersten, an die sich Spieler wenden können.
-
-### <strong><span class='supporter'>Blockeyy</span></strong>
-- <u>Rang (ingame):</u> Supporter
-
-### <strong><span class='supporter'>BowspamExpertDE</span></strong>
-- <u>Rang (ingame):</u> Supporter
-- <u>Hauptverantwortlich:</u> Map-Einsendungen, Zu Unrecht gebannt Forum
-- <u>Nebenverantwortlich:</u> Spieler melden Forum, YouTuber-Ränge
 
 ### <strong><span class='supporter'>Chrissi1505</span></strong>
 - <u>Rang (ingame):</u> Supporter
