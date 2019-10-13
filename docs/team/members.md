@@ -1,4 +1,4 @@
-Das Timolia-Team besteht aktuell aus insgesamt 47 Mitgliedern.  
+Das Timolia-Team besteht aktuell aus insgesamt 46 Mitgliedern.  
 Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbereichen.
 
 
@@ -128,11 +128,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter
 - <u>Hauptverantwortlich:</u> Broadcasts, Forenorganisation, Fragen und Antworten Forum
 - <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum
-
-### <strong><span class='supporter'>felliongi21</span></strong>
-- <u>Rang (ingame):</u> Supporter
-- <u>Hauptverantwortlich:</u> Spieler melden Forum
-- <u>Nebenverantwortlich:</u> Anti-Cheat
 
 ### <strong><span class='supporter'>Hiics</span></strong>
 - <u>Rang (ingame):</u> Supporter
