@@ -1,5 +1,5 @@
 # Spieler melden und Entschuldigungen
-Auf Timolia werden viele Freiheiten geboten. Provokationen wie "eZ" werden nicht geahndet und der Umgang miteinander ist ungefilterter.
+Auf Timolia werden viele Freiheiten geboten. Provokationen wie „eZ“ werden nicht geahndet und der Umgang miteinander ist ungefilterter.
 Dennoch gibt es Regeln, an die sich jeder Spieler auf Timolia halten soll. Leider gibt es immer wieder Regelverstöße, welche du auf verschiedene
 Arten dem Team melden kannst:
 
@@ -21,8 +21,8 @@ Minecraft-Fensters im Forum reporten.
 | `/reportstats`                  | Zeigt dir die Erfolgsquoten deiner erstellten Reports an |
 
 ### Spieler im Forum melden
-Ist der Spieler, der den Regelverstoß begangen hat, offline gegangen, bevor ein Teammitglied ihn beobachten konnte, kannst du den Spieler mit einem Videobeweis in unserem Forum melden. Beachte hierbei bitte, dass wir Hackingreports in dieser Form nicht annehmen.
-Registrieren kannst du dich ingame mit dem Befehl `/register <E-Mail>`, im Forum "[Spieler melden](https://forum.timolia.de/forums/spieler-melden.47/)" kannst du den Regelverstoß beim Team melden. Ein Beweis ist Pflicht. Screenshots gelten
+Ist der Spieler, der den Regelverstoß begangen hat, offline gegangen, bevor ein Teammitglied ihn beobachten konnte, kannst du den Spieler mit einem Videobeweis in unserem Forum melden. Beachte hierbei bitte, dass wir Hackingreports in dieser Form nicht annehmen, um Missbrauch vorzubeugen.
+Registrieren kannst du dich ingame mit dem Befehl `/register <E-Mail>`, im Forum „[Spieler melden](https://forum.timolia.de/forums/spieler-melden.47/)“ kannst du den Regelverstoß beim Team melden. Ein Beweis ist Pflicht. Screenshots gelten
 nur als Beweise bei MSG-Nachrichten, alle anderen Regelverstöße müssen mit einem Video bewiesen werden. Natürlich kann ingame auch `/livereport` und `/chatreport` verwendet werden. 
 
 ### Entschuldigungen
