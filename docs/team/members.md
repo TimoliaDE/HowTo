@@ -147,6 +147,9 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Hauptverantwortlich:</u> Entschuldigungen
 - <u>Nebenverantwortlich:</u> Fragen und Antworten Forum, Map-Einsendungen
 
+### <strong><span class='supporter'>Semolius</span></strong>
+- <u>Rang (ingame):</u> Supporter
+
 ### <strong><span class='supporter'>TetzelHD</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Broadcasts
