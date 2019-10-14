@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Oktober</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| Semolius | <span class='mvp'>MVP</span> | <span class='supporter'>Supporter</span> | 14.10.19 |
 | felliongi21 | <span class='supporter'>Supporter</span> | <span class='expert'>Native Expert</span> | 12.10.19 |
 | Blockeyy | <span class='supporter'>Supporter</span> | <span class='mvp'>Native MVP</span> | 06.10.19 |
 | Webbiii | <span class='developer'>Developer</span> | <span class='user'>Spieler</span> | 06.10.19 |
