@@ -52,9 +52,8 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 ### **Spieler melden**
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='supporter'>felliongi21</span> | Hauptverantwortlich |
+|<span class='moderator'>BowspamExpertDE</span> | Hauptverantwortlich |
 | | |
-|<span class='moderator'>BowspamExpertDE</span> | Nebenverantwortlich |
 |<span class='moderator'>Julian_999999999</span> | Nebenverantwortlich |
 
 
@@ -91,8 +90,6 @@ Diese Teamler sorgen für einen fortlaufend reibungslosen Spielverlauf ohne Hack
 | ------ | ------ |
 |<span class='administrator'>svdragster</span> | Hauptverantwortlich |
 |<span class='developer'>Raziel</span> | Hauptverantwortlich |
-| | |
-|<span class='supporter'>felliongi21</span> | Nebenverantwortlich |
 
 ### **Bugs und Spielfehler**
 Bei jeglichen Fehlern in den Diensten von Timolia kümmert sich dieser Teamler darum, dass die Bugs an den jeweiligen Entwickler weitergetragen werden.
