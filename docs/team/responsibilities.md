@@ -99,7 +99,7 @@ Bei jeglichen Fehlern in den Diensten von Timolia kümmert sich dieser Teamler d
 |<span class='moderator'>Julian_999999999</span> | Hauptverantwortlich |
 
 ### **Baufehler**
-Bei jeglichen Fehlern in den Diensten von Timolia kümmert sich dieser Teamler darum, dass die Bugs an den jeweiligen Entwickler weitergetragen werden.
+Bei jeglichen Baufehlern auf den Maps von Timolia kümmern sich diese Teamler darum, dass die Bugs behoben werden.
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
