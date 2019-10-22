@@ -1,4 +1,4 @@
-Das Timolia-Team besteht aktuell aus insgesamt 46 Mitgliedern.  
+Das Timolia-Team besteht aktuell aus insgesamt 48 Mitgliedern.  
 Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbereichen.
 
 
@@ -179,12 +179,22 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 ### <strong><span class='builder'>Char1sma</span></strong>
 - <u>Rang (ingame):</u> Builder
+- <u>Hauptverantwortlich:</u> Baufehler
 
 ### <strong><span class='builder'>Dankbarkeit</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span class='builder'>Erdbeerkeks</span></strong>
 - <u>Rang (ingame):</u> Builder
+
+### <strong><span class='builder'>Jukplays</span></strong>
+- <u>Rang (ingame):</u> Builder
+- <u>Hauptverantwortlich:</u> Bauteam-Twitter, Management des Bauteams
+
+
+### <strong><span class='builder'>LegendBuild</span></strong>
+- <u>Rang (ingame):</u> Builder
+- <u>Nebenverantwortlich:</u> Baufehler
 
 ### <strong><span class='builder'>Memoryos</span></strong>
 - <u>Rang (ingame):</u> Builder
