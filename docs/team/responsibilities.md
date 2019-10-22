@@ -98,6 +98,17 @@ Bei jeglichen Fehlern in den Diensten von Timolia kümmert sich dieser Teamler d
 | ------ | ------ |
 |<span class='moderator'>Julian_999999999</span> | Hauptverantwortlich |
 
+### **Baufehler**
+Bei jeglichen Fehlern in den Diensten von Timolia kümmert sich dieser Teamler darum, dass die Bugs an den jeweiligen Entwickler weitergetragen werden.
+
+| Teamler | Verantwortungsgrad |
+| ------ | ------ |
+|<span class='builder'>Char1sma</span> | Hauptverantwortlich |
+| | |
+|<span class='builder'>LegendBuild</span> | Nebenverantwortlich |
+
+
+
 ### **Supporterauswahl**
 Wenn es wieder daran geht, neue Supporter in unsere Reihen zu holen, kümmern sich diese Verantwortlichen darum.
 
@@ -127,6 +138,7 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 |<span class='supporter'>Chrissi1505</span> | Twitter NV |
 |<span class='supporter'>xTessia</span> | Twitter NV |
 |<span class='moderator'>medicoo</span> | Bauteam-Twitter HV |
+|<span class='builder'>Jukplays</span> | Bauteam-Twitter HV |
 |<span class='moderator'>physanus</span> | Bauteam-Twitter NV |
 
 ### **TeamSpeak**
