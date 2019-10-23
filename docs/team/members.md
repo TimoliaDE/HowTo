@@ -45,6 +45,7 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 
 ### <strong><span class='moderator'>ferdedelino</span></strong>
 - <u>Rang (ingame):</u> Moderator
+- <u>Hauptverantwortlich:</u> Supporterauswahl
 - <u>Nebenverantwortlich:</u> Community-Discord, Timolia Turnier Organisation, Zu Unrecht gebannt Forum
 
 ### <strong><span class='moderator'>Julian_999999999</span></strong>
