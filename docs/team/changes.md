@@ -331,7 +331,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Juli</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
-| vincent0110 | <span class='supporter'>Supporter Games</span> | <span class='expert'>Expert</span> | 28.07.17 |
+| vincent0110 | <span class='supporter'>Supporter Games</span> | <span class='expert'>Native Expert</span> | 28.07.17 |
 | Tobifaction | <span class='supporter'>Supporter Games</span> | <span class='expert'>Native Expert</span> | 27.07.17 |
 | DerBull | <span class='expert'>Expert</span> | <span class='supporter'>Supporter Games</span> | 25.07.17 |
 | ferdedelino | <span class='expert'>Expert</span> | <span class='supporter'>Supporter Games</span> | 21.07.17 |
