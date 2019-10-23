@@ -18,14 +18,12 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | ------ | ------ |
 |<span class='administrator'>Lascona</span> | Hauptverantwortlich |
 | | |
-|<span class='moderator'>Julian_999999999</span> | Nebenverantwortlich |
 |<span class='supporter'>CoveredSymmetry</span> | Nebenverantwortlich |
 
 ### **Fragen und Antworten**
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='moderator'>Julian_999999999</span> | Hauptverantwortlich |
 |<span class='supporter'>CoveredSymmetry</span> | Hauptverantwortlich |
 | | |
 |<span class='administrator'>svdragster</span> | Nebenverantwortlich |
@@ -37,7 +35,6 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span class='administrator'>Lascona</span> | Hauptverantwortlich |
 | | |
 |<span class='administrator'>svdragster</span> | Nebenverantwortlich |
-|<span class='moderator'>Julian_999999999</span> | Nebenverantwortlich |
 
 ### **Map-Einsendungen**
 | Teamler | Verantwortungsgrad |
@@ -53,30 +50,29 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span class='moderator'>BowspamExpertDE</span> | Hauptverantwortlich |
-| | |
-|<span class='moderator'>Julian_999999999</span> | Nebenverantwortlich |
 
 
 ### **Bug melden**
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='moderator'>Julian_999999999</span> | Hauptverantwortlich |
+|<span class='administrator'>svdragster</span> | Hauptverantwortlich |
 | | |
 |Moderatoren und Developer| Nebenverantwortlich |
 
 ### **Entschuldigungen**
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='moderator'>Julian_999999999</span> | Hauptverantwortlich |
 |<span class='supporter'>RodspamExpertRU</span> | Hauptverantwortlich |
 | | |
+|<span class='supporter'>Chrissi1505</span> | Nebenverantwortlich |
+|<span class='supporter'>CoveredSymmetry</span> | Nebenverantwortlich |
+|<span class='supporter'>J4mPr0</span> | Nebenverantwortlich |
 |<span class='supporter'>xTessia</span> | Nebenverantwortlich |
 
 ### **Zu Unrecht gebannt**
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span class='moderator'>BowspamExpertDE</span> | Hauptverantwortlich |
-|<span class='moderator'>Julian_999999999</span> | Hauptverantwortlich |
 | | |
 |<span class='moderator'>ferdedelino</span> | Nebenverantwortlich |
 |<span class='supporter'>J4mPr0</span> | Nebenverantwortlich |
@@ -96,7 +92,7 @@ Bei jeglichen Fehlern in den Diensten von Timolia kümmert sich dieser Teamler d
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='moderator'>Julian_999999999</span> | Hauptverantwortlich |
+|<span class='administrator'>svdragster</span> | Hauptverantwortlich |
 
 ### **Baufehler**
 Bei jeglichen Baufehlern auf den Maps von Timolia kümmern sich diese Teamler darum, dass die Bugs behoben werden.
@@ -116,7 +112,6 @@ Wenn es wieder daran geht, neue Supporter in unsere Reihen zu holen, kümmern si
 | ------ | ------ |
 |<span class='administrator'>Lascona</span> | Hauptverantwortlich |
 |<span class='moderator'>ferdedelino</span> | Hauptverantwortlich |
-|<span class='moderator'>Julian_999999999</span> | Hauptverantwortlich |
 |<span class='moderator'>NameIsTaken</span> | Hauptverantwortlich |
 
 ### **Timolia HowTo**
@@ -124,7 +119,6 @@ Diese Teamler kümmern sich um's Aktualisieren und Erstellen des HowTos Timolias
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='moderator'>Julian_999999999</span> | Hauptverantwortlich |
 |<span class='moderator'>physanus</span> | Hauptverantwortlich |
 
 ### **Social-Media**
@@ -149,7 +143,6 @@ Der TeamSpeak von Timolia ist unter ts.timolia.de zu erreichen. Er wird betreut 
 | ------ | ------ |
 |<span class='developer'>MCelements</span> | Hauptverantwortlich |
 | | |
-|<span class='moderator'>Julian_999999999</span> | Nebenverantwortlich |
 |<span class='moderator'>medicoo</span> | Nebenverantwortlich |
 |<span class='moderator'>physanus</span> | Nebenverantwortlich |
 |<span class='supporter'>xTessia</span> | Nebenverantwortlich |
@@ -163,7 +156,6 @@ Der Community-Discord von Timolia ist unter [https://timolia.de/discord](https:/
 | | |
 |<span class='administrator'>Lascona</span> | Nebenverantwortlich |
 |<span class='moderator'>ferdedelino</span> | Nebenverantwortlich |
-|<span class='moderator'>Julian_999999999</span> | Nebenverantwortlich |
 |<span class='supporter'>Chrissi1505</span> | Nebenverantwortlich |
 
 ### **Timolia Turnier Organisation**

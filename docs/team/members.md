@@ -1,4 +1,4 @@
-Das Timolia-Team besteht aktuell aus insgesamt 49 Mitgliedern.  
+Das Timolia-Team besteht aktuell aus insgesamt 47 Mitgliedern.  
 Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbereichen.
 
 
@@ -26,7 +26,7 @@ Administratoren leiten das Netzwerk. Sie kümmern sich um teaminterne und techni
 
 ### <strong><span class='administrator'>svdragster</span></strong>
 - <u>Rang (ingame):</u> Administrator
-- <u>Hauptverantwortlich:</u> Anti-Cheat, Timolia-Plugins
+- <u>Hauptverantwortlich:</u> Anti-Cheat, Bug melden, Bugs und Spielfehler, Timolia-Plugins
 - <u>Nebenverantwortlich:</u> Feedback Forum, Fragen und Antworten Forum, Map-Einsendungen
 
 ### <strong><span class='administrator'>xiantiel</span></strong>
@@ -47,11 +47,6 @@ Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen 
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Supporterauswahl
 - <u>Nebenverantwortlich:</u> Community-Discord, Timolia Turnier Organisation, Zu Unrecht gebannt Forum
-
-### <strong><span class='moderator'>Julian_999999999</span></strong>
-- <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Bug melden Forum, Bugs und Spielfehler, Entschuldigungen, Fragen und Antworten Forum, Internes Wiki, Supporterauswahl, Timolia HowTo, Zu Unrecht gebannt Forum
-- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Community-Discord, Feedback Forum, Spieler melden Forum, TeamSpeak
 
 ### <strong><span class='moderator'>medicoo</span></strong>
 - <u>Rang (ingame):</u> Moderator
@@ -123,25 +118,22 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span class='supporter'>Chrissi1505</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Community-Discord, Twitter
+- <u>Nebenverantwortlich:</u> Community-Discord, Entschuldigungen, Twitter
 
 ### <strong><span class='supporter'>CoveredSymmetry</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Hauptverantwortlich:</u> Broadcasts, Forenorganisation, Fragen und Antworten Forum
-- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum
+- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Entschuldigungen
 
 ### <strong><span class='supporter'>Hiics</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
 ### <strong><span class='supporter'>J4mPr0</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Map-Einsendungen, Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Entschuldigungen, Map-Einsendungen, Zu Unrecht gebannt Forum
 
 ### <strong><span class='supporter'>NetflixGutschein</span></strong>
 - <u>Rang (ingame):</u> Supporterin
-
-### <strong><span class='supporter'>Pexa</span></strong>
-- <u>Rang (ingame):</u> Supporter
 
 ### <strong><span class='supporter'>RodspamExpertRU</span></strong>
 - <u>Rang (ingame):</u> Supporter
