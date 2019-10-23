@@ -115,6 +115,7 @@ Wenn es wieder daran geht, neue Supporter in unsere Reihen zu holen, kümmern si
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span class='administrator'>Lascona</span> | Hauptverantwortlich |
+|<span class='moderator'>ferdedelino</span> | Hauptverantwortlich |
 |<span class='moderator'>Julian_999999999</span> | Hauptverantwortlich |
 |<span class='moderator'>NameIsTaken</span> | Hauptverantwortlich |
 
