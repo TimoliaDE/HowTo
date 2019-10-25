@@ -175,7 +175,7 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 ### <strong><span class='builder'>Char1sma</span></strong>
 - <u>Rang (ingame):</u> Builder
-- <u>Hauptverantwortlich:</u> Baufehler
+- <u>Hauptverantwortlich:</u> Baufehlerbehebung
 
 ### <strong><span class='builder'>Dankbarkeit</span></strong>
 - <u>Rang (ingame):</u> Builder
@@ -189,7 +189,7 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 ### <strong><span class='builder'>LegendBuild</span></strong>
 - <u>Rang (ingame):</u> Builder
-- <u>Nebenverantwortlich:</u> Baufehler
+- <u>Nebenverantwortlich:</u> Baufehlerbehebung
 
 ### <strong><span class='builder'>Memoryos</span></strong>
 - <u>Rang (ingame):</u> Builder
