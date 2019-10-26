@@ -321,3 +321,56 @@ style ranks
 .user {
     color: #919191;
 }
+
+
+/**
+ * Colorcodes minecraft
+ */
+.minecraft-black {
+    color: #000000;
+}
+.minecraft-darkblue {
+    color: #0000AA;
+}
+.minecraft-green {
+    color: #00AA00;
+}
+.minecraft-darkaqua {
+    color: #00AAAA;
+}
+.minecraft-darkred {
+    color: #AA0000;
+}
+.minecraft-darkpurple {
+    color: #AA00AA;
+}
+.minecraft-gold {
+    color: #FFAA00;
+}
+.minecraft-gray {
+    color: #AAAAAA;
+}
+.minecraft-darkgray {
+    color: #2B2B2B;
+}
+.minecraft-blue {
+    color: #5555FF;
+}
+.minecraft-green {
+    color: #55FF55;
+}
+.minecraft-aqua {
+    color: #55FFFF;
+}
+.minecraft-red {
+    color: #FF5555;
+}
+.minecraft-lightpurple {
+    color: #FF55FF;
+}
+.minecraft-yellow {
+    color: #FFFF55;
+}
+.minecraft-white {
+    color: #FFFFFF;
+}
