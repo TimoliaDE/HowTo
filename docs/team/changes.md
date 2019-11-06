@@ -2,9 +2,19 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 
 # 2019
 
+###  <strong>November</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+| Kroseida | <span class='developer'>Developer</span> | <span class='user'>Spieler</span> | 06.11.19 |
+| Flubio | <span class='developer'>Developer</span> | <span class='user'>Spieler</span> | 05.11.19 |
+| Hiics | <span class='supporter'>Supporter</span> | <span class='mvp'>Native MVP</span> | 05.11.19 |
+
+
 ###  <strong>Oktober</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| Tim9875432 | <span class='supporter'>Supporter</span> | <span class='expert'>Native Expert</span> | 29.10.19 |
+| Athenja | <span class='builder'>Builderin</span> | <span class='mvp'>Native MVP</span> | 26.10.19 |
 | 12Build | <span class='expert'>Native Expert</span> | <span class='builder'>Builder</span> | 23.10.19 |
 | Julian_999999999 | <span class='moderator'>Moderator</span> | <span class='expert'>Native Expert</span> | 22.10.19 |
 | Pexa | <span class='supporter'>Supporter</span> | <span class='mvp'>Native MVP</span> | 22.10.19 |
