@@ -204,24 +204,24 @@ Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführ
 
 | Befehl | Funktion |
 | ------ | -------- |
-| `/enter <ID>`, `/e <ID>`         | Betritt ein bestimmtes Jump 'n' Run |
-| `/leave`, `/l`                   | Verlässt das aktuelle Jump 'n' Run |
-| `/setstart`                      | Setzt den Startpunkt deines Jump 'n' Runs |
-| `/checkpoint`, `/fall`, `/kill`  | Teleportiert dich zurück zum letzten Checkpoint |
-| `/duel invite <Spieler>`         | Lädt einen Spieler in ein Duell ein |
-| `/duel accept <Spieler>`         | Nimmt die Einladung in ein Duell an |
-| `/duel leave <Spieler>`          | Verlässt ein Duell |
-| `/duel kick <Spieler>`           | Kickt einen Spieler aus einem Duell |
-| `/setblock`, `/sb`               | Platziert den Block in deiner Hand unter dir |
-| `/jump`                          | Wechselt zwischen Jump- und Bau-Modus |
-| `/b`                             | Öffnet das Bau-Info-Menü |
-| `/kit`                           | Gibt dir die Start-Items im Bau-Modus |
-| `/join <Name>`                   | Betritt das Jump 'n' Run, auf dem sich [Spieler] gerade befindet |
-| `/top <ID>`                      | Zeigt die Top-Zeiten des Jump 'n' Runs mit der ID [id] an |
-| `/top <ID> -f`                   | Zeigt die wenigsten Fails des Jump 'n' Runs mit der ID [id] an |
+| `/enter <ID>`, `/e <ID>`            | Betritt ein bestimmtes Jump 'n' Run |
+| `/leave`, `/l`                      | Verlässt das aktuelle Jump 'n' Run |
+| `/setstart`                         | Setzt den Startpunkt deines Jump 'n' Runs |
+| `/checkpoint`, `/fall`, `/kill`     | Teleportiert dich zurück zum letzten Checkpoint |
+| `/duel invite <Spieler>`            | Lädt einen Spieler in ein Duell ein |
+| `/duel accept <Spieler>`            | Nimmt die Einladung in ein Duell an |
+| `/duel leave <Spieler>`             | Verlässt ein Duell |
+| `/duel kick <Spieler>`              | Kickt einen Spieler aus einem Duell |
+| `/setblock`, `/sb`                  | Platziert den Block in deiner Hand unter dir |
+| `/jump`                             | Wechselt zwischen Jump- und Bau-Modus |
+| `/b`                                | Öffnet das Bau-Info-Menü |
+| `/kit`                              | Gibt dir die Start-Items im Bau-Modus |
+| `/join <Name>`                      | Betritt das Jump 'n' Run, auf dem sich [Spieler] gerade befindet |
+| `/top <ID>`                         | Zeigt die Top-Zeiten des Jump 'n' Runs mit der ID [id] an |
+| `/top <ID> -f`                      | Zeigt die wenigsten Fails des Jump 'n' Runs mit der ID [id] an |
 **[Premium](/ranks/premium/) only**:
-| `/skull [Name]`                  | Gibt dir einen Spielerkopf
-| `/multibuild [3,6]`, `/mb [3,6]` | Du kannst bis zu 3 (ab <span class="pro">Pro</span>) oder bis zu 6 (ab <span class="mvp">MVP+</span>) Blöcke auf einmal setzen 
+| `/skull [Name]`                     | Gibt dir einen Spielerkopf
+| `/multibuild <3,6>`,<br>`/mb <3,6>` | Du kannst bis zu 3 (ab <span class="pro">Pro</span>) oder bis zu 6 (ab <span class="mvp">MVP+</span>) Blöcke auf einmal setzen 
 
 ### Castles
 | Befehl | Funktion |
