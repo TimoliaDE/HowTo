@@ -35,6 +35,8 @@ Um Tagessieger zu werden:
 - Premium-Spieler erhalten bis zu drei mal mehr Pixel.
 - Je nach Rang bis zu 3 Bauslots.
 - <span class='mvp'>MVP</span> oder höher: Armorstands und Spielerköpfe beim Bauen von Jump and Runs.
+- <span class='pro'>Pro</span> oder höher: Mit Multibuild bis zu 3 Blöcke auf einmal setzen.
+- <span class='mvp'>MVP+</span> oder höher: Mit Multibuild bis zu 6 Blöcke auf einmal setzen.
 - Je nach Rang lassen sich bis zu 128 Entities platzieren.
 - Werde mit `/togglerank` als normaler Spieler angezeigt.
 
@@ -59,4 +61,5 @@ Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium
 | `/top <ID>`                     | Zeigt die Top-Zeiten des Jump 'n' Runs mit der ID [id] an |
 | `/top <ID> -f`                  | Zeigt die wenigsten Fails des Jump 'n' Runs mit der ID [id] an |
 **[Premium](/ranks/premium/) only**:
+| `/multibuild <3,6>`,<br>`/mb <3,6>` | Du kannst bis zu 3 (ab <span class="pro">Pro</span>) oder bis zu 6 (ab <span class="mvp">MVP+</span>) Blöcke auf einmal setzen
 | `/skull [Name]`                 | Gibt dir einen Spielerkopf
