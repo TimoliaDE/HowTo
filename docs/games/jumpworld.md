@@ -61,5 +61,5 @@ Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium
 | `/top <ID>`                     | Zeigt die Top-Zeiten des Jump 'n' Runs mit der ID [id] an |
 | `/top <ID> -f`                  | Zeigt die wenigsten Fails des Jump 'n' Runs mit der ID [id] an |
 **[Premium](/ranks/premium/) only**:
-| `/skull [Name]`                 | Gibt dir einen Spielerkopf
 | `/multibuild <3,6>`,<br>`/mb <3,6>` | Du kannst bis zu 3 (ab <span class="pro">Pro</span>) oder bis zu 6 (ab <span class="mvp">MVP+</span>) Blöcke auf einmal setzen
+| `/skull [Name]`                 | Gibt dir einen Spielerkopf
