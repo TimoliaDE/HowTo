@@ -1,4 +1,4 @@
-Das Timolia-Team besteht aktuell aus insgesamt 47 Mitgliedern.  
+Das Timolia-Team besteht aktuell aus insgesamt 42 Mitgliedern.  
 Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbereichen.
 
 
@@ -70,17 +70,11 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ### <strong><span class='developer'>\_ELKMAN\_</span></strong>
 - <u>Rang (ingame):</u> Developer
 
-### <strong><span class='developer'>Flubio</span></strong>
-- <u>Rang (ingame):</u> Developer
-
 ### <strong><span class='developer'>Flycofx</span></strong>
 - <u>Rang (ingame):</u> Developer
 - <u>Hauptverantwortlich:</u> Chainreact, Weihnachts - Timolia Adventure
 
 ### <strong><span class='developer'>Handis</span></strong>
-- <u>Rang (ingame):</u> Developer
-
-### <strong><span class='developer'>Kroseida</span></strong>
 - <u>Rang (ingame):</u> Developer
 
 ### <strong><span class='developer'>MCelements</span></strong>
@@ -125,9 +119,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Hauptverantwortlich:</u> Broadcasts, Forenorganisation, Fragen und Antworten Forum
 - <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Entschuldigungen
 
-### <strong><span class='supporter'>Hiics</span></strong>
-- <u>Rang (ingame):</u> Supporter
-
 ### <strong><span class='supporter'>J4mPr0</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Entschuldigungen, Map-Einsendungen, Zu Unrecht gebannt Forum
@@ -147,9 +138,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Broadcasts
 
-### <strong><span class='supporter'>Tim9875432</span></strong>
-- <u>Rang (ingame):</u> Supporter
-
 ### <strong><span class='supporter'>xTessia</span></strong>
 - <u>Rang (ingame):</u> Supporterin
 - <u>Nebenverantwortlich:</u> Broadcasts, Entschuldigungen, TeamSpeak, Twitter, YouTuber-Ränge
@@ -165,9 +153,6 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 ### <strong><span class='builder'>12Build</span></strong>
 - <u>Rang (ingame):</u> Builder
-
-### <strong><span class='builder'>Athenja</span></strong>
-- <u>Rang (ingame):</u> Builderin
 
 ### <strong><span class='builder'>B3artastic</span></strong>
 - <u>Rang (ingame):</u> Builder
