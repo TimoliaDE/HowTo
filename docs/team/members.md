@@ -110,6 +110,10 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind die ersten, an die sich Spieler wenden können.
 
+### <strong><span class='supporter'>\_Tetzel\_</span></strong>
+- <u>Rang (ingame):</u> Supporter
+- <u>Nebenverantwortlich:</u> Broadcasts
+
 ### <strong><span class='supporter'>Chrissi1505</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Community-Discord, Entschuldigungen, Twitter
@@ -133,10 +137,6 @@ Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind di
 
 ### <strong><span class='supporter'>Semolius</span></strong>
 - <u>Rang (ingame):</u> Supporter
-
-### <strong><span class='supporter'>TetzelHD</span></strong>
-- <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Broadcasts
 
 ### <strong><span class='supporter'>xTessia</span></strong>
 - <u>Rang (ingame):</u> Supporterin
