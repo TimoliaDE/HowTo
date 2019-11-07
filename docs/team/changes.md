@@ -2,14 +2,36 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 
 # 2019
 
+###  <strong>November</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+| Kroseida | <span class='developer'>Developer</span> | <span class='user'>Spieler</span> | 06.11.19 |
+| Flubio | <span class='developer'>Developer</span> | <span class='user'>Spieler</span> | 05.11.19 |
+| Hiics | <span class='supporter'>Supporter</span> | <span class='mvp'>Native MVP</span> | 05.11.19 |
+
+
 ###  <strong>Oktober</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| Tim9875432 | <span class='supporter'>Supporter</span> | <span class='expert'>Native Expert</span> | 29.10.19 |
+| Athenja | <span class='builder'>Builderin</span> | <span class='mvp'>Native MVP</span> | 26.10.19 |
+| 12Build | <span class='expert'>Native Expert</span> | <span class='builder'>Builder</span> | 23.10.19 |
+| Julian_999999999 | <span class='moderator'>Moderator</span> | <span class='expert'>Native Expert</span> | 22.10.19 |
+| Pexa | <span class='supporter'>Supporter</span> | <span class='mvp'>Native MVP</span> | 22.10.19 |
+| 168x12 | <span class='builder'>Builder</span> | <span class='expert'>Native Expert</span> | 15.10.19 |
+| Semolius | <span class='mvp'>MVP</span> | <span class='supporter'>Supporter</span> | 14.10.19 |
+| felliongi21 | <span class='supporter'>Supporter</span> | <span class='expert'>Native Expert</span> | 12.10.19 |
+| Jukplays | <span class='expert'>Native Expert</span> | <span class='builder'>Builder</span> | 08.10.19 |
+| Blockeyy | <span class='supporter'>Supporter</span> | <span class='mvp'>Native MVP</span> | 06.10.19 |
+| Webbiii | <span class='developer'>Developer</span> | <span class='user'>Spieler</span> | 06.10.19 |
+| Edgxxar | <span class='administrator'>Administrator</span> | <span class='expert'>Native Expert</span> | 06.10.19 |
+| BowspamExpertDE | <span class='supporter'>Supporter</span> | <span class='moderator'>Moderator</span> | 05.10.19 |
 | Vuquiz | <span class='user'>Spieler</span> | <span class='developer'>Developer</span> | 03.10.19 |
 
 ###  <strong>September</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| LegendBuild | <span class='mvp'>Native MVP</span> | <span class='builder'>Builder</span> | 18.09.19 |
 | arved | <span class='builder'>Builder</span> | <span class='mvp'>Native MVP</span> | 17.09.19 |
 | NetflixGutschein | <span class='mvp'>MVP</span> | <span class='supporter'>Supporterin</span> | 15.09.19 |
 | Flubio | <span class='user'>Spieler</span> | <span class='developer'>Developer</span> | 15.09.19 |
@@ -321,7 +343,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Juli</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
-| vincent0110 | <span class='supporter'>Supporter Games</span> | <span class='expert'>Expert</span> | 28.07.17 |
+| vincent0110 | <span class='supporter'>Supporter Games</span> | <span class='expert'>Native Expert</span> | 28.07.17 |
 | Tobifaction | <span class='supporter'>Supporter Games</span> | <span class='expert'>Native Expert</span> | 27.07.17 |
 | DerBull | <span class='expert'>Expert</span> | <span class='supporter'>Supporter Games</span> | 25.07.17 |
 | ferdedelino | <span class='expert'>Expert</span> | <span class='supporter'>Supporter Games</span> | 21.07.17 |

@@ -1,4 +1,4 @@
-Das Timolia-Team besteht aktuell aus insgesamt 50 Mitgliedern.  
+Das Timolia-Team besteht aktuell aus insgesamt 42 Mitgliedern.  
 Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbereichen.
 
 
@@ -14,11 +14,6 @@ Administratoren leiten das Netzwerk. Sie kümmern sich um teaminterne und techni
 - <u>Rang (ingame):</u> Administrator
 - <u>Hauptverantwortlich:</u> Timolia-Plugins
 
-### <strong><span class='administrator'>Edgxxar</span></strong>
-- <u>Rang (ingame):</u> Administrator
-- <u>Hauptverantwortlich:</u> Timolia-Plugins
-- <u>Nebenverantwortlich:</u> Root-Server
-
 ### <strong><span class='administrator'>Lascona</span></strong>
 - <u>Rang (ingame):</u> Administratorin
 - <u>Hauptverantwortlich:</u> Bauevent-Koordination, Broadcasts, Forenorganisation, Internes und externes Feedback, Social Media, Supporterauswahl, Teammanagement, Timolia Turnier Organisation, YouTuber-Ränge
@@ -31,7 +26,7 @@ Administratoren leiten das Netzwerk. Sie kümmern sich um teaminterne und techni
 
 ### <strong><span class='administrator'>svdragster</span></strong>
 - <u>Rang (ingame):</u> Administrator
-- <u>Hauptverantwortlich:</u> Anti-Cheat, Timolia-Plugins
+- <u>Hauptverantwortlich:</u> Anti-Cheat, Bug melden, Bugs und Spielfehler, Timolia-Plugins
 - <u>Nebenverantwortlich:</u> Feedback Forum, Fragen und Antworten Forum, Map-Einsendungen
 
 ### <strong><span class='administrator'>xiantiel</span></strong>
@@ -42,14 +37,16 @@ Administratoren leiten das Netzwerk. Sie kümmern sich um teaminterne und techni
 
 Moderatoren koordinieren einzelne Projekte oder Bereiche auf Timolia und sorgen so für ein reibungsloses Spielerlebnis in allen Bereichen. Außerdem dienen sie als erste Ansprechpartner für Supporter.
 
+
+### <strong><span class='moderator'>BowspamExpertDE</span></strong>
+- <u>Rang (ingame):</u> Moderator
+- <u>Hauptverantwortlich:</u> Map-Einsendungen, Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Spieler melden Forum, YouTuber-Ränge
+
 ### <strong><span class='moderator'>ferdedelino</span></strong>
 - <u>Rang (ingame):</u> Moderator
+- <u>Hauptverantwortlich:</u> Supporterauswahl
 - <u>Nebenverantwortlich:</u> Community-Discord, Timolia Turnier Organisation, Zu Unrecht gebannt Forum
-
-### <strong><span class='moderator'>Julian_999999999</span></strong>
-- <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Bug melden Forum, Bugs und Spielfehler, Entschuldigungen, Fragen und Antworten Forum, Internes Wiki, Supporterauswahl, Timolia HowTo, Zu Unrecht gebannt Forum
-- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Community-Discord, Feedback Forum, Spieler melden Forum, TeamSpeak
 
 ### <strong><span class='moderator'>medicoo</span></strong>
 - <u>Rang (ingame):</u> Moderator
@@ -73,17 +70,11 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ### <strong><span class='developer'>\_ELKMAN\_</span></strong>
 - <u>Rang (ingame):</u> Developer
 
-### <strong><span class='developer'>Flubio</span></strong>
-- <u>Rang (ingame):</u> Developer
-
 ### <strong><span class='developer'>Flycofx</span></strong>
 - <u>Rang (ingame):</u> Developer
 - <u>Hauptverantwortlich:</u> Chainreact, Weihnachts - Timolia Adventure
 
 ### <strong><span class='developer'>Handis</span></strong>
-- <u>Rang (ingame):</u> Developer
-
-### <strong><span class='developer'>Kroseida</span></strong>
 - <u>Rang (ingame):</u> Developer
 
 ### <strong><span class='developer'>MCelements</span></strong>
@@ -108,9 +99,6 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 ### <strong><span class='developer'>Vuquiz</span></strong>
 - <u>Rang (ingame):</u> Developer
 
-### <strong><span class='developer'>Webbiii</span></strong>
-- <u>Rang (ingame):</u> Developer
-
 ### <strong><span class='developer'>YTKacperSKY</span></strong>
 - <u>Rang (ingame):</u> Developer
 
@@ -122,51 +110,32 @@ Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi
 
 Sie stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind die ersten, an die sich Spieler wenden können.
 
-### <strong><span class='supporter'>Blockeyy</span></strong>
+### <strong><span class='supporter'>\_Tetzel\_</span></strong>
 - <u>Rang (ingame):</u> Supporter
-
-### <strong><span class='supporter'>BowspamExpertDE</span></strong>
-- <u>Rang (ingame):</u> Supporter
-- <u>Hauptverantwortlich:</u> Map-Einsendungen, Zu Unrecht gebannt Forum
-- <u>Nebenverantwortlich:</u> Spieler melden Forum, YouTuber-Ränge
+- <u>Nebenverantwortlich:</u> Broadcasts
 
 ### <strong><span class='supporter'>Chrissi1505</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Community-Discord, Twitter
+- <u>Nebenverantwortlich:</u> Community-Discord, Entschuldigungen, Twitter
 
 ### <strong><span class='supporter'>CoveredSymmetry</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Hauptverantwortlich:</u> Broadcasts, Forenorganisation, Fragen und Antworten Forum
-- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum
-
-### <strong><span class='supporter'>felliongi21</span></strong>
-- <u>Rang (ingame):</u> Supporter
-- <u>Hauptverantwortlich:</u> Spieler melden Forum
-- <u>Nebenverantwortlich:</u> Anti-Cheat
-
-### <strong><span class='supporter'>Hiics</span></strong>
-- <u>Rang (ingame):</u> Supporter
+- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Entschuldigungen
 
 ### <strong><span class='supporter'>J4mPr0</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Map-Einsendungen, Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Entschuldigungen, Map-Einsendungen, Zu Unrecht gebannt Forum
 
 ### <strong><span class='supporter'>NetflixGutschein</span></strong>
 - <u>Rang (ingame):</u> Supporterin
-
-### <strong><span class='supporter'>Pexa</span></strong>
-- <u>Rang (ingame):</u> Supporter
 
 ### <strong><span class='supporter'>RodspamExpertRU</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Hauptverantwortlich:</u> Entschuldigungen
 - <u>Nebenverantwortlich:</u> Fragen und Antworten Forum, Map-Einsendungen
 
-### <strong><span class='supporter'>TetzelHD</span></strong>
-- <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Broadcasts
-
-### <strong><span class='supporter'>Tim9875432</span></strong>
+### <strong><span class='supporter'>Semolius</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
 ### <strong><span class='supporter'>xTessia</span></strong>
@@ -182,12 +151,8 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 - <u>Rang (ingame):</u> Builder
 - <u>Hauptverantwortlich:</u> Management des Bauteams
 
-### <strong><span class='builder'>168x12</span></strong>
+### <strong><span class='builder'>12Build</span></strong>
 - <u>Rang (ingame):</u> Builder
-- <u>Nebenverantwortlich:</u> Broadcasts
-
-### <strong><span class='builder'>Athenja</span></strong>
-- <u>Rang (ingame):</u> Builderin
 
 ### <strong><span class='builder'>B3artastic</span></strong>
 - <u>Rang (ingame):</u> Builder
@@ -195,12 +160,21 @@ Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entw
 
 ### <strong><span class='builder'>Char1sma</span></strong>
 - <u>Rang (ingame):</u> Builder
+- <u>Hauptverantwortlich:</u> Baufehlerbehebung
 
 ### <strong><span class='builder'>Dankbarkeit</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span class='builder'>Erdbeerkeks</span></strong>
 - <u>Rang (ingame):</u> Builder
+
+### <strong><span class='builder'>Jukplays</span></strong>
+- <u>Rang (ingame):</u> Builder
+- <u>Hauptverantwortlich:</u> Bauteam-Twitter, Management des Bauteams
+
+### <strong><span class='builder'>LegendBuild</span></strong>
+- <u>Rang (ingame):</u> Builder
+- <u>Nebenverantwortlich:</u> Baufehlerbehebung
 
 ### <strong><span class='builder'>Memoryos</span></strong>
 - <u>Rang (ingame):</u> Builder
