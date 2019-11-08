@@ -57,7 +57,7 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | ------ | ------ |
 |<span class='developer-plus'>svdragster</span> | Hauptverantwortlich |
 | | |
-|Moderatoren und Developer| Nebenverantwortlich |
+|Moderatoren und Developer | Nebenverantwortlich |
 
 ### **Entschuldigungen**
 | Teamler | Verantwortungsgrad |
@@ -128,8 +128,8 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 | ------ | ------ |
 |<span class='management'>Lascona</span> | Hauptverantwortlich |
 | | |
-|<span class='moderator'>physanus</span> | Twitter NV |
 |<span class='developer-plus'>tr7zw</span> | Twitter NV |
+|<span class='moderator'>physanus</span> | Twitter NV |
 |<span class='supporter'>Chrissi1505</span> | Twitter NV |
 |<span class='supporter'>xTessia</span> | Twitter NV |
 |<span class='moderator'>medicoo</span> | Bauteam-Twitter HV |
