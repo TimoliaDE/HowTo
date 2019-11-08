@@ -6,12 +6,12 @@ Sie übernehmen große Verantwortung in organisatorischen und verwaltungstechnis
 
 
 ### Developer
-Mit einer E-Mail an <a href="mailto:development@timolia.de">development@timolia.de</a> kannst Du Dich jederzeit als Developer bewerben. Vorausgesetzt werden ausführliche Kenntnisse
+Mit einer E-Mail an <a href="mailto:development@timolia.de">development@timolia.de</a> kannst du dich jederzeit als Developer bewerben. Vorausgesetzt werden ausführliche Kenntnisse
 über Java und die Spigot-API, Erfahrungen im Umgang mit Git, Teamfähigkeit und Grundkenntnisse der Sprache Englisch. Dein Bewerbungsschreiben
-sollte Deinen Ingamenamen, eine kurze Beschreibung Deiner Person, Darstellung Deiner Fähigkeiten und Kompetenzen und eine Angabe zur
-Kontaktmöglichkeit beinhalten. Außerdem bitten wir Dich, uns Zugriff auf von Dir programmierten Beispielcode zu geben. Optimalerweise sollte dieser auf GitLab, GitHub
+sollte deinen Ingamenamen, eine kurze Beschreibung deiner Person, Darstellung deiner Fähigkeiten und Kompetenzen und eine Angabe zur
+Kontaktmöglichkeit beinhalten. Außerdem bitten wir dich, uns Zugriff auf von dir programmierten Beispielcode zu geben. Optimalerweise sollte dieser auf GitLab, GitHub
 oder einer ähnlichen Plattform gehostet sein, da wir Beispielcode nicht als Datei akzeptieren. Wir achten vor allem auf sauberen, gut kommentierten
-Code, der Deine Fähigkeiten widerspiegelt. Auch solltest Du auf die Einhaltung der Java-Konventionen achten.
+Code, der deine Fähigkeiten widerspiegelt. Auch solltest du auf die Einhaltung der Java-Konventionen achten.
 
 Als <b>Developer+</b> verfügt man über langjährige Erfahrung als Entwickler auf Timolia und steht bei internen Fragen zum Development zur Verfügung. Bewerbungen für diesen Rang sind daher nicht möglich.
 
@@ -42,10 +42,10 @@ Die <b>HeadBuilder</b> bilden die Bauteamleitung auf Timolias. Da es sich um Tea
 
 ### Creator
 Als Creator kannst du dich per E-Mail an <a href="mailto:creator@timolia.de">creator@timolia.de</a> bewerben. Wichtig dabei ist, dass du uns deinen
-Ingame-Namen, eine kurze persönliche Beschreibung, einen Überblick über deine bisherigen Arbeiten/Erfahrungen ebenso wie Beispiele
+Ingamenamen, eine kurze persönliche Beschreibung, einen Überblick über deine bisherigen Arbeiten/Erfahrungen ebenso wie Beispiele
 deiner Arbeiten zukommen lässt. Je nachdem, für welchen kreativen Bereich du dich bewerben willst, benötigst du folgende Kenntnisse: Grundkenntnisse in Bildgestaltung
 und Bildbearbeitung, wenn du im bildnerischen bzw. gestalterischen Bereich tätig sein willst; Grundkenntnisse in Videoproduktion, Schnitt und sonstiger
-Postproduktion für den Schwerpunkt der (YouTube)Videoproduktion; Kreativität; Sprachliche Fähigkeiten; Kenntnis über Design und kreativen Aufbau Timolias.
+Postproduktion für den Schwerpunkt der (YouTube)Videoproduktion; Kreativität; sprachliche Fähigkeiten; Kenntnis über Design und kreativen Aufbau Timolias.
 
 
 ### Premium-Ränge
