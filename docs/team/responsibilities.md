@@ -8,7 +8,7 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span class='management'>Lascona</span> | Hauptverantwortlich |
-|<span class='supporter'>CoveredSymmetry</span> | Hauptverantwortlich |
+|<span class='supporter-plus'>CoveredSymmetry</span> | Hauptverantwortlich |
 | | |
 |<span class='moderator'>NameIsTaken</span> | Nebenverantwortlich |
 
@@ -18,16 +18,16 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | ------ | ------ |
 |<span class='management'>Lascona</span> | Hauptverantwortlich |
 | | |
-|<span class='supporter'>CoveredSymmetry</span> | Nebenverantwortlich |
+|<span class='supporter-plus'>CoveredSymmetry</span> | Nebenverantwortlich |
 
 ### **Fragen und Antworten**
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='supporter'>CoveredSymmetry</span> | Hauptverantwortlich |
+|<span class='supporter-plus'>CoveredSymmetry</span> | Hauptverantwortlich |
 | | |
 |<span class='developer-plus'>svdragster</span> | Nebenverantwortlich |
-|<span class='supporter'>RodspamExpertRU</span> | Nebenverantwortlich |
+|<span class='supporter-plus'>RodspamExpertRU</span> | Nebenverantwortlich |
 
 ### **Feedback**
 | Teamler | Verantwortungsgrad |
@@ -42,8 +42,8 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span class='moderator'>BowspamExpertDE</span> | Hauptverantwortlich |
 | | |
 |<span class='developer-plus'>svdragster</span> | Nebenverantwortlich |
-|<span class='supporter'>J4mPr0</span> | Nebenverantwortlich |
-|<span class='supporter'>RodspamExpertRU</span> | Nebenverantwortlich |
+|<span class='supporter-plus'>J4mPr0</span> | Nebenverantwortlich |
+|<span class='supporter-plus'>RodspamExpertRU</span> | Nebenverantwortlich |
 |<span class='builder'>B3artastic</span> | Nebenverantwortlich |
 
 ### **Spieler melden**
@@ -62,11 +62,11 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 ### **Entschuldigungen**
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='supporter'>RodspamExpertRU</span> | Hauptverantwortlich |
+|<span class='supporter-plus'>RodspamExpertRU</span> | Hauptverantwortlich |
 | | |
 |<span class='supporter'>Chrissi1505</span> | Nebenverantwortlich |
-|<span class='supporter'>CoveredSymmetry</span> | Nebenverantwortlich |
-|<span class='supporter'>J4mPr0</span> | Nebenverantwortlich |
+|<span class='supporter-plus'>CoveredSymmetry</span> | Nebenverantwortlich |
+|<span class='supporter-plus'>J4mPr0</span> | Nebenverantwortlich |
 |<span class='supporter'>xTessia</span> | Nebenverantwortlich |
 
 ### **Zu Unrecht gebannt**
@@ -75,7 +75,7 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span class='moderator'>BowspamExpertDE</span> | Hauptverantwortlich |
 | | |
 |<span class='moderator'>ferdedelino</span> | Nebenverantwortlich |
-|<span class='supporter'>J4mPr0</span> | Nebenverantwortlich |
+|<span class='supporter-plus'>J4mPr0</span> | Nebenverantwortlich |
 
 # Sonstige Aufgaben
 
@@ -176,7 +176,7 @@ Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadca
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span class='management'>Lascona</span> | Hauptverantwortlich |
-|<span class='supporter'>CoveredSymmetry</span> | Hauptverantwortlich |
+|<span class='supporter-plus'>CoveredSymmetry</span> | Hauptverantwortlich |
 | | |
 |<span class='moderator'>physanus</span> | Nebenverantwortlich |
 |<span class='supporter'>\_Tetzel\_</span> | Nebenverantwortlich |
