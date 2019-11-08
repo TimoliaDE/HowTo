@@ -19,7 +19,7 @@ Diese Teamler bilden die Leitung Timolias. Sie kümmern sich um die Verwaltung, 
 ### <strong><span class='management'>xiantiel</span></strong>
 - <u>Rang (ingame):</u> Management
 - <u>Hauptverantwortlich:</u> Technische Leitung, Projektleitung und -verwaltung, Systemadministration, DevOps
-- <u>Hauptverantwortlich:</u> Timolia-Plugins
+- <u>Nebenverantwortlich:</u> Timolia-Plugins
 
 
 
