@@ -58,7 +58,7 @@ Als kreative Ader sind sie für die verschiedensten Belange von Grafikdesign bis
 - <b><span class='youtuber'>YouTuber</span></b>:
 YouTuber sind Personen der Minecraft-Szene, die durch YouTube (in Einzelfällen auch Twitch) bekannt geworden sind. Für kleinere Youtuber gibt es den Rang <b><span class='mvp'>VIP</span></b>. Alles zu diesen Rängen [erfährst du hier](/ranks/youtube/).
 
-- <b>Premium-Ränge</b>:
+- <b><span class='expert'>Premium-Ränge</span></b>:
 Spieler mit einem unserer permanenten Premium-Ränge erhalten gewisse Vorteile. Welche Vorteile dir welcher Rang bietet, [erfährst du hier](/ranks/premium/).
 
 **Alles rund um Bewerbungen [ist hier zu finden](/team/apply/).** Solltest du Probleme mit deinem  Premium-Rang haben, findest du [hier Hilfe](/ranks/premium/).

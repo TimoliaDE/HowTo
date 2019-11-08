@@ -46,17 +46,17 @@ Sie führen Updates durch und sorgen für ein reibungsloses Spielerlebnis im All
 Sie verfügen über langjährige Erfahrung als Entwickler auf Timolia und stehen bei internen Fragen zum Development zur Verfügung. 
 Auch kümmern sie sich um Timolia Plugins, entwickeln neue Features und Spielmodi und beheben mögliche Spielfehler.
 
-### <strong><span class='administrator'>svdragster</span></strong>
+### <strong><span class='developer-plus'>svdragster</span></strong>
 - <u>Rang (ingame):</u> Developer+
 - <u>Hauptverantwortlich:</u> Anti-Cheat, Timolia-Plugins
 - <u>Nebenverantwortlich:</u> Feedback Forum, Fragen und Antworten Forum, Map-Einsendungen
 
-### <strong><span class='developer'>MCelements</span></strong>
+### <strong><span class='developer-plus'>MCelements</span></strong>
 - <u>Rang (ingame):</u> Developer+
 - <u>Hauptverantwortlich:</u> TeamSpeak, Timolia-Plugins, Organisation und Betreuung neuer Developer
 - <u>Nebenverantwortlich:</u> Systemadministration, Verschicken von Reddit-Hundeposts
 
-### <strong><span class='developer'>tr7zw</span></strong>
+### <strong><span class='developer-plus'>tr7zw</span></strong>
 - <u>Rang (ingame):</u> Developer+
 
 
@@ -132,16 +132,16 @@ Sie dienen als interne Ansprechpartner bei Fragen und koordinieren häufig einze
 Sie verfügen über ein umfassendes Fachwissen und stehen für alle Fragen und Reports zur Verfügung. 
 Sie sind die ersten, an die sich Spieler mit ihren Anliegen wenden können.
 
-### <strong><span class='supporter'>CoveredSymmetry</span></strong>
+### <strong><span class='supporter-plus'>CoveredSymmetry</span></strong>
 - <u>Rang (ingame):</u> Supporter+
 - <u>Hauptverantwortlich:</u> Broadcasts, Forenorganisation, Fragen und Antworten Forum
 - <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Entschuldigungen
 
-### <strong><span class='supporter'>J4mPr0</span></strong>
+### <strong><span class='supporter-plus'>J4mPr0</span></strong>
 - <u>Rang (ingame):</u> Supporter+
 - <u>Nebenverantwortlich:</u> Entschuldigungen, Map-Einsendungen, Zu Unrecht gebannt Forum
 
-### <strong><span class='supporter'>RodspamExpertRU</span></strong>
+### <strong><span class='supporter-plus'>RodspamExpertRU</span></strong>
 - <u>Rang (ingame):</u> Supporter+
 - <u>Hauptverantwortlich:</u> Entschuldigungen
 - <u>Nebenverantwortlich:</u> Fragen und Antworten Forum, Map-Einsendungen
