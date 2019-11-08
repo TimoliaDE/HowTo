@@ -8,12 +8,12 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | Lascona | <span class='administrator'>Administratorin</span> | <span class='management'>Management</span> | 08.11.19 |
 | MCExpertDE | <span class='administrator'>Administrator</span> | <span class='management'>Management</span> | 08.11.19 |
 | xiantiel | <span class='administrator'>Administrator</span> | <span class='management'>Management</span> | 08.11.19 |
-| Caelis | <span class='administrator'>Administrator</span> | <span class='sysadmin'>Sysadmin</span> | 08.11.19 |
-| Docmac | <span class='administrator'>Administrator</span> | <span class='sysadmin'>Sysadmin</span> | 08.11.19 |
+| Caelis | <span class='administrator'>Administrator</span> | <span class='sysadmin'>SysAdmin</span> | 08.11.19 |
+| Docmac | <span class='administrator'>Administrator</span> | <span class='sysadmin'>SysAdmin</span> | 08.11.19 |
 | svdragster | <span class='administrator'>Administrator</span> | <span class='developer-plus'>Developer+</span> | 08.11.19 |
 | MCelements | <span class='developer'>Developer</span> | <span class='developer-plus'>Developer+</span> | 08.11.19 |
 | tr7zw | <span class='developer'>Developer</span> | <span class='developer-plus'>Developer+</span> | 08.11.19 |
-| zortax | <span class='developer'>Developer</span> | <span class='sysadmin'>Sysadmin</span> | 08.11.19 |
+| zortax | <span class='developer'>Developer</span> | <span class='sysadmin'>SysAdmin</span> | 08.11.19 |
 | CoveredSymmetry | <span class='supporter'>Supporter</span> | <span class='supporter-plus'>Supporter+</span> | 08.11.19 |
 | J4mPr0 | <span class='supporter'>Supporter</span> | <span class='supporter-plus'>Supporter+</span> | 08.11.19 |
 | RodspamExpertRU | <span class='supporter'>Supporter</span> | <span class='supporter-plus'>Supporter+</span> | 08.11.19 |

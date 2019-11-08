@@ -21,7 +21,7 @@ Leider musste City am 16.12.2018 aus verschiedenen Gründen schließen. Mehr Inf
 - <b><span class='management'>Management</span></b>:
 Diese Teamler bilden die Leitung Timolias. Sie kümmern sich um die Verwaltung, Organisation und die Teamleitung.
 
-- <b><span class='sysadmin'>Sysadmin</span></b>:
+- <b><span class='sysadmin'>SysAdmin</span></b>:
 Systemadministratoren planen, installieren, konfigurieren und warten die technischen Systeme Timolias. 
 Sie führen Updates durch und sorgen für ein reibungsloses Spielerlebnis im Alltag.
 
