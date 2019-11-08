@@ -16,7 +16,6 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | zortax | <span class='developer'>Developer</span> | <span class='developer-plus'>Developer+</span> | 08.11.19 |
 | CrystalSky | <span class='builder'>Builder</span> | <span class='headbuilder'>HeadBuilder</span> | 08.11.19 |
 | JukPlays | <span class='builder'>Builder</span> | <span class='headbuilder'>HeadBuilder</span> | 08.11.19 |
-
 | Kroseida | <span class='developer'>Developer</span> | <span class='user'>Spieler</span> | 06.11.19 |
 | Flubio | <span class='developer'>Developer</span> | <span class='user'>Spieler</span> | 05.11.19 |
 | Hiics | <span class='supporter'>Supporter</span> | <span class='mvp'>Native MVP</span> | 05.11.19 |
