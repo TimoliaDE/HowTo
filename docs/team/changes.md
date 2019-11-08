@@ -5,6 +5,20 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>November</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| Lascona | <span class='administrator'>Administratorin</span> | <span class='management'>Management</span> | 08.11.19 |
+| MCExpertDE | <span class='administrator'>Administrator</span> | <span class='management'>Management</span> | 08.11.19 |
+| xiantiel | <span class='administrator'>Administrator</span> | <span class='management'>Management</span> | 08.11.19 |
+| Caelis | <span class='administrator'>Administrator</span> | <span class='sysadmin'>SysAdmin</span> | 08.11.19 |
+| Docmac | <span class='administrator'>Administrator</span> | <span class='sysadmin'>SysAdmin</span> | 08.11.19 |
+| svdragster | <span class='administrator'>Administrator</span> | <span class='developer-plus'>Developer+</span> | 08.11.19 |
+| MCelements | <span class='developer'>Developer</span> | <span class='developer-plus'>Developer+</span> | 08.11.19 |
+| tr7zw | <span class='developer'>Developer</span> | <span class='developer-plus'>Developer+</span> | 08.11.19 |
+| zortax | <span class='developer'>Developer</span> | <span class='sysadmin'>SysAdmin</span> | 08.11.19 |
+| CoveredSymmetry | <span class='supporter'>Supporter</span> | <span class='supporter-plus'>Supporter+</span> | 08.11.19 |
+| J4mPr0 | <span class='supporter'>Supporter</span> | <span class='supporter-plus'>Supporter+</span> | 08.11.19 |
+| RodspamExpertRU | <span class='supporter'>Supporter</span> | <span class='supporter-plus'>Supporter+</span> | 08.11.19 |
+| CrystalSky | <span class='builder'>Builder</span> | <span class='headbuilder'>HeadBuilder</span> | 08.11.19 |
+| JukPlays | <span class='builder'>Builder</span> | <span class='headbuilder'>HeadBuilder</span> | 08.11.19 |
 | Kroseida | <span class='developer'>Developer</span> | <span class='user'>Spieler</span> | 06.11.19 |
 | Flubio | <span class='developer'>Developer</span> | <span class='user'>Spieler</span> | 05.11.19 |
 | Hiics | <span class='supporter'>Supporter</span> | <span class='mvp'>Native MVP</span> | 05.11.19 |

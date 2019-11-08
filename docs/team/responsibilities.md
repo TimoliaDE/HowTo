@@ -7,8 +7,8 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='administrator'>Lascona</span> | Hauptverantwortlich |
-|<span class='supporter'>CoveredSymmetry</span> | Hauptverantwortlich |
+|<span class='management'>Lascona</span> | Hauptverantwortlich |
+|<span class='supporter-plus'>CoveredSymmetry</span> | Hauptverantwortlich |
 | | |
 |<span class='moderator'>NameIsTaken</span> | Nebenverantwortlich |
 
@@ -16,34 +16,34 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='administrator'>Lascona</span> | Hauptverantwortlich |
+|<span class='management'>Lascona</span> | Hauptverantwortlich |
 | | |
-|<span class='supporter'>CoveredSymmetry</span> | Nebenverantwortlich |
+|<span class='supporter-plus'>CoveredSymmetry</span> | Nebenverantwortlich |
 
 ### **Fragen und Antworten**
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='supporter'>CoveredSymmetry</span> | Hauptverantwortlich |
+|<span class='supporter-plus'>CoveredSymmetry</span> | Hauptverantwortlich |
 | | |
-|<span class='administrator'>svdragster</span> | Nebenverantwortlich |
-|<span class='supporter'>RodspamExpertRU</span> | Nebenverantwortlich |
+|<span class='developer-plus'>svdragster</span> | Nebenverantwortlich |
+|<span class='supporter-plus'>RodspamExpertRU</span> | Nebenverantwortlich |
 
 ### **Feedback**
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='administrator'>Lascona</span> | Hauptverantwortlich |
+|<span class='management'>Lascona</span> | Hauptverantwortlich |
 | | |
-|<span class='administrator'>svdragster</span> | Nebenverantwortlich |
+|<span class='developer-plus'>svdragster</span> | Nebenverantwortlich |
 
 ### **Map-Einsendungen**
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span class='moderator'>BowspamExpertDE</span> | Hauptverantwortlich |
 | | |
-|<span class='administrator'>svdragster</span> | Nebenverantwortlich |
-|<span class='supporter'>J4mPr0</span> | Nebenverantwortlich |
-|<span class='supporter'>RodspamExpertRU</span> | Nebenverantwortlich |
+|<span class='developer-plus'>svdragster</span> | Nebenverantwortlich |
+|<span class='supporter-plus'>J4mPr0</span> | Nebenverantwortlich |
+|<span class='supporter-plus'>RodspamExpertRU</span> | Nebenverantwortlich |
 |<span class='builder'>B3artastic</span> | Nebenverantwortlich |
 
 ### **Spieler melden**
@@ -55,18 +55,18 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 ### **Bug melden**
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='administrator'>svdragster</span> | Hauptverantwortlich |
+|<span class='developer-plus'>svdragster</span> | Hauptverantwortlich |
 | | |
-|Moderatoren und Developer| Nebenverantwortlich |
+|Moderatoren und Developer | Nebenverantwortlich |
 
 ### **Entschuldigungen**
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='supporter'>RodspamExpertRU</span> | Hauptverantwortlich |
+|<span class='supporter-plus'>RodspamExpertRU</span> | Hauptverantwortlich |
 | | |
 |<span class='supporter'>Chrissi1505</span> | Nebenverantwortlich |
-|<span class='supporter'>CoveredSymmetry</span> | Nebenverantwortlich |
-|<span class='supporter'>J4mPr0</span> | Nebenverantwortlich |
+|<span class='supporter-plus'>CoveredSymmetry</span> | Nebenverantwortlich |
+|<span class='supporter-plus'>J4mPr0</span> | Nebenverantwortlich |
 |<span class='supporter'>xTessia</span> | Nebenverantwortlich |
 
 ### **Zu Unrecht gebannt**
@@ -75,7 +75,7 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span class='moderator'>BowspamExpertDE</span> | Hauptverantwortlich |
 | | |
 |<span class='moderator'>ferdedelino</span> | Nebenverantwortlich |
-|<span class='supporter'>J4mPr0</span> | Nebenverantwortlich |
+|<span class='supporter-plus'>J4mPr0</span> | Nebenverantwortlich |
 
 # Sonstige Aufgaben
 
@@ -84,7 +84,7 @@ Diese Teamler sorgen für einen fortlaufend reibungslosen Spielverlauf ohne Hack
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='administrator'>svdragster</span> | Hauptverantwortlich |
+|<span class='developer-plus'>svdragster</span> | Hauptverantwortlich |
 |<span class='developer'>Raziel</span> | Hauptverantwortlich |
 
 ### **Bugs und Spielfehler**
@@ -92,7 +92,7 @@ Bei jeglichen Fehlern in den Diensten von Timolia kümmert sich dieser Teamler d
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='administrator'>svdragster</span> | Hauptverantwortlich |
+|<span class='developer-plus'>svdragster</span> | Hauptverantwortlich |
 
 ### **Baufehlerbehebung**
 Bei jeglichen Baufehlern auf den Maps von Timolia kümmern sich diese Teamler darum, dass die Bugs behoben werden.
@@ -110,7 +110,7 @@ Wenn es wieder daran geht, neue Supporter in unsere Reihen zu holen, kümmern si
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='administrator'>Lascona</span> | Hauptverantwortlich |
+|<span class='management'>Lascona</span> | Hauptverantwortlich |
 |<span class='moderator'>ferdedelino</span> | Hauptverantwortlich |
 |<span class='moderator'>NameIsTaken</span> | Hauptverantwortlich |
 
@@ -126,14 +126,14 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 
 | Teamler | Projekte u. Verantwortungsgrad |
 | ------ | ------ |
-|<span class='administrator'>Lascona</span> | Hauptverantwortlich |
+|<span class='management'>Lascona</span> | Hauptverantwortlich |
 | | |
+|<span class='developer-plus'>tr7zw</span> | Twitter NV |
 |<span class='moderator'>physanus</span> | Twitter NV |
-|<span class='developer'>tr7zw</span> | Twitter NV |
 |<span class='supporter'>Chrissi1505</span> | Twitter NV |
 |<span class='supporter'>xTessia</span> | Twitter NV |
 |<span class='moderator'>medicoo</span> | Bauteam-Twitter HV |
-|<span class='builder'>Jukplays</span> | Bauteam-Twitter HV |
+|<span class='headbuilder'>Jukplays</span> | Bauteam-Twitter HV |
 |<span class='moderator'>physanus</span> | Bauteam-Twitter NV |
 
 ### **TeamSpeak**
@@ -141,7 +141,7 @@ Der TeamSpeak von Timolia ist unter ts.timolia.de zu erreichen. Er wird betreut 
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='developer'>MCelements</span> | Hauptverantwortlich |
+|<span class='developer-plus'>MCelements</span> | Hauptverantwortlich |
 | | |
 |<span class='moderator'>medicoo</span> | Nebenverantwortlich |
 |<span class='moderator'>physanus</span> | Nebenverantwortlich |
@@ -154,7 +154,7 @@ Der Community-Discord von Timolia ist unter [https://timolia.de/discord](https:/
 | ------ | ------ |
 |<span class='moderator'>NameIsTaken</span> | Hauptverantwortlich |
 | | |
-|<span class='administrator'>Lascona</span> | Nebenverantwortlich |
+|<span class='management'>Lascona</span> | Nebenverantwortlich |
 |<span class='moderator'>ferdedelino</span> | Nebenverantwortlich |
 |<span class='supporter'>Chrissi1505</span> | Nebenverantwortlich |
 
@@ -163,7 +163,7 @@ Dieses Team entscheidet über die Turniereinstellungen bei den Freitagsturnieren
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='administrator'>Lascona</span> | Hauptverantwortlich |
+|<span class='management'>Lascona</span> | Hauptverantwortlich |
 |<span class='moderator'>medicoo</span> | Hauptverantwortlich |
 | | |
 |<span class='moderator'>ferdedelino</span> | Nebenverantwortlich |
@@ -175,11 +175,10 @@ Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadca
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='administrator'>Lascona</span> | Hauptverantwortlich |
-|<span class='supporter'>CoveredSymmetry</span> | Hauptverantwortlich |
+|<span class='management'>Lascona</span> | Hauptverantwortlich |
+|<span class='supporter-plus'>CoveredSymmetry</span> | Hauptverantwortlich |
 | | |
 |<span class='moderator'>physanus</span> | Nebenverantwortlich |
-|<span class='developer'>MCelements</span> | Nebenverantwortlich |
 |<span class='supporter'>\_Tetzel\_</span> | Nebenverantwortlich |
 |<span class='supporter'>xTessia</span> | Nebenverantwortlich |
 
@@ -188,16 +187,16 @@ Im Timolia Team gibt es kleinere Teams, welche unter anderem durch diese Verantw
 
 | Teamler | Zuständigkeit |
 | ------ | ------ |
-|<span class='administrator'>Lascona</span>    | Management des gesamten Timolia-Teams |
+|<span class='management'>Lascona</span>    | Management des gesamten Timolia-Teams |
 |<span class='moderator'>medicoo</span>        | Management des Bau-Teams |
-|<span class='builder'>\_CrystalSky\_</span>   | Management des Bau-Teams |
+|<span class='headbuilder'>\_CrystalSky\_</span>   | Management des Bau-Teams |
 
 ### **YouTuber-Ränge**
 Wenn sich ein YouTuber für einen Rang auf Timolia interessiert, werden die Anfragen von diesem Team bearbeitet.
 
 | Teamler | Zuständigkeit |
 | ------ | ------ |
-|<span class='administrator'>Lascona</span> | Hauptverantwortlich |
+|<span class='management'>Lascona</span> | Hauptverantwortlich |
 |<span class='moderator'>medicoo</span> | Hauptverantwortlich |
 | | |
 |<span class='moderator'>BowspamExpertDE</span> | Nebenverantwortlich |

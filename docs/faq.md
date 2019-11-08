@@ -18,32 +18,47 @@ Mit dem CityBuild begann alles. Am 07.05.2011 gründete Tim den CityBuild Timoli
 Leider musste City am 16.12.2018 aus verschiedenen Gründen schließen. Mehr Informationen dazu erhältst du [hier](http://timolia.de/city).
 
 ### Welche Ränge gibt es?
-- <b><span class='administrator'>Administratoren</span></b>:
-Sie kümmern sich um die Technik von Timolia. Angefangen bei den Plugins, über CraftBukkit bis hin zu den Root-Servern und dem Bungeecord-Netzwerk.
-Des Weiteren sind sie für die Website und den TeamSpeak-Server zuständig.
+- <b><span class='management'>Management</span></b>:
+Diese Teamler bilden die Leitung Timolias. Sie kümmern sich um die Verwaltung, Organisation und die Teamleitung.
 
+- <b><span class='sysadmin'>SysAdmin</span></b>:
+Systemadministratoren planen, installieren, konfigurieren und warten die technischen Systeme Timolias. 
+Sie führen Updates durch und sorgen für ein reibungsloses Spielerlebnis im Alltag.
 
-- <b><span class='moderator'>Moderatoren</span></b>:
-Sie koordinieren Supporter und dienen sowohl als Ansprechpartner als auch als Brücke zwischen Supportern und Administratoren.
-Er/Sie bündelt Fragen und Probleme und leitet diese weiter. Teammitglieder mit speziellen Aufgabenbereichen sind meist ebenfalls Moderatoren, 
-hierzu gehören zum Beispiel YouTube, TeamSpeak, Forum oder andere Bereiche.
+- <b><span class='developer-plus'>Developer+</span></b>:
+Sie verfügen über langjährige Erfahrung als Entwickler auf Timolia und stehen bei internen Fragen zum Development zur Verfügung. 
+Auch kümmern sie sich um Timolia Plugins, entwickeln neue Features und Spielmodi und beheben mögliche Spielfehler.
 
 - <b><span class='developer'>Developer</span></b>:
-Sie kümmern sich um die Timolia-Plugins, entwickeln neue Features und Spielmodi und helfen bei Problemen und Bugs.
+Developer kümmern sich um die Timolia Plugins, entwickeln neue Features und Spielmodi und kümmern sich um die Bugs, pardon, Features auf Timolia. 
+
+- <b><span class='moderator'>Moderator</span></b>:
+Moderatoren sind langjährige und besonders erfahrene Teamler, die einzigartige Expertise in ihrem jeweiligen Fachgebiet aufweisen. 
+Sie dienen als interne Ansprechpartner bei Fragen und koordinieren häufig einzelne Aufgabengebiete.
+
+- <b><span class='supporter-plus'>Supporter+</span></b>:
+Sie verfügen über ein umfassendes Fachwissen und stehen für alle Fragen und Reports zur Verfügung. 
+Sie sind die ersten, an die sich Spieler mit ihren Anliegen wenden können.
 
 - <b><span class='supporter'>Supporter</span></b>:
-Sie stehen für alle grundlegenden Fragen zur Verfügung, nehmen Reports entgegen und sind die ersten Ansprechpartner, wenn du Probleme hast.
+Supporter stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind die ersten, an die sich Spieler mit ihren Anliegen wenden können.
+
+- <b><span class='headbuilder'>HeadBuilder</span></b>:
+Sie leiten und organisieren das Bauteam und dienen als erste Ansprechpartner für alle Builder. 
+Außerdem kümmern sie sich um die Auswahl und Einarbeitung neuer Builder und sind die Schnittstelle 
+zwischen dem Bauteam und der allgemeinen Projektorganisation.
 
 - <b><span class='builder'>Builder</span></b>:
-Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entwerfen stetig neue Bauten.
+Das Bauteam kreiert neue Maps und Lobbys für alle Gelegenheiten und Spielmodi auf Timolia. 
+Sie betreuen die architektonische Gestaltung neuer Modi und betreuen externe Mapeinsendungen.
 
 - <b><span class='creator'>Creator</span></b>:
-Creator sind für kreative Arbeiten, wie Texte, Bilder und Grafiken zuständig und sind kreative Köpfe des Teams.
+Als kreative Ader sind sie für die verschiedensten Belange von Grafikdesign bis Übersetzung zuständig.
 
 - <b><span class='youtuber'>YouTuber</span></b>:
 YouTuber sind Personen der Minecraft-Szene, die durch YouTube (in Einzelfällen auch Twitch) bekannt geworden sind. Für kleinere Youtuber gibt es den Rang <b><span class='mvp'>VIP</span></b>. Alles zu diesen Rängen [erfährst du hier](/ranks/youtube/).
 
-- <b>Premium-Ränge</b>:
+- <b><span class='expert'>Premium-Ränge</span></b>:
 Spieler mit einem unserer permanenten Premium-Ränge erhalten gewisse Vorteile. Welche Vorteile dir welcher Rang bietet, [erfährst du hier](/ranks/premium/).
 
 **Alles rund um Bewerbungen [ist hier zu finden](/team/apply/).** Solltest du Probleme mit deinem  Premium-Rang haben, findest du [hier Hilfe](/ranks/premium/).
