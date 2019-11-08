@@ -14,6 +14,9 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | MCelements | <span class='developer'>Developer</span> | <span class='developer-plus'>Developer+</span> | 08.11.19 |
 | svdragster | <span class='administrator'>Administrator</span> | <span class='developer-plus'>Developer+</span> | 08.11.19 |
 | tr7zw | <span class='developer'>Developer</span> | <span class='developer-plus'>Developer+</span> | 08.11.19 |
+| CoveredSymmetry | <span class='supporter'>Supporter</span> | <span class='supporter-plus'>Supporter+</span> | 08.11.19 |
+| J4mPr0 | <span class='supporter'>Supporter</span> | <span class='supporter-plus'>Supporter+</span> | 08.11.19 |
+| RodspamExpertRU | <span class='supporter'>Supporter</span> | <span class='supporter-plus'>Supporter+</span> | 08.11.19 |
 | CrystalSky | <span class='builder'>Builder</span> | <span class='headbuilder'>HeadBuilder</span> | 08.11.19 |
 | JukPlays | <span class='builder'>Builder</span> | <span class='headbuilder'>HeadBuilder</span> | 08.11.19 |
 | Kroseida | <span class='developer'>Developer</span> | <span class='user'>Spieler</span> | 06.11.19 |
