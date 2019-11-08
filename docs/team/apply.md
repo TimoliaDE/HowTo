@@ -1,4 +1,4 @@
-Ob und wie du dich im Bereich des Managements, als Sysadmin, Developer, Moderator, Supporter, HeadBuilder, Builder oder Creator bewerben kannst, erfährst du hier.
+Ob und wie du dich im Bereich des Managements, als System-Administrator, Developer, Moderator, Supporter, HeadBuilder, Builder oder Creator bewerben kannst, erfährst du hier.
 
 ### Management, Moderator und System-Administrator
 Diese Ränge werden nur an aktive Teamler vergeben. Außenstehende können sich nicht auf diese Ränge bewerben. 
