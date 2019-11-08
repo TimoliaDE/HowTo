@@ -10,10 +10,10 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | xiantiel | <span class='administrator'>Administrator</span> | <span class='management'>Management</span> | 08.11.19 |
 | Caelis | <span class='administrator'>Administrator</span> | <span class='sysadmin'>Sysadmin</span> | 08.11.19 |
 | Docmac | <span class='administrator'>Administrator</span> | <span class='sysadmin'>Sysadmin</span> | 08.11.19 |
-| svdragster | <span class='administrator'>Administrator</span> | <span class='sysadmin'>Sysadmin</span> | 08.11.19 |
+| zortax | <span class='developer'>Developer</span> | <span class='sysadmin'>Sysadmin</span> | 08.11.19 |
 | MCelements | <span class='developer'>Developer</span> | <span class='developer-plus'>Developer+</span> | 08.11.19 |
+| svdragster | <span class='administrator'>Administrator</span> | <span class='developer-plus'>Developer+</span> | 08.11.19 |
 | tr7zw | <span class='developer'>Developer</span> | <span class='developer-plus'>Developer+</span> | 08.11.19 |
-| zortax | <span class='developer'>Developer</span> | <span class='developer-plus'>Developer+</span> | 08.11.19 |
 | CrystalSky | <span class='builder'>Builder</span> | <span class='headbuilder'>HeadBuilder</span> | 08.11.19 |
 | JukPlays | <span class='builder'>Builder</span> | <span class='headbuilder'>HeadBuilder</span> | 08.11.19 |
 | Kroseida | <span class='developer'>Developer</span> | <span class='user'>Spieler</span> | 06.11.19 |
