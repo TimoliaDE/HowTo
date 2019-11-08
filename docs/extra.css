@@ -278,29 +278,54 @@ article preview text color
 style ranks
  */
 
-.administrator {
+.management {
     color: #2a84c0;
 }
 
-.moderator {
-    color: #da0101;
+
+.sysadmin {
+    color: #009e18;
+}
+
+.developer-plus {
+    color: #009e18;
 }
 
 .developer {
     color: #009e18;
 }
 
-.creator {
-    color: #009e18;
+
+.moderator {
+    color: #da0101;
+}
+
+.supporter-plus {
+    color: #ebd700;
 }
 
 .supporter {
     color: #ebd700;
 }
 
+
+.headbuilder {
+    color: #008a99;
+}
+
+.builder-plus {
+    color: #008a99;
+}
+
 .builder {
     color: #008a99;
 }
+
+.creator {
+    color: #008a99;
+}
+
+
 
 .youtuber {
     color: #b800b8;
@@ -321,6 +346,17 @@ style ranks
 .user {
     color: #919191;
 }
+
+
+/*
+old ranks
+ */
+
+.administrator {
+    color: #2a84c0;
+}
+
+
 
 
 /**

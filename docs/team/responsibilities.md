@@ -179,7 +179,6 @@ Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadca
 |<span class='supporter'>CoveredSymmetry</span> | Hauptverantwortlich |
 | | |
 |<span class='moderator'>physanus</span> | Nebenverantwortlich |
-|<span class='developer'>MCelements</span> | Nebenverantwortlich |
 |<span class='supporter'>\_Tetzel\_</span> | Nebenverantwortlich |
 |<span class='supporter'>xTessia</span> | Nebenverantwortlich |
 

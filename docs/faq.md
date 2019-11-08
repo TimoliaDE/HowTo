@@ -18,36 +18,42 @@ Mit dem CityBuild begann alles. Am 07.05.2011 gründete Tim den CityBuild Timoli
 Leider musste City am 16.12.2018 aus verschiedenen Gründen schließen. Mehr Informationen dazu erhältst du [hier](http://timolia.de/city).
 
 ### Welche Ränge gibt es?
-- <b><span class='administrator'>Einhorn</span></b>:
-Diese Teamler bilden die Leitung Timolias. Sie kümmern sich um die Verwaltung und die Teamleitung.
+- <b><span class='management'>Management</span></b>:
+Diese Teamler bilden die Leitung Timolias. Sie kümmern sich um die Verwaltung, Organisation und die Teamleitung.
 
-- <b><span class='administrator'>Sysadmin</span></b>:
-Systemadministratoren planen, installieren, konfigurieren und warten die technischen Systeme Timolias. Sie führen Updates durch und sorgen für ein
-reibungsloses Spielerlebnis im Alltag.
+- <b><span class='sysadmin'>Sysadmin</span></b>:
+Systemadministratoren planen, installieren, konfigurieren und warten die technischen Systeme Timolias. 
+Sie führen Updates durch und sorgen für ein reibungsloses Spielerlebnis im Alltag.
 
-- <b><span class='developer'>Developer+</span></b>:
-Sie verfügen über langjährige Erfahrung als Entwickler auf Timolia und stehen bei internen Fragen zum Development zur Verfügung.
+- <b><span class='developer-plus'>Developer+</span></b>:
+Sie verfügen über langjährige Erfahrung als Entwickler auf Timolia und stehen bei internen Fragen zum Development zur Verfügung. 
 Auch kümmern sie sich um Timolia Plugins, entwickeln neue Features und Spielmodi und beheben mögliche Spielfehler.
 
 - <b><span class='developer'>Developer</span></b>:
 Developer kümmern sich um die Timolia Plugins, entwickeln neue Features und Spielmodi und kümmern sich um die Bugs, pardon, Features auf Timolia. 
 
-- <b><span class='moderator'>Moderatoren</span></b>:
-Moderatoren sind langjährige und besonders erfahrene Teamler, die besondere Expertise in ihrem jeweiligen Fachgebiet aufweisen.
+- <b><span class='moderator'>Moderator</span></b>:
+Moderatoren sind langjährige und besonders erfahrene Teamler, die einzigartige Expertise in ihrem jeweiligen Fachgebiet aufweisen. 
 Sie dienen als interne Ansprechpartner bei Fragen und koordinieren häufig einzelne Aufgabengebiete.
 
-- <b><span class='supporter'>Supporter+</span></b>:
-Sien verfügen über ein umfassendes Fachwissen und stehen für alle Fragen und Reports zur Verfügung. Sie sind die ersten, an die sich Spieler mit ihren Anliegen wenden können.
+- <b><span class='supporter-plus'>Supporter+</span></b>:
+Sie verfügen über ein umfassendes Fachwissen und stehen für alle Fragen und Reports zur Verfügung. 
+Sie sind die ersten, an die sich Spieler mit ihren Anliegen wenden können.
 
 - <b><span class='supporter'>Supporter</span></b>:
 Supporter stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind die ersten, an die sich Spieler mit ihren Anliegen wenden können.
 
+- <b><span class='headbuilder'>HeadBuilder</span></b>:
+Sie leiten und organisieren das Bauteam und dienen als erste Ansprechpartner für alle Builder. 
+Außerdem kümmern sie sich um die Auswahl und Einarbeitung neuer Builder und sind die Schnittstelle 
+zwischen dem Bauteam und der allgemeinen Projektorganisation.
 
 - <b><span class='builder'>Builder</span></b>:
-Sie sind für die Arenen und Maps des Timolia-Netzwerkes verantwortlich und entwerfen stetig neue Bauten.
+Das Bauteam kreiert neue Maps und Lobbys für alle Gelegenheiten und Spielmodi auf Timolia. 
+Sie betreuen die architektonische Gestaltung neuer Modi und betreuen externe Mapeinsendungen.
 
 - <b><span class='creator'>Creator</span></b>:
-Creator sind für kreative Arbeiten, wie Texte, Bilder und Grafiken zuständig und sind kreative Köpfe des Teams.
+Als kreative Ader sind sie für die verschiedensten Belange von Grafikdesign bis Übersetzung zuständig.
 
 - <b><span class='youtuber'>YouTuber</span></b>:
 YouTuber sind Personen der Minecraft-Szene, die durch YouTube (in Einzelfällen auch Twitch) bekannt geworden sind. Für kleinere Youtuber gibt es den Rang <b><span class='mvp'>VIP</span></b>. Alles zu diesen Rängen [erfährst du hier](/ranks/youtube/).
