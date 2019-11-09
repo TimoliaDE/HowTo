@@ -118,7 +118,7 @@ Sie dienen als interne Ansprechpartner bei Fragen und koordinieren häufig einze
 
 ### <strong><span class='moderator'>NameIsTaken</span></strong>
 - <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Community-Discord, Supporterauswahl
+- <u>Hauptverantwortlich:</u> Supporterauswahl
 - <u>Nebenverantwortlich:</u> Forenorganisation
 
 ### <strong><span class='moderator'>physanus</span></strong>
