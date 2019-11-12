@@ -1,4 +1,4 @@
-Das Timolia-Team besteht aktuell aus insgesamt 42 Mitgliedern.  
+Das Timolia-Team besteht aktuell aus insgesamt 41 Mitgliedern.  
 Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbereichen.
 
 
@@ -115,11 +115,6 @@ Sie dienen als interne Ansprechpartner bei Fragen und koordinieren häufig einze
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Bauteam-Twitter, Management des Bauteams, Timolia Turnier Organisation, YouTuber-Ränge
 - <u>Nebenverantwortlich:</u> TeamSpeak
-
-### <strong><span class='moderator'>NameIsTaken</span></strong>
-- <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Supporterauswahl
-- <u>Nebenverantwortlich:</u> Forenorganisation
 
 ### <strong><span class='moderator'>physanus</span></strong>
 - <u>Rang (ingame):</u> Moderator

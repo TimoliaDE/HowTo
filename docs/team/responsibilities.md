@@ -9,8 +9,6 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | ------ | ------ |
 |<span class='management'>Lascona</span> | Hauptverantwortlich |
 |<span class='supporter-plus'>CoveredSymmetry</span> | Hauptverantwortlich |
-| | |
-|<span class='moderator'>NameIsTaken</span> | Nebenverantwortlich |
 
 ### **Anregungen und Vorschläge**
 
@@ -112,7 +110,6 @@ Wenn es wieder daran geht, neue Supporter in unsere Reihen zu holen, kümmern si
 | ------ | ------ |
 |<span class='management'>Lascona</span> | Hauptverantwortlich |
 |<span class='moderator'>ferdedelino</span> | Hauptverantwortlich |
-|<span class='moderator'>NameIsTaken</span> | Hauptverantwortlich |
 
 ### **Timolia HowTo**
 Diese Teamler kümmern sich um's Aktualisieren und Erstellen des HowTos Timolias.
@@ -152,8 +149,6 @@ Der Community-Discord von Timolia ist unter [https://timolia.de/discord](https:/
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='moderator'>NameIsTaken</span> | Hauptverantwortlich |
-| | |
 |<span class='management'>Lascona</span> | Nebenverantwortlich |
 |<span class='moderator'>ferdedelino</span> | Nebenverantwortlich |
 |<span class='supporter'>Chrissi1505</span> | Nebenverantwortlich |
