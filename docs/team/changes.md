@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>November</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| NameIsTaken | <span class='moderator'>Moderator</span> | <span class='expert'>Native Expert</span> | 12.11.19 |
 | Lascona | <span class='administrator'>Administratorin</span> | <span class='management'>Management</span> | 08.11.19 |
 | MCExpertDE | <span class='administrator'>Administrator</span> | <span class='management'>Management</span> | 08.11.19 |
 | xiantiel | <span class='administrator'>Administrator</span> | <span class='management'>Management</span> | 08.11.19 |
