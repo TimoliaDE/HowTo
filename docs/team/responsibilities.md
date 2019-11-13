@@ -17,6 +17,7 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span class='management'>Lascona</span> | Hauptverantwortlich |
 | | |
 |<span class='supporter-plus'>CoveredSymmetry</span> | Nebenverantwortlich |
+|<span class='supporter-plus'>RodspamExpertRU</span> | Nebenverantwortlich |
 
 ### **Fragen und Antworten**
 
