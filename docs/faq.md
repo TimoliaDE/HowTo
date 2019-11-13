@@ -69,7 +69,7 @@ Auf der Social Media Plattform [Twitter](https://twitter.com/TimoliaTeam) suppor
 
 ### Wie funktioniert das Kick-System?
 Wir besitzen ein recht komplexes und einzigartiges Kicksystem, um sowohl Premium- als auch normalen Spielern ein tolles Spielerlebnis ohne ewige Wartezeiten zu ermöglichen. 
-Jeder Spieler erhält beim Joinen des Netzwerkes eine individuelle "Kick-Value", basierend auf dem Ingame-Rang. Umso höher der Rang, desto höher die "Kick-Value". Ein Spieler mit einer höheren "Kick-Value" kickt den Spieler mit der niedrigstend "Kick-Value", sollte ein Server voll sein.
+Jeder Spieler erhält beim Joinen des Netzwerkes eine individuelle "Kick-Value", basierend auf dem Ingame-Rang. Umso höher der Rang, desto höher die "Kick-Value". Ein Spieler mit einer höheren "Kick-Value" kickt den Spieler mit der niedrigsten "Kick-Value", sollte ein Server voll sein.
 
 | Rang | Kick-Value |
 | ------ | -------- |
@@ -87,9 +87,9 @@ niedrigere Kick-Value haben. Sobald ein Spiel startet, wird jedem Spieler wieder
 
 ### Wo kann ich mich entschuldigen?
 Wenn du gebannt wurdest, kannst du mit einem Entbannungsantrag eine Bannverkürzung von maximal 1/3 deiner Bannzeit bekommen, sofern deine Entschuldigung sehr gut geschrieben ist. 
-Diese kannst du in unserem [Forum](https://forum.timolia.de/forums/entschuldigungen.49) oder im Hilfechannel posten, alternativ kannst du auch eine E-Mail an gebannt@timolia.de schreiben. Achtung! Solltest du zwei Mal wegen Hacking gebannt worden 
-sein oder eine Bannzeit von insgesamt über 46 Tagen haben, musst du erst warten, bis deine Banntage auf <=46 Tage verjährt sind.
-Über den Minecraft-Server `register.timolia.de` kannst du dich für unser Forum registrieren, sofern du dies nicht schon getan hast. 
+Diese kannst du in unserem [Forum](https://forum.timolia.de/forums/entschuldigungen.49) posten, alternativ kannst du uns <a href="https://twitter.com/messages/compose?recipient_id=385909409" target="_blank">hier</a>
+auf Twitter eine DM mit deiner Entschuldigung zukommen lassen. Achtung! Solltest du zwei Mal wegen Hacking gebannt worden sein oder eine Bannzeit von insgesamt über 46 Tagen haben, 
+musst du erst warten, bis deine Banntage auf <=46 Tage verjährt sind. Über den Minecraft-Server `register.timolia.de` kannst du dich für unser Forum registrieren, sofern du dies nicht schon getan hast. 
 Mehr über Entbannungsanträge und Entschuldigungen [kannst du hier lesen](/bans/).
 
 ### Was sind Achievements?

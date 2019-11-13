@@ -29,7 +29,7 @@ nur als Beweise bei MSG-Nachrichten, alle anderen Regelverstöße müssen mit ei
 Ab einer Bannzeit von zehn Tagen kannst du mit einer Entschuldigung deine Bannzeit um bis zu 1/3 verkürzen, bei einem permanenten Bann wird deine 
 Bannzeit auf 30 Tage hinabgesetzt. Eine Entschuldigung kannst du im Forum im Themenbereich "Gebannt" schreiben.
 Solltest du keinen Account für unser Forum haben, kannst du dich auf dem Minecraft-Server `register.timolia.de` für dieses registrieren.
-Alternativ kannst du im Hilfechannel des [TeamSpeaks](/teamspeak/) deinen Text einem Teammitglied senden, welches deine Entschuldigung stellvertretend für dich im Forum postet.
+Alternativ kannst du uns <a href="https://twitter.com/messages/compose?recipient_id=385909409" target="_blank">hier</a> auf Twitter eine DM mit deiner Entschuldigung zukommen lassen.
 
 ### Bannverjährung
 Für einen Regelverstoß auf Timolia kann man für <strong>maximal 30 Tage</strong> gebannt werden. Ist die Bannzeit abgesessen, kann man wieder auf Timolia spielen, 

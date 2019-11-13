@@ -95,7 +95,7 @@ Teaming über die Teamgrenzen hinaus (sog. Crossteaming) ist verboten. Auch das 
  Wurde man allerdings zwei Mal aufgrund von Hacks gebannt, so besteht für einen Spieler keinerlei Chance mehr, entbannt zu werden.
 - <u>Bannverkürzung</u>: Ab einem Zeitraum von mindestens 10 Tagen hat jeder User das Recht, im Forum einen Antrag auf Bannverkürzung zu stellen.
 Solltest du keinen Account für unser Forum haben, kannst du dich auf dem Minecraft-Server `register.timolia.de` für dieses registrieren.
-Alternativ kannst du im Hilfechannel des [TeamSpeaks](/teamspeak/) deine Entschuldigung einem Teammitglied senden, welches diese stellvertretend für dich im Forum postet.
+Alternativ kannst du uns <a href="https://twitter.com/messages/compose?recipient_id=385909409" target="_blank">hier</a> auf Twitter eine DM mit deiner Entschuldigung zukommen lassen.
 - <u>Bannumgehung</u>: Das Umgehen von Banns mit einem Zweitaccount ist auf Timolia verboten.
 Als "gebannt" werden der Account, die Person, welche den Account nutzt, und die zu diesem Zeitpunkt verwendete Adresse angesehen.
 Wird eine Bannumgehung nachgewiesen, verjährt der ursprüngliche Bann einen Monat langsamer, eine Entschuldigung/Entbannung ist also erst 30 Tage später als bisher möglich. 
