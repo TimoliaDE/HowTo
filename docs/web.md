@@ -45,7 +45,7 @@ Weitere Informationen findest du in <a href="https://forum.timolia.de/threads/di
 Ab einer Bannzeit von zehn Tagen kannst du mit einer Entschuldigung deine Bannzeit um bis zu 1/3 verkürzen, bei einem permanenten Bann wird deine 
 Bannzeit auf 30 Tage hinabgesetzt. Eine Entschuldigung kannst du im Forum im Themenbereich "Gebannt" schreiben.
 Solltest du keinen Account für unser Forum haben, kannst du dich auf dem Minecraft-Server `register.timolia.de` für dieses registrieren.
-Alternativ kannst du im Hilfechannel des [TeamSpeaks](/teamspeak/) deinen Text einem Teammitglied senden, welches deine Entschuldigung stellvertretend für dich im Forum postet.
+Alternativ kannst du uns <a href="https://twitter.com/messages/compose?recipient_id=385909409" target="_blank">hier</a> auf Twitter eine DM mit deiner Entschuldigung zukommen lassen.
 
 Da sich Spieler verändern, ihre Fehler einsehen und sich bessern können, gibt es die sogenannte <strong>Bannverjährung</strong>. Diese sorgt dafür, dass die vermerkten Tage nicht dauerhaft bleiben, sondern sich Stück für Stück abbauen. Sinkt durch die Bannverjährung die Summe der Banntage auf 30 oder weniger, kann man wieder auf Timolia spielen.
 Die Bannverjährung tritt <strong>6 Monate</strong> nach dem Zeitpunkt des Banns ein. Ab dann werden jeden Monat <strong>3 Banntage</strong> von dem entsprechenden Bann abgezogen.
