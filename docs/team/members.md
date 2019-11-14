@@ -1,4 +1,4 @@
-Das Timolia-Team besteht aktuell aus 41 Mitgliedern und ist in die Ränge 
+Das Timolia-Team besteht aktuell aus 45 Mitgliedern und ist in die Ränge 
 <span class='management'>Management</span>, 
 <span class='sysadmin'>SysAdmin</span>, 
 <span class='developer-plus'>Developer+</span>, 
@@ -166,14 +166,26 @@ Supporter stehen für alle grundlegenden Fragen und Reports zur Verfügung und s
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Broadcasts
 
+### <strong><span class='supporter'>byRoadrunner</span></strong>
+- <u>Rang (ingame):</u> Supporter
+
 ### <strong><span class='supporter'>Chrissi1505</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Community-Discord, Entschuldigungen, Twitter
+
+### <strong><span class='supporter'>Cuube</span></strong>
+- <u>Rang (ingame):</u> Supporter
+
+### <strong><span class='supporter'>HerLegendaryWolf</span></strong>
+- <u>Rang (ingame):</u> Supporter
 
 ### <strong><span class='supporter'>NetflixGutschein</span></strong>
 - <u>Rang (ingame):</u> Supporterin
 
 ### <strong><span class='supporter'>Semolius</span></strong>
+- <u>Rang (ingame):</u> Supporter
+
+### <strong><span class='supporter'>Wirvonhier</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
 ### <strong><span class='supporter'>xTessia</span></strong>
