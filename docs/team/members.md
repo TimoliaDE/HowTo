@@ -1,5 +1,19 @@
-Das Timolia-Team besteht aktuell aus insgesamt 41 Mitgliedern.  
-Hier findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbereichen.
+Das Timolia-Team besteht aktuell aus 41 Mitgliedern und ist in die Ränge 
+<span class='management'>Management</span>, 
+<span class='sysadmin'>SysAdmin</span>, 
+<span class='developer-plus'>Developer+</span>, 
+<span class='developer'>Developer</span>, 
+<span class='moderator'>Moderator</span>, 
+<span class='supporter-plus'>Supporter+</span>, 
+<span class='supporter'>Supporter</span>, 
+<span class='headbuilder'>HeadBuilder</span>, 
+<span class='builder'>Builder</span> und 
+<span class='creator'>Creator</span> 
+aufgeteilt.
+
+Nachfolgend findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbereichen.
+ 
+![Die Ränge auf Timolia](img/ranks.png)
 
 
 
