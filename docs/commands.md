@@ -6,78 +6,79 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 
 | Befehl | Funktion |
 | ------ | -------- |
-| `/hub`, `/lobby`                | Teleportiert dich in die Lobby |
-| `/games`                        | Teleportiert dich zu den Games-Servern |
-| `/msg`                          | Erlaubt MSGs mit Freunden, keinem oder allen |
-| `/msg <Spieler>`, `/m`          | Schreibe mit einem Spieler im Privatchat |
-| `/lookup <Spieler>`, `/lu`      | Zeigt dir LogIn-Informationen über einen Spieler |
-| `/top`                          | Zeigt dir die Top 10 Spieler der letzten 30 Tage in einem Spielmodus an |
 | `/achievements`, `/ach`         | Listet eine Übersicht aller Achievements auf |
-| `/vote <Zahl>`                  | Votet für eine Map in einem Spielmodus |
-| `/stats [1,3,30,all]`           | Zeigt dir deine Stats in den meisten Modi |
-| `/near`                         | Zeigt dir die Spieler, die sich direkt über und unter dir in der Punktewertung eines Modus befinden |
-| `/tutorial`                     | Starte ein Tutorial (nicht in allen Modi verfügbar) |
-| `/register <E-Mail>`            | Registriert dich für die Webseite |
-| `/lang <Sprache>`               | Ändere deine Sprache |
 | `/bannotify`                    | Deaktiviere Benachrichtigungen zu deinen Banntagen |
 | `/champ`, `/championship`       | Zeigt Infos zu Timolia Champ |
-| `/present <Spieler> <Betrag> [Nachricht]`, `/gift`, `/donate` | Ermöglicht es dir, in der Weihnachtszeit Pixel zu verschenken |
+| `/games`                        | Teleportiert dich zu den Games-Servern |
 | `/help`                         | Zeigt dir die wichtigsten Infos zu Timolia |
+| `/hub`, `/lobby`                | Teleportiert dich in die Lobby |
+| `/joinme`                       | Öffne das JoinMe-Menu, z.B. um einen JoinMe zu erstellen |
+| `/jointeam <Team-Farbe>`, `/team`| Betritt ein Team in Castles, Brainbow und Mineception |
+| `/lang <Sprache>`               | Ändere deine Sprache |
+| `/lookup <Spieler>`, `/lu`      | Zeigt dir LogIn-Informationen über einen Spieler |
 | `/mail`                         | Öffnet das Menü deiner Mails |
+| `/msg`                          | Erlaubt MSGs mit Freunden, keinem oder allen |
+| `/msg <Spieler>`, `/m`          | Schreibe mit einem Spieler im Privatchat |
+| `/present <Spieler> <Betrag> [Nachricht]`, `/gift`, `/donate` | Ermöglicht es dir, in der Weihnachtszeit Pixel zu verschenken |
+| `/quickjoin <Spielmodus>`       | Betritt einen Spielmodus per Befehl |
+| `/rank`                         | Zeigt deinen aktuellen Ingame-Rang und wie lange er läuft |
+| `/register <E-Mail>`            | Registriert dich für die Webseite |
 | `/servername`                   | Zeigt dir den Server an, auf dem du dich aktuell befindest (alternativ: TAB) |
+| `/stats [1,3,30,all]`           | Zeigt dir deine Stats in den meisten Modi |
+| `/teamspeak`, `/ts`             | Zeigt die TS-IP, ermöglicht die Verifizierung und lässt dich deine Identität verwalten |
 | `/ticket <Anliegen>`            | Erstellt ein Ticket |
 | `/tickets`                      | Öffnet eine Übersicht deiner Tickets |
-| `/teamspeak`, `/ts`             | Zeigt die TS-IP, ermöglicht die Verifizierung und lässt dich deine Identität verwalten |
-| `/jointeam <Team-Farbe>`, `/team`| Betritt ein Team in Castles, Brainbow und Mineception |
-| `/rank`                         | Zeigt deinen aktuellen Ingame-Rang und wie lange er läuft |
-| `/quickjoin <Spielmodus>`       | Betritt einen Spielmodus per Befehl |
+| `/top`                          | Zeigt dir die Top 10 Spieler der letzten 30 Tage in einem Spielmodus an |
+| `/tutorial`                     | Starte ein Tutorial (nicht in allen Modi verfügbar) |
+| `/vote <Zahl>`                  | Votet für eine Map in einem Spielmodus |
 **[Premium](/ranks/premium/) only**:
-| `/togglerank`, `/tr`            | Werde in allen Spielmodi als normaler Spieler angezeigt |
 | `/ptime <day/night/midnight/sunrise/noon/afternoon/sunset/reset/hh:mm>` | Zeit für sich selbst umstellen |
 | `/pweather <sun/rain/reset>`    | Wetter für sich selbst umstellen |
-[<span class= 'expert'>Expert</span>](/ranks/premium/) only:
+| `/togglerank`, `/tr`            | Werde in allen Spielmodi als normaler Spieler angezeigt |
+**[<span class= 'expert'>Expert</span>](/ranks/premium/) only**:
 | `/giftpremium <Spieler>`        | Verschenke 3 Tage Pro an einen Spieler (alle 30 Tage) |
-| [<span class='mvp'>VIP</span>](/ranks/youtube/) only: | |
+**[<span class='mvp'>VIP</span>](/ranks/youtube/) only**:
 | `/nick`                         | Ermöglicht es dir, dich zu nicken |
 | `/unnick`                       | Ermöglicht es dir, dich zu entnicken |
-| [<span class='youtuber'>YouTuber</span>](/ranks/youtube/) only: | |
+**[<span class='youtuber'>YouTuber</span>](/ranks/youtube/) only**:
 | `/forcemap`                     | Erzwinge bei einem Spiel mit Voting-System eine bestimmte Map |
-| `/startgame`                    | Starte ein Spiel |
+| `/giftpremium <Spieler>`        | Verschenke dreimal am Tag jeweils 3 Tage Pro an einen Spieler |
 | `/nick`                         | Ermöglicht es dir, dich zu nicken |
+| `/startgame`                    | Starte ein Spiel |
 | `/unnick`                       | Ermöglicht es dir, dich zu entnicken |
 | `/vanish`, `/v`                 | Ermöglicht es dir, dich in 1vs1, Jumpworld und in den Lobbies unsichtbar zu machen |
-| `/giftpremium <Spieler>`        | Verschenke dreimal am Tag jeweils 3 Tage Pro an einen Spieler |
+
 
 ### Reportsystem
 
 | Befehl | Funktion |
 | ------ | -------- |
 | `/report <Spieler>`, `/rp`      | Erstellt nach Auswählen der Kategorie einen Report |
-| `/reportjnr <ID>`               | Erstellt einen Report über ein Jump and Run in Jump World |
 | `/reportbugusing <Spieler> <Beschreibung>` | Erstellt einen Bugusingreport |
 | `/reportevidence <Spieler> <Beweis>` | Erstellt einen Report mit Beweis |
 | `/reportinfo <ID>`              | Zeigt dir alle Infos über einen Report an |
+| `/reportjnr <ID>`               | Erstellt einen Report über ein Jump and Run in Jump World |
 | `/reports [Seite]`              | Öffnet eine Übersicht deiner Reports |
 | `/reportstats`                  | Zeigt dir die Erfolgsquoten deiner erstellten Reports an |
 
 ### Lobby
 | Befehl | Funktion |
 | ------ | -------- |
-| `/sync {0, 1, 2...]`, `/armorsync` | Synchronisiert die farbwechselnde Rüstung aus dem PixelShop |
 | `/fixkickvalue`, `/fixkv`       | Setzt deine Kick-Value zurück. Wie das Kick-System funktioniert, kannst du [<strong>hier</strong> nachlesen](https://howto.timolia.de/faq/#wie-funktioniert-das-kick-system) |
+| `/myspawn`                      | Setzt einen eigenen, individuellen Spawnpunkt in der Lobby |
+| `/resetmyspawn`                 | Resettet den eigenen, individuellen Spawnpunkt in der Lobby |
 | `/stats <Spieler>`              | Zeigt dir die Stats eines Spielers an |
 | `/stats <Spieler> <Spieler>...` | Ermöglicht es dir, die Stats von mehreren Spielern zu vergleichen |
 | `/spawn`                        | Teleportiert dich zurück zum Spawn vom Hub |
-| `/myspawn`                      | Setzt einen eigenen, individuellen Spawnpunkt in der Lobby |
-| `/resetmyspawn`                 | Resettet den eigenen, individuellen Spawnpunkt in der Lobby |
+| `/sync {0, 1, 2...]`, `/armorsync` | Synchronisiert die farbwechselnde Rüstung aus dem PixelShop |
 
 ### Homes
 | Befehl | Funktion |
 | ------ | -------- |
 | `/homes`                        | Zeigt eine Liste deiner Homepunkte |
+| `/delhome <Name>`               | Löscht ein Home |
 | `/sethome <Name>`               | Setzt ein Home |
 | `/sethome <Name> -f`            | Überschreibt ein vorhandenes Home |
-| `/delhome <Name>`               | Löscht ein Home |
 
 ### Freundesystem
 
