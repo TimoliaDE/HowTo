@@ -185,7 +185,7 @@ Supporter stehen für alle grundlegenden Fragen und Reports zur Verfügung und s
 ### <strong><span class='supporter'>Semolius</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
-### <strong><span class='supporter'>Wirvonhier</span></strong>
+### <strong><span class='supporter'>Wie\_Shu</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
 ### <strong><span class='supporter'>xTessia</span></strong>
