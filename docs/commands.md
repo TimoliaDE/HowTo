@@ -31,17 +31,20 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/top`                          | Zeigt dir die Top 10 Spieler der letzten 30 Tage in einem Spielmodus an |
 | `/tutorial`                     | Starte ein Tutorial (nicht in allen Modi verfügbar) |
 | `/vote <Zahl>`                  | Votet für eine Map in einem Spielmodus |
+| | |
 **[Premium](/ranks/premium/) only**:
-
 | `/ptime <day/night/midnight/sunrise/noon/afternoon/sunset/reset/hh:mm>` | Zeit für sich selbst umstellen |
 | `/pweather <sun/rain/reset>`    | Wetter für sich selbst umstellen |
 | `/togglerank`, `/tr`            | Werde in allen Spielmodi als normaler Spieler angezeigt |
-[<span class= 'expert'>Expert</span>](/ranks/premium/) only:
+| | |
+**[<span class= 'expert'>Expert</span>](/ranks/premium/) only**:
 | `/giftpremium <Spieler>`        | Verschenke 3 Tage Pro an einen Spieler (alle 30 Tage) |
-| [<span class='mvp'>VIP</span>](/ranks/youtube/) only: | |
+| | |
+**[<span class='mvp'>VIP</span>](/ranks/youtube/) only**:
 | `/nick`                         | Ermöglicht es dir, dich zu nicken |
 | `/unnick`                       | Ermöglicht es dir, dich zu entnicken |
-| [<span class='youtuber'>YouTuber</span>](/ranks/youtube/) only: | |
+| | |
+**[<span class='youtuber'>YouTuber</span>](/ranks/youtube/) only**:
 | `/forcemap`                     | Erzwinge bei einem Spiel mit Voting-System eine bestimmte Map |
 | `/giftpremium <Spieler>`        | Verschenke dreimal am Tag jeweils 3 Tage Pro an einen Spieler |
 | `/nick`                         | Ermöglicht es dir, dich zu nicken |
