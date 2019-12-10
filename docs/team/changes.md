@@ -2,6 +2,11 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 
 # 2019
 
+###  <strong>Dezember</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+| SorgenKind_LP  | <span class='builder'>Builder</span> | <span class='user'>Spieler</span> | 09.12.19 |
+
 ###  <strong>November</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
