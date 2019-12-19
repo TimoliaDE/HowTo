@@ -183,9 +183,12 @@ Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführ
 | `/rankinfo`, `/ranginfo`        | Zeigt Informationen zum aktuellen Rang |
 **[Premium](/ranks/premium/) only**:
 | `/bestofx <Spieler> <Anzahl>`   | Fordert einen Spieler zu einem Best of 3 oder Best of 5 heraus |
-| `/hat`                          | Setzt das Item in deiner Hand als den Helm deines Kits |
 | `/create [Passwort]`            | Erstellt ein Turnier (optional mit einem Passwort) |
+| `/hat`                          | Setzt das Item in deiner Hand als den Helm deines Kits |
+| `/near <kit> [name]`            | Zeigt für jede Kitrangliste die Entfernung zum nächsten Rang an |
 | `/modify`                       | Bearbeitet die Turniereinstellungen |
+| `/rankinfo`                     | Gibt Informationen über deinen aktuellen global Rang aus |
+| `/roadToKD <KD-Ziel>`, `/roadToWL <KD-Ziel>`  | Zeigt die Anzahl zu gewinnender Spiele an, um die K/D zu erreichen |
 | `/start [Zeit]`                 | Startet dein Turnier |
 | `/team setcolor`                | Färbt euren Namen entsprechend der gewählten Farbe |
 
