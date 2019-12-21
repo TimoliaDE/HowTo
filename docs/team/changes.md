@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Dezember</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| einMole | <span class='expert'>Native Expert</span> | <span class='supporter'>Supporter</span> | 19.12.19 |
 | SorgenKind_LP  | <span class='builder'>Builder</span> | <span class='user'>Spieler</span> | 09.12.19 |
 
 ###  <strong>November</strong>
