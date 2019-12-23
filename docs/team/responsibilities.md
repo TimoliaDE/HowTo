@@ -99,9 +99,6 @@ Bei jeglichen Baufehlern auf den Maps von Timolia kümmern sich diese Teamler da
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span class='builder'>Char1sma</span> | Hauptverantwortlich |
-| | |
-|<span class='builder'>LegendBuild</span> | Nebenverantwortlich |
-
 
 
 ### **Supporterauswahl**
