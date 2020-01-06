@@ -1,5 +1,14 @@
 Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufgelistet.
 
+# 2020
+
+###  <strong>Januar</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+| Pexa | <span class='mvp'>Native MVP</span> | <span class='supporter'>Supporter</span> | 06.01.2020 |
+
+
+
 # 2019
 
 ###  <strong>Dezember</strong>

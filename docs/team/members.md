@@ -185,6 +185,9 @@ Supporter stehen für alle grundlegenden Fragen und Reports zur Verfügung und s
 ### <strong><span class='supporter'>NetflixGutschein</span></strong>
 - <u>Rang (ingame):</u> Supporterin
 
+### <strong><span class='supporter'>Pexa</span></strong>
+- <u>Rang (ingame):</u> Supporter
+
 ### <strong><span class='supporter'>Semolius</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
