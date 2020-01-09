@@ -228,15 +228,15 @@ Sie betreuen die architektonische Gestaltung neuer Modi und betreuen externe Map
 - <u>Rang (ingame):</u> Builder
 - <u>Nebenverantwortlich:</u> Map-Einsendungen
 
-### <strong><span class='builder'>Char1sma</span></strong>
-- <u>Rang (ingame):</u> Builder
-- <u>Hauptverantwortlich:</u> Baufehlerbehebung
-
 ### <strong><span class='builder'>Dankbarkeit</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span class='builder'>Memoryos</span></strong>
 - <u>Rang (ingame):</u> Builder
+
+### <strong><span class='builder'>niceuserleon</span></strong>
+- <u>Rang (ingame):</u> Builder
+- <u>Hauptverantwortlich:</u> Baufehlerbehebung
 
 ### <strong><span class='builder'>Stereoworrek</span></strong>
 - <u>Rang (ingame):</u> Builder
