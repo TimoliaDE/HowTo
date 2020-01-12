@@ -1,4 +1,4 @@
-Das Timolia-Team besteht aktuell aus 44 Mitgliedern und ist in die Ränge 
+Das Timolia-Team besteht aktuell aus 43 Mitgliedern und ist in die Ränge 
 <span class='management'>Management</span>, 
 <span class='sysadmin'>SysAdmin</span>, 
 <span class='developer-plus'>Developer+</span>, 
@@ -205,10 +205,6 @@ Supporter stehen für alle grundlegenden Fragen und Reports zur Verfügung und s
 Sie leiten und organisieren das Bauteam und dienen als erste Ansprechpartner für alle Builder. 
 Außerdem kümmern sie sich um die Auswahl und Einarbeitung neuer Builder und sind die Schnittstelle 
 zwischen dem Bauteam und der allgemeinen Projektorganisation.
-
-### <strong><span class='headbuilder'>\_CrystalSky\_</span></strong>
-- <u>Rang (ingame):</u> HeadBuilder
-- <u>Hauptverantwortlich:</u> Management des Bauteams
 
 ### <strong><span class='headbuilder'>Jukplays</span></strong>
 - <u>Rang (ingame):</u> HeadBuilder

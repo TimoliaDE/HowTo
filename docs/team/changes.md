@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Januar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| \_CrystalSky_ | <span class='headbuilder'>HeadBuilder</span> | <span class='expert'>Native Expert</span> | 12.01.2020 |
 | Pexa | <span class='mvp'>Native MVP</span> | <span class='supporter'>Supporter</span> | 06.01.2020 |
 
 
@@ -39,7 +40,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | CoveredSymmetry | <span class='supporter'>Supporter</span> | <span class='supporter-plus'>Supporter+</span> | 08.11.2019 |
 | J4mPr0 | <span class='supporter'>Supporter</span> | <span class='supporter-plus'>Supporter+</span> | 08.11.2019 |
 | RodspamExpertRU | <span class='supporter'>Supporter</span> | <span class='supporter-plus'>Supporter+</span> | 08.11.2019 |
-| CrystalSky | <span class='builder'>Builder</span> | <span class='headbuilder'>HeadBuilder</span> | 08.11.2019 |
+| \_CrystalSky_ | <span class='builder'>Builder</span> | <span class='headbuilder'>HeadBuilder</span> | 08.11.2019 |
 | JukPlays | <span class='builder'>Builder</span> | <span class='headbuilder'>HeadBuilder</span> | 08.11.2019 |
 | Kroseida | <span class='developer'>Developer</span> | <span class='user'>Spieler</span> | 06.11.2019 |
 | Flubio | <span class='developer'>Developer</span> | <span class='user'>Spieler</span> | 05.11.2019 |

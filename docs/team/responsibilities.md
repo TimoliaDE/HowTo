@@ -182,7 +182,6 @@ Im Timolia Team gibt es kleinere Teams, welche unter anderem durch diese Verantw
 | ------ | ------ |
 |<span class='management'>Lascona</span>    | Management des gesamten Timolia-Teams |
 |<span class='moderator'>medicoo</span>        | Management des Bau-Teams |
-|<span class='headbuilder'>\_CrystalSky\_</span>   | Management des Bau-Teams |
 
 ### **YouTuber-Ränge**
 Wenn sich ein YouTuber für einen Rang auf Timolia interessiert, werden die Anfragen von diesem Team bearbeitet.
