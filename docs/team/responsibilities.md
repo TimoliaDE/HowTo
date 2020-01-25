@@ -15,8 +15,8 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span class='management'>Lascona</span> | Hauptverantwortlich |
+|<span class='supporter-plus'>CoveredSymmetry</span> | Hauptverantwortlich |
 | | |
-|<span class='supporter-plus'>CoveredSymmetry</span> | Nebenverantwortlich |
 |<span class='supporter-plus'>RodspamExpertRU</span> | Nebenverantwortlich |
 
 ### **Fragen und Antworten**
@@ -172,6 +172,7 @@ Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadca
 |<span class='supporter-plus'>CoveredSymmetry</span> | Hauptverantwortlich |
 | | |
 |<span class='moderator'>physanus</span> | Nebenverantwortlich |
+|<span class='supporter-plus'>RodspamExpertRU</span> | Nebenverantwortlich |
 |<span class='supporter'>\_Tetzel\_</span> | Nebenverantwortlich |
 |<span class='supporter'>xTessia</span> | Nebenverantwortlich |
 
