@@ -37,7 +37,7 @@ Um Builder werden zu können, musst du 2 Plots erfolgreich bebauen und das ansch
 Durch Map-Einsendungen kann man sich im Regelfall nicht bewerben. In Ausnahmefällen kann es jedoch vorkommen, dass das Bauteam gezielt
 auf Personen zu kommt, die vermehrt besonders herausragende Maps eingesendet haben.
 
-Die <b>HeadBuilder</b> bilden die Bauteamleitung auf Timolias. Da es sich um Teamler mit langjähriger Erfahrung und sehr guter Kenntnis über Timolias teaminterne Strukturen handelt, ist eine Bewerbung für diesen Rang nicht möglich.
+Die <b>HeadBuilder</b> bilden die Bauteamleitung Timolias. Da es sich um Teamler mit langjähriger Erfahrung und sehr guter Kenntnis über Timolias teaminterne Strukturen handelt, ist eine Bewerbung für diesen Rang nicht möglich.
 
 
 ### Creator
