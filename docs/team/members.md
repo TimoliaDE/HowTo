@@ -144,8 +144,8 @@ Sie sind die ersten, an die sich Spieler mit ihren Anliegen wenden können.
 
 ### <strong><span class='supporter-plus'>CoveredSymmetry</span></strong>
 - <u>Rang (ingame):</u> Supporter+
-- <u>Hauptverantwortlich:</u> Broadcasts, Forenorganisation, Fragen und Antworten Forum
-- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Entschuldigungen
+- <u>Hauptverantwortlich:</u> Anregungen und Vorschläge Forum, Broadcasts, Forenorganisation, Fragen und Antworten Forum
+- <u>Nebenverantwortlich:</u> Entschuldigungen
 
 ### <strong><span class='supporter-plus'>J4mPr0</span></strong>
 - <u>Rang (ingame):</u> Supporter+
@@ -154,7 +154,7 @@ Sie sind die ersten, an die sich Spieler mit ihren Anliegen wenden können.
 ### <strong><span class='supporter-plus'>RodspamExpertRU</span></strong>
 - <u>Rang (ingame):</u> Supporter+
 - <u>Hauptverantwortlich:</u> Entschuldigungen
-- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Fragen und Antworten Forum, Map-Einsendungen
+- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Broadcasts, Fragen und Antworten Forum, Map-Einsendungen
 
 
 
