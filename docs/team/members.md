@@ -227,9 +227,6 @@ Sie betreuen die architektonische Gestaltung neuer Modi und betreuen externe Map
 ### <strong><span class='builder'>Dankbarkeit</span></strong>
 - <u>Rang (ingame):</u> Builder
 
-### <strong><span class='builder'>Memoryos</span></strong>
-- <u>Rang (ingame):</u> Builder
-
 ### <strong><span class='builder'>niceuserleon</span></strong>
 - <u>Rang (ingame):</u> Builder
 - <u>Hauptverantwortlich:</u> Baufehlerbehebung
