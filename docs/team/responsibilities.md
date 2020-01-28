@@ -93,13 +93,6 @@ Bei jeglichen Fehlern in den Diensten von Timolia kümmert sich dieser Teamler d
 | ------ | ------ |
 |<span class='developer-plus'>svdragster</span> | Hauptverantwortlich |
 
-### **Baufehlerbehebung**
-Bei jeglichen Baufehlern auf den Maps von Timolia kümmern sich diese Teamler darum, dass die Bugs behoben werden.
-
-| Teamler | Verantwortungsgrad |
-| ------ | ------ |
-|<span class='builder'>niceuserleon</span> | Hauptverantwortlich |
-
 
 ### **Supporterauswahl**
 Wenn es wieder daran geht, neue Supporter in unsere Reihen zu holen, kümmern sich diese Verantwortlichen darum.

@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Januar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| niceuserleon | <span class='builder'>Builder</span> | <span class='expert'>Native Expert</span> | 27.01.2020 |
 | Memoryos | <span class='builder'>Builder</span> | <span class='expert'>Native Expert</span> | 26.01.2020 |
 | Stereoworrek | <span class='builder'>Builder</span> | <span class='mvp'>Native MVP</span> | 12.01.2020 |
 | \_CrystalSky_ | <span class='headbuilder'>HeadBuilder</span> | <span class='expert'>Native Expert</span> | 12.01.2020 |
