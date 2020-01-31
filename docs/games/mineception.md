@@ -1,4 +1,7 @@
-![Mineception](img/Mineception.png)
+<div class="banner-wrapper">
+    <img alt="UHC" src="../img/Mineception.png">
+    <div class="banner-text">Mineception</div>
+</div>
 
 ## Das Spielprinzip
 Die Einzigartigkeit von Mineception zeichnet sich durch das Element der Unendlichkeit aus: Egal in welche Richtung man läuft, man kommt immer wieder am Ausgangspunkt an.

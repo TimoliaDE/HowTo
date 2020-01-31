@@ -1,4 +1,7 @@
-![Arcade](img/Arcade.png)
+<div class="banner-wrapper">
+    <img alt="UHC" src="../img/Arcade.png">
+    <div class="banner-text">Arcade</div>
+</div>
 
 ## Das Spielprinzip
 

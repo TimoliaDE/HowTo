@@ -1,4 +1,7 @@
-![4rena](img/4rena.png)
+<div class="banner-wrapper">
+    <img alt="UHC" src="../img/4rena.png">
+    <div class="banner-text">4rena</div>
+</div>
 
 ## Das Spielprinzip
 

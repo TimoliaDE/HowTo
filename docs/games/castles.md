@@ -1,4 +1,7 @@
-![Castles](img/Castles.png)
+<div class="banner-wrapper">
+    <img alt="UHC" src="../img/Castles.png">
+    <div class="banner-text">Castles</div>
+</div>
 
 ## Der Spielverlauf
 Castles ist ein taktisches Spiel, in dem du allein oder gemeinsam mit deinen Teamkameraden die Flagge deiner Gegner erobern musst. Jedes Team besteht aus maximal 4 Spielern und beginnt das Spiel

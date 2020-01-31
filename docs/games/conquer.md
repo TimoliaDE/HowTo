@@ -1,3 +1,8 @@
+<div class="banner-wrapper">
+    <img alt="UHC" src="../img/Conquer.png">
+    <div class="banner-text">Conquer</div>
+</div>
+
 ## Das Spielprinzip
 Conquer ist ein Eventmodus. Das bedeutet, dass Runden nur nach vorheriger Ankündigung starten.  
 Du kannst hier deine taktischen und kämpferischen Fähigkeiten mit deinem Team unter Beweis stellen, indem du deine drei Gegnerteams zerstörst. Jedes Team hat 10 Teamleben (Scoreboard). Sobald ein Spieler stirbt, verliert das Team eines dieser Teamleben.
