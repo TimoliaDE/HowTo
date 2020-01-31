@@ -127,7 +127,7 @@ Sie dienen als interne Ansprechpartner bei Fragen und koordinieren häufig einze
 
 ### <strong><span class='moderator'>medicoo</span></strong>
 - <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Bauteam-Twitter, Management des Bauteams, Timolia Turnier Organisation, YouTuber-Ränge
+- <u>Hauptverantwortlich:</u> Bauteam-Twitter, Timolia Turnier Organisation, YouTuber-Ränge
 - <u>Nebenverantwortlich:</u> TeamSpeak
 
 ### <strong><span class='moderator'>physanus</span></strong>
