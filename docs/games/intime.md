@@ -1,4 +1,7 @@
-![InTime](img/InTime.png)
+<div class="banner-wrapper">
+    <img alt="UHC" src="../img/InTime.png">
+    <div class="banner-text">InTime</div>
+</div>
 
 ## Das Spielprinzip
 "Zeit ist Geld" - dieses Sprichwort beschreibt InTime mehr als alles andere. Waffen, Rüstung, Nahrung, Potions und spezielle Items kosten Zeit, Lebenszeit.

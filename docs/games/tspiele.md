@@ -1,4 +1,7 @@
-![TSpiele](img/TSpiele.png)
+<div class="banner-wrapper">
+    <img alt="UHC" src="../img/TSpiele.png">
+    <div class="banner-text">TSpiele</div>
+</div>
 
 ## Der Spielverlauf
 Willkommen bei den Timolianischen Spielen! Hier kannst du deine PvP-Skills im Kampf gegen 23 andere Spieler beweisen. In einer unendlich großen Welt findest du

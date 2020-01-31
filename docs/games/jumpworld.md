@@ -1,4 +1,7 @@
-![JumpWorld](img/JumpWorld.png)
+<div class="banner-wrapper">
+    <img alt="UHC" src="../img/JumpWorld.png">
+    <div class="banner-text">JumpWorld</div>
+</div>
 
 ## Das Spielprinzip
 In JumpWorld können verschiedenste Jump and Runs gespielt, aber auch selbst erbaut werden. Des Weiteren kann man sich mit Freunden in Duellen messen.

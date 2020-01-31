@@ -1,4 +1,7 @@
-![DNA](img/DNA.png)
+<div class="banner-wrapper">
+    <img alt="UHC" src="../img/DNA.png">
+    <div class="banner-text">DNA</div>
+</div>
 
 ## Das Spielprinzip
 Du bist gut in Jump and Runs und möchtest deine Fähigkeiten unter Beweis stellen? Dann ist DNA genau das Richtige für dich! Ziel ist es, als erster Spieler die obere

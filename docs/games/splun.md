@@ -1,4 +1,7 @@
-![Splun](img/Splun.png)
+<div class="banner-wrapper">
+    <img alt="UHC" src="../img/Splun.png">
+    <div class="banner-text">Splun</div>
+</div>
 
 ## Das Spielprinzip
 Splun ist eine Kombination aus <strong>Spl</strong>eef und Jump and R<strong>un</strong> und eignet sich perfekt als kleines Spiel für Zwischendurch.

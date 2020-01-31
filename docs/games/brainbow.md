@@ -1,4 +1,7 @@
-![BrainBow](img/BrainBow.png)
+<div class="banner-wrapper">
+    <img alt="UHC" src="../img/BrainBow.png">
+    <div class="banner-text">BrainBow</div>
+</div>
 
 ## Das Spielprinzip
 

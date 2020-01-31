@@ -1,3 +1,9 @@
+<div class="banner-wrapper">
+    <img alt="UHC" src="../img/SurvivalQuest.png">
+    <div class="banner-text">Survival&nbsp;Quest</div>
+</div>
+
+
 ## Der Spielverlauf
 Bei Survival Quest geht es darum, möglichst viele Quests in einer normalen Minecraftwelt abzuschließen - und das am besten schneller als die Gegner.  
 Das Spiel startet alle 2 Stunden.
