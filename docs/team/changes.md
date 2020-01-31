@@ -5,8 +5,8 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Januar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
-| crelias | <span class='mvp'>MVP</span> | <span class='builder'>Builder</span> | 27.01.2020 |
-| Sentuqs | <span class='mvp'>MVP</span> | <span class='builder'>Builder</span> | 27.01.2020 |
+| crelias | <span class='mvp'>MVP</span> | <span class='builder'>Builder</span> | 30.01.2020 |
+| Sentuqs | <span class='mvp'>MVP</span> | <span class='builder'>Builder</span> | 30.01.2020 |
 | niceuserleon | <span class='builder'>Builder</span> | <span class='expert'>Native Expert</span> | 27.01.2020 |
 | Memoryos | <span class='builder'>Builder</span> | <span class='expert'>Native Expert</span> | 26.01.2020 |
 | Stereoworrek | <span class='builder'>Builder</span> | <span class='mvp'>Native MVP</span> | 12.01.2020 |
