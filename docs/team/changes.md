@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Januar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| DiddiHD | <span class='expert'>Expert</span> | <span class='builder'>Builder</span> | 02.02.2020 |
 | crelias | <span class='mvp'>MVP</span> | <span class='builder'>Builder</span> | 30.01.2020 |
 | Sentuqs | <span class='mvp'>MVP</span> | <span class='builder'>Builder</span> | 30.01.2020 |
 | niceuserleon | <span class='builder'>Builder</span> | <span class='expert'>Native Expert</span> | 27.01.2020 |
