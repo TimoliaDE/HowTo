@@ -25,34 +25,35 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 
 | Szenario | Beschreibung |
 | ------ | -------- |
-| Bowless          | Ermöglicht ein UHC ohne Bogen |
-| Rodless          | Ermöglicht ein UHC ohne Angel |
-| Fireless         | Es gibt keinen Feuer-/Lavaschaden |
-| Diamondless      | Es gibt keine Diamanterze, jedoch bekommt man pro Kill einen Diamanten |
-| Goldless         | Es gibt keine Golderze, jedoch bekommt man pro Kill 8 Gold |
-| Horseless        | Ermöglicht ein UHC ohne Pferde |
-| NoEntchant       | Es sind keine Verzauberungen möglich |
-| TimeBomb         | Nach einem Kill spawnt eine Kiste mit den Items des Gegners, diese explodiert nach 30 Sekunden |
-| CutClean         | Erze und Essen werden bereits geschmolzen/gebraten |
-| NoClean          | Nach jedem Kill bist du für 30 Sekunden unverwundbar |
-| Timber           | Bäume gehen direkt kaputt |
-| NoFall           | Es gibt keinen Fallschaden |
-| DoubleOres       | Doppelte Erze beim Abbauen |
-| Soup             | Suppenheilung ist aktiviert (2 Herzen) |
 | Backpack         | Ermöglicht ein gemeinsames Inventar in Team-UHCs (`/backpack` oder `/bp`) |
-| Hastey Boys      | Jedes Werkzeug hat Effizienz und Haltbarkeit 3 |
 | Bloody Diamonds  | Beim Abbauen eines Diamanten bekommst du ein halbes Herz Schaden |
+| Bowless          | Ermöglicht ein UHC ohne Bogen |
+| CutClean         | Erze und Essen werden bereits geschmolzen/gebraten |
+| Diamondless      | Es gibt keine Diamanterze, jedoch bekommt man pro Kill einen Diamanten |
+| DoubleOres       | Doppelte Erze beim Abbauen |
+| Fireless         | Es gibt keinen Feuer-/Lavaschaden |
+| Goldless         | Es gibt keine Golderze, jedoch bekommt man pro Kill 8 Gold |
+| Hastey Boys      | Jedes Werkzeug hat Effizienz und Haltbarkeit 3 |
+| Horseless        | Ermöglicht ein UHC ohne Pferde |
+| NoClean          | Nach jedem Kill bist du für 30 Sekunden unverwundbar |
+| NoEntchant       | Es sind keine Verzauberungen möglich |
+| NoFall           | Es gibt keinen Fallschaden |
+| Rodless          | Ermöglicht ein UHC ohne Angel |
+| Soup             | Suppenheilung ist aktiviert (2 Herzen) |
 | Starter          | Das UHC beginnt für jeden mit Eisenrüstung und Werkzeug |
+| Timber           | Bäume gehen direkt kaputt |
+| TimeBomb         | Nach einem Kill spawnt eine Kiste mit den Items des Gegners, diese explodiert nach 30 Sekunden |
 
 
 ## Befehle
 | Befehl | Funktion |
 | ------ | -------- |
 | `/backpack`, `/bp`                         | Ermöglicht ein gemeinsames Inventar in Team-UHCs. |
-| `/scenarios`, `/scn`, `/info`, `/uhc`      | Zeigt dir die aktivierten Szenarien an. |
 | `/coordinates`, `/coords`                  | Schickt eine Nachricht an deine Teampartner mit deinen Koordinaten. |
-| `/helpop`                                  | Damit kannst du jederzeit Fragen bezüglich des UHCs an das Team stellen. |
 | `/fix`                                     | Damit kannst du alle Spieler neu laden. |
+| `/helpop`                                  | Damit kannst du jederzeit Fragen bezüglich des UHCs an das Team stellen. |
 | `/invite <Spieler>`                        | Damit kannst du Spieler in dein Team bei Team-UHCs einladen. |
 | `/inviteaccept <Spieler>`                  | Damit nimmst du Teameinladungen bei Team-UHCs an. |
+| `/scenarios`, `/scn`, `/info`, `/uhc`      | Zeigt dir die aktivierten Szenarien an. |
+| `/topkills`                                | Zeigt den/die Spieler mit den meistens Kills an. |
 | `/watch <Team-Member>`                     | Damit kannst du als Spectator zwischen deinen Teampartnern wechseln. |
