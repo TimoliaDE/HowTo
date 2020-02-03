@@ -153,7 +153,7 @@ Sie sind die ersten, an die sich Spieler mit ihren Anliegen wenden können.
 
 ### <strong><span class='supporter-plus'>RodspamExpertRU</span></strong>
 - <u>Rang (ingame):</u> Supporter+
-- <u>Hauptverantwortlich:</u> Entschuldigungen
+- <u>Hauptverantwortlich:</u> Baufehlerbehebung, Entschuldigungen
 - <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Broadcasts, Fragen und Antworten Forum, Map-Einsendungen
 
 
