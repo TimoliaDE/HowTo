@@ -2,10 +2,14 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 
 # 2020
 
-###  <strong>Januar</strong>
+###  <strong>Februar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
 | DiddiHD | <span class='expert'>Expert</span> | <span class='builder'>Builder</span> | 02.02.2020 |
+
+###  <strong>Januar</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
 | crelias | <span class='mvp'>MVP</span> | <span class='builder'>Builder</span> | 30.01.2020 |
 | Sentuqs | <span class='mvp'>MVP</span> | <span class='builder'>Builder</span> | 30.01.2020 |
 | niceuserleon | <span class='builder'>Builder</span> | <span class='expert'>Native Expert</span> | 27.01.2020 |
@@ -51,7 +55,6 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | Kroseida | <span class='developer'>Developer</span> | <span class='user'>Spieler</span> | 06.11.2019 |
 | Flubio | <span class='developer'>Developer</span> | <span class='user'>Spieler</span> | 05.11.2019 |
 | Hiics | <span class='supporter'>Supporter</span> | <span class='mvp'>Native MVP</span> | 05.11.2019 |
-
 
 ###  <strong>Oktober</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
