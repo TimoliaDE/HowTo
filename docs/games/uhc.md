@@ -30,15 +30,20 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 | Bowless          | Ermöglicht ein UHC ohne Bogen |
 | CutClean         | Erze und Essen werden bereits geschmolzen/gebraten |
 | Diamondless      | Es gibt keine Diamanterze, jedoch bekommt man pro Kill einen Diamanten |
+| Dog Power        | Du erhältst ein Starterpack aus Knocken, Wölfen und verrottetem Fleisch |
 | DoubleOres       | Doppelte Erze beim Abbauen |
 | Fireless         | Es gibt keinen Feuer-/Lavaschaden |
 | Goldless         | Es gibt keine Golderze, jedoch bekommt man pro Kill 8 Gold |
 | Hastey Boys      | Jedes Werkzeug hat Effizienz und Haltbarkeit 3 |
+| Healing Kill     | Nach jedem Kill erhältst du wieder volles Leben |
+| Heart Upgrade    | Nach jeden Kill erhöht sich deine maximale Lebenszahl um eins |
 | Horseless        | Ermöglicht ein UHC ohne Pferde |
 | NoClean          | Nach jedem Kill bist du für 30 Sekunden unverwundbar |
 | NoEntchant       | Es sind keine Verzauberungen möglich |
 | NoFall           | Es gibt keinen Fallschaden |
 | Rodless          | Ermöglicht ein UHC ohne Angel |
+| Shared Damage    | Bekommt ein Spieler Schaden, bekommen auch dessen Teampartner Schaden |
+| Shared Heal      | Wird ein Spieler geheilt, heilen sich auch dessen Teampartner |
 | Soup             | Suppenheilung ist aktiviert (2 Herzen) |
 | Starter          | Das UHC beginnt für jeden mit Eisenrüstung und Werkzeug |
 | Timber           | Bäume gehen direkt kaputt |
