@@ -5,6 +5,9 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Februar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| Niizck | <span class='pro'>Pro+</span> | <span class='creator'>Creator</span> | 21.02.2020 |
+| B3artastic | <span class='builder'>Builder</span> | <span class='mvp'>Native MVP+</span> | 19.02.2020 |
+| Cuube | <span class='supporter'>Supporter</span> | <span class='expert'>Expert</span> | 18.02.2020 |
 | DiddiHD | <span class='expert'>Expert</span> | <span class='builder'>Builder</span> | 02.02.2020 |
 
 ###  <strong>Januar</strong>

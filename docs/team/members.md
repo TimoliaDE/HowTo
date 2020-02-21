@@ -1,4 +1,4 @@
-Das Timolia-Team besteht aktuell aus 43 Mitgliedern und ist in die Ränge 
+Das Timolia-Team besteht aktuell aus 42 Mitgliedern und ist in die Ränge 
 <span class='management'>Management</span>, 
 <span class='sysadmin'>SysAdmin</span>, 
 <span class='developer-plus'>Developer+</span>, 
@@ -173,9 +173,6 @@ Supporter stehen für alle grundlegenden Fragen und Reports zur Verfügung und s
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Community-Discord, Entschuldigungen, Twitter
 
-### <strong><span class='supporter'>Cuube</span></strong>
-- <u>Rang (ingame):</u> Supporter
-
 ### <strong><span class='supporter'>einMole</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
@@ -220,10 +217,6 @@ Sie betreuen die architektonische Gestaltung neuer Modi und betreuen externe Map
 ### <strong><span class='builder'>12Build</span></strong>
 - <u>Rang (ingame):</u> Builder
 
-### <strong><span class='builder'>B3artastic</span></strong>
-- <u>Rang (ingame):</u> Builder
-- <u>Nebenverantwortlich:</u> Map-Einsendungen
-
 ### <strong><span class='builder'>crelias</span></strong>
 - <u>Rang (ingame):</u> Builder
 
@@ -245,3 +238,6 @@ Als kreative Ader sind sie für die verschiedensten Belange von Grafikdesign bis
 ### <strong><span class='creator'>Evageddon</span></strong>
 - <u>Rang (ingame):</u> Creator
 - <u>Hauptverantwortlich:</u> Grafikdesign
+
+### <strong><span class='creator'>Niizck</span></strong>
+- <u>Rang (ingame):</u> Creator
