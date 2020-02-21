@@ -43,7 +43,6 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span class='developer-plus'>svdragster</span> | Nebenverantwortlich |
 |<span class='supporter-plus'>J4mPr0</span> | Nebenverantwortlich |
 |<span class='supporter-plus'>RodspamExpertRU</span> | Nebenverantwortlich |
-|<span class='builder'>B3artastic</span> | Nebenverantwortlich |
 
 ### **Spieler melden**
 | Teamler | Verantwortungsgrad |
