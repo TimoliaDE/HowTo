@@ -1,102 +1,71 @@
-Alle hier aufgeführten Mods sind vom Timolia-Team geprüft und das Spielen mit diesen ist auf dem Timolia-Netzwerk erlaubt. Für weitere Infos siehe das [Regelwerk - Games](/rules/games/#2-modifikationen-modshacks-resource-packs-und-minimaps).
+Alle hier aufgeführten Mods sind vom Timolia-Team geprüft und das Spielen mit diesen ist auf dem Timolia-Netzwerk erlaubt.
+Möchtest du mit einer Mod spielen, die hier nicht aufgelistet ist, empfehlen wir dir, den [Timolia Support](/faq/#wer-supportet-mich-wenn-ich-fragen-habe) zu kontaktieren und uns
+zu bitten, die Mod zu überprüfen. Sollte sie erlaubt sein, wird sie dieser Liste hinzugefügt und du bist auf der sicheren Seite. Wenn du ohne unsere Zustimmung mit nicht explizit erlaubten Mods spielst, trägst du selbst das Risiko dafür.
+Für weitere Infos siehe das [Regelwerk – Games](/rules/games/#2-modifikationen-modshacks-resource-packs-und-minimaps).
 
-Die folgende Liste ist alphabetisch geordnet. Suche am besten mit der Suchfunktion deines Browsers (**Strg+F**) auf dieser Seite nach der Mod, mit der du spielen möchtest.
+Die folgende Liste ist alphabetisch geordnet.
+Suche am besten mit der Suchfunktion deines Browsers (**Strg + F**) auf dieser Seite nach der Mod, mit der du spielen möchtest.
 
-- 5zigMod
-- ArmorStatusHUD
-- AutoFriendMod
-- AutoGG
-- AutoTip
-- AutoWho
-- Badlion Client 2
-- Batty's Coordinates (+)
-- BetterF3Mod
-- BetterFoilageMod
-- BlockoverlayMod
-- bspkrscore
-- CapeMod
-- ChatTriggersMod
-- ChromaHUD
-- ChromaParticlesMod
-- ChunkAnimator
-- ClanWarMod
-- ClearGlassMod
-- ComboDisplayMod
-- CoordsMod
-- CosmicClient
-- CPSMod
-- CustomCrosshairMod
-- CustomMainMenu
-- CustomSkyMod
-- DabMod
-- DeiraMod
-- DirectionHUD
-- DJTastyMod
-- DynamicLightsMod
-- EmojifyMod
-- FidgetSpinnerCPSMod
-- FoamFixMod
-- FOVControl
-- FPSMod / FPS Spoof Mod
-- FpsReducerMod
-- GlintColorizer
-- GUIScaleMod
-- HypixelToolsMod
-- IngameAccountSwitcher
-- IngameServerSwitcher
-- ItemcounterMod
-- ItemPhysics
-- KeyMod
-- KeyStrokesMod
-- LabyMod (Version 3.1 und höher)
-- LevelHead
-- lper
-- MacroKeyMod
-- MemoryFix
-- MLGHe
-- MorePlayerModels
-- MotionBlurMod
-- MouseDelayFix
-- MumbleMod
-- NameHistoryMod
-- NameTagMod
-- NotEnoughItems
-- OldAnimations (OrangeMarshall's und spiderfrog's)
-- OptiFine
-- Orange's Simple Mod
-- PackDisplayMod
-- PackSwitcherMod
-- ParadoxMod
-- ParticleMod
-- PerspectiveMod
-- PingMod
-- PingTag
-- Powns' CheatbreakerHUD
-- ProfileMod
-- ProjectL
-- QuickPlayMod
-- QuickSWMod
-- ReachCirclesMod
-- ReachDisplayMod
-- ReplayMod
-- ResourcePackOrganizer / Resourcepacks24
-- SaturationDisplay
-- Schaftimer
-- ScreenShotMod
-- SidebarMod
-- SimpleChunkLoaderMod
-- SkinChangerMod
-- SoundFiltersMod
-- StatusEffectHUD
-- SuperSecretSettingsFix
-- Timechanger (nur ohne Misplace!)
-- ToggleChatMod
-- ToggleSneak
-- TooManyItems
-- Vanilla Enhancements
-- WaypointsMod
-- WingsMod
-- WorldEditMod
-- XaeroBetterPVP (ohne MiniMap und DamageIndicators)
-- YoutubeCounterMod
-- ZonixClient
+
+- 5zigMod [<a href="https://github.com/5zig/The-5zig-Mod" target="_blank">Klick</a>]
+- ArmorStatusHUD [<a href="https://www.curseforge.com/minecraft/mc-mods/armorstatushud" target="_blank">Klick</a>, <a href="https://www.curseforge.com/minecraft/mc-mods/armorstatushud-updated" target="_blank">Klick</a>]
+- AutoFriendMod [<a href="https://2pi.pw/mods/autofriend" target="_blank">Klick</a>]
+- AutoGG [<a href="https://2pi.pw/mods/autogg" target="_blank">Klick</a>]
+- AutoTip [<a href="https://autotip.pro" target="_blank">Klick</a>]
+- AutoWho [<a href="https://2pi.pw/mods/autowho" target="_blank">Klick</a>]
+- Badlion Client 2 [<a href="https://client.badlion.net" target="_blank">Klick</a>]
+- Batty's Coordinates (+) [<a href="https://www.curseforge.com/minecraft/mc-mods/batty-coords" target="_blank">Klick</a>, <a href="https://www.curseforge.com/minecraft/mc-mods/batty-ui" target="_blank">Klick</a>]
+- Better Foliage [<a href="https://www.curseforge.com/minecraft/mc-mods/better-foliage" target="_blank">Klick</a>]
+- bspkrscore [<a href="https://www.curseforge.com/minecraft/mc-mods/bspkrscore" target="_blank">Klick</a>]
+- ChatTriggersMod [<a href="https://www.chattriggers.com" target="_blank">Klick</a>]
+- ChromaHUD [<a href="https://sk1er.club/mods/ChromaHUD" target="_blank">Klick</a>]
+- ChunkAnimator [<a href="https://www.curseforge.com/minecraft/mc-mods/chunk-animator" target="_blank">Klick</a>]
+- ClanWarMod [<a href="https://www.gommehd.net/cwmod" target="_blank">Klick</a>]
+- CosmicClient [<a href="https://cosmicclient.com" target="_blank">Klick</a>]
+- Custom Crosshair Mod [<a href="https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod" target="_blank">Klick</a>]
+- Custom Main Menu [<a href="https://www.curseforge.com/minecraft/mc-mods/custom-main-menu" target="_blank">Klick</a>]
+- DabMod [<a href="https://www.curseforge.com/minecraft/mc-mods/dab-mod" target="_blank">Klick</a>]
+- DirectionHUD [<a href="https://www.curseforge.com/minecraft/mc-mods/directionhud" target="_blank">Klick</a>]
+- DynamicLightsMod [<a href="https://www.curseforge.com/minecraft/mc-mods/dynamic-lights" target="_blank">Klick</a>]
+- FPS Reducer [<a href="https://www.curseforge.com/minecraft/mc-mods/fps-reducer" target="_blank">Klick</a>]
+- FoamFix Mod [<a href="https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod" target="_blank">Klick</a>]
+- Fov Control [<a href="https://www.curseforge.com/minecraft/mc-mods/fov-control" target="_blank">Klick</a>]
+- Hypixel Tools Mod [<a href="https://hypixel.net/threads/wip-hypixel-tools-mod-forge-1-8-1-8-9-taking-suggestions.855534" target="_blank">Klick</a>]
+- In-Game Account Switcher [<a href="https://www.curseforge.com/minecraft/mc-mods/in-game-account-switcher" target="_blank">Klick</a>]
+- ItemPhysic [<a href="https://www.curseforge.com/minecraft/mc-mods/itemphysic" target="_blank">Klick</a>, <a href="https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite" target="_blank">Klick</a>]
+- KeyStrokesMod [<a href="https://sk1er.club/mods/keystrokesmod" target="_blank">Klick</a>]
+- LabyMod (Version 3.5 und höher) [<a href="https://www.labymod.net" target="_blank">Klick</a>]
+- LevelHead [<a href="https://sk1er.club/mods/level_head" target="_blank">Klick</a>]
+- MacroKey Keybinding [<a href="https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding" target="_blank">Klick</a>]
+- MemoryFix [<a href="https://prplz.io/memoryfix" target="_blank">Klick</a>]
+- MorePlayerModels [<a href="https://www.curseforge.com/minecraft/mc-mods/more-player-models" target="_blank">Klick</a>]
+- MotionBlurMod [<a href="https://2pi.pw/mods/motionblur" target="_blank">Klick</a>]
+- MouseDelayFix [<a href="https://prplz.io/mousedelayfix" target="_blank">Klick</a>]
+- Mumble Link [<a href="https://www.curseforge.com/minecraft/mc-mods/mumblelink" target="_blank">Klick</a>]
+- NotEnoughItems [<a href="https://www.curseforge.com/minecraft/mc-mods/not-enough-items-1-8" target="_blank">Klick</a>]
+- OldAnimations [<a href="https://www.curseforge.com/minecraft/mc-mods/old-animations-mod" target="_blank">Klick</a>, <a href="https://oldanimationsmod.net" target="_blank">Klick</a>]
+- OptiFine [<a href="https://optifine.net" target="_blank">Klick</a>]
+- Orange's Simple Mod [<a href="https://www.curseforge.com/minecraft/mc-mods/oranges-simplemods-collection" target="_blank">Klick</a>]
+- PerspectiveMod [<a href="https://www.curseforge.com/minecraft/mc-mods/perspective-mod-redux" target="_blank">Klick</a>]
+- ProjectL [<a href="https://www.curseforge.com/minecraft/mc-mods/projectl" target="_blank">Klick</a>]
+- QuickSWMod [<a href="https://hypixel.net/threads/forge-mod-quicksw-quick-skywars-1-8-1-8-9.714896" target="_blank">Klick</a>]
+- Quickplay [<a href="https://hypixel.net/threads/forge-quickplay-v2-0-3-quickly-join-games-on-the-network.1317410" target="_blank">Klick</a>]
+- ReachDisplayMod [<a href="https://github.com/ThatFr3ddy/ReachDisplay" target="_blank">Klick</a>]
+- Replay Mod [<a href="https://www.replaymod.com" target="_blank">Klick</a>]
+- Resource Pack Organizer [<a href="https://www.curseforge.com/minecraft/mc-mods/resource-pack-organizer" target="_blank">Klick</a>]
+- Resourcepacks24 [<a href="https://resourcepacks24.de" target="_blank">Klick</a>]
+- SaturationDisplay [<a href="https://www.curseforge.com/minecraft/mc-mods/saturationdisplay" target="_blank">Klick</a>]
+- ScalingGUIs [<a href="https://www.curseforge.com/minecraft/mc-mods/scalingguis" target="_blank">Klick</a>]
+- Screenshots Advanced [<a href="https://www.curseforge.com/minecraft/mc-mods/screenshots-enhanced" target="_blank">Klick</a>]
+- SimpleChunkLoader [<a href="https://www.curseforge.com/minecraft/mc-mods/simplechunkloader" target="_blank">Klick</a>]
+- SkyblockAddons [<a href="https://biscuit.codes/mods/skyblockaddons" target="_blank">Klick</a>, <a href="https://github.com/Net-Coding/SkyblockAddons" target="_blank">Klick</a>]
+- Sound Filters [<a href="https://www.curseforge.com/minecraft/mc-mods/sound-filters" target="_blank">Klick</a>]
+- StatusEffectHUD [<a href="https://www.curseforge.com/minecraft/mc-mods/statuseffecthud" target="_blank">Klick</a>]
+- Timechanger [<a href="https://2pi.pw/mods/timechanger" target="_blank">Klick</a>]
+- ToggleChat [<a href="https://2pi.pw/mods/togglechat" target="_blank">Klick</a>]
+- ToggleSneak [<a href="https://www.curseforge.com/minecraft/mc-mods/togglesneak" target="_blank">Klick</a>]
+- TooManyItems [<a href="https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1272385-toomanyitems-the-inventory-editor-and-more-1-8" target="_blank">Klick</a>]
+- Vanilla Enhancements [<a href="https://www.curseforge.com/minecraft/mc-mods/vanilla-enhancements" target="_blank">Klick</a>]
+- Wings [<a href="https://www.curseforge.com/minecraft/mc-mods/wings" target="_blank">Klick</a>]
+- WorldEdit [<a href="https://www.curseforge.com/minecraft/mc-mods/worldedit" target="_blank">Klick</a>]
+- XaeroBetterPVP (ohne MiniMap und Damage Indicators) [<a href="http://chocolateminecraft.com/betterpvp2.php" target="_blank">Klick</a>]
