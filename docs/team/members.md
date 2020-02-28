@@ -1,4 +1,4 @@
-Das Timolia-Team besteht aktuell aus 42 Mitgliedern und ist in die Ränge 
+Das Timolia-Team besteht aktuell aus 44 Mitgliedern und ist in die Ränge 
 <span class='management'>Management</span>, 
 <span class='sysadmin'>SysAdmin</span>, 
 <span class='developer-plus'>Developer+</span>, 
@@ -130,6 +130,9 @@ Sie dienen als interne Ansprechpartner bei Fragen und koordinieren häufig einze
 - <u>Hauptverantwortlich:</u> Bauteam-Twitter, Timolia Turnier Organisation, YouTuber-Ränge
 - <u>Nebenverantwortlich:</u> TeamSpeak
 
+### <strong><span class='moderator'>NameIsTaken</span></strong>
+- <u>Rang (ingame):</u> Moderator
+
 ### <strong><span class='moderator'>physanus</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Timolia HowTo
@@ -224,6 +227,9 @@ Sie betreuen die architektonische Gestaltung neuer Modi und betreuen externe Map
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span class='builder'>DiddiHD</span></strong>
+- <u>Rang (ingame):</u> Builder
+
+### <strong><span class='builder'>Kaaaiii</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span class='builder'>Sentuqs</span></strong>
