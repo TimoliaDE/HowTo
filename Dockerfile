@@ -4,13 +4,14 @@ RUN apk add --update \
     ca-certificates \
     bash \
     git \
-    python2 \
-    python2-dev \
-    py-setuptools \
+    python3 \
+    python3-dev \
+    curl \
     openrc \
     nginx
 
-RUN easy_install-2.7 pip 
+RUN curl -s https://bootstrap.pypa.io/get-pip.py | python3 - && \
+    echo -en '\nPython version: ' && python3 -V && echo -n 'pip version:    ' &&  pip -V && echo -en '\n'
 RUN pip install mkdocs
 RUN pip install mkdocs-material
 
