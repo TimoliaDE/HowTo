@@ -30,7 +30,6 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 | Bowless           | Ermöglicht ein UHC ohne Bogen |
 | CutClean          | Erze und Essen werden bereits geschmolzen/gebraten |
 | Diamondless       | Es gibt keine Diamanterze, jedoch bekommt man pro Kill einen Diamanten |
-| Dog Power         | Du erhältst ein Starterpack aus Knocken, Wölfen und verrottetem Fleisch |
 | DoubleOres        | Doppelte Erze beim Abbauen |
 | Fireless          | Es gibt keinen Feuer-/Lavaschaden |
 | Golden Heal       | Jeder Spieler erhält zu Spielbeginn eine goldene Hacke, mit der man sich ein Mal vollständig heilen kann |
