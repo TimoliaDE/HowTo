@@ -25,29 +25,33 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 
 | Szenario | Beschreibung |
 | ------ | -------- |
-| Backpack         | Ermöglicht ein gemeinsames Inventar in Team-UHCs (`/backpack` oder `/bp`) |
-| Bloody Diamonds  | Beim Abbauen eines Diamanten bekommst du ein halbes Herz Schaden |
-| Bowless          | Ermöglicht ein UHC ohne Bogen |
-| CutClean         | Erze und Essen werden bereits geschmolzen/gebraten |
-| Diamondless      | Es gibt keine Diamanterze, jedoch bekommt man pro Kill einen Diamanten |
-| Dog Power        | Du erhältst ein Starterpack aus Knocken, Wölfen und verrottetem Fleisch |
-| DoubleOres       | Doppelte Erze beim Abbauen |
-| Fireless         | Es gibt keinen Feuer-/Lavaschaden |
-| Goldless         | Es gibt keine Golderze, jedoch bekommt man pro Kill 8 Gold |
-| Hastey Boys      | Jedes Werkzeug hat Effizienz und Haltbarkeit 3 |
-| Healing Kill     | Nach jedem Kill erhältst du wieder volles Leben |
-| Heart Upgrade    | Nach jeden Kill erhöht sich deine maximale Lebenszahl um eins |
-| Horseless        | Ermöglicht ein UHC ohne Pferde |
-| NoClean          | Nach jedem Kill bist du für 30 Sekunden unverwundbar |
-| NoEnchant        | Es sind keine Verzauberungen möglich |
-| NoFall           | Es gibt keinen Fallschaden |
-| Rodless          | Ermöglicht ein UHC ohne Angel |
-| Shared Damage    | Bekommt ein Spieler Schaden, bekommen auch dessen Teampartner Schaden |
-| Shared Heal      | Wird ein Spieler geheilt, heilen sich auch dessen Teampartner |
-| Soup             | Suppenheilung ist aktiviert (2 Herzen) |
-| Starter          | Das UHC beginnt für jeden mit Eisenrüstung und Werkzeug |
-| Timber           | Bäume gehen direkt kaputt |
-| TimeBomb         | Nach einem Kill spawnt eine Kiste mit den Items des Gegners, diese explodiert nach 30 Sekunden |
+| Backpack          | Ermöglicht ein gemeinsames Inventar in Team-UHCs (`/backpack` oder `/bp`) |
+| Bloody Diamonds   | Beim Abbauen eines Diamanten bekommst du ein halbes Herz Schaden |
+| Bowless           | Ermöglicht ein UHC ohne Bogen |
+| CutClean          | Erze und Essen werden bereits geschmolzen/gebraten |
+| Diamondless       | Es gibt keine Diamanterze, jedoch bekommt man pro Kill einen Diamanten |
+| Dog Power         | Du erhältst ein Starterpack aus Knocken, Wölfen und verrottetem Fleisch |
+| DoubleOres        | Doppelte Erze beim Abbauen |
+| Fireless          | Es gibt keinen Feuer-/Lavaschaden |
+| Golden Heal       | Jeder Spieler erhält zu Spielbeginn eine goldene Hacke, mit der man sich ein Mal vollständig heilen kann |
+| Goldless          | Es gibt keine Golderze, jedoch bekommt man pro Kill 8 Gold |
+| Hastey Boys       | Jedes Werkzeug hat Effizienz und Haltbarkeit 3 |
+| Healing Kill      | Nach jedem Kill erhältst du wieder volles Leben |
+| Heart Upgrade     | Nach jeden Kill erhöht sich deine maximale Lebenszahl um eins |
+| Horseless         | Ermöglicht ein UHC ohne Pferde |
+| NoClean           | Nach jedem Kill bist du für 30 Sekunden unverwundbar |
+| NoEnchant         | Es sind keine Verzauberungen möglich |
+| NoFall            | Es gibt keinen Fallschaden |
+| Regenerating Kill | Nach einem Kill erhält der Spieler für 10 Sekunden Regeneration II |
+| Rodless           | Ermöglicht ein UHC ohne Angel |
+| Shared Damage     | Bekommt ein Spieler Schaden, bekommen auch dessen Teampartner Schaden |
+| Shared Heal       | Wird ein Spieler geheilt, heilen sich auch dessen Teampartner |
+| Show Health       | Zeigt über jedem Spieler dessen aktuelle Leben an |
+| Soup              | Suppenheilung ist aktiviert (2 Herzen) |
+| Starter           | Das UHC beginnt für jeden mit Eisenrüstung und Werkzeug |
+| Switcheroo        | Beim Abschießen eines Spielers (Pfeil, Ei, ...) tauschen sich die Positionen der beiden Spieler |
+| Timber            | Bäume gehen direkt kaputt |
+| TimeBomb          | Nach einem Kill spawnt eine Kiste mit den Items des Gegners, diese explodiert nach 30 Sekunden |
 
 
 ## Befehle
