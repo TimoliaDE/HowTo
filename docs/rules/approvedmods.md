@@ -69,3 +69,6 @@ Suche am besten mit der Suchfunktion deines Browsers (**Strg + F**) auf dieser S
 - Wings [<a href="https://www.curseforge.com/minecraft/mc-mods/wings" target="_blank">Klick</a>]
 - WorldEdit [<a href="https://www.curseforge.com/minecraft/mc-mods/worldedit" target="_blank">Klick</a>]
 - XaeroBetterPVP (ohne MiniMap und Damage Indicators) [<a href="http://chocolateminecraft.com/betterpvp2.php" target="_blank">Klick</a>]
+
+
+Letzte Aktualisierung: 25. Februar 2020
