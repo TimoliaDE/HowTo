@@ -2,6 +2,12 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 
 # 2020
 
+###  <strong>März</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+| TimderBusfahrer | <span class='mvp'>Native MVP</span> | <span class='developer'>Developer</span> | 05.03.2020 |
+
+
 ###  <strong>Februar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
