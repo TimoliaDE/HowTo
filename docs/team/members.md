@@ -1,4 +1,4 @@
-Das Timolia-Team besteht aktuell aus 45 Mitgliedern und ist in die Ränge 
+Das Timolia-Team besteht aktuell aus 46 Mitgliedern und ist in die Ränge 
 <span class='management'>Management</span>, 
 <span class='sysadmin'>SysAdmin</span>, 
 <span class='developer-plus'>Developer+</span>, 
@@ -98,9 +98,6 @@ Developer kümmern sich um die Timolia Plugins, entwickeln neue Features und Spi
 - <u>Rang (ingame):</u> Developer
 - <u>Hauptverantwortlich:</u> Anti-Cheat
 
-### <strong><span class='developer'>TheBrownShape</span></strong>
-- <u>Rang (ingame):</u> Developer
-
 ### <strong><span class='developer'>TimderBusfahrer</span></strong>
 - <u>Rang (ingame):</u> Developer
 
@@ -192,6 +189,12 @@ Supporter stehen für alle grundlegenden Fragen und Reports zur Verfügung und s
 - <u>Rang (ingame):</u> Supporter
 
 ### <strong><span class='supporter'>Semolius</span></strong>
+- <u>Rang (ingame):</u> Supporter
+
+### <strong><span class='supporter'>Stracy</span></strong>
+- <u>Rang (ingame):</u> Supporter
+
+### <strong><span class='supporter'>TrueSpoki</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
 ### <strong><span class='supporter'>Wie\_Shu</span></strong>
