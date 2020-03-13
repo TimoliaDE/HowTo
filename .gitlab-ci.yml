@@ -1,4 +1,6 @@
 image: docker:stable
+services:
+  - docker:dind
 
 stages:
   - build
@@ -7,14 +9,19 @@ stages:
 variables:
   DOCKER_REGISTRY_LIVE: registry.timolia.de
   DOCKER_REGISTRY_DEV: dev-registry.timolia.de
+  DOCKER_HOST: tcp://docker:2375
+  DOCKER_TLS_CERTDIR: ""
+
 
 
 build_live:
   stage: build
+  tags:
+    - docker
   script:
     - docker info
     - docker login -u=$DOCKER_USERNAME_LIVE -p=$DOCKER_PASSWORD_LIVE $DOCKER_REGISTRY_LIVE
-    - docker build -t $DOCKER_REGISTRY_LIVE/howto:$CI_COMMIT_REF_NAME .
+    - docker build --network host -t $DOCKER_REGISTRY_LIVE/howto:$CI_COMMIT_REF_NAME .
     - docker push $DOCKER_REGISTRY_LIVE/howto:$CI_COMMIT_REF_NAME
   only:
     - master
@@ -22,6 +29,8 @@ build_live:
 deploy_live:
   stage: deploy
   image: ictu/sshpass
+  tags:
+    - docker
   script:
     - sshpass -p $HOWTO_PW ssh -o "StrictHostKeyChecking=no" howto@web-team.timolia.de
   only:
@@ -29,10 +38,12 @@ deploy_live:
 
 build_dev:
   stage: build
+  tags:
+    - docker
   script:
     - docker info
     - docker login -u=$DOCKER_USERNAME_DEV -p=$DOCKER_PASSWORD_DEV $DOCKER_REGISTRY_DEV
-    - docker build -t $DOCKER_REGISTRY_DEV/howto:dev .
+    - docker build --network host -t $DOCKER_REGISTRY_DEV/howto:dev .
     - docker push $DOCKER_REGISTRY_DEV/howto:dev
   except:
     - master
@@ -40,6 +51,8 @@ build_dev:
 deploy_dev:
   stage: deploy
   image: ictu/sshpass
+  tags:
+    - docker
   script:
     - sshpass -p $HOWTO_PW_DEV ssh -o "StrictHostKeyChecking=no" howto@devnet-new.timolia.de
   except:

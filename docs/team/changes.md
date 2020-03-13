@@ -2,6 +2,14 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 
 # 2020
 
+###  <strong>März</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+| Stracy | <span class='expert'>Expert</span> | <span class='supporter'>Supporter</span> | 08.03.2020 |
+| TrueSpoki | <span class='mvp'>Native MVP</span> | <span class='supporter'>Supporter</span> | 08.03.2020 |
+| TimderBusfahrer | <span class='mvp'>Native MVP</span> | <span class='developer'>Developer</span> | 05.03.2020 |
+
+
 ###  <strong>Februar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
@@ -89,6 +97,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | SpaceJumper | <span class='supporter'>Supporter</span> | <span class='expert'>Native Expert</span> | 14.09.2019 |
 | Liisa | <span class='supporter'>Supporterin</span> | <span class='mvp'>Native MVP</span> | 14.09.2019 |
 | xnulix | <span class='builder'>Builder</span> | <span class='expert'>Native Expert</span> | 14.09.2019 |
+| TheBrownShape | <span class='developer'>Developer</span> | <span class='mvp'>Native MVP</span> | 14.09.2019 |
 | Bukkit_PVP | <span class='developer'>Developer</span> | <span class='mvp'>Native MVP</span> | 14.09.2019 |
 | Sterax | <span class='supporter'>Supporter</span> | <span class='expert'>Native Expert</span> | 13.09.2019 |
 | einMole | <span class='supporter'>Supporter</span> | <span class='expert'>Native Expert</span> | 11.09.2019 |
@@ -314,7 +323,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Januar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
-| TaiToni | <span class='supporter'>Supporter</span> | <span class='expert'>Native Expert</span> | 27.01.2018 |
+| TaiToni | <span class='supporter'>Supporter</span> | <span class='expert'>Expert</span> | 27.01.2018 |
 | iPushyy | <span class='user'>Spieler</span> | <span class='developer'>Developer</span> | 23.01.2018 |
 | MCPhilippS | <span class='supporter'>Supporter</span> | <span class='mvp'>Native MVP</span> | 20.01.2018 |
 | Tiem | <span class='supporter'>Supporter</span> | <span class='mvp'>Native MVP</span> | 16.01.2018 |
