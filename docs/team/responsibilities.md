@@ -112,7 +112,7 @@ Diese Teamler kümmern sich um's Aktualisieren und Erstellen des HowTos Timolias
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='moderator'>physanus</span> | Hauptverantwortlich |
+|<span class='sysadmin'>physanus</span> | Hauptverantwortlich |
 
 ### **Social-Media**
 Für einen ständigen Support und Content auf Twitter und anderen sozialen Medien sorgen diese Teamler.
@@ -122,12 +122,12 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 |<span class='management'>Lascona</span> | Hauptverantwortlich |
 | | |
 |<span class='developer-plus'>tr7zw</span> | Twitter NV |
-|<span class='moderator'>physanus</span> | Twitter NV |
+|<span class='sysadmin'>physanus</span> | Twitter NV |
 |<span class='supporter'>Chrissi1505</span> | Twitter NV |
 |<span class='supporter'>xTessia</span> | Twitter NV |
 |<span class='moderator'>medicoo</span> | Bauteam-Twitter HV |
 |<span class='headbuilder'>Jukplays</span> | Bauteam-Twitter HV |
-|<span class='moderator'>physanus</span> | Bauteam-Twitter NV |
+|<span class='sysadmin'>physanus</span> | Bauteam-Twitter NV |
 
 ### **TeamSpeak**
 Der TeamSpeak von Timolia ist unter ts.timolia.de zu erreichen. Er wird betreut von diesen Teamlern.
@@ -137,7 +137,7 @@ Der TeamSpeak von Timolia ist unter ts.timolia.de zu erreichen. Er wird betreut 
 |<span class='developer-plus'>MCelements</span> | Hauptverantwortlich |
 | | |
 |<span class='moderator'>medicoo</span> | Nebenverantwortlich |
-|<span class='moderator'>physanus</span> | Nebenverantwortlich |
+|<span class='sysadmin'>physanus</span> | Nebenverantwortlich |
 |<span class='supporter'>xTessia</span> | Nebenverantwortlich |
 
 ### **Discord**
@@ -158,7 +158,7 @@ Dieses Team entscheidet über die Turniereinstellungen bei den Freitagsturnieren
 |<span class='moderator'>medicoo</span> | Hauptverantwortlich |
 | | |
 |<span class='moderator'>ferdedelino</span> | Nebenverantwortlich |
-|<span class='moderator'>physanus</span> | Nebenverantwortlich |
+|<span class='sysadmin'>physanus</span> | Nebenverantwortlich |
 
 
 ### **Broadcasts**
@@ -169,7 +169,7 @@ Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadca
 |<span class='management'>Lascona</span> | Hauptverantwortlich |
 |<span class='supporter-plus'>CoveredSymmetry</span> | Hauptverantwortlich |
 | | |
-|<span class='moderator'>physanus</span> | Nebenverantwortlich |
+|<span class='sysadmin'>physanus</span> | Nebenverantwortlich |
 |<span class='supporter-plus'>RodspamExpertRU</span> | Nebenverantwortlich |
 |<span class='supporter'>\_Tetzel\_</span> | Nebenverantwortlich |
 |<span class='supporter'>xTessia</span> | Nebenverantwortlich |

@@ -50,6 +50,11 @@ Sie führen Updates durch und sorgen für ein reibungsloses Spielerlebnis im All
 - <u>Rang (ingame):</u> SysAdmin
 - <u>Hauptverantwortlich:</u> Systemadministration
 
+### <strong><span class='sysadmin'>physanus</span></strong>
+- <u>Rang (ingame):</u> SysAdmin
+- <u>Hauptverantwortlich:</u> Timolia HowTo
+- <u>Nebenverantwortlich:</u> Bauteam-Twitter, Broadcasts, TeamSpeak, Timolia Turnier Organisation, Twitter
+
 ### <strong><span class='sysadmin'>zortax</span></strong>
 - <u>Rang (ingame):</u> SysAdmin
 - <u>Hauptverantwortlich:</u> Systemadministration, DevOps
@@ -132,11 +137,6 @@ Sie dienen als interne Ansprechpartner bei Fragen und koordinieren häufig einze
 
 ### <strong><span class='moderator'>NameIsTaken</span></strong>
 - <u>Rang (ingame):</u> Moderator
-
-### <strong><span class='moderator'>physanus</span></strong>
-- <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Timolia HowTo
-- <u>Nebenverantwortlich:</u> Bauteam-Twitter, Broadcasts, TeamSpeak, Timolia Turnier Organisation, Twitter
 
 
 
