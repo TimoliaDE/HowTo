@@ -8,9 +8,8 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | physanus | <span class='moderator'>Moderator</span> | <span class='sysadmin'>SysAdmin</span> | 17.03.2020 |
 | TraizzyBuilds | <span class='expert'>Expert</span> | <span class='builder'>Builder</span> | 08.03.2020 |
 | Stracy | <span class='expert'>Expert</span> | <span class='supporter'>Supporter</span> | 08.03.2020 |
-| TrueSpoki | <span class='mvp'>MVP</span> | <span class='supporter'>Supporter</span> | 08.03.2020 |
+| TrueSpoki | <span class='pro'>Pro+</span> | <span class='supporter'>Supporter</span> | 08.03.2020 |
 | TimderBusfahrer | <span class='mvp'>Native MVP</span> | <span class='developer'>Developer</span> | 05.03.2020 |
-
 
 ###  <strong>Februar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
