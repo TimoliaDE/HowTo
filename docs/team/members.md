@@ -215,7 +215,7 @@ Sie leiten und organisieren das Bauteam und dienen als erste Ansprechpartner fü
 Außerdem kümmern sie sich um die Auswahl und Einarbeitung neuer Builder und sind die Schnittstelle 
 zwischen dem Bauteam und der allgemeinen Projektorganisation.
 
-### <strong><span class='headbuilder'>Jukplays</span></strong>
+### <strong><span class='headbuilder'>JukPlays</span></strong>
 - <u>Rang (ingame):</u> HeadBuilder
 - <u>Hauptverantwortlich:</u> Bauteam-Twitter, Management des Bauteams
 
