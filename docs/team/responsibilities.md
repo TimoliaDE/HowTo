@@ -41,7 +41,7 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span class='moderator'>BowspamExpertDE</span> | Hauptverantwortlich |
 | | |
 |<span class='developer-plus'>svdragster</span> | Nebenverantwortlich |
-|<span class='supporter-plus'>J4mPr0</span> | Nebenverantwortlich |
+|<span class='supporter-plus'>Marmeladenprofi</span> | Nebenverantwortlich |
 |<span class='supporter-plus'>RodspamExpertRU</span> | Nebenverantwortlich |
 
 ### **Spieler melden**
@@ -64,7 +64,7 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | | |
 |<span class='supporter'>Chrissi1505</span> | Nebenverantwortlich |
 |<span class='supporter-plus'>CoveredSymmetry</span> | Nebenverantwortlich |
-|<span class='supporter-plus'>J4mPr0</span> | Nebenverantwortlich |
+|<span class='supporter-plus'>Marmeladenprofi</span> | Nebenverantwortlich |
 |<span class='supporter'>xTessia</span> | Nebenverantwortlich |
 
 ### **Zu Unrecht gebannt**
@@ -73,7 +73,7 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span class='moderator'>BowspamExpertDE</span> | Hauptverantwortlich |
 | | |
 |<span class='moderator'>ferdedelino</span> | Nebenverantwortlich |
-|<span class='supporter-plus'>J4mPr0</span> | Nebenverantwortlich |
+|<span class='supporter-plus'>Marmeladenprofi</span> | Nebenverantwortlich |
 
 # Sonstige Aufgaben
 
