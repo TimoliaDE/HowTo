@@ -182,7 +182,7 @@ Supporter stehen für alle grundlegenden Fragen und Reports zur Verfügung und s
 ### <strong><span class='supporter'>einMole</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
-### <strong><span class='supporter'>HerLegendaryWolf</span></strong>
+### <strong><span class='supporter'>TherapieWolf</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
 ### <strong><span class='supporter'>NetflixGutschein</span></strong>
