@@ -182,9 +182,6 @@ Supporter stehen für alle grundlegenden Fragen und Reports zur Verfügung und s
 ### <strong><span class='supporter'>einMole</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
-### <strong><span class='supporter'>TherapieWolf</span></strong>
-- <u>Rang (ingame):</u> Supporter
-
 ### <strong><span class='supporter'>NetflixGutschein</span></strong>
 - <u>Rang (ingame):</u> Supporterin
 
@@ -195,6 +192,9 @@ Supporter stehen für alle grundlegenden Fragen und Reports zur Verfügung und s
 - <u>Rang (ingame):</u> Supporter
 
 ### <strong><span class='supporter'>Stracy</span></strong>
+- <u>Rang (ingame):</u> Supporter
+
+### <strong><span class='supporter'>TherapieWolf</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
 ### <strong><span class='supporter'>TrueSpoki</span></strong>
