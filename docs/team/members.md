@@ -1,4 +1,4 @@
-Das Timolia-Team besteht aktuell aus 47 Mitgliedern und ist in die Ränge 
+Das Timolia-Team besteht aktuell aus 48 Mitgliedern und ist in die Ränge 
 <span class='management'>Management</span>, 
 <span class='sysadmin'>SysAdmin</span>, 
 <span class='developer-plus'>Developer+</span>, 
@@ -152,6 +152,9 @@ Sie sind die ersten, an die sich Spieler mit ihren Anliegen wenden können.
 - <u>Rang (ingame):</u> Supporter+
 - <u>Hauptverantwortlich:</u> Anregungen und Vorschläge Forum, Broadcasts, Forenorganisation, Fragen und Antworten Forum
 - <u>Nebenverantwortlich:</u> Entschuldigungen
+
+### <strong><span class='supporter-plus'>HOLDYOURCOLOURS</span></strong>
+- <u>Rang (ingame):</u> Supporter+
 
 ### <strong><span class='supporter-plus'>Marmeladenprofi</span></strong>
 - <u>Rang (ingame):</u> Supporter+

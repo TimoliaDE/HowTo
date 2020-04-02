@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>März</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| HOLDYOURCOLOURS | <span class='expert'>Native Expert</span> | <span class='supporter-plus'>Supporter+</span> | 31.03.2020 |
 | \_TakeItEaZy\_ | <span class='mvp'>Native MVP</span> | <span class='developer'>Developer</span> | 27.03.2020 |
 | Kaaaiii | <span class='builder'>Builder</span> | <span class='user'>Spieler</span> | 24.03.2020 |
 | physanus | <span class='moderator'>Moderator</span> | <span class='sysadmin'>SysAdmin</span> | 17.03.2020 |
