@@ -1,4 +1,4 @@
-Das Timolia-Team besteht aktuell aus 48 Mitgliedern und ist in die Ränge 
+Das Timolia-Team besteht aktuell aus 49 Mitgliedern und ist in die Ränge 
 <span class='management'>Management</span>, 
 <span class='sysadmin'>SysAdmin</span>, 
 <span class='developer-plus'>Developer+</span>, 
@@ -258,4 +258,7 @@ Als kreative Ader sind sie für die verschiedensten Belange von Grafikdesign bis
 - <u>Hauptverantwortlich:</u> Grafikdesign
 
 ### <strong><span class='creator'>Niizck</span></strong>
+- <u>Rang (ingame):</u> Creator
+
+### <strong><span class='creator'>Sunneeh</span></strong>
 - <u>Rang (ingame):</u> Creator
