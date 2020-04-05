@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>April</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| xJu1ia | <span class='expert'>Native Expert</span> | <span class='supporter'>Supporterin</span> | 05.04.2020 |
 | Sunneeh | <span class='expert'>Expert</span> | <span class='creator'>Creator</span> | 02.04.2020 |
 
 ###  <strong>März</strong>
