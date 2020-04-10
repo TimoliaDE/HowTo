@@ -1,4 +1,4 @@
-Das Timolia-Team besteht aktuell aus 50 Mitgliedern und ist in die Ränge 
+Das Timolia-Team besteht aktuell aus 49 Mitgliedern und ist in die Ränge 
 <span class='management'>Management</span>, 
 <span class='sysadmin'>SysAdmin</span>, 
 <span class='developer-plus'>Developer+</span>, 
@@ -107,9 +107,6 @@ Developer kümmern sich um die Timolia Plugins, entwickeln neue Features und Spi
 - <u>Hauptverantwortlich:</u> Anti-Cheat
 
 ### <strong><span class='developer'>TimderBusfahrer</span></strong>
-- <u>Rang (ingame):</u> Developer
-
-### <strong><span class='developer'>Vuquiz</span></strong>
 - <u>Rang (ingame):</u> Developer
 
 ### <strong><span class='developer'>YTKacperSKY</span></strong>
