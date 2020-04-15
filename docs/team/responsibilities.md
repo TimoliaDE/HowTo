@@ -123,6 +123,7 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 | | |
 |<span class='developer-plus'>tr7zw</span> | Twitter NV |
 |<span class='sysadmin'>physanus</span> | Twitter NV |
+|<span class='supporter-plus'>RodspamExpertRU</span> | Twitter NV |
 |<span class='supporter'>Chrissi1505</span> | Twitter NV |
 |<span class='supporter'>xTessia</span> | Twitter NV |
 |<span class='moderator'>medicoo</span> | Bauteam-Twitter HV |
