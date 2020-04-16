@@ -1,4 +1,4 @@
-Das Timolia-Team besteht aktuell aus 48 Mitgliedern und ist in die Ränge 
+Das Timolia-Team besteht aktuell aus 49 Mitgliedern und ist in die Ränge 
 <span class='management'>Management</span>, 
 <span class='sysadmin'>SysAdmin</span>, 
 <span class='developer-plus'>Developer+</span>, 
@@ -239,6 +239,9 @@ Sie betreuen die architektonische Gestaltung neuer Modi und betreuen externe Map
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span class='builder'>Sentuqs</span></strong>
+- <u>Rang (ingame):</u> Builder
+
+### <strong><span class='builder'>Tim_Julian</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span class='builder'>TraizzyBuilds</span></strong>
