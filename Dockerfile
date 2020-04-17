@@ -5,6 +5,7 @@ RUN apk add --update \
     bash \
     gcc \
     git \
+    musl-dev \
     python3 \
     python3-dev \
     curl \
