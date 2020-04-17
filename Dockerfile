@@ -3,6 +3,7 @@ FROM alpine:latest
 RUN apk add --update \
     ca-certificates \
     bash \
+    gcc \
     git \
     python3 \
     python3-dev \
