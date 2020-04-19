@@ -191,7 +191,7 @@ Supporter stehen für alle grundlegenden Fragen und Reports zur Verfügung und s
 ### <strong><span class='supporter'>Stracy</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
-### <strong><span class='supporter'>TherapieWolf</span></strong>
+### <strong><span class='supporter'>HerLegendaryWolf</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
 ### <strong><span class='supporter'>TrueSpoki</span></strong>
