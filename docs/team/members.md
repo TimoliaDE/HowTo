@@ -153,7 +153,7 @@ Sie sind die ersten, an die sich Spieler mit ihren Anliegen wenden können.
 ### <strong><span class='supporter-plus'>amartema</span></strong>
 - <u>Rang (ingame):</u> Supporter+
 
-### <strong><span class='supporter-plus'>Marmeladenprofi</span></strong>
+### <strong><span class='supporter-plus'>J4mPr0</span></strong>
 - <u>Rang (ingame):</u> Supporter+
 - <u>Nebenverantwortlich:</u> Entschuldigungen, Map-Einsendungen, Zu Unrecht gebannt Forum
 
