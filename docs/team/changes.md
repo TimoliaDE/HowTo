@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>April</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| \_xlinx\_ | <span class='mvp'>MVP</span> | <span class='supporter'>Supporter</span> | 21.04.2020 |
 | Tim_Julian | <span class='expert'>Expert</span> | <span class='builder'>Builder</span> | 16.04.2020 |
 | Pexa | <span class='supporter'>Supporter</span> | <span class='mvp'>Native MVP</span> | 14.04.2020 |
 | Vuquiz | <span class='developer'>Developer</span> | <span class='mvp'>Native MVP</span> | 08.04.2020 |
