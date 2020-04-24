@@ -7,7 +7,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | ------ | ------ | ------ | ------ |
 | HaroZwei | <span class='pro'>Pro</span> | <span class='creator'>Creator</span> | 23.04.2020 |
 | sp9z | <span class='user'>Spieler</span> | <span class='developer'>Developer</span> | 21.04.2020 |
-| \_xlinx\_ | <span class='mvp'>MVP</span> | <span class='supporter'>Supporter</span> | 21.04.2020 |
+| \_xlinx\_ | <span class='mvp'>MVP</span> | <span class='supporter'>Supporterin</span> | 21.04.2020 |
 | HaarigeMelone | <span class='pro'>Pro</span> | <span class='supporter'>Supporter</span> | 21.04.2020 |
 | Tim_Julian | <span class='expert'>Expert</span> | <span class='builder'>Builder</span> | 16.04.2020 |
 | Pexa | <span class='supporter'>Supporter</span> | <span class='mvp'>Native MVP</span> | 14.04.2020 |
