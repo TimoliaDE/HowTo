@@ -31,15 +31,24 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 | Auto Torch           | Fackeln werden in dunkeln Umgebungen automatisch gesetzt |
 | Backpack             | Ermöglicht ein gemeinsames Inventar in Team-UHCs (`/backpack` oder `/bp`) |
 | BedBomb              | Betten explodieren, sobald du versuchst, dich hineinzulegen |
+| Birds                | Alle Spieler können fliegen |
+| Blocked Blocks       | Man kann selbst platzierte Blöcke nicht mehr abbauen |
 | Bloody Diamonds      | Beim Abbauen eines Diamanten bekommst du ein halbes Herz Schaden |
+| Bloody Enchantments  | Bei jeder Verzauberung bekommst du ein halbes Herz Schaden |
 | Bowless              | Ermöglicht ein UHC ohne Bogen |
 | Cold Weapons         | Du kannst deine Waffen nicht auf Verbrennung und Feuer verzaubern |
 | CutClean             | Erze und Essen werden bereits geschmolzen/gebraten |
 | Diamondless          | Es gibt keine Diamanterze, jedoch bekommt man pro Kill einen Diamanten |
+| Double Jump          | Du kannst Doppelsprung nutzen |
+| Elimination          | Alle 10 Minuten stirbt der Spieler mit den geringsten Leben. Haben mehrere Spieler gleich viele Leben, stirbt niemand. |
+| Enchanted Death      | Verzauberungstische sind deaktiviert. Durch Kills verbessert sich dein Equip. |
 | Fireless             | Es gibt keinen Feuer-/Lavaschaden |
 | Golden Heal          | Jeder Spieler erhält zu Spielbeginn eine goldene Hacke, mit der man sich ein Mal vollständig heilen kann |
 | Goldless             | Es gibt keine Golderze, jedoch bekommt man pro Kill 8 Gold |
 | Instant Head         | Spielerköpfe sind deine Leibspeise, durch die du 10 Sekunden lang Speed 2 erhältst |
+| Interval Damage      | Alle 10 Minuten bekommt jeder Spieler 2 Herzen Schaden |
+| Killswitch           | Der Killer eines Spielers übernimmt das Inventar des Getöteten |
+| Low Life             | Jeder Spieler startet mit einem halben Herz und einem Notch-Apfel |
 | Natural Regeneration | Natürliche Regeneration ist aktiviert |
 | Hastey Boys          | Jedes Werkzeug hat Effizienz und Haltbarkeit 3 |
 | Healing Kill         | Nach jedem Kill erhältst du wieder volles Leben |
@@ -48,6 +57,7 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 | Hungerless           | Du bist immer gesättigt |
 | Limited Inventory    | Du kannst nur die Hotbar nutzen. Das restliche Inventar ist gesperrt. |
 | Multi Ores           | Doppelte Erze beim Abbauen |
+| Natural Regeneration | Natürliche Regeneration ist aktiviert |
 | NoClean              | Nach jedem Kill bist du für 30 Sekunden unverwundbar |
 | NoEnchant            | Es sind keine Verzauberungen möglich |
 | NoFall               | Es gibt keinen Fallschaden |
@@ -62,8 +72,12 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 | Soup                 | Suppenheilung ist aktiviert (2 Herzen) |
 | Starter              | Das UHC beginnt für jeden mit Eisenrüstung und Werkzeug |
 | Switcheroo           | Beim Abschießen eines Spielers (Pfeil, Ei, ...) tauschen sich die Positionen der beiden Spieler |
+| Tank                 | Die ersten 3 Male, würdest du Schaden erhalten, wirst du verschont |
 | Timber               | Bäume gehen direkt kaputt |
 | Time Bomb            | Nach einem Kill spawnt eine Kiste mit den Items des Gegners, diese explodiert nach 30 Sekunden |
+| Toplist              | Alle 10 Minuten regenerierst du 2 Leben und erhältst 2 Extraherzen, bis du Schaden bekommst. Dann musst du einen Spieler töten, um erneut Leben zu erhalten. |
+| Turtle               | Wenn du sneakst, erhälst du nur den halben Schaden |
+| Zombie Death         | Wenn ein Spieler stirbt, spawnt an dessen Standort ein Zombie mit Diamantrüstung |
 
 
 ## Befehle
