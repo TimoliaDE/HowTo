@@ -18,6 +18,7 @@ permanenter Ausschluss vom Timolia-Netzwerk. Dazu zählt auch der reine Versuch.
 
 ### Doppelposts und Spammen von Beiträgen
 Das Spammen von Beiträgen ist verboten und wird bei häufigem Vorkommen geahndet. Des Weiteren sollte die Suchfunktion benutzt werden, bevor ein Beitrag gepostet wird, doppelte Beiträge werden geschlossen oder gelöscht.
+Auch Verboten ist das nicht zweckdienliche Taggen von Spielern oder Temmitgliedern, insbesondere das mehrfache Markieren direkt nacheinander, wenn dies ohne innhaltlichen Mehrwert geschieht.
 
 ### Signaturen
 Signaturen dürfen eine maximale Größe von 1500 Zeichen und 15 Zeilen nicht überschreiten. Erlaubt ist die Verwendung von maximal einem GIF oder einer Animation sowie die Verwendung von Bildern und Grafiken. Die Schriftgröße 5 sollte nicht überschritten werden.
@@ -52,4 +53,4 @@ Sollte ein Nutzer gegen die Regeln verstoßen, wird dieser verwarnt und bekommt 
 
 <strong>Das Team behält sich das Recht vor, bestimmtes Handeln zu sanktionieren, welches nicht explizit in den Regeln aufgelistet ist.</strong>
 
-Letzte Aktualisierung: 03. Oktober 2019
+Letzte Aktualisierung: 24. April 2020
