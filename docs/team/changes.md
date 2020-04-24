@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>April</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| Burilein | <span class='expert'>Expert</span> | <span class='builder'>Builder</span> | 24.04.2020 |
 | HaroZwei | <span class='pro'>Pro</span> | <span class='creator'>Creator</span> | 23.04.2020 |
 | sp9z | <span class='user'>Spieler</span> | <span class='developer'>Developer</span> | 21.04.2020 |
 | \_xlinx\_ | <span class='mvp'>MVP</span> | <span class='supporter'>Supporterin</span> | 21.04.2020 |
