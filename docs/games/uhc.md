@@ -49,7 +49,6 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 | Interval Damage      | Alle 10 Minuten bekommt jeder Spieler 2 Herzen Schaden |
 | Killswitch           | Der Killer eines Spielers übernimmt das Inventar des Getöteten |
 | Low Life             | Jeder Spieler startet mit einem halben Herz und einem Notch-Apfel |
-| Natural Regeneration | Natürliche Regeneration ist aktiviert |
 | Hastey Boys          | Jedes Werkzeug hat Effizienz und Haltbarkeit 3 |
 | Healing Kill         | Nach jedem Kill erhältst du wieder volles Leben |
 | Heart Upgrade        | Nach jeden Kill erhöht sich deine maximale Lebenszahl um eins |
