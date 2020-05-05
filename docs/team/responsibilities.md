@@ -194,4 +194,5 @@ Wenn sich ein YouTuber für einen Rang auf Timolia interessiert, werden die Anfr
 |<span class='moderator'>medicoo</span> | Hauptverantwortlich |
 | | |
 |<span class='moderator'>BowspamExpertDE</span> | Nebenverantwortlich |
+|<span class='supporter'>Stracy</span> | Nebenverantwortlich |
 |<span class='supporter'>xTessia</span> | Nebenverantwortlich |
