@@ -18,6 +18,7 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span class='supporter-plus'>CoveredSymmetry</span> | Hauptverantwortlich |
 | | |
 |<span class='supporter-plus'>RodspamExpertRU</span> | Nebenverantwortlich |
+|<span class='supporter'>Stracy</span> | Nebenverantwortlich |
 
 ### **Fragen und Antworten**
 
@@ -27,6 +28,7 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | | |
 |<span class='developer-plus'>svdragster</span> | Nebenverantwortlich |
 |<span class='supporter-plus'>RodspamExpertRU</span> | Nebenverantwortlich |
+|<span class='supporter'>Stracy</span> | Nebenverantwortlich |
 
 ### **Feedback**
 | Teamler | Verantwortungsgrad |
