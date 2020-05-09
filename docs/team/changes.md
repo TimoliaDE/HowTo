@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Mai</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| play4me_ | <span class='developer'>Developer</span> | <span class='mvp'>Native MVP</span> | 09.05.2020 |
 | Chuy_ | <span class='user'>Spieler</span> | <span class='builder'>Builder</span> | 07.05.2020 |
 
 ###  <strong>April</strong>
