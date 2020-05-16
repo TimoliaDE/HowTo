@@ -39,6 +39,8 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 | Cold Weapons         | Du kannst deine Waffen nicht auf Verbrennung und Feuer verzaubern |
 | CutClean             | Erze und Essen werden bereits geschmolzen/gebraten |
 | Diamondless          | Es gibt keine Diamanterze, jedoch bekommt man pro Kill einen Diamanten |
+| DoNotDisturb         | Kein anderer Spieler kann dich im Kampf mit einem anderen Spieler angreifen |
+| CooldownPvP          | Zwischen den Schlägen existiert ein Cooldown – ähnlich der 1.9 |
 | Double Jump          | Du kannst Doppelsprung nutzen |
 | Elimination          | Alle 10 Minuten stirbt der Spieler mit den geringsten Leben. Haben mehrere Spieler gleich viele Leben, stirbt niemand. |
 | Enchanted Death      | Verzauberungstische sind deaktiviert. Durch Kills verbessert sich dein Equip. |
@@ -55,6 +57,8 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 | Horseless            | Ermöglicht ein UHC ohne Pferde |
 | Hungerless           | Du bist immer gesättigt |
 | Limited Inventory    | Du kannst nur die Hotbar nutzen. Das restliche Inventar ist gesperrt. |
+| MiddleEnchants       | Verzauberungstische sind bis auf vier Stück in der Mitte deaktiviert |
+| MobileCraftingTable  | Öffne deine mobile Werkbank mit `/workbench` |
 | Multi Ores           | Doppelte Erze beim Abbauen |
 | Natural Regeneration | Natürliche Regeneration ist aktiviert |
 | NoClean              | Nach jedem Kill bist du für 30 Sekunden unverwundbar |
