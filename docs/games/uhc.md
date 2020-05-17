@@ -56,6 +56,7 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 | Heart Upgrade        | Nach jeden Kill erhöht sich deine maximale Lebenszahl um eins |
 | Horseless            | Ermöglicht ein UHC ohne Pferde |
 | Hungerless           | Du bist immer gesättigt |
+| Hydrophobic          | Du bekommst Schaden, wenn du im Wasser bist |
 | Limited Inventory    | Du kannst nur die Hotbar nutzen. Das restliche Inventar ist gesperrt. |
 | MiddleEnchants       | Verzauberungstische sind bis auf vier Stück in der Mitte deaktiviert |
 | MobileCraftingTable  | Öffne deine mobile Werkbank mit `/workbench` |
