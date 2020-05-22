@@ -37,10 +37,10 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 | Bloody Enchantments  | Bei jeder Verzauberung bekommst du ein halbes Herz Schaden |
 | Bowless              | Ermöglicht ein UHC ohne Bogen |
 | Cold Weapons         | Du kannst deine Waffen nicht auf Verbrennung und Feuer verzaubern |
+| CooldownPvP          | Zwischen den Schlägen existiert ein Cooldown – ähnlich der 1.9 |
 | CutClean             | Erze und Essen werden bereits geschmolzen/gebraten |
 | Diamondless          | Es gibt keine Diamanterze, jedoch bekommt man pro Kill einen Diamanten |
 | DoNotDisturb         | Kein anderer Spieler kann dich im Kampf mit einem anderen Spieler angreifen |
-| CooldownPvP          | Zwischen den Schlägen existiert ein Cooldown – ähnlich der 1.9 |
 | Double Jump          | Du kannst Doppelsprung nutzen |
 | Elimination          | Alle 10 Minuten stirbt der Spieler mit den geringsten Leben. Haben mehrere Spieler gleich viele Leben, stirbt niemand. |
 | Enchanted Death      | Verzauberungstische sind deaktiviert. Durch Kills verbessert sich dein Equip. |
