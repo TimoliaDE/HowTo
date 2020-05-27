@@ -5,7 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Mai</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
-| amartema | <span class='supporter-plus'>Supporter+</span> | <span class='expert'>Native Expert</span> | 13.05.2020 |
+| amartema | <span class='supporter-plus'>Supporter+</span> | <span class='expert'>Expert</span> | 13.05.2020 |
 | play4me_ | <span class='developer'>Developer</span> | <span class='mvp'>Native MVP</span> | 09.05.2020 |
 | Chuy_ | <span class='user'>Spieler</span> | <span class='builder'>Builder</span> | 07.05.2020 |
 
