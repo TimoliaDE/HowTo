@@ -2,6 +2,7 @@ Alle hier aufgeführten Mods sind vom Timolia-Team geprüft und das Spielen mit 
 Möchtest du mit einer Mod spielen, die hier nicht aufgelistet ist, empfehlen wir dir, den [Timolia Support](/faq/#wer-supportet-mich-wenn-ich-fragen-habe) zu kontaktieren und uns
 zu bitten, die Mod zu überprüfen. Sollte sie erlaubt sein, wird sie dieser Liste hinzugefügt und du bist auf der sicheren Seite. Wenn du ohne unsere Zustimmung mit nicht explizit erlaubten Mods spielst, trägst du selbst das Risiko dafür.
 Für weitere Infos siehe das [Regelwerk – Games](/rules/games/#2-modifikationen-modshacks-resource-packs-und-minimaps).
+Bitte beachte, dass das Nutzen von 1.7-Features in jeglichen Clients, Mods u.ä. verboten ist.
 
 Die folgende Liste ist alphabetisch geordnet.
 Suche am besten mit der Suchfunktion deines Browsers (**Strg + F**) auf dieser Seite nach der Mod, mit der du spielen möchtest.
@@ -36,6 +37,7 @@ Suche am besten mit der Suchfunktion deines Browsers (**Strg + F**) auf dieser S
 - KeyStrokesMod [<a href="https://sk1er.club/mods/keystrokesmod" target="_blank">Klick</a>]
 - LabyMod (Version 3.5 und höher) [<a href="https://www.labymod.net" target="_blank">Klick</a>]
 - LevelHead [<a href="https://sk1er.club/mods/level_head" target="_blank">Klick</a>]
+- Lunar Client [<a href="https://www.lunarclient.com/" target="_blank">Klick</a>]
 - MacroKey Keybinding [<a href="https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding" target="_blank">Klick</a>]
 - MemoryFix [<a href="https://prplz.io/memoryfix" target="_blank">Klick</a>]
 - MorePlayerModels [<a href="https://www.curseforge.com/minecraft/mc-mods/more-player-models" target="_blank">Klick</a>]
