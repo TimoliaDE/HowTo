@@ -49,7 +49,7 @@ Die bewusste Irreführung von Teammitgliedern ist verboten. Sanktionen, die dara
 Ebenso ist es verboten, Spielern durch gefälschte Reports einen Regelverstoß anzuhängen, den diese nicht begangen haben. Außerdem ist jegliche Form von Ausnutzung des Reportsystems verboten.
 
 ## §6 - Statsboosting
-Das Boosten seiner Stats in den verschiedenen Spielmodi durch die Anwendung unfairer Spielmethoden ist auf Timolia nicht erlaubt.
+Das Boosten seiner Stats in den verschiedenen Spielmodi durch die Anwendung unfairer Spielmethoden ist auf Timolia nicht erlaubt. Hierunter zählen auch, aber nicht nur, Kits, die einem gegenüber dem Gegner einen erhebliche Vorteil durch gleiche oder ähnliche Items bieten.
 
 ## §7 – 1v1-Kits
 - <u>Crash-Kits</u>: Als Crash-Kits werden 1v1-Kits bezeichnet, welche den Minecraft-Client eines Spielers “einfrieren” lassen, zum Absturz bringen oder verhindern, dass Spieler auf dem Server spielen können. 
@@ -110,4 +110,4 @@ Bei wiederholten Verstößen gegen das Bannumgehungsverbot können alle betroffe
 
 <strong>Das Team behält sich das Recht vor, bestimmtes Handeln (auch außerhalb des Minecraft- und TeamSpeakservers) zu sanktionieren, welches nicht explizit in den Regeln aufgelistet ist.</strong>
 
-Letzte Aktualisierung: 29. Mai 2020
+Letzte Aktualisierung: 01. Juni 2020
