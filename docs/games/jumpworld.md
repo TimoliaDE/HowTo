@@ -33,6 +33,7 @@ Um Tagessieger zu werden:
 - Mit `/setstart` kannst du den Startpunkt deines Parcours festlegen, mit `/setblock` kannst du unter dir einen Block setzen.
 - Um dein Jump and Run veröffentlichen zu können, musst du dieses vorher ein Mal selbst geschafft haben. Wähle dazu im jeweiligen Bauslot "JnR durchlaufen" aus.
 - Im Baumenü kannst du deinem Parcours einen Namen geben.
+- Das maximale Baulimit beträgt 500.000 Blöcke.
 
 ## Premium-Features
 - Premium-Spieler erhalten bis zu drei mal mehr Pixel.
