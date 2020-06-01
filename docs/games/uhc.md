@@ -95,5 +95,5 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 | `/invite <Spieler>`                        | Damit kannst du Spieler in dein Team bei Team-UHCs einladen. |
 | `/inviteaccept <Spieler>`                  | Damit nimmst du Teameinladungen bei Team-UHCs an. |
 | `/scenarios`, `/scn`, `/info`, `/uhc`      | Zeigt dir die aktivierten Szenarien an. |
-| `/topkills`                                | Zeigt den/die Spieler mit den meistens Kills an. |
+| `/topkills`, `/top`, `/tk`                 | Zeigt den/die Spieler mit den meistens Kills an. |
 | `/watch <Team-Member>`                     | Damit kannst du als Spectator zwischen deinen Teampartnern wechseln. |
