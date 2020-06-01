@@ -48,6 +48,11 @@ und Bildbearbeitung, wenn du im bildnerischen bzw. gestalterischen Bereich täti
 Postproduktion für den Schwerpunkt der (YouTube)Videoproduktion; Kreativität; sprachliche Fähigkeiten; Kenntnis über Design und kreativen Aufbau Timolias.
 
 
+### UHC Spectator
+UHC Spectator sind Spieler, die in UHCs aushelfen und die Spieler unterstützen. Hierbei durchlaufen UHC Spectator verschiedene Stufen mit sich erweiternden Aufgabenbereichen, um sich über die Zeit zu bewähren.
+Bewerben kann man sich jederzeit mit [diesem Formular](https://timolia.de/uhcspec).
+
+
 ### Premium-Ränge
 Timolia hat verschiedene permanente Premium-Ränge. Für diese kann man sich nicht bewerben, als Dankeschön erhält jeder Spieler einen Rang, 
 wenn dieser einen gewissen Betrag an Timolia spendet. [Mehr dazu hier](/ranks/premium/)
