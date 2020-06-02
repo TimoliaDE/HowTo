@@ -24,7 +24,16 @@ Einen Channel erhält man, indem man sich im TeamSpeak an ein Teammitglied wende
 ein privater Channel mithilfe eines Tickets angefordert werden. Dieses kannst du mit `/ticket <Anliegen>` erstellen.
 
 ### Kosten eines Channels
-Die Kosten eines privaten Channels belaufen sich <strong>pro Monat auf <u>2.500 Pixel</u></strong>.
+Die Kosten eines privaten Channels staffeln sich je nach gebuchter Mietzeit:
+| Dauer | Preis |
+| ------ | ------ |
+| 7 Tage | 300 Pixel |
+| 30 Tage | 1000 Pixel |
+| 60 Tage | 1960 Pixel |
+| 90 Tage | 2880 Pixel |
+| 120 Tage | 3760 Pixel |
+| 150 Tage | 4600 Pixel |
+| 180 Tage | 5400 Pixel |
 
 ## Wie erhalte ich ein Channel-Icon?
 - Ein Channel-Icon kostet monatlich 750 Pixel.
