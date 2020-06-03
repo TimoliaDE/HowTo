@@ -25,6 +25,7 @@ ein privater Channel mithilfe eines Tickets angefordert werden. Dieses kannst du
 
 ### Kosten eines Channels
 Die Kosten eines privaten Channels staffeln sich je nach gebuchter Mietzeit:
+
 | Dauer | Preis |
 | ------ | ------ |
 | 7 Tage | 300 Pixel |
