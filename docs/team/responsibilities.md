@@ -160,8 +160,12 @@ Dieses Team entscheidet über die Turniereinstellungen bei den Freitagsturnieren
 |<span class='management'>Lascona</span> | Hauptverantwortlich |
 |<span class='moderator'>medicoo</span> | Hauptverantwortlich |
 | | |
-|<span class='moderator'>ferdedelino</span> | Nebenverantwortlich |
 |<span class='sysadmin'>physanus</span> | Nebenverantwortlich |
+|<span class='moderator'>ferdedelino</span> | Nebenverantwortlich |
+|<span class='supporter-plus'>RodspamExpertRU</span> | Nebenverantwortlich |
+|<span class='supporter-plus'>J4mPr0</span> | Nebenverantwortlich |
+|<span class='supporter'>Stracy</span> | Nebenverantwortlich |
+
 
 
 ### **Broadcasts**

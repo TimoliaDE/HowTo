@@ -151,12 +151,12 @@ Sie sind die ersten, an die sich Spieler mit ihren Anliegen wenden können.
 
 ### <strong><span class='supporter-plus'>J4mPr0</span></strong>
 - <u>Rang (ingame):</u> Supporter+
-- <u>Nebenverantwortlich:</u> Entschuldigungen, Map-Einsendungen, Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Entschuldigungen, Map-Einsendungen, Timolia Turnier Organisation, Zu Unrecht gebannt Forum
 
 ### <strong><span class='supporter-plus'>RodspamExpertRU</span></strong>
 - <u>Rang (ingame):</u> Supporter+
 - <u>Hauptverantwortlich:</u> Baufehlerbehebung, Entschuldigungen
-- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Broadcasts, Fragen und Antworten Forum, Map-Einsendungen, Twitter
+- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Broadcasts, Fragen und Antworten Forum, Map-Einsendungen, Timolia Turnier Organisation, Twitter
 
 
 
@@ -195,7 +195,7 @@ Supporter stehen für alle grundlegenden Fragen und Reports zur Verfügung und s
 
 ### <strong><span class='supporter'>Stracy</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Fragen und Antworten Forum, YouTuber-Ränge
+- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Fragen und Antworten Forum, Timolia Turnier Organisation, YouTuber-Ränge
 
 ### <strong><span class='supporter'>TrueSpoki</span></strong>
 - <u>Rang (ingame):</u> Supporter
