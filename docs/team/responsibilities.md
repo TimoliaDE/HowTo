@@ -40,7 +40,7 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 ### **Map-Einsendungen**
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='moderator'>RodspamExpertRU</span> | Hauptverantwortlich |
+|<span class='supporter-plus'>RodspamExpertRU</span> | Hauptverantwortlich |
 | | |
 |<span class='developer-plus'>svdragster</span> | Nebenverantwortlich |
 |<span class='supporter-plus'>J4mPr0</span> | Nebenverantwortlich |
