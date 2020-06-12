@@ -40,11 +40,10 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 ### **Map-Einsendungen**
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='moderator'>BowspamExpertDE</span> | Hauptverantwortlich |
+|<span class='moderator'>RodspamExpertRU</span> | Hauptverantwortlich |
 | | |
 |<span class='developer-plus'>svdragster</span> | Nebenverantwortlich |
 |<span class='supporter-plus'>J4mPr0</span> | Nebenverantwortlich |
-|<span class='supporter-plus'>RodspamExpertRU</span> | Nebenverantwortlich |
 
 ### **Spieler melden**
 | Teamler | Verantwortungsgrad |
@@ -197,6 +196,5 @@ Wenn sich ein YouTuber für einen Rang auf Timolia interessiert, werden die Anfr
 |<span class='management'>Lascona</span> | Hauptverantwortlich |
 |<span class='moderator'>medicoo</span> | Hauptverantwortlich |
 | | |
-|<span class='moderator'>BowspamExpertDE</span> | Nebenverantwortlich |
 |<span class='supporter'>Stracy</span> | Nebenverantwortlich |
 |<span class='supporter'>xTessia</span> | Nebenverantwortlich |

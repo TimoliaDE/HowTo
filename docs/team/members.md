@@ -121,8 +121,7 @@ Sie dienen als interne Ansprechpartner bei Fragen und koordinieren häufig einze
 
 ### <strong><span class='moderator'>BowspamExpertDE</span></strong>
 - <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Map-Einsendungen, Zu Unrecht gebannt Forum
-- <u>Nebenverantwortlich:</u> Spieler melden Forum, YouTuber-Ränge
+- <u>Hauptverantwortlich:</u> Spieler melden Forum, Zu Unrecht gebannt Forum
 
 ### <strong><span class='moderator'>ferdedelino</span></strong>
 - <u>Rang (ingame):</u> Moderator
@@ -155,8 +154,8 @@ Sie sind die ersten, an die sich Spieler mit ihren Anliegen wenden können.
 
 ### <strong><span class='supporter-plus'>RodspamExpertRU</span></strong>
 - <u>Rang (ingame):</u> Supporter+
-- <u>Hauptverantwortlich:</u> Baufehlerbehebung, Entschuldigungen
-- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Broadcasts, Fragen und Antworten Forum, Map-Einsendungen, Timolia Turnier Organisation, Twitter
+- <u>Hauptverantwortlich:</u> Baufehlerbehebung, Entschuldigungen, Map-Einsendungen
+- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Broadcasts, Fragen und Antworten Forum, Timolia Turnier Organisation, Twitter
 
 
 
