@@ -185,6 +185,7 @@ Supporter stehen für alle grundlegenden Fragen und Reports zur Verfügung und s
 
 ### <strong><span class='supporter'>HerLegendaryWolf</span></strong>
 - <u>Rang (ingame):</u> Supporter
+- <u>Nebenverantwortlich:</u> Baufehlerbehebung
 
 ### <strong><span class='supporter'>NetflixGutschein</span></strong>
 - <u>Rang (ingame):</u> Supporterin

@@ -99,6 +99,8 @@ Bei jeglichen Baufehlern auf den Maps von Timolia kümmern sich diese Teamler da
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span class='supporter-plus'>RodspamExpertRU</span> | Hauptverantwortlich |
+| | |
+|<span class='supporter'>HerLegendaryWolf</span> | Nebenverantwortlich |
 
 ### **Supporterauswahl**
 Wenn es wieder daran geht, neue Supporter in unsere Reihen zu holen, kümmern sich diese Verantwortlichen darum.
