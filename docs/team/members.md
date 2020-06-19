@@ -143,7 +143,7 @@ Sie dienen als interne Ansprechpartner bei Fragen und koordinieren häufig einze
 Sie verfügen über ein umfassendes Fachwissen und stehen für alle Fragen und Reports zur Verfügung. 
 Sie sind die ersten, an die sich Spieler mit ihren Anliegen wenden können.
 
-### <strong><span class='supporter-plus'>CoveredSymmetry</span></strong>
+### <strong><span class='supporter-plus'>HerrLeerer</span></strong>
 - <u>Rang (ingame):</u> Supporter+
 - <u>Hauptverantwortlich:</u> Anregungen und Vorschläge Forum, Broadcasts, Forenorganisation, Fragen und Antworten Forum
 - <u>Nebenverantwortlich:</u> Entschuldigungen

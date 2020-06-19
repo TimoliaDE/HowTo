@@ -8,14 +8,14 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span class='management'>Lascona</span> | Hauptverantwortlich |
-|<span class='supporter-plus'>CoveredSymmetry</span> | Hauptverantwortlich |
+|<span class='supporter-plus'>HerrLeerer</span> | Hauptverantwortlich |
 
 ### **Anregungen und Vorschläge**
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span class='management'>Lascona</span> | Hauptverantwortlich |
-|<span class='supporter-plus'>CoveredSymmetry</span> | Hauptverantwortlich |
+|<span class='supporter-plus'>HerrLeerer</span> | Hauptverantwortlich |
 | | |
 |<span class='supporter-plus'>RodspamExpertRU</span> | Nebenverantwortlich |
 |<span class='supporter'>Stracy</span> | Nebenverantwortlich |
@@ -24,7 +24,7 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='supporter-plus'>CoveredSymmetry</span> | Hauptverantwortlich |
+|<span class='supporter-plus'>HerrLeerer</span> | Hauptverantwortlich |
 | | |
 |<span class='developer-plus'>svdragster</span> | Nebenverantwortlich |
 |<span class='supporter-plus'>RodspamExpertRU</span> | Nebenverantwortlich |
@@ -64,7 +64,7 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span class='supporter-plus'>RodspamExpertRU</span> | Hauptverantwortlich |
 | | |
 |<span class='supporter'>Chrissi1505</span> | Nebenverantwortlich |
-|<span class='supporter-plus'>CoveredSymmetry</span> | Nebenverantwortlich |
+|<span class='supporter-plus'>HerrLeerer</span> | Nebenverantwortlich |
 |<span class='supporter-plus'>J4mPr0</span> | Nebenverantwortlich |
 |<span class='supporter'>xTessia</span> | Nebenverantwortlich |
 
@@ -175,7 +175,7 @@ Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadca
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span class='management'>Lascona</span> | Hauptverantwortlich |
-|<span class='supporter-plus'>CoveredSymmetry</span> | Hauptverantwortlich |
+|<span class='supporter-plus'>HerrLeerer</span> | Hauptverantwortlich |
 | | |
 |<span class='sysadmin'>physanus</span> | Nebenverantwortlich |
 |<span class='supporter-plus'>RodspamExpertRU</span> | Nebenverantwortlich |
