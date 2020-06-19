@@ -49,8 +49,9 @@ Postproduktion für den Schwerpunkt der (YouTube)Videoproduktion; Kreativität; 
 
 
 ### UHC Spectator
-UHC Spectator sind Spieler, die in UHCs aushelfen und die Spieler unterstützen. Hierbei durchlaufen UHC Spectator verschiedene Stufen mit sich erweiternden Aufgabenbereichen, um sich über die Zeit zu bewähren.
-Bewerben kann man sich jederzeit mit [diesem Formular](https://timolia.de/uhcspec).
+UHC Spectator sind Spieler, die in UHCs aushelfen und die Spieler unterstützen. 
+Hierbei durchlaufen UHC Spectator verschiedene Stufen mit sich erweiternden Aufgabenbereichen, um sich über die Zeit zu bewähren.
+Bewerben kann man sich für diesen Rang derzeit nicht.
 
 
 ### Premium-Ränge
