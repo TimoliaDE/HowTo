@@ -73,8 +73,8 @@ Auch kümmern sie sich um Timolia Plugins, entwickeln neue Features und Spielmod
 
 ### <strong><span class='developer-plus'>MCelements</span></strong>
 - <u>Rang (ingame):</u> Developer+
-- <u>Hauptverantwortlich:</u> TeamSpeak, Timolia-Plugins, Organisation und Betreuung neuer Developer
-- <u>Nebenverantwortlich:</u> Systemadministration, Verschicken von Reddit-Hundeposts
+- <u>Hauptverantwortlich:</u> TeamSpeak, Timolia-Plugins
+- <u>Nebenverantwortlich:</u> Organisation und Betreuung neuer Developer, Systemadministration, Verschicken von Reddit-Hundeposts
 
 ### <strong><span class='developer-plus'>tr7zw</span></strong>
 - <u>Rang (ingame):</u> Developer+
