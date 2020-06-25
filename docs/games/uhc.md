@@ -30,6 +30,7 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 | Apple Kill           | Jeder Spieler erhält 3 goldene Äpfel am Ende der Schutzzeit sowie 2 goldene Äpfel nach jedem Kill |
 | Auto Torch           | Fackeln werden in dunkeln Umgebungen automatisch gesetzt |
 | Backpack             | Ermöglicht ein gemeinsames Inventar in Team-UHCs (`/backpack` oder `/bp`) |
+| Bandits              | Schlägst du einen Spieler, erhältst du mit einer 5 %igen Wahrscheinlichkeit ein Item aus dessen Inventar |
 | BedBomb              | Betten explodieren, sobald du versuchst, dich hineinzulegen |
 | Birds                | Alle Spieler können fliegen |
 | Blocked Blocks       | Man kann selbst platzierte Blöcke nicht mehr abbauen |
@@ -39,14 +40,25 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 | Cold Weapons         | Du kannst deine Waffen nicht auf Verbrennung und Feuer verzaubern |
 | CooldownPvP          | Zwischen den Schlägen existiert ein Cooldown – ähnlich der 1.9 |
 | CutClean             | Erze und Essen werden bereits geschmolzen/gebraten |
+| Daylight Circle      | Bei jedem Tod eines Spielers wechselt die Tageszeit zwischen Tag und Nacht |
+| DecreaseHearts       | Jeder Spieler hat maximal so viele Leben, wie es Spieler gibt |
 | Diamondless          | Es gibt keine Diamanterze, jedoch bekommt man pro Kill einen Diamanten |
+| Dolphins             | Im Wasser ist man schneller |
 | DoNotDisturb         | Kein anderer Spieler kann dich im Kampf mit einem anderen Spieler angreifen |
 | Double Jump          | Du kannst Doppelsprung nutzen |
+| Dragons              | Der Host kann mit `/dragons` bei jedem Spieler einen Enderdrachen spawnen |
+| DropAllItems         | Alle 30 Sekunden werden alle Items aus dem Inventar gedroppt |
 | Elimination          | Alle 10 Minuten stirbt der Spieler mit den geringsten Leben. Haben mehrere Spieler gleich viele Leben, stirbt niemand. |
 | Enchanted Death      | Verzauberungstische sind deaktiviert. Durch Kills verbessert sich dein Equip. |
+| ExplosiveArrows      | Pfeile explodieren, wenn sie ihr Ziel treffen |
 | Fireless             | Es gibt keinen Feuer-/Lavaschaden |
+| Fire Focus           | Du machst anderen Spielern doppelten Schaden, wenn du brennst oder vergiftet bist |
+| Get Away             | Du erhältst Speed 2 für 30 Sekunden, wenn du einen Spieler tötest |
 | Golden Heal          | Jeder Spieler erhält zu Spielbeginn eine goldene Hacke, mit der man sich ein Mal vollständig heilen kann |
 | Goldless             | Es gibt keine Golderze, jedoch bekommt man pro Kill 8 Gold |
+| Gold Digger          | In jedem Erz findest du zusätzlich 1 Goldnugget |
+| Ice Core             | Lava unter Höhe 16 wird durch Eis ersetzt |
+| IncreaseHearts       | Jeder Spieler startet mit 1 Leben, das sich bei jedem Tod eines Spielers um 1 erhöht |
 | Instant Head         | Spielerköpfe sind deine Leibspeise, durch die du 10 Sekunden lang Speed 2 erhältst |
 | Interval Damage      | Alle 10 Minuten bekommt jeder Spieler 2 Herzen Schaden |
 | Killswitch           | Der Killer eines Spielers übernimmt das Inventar des Getöteten |
@@ -66,6 +78,8 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 | NoEnchant            | Es sind keine Verzauberungen möglich |
 | NoFall               | Es gibt keinen Fallschaden |
 | Only Golden Apples   | Jeder Apfel, der dropped, ist ein goldener Apfel |
+| OpSword              | Man kann ein Diamantschwert mit Schärfe X craften |
+| Ore Apples           | Goldene Äpfel können mit allen Erz-Blöcken gecraftet werden |
 | Ore Limitations      | Du kannst nur 64 Eisenerze, 32 Golderze und 16 Diamanterze abbauen |
 | Regenerating Kill    | Nach einem Kill erhält der Spieler für 10 Sekunden Regeneration II |
 | Rodless              | Ermöglicht ein UHC ohne Angel |
@@ -81,18 +95,20 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 | Time Bomb            | Nach einem Kill spawnt eine Kiste mit den Items des Gegners, diese explodiert nach 30 Sekunden |
 | Toplist              | Alle 10 Minuten regenerierst du 2 Leben und erhältst 2 Extraherzen, bis du Schaden bekommst. Dann musst du einen Spieler töten, um erneut Leben zu erhalten. |
 | Turtle               | Wenn du sneakst, erhälst du nur den halben Schaden |
+| xRay-Pickaxe         | Diese Spitzhacke kann gecrafted werden und verwandelt mit einem Rechtsklick alle Steine im Umkreis für eine kurze Zeit in Glas |
 | Zombie Death         | Wenn ein Spieler stirbt, spawnt an dessen Standort ein Zombie mit Diamantrüstung |
 
 
 ## Befehle
 | Befehl | Funktion |
 | ------ | -------- |
-| `/backpack`, `/bp`                         | Ermöglicht ein gemeinsames Inventar in Team-UHCs. |
+| `/backpack`, `/bp`                         | Ermöglicht ein gemeinsames Inventar in Team-UHCs |
 | `/config`                                  | Listet die aktuelle Konfiguration des UHCs auf |
-| `/coordinates`, `/coords`                  | Schickt eine Nachricht an deine Teampartner mit deinen Koordinaten. |
-| `/fix`                                     | Damit kannst du alle Spieler neu laden. |
-| `/helpop`                                  | Damit kannst du jederzeit Fragen bezüglich des UHCs an das Team stellen. |
-| `/invite <Spieler>`                        | Damit kannst du Spieler in dein Team bei Team-UHCs einladen. |
-| `/inviteaccept <Spieler>`                  | Damit nimmst du Teameinladungen bei Team-UHCs an. |
-| `/scenarios`, `/scn`, `/info`, `/uhc`      | Zeigt dir die aktivierten Szenarien an. |
-| `/topkills`, `/top`, `/tk`                 | Zeigt den/die Spieler mit den meistens Kills an. |
+| `/coordinates`, `/coords`                  | Schickt eine Nachricht an deine Teampartner mit deinen Koordinaten |
+| `/dragons <Spieler>`                       | Bei aktivem Szenario `Dragons` kann der Host des UHCs bei dem Spieler einen Enderdrachen spawnen |
+| `/fix`                                     | Damit kannst du alle Spieler neu laden |
+| `/helpop`                                  | Damit kannst du jederzeit Fragen bezüglich des UHCs an das Team stellen |
+| `/invite <Spieler>`                        | Damit kannst du Spieler in dein Team bei Team-UHCs einladen |
+| `/inviteaccept <Spieler>`                  | Damit nimmst du Teameinladungen bei Team-UHCs an |
+| `/scenarios`, `/scn`, `/info`, `/uhc`      | Zeigt dir die aktivierten Szenarien an |
+| `/topkills`, `/top`, `/tk`                 | Zeigt den/die Spieler mit den meistens Kills an |
