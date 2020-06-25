@@ -32,10 +32,11 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/tutorial`                     | Starte ein Tutorial (nicht in allen Modi verfügbar) |
 | `/vote <Zahl>`                  | Votet für eine Map in einem Spielmodus |
 **[Premium](/ranks/premium/) only**:
+| `/togglerank`, `/tr`            | Werde in allen Spielmodi als normaler Spieler angezeigt |
+**[<span class='pro'>Pro+</span>](/ranks/premium/) only**:
 | `/ptime <day/night/midnight/sunrise/noon/afternoon/sunset/reset/hh:mm>` | Zeit für sich selbst umstellen |
 | `/pweather <sun/rain/reset>`    | Wetter für sich selbst umstellen |
-| `/togglerank`, `/tr`            | Werde in allen Spielmodi als normaler Spieler angezeigt |
-**[<span class= 'expert'>Expert</span>](/ranks/premium/) only**:
+**[<span class='expert'>Expert</span>](/ranks/premium/) only**:
 | `/giftpremium <Spieler>`        | Verschenke 3 Tage Pro an einen Spieler (alle 30 Tage) |
 **[<span class='mvp'>VIP</span>](/ranks/youtube/) only**:
 | `/nick`                         | Ermöglicht es dir, dich zu nicken |
@@ -184,12 +185,13 @@ Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführ
 **[Premium](/ranks/premium/) only**:
 | `/bestofx <Spieler> <Anzahl>`   | Fordert einen Spieler zu einem Best of 3 oder Best of 5 heraus |
 | `/create [Passwort]`            | Erstellt ein Turnier (optional mit einem Passwort) |
-| `/hat`                          | Setzt das Item in deiner Hand als den Helm deines Kits |
 | `/near <kit> [name]`            | Zeigt für jede Kitrangliste die Entfernung zum nächsten Rang an |
 | `/modify`                       | Bearbeitet die Turniereinstellungen |
+| `/start [Zeit]`                 | Startet dein Turnier |
+**[<span class='pro'>Pro+</span>](/ranks/premium/) only**:
+| `/hat`                          | Setzt das Item in deiner Hand als den Helm deines Kits |
 | `/rankinfo`                     | Gibt Informationen über deinen aktuellen global Rang aus |
 | `/roadToKD <KD-Ziel>`, `/roadToWL <KD-Ziel>`  | Zeigt die Anzahl zu gewinnender Spiele an, um die K/D zu erreichen |
-| `/start [Zeit]`                 | Startet dein Turnier |
 | `/team setcolor`                | Färbt euren Namen entsprechend der gewählten Farbe |
 
 ### Arcade
@@ -225,6 +227,7 @@ Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführ
 | `/top <ID> -f`                      | Zeigt die wenigsten Fails des Jump 'n' Runs mit der ID [id] an |
 **[Premium](/ranks/premium/) only**:
 | `/multibuild <3,6>`,<br>`/mb <3,6>` | Du kannst bis zu 3 (ab <span class="pro">Pro</span>) oder bis zu 6 (ab <span class="mvp">MVP+</span>) Blöcke auf einmal setzen
+**[<span class='mvp'>MVP</span>](/ranks/premium/) only**:
 | `/skull [Name]`                     | Gibt dir einen Spielerkopf 
 
 ### Castles
