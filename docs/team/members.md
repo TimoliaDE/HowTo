@@ -150,7 +150,8 @@ Sie sind die ersten, an die sich Spieler mit ihren Anliegen wenden können.
 
 ### <strong><span class='supporter-plus'>J4mPr0</span></strong>
 - <u>Rang (ingame):</u> Supporter+
-- <u>Nebenverantwortlich:</u> Entschuldigungen, Map-Einsendungen, Timolia Turnier Organisation, Zu Unrecht gebannt Forum
+- <u>Hauptverantwortlich:</u> Map-Einsendungen
+- <u>Nebenverantwortlich:</u> Entschuldigungen, Timolia Turnier Organisation, Zu Unrecht gebannt Forum
 
 ### <strong><span class='supporter-plus'>RodspamExpertRU</span></strong>
 - <u>Rang (ingame):</u> Supporter+
