@@ -109,6 +109,8 @@ Wenn es wieder daran geht, neue Supporter in unsere Reihen zu holen, kümmern si
 | ------ | ------ |
 |<span class='management'>Lascona</span> | Hauptverantwortlich |
 |<span class='moderator'>ferdedelino</span> | Hauptverantwortlich |
+| | |
+|<span class='sysadmin'>physanus</span> | Nebenverantwortlich |
 
 ### **Timolia HowTo**
 Diese Teamler kümmern sich um's Aktualisieren und Erstellen des HowTos Timolias.
@@ -150,6 +152,7 @@ Der Community-Discord von Timolia ist unter [https://timolia.de/discord](https:/
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span class='management'>Lascona</span> | Nebenverantwortlich |
+|<span class='sysadmin'>physanus</span> | Nebenverantwortlich |
 |<span class='moderator'>ferdedelino</span> | Nebenverantwortlich |
 |<span class='supporter'>Chrissi1505</span> | Nebenverantwortlich |
 

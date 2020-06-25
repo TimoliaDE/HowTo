@@ -52,8 +52,8 @@ Sie führen Updates durch und sorgen für ein reibungsloses Spielerlebnis im All
 
 ### <strong><span class='sysadmin'>physanus</span></strong>
 - <u>Rang (ingame):</u> SysAdmin
-- <u>Hauptverantwortlich:</u> Timolia HowTo
-- <u>Nebenverantwortlich:</u> Bauteam-Twitter, Broadcasts, TeamSpeak, Timolia Turnier Organisation, Twitter
+- <u>Hauptverantwortlich:</u> Systemadministration, DevOps, Gewinnspielorganisation, Timolia HowTo
+- <u>Nebenverantwortlich:</u> Bauteam-Twitter, Broadcasts, Community-Discord, Supporterauswahl, TeamSpeak, Timolia Turnier Organisation, Twitter
 
 ### <strong><span class='sysadmin'>zortax</span></strong>
 - <u>Rang (ingame):</u> SysAdmin
