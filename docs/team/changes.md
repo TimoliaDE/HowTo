@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Juni</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| M0el | <span class='supporter'>Supporter</span> | <span class='expert'>Expert</span> | 04.07.2020 |
 | Dankbarkeit | <span class='builder'>Builder</span> | <span class='mvp'>Native MVP</span> | 09.06.2020 |
 
 ###  <strong>Mai</strong>
