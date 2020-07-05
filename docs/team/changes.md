@@ -13,6 +13,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Juni</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| zOfficial_Hxrry | <span class='user'>Spieler</span> | <span class='builder'>Builder</span> | 20.06.2020 |
 | Dankbarkeit | <span class='builder'>Builder</span> | <span class='mvp'>Native MVP</span> | 09.06.2020 |
 
 ###  <strong>Mai</strong>
