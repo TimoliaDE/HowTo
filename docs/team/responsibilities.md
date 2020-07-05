@@ -17,8 +17,8 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span class='management'>Lascona</span> | Hauptverantwortlich |
 |<span class='supporter-plus'>HerrLeerer</span> | Hauptverantwortlich |
 | | |
-|<span class='supporter-plus'>RodspamExpertRU</span> | Nebenverantwortlich |
-|<span class='supporter'>Stracy</span> | Nebenverantwortlich |
+|<span class='moderator'>RodspamExpertRU</span> | Nebenverantwortlich |
+|<span class='supporter-plus'>Stracy</span> | Nebenverantwortlich |
 
 ### **Fragen und Antworten**
 
@@ -27,8 +27,8 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span class='supporter-plus'>HerrLeerer</span> | Hauptverantwortlich |
 | | |
 |<span class='developer-plus'>svdragster</span> | Nebenverantwortlich |
-|<span class='supporter-plus'>RodspamExpertRU</span> | Nebenverantwortlich |
-|<span class='supporter'>Stracy</span> | Nebenverantwortlich |
+|<span class='moderator'>RodspamExpertRU</span> | Nebenverantwortlich |
+|<span class='supporter-plus'>Stracy</span> | Nebenverantwortlich |
 
 ### **Feedback**
 | Teamler | Verantwortungsgrad |
@@ -40,8 +40,8 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 ### **Map-Einsendungen**
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='supporter-plus'>J4mPr0</span> | Hauptverantwortlich |
-|<span class='supporter-plus'>RodspamExpertRU</span> | Hauptverantwortlich |
+|<span class='moderator'>J4mPr0</span> | Hauptverantwortlich |
+|<span class='moderator'>RodspamExpertRU</span> | Hauptverantwortlich |
 | | |
 |<span class='developer-plus'>svdragster</span> | Nebenverantwortlich |
 
@@ -61,11 +61,11 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 ### **Entschuldigungen**
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='supporter-plus'>RodspamExpertRU</span> | Hauptverantwortlich |
+|<span class='moderator'>RodspamExpertRU</span> | Hauptverantwortlich |
 | | |
-|<span class='supporter'>Chrissi1505</span> | Nebenverantwortlich |
+|<span class='moderator'>J4mPr0</span> | Nebenverantwortlich |
 |<span class='supporter-plus'>HerrLeerer</span> | Nebenverantwortlich |
-|<span class='supporter-plus'>J4mPr0</span> | Nebenverantwortlich |
+|<span class='supporter'>Chrissi1505</span> | Nebenverantwortlich |
 |<span class='supporter'>xTessia</span> | Nebenverantwortlich |
 
 ### **Zu Unrecht gebannt**
@@ -74,7 +74,7 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span class='moderator'>BowspamExpertDE</span> | Hauptverantwortlich |
 | | |
 |<span class='moderator'>ferdedelino</span> | Nebenverantwortlich |
-|<span class='supporter-plus'>J4mPr0</span> | Nebenverantwortlich |
+|<span class='moderator'>J4mPr0</span> | Nebenverantwortlich |
 
 # Sonstige Aufgaben
 
@@ -98,7 +98,7 @@ Bei jeglichen Baufehlern auf den Maps von Timolia kümmern sich diese Teamler da
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='supporter-plus'>RodspamExpertRU</span> | Hauptverantwortlich |
+|<span class='moderator'>RodspamExpertRU</span> | Hauptverantwortlich |
 | | |
 |<span class='supporter'>HerLegendaryWolf</span> | Nebenverantwortlich |
 
@@ -128,7 +128,7 @@ Für einen ständigen Support und Content auf Twitter und anderen sozialen Medie
 | | |
 |<span class='developer-plus'>tr7zw</span> | Twitter NV |
 |<span class='sysadmin'>physanus</span> | Twitter NV |
-|<span class='supporter-plus'>RodspamExpertRU</span> | Twitter NV |
+|<span class='moderator'>RodspamExpertRU</span> | Twitter NV |
 |<span class='supporter'>Chrissi1505</span> | Twitter NV |
 |<span class='supporter'>xTessia</span> | Twitter NV |
 |<span class='moderator'>medicoo</span> | Bauteam-Twitter HV |
@@ -166,9 +166,9 @@ Dieses Team entscheidet über die Turniereinstellungen bei den Freitagsturnieren
 | | |
 |<span class='sysadmin'>physanus</span> | Nebenverantwortlich |
 |<span class='moderator'>ferdedelino</span> | Nebenverantwortlich |
-|<span class='supporter-plus'>RodspamExpertRU</span> | Nebenverantwortlich |
-|<span class='supporter-plus'>J4mPr0</span> | Nebenverantwortlich |
-|<span class='supporter'>Stracy</span> | Nebenverantwortlich |
+|<span class='moderator'>J4mPr0</span> | Nebenverantwortlich |
+|<span class='moderator'>RodspamExpertRU</span> | Nebenverantwortlich |
+|<span class='supporter-plus'>Stracy</span> | Nebenverantwortlich |
 
 
 
@@ -181,7 +181,7 @@ Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadca
 |<span class='supporter-plus'>HerrLeerer</span> | Hauptverantwortlich |
 | | |
 |<span class='sysadmin'>physanus</span> | Nebenverantwortlich |
-|<span class='supporter-plus'>RodspamExpertRU</span> | Nebenverantwortlich |
+|<span class='moderator'>RodspamExpertRU</span> | Nebenverantwortlich |
 |<span class='supporter'>\_Tetzel\_</span> | Nebenverantwortlich |
 |<span class='supporter'>xTessia</span> | Nebenverantwortlich |
 
@@ -201,5 +201,5 @@ Wenn sich ein YouTuber für einen Rang auf Timolia interessiert, werden die Anfr
 |<span class='management'>Lascona</span> | Hauptverantwortlich |
 |<span class='moderator'>medicoo</span> | Hauptverantwortlich |
 | | |
-|<span class='supporter'>Stracy</span> | Nebenverantwortlich |
+|<span class='supporter-plus'>Stracy</span> | Nebenverantwortlich |
 |<span class='supporter'>xTessia</span> | Nebenverantwortlich |

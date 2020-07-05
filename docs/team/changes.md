@@ -5,6 +5,9 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Juni</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| J4mPr0 | <span class='supporter-plus'>Supporter+</span> | <span class='moderator'>Moderator</span> | 05.07.2020 |
+| RodspamExpertRU | <span class='supporter-plus'>Supporter+</span> | <span class='moderator'>Moderator</span> | 05.07.2020 |
+| Stracy | <span class='supporter'>Supporter</span> | <span class='supporter-plus'>Supporter</span> | 05.07.2020 |
 | M0el | <span class='supporter'>Supporter</span> | <span class='expert'>Expert</span> | 04.07.2020 |
 | Dankbarkeit | <span class='builder'>Builder</span> | <span class='mvp'>Native MVP</span> | 09.06.2020 |
 

@@ -128,6 +128,11 @@ Sie dienen als interne Ansprechpartner bei Fragen und koordinieren häufig einze
 - <u>Hauptverantwortlich:</u> Supporterauswahl
 - <u>Nebenverantwortlich:</u> Community-Discord, Timolia Turnier Organisation, Zu Unrecht gebannt Forum
 
+### <strong><span class='moderator'>J4mPr0</span></strong>
+- <u>Rang (ingame):</u> Moderator
+- <u>Hauptverantwortlich:</u> Map-Einsendungen
+- <u>Nebenverantwortlich:</u> Entschuldigungen, Timolia Turnier Organisation, Zu Unrecht gebannt Forum
+
 ### <strong><span class='moderator'>medicoo</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Bauteam-Twitter, Timolia Turnier Organisation, YouTuber-Ränge
@@ -135,6 +140,11 @@ Sie dienen als interne Ansprechpartner bei Fragen und koordinieren häufig einze
 
 ### <strong><span class='moderator'>NameIsTaken</span></strong>
 - <u>Rang (ingame):</u> Moderator
+
+### <strong><span class='moderator'>RodspamExpertRU</span></strong>
+- <u>Rang (ingame):</u> Moderator
+- <u>Hauptverantwortlich:</u> Baufehlerbehebung, Entschuldigungen, Map-Einsendungen
+- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Broadcasts, Fragen und Antworten Forum, Timolia Turnier Organisation, Twitter
 
 
 
@@ -148,15 +158,9 @@ Sie sind die ersten, an die sich Spieler mit ihren Anliegen wenden können.
 - <u>Hauptverantwortlich:</u> Anregungen und Vorschläge Forum, Broadcasts, Forenorganisation, Fragen und Antworten Forum
 - <u>Nebenverantwortlich:</u> Entschuldigungen
 
-### <strong><span class='supporter-plus'>J4mPr0</span></strong>
+### <strong><span class='supporter-plus'>Stracy</span></strong>
 - <u>Rang (ingame):</u> Supporter+
-- <u>Hauptverantwortlich:</u> Map-Einsendungen
-- <u>Nebenverantwortlich:</u> Entschuldigungen, Timolia Turnier Organisation, Zu Unrecht gebannt Forum
-
-### <strong><span class='supporter-plus'>RodspamExpertRU</span></strong>
-- <u>Rang (ingame):</u> Supporter+
-- <u>Hauptverantwortlich:</u> Baufehlerbehebung, Entschuldigungen, Map-Einsendungen
-- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Broadcasts, Fragen und Antworten Forum, Timolia Turnier Organisation, Twitter
+- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Fragen und Antworten Forum, Timolia Turnier Organisation, YouTuber-Ränge
 
 
 
@@ -190,10 +194,6 @@ Supporter stehen für alle grundlegenden Fragen und Reports zur Verfügung und s
 
 ### <strong><span class='supporter'>Semolius</span></strong>
 - <u>Rang (ingame):</u> Supporter
-
-### <strong><span class='supporter'>Stracy</span></strong>
-- <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Fragen und Antworten Forum, Timolia Turnier Organisation, YouTuber-Ränge
 
 ### <strong><span class='supporter'>TrueSpoki</span></strong>
 - <u>Rang (ingame):</u> Supporter
