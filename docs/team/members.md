@@ -197,6 +197,7 @@ Supporter stehen für alle grundlegenden Fragen und Reports zur Verfügung und s
 
 ### <strong><span class='supporter'>TrueSpoki</span></strong>
 - <u>Rang (ingame):</u> Supporter
+- <u>Nebenverantwortlich:</u> Map-Einsendungen
 
 ### <strong><span class='supporter'>Wie\_Shu</span></strong>
 - <u>Rang (ingame):</u> Supporter

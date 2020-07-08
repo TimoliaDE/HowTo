@@ -44,6 +44,7 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span class='moderator'>RodspamExpertRU</span> | Hauptverantwortlich |
 | | |
 |<span class='developer-plus'>svdragster</span> | Nebenverantwortlich |
+|<span class='supporter'>TrueSpoki</span> | Nebenverantwortlich |
 
 ### **Spieler melden**
 | Teamler | Verantwortungsgrad |
