@@ -180,7 +180,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Mai</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
-| TheFeldi | <span class='developer'>Developer</span> | <span class='mvp'>Native MVP</span> | 31.05.2019 |
+| TheFeldi | <span class='developer'>Developer</span> | <span class='user'>Spieler</span> | 31.05.2019 |
 | OnlyFiinn | <span class='supporter'>Supporter</span> | <span class='mvp'>Native MVP</span> | 25.05.2019 |
 | saporital | <span class='moderator'>Moderator</span> | <span class='expert'>Native Expert</span> | 24.05.2019 |
 | TetzelHD | <span class='mvp'>Native MVP</span> | <span class='supporter'>Supporter</span> | 13.05.2019 |
