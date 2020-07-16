@@ -42,10 +42,6 @@ Diese Teamler bilden die Leitung Timolias. Sie kümmern sich um die Verwaltung, 
 Systemadministratoren planen, installieren, konfigurieren und warten die technischen Systeme Timolias. 
 Sie führen Updates durch und sorgen für ein reibungsloses Spielerlebnis im Alltag.
 
-### <strong><span class='sysadmin'>Caelis</span></strong>
-- <u>Rang (ingame):</u> SysAdmin
-- <u>Hauptverantwortlich:</u> Systemadministration, Interne Webanwendung, Technische Leitung des Bauteams, Timolia-Plugins
-
 ### <strong><span class='sysadmin'>Docmac</span></strong>
 - <u>Rang (ingame):</u> SysAdmin
 - <u>Hauptverantwortlich:</u> Systemadministration
@@ -65,6 +61,10 @@ Sie führen Updates durch und sorgen für ein reibungsloses Spielerlebnis im All
 
 Sie verfügen über langjährige Erfahrung als Entwickler auf Timolia und stehen bei internen Fragen zum Development zur Verfügung. 
 Auch kümmern sie sich um Timolia Plugins, entwickeln neue Features und Spielmodi und beheben mögliche Spielfehler.
+
+### <strong><span class='developer-plus'>Caelis</span></strong>
+- <u>Rang (ingame):</u> Developer+
+- <u>Hauptverantwortlich:</u> Systemadministration, Interne Webanwendung, Technische Leitung des Bauteams, Timolia-Plugins
 
 ### <strong><span class='developer-plus'>svdragster</span></strong>
 - <u>Rang (ingame):</u> Developer+
