@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Juli</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| zOfficial_Hxrry | <span class='builder'>Builder</span> | <span class='user'>Spieler</span> | 21.07.2020 |
 | Caelis | <span class='sysadmin'>SysAdmin</span> | <span class='developer-plus'>Developer+</span> | 16.07.2020 |
 | J4mPr0 | <span class='supporter-plus'>Supporter+</span> | <span class='moderator'>Moderator</span> | 05.07.2020 |
 | RodspamExpertRU | <span class='supporter-plus'>Supporter+</span> | <span class='moderator'>Moderator</span> | 05.07.2020 |

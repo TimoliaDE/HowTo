@@ -258,9 +258,6 @@ Sie betreuen die architektonische Gestaltung neuer Modi und betreuen externe Map
 ### <strong><span class='builder'>TraizzyBuilds</span></strong>
 - <u>Rang (ingame):</u> Builder
 
-### <strong><span class='builder'>zOfficial_Hxrry</span></strong>
-- <u>Rang (ingame):</u> Builder
-
 
 
 ## Creator
