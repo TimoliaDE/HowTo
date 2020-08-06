@@ -1,4 +1,4 @@
-Das Timolia-Team besteht aktuell aus 52 Mitgliedern und ist in die Ränge 
+Das Timolia-Team besteht aktuell aus 51 Mitgliedern und ist in die Ränge 
 <span class='management'>Management</span>, 
 <span class='sysadmin'>SysAdmin</span>, 
 <span class='developer-plus'>Developer+</span>, 
@@ -264,9 +264,6 @@ Als kreative Ader sind sie für die verschiedensten Belange von Grafikdesign bis
 ### <strong><span class='creator'>Evageddon</span></strong>
 - <u>Rang (ingame):</u> Creator
 - <u>Hauptverantwortlich:</u> Grafikdesign
-
-### <strong><span class='creator'>HaroZwei</span></strong>
-- <u>Rang (ingame):</u> Creator
 
 ### <strong><span class='creator'>Niizck</span></strong>
 - <u>Rang (ingame):</u> Creator

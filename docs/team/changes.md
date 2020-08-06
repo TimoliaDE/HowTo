@@ -2,6 +2,11 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 
 # 2020
 
+###  <strong>August</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+| HaroZwei | <span class='creator'>Creator</span> | <span class='mvp'>Native MVP</span> | 05.08.2020 |
+
 ###  <strong>Juli</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
