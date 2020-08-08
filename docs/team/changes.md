@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>August</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| Vemdex | <span class='builder'>Builder</span> | <span class='builder'>Builder</span> | 08.08.2020 |
 | HaroZwei | <span class='creator'>Creator</span> | <span class='mvp'>Native MVP</span> | 05.08.2020 |
 
 ###  <strong>Juli</strong>
@@ -353,7 +354,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>März</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
-| Vemdex | <span class='builder'>Builder</span> | <span class='pro'>Pro</span> | 25.03.2018 |
+| Vemdex | <span class='builder'>Builder</span> | <span class='mvp'>Native MVP</span> | 25.03.2018 |
 | LordKnockback | <span class='expert'>Expert</span> | <span class='supporter'>Supporter Games</span> | 16.03.2018 |
 | TetzelHD | <span class='builder'>Builder</span> | <span class='mvp'>Native MVP</span> | 13.03.2018 |
 
