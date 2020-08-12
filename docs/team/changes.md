@@ -5,7 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>August</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
-| Vemdex | <span class='builder'>Builder</span> | <span class='builder'>Builder</span> | 08.08.2020 |
+| Vemdex | <span class='mvp'>Native MVP</span> | <span class='builder'>Builder</span> | 08.08.2020 |
 | HaroZwei | <span class='creator'>Creator</span> | <span class='mvp'>Native MVP</span> | 05.08.2020 |
 
 ###  <strong>Juli</strong>
