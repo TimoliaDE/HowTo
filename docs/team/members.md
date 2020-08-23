@@ -1,4 +1,4 @@
-Das Timolia-Team besteht aktuell aus 51 Mitgliedern und ist in die Ränge 
+Das Timolia-Team besteht aktuell aus 50 Mitgliedern und ist in die Ränge 
 <span class='management'>Management</span>, 
 <span class='sysadmin'>SysAdmin</span>, 
 <span class='developer-plus'>Developer+</span>, 
@@ -50,10 +50,6 @@ Sie führen Updates durch und sorgen für ein reibungsloses Spielerlebnis im All
 - <u>Rang (ingame):</u> SysAdmin
 - <u>Hauptverantwortlich:</u> Systemadministration, DevOps, Gewinnspielorganisation, Timolia HowTo
 - <u>Nebenverantwortlich:</u> Bauteam-Twitter, Broadcasts, Community-Discord, Supporterauswahl, TeamSpeak, Timolia Turnier Organisation, Twitter
-
-### <strong><span class='sysadmin'>zortax</span></strong>
-- <u>Rang (ingame):</u> SysAdmin
-- <u>Hauptverantwortlich:</u> Systemadministration, DevOps
 
 
 
