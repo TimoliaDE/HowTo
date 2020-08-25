@@ -49,7 +49,7 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 ### **Spieler melden**
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='moderator'>BowspamExpertDE</span> | Hauptverantwortlich |
+|<span class='moderator'>RodspamExpertRU</span> | Hauptverantwortlich |
 
 
 ### **Bug melden**
@@ -72,10 +72,9 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 ### **Zu Unrecht gebannt**
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='moderator'>BowspamExpertDE</span> | Hauptverantwortlich |
+|<span class='moderator'>J4mPr0</span> | Hauptverantwortlich |
 | | |
 |<span class='moderator'>ferdedelino</span> | Nebenverantwortlich |
-|<span class='moderator'>J4mPr0</span> | Nebenverantwortlich |
 
 # Sonstige Aufgaben
 

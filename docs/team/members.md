@@ -1,4 +1,4 @@
-Das Timolia-Team besteht aktuell aus 50 Mitgliedern und ist in die Ränge 
+Das Timolia-Team besteht aktuell aus 49 Mitgliedern und ist in die Ränge 
 <span class='management'>Management</span>, 
 <span class='sysadmin'>SysAdmin</span>, 
 <span class='developer-plus'>Developer+</span>, 
@@ -115,10 +115,6 @@ Moderatoren sind langjährige und besonders erfahrene Teamler, die einzigartige 
 Sie dienen als interne Ansprechpartner bei Fragen und koordinieren häufig einzelne Aufgabengebiete.
 
 
-### <strong><span class='moderator'>BowspamExpertDE</span></strong>
-- <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Spieler melden Forum, Zu Unrecht gebannt Forum
-
 ### <strong><span class='moderator'>ferdedelino</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Supporterauswahl
@@ -126,8 +122,8 @@ Sie dienen als interne Ansprechpartner bei Fragen und koordinieren häufig einze
 
 ### <strong><span class='moderator'>J4mPr0</span></strong>
 - <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Map-Einsendungen
-- <u>Nebenverantwortlich:</u> Entschuldigungen, Timolia Turnier Organisation, Zu Unrecht gebannt Forum
+- <u>Hauptverantwortlich:</u> Map-Einsendungen, Zu Unrecht gebannt Forum
+- <u>Nebenverantwortlich:</u> Entschuldigungen, Timolia Turnier Organisation
 
 ### <strong><span class='moderator'>medicoo</span></strong>
 - <u>Rang (ingame):</u> Moderator
@@ -139,7 +135,7 @@ Sie dienen als interne Ansprechpartner bei Fragen und koordinieren häufig einze
 
 ### <strong><span class='moderator'>RodspamExpertRU</span></strong>
 - <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Baufehlerbehebung, Entschuldigungen, Map-Einsendungen
+- <u>Hauptverantwortlich:</u> Baufehlerbehebung, Entschuldigungen, Map-Einsendungen, Spieler melden Forum
 - <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Broadcasts, Fragen und Antworten Forum, Timolia Turnier Organisation, Twitter
 
 
