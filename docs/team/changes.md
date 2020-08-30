@@ -621,7 +621,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | 0sch | <span class='builder'>Builder</span> | <span class='user'>Spieler</span> | 31.08.2016 |
 | xnulix | <span class='user'>Spieler</span> | <span class='builder'>Builder</span> | 28.08.2016 |
 | MineNRW | <span class='builder'>Builder</span> | <span class='user'>Spieler</span> | 18.08.2016 |
-| Thoasty | <span class='supporter'>Supporter Games</span> | <span class='pro'>Pro</span> | 11.08.2016 |
+| Thoasty | <span class='supporter'>Supporter Games</span> | <span class='mvp'>Native MVP</span> | 11.08.2016 |
 | BuffmonsterOne | <span class='user'>Spieler</span> | <span class='supporter'>Supporter Games</span> | 05.08.2016 |
 | TimLiebtSt3gi | <span class='expert'>Expert</span> | <span class='supporter'>Supporter Games</span> | 05.08.2016 |
 | \_Rudi_ | <span class='pro'>Pro</span> | <span class='supporter'>Supporter Games</span> | 05.08.2016 |
