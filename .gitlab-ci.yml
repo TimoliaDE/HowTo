@@ -1,5 +1,9 @@
 image: docker:stable
 
+services:
+  - docker:18.09.7-dind
+
+
 stages:
   - build
   - deploy
