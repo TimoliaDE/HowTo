@@ -11,6 +11,9 @@ stages:
 variables:
   DOCKER_REGISTRY_LIVE: registry.timolia.de
   DOCKER_REGISTRY_DEV: dev-registry.timolia.de
+  IMAGE_NAME: howto
+  DEPLOY_HOST: web-team.timolia.de
+  DEPLOY_PORT: 2222
 #  DOCKER_TLS_CERTDIR: ""
 #  DOCKER_HOST: tcp://localhost:2375
 
@@ -22,8 +25,8 @@ build_live:
   script:
     - docker info
     - docker login -u=$DOCKER_USERNAME_LIVE -p=$DOCKER_PASSWORD_LIVE $DOCKER_REGISTRY_LIVE
-    - docker build --network host -t $DOCKER_REGISTRY_LIVE/howto:$CI_COMMIT_REF_NAME .
-    - docker push $DOCKER_REGISTRY_LIVE/howto:$CI_COMMIT_REF_NAME
+    - docker build --network host -t $DOCKER_REGISTRY_LIVE/$IMAGE_NAME:$CI_COMMIT_REF_NAME .
+    - docker push $DOCKER_REGISTRY_LIVE/$IMAGE_NAME:$CI_COMMIT_REF_NAME
   only:
     - master
 
@@ -33,7 +36,7 @@ deploy_live:
   tags:
     - docker
   script:
-    - sshpass -p $HOWTO_PW ssh -o "StrictHostKeyChecking=no" howto@web-team.timolia.de
+    - sshpass -p $HOWTO_PW ssh -p $DEPLOY_PORT -o "StrictHostKeyChecking=no" howto@$DEPLOY_HOST
   only:
     - master
 
@@ -44,8 +47,8 @@ build_dev:
   script:
     - docker info
     - docker login -u=$DOCKER_USERNAME_DEV -p=$DOCKER_PASSWORD_DEV $DOCKER_REGISTRY_DEV
-    - docker build --network host -t $DOCKER_REGISTRY_DEV/howto:dev .
-    - docker push $DOCKER_REGISTRY_DEV/howto:dev
+    - docker build --network host -t $DOCKER_REGISTRY_DEV/$IMAGE_NAME:dev .
+    - docker push $DOCKER_REGISTRY_DEV/$IMAGE_NAME:dev
   except:
     - master
 
