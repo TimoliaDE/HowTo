@@ -1,5 +1,9 @@
 image: docker:stable
 
+#services:
+#  - docker:18.09.7-dind
+
+
 stages:
   - build
   - deploy
@@ -7,7 +11,8 @@ stages:
 variables:
   DOCKER_REGISTRY_LIVE: registry.timolia.de
   DOCKER_REGISTRY_DEV: dev-registry.timolia.de
-
+#  DOCKER_TLS_CERTDIR: ""
+#  DOCKER_HOST: tcp://localhost:2375
 
 
 build_live:
