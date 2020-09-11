@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>September</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| Liisa | <span class='mvp'>Native MVP</span> | <span class='supporter'>Supporterin</span> | 10.09.2019 |
 | Dankbarkeit | <span class='mvp'>Native MVP</span> | <span class='builder'>Builder</span> | 06.09.2020 |
 
 ###  <strong>August</strong>
