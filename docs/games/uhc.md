@@ -110,5 +110,6 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 | `/helpop`                                  | Damit kannst du jederzeit Fragen bezüglich des UHCs an das Team stellen |
 | `/invite <Spieler>`                        | Damit kannst du Spieler in dein Team bei Team-UHCs einladen |
 | `/inviteaccept <Spieler>`                  | Damit nimmst du Teameinladungen bei Team-UHCs an |
-| `/scenarios`, `/scn`, `/info`, `/uhc`      | Zeigt dir die aktivierten Szenarien an |
+| `/scenarios`, `/scn`, `/uhc`               | Zeigt dir die aktiven Szenarien an |
+| `/showhealth <Spieler>`, `/h <Spieler>`    | Zeigt die Leben des angegebenen Spielers an |
 | `/topkills`, `/top`, `/tk`                 | Zeigt den/die Spieler mit den meistens Kills an |

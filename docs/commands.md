@@ -247,3 +247,18 @@ Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführ
 | `/tutorial` | Teleportiert dich zum Tutorial |
 | `/reset` | Resettet deinen Plot |
 | `/hdb` | Öffnet die HeadDatabase |
+
+### UHC
+| Befehl | Funktion |
+| ------ | -------- |
+| `/backpack`, `/bp`                         | Ermöglicht ein gemeinsames Inventar in Team-UHCs |
+| `/config`                                  | Listet die aktuelle Konfiguration des UHCs auf |
+| `/coordinates`, `/coords`                  | Schickt eine Nachricht an deine Teampartner mit deinen Koordinaten |
+| `/dragons <Spieler>`                       | Bei aktivem Szenario `Dragons` kann der Host des UHCs bei dem Spieler einen Enderdrachen spawnen |
+| `/fix`                                     | Damit kannst du alle Spieler neu laden |
+| `/helpop`                                  | Damit kannst du jederzeit Fragen bezüglich des UHCs an das Team stellen |
+| `/invite <Spieler>`                        | Damit kannst du Spieler in dein Team bei Team-UHCs einladen |
+| `/inviteaccept <Spieler>`                  | Damit nimmst du Teameinladungen bei Team-UHCs an |
+| `/scenarios`, `/scn`, `/uhc`               | Zeigt dir die aktiven Szenarien an |
+| `/showhealth <Spieler>`, `/h <Spieler>`    | Zeigt die Leben des angegebenen Spielers an |
+| `/topkills`, `/top`, `/tk`                 | Zeigt den/die Spieler mit den meistens Kills an |
