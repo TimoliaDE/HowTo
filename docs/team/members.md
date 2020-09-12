@@ -1,4 +1,4 @@
-Das Timolia-Team besteht aktuell aus 50 Mitgliedern und ist in die Ränge 
+Das Timolia-Team besteht aktuell aus 49 Mitgliedern und ist in die Ränge 
 <span class='management'>Management</span>, 
 <span class='sysadmin'>SysAdmin</span>, 
 <span class='developer-plus'>Developer+</span>, 
@@ -194,9 +194,6 @@ Supporter stehen für alle grundlegenden Fragen und Reports zur Verfügung und s
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Map-Einsendungen
 
-### <strong><span class='supporter'>Wie\_Shu</span></strong>
-- <u>Rang (ingame):</u> Supporter
-
 ### <strong><span class='supporter'>xTessia</span></strong>
 - <u>Rang (ingame):</u> Supporterin
 - <u>Nebenverantwortlich:</u> Broadcasts, Entschuldigungen, TeamSpeak, Twitter, YouTuber-Ränge
@@ -259,9 +256,6 @@ Als kreative Ader sind sie für die verschiedensten Belange von Grafikdesign bis
 ### <strong><span class='creator'>Evageddon</span></strong>
 - <u>Rang (ingame):</u> Creator
 - <u>Hauptverantwortlich:</u> Grafikdesign
-
-### <strong><span class='creator'>Niizck</span></strong>
-- <u>Rang (ingame):</u> Creator
 
 ### <strong><span class='creator'>Sunneeh</span></strong>
 - <u>Rang (ingame):</u> Creator
