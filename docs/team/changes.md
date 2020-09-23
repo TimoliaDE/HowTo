@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>September</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| HaarigeMelone | <span class='supporter'>Supporter</span> | <span class='mvp'>Native MVP</span> | 23.09.2020 |
 | Karolux\_ | <span class='pro'>Pro</span> | <span class='supporter'>Supporter</span> | 21.09.2020 |
 | \_Klatschy\_ | <span class='expert'>Expert</span> | <span class='supporter'>Supporter</span> | 21.09.2020 |
 | leStark | <span class='user'>Spieler</span> | <span class='supporter'>Supporter</span> | 21.09.2020 |
