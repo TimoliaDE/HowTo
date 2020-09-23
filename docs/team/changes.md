@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>September</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| NicoSHG | <span class='expert'>Expert</span> | <span class='supporter'>Supporter</span> | 21.09.2020 |
 | Wie_Shu | <span class='supporter'>Supporter</span> | <span class='expert'>Native Expert</span> | 11.09.2020 |
 | Niizck | <span class='creator'>Creator</span> | <span class='mvp'>Native MVP</span> | 11.09.2020 |
 | Liisa | <span class='mvp'>Native MVP</span> | <span class='supporter'>Supporterin</span> | 10.09.2019 |
