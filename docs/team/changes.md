@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>September</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| \_Klatschy\_ | <span class='expert'>Expert</span> | <span class='supporter'>Supporter</span> | 21.09.2020 |
 | leStark | <span class='user'>Spieler</span> | <span class='supporter'>Supporter</span> | 21.09.2020 |
 | Mihaaa | <span class='mvp'>MVP</span> | <span class='supporter'>Supporter</span> | 21.09.2020 |
 | NicoSHG | <span class='expert'>Expert</span> | <span class='supporter'>Supporter</span> | 21.09.2020 |
