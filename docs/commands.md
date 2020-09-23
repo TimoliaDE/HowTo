@@ -246,7 +246,6 @@ Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführ
 | `/backup [Seite]` | Ruft alle gespeicherten Backups auf |
 | `/tutorial` | Teleportiert dich zum Tutorial |
 | `/reset` | Resettet deinen Plot |
-| `/hdb` | Öffnet die HeadDatabase |
 
 ### UHC
 | Befehl | Funktion |
