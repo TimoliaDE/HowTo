@@ -18,7 +18,6 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 |<span class='supporter-plus'>HerrLeerer</span> | Hauptverantwortlich |
 | | |
 |<span class='moderator'>RodspamExpertRU</span> | Nebenverantwortlich |
-|<span class='supporter-plus'>Stracy</span> | Nebenverantwortlich |
 
 ### **Fragen und Antworten**
 
@@ -28,7 +27,6 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | | |
 |<span class='developer-plus'>svdragster</span> | Nebenverantwortlich |
 |<span class='moderator'>RodspamExpertRU</span> | Nebenverantwortlich |
-|<span class='supporter-plus'>Stracy</span> | Nebenverantwortlich |
 
 ### **Feedback**
 | Teamler | Verantwortungsgrad |
@@ -171,7 +169,6 @@ Dieses Team entscheidet über die Turniereinstellungen bei den Freitagsturnieren
 |<span class='moderator'>ferdedelino</span> | Nebenverantwortlich |
 |<span class='moderator'>J4mPr0</span> | Nebenverantwortlich |
 |<span class='moderator'>RodspamExpertRU</span> | Nebenverantwortlich |
-|<span class='supporter-plus'>Stracy</span> | Nebenverantwortlich |
 
 
 
@@ -204,5 +201,4 @@ Wenn sich ein YouTuber für einen Rang auf Timolia interessiert, werden die Anfr
 |<span class='management'>Lascona</span> | Hauptverantwortlich |
 |<span class='moderator'>medicoo</span> | Hauptverantwortlich |
 | | |
-|<span class='supporter-plus'>Stracy</span> | Nebenverantwortlich |
 |<span class='supporter'>xTessia</span> | Nebenverantwortlich |
