@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Oktober</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| play4me\_ | <span class='mvp'>Native MVP</span> | <span class='developer'>Developer</span> | 27.10.2020 |
 | ILikeYourMom | <span class='expert'>Expert</span> | <span class='builder'>Builder</span> | 20.10.2020 |
 
 ###  <strong>September</strong>
