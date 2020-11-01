@@ -2,6 +2,11 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 
 # 2020
 
+###  <strong>November</strong>
+| Spieler | Vorheriger Rang | Jetziger Rang | Datum |
+| ------ | ------ | ------ | ------ |
+| HerLegendaryWolf | <span class='supporter'>Supporter</span> | <span class='supporter-plus'>Supporter+</span> | 01.11.2020 |
+
 ###  <strong>Oktober</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
