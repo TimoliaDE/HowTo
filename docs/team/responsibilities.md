@@ -183,6 +183,9 @@ Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadca
 |<span class='sysadmin'>physanus</span> | Nebenverantwortlich |
 |<span class='moderator'>RodspamExpertRU</span> | Nebenverantwortlich |
 |<span class='supporter'>\_Tetzel\_</span> | Nebenverantwortlich |
+|<span class='supporter'>\_xlinx\_</span> | Nebenverantwortlich |
+|<span class='supporter'>NetflixGutschein</span> | Nebenverantwortlich |
+|<span class='supporter'>TrueSpoki</span> | Nebenverantwortlich |
 |<span class='supporter'>xTessia</span> | Nebenverantwortlich |
 
 ### **Team-Leiter**
