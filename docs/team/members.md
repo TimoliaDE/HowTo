@@ -140,7 +140,7 @@ Sie dienen als interne Ansprechpartner bei Fragen und koordinieren häufig einze
 ### <strong><span class='moderator'>RodspamExpertRU</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Baufehlerbehebung, Entschuldigungen, Map-Einsendungen, Spieler melden Forum
-- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Broadcasts, Fragen und Antworten Forum, Timolia Turnier Organisation, Twitter
+- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Broadcasts, Fragen und Antworten Forum, Timolia HowTo, Timolia Turnier Organisation, Twitter
 
 
 
@@ -173,7 +173,7 @@ Supporter stehen für alle grundlegenden Fragen und Reports zur Verfügung und s
 
 ### <strong><span class='supporter'>\_xlinx\_</span></strong>
 - <u>Rang (ingame):</u> Supporterin
-- <u>Nebenverantwortlich:</u> Broadcasts
+- <u>Nebenverantwortlich:</u> Broadcasts, Timolia HowTo
 
 ### <strong><span class='supporter'>byRoadrunner</span></strong>
 - <u>Rang (ingame):</u> Supporter
