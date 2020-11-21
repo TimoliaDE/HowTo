@@ -150,7 +150,7 @@ Sie verfügen über ein umfassendes Fachwissen und stehen für alle Fragen und R
 Sie sind die ersten, an die sich Spieler mit ihren Anliegen wenden können.
 
 ### <strong><span class='supporter-plus'>HerLegendaryWolf</span></strong>
-- <u>Rang (ingame):</u> Supporter
+- <u>Rang (ingame):</u> Supporter+
 - <u>Nebenverantwortlich:</u> Baufehlerbehebung
 
 ### <strong><span class='supporter-plus'>HerrLeerer</span></strong>
