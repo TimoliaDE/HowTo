@@ -119,6 +119,9 @@ Diese Teamler kümmern sich um's Aktualisieren und Erstellen des HowTos Timolias
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span class='sysadmin'>physanus</span> | Hauptverantwortlich |
+| | |
+|<span class='moderator'>RodspamExpertRU</span> | Nebenverantwortlich |
+|<span class='supporter'>\_xlinx\_</span> | Nebenverantwortlich |
 
 ### **Social-Media**
 Für einen ständigen Support und Content auf Twitter und anderen sozialen Medien sorgen diese Teamler.
