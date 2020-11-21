@@ -110,6 +110,8 @@ Wenn es wieder daran geht, neue Supporter in unsere Reihen zu holen, kümmern si
 |<span class='moderator'>NameIsTaken</span> | Hauptverantwortlich |
 | | |
 |<span class='sysadmin'>physanus</span> | Nebenverantwortlich |
+|<span class='moderator'>J4mPr0</span> | Nebenverantwortlich |
+|<span class='moderator'>RodspamExpertRU</span> | Nebenverantwortlich |
 
 ### **Timolia HowTo**
 Diese Teamler kümmern sich um's Aktualisieren und Erstellen des HowTos Timolias.

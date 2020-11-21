@@ -126,7 +126,7 @@ Sie dienen als interne Ansprechpartner bei Fragen und koordinieren häufig einze
 ### <strong><span class='moderator'>J4mPr0</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Map-Einsendungen, Zu Unrecht gebannt Forum
-- <u>Nebenverantwortlich:</u> Entschuldigungen, Timolia Turnier Organisation
+- <u>Nebenverantwortlich:</u> Entschuldigungen, Supporterauswahl, Timolia Turnier Organisation
 
 ### <strong><span class='moderator'>medicoo</span></strong>
 - <u>Rang (ingame):</u> Moderator
@@ -140,7 +140,7 @@ Sie dienen als interne Ansprechpartner bei Fragen und koordinieren häufig einze
 ### <strong><span class='moderator'>RodspamExpertRU</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Baufehlerbehebung, Entschuldigungen, Map-Einsendungen, Spieler melden Forum
-- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Broadcasts, Fragen und Antworten Forum, Timolia Turnier Organisation, Twitter
+- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Broadcasts, Fragen und Antworten Forum, Supporterauswahl, Timolia Turnier Organisation, Twitter
 
 
 
