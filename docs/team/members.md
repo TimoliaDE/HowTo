@@ -184,6 +184,7 @@ Supporter stehen für alle grundlegenden Fragen und Reports zur Verfügung und s
 
 ### <strong><span class='supporter'>Karolux\_</span></strong>
 - <u>Rang (ingame):</u> Supporter
+- <u>Nebenverantwortlich:</u> Timolia HowTo
 
 ### <strong><span class='supporter'>leStark</span></strong>
 - <u>Rang (ingame):</u> Supporter
