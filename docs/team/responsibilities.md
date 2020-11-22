@@ -122,6 +122,7 @@ Diese Teamler kümmern sich um's Aktualisieren und Erstellen des HowTos Timolias
 | | |
 |<span class='moderator'>RodspamExpertRU</span> | Nebenverantwortlich |
 |<span class='supporter'>\_xlinx\_</span> | Nebenverantwortlich |
+|<span class='supporter'>Karolux\_</span> | Nebenverantwortlich |
 
 ### **Social-Media**
 Für einen ständigen Support und Content auf Twitter und anderen sozialen Medien sorgen diese Teamler.
