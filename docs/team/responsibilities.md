@@ -8,25 +8,24 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span class='management'>Lascona</span> | Hauptverantwortlich |
-|<span class='supporter-plus'>HerrLeerer</span> | Hauptverantwortlich |
 
 ### **Anregungen und Vorschläge**
-
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span class='management'>Lascona</span> | Hauptverantwortlich |
-|<span class='supporter-plus'>HerrLeerer</span> | Hauptverantwortlich |
 | | |
+|<span class='developer'>sp9z</span> | Nebenverantwortlich |
 |<span class='moderator'>RodspamExpertRU</span> | Nebenverantwortlich |
+|<span class='supporter'>TrueSpoki</span> | Nebenverantwortlich |
 
 ### **Fragen und Antworten**
-
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='supporter-plus'>HerrLeerer</span> | Hauptverantwortlich |
+|<span class='moderator'>RodspamExpertRU</span> | Hauptverantwortlich |
 | | |
 |<span class='developer-plus'>svdragster</span> | Nebenverantwortlich |
-|<span class='moderator'>RodspamExpertRU</span> | Nebenverantwortlich |
+|<span class='developer'>sp9z</span> | Nebenverantwortlich |
+|<span class='supporter'>TrueSpoki</span> | Nebenverantwortlich |
 
 ### **Feedback**
 | Teamler | Verantwortungsgrad |
@@ -184,9 +183,8 @@ Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadca
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span class='management'>Lascona</span> | Hauptverantwortlich |
-|<span class='supporter-plus'>HerrLeerer</span> | Hauptverantwortlich |
+|<span class='sysadmin'>physanus</span> | Hauptverantwortlich |
 | | |
-|<span class='sysadmin'>physanus</span> | Nebenverantwortlich |
 |<span class='moderator'>RodspamExpertRU</span> | Nebenverantwortlich |
 |<span class='supporter'>\_Tetzel\_</span> | Nebenverantwortlich |
 |<span class='supporter'>\_xlinx\_</span> | Nebenverantwortlich |

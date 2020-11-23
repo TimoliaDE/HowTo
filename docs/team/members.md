@@ -1,4 +1,4 @@
-Das Timolia-Team besteht aktuell aus 53 Mitgliedern und ist in die Ränge 
+Das Timolia-Team besteht aktuell aus 52 Mitgliedern und ist in die Ränge 
 <span class='management'>Management</span>, 
 <span class='sysadmin'>SysAdmin</span>, 
 <span class='developer-plus'>Developer+</span>, 
@@ -48,8 +48,8 @@ Sie führen Updates durch und sorgen für ein reibungsloses Spielerlebnis im All
 
 ### <strong><span class='sysadmin'>physanus</span></strong>
 - <u>Rang (ingame):</u> SysAdmin
-- <u>Hauptverantwortlich:</u> Systemadministration, DevOps, Gewinnspielorganisation, Timolia HowTo
-- <u>Nebenverantwortlich:</u> Bauteam-Twitter, Broadcasts, Community-Discord, Supporterauswahl, TeamSpeak, Timolia Turnier Organisation, Twitter
+- <u>Hauptverantwortlich:</u> Systemadministration, Broadcasts, DevOps, Gewinnspielorganisation, Timolia HowTo
+- <u>Nebenverantwortlich:</u> Bauteam-Twitter, Community-Discord, Supporterauswahl, TeamSpeak, Timolia Turnier Organisation, Twitter
 
 
 
@@ -103,6 +103,7 @@ Developer kümmern sich um die Timolia Plugins, entwickeln neue Features und Spi
 
 ### <strong><span class='developer'>sp9z</span></strong>
 - <u>Rang (ingame):</u> Developer
+- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Fragen und Antworten Forum
 
 ### <strong><span class='developer'>TimderBusfahrer</span></strong>
 - <u>Rang (ingame):</u> Developer
@@ -139,8 +140,8 @@ Sie dienen als interne Ansprechpartner bei Fragen und koordinieren häufig einze
 
 ### <strong><span class='moderator'>RodspamExpertRU</span></strong>
 - <u>Rang (ingame):</u> Moderator
-- <u>Hauptverantwortlich:</u> Baufehlerbehebung, Entschuldigungen, Map-Einsendungen, Spieler melden Forum
-- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Broadcasts, Fragen und Antworten Forum, Supporterauswahl, Timolia HowTo, Timolia Turnier Organisation, Twitter
+- <u>Hauptverantwortlich:</u> Baufehlerbehebung, Entschuldigungen, Fragen und Antworten Forum, Map-Einsendungen, Spieler melden Forum
+- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Broadcasts, Supporterauswahl, Timolia HowTo, Timolia Turnier Organisation, Twitter
 
 
 
@@ -152,11 +153,6 @@ Sie sind die ersten, an die sich Spieler mit ihren Anliegen wenden können.
 ### <strong><span class='supporter-plus'>HerLegendaryWolf</span></strong>
 - <u>Rang (ingame):</u> Supporter+
 - <u>Nebenverantwortlich:</u> Baufehlerbehebung
-
-### <strong><span class='supporter-plus'>HerrLeerer</span></strong>
-- <u>Rang (ingame):</u> Supporter+
-- <u>Hauptverantwortlich:</u> Anregungen und Vorschläge Forum, Broadcasts, Forenorganisation, Fragen und Antworten Forum
-- <u>Nebenverantwortlich:</u> Entschuldigungen
 
 
 
@@ -207,7 +203,7 @@ Supporter stehen für alle grundlegenden Fragen und Reports zur Verfügung und s
 
 ### <strong><span class='supporter'>TrueSpoki</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Broadcasts, Map-Einsendungen
+- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Broadcasts, Fragen und Antworten Forum, Map-Einsendungen
 
 ### <strong><span class='supporter'>xTessia</span></strong>
 - <u>Rang (ingame):</u> Supporterin
