@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>November</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| HerrLeerer | <span class='supporter-plus'>Supporter+</span> | <span class='expert'>Native Expert</span> | 22.11.2020 |
 | HerLegendaryWolf | <span class='supporter'>Supporter</span> | <span class='supporter-plus'>Supporter+</span> | 01.11.2020 |
 
 ###  <strong>Oktober</strong>
