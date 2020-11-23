@@ -183,7 +183,7 @@ Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadca
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
 |<span class='management'>Lascona</span> | Hauptverantwortlich |
-|<span class='sysadmin'>physanus</span> | Nebenverantwortlich |
+|<span class='sysadmin'>physanus</span> | Hauptverantwortlich |
 | | |
 |<span class='moderator'>RodspamExpertRU</span> | Nebenverantwortlich |
 |<span class='supporter'>\_Tetzel\_</span> | Nebenverantwortlich |
