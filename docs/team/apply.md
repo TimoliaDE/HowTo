@@ -7,7 +7,7 @@ Sie übernehmen große Verantwortung in organisatorischen und verwaltungstechnis
 
 ### Developer
 Mit einer E-Mail an <a href="mailto:development@timolia.de">development@timolia.de</a> kannst du dich jederzeit als Developer bewerben. Vorausgesetzt werden ausführliche Kenntnisse
-über Java und die Spigot-API, Erfahrungen im Umgang mit Git, Teamfähigkeit und Grundkenntnisse der Sprache Englisch. Dein Bewerbungsschreiben
+über Java und die Spigot-API, Erfahrungen im Umgang mit Git, Teamfähigkeit, Grundkenntnisse der Sprache Englisch und ein Mindestalter von 14 Jahren. Dein Bewerbungsschreiben
 sollte deinen Ingamenamen, eine kurze Beschreibung deiner Person, Darstellung deiner Fähigkeiten und Kompetenzen und eine Angabe zur
 Kontaktmöglichkeit beinhalten. Außerdem bitten wir dich, uns Zugriff auf von dir programmierten Beispielcode zu geben. Optimalerweise sollte dieser auf GitLab, GitHub
 oder einer ähnlichen Plattform gehostet sein, da wir Beispielcode nicht als Datei akzeptieren. Wir achten vor allem auf sauberen, gut kommentierten
@@ -23,14 +23,15 @@ wie im Forum, TeamSpeak und Discord (und evtl. auf Twitter).
 
 Zusätzlich dazu gibt es die Möglichkeit, eine Initiativbewerbung, welche deinen Ingamenamen, eine Vorstellung von dir sowie Beschreibungen deiner bisherigen Erfahrungen beinhalten sollte,
 per Mail an <a href="mailto:supporter@timolia.de">supporter@timolia.de</a> an uns zu senden. Wir bemühen uns, den Bewerbungsablauf so schnell wie möglich durchzuführen.
-Bitte beachte trotzdem, dass dieser Prozess unter Umständen über einen Monat in Anspruch nehmen kann.
+Unter Umständen kann dieser Prozess trotzdem über einen Monat in Anspruch nehmen.
+Bitte beachte außerdem, dass du für eine Initiativbewerbung und eine Aufnahme in das Timolia-Team mindestens 14 Jahre alt sein musst.
 
 Da der <b>Supporter+</b> Rang eine Beförderung für besonders erfahrene Supporter darstellt, sind keine Bewerbungen für diesen Rang möglich.
 
 
 ### Builder
 Spieler haben die Möglichkeit, uns ihre Fähigkeiten auf der eigens dafür eingerichteten BauWelt zu präsentieren.
-Um Builder werden zu können, musst du 2 Plots erfolgreich bebauen und das anschließende Bewerbungsgespräch positiv abschließen. Die Plots werden von den Buildern bewertet; entspricht ein Plot nicht unseren Kriterien, hast du nach einer zweiwöchigen Pause erneut die Chance, einen Plot zu bebauen.
+Um Builder werden zu können, musst du 2 Plots erfolgreich bebauen und das anschließende Bewerbungsgespräch positiv abschließen. Bitte beachte, dass du außerdem mindestens 14 Jahre alt sein musst, um in das Timolia-Team aufgenommen werden zu können. Die Plots werden von den Buildern bewertet; entspricht ein Plot nicht unseren Kriterien, hast du nach einer zweiwöchigen Pause erneut die Chance, einen Plot zu bebauen.
 Überzeugt uns dein erster Plot, hast du auf dem zweiten, größeren Plot außerdem die Möglichkeit, WorldEdit zu nutzen.
 Ähnlich wie bei Supportern müssen auch neue Builder eine Probephase durchlaufen, bevor sie endgültig ein fester Bestandteil des Teams werden.
 
@@ -46,6 +47,7 @@ Ingamenamen, eine kurze persönliche Beschreibung, einen Überblick über deine 
 deiner Arbeiten zukommen lässt. Je nachdem, für welchen kreativen Bereich du dich bewerben willst, benötigst du folgende Kenntnisse: Grundkenntnisse in Bildgestaltung
 und Bildbearbeitung, wenn du im bildnerischen bzw. gestalterischen Bereich tätig sein willst; Grundkenntnisse in Videoproduktion, Schnitt und sonstiger
 Postproduktion für den Schwerpunkt der (YouTube)Videoproduktion; Kreativität; sprachliche Fähigkeiten; Kenntnis über Design und kreativen Aufbau Timolias.
+Bitte beachte, dass du mindestens 14 Jahre alt sein musst, um dich bei uns als Creator zu bewerben.
 
 
 ### UHC Spectator
