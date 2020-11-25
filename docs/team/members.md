@@ -1,4 +1,4 @@
-Das Timolia-Team besteht aktuell aus 52 Mitgliedern und ist in die Ränge 
+Das Timolia-Team besteht aktuell aus 53 Mitgliedern und ist in die Ränge 
 <span class='management'>Management</span>, 
 <span class='sysadmin'>SysAdmin</span>, 
 <span class='developer-plus'>Developer+</span>, 
@@ -266,6 +266,9 @@ Sie betreuen die architektonische Gestaltung neuer Modi und betreuen externe Map
 ## Creator
 
 Als kreative Ader sind sie für die verschiedensten Belange von Grafikdesign bis Übersetzung zuständig.
+
+### <strong><span class='creator'>AraNisaka</span></strong>
+- <u>Rang (ingame):</u> Creator
 
 ### <strong><span class='creator'>Evageddon</span></strong>
 - <u>Rang (ingame):</u> Creator
