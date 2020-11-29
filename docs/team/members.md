@@ -267,12 +267,12 @@ Sie betreuen die architektonische Gestaltung neuer Modi und betreuen externe Map
 
 Als kreative Ader sind sie für die verschiedensten Belange von Grafikdesign bis Übersetzung zuständig.
 
-### <strong><span class='creator'>AraNisaka</span></strong>
-- <u>Rang (ingame):</u> Creator
-
 ### <strong><span class='creator'>Evageddon</span></strong>
 - <u>Rang (ingame):</u> Creator
 - <u>Hauptverantwortlich:</u> Grafikdesign
 
 ### <strong><span class='creator'>Sunneeh</span></strong>
+- <u>Rang (ingame):</u> Creator
+
+### <strong><span class='creator'>WeihnachtsAra</span></strong>
 - <u>Rang (ingame):</u> Creator
