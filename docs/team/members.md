@@ -58,23 +58,22 @@ Sie führen Updates durch und sorgen für ein reibungsloses Spielerlebnis im All
 Sie verfügen über langjährige Erfahrung als Entwickler auf Timolia und stehen bei internen Fragen zum Development zur Verfügung. 
 Auch kümmern sie sich um Timolia Plugins, entwickeln neue Features und Spielmodi und beheben mögliche Spielfehler.
 
-### <strong><span class='developer-plus'>Caelis</span></strong>
-- <u>Rang (ingame):</u> Developer+
-- <u>Hauptverantwortlich:</u> Systemadministration, Interne Webanwendung, Technische Leitung des Bauteams, Timolia-Plugins
-
 ### <strong><span class='developer-plus'>svdragster</span></strong>
 - <u>Rang (ingame):</u> Developer+
 - <u>Hauptverantwortlich:</u> Anti-Cheat, Timolia-Plugins
 - <u>Nebenverantwortlich:</u> Feedback Forum, Fragen und Antworten Forum, Map-Einsendungen
 
-### <strong><span class='developer-plus'>MCelements</span></strong>
+### <strong><span class='developer-plus'>tr7zw</span></strong>
+- <u>Rang (ingame):</u> Developer+
+
+### <strong><span class='developer-plus'>WeihnachtsJannek</span></strong>
 - <u>Rang (ingame):</u> Developer+
 - <u>Hauptverantwortlich:</u> TeamSpeak, Timolia-Plugins
 - <u>Nebenverantwortlich:</u> Organisation und Betreuung neuer Developer, Systemadministration, Verschicken von Reddit-Hundeposts
 
-### <strong><span class='developer-plus'>tr7zw</span></strong>
+### <strong><span class='developer-plus'>WeihnachtsMax</span></strong>
 - <u>Rang (ingame):</u> Developer+
-
+- <u>Hauptverantwortlich:</u> Systemadministration, Interne Webanwendung, Technische Leitung des Bauteams, Timolia-Plugins
 
 
 ## Developer
@@ -231,9 +230,6 @@ zwischen dem Bauteam und der allgemeinen Projektorganisation.
 Das Bauteam kreiert neue Maps und Lobbys für alle Gelegenheiten und Spielmodi auf Timolia. 
 Sie betreuen die architektonische Gestaltung neuer Modi und betreuen externe Mapeinsendungen.
 
-### <strong><span class='builder'>Chuy_</span></strong>
-- <u>Rang (ingame):</u> Builder
-
 ### <strong><span class='builder'>12Build</span></strong>
 - <u>Rang (ingame):</u> Builder
 
@@ -243,7 +239,10 @@ Sie betreuen die architektonische Gestaltung neuer Modi und betreuen externe Map
 ### <strong><span class='builder'>Burilein</span></strong>
 - <u>Rang (ingame):</u> Builder
 
-### <strong><span class='builder'>crelias</span></strong>
+### <strong><span class='builder'>ChristmasCrelias</span></strong>
+- <u>Rang (ingame):</u> Builder
+
+### <strong><span class='builder'>Chuy_</span></strong>
 - <u>Rang (ingame):</u> Builder
 
 ### <strong><span class='builder'>Dankbarkeit</span></strong>
