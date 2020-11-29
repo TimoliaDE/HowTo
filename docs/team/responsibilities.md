@@ -185,8 +185,6 @@ Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadca
 |<span class='sysadmin'>physanus</span> | Hauptverantwortlich |
 | | |
 |<span class='moderator'>RodspamExpertRU</span> | Nebenverantwortlich |
-
-
 |<span class='supporter'>NetflixGutschein</span> | Nebenverantwortlich |
 |<span class='supporter'>TrueSpoki</span> | Nebenverantwortlich |
 |<span class='supporter'>WeihnachtsAlina</span> | Nebenverantwortlich |
