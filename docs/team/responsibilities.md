@@ -119,7 +119,7 @@ Diese Teamler kümmern sich um's Aktualisieren und Erstellen des HowTos Timolias
 |<span class='sysadmin'>physanus</span> | Hauptverantwortlich |
 | | |
 |<span class='moderator'>RodspamExpertRU</span> | Nebenverantwortlich |
-|<span class='supporter'>\_xlinx\_</span> | Nebenverantwortlich |
+|<span class='supporter'>WeihnachtsAlina</span> | Nebenverantwortlich |
 |<span class='supporter'>Karolux\_</span> | Nebenverantwortlich |
 
 ### **Social-Media**
@@ -185,8 +185,8 @@ Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadca
 |<span class='sysadmin'>physanus</span> | Hauptverantwortlich |
 | | |
 |<span class='moderator'>RodspamExpertRU</span> | Nebenverantwortlich |
-|<span class='supporter'>\_Tetzel\_</span> | Nebenverantwortlich |
-|<span class='supporter'>\_xlinx\_</span> | Nebenverantwortlich |
+|<span class='supporter'>WeihnachtsTetzel</span> | Nebenverantwortlich |
+|<span class='supporter'>WeihnachtsAlina</span> | Nebenverantwortlich |
 |<span class='supporter'>NetflixGutschein</span> | Nebenverantwortlich |
 |<span class='supporter'>TrueSpoki</span> | Nebenverantwortlich |
 |<span class='supporter'>xTessia</span> | Nebenverantwortlich |
