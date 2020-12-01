@@ -184,7 +184,7 @@ Supporter stehen für alle grundlegenden Fragen und Reports zur Verfügung und s
 
 ### <strong><span class='supporter'>NetflixGutschein</span></strong>
 - <u>Rang (ingame):</u> Supporterin
-- <u>Nebenverantwortlich:</u> Broadcasts
+- <u>Nebenverantwortlich:</u> Baufehlerbehebung, Broadcasts
 
 ### <strong><span class='supporter'>NicoSHG</span></strong>
 - <u>Rang (ingame):</u> Supporter
