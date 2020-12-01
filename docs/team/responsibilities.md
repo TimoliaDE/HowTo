@@ -143,7 +143,7 @@ Der TeamSpeak von Timolia ist unter ts.timolia.de zu erreichen. Er wird betreut 
 
 | Teamler | Verantwortungsgrad |
 | ------ | ------ |
-|<span class='developer-plus'>MCelements</span> | Hauptverantwortlich |
+|<span class='developer-plus'>WeihnachtsJannek</span> | Hauptverantwortlich |
 | | |
 |<span class='moderator'>medicoo</span> | Nebenverantwortlich |
 |<span class='sysadmin'>physanus</span> | Nebenverantwortlich |
