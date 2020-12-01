@@ -160,6 +160,7 @@ Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführ
 | `/kitinfo`                      | Zeigt Infos zum aktuellen Kit |
 | `/team invite <Name>`           | Lädt einen Spieler in dein Team ein |
 | `/team accept <Name>`           | Tritt einem Team bei |
+| `/team leave <Name>`            | Zieht eine Teameinladung zurück |
 | `/team kick <Name>`             | Kickt einen Spieler aus deinem Team |
 | `/challenge <Spieler>`, `/c`    | Fordert einen Spieler zu einem Duell heraus |
 | `/leave`, `/l`                  | Zieht eine Herausforderung zurück |
@@ -182,6 +183,7 @@ Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführ
 | `/lastinv <Spieler>`, `/inv`    | Zeigt das letzte Inventar eines Spielers |
 | `/liveinv <Spieler>`, `/liveinventory` | Zeigt das aktuelle Inventar eines Spielers |
 | `/rankinfo`, `/ranginfo`        | Zeigt Informationen zum aktuellen Rang |
+| `/season [Nummer]`              | Zeigt das Kit der aktuellen oder angegebenen Season, Bestenlisten, deine Punkte und Platzierungen an |
 **[Premium](/ranks/premium/) only**:
 | `/bestofx <Spieler> <Anzahl>`   | Fordert einen Spieler zu einem Best of 3 oder Best of 5 heraus |
 | `/create [Passwort]`            | Erstellt ein Turnier (optional mit einem Passwort) |
