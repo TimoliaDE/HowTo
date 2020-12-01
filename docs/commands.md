@@ -153,11 +153,11 @@ Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführ
 
 | Befehl | Funktion |
 | ------ | -------- |
-| `/kit`, `/k`                    | Wählt dein Kit aus |
+| `/kit`, `/k`                    | Öffnet das ausgewählte Kit in deinem Inventar |
+| `/kitinfo`                      | Zeigt Infos zum aktuellen Kit |
 | `/kit <Name(:1/2/3/4/5)>`       | Wählt das Kit eines anderen Spielers aus |
 | `/kits`                         | Listet dir alle von Timolia erstellten Kits auf |
 | `/importkit <Zahl>`             | Importiere eines deiner Kits im Kitbereich |
-| `/kitinfo`                      | Zeigt Infos zum aktuellen Kit |
 | `/team invite <Name>`           | Lädt einen Spieler in dein Team ein |
 | `/team accept <Name>`           | Tritt einem Team bei |
 | `/team kick <Name>`             | Kickt einen Spieler aus deinem Team |
