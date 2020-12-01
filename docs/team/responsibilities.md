@@ -97,6 +97,7 @@ Bei jeglichen Baufehlern auf den Maps von Timolia kümmern sich diese Teamler da
 |<span class='moderator'>RodspamExpertRU</span> | Hauptverantwortlich |
 | | |
 |<span class='supporter-plus'>HerLegendaryWolf</span> | Nebenverantwortlich |
+|<span class='supporter'>NetflixGutschein</span> | Nebenverantwortlich |
 
 ### **Supporterauswahl**
 Wenn es wieder daran geht, neue Supporter in unsere Reihen zu holen, kümmern sich diese Verantwortlichen darum.
