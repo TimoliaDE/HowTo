@@ -159,15 +159,15 @@ Sie sind die ersten, an die sich Spieler mit ihren Anliegen wenden können.
 
 Supporter stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind die ersten, an die sich Spieler mit ihren Anliegen wenden können.
 
-### <strong><span class='supporter'>\_Klatschy\_</span></strong>
-- <u>Rang (ingame):</u> Supporter
-
 ### <strong><span class='supporter'>byRoadrunner</span></strong>
 - <u>Rang (ingame):</u> Supporter
 
 ### <strong><span class='supporter'>Chrissi1505</span></strong>
 - <u>Rang (ingame):</u> Supporter
 - <u>Nebenverantwortlich:</u> Community-Discord, Entschuldigungen, Twitter
+
+### <strong><span class='supporter'>ChristmasMax</span></strong>
+- <u>Rang (ingame):</u> Supporter
 
 ### <strong><span class='supporter'>Karolux\_</span></strong>
 - <u>Rang (ingame):</u> Supporter
