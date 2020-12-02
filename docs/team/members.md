@@ -86,6 +86,10 @@ Developer kümmern sich um die Timolia Plugins, entwickeln neue Features und Spi
 ### <strong><span class='developer'>\_TakeItEaZy\_</span></strong>
 - <u>Rang (ingame):</u> Developer
 
+### <strong><span class='developer'>12Build</span></strong>
+- <u>Rang (ingame):</u> Developer
+- <u>Nebenverantwortlich:</u> Interne Webanwendung und Leveldesign
+
 ### <strong><span class='developer'>Flycofx</span></strong>
 - <u>Rang (ingame):</u> Developer
 - <u>Hauptverantwortlich:</u> Chainreact, Weihnachts - Timolia Adventure
@@ -229,9 +233,6 @@ zwischen dem Bauteam und der allgemeinen Projektorganisation.
 
 Das Bauteam kreiert neue Maps und Lobbys für alle Gelegenheiten und Spielmodi auf Timolia. 
 Sie betreuen die architektonische Gestaltung neuer Modi und betreuen externe Mapeinsendungen.
-
-### <strong><span class='builder'>12Build</span></strong>
-- <u>Rang (ingame):</u> Builder
 
 ### <strong><span class='builder'>Athenja</span></strong>
 - <u>Rang (ingame):</u> Builderin
