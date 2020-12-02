@@ -49,19 +49,19 @@ Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium
 ## Befehle
 | Befehl | Funktion |
 | ------ | -------- |
-| `/enter <ID>`, `/e <ID>`        | Betritt ein bestimmtes Jump 'n' Run |
-| `/leave`, `/l`                  | Verlässt das aktuelle Jump 'n' Run |
-| `/setstart`                     | Setzt den Startpunkt deines Jump 'n' Runs |
-| `/checkpoint`, `/fall`, `/kill` | Teleportiert dich zurück zum letzten Checkpoint |
-| `/duel invite <Spieler>`        | Lädt einen Spieler in ein Duell ein |
-| `/duel accept <Spieler>`        | Nimmt die Einladung in ein Duell an |
-| `/duel leave <Spieler>`         | Verlässt ein Duell |
-| `/duel kick <Spieler>`          | Kickt einen Spieler aus einem Duell |
-| `/setblock`, `/sb`                    | Platziert den Block in deiner Hand unter dir |
-| `/jump`                         | Wechselt zwischen Jump- und Bau-Modus |
 | `/b`                            | Öffnet das Bau-Info-Menü |
-| `/kit`                          | Gibt dir die Start-Items im Bau-Modus |
+| `/checkpoint`, `/fall`, `/kill` | Teleportiert dich zurück zum letzten Checkpoint |
+| `/duel accept <Spieler>`        | Nimmt die Einladung in ein Duell an |
+| `/duel invite <Spieler>`        | Lädt einen Spieler in ein Duell ein |
+| `/duel kick <Spieler>`          | Kickt einen Spieler aus einem Duell |
+| `/duel leave <Spieler>`         | Verlässt ein Duell |
+| `/enter <ID>`, `/e <ID>`        | Betritt ein bestimmtes Jump 'n' Run |
 | `/join <Name>`                  | Betritt das Jump 'n' Run, auf dem sich [Spieler] gerade befindet |
+| `/jump`                         | Wechselt zwischen Jump- und Bau-Modus |
+| `/kit`                          | Gibt dir die Start-Items im Bau-Modus |
+| `/leave`, `/l`                  | Verlässt das aktuelle Jump 'n' Run |
+| `/setblock`, `/sb`                    | Platziert den Block in deiner Hand unter dir |
+| `/setstart`                     | Setzt den Startpunkt deines Jump 'n' Runs |
 | `/top <ID>`                     | Zeigt die Top-Zeiten des Jump 'n' Runs mit der ID [id] an |
 | `/top <ID> -f`                  | Zeigt die wenigsten Fails des Jump 'n' Runs mit der ID [id] an |
 **[Premium](/ranks/premium/) only**:

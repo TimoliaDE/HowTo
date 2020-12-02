@@ -88,28 +88,28 @@ Anstatt `/friend` kann jeweils `/f` genutzt werden.
 | Befehl | Funktion |
 | ------ | -------- |
 | `/friend <Spieler>`, `/friend add` | Schickt oder akzeptiert eine Freundschaftsanfrage |
+| `/friend broadcast <Nachricht>`, `/f bc` | Schickt einen Broadcast an alle Freunde, die derzeit online sind |
 | `/friend deny <Spieler>`        | Lehnt eine Freundschaftsanfrage ab |
-| `/friend remove <Spieler>`, `/friend rem`, `/friend delete`, `/friend del` | Entfernt einen Spieler aus deiner Freundesliste |
 | `/friend ignore <Spieler>`      | Der ignorierte Spieler kann dir keine Freundschaftsanfrage schicken |
 | `/friend list, /friends`        | Zeigt eine Liste deiner Freunde an |
-| `/friends online`               | Zeigt deine Freunde an, die gerade online sind |
+| `/friend remove <Spieler>`, `/friend rem`, `/friend delete`, `/friend del` | Entfernt einen Spieler aus deiner Freundesliste |
 | `/friend requests`, `/friend req` | Listet unbeantwortete Freundschaftsanfragen auf |
-| `/friend toggle`                | Zeigt dir eine Übersicht anpassbarer Einstellungen an |
 | `/friend teleport <Spieler>`, `/friend tp` | Teleportiert dich zu einem Freund |
-| `/friend broadcast <Nachricht>` | Schickt einen Broadcast an alle Freunde, die derzeit online sind |
+| `/friend toggle`                | Zeigt dir eine Übersicht anpassbarer Einstellungen an |
+| `/friends online`               | Zeigt deine Freunde an, die gerade online sind |
 
 ### Partysystem
 
 | Befehl | Funktion |
 | ------ | -------- |
 | `/party`                        | Erstellt eine neue Party oder öffnet die Partyverwaltung |
-| `/party help`                   | Zeigt alle Befehle des Partysystems |
-| `/party join <Spieler>`         | Tritt einer Party bei |
-| `/party invite <Spieler>`       | Lädt einen Spieler in deine Party ein |
-| `/party leave`                  | Verlasse die aktuelle Party |
-| `/party togglechat`             | Schaltet zwischen Party-Chat und normalem Chat um |
-| `/party promote <Spieler>`      | Ernennt einen Spieler zum Moderator |
 | `/party demote <Spieler>`       | Degradiert einen Spieler zum Mitglied |
+| `/party help`                   | Zeigt alle Befehle des Partysystems |
+| `/party invite <Spieler>`       | Lädt einen Spieler in deine Party ein |
+| `/party join <Spieler>`         | Tritt einer Party bei |
+| `/party leave`                  | Verlasse die aktuelle Party |
+| `/party promote <Spieler>`      | Ernennt einen Spieler zum Moderator |
+| `/party togglechat`             | Schaltet zwischen Party-Chat und normalem Chat um |
 
 ### Zwei-Faktor-Authentifizierung
 
@@ -121,10 +121,10 @@ Solltest du dein Handy verlieren, kannst du dich weiterhin mit Backupcodes anmel
 | Befehl | Funktion |
 | ------ | -------- |
 | `/2fa`                          | Zeigt dir die Hilfe für die Zwei-Faktor-Authentifizierung an |
-| `/2fa setup`                    | Richtet die Zwei-Faktor-Authentifizierung ein |
-| `/2fa disable`                  | Deaktiviert die Zwei-Faktor-Authentifizierung |
 | `/2fa buc`                      | Listet alle unbenutzten Backupcodes auf |
+| `/2fa disable`                  | Deaktiviert die Zwei-Faktor-Authentifizierung |
 | `/2fa logout`                   | Kickt dich vom Netzwerk und loggt dich aus der Zwei-Faktor-Authentifizierung aus |
+| `/2fa setup`                    | Richtet die Zwei-Faktor-Authentifizierung ein |
 
 ### Community-Discord
 
@@ -132,63 +132,62 @@ Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführ
 
 | Befehl | Channel | Funktion |
 | ------ | -------------- | -------- |
+| `/bug <Beschreibung>` | Timolia Bot (Privatchat) und [#bug-melden](https://discordapp.com/channels/407554118887014402/413638656264503317) | Meldet einen Bug an das Timolia Team |
+| `/channel invite <@Name>` oder `/channel remove <@Name>` | Timolia Bot (Privatchat) und eigener Channel | Lädt einen User in einen privaten Chatchannel ein oder entfernt ihn |
 | `/help` | Timolia Bot (Privatchat) | Listet alle verfügbaren Commands auf |
 | `/help <command>` oder `/<command> help` | Timolia Bot (Privatchat) | Gibt Infos über den ausgewählten Command aus |
-| `/verify <Ingamename>` | Timolia Bot (Privatchat) | Verknüpft deinen Discord-Account mit deinem Minecraft-Account |
-| `/unverify` | Timolia Bot (Privatchat) | Hebt die Verknüpfung deines Discord-Accounts mit deinem Minecraft-Account auf |
-| `/stats [@Name]` | Timolia Bot (Privatchat) | Gibt einige Discord Stats von dir oder anderen aus |
-| `/stats all` | Timolia Bot (Privatchat) | Gibt die Serverstats aus |
+| `/idea <Idee>` | Nur in [#ideen](https://discordapp.com/channels/407554118887014402/413615776399097866) und [#discord-ideen](https://discordapp.com/channels/407554118887014402/569594169228656656) | Der Bot postet deine Idee und versieht sie mit einer positiven und einer negativen Reaction |
 | `/lookup <@Name>` | Timolia Bot (Privatchat) | Gibt Informationen zu einem User aus |
 | `/quote <NachrichtID>/<Nachricht Link>` | Nur in Channeln | Zitiert die angegebene Nachricht |
-| `/top` | Timolia Bot (Privatchat) und [#ranks](https://discordapp.com/channels/407554118887014402/548160287891783690)| Zeigt die Top 10 der User an|
 | `/rank` | Timolia Bot (Privatchat) und [#ranks](https://discordapp.com/channels/407554118887014402/548160287891783690) | Zeigt Informationen zu deinem Rang an |
-| `/channel invite <@Name>` oder `/channel remove <@Name>` | Timolia Bot (Privatchat) und eigener Channel | Lädt einen User in einen privaten Chatchannel ein oder entfernt ihn |
-| `/bug <Beschreibung>` | Timolia Bot (Privatchat) und [#bug-melden](https://discordapp.com/channels/407554118887014402/413638656264503317) | Meldet einen Bug an das Timolia Team |
+| `/stats [@Name]` | Timolia Bot (Privatchat) | Gibt einige Discord Stats von dir oder anderen aus |
+| `/stats all` | Timolia Bot (Privatchat) | Gibt die Serverstats aus |
 | `/support <Beschreibung>` | Timolia Bot (Privatchat) und [#support](https://discordapp.com/channels/407554118887014402/413594798906408960) | Erstellt einen Supportchat für dich mit dem angegebenen Problem |
-| `/idea <Idee>` | Nur in [#ideen](https://discordapp.com/channels/407554118887014402/413615776399097866) und [#discord-ideen](https://discordapp.com/channels/407554118887014402/569594169228656656) | Der Bot postet deine Idee und versieht sie mit einer positiven und einer negativen Reaction |
+| `/top` | Timolia Bot (Privatchat) und [#ranks](https://discordapp.com/channels/407554118887014402/548160287891783690)| Zeigt die Top 10 der User an|
+| `/unverify` | Timolia Bot (Privatchat) | Hebt die Verknüpfung deines Discord-Accounts mit deinem Minecraft-Account auf |
+| `/verify <Ingamename>` | Timolia Bot (Privatchat) | Verknüpft deinen Discord-Account mit deinem Minecraft-Account |
 
 ## 2 - Befehle der einzelnen Modi
 
 ### 1vs1
-
 | Befehl | Funktion |
 | ------ | -------- |
-| `/kit`, `/k`                    | Öffnet das ausgewählte Kit in deinem Inventar |
-| `/kitinfo`                      | Zeigt Infos zum aktuellen Kit |
-| `/kit <Name(:1/2/3/4/5)>`       | Wählt das Kit eines anderen Spielers aus |
-| `/kits`                         | Listet dir alle von Timolia erstellten Kits auf |
-| `/importkit <Zahl>`             | Importiere eines deiner Kits im Kitbereich |
-| `/team invite <Name>`           | Lädt einen Spieler in dein Team ein |
-| `/team accept <Name>`           | Tritt einem Team bei |
-| `/team leave <Name>`            | Zieht eine Teameinladung zurück |
-| `/team kick <Name>`             | Kickt einen Spieler aus deinem Team |
 | `/challenge <Spieler>`, `/c`    | Fordert einen Spieler zu einem Duell heraus |
-| `/leave`, `/l`                  | Zieht eine Herausforderung zurück |
+| `/compare <Name> <Name>`        | Zeigt die Kampfstatistik zweier Spieler |
 | `/endmatch`                     | Der Kampf wird nach einer Minute mit Entscheidung durch die Mitte beendet |
-| `/surrender`                    | Man tötet sich selbst und beendet den Kampf vorzeitig |
+| `/importkit <Zahl>`             | Importiere eines deiner Kits im Kitbereich |
+| `/join <Name>`                  | Tritt einem Turnier bei |
+| `/join <Name> <Passwort>`       | Tritt einem passwortgeschützten Turnier bei |
+| `/kit`, `/k`                    | Öffnet das ausgewählte Kit in deinem Inventar |
+| `/kit <Name(:1/2/3/4/5)>`       | Wählt das Kit eines anderen Spielers aus |
+| `/kitinfo`                      | Zeigt Infos über das ausgewählte Kit |
+| `/kits`                         | Listet dir alle von Timolia erstellten Kits auf |
+| `/lastinv <Spieler>`, `/inv`    | Zeigt das letzte Inventar eines Spielers |
+| `/leave`, `/l`                  | Verlässt ein Turnier bzw die Warteschlange |
+| `/liveinv <Spieler>`, `/liveinventory` | Zeigt das aktuelle Inventar eines Spielers |
+| `/matchinfo`                    | Zeigt Informationen über den aktuellen Kampf |
+| `/queue`, `/q`                  | Fügt dich zur Warteschlange hinzu |
+| `/rankinfo`, `/ranginfo`        | Zeigt Informationen zum aktuellen Rang |
+| `/season [Nummer]`              | Zeigt das Kit der aktuellen oder angegebenen Season, Bestenlisten, deine Punkte und Platzierungen an |
+| `/settings`                     | Öffnet die Einstellungen |
 | `/spectate <Spieler>`, `/spec`  | Lässt dich den Kampf eines Spielers beobachten |
 | `/stats`                        | Zeigt dir deine Stats an |
 | `/stats <Name>`                 | Zeigt dir die Stats eines Spielers an |
 | `/statsmenu [Name]`             | Öffnet das Statsmenü |
+| `/surrender`                    | Man tötet sich selbst und beendet den Kampf vorzeitig |
+| `/t`                            | Zeigt die Turnierinformationen |
+| `/team accept <Name>`           | Tritt einem Team bei |
+| `/team invite <Name>`           | Lädt einen Spieler in dein Team ein |
+| `/team kick <Name>`             | Kickt einen Spieler aus deinem Team |
+| `/team leave <Name>`            | Zieht eine Teameinladung zurück |
 | `/top <Kit>`                    | Zeigt die Rangliste eines Competitive-Kits an |
 | `/winstreak`, `/streak`         | Zeigt deine aktuelle Winstreak |
-| `/join <Name>`                  | Tritt einem Turnier bei |
-| `/join <Name> <Passwort>`       | Tritt einem passwortgeschützten Turnier bei |
-| `/t`                            | Zeigt die Turnierinformationen |
 | `/xp <Level>`                   | Setzt ein XP-Level für dein Kit |
-| `/matchinfo`                    | Zeigt Informationen über den aktuellen Kampf |
-| `/queue`, `/q`                  | Fügt dich zur Warteschlange hinzu |
-| `/compare <Name> <Name>`        | Zeigt die Kampfstatistik zweier Spieler |
-| `/settings`                     | Öffnet die Einstellungen |
-| `/lastinv <Spieler>`, `/inv`    | Zeigt das letzte Inventar eines Spielers |
-| `/liveinv <Spieler>`, `/liveinventory` | Zeigt das aktuelle Inventar eines Spielers |
-| `/rankinfo`, `/ranginfo`        | Zeigt Informationen zum aktuellen Rang |
-| `/season [Nummer]`              | Zeigt das Kit der aktuellen oder angegebenen Season, Bestenlisten, deine Punkte und Platzierungen an |
 **[Premium](/ranks/premium/) only**:
 | `/bestofx <Spieler> <Anzahl>`   | Fordert einen Spieler zu einem Best of 3 oder Best of 5 heraus |
 | `/create [Passwort]`            | Erstellt ein Turnier (optional mit einem Passwort) |
-| `/near <kit> [name]`            | Zeigt für jede Kitrangliste die Entfernung zum nächsten Rang an |
 | `/modify`                       | Bearbeitet die Turniereinstellungen |
+| `/near <kit> [name]`            | Zeigt für jede Kitrangliste die Entfernung zum nächsten Rang an |
 | `/start [Zeit]`                 | Startet dein Turnier |
 **[<span class='pro'>Pro+</span>](/ranks/premium/) only**:
 | `/hat`                          | Setzt das Item in deiner Hand als den Helm deines Kits |
@@ -197,57 +196,55 @@ Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführ
 | `/team setcolor`                | Färbt euren Namen entsprechend der gewählten Farbe |
 
 ### Arcade
-
 | Befehl | Funktion |
 | ------ | -------- |
-| `/rot`                          | Zeigt die Spielrotation |
-| `/last`                         | Zeigt die zuletzt gespielten Spiele |
-| `/join <Spieler>`               | Betritt ein öffentliches Turnier |
-| `/leave`                        | Verlasse ein Turnier |
+| `/join <Spieler>` | Betritt ein Turnier |
+| `/last` | Zeigt die zuletzt gespielten Spiele |
+| `/leave` | Verlasse ein Turnier |
+| `/rot` | Zeigt die Spielrotation |
 **[Premium](/ranks/premium/) only**:
 | `/create`                       | Erstellt ein Turnier |
 | `/invite <Spieler>`             | Lädt einen Spieler in dein Turnier ein |
 
-### JumpWorld
-
+### Bauwelt
 | Befehl | Funktion |
 | ------ | -------- |
-| `/enter <ID>`, `/e <ID>`            | Betritt ein bestimmtes Jump 'n' Run |
-| `/leave`, `/l`                      | Verlässt das aktuelle Jump 'n' Run |
-| `/setstart`                         | Setzt den Startpunkt deines Jump 'n' Runs |
-| `/checkpoint`, `/fall`, `/kill`     | Teleportiert dich zurück zum letzten Checkpoint |
-| `/duel invite <Spieler>`            | Lädt einen Spieler in ein Duell ein |
-| `/duel accept <Spieler>`            | Nimmt die Einladung in ein Duell an |
-| `/duel leave <Spieler>`             | Verlässt ein Duell |
-| `/duel kick <Spieler>`              | Kickt einen Spieler aus einem Duell |
-| `/setblock`, `/sb`                  | Platziert den Block in deiner Hand unter dir |
-| `/jump`                             | Wechselt zwischen Jump- und Bau-Modus |
-| `/b`                                | Öffnet das Bau-Info-Menü |
-| `/kit`                              | Gibt dir die Start-Items im Bau-Modus |
-| `/join <Name>`                      | Betritt das Jump 'n' Run, auf dem sich [Spieler] gerade befindet |
-| `/top <ID>`                         | Zeigt die Top-Zeiten des Jump 'n' Runs mit der ID [id] an |
-| `/top <ID> -f`                      | Zeigt die wenigsten Fails des Jump 'n' Runs mit der ID [id] an |
-**[Premium](/ranks/premium/) only**:
-| `/multibuild <3,6>`,<br>`/mb <3,6>` | Du kannst bis zu 3 (ab <span class="pro">Pro</span>) oder bis zu 6 (ab <span class="mvp">MVP+</span>) Blöcke auf einmal setzen
-**[<span class='mvp'>MVP</span>](/ranks/premium/) only**:
-| `/skull [Name]`                     | Gibt dir einen Spielerkopf 
+| `/backup [Seite]` | Ruft alle gespeicherten Backups auf |
+| `/bauwelt` | Listet alle Befehle der Bauwelt auf |
+| `/finish` | Gibt deinen fertigen Plot ab |
+| `/reset` | Resettet deinen Plot |
+| `/save` | Speichert deinen Plot |
+| `/spawn` | Telportiert dich zum Spawn der Bauwelt |
+| `/tutorial` | Teleportiert dich zum Tutorial |
 
 ### Castles
 | Befehl | Funktion |
 | ------ | -------- |
+| `/jointeam <Teamfarbe>`, `/team` | Betritt ein Team |
 | `/kill`                         | Tötet dich selbst |
-| `/jointeam <Team-Farbe>`, `/team` | Betritt ein Team |
 
-### Bauwelt
+### JumpWorld
 | Befehl | Funktion |
 | ------ | -------- |
-| `/bauwelt` | Listet alle Befehle der Bauwelt auf |
-| `/spawn` | Telportiert dich zum Spawn der Bauwelt |
-| `/finish` | Gibt deinen fertigen Plot ab |
-| `/save` | Speichert deinen Plot |
-| `/backup [Seite]` | Ruft alle gespeicherten Backups auf |
-| `/tutorial` | Teleportiert dich zum Tutorial |
-| `/reset` | Resettet deinen Plot |
+| `/b`                            | Öffnet das Bau-Info-Menü |
+| `/checkpoint`, `/fall`, `/kill` | Teleportiert dich zurück zum letzten Checkpoint |
+| `/duel accept <Spieler>`        | Nimmt die Einladung in ein Duell an |
+| `/duel invite <Spieler>`        | Lädt einen Spieler in ein Duell ein |
+| `/duel kick <Spieler>`          | Kickt einen Spieler aus einem Duell |
+| `/duel leave <Spieler>`         | Verlässt ein Duell |
+| `/enter <ID>`, `/e <ID>`        | Betritt ein bestimmtes Jump 'n' Run |
+| `/join <Name>`                  | Betritt das Jump 'n' Run, auf dem sich [Spieler] gerade befindet |
+| `/jump`                         | Wechselt zwischen Jump- und Bau-Modus |
+| `/kit`                          | Gibt dir die Start-Items im Bau-Modus |
+| `/leave`, `/l`                  | Verlässt das aktuelle Jump 'n' Run |
+| `/setblock`, `/sb`                    | Platziert den Block in deiner Hand unter dir |
+| `/setstart`                     | Setzt den Startpunkt deines Jump 'n' Runs |
+| `/top <ID>`                     | Zeigt die Top-Zeiten des Jump 'n' Runs mit der ID [id] an |
+| `/top <ID> -f`                  | Zeigt die wenigsten Fails des Jump 'n' Runs mit der ID [id] an |
+**[Premium](/ranks/premium/) only**:
+| `/multibuild <3,6>`,<br>`/mb <3,6>` | Du kannst bis zu 3 (ab <span class="pro">Pro</span>) oder bis zu 6 (ab <span class="mvp">MVP+</span>) Blöcke auf einmal setzen
+**[<span class='mvp'>MVP</span>](/ranks/premium/) only**:
+| `/skull [Name]`                     | Gibt dir einen Spielerkopf 
 
 ### UHC
 | Befehl | Funktion |
