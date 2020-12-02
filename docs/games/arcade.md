@@ -110,10 +110,10 @@ Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium
  
 | Befehl | Funktion |
 | ------ | -------- |
-| `/rot` | Zeigt die Spielrotation |
-| `/last` | Zeigt die zuletzt gespielten Spiele |
 | `/join <Spieler>` | Betritt ein Turnier |
+| `/last` | Zeigt die zuletzt gespielten Spiele |
 | `/leave` | Verlasse ein Turnier |
+| `/rot` | Zeigt die Spielrotation |
 **[Premium](/ranks/premium/) only**:
 | `/create`          | Erstellt ein öffentliches oder privates Turnier |
 | `/invite <Spieler>` | Lädt einen Spieler in dein Turnier ein |
