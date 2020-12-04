@@ -5,10 +5,11 @@
 
 
 ## Der Spielverlauf
-Bei Survival Quest geht es darum, möglichst viele Quests in einer normalen Minecraftwelt abzuschließen - und das am besten schneller als die Gegner.  
+Bei Survival Quest geht es darum, möglichst viele Quests in einer normalen Minecraftwelt abzuschließen - und das am besten schneller als die Gegner.
 Das Spiel startet alle 2 Stunden.
 
 ## Und so gehts
+- Du joinst, wenn ein Spiel startet, mit der Minecraft-Version 1.12+ auf einen Survival Quest Server. Durch die höhere Version können dir mehr Features und eine höhere Aufgabenvielfalt geboten werden.
 - Ziel des Spiels ist es, innerhalb 45 Minuten die meisten Punkte zu sammeln.
 - Bevor das Spiel beginnt, kann man in der Lobby Sponsoren sammeln, die einem im Spiel einen Vorteil bieten. Die Sponsoren können mit einem Rechtsklick angesprochen werden.
 - Sobald das Spiel gestartet hat, können im Quest-Buch alle Aufgaben aufgerufen werden.
