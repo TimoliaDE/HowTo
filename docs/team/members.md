@@ -179,6 +179,7 @@ Supporter stehen für alle grundlegenden Fragen und Reports zur Verfügung und s
 
 ### <strong><span class='supporter'>leStark</span></strong>
 - <u>Rang (ingame):</u> Supporter
+- <u>Nebenverantwortlich:</u> Entschuldigungen
 
 ### <strong><span class='supporter'>Liisa</span></strong>
 - <u>Rang (ingame):</u> Supporterin
@@ -198,7 +199,7 @@ Supporter stehen für alle grundlegenden Fragen und Reports zur Verfügung und s
 
 ### <strong><span class='supporter'>TrueSpoki</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Broadcasts, Fragen und Antworten Forum, Map-Einsendungen
+- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Broadcasts, Entschuldigungen, Fragen und Antworten Forum, Map-Einsendungen
 
 ### <strong><span class='supporter'>WeihnachtsAlina</span></strong>
 - <u>Rang (ingame):</u> Supporterin

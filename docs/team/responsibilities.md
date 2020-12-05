@@ -61,6 +61,8 @@ Die Verantwortlichen für die Forenorganisation kümmern sich sowohl um den Aufb
 | ------ | ------ |
 |<span class='moderator'>RodspamExpertRU</span> | Hauptverantwortlich |
 | | |
+|<span class='supporter'>leStark</span> | Nebenverantwortlich |
+|<span class='supporter'>TrueSpoki</span> | Nebenverantwortlich |
 |<span class='supporter'>xTessia</span> | Nebenverantwortlich |
 
 ### **Zu Unrecht gebannt**
