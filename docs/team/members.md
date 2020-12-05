@@ -130,7 +130,7 @@ Sie dienen als interne Ansprechpartner bei Fragen und koordinieren häufig einze
 ### <strong><span class='moderator'>J4mPr0</span></strong>
 - <u>Rang (ingame):</u> Moderator
 - <u>Hauptverantwortlich:</u> Map-Einsendungen, Zu Unrecht gebannt Forum
-- <u>Nebenverantwortlich:</u> Entschuldigungen, Supporterauswahl, Timolia Turnier Organisation
+- <u>Nebenverantwortlich:</u> Supporterauswahl, Timolia Turnier Organisation
 
 ### <strong><span class='moderator'>medicoo</span></strong>
 - <u>Rang (ingame):</u> Moderator
@@ -168,7 +168,7 @@ Supporter stehen für alle grundlegenden Fragen und Reports zur Verfügung und s
 
 ### <strong><span class='supporter'>Chrissi1505</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Community-Discord, Entschuldigungen, Twitter
+- <u>Nebenverantwortlich:</u> Community-Discord, Twitter
 
 ### <strong><span class='supporter'>ChristmasMax</span></strong>
 - <u>Rang (ingame):</u> Supporter
@@ -179,6 +179,7 @@ Supporter stehen für alle grundlegenden Fragen und Reports zur Verfügung und s
 
 ### <strong><span class='supporter'>leStark</span></strong>
 - <u>Rang (ingame):</u> Supporter
+- <u>Nebenverantwortlich:</u> Entschuldigungen
 
 ### <strong><span class='supporter'>Liisa</span></strong>
 - <u>Rang (ingame):</u> Supporterin
@@ -198,7 +199,7 @@ Supporter stehen für alle grundlegenden Fragen und Reports zur Verfügung und s
 
 ### <strong><span class='supporter'>TrueSpoki</span></strong>
 - <u>Rang (ingame):</u> Supporter
-- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Broadcasts, Fragen und Antworten Forum, Map-Einsendungen
+- <u>Nebenverantwortlich:</u> Anregungen und Vorschläge Forum, Broadcasts, Entschuldigungen, Fragen und Antworten Forum, Map-Einsendungen
 
 ### <strong><span class='supporter'>WeihnachtsAlina</span></strong>
 - <u>Rang (ingame):</u> Supporterin
