@@ -1,9 +1,5 @@
 image: docker:stable
 
-#services:
-#  - docker:18.09.7-dind
-
-
 stages:
   - build
   - deploy
@@ -14,8 +10,6 @@ variables:
   IMAGE_NAME: howto
   DEPLOY_HOST: web-team.timolia.de
   DEPLOY_PORT: 2222
-#  DOCKER_TLS_CERTDIR: ""
-#  DOCKER_HOST: tcp://localhost:2375
 
 
 build_live:
@@ -58,6 +52,6 @@ deploy_dev:
   tags:
     - docker
   script:
-    - sshpass -p $HOWTO_PW_DEV ssh -o "StrictHostKeyChecking=no" howtoupdater@devnet-fast.timolia.de
+    - sshpass -p $UPDATER_PW_DEV ssh -o "StrictHostKeyChecking=no" gitlab-updater@devnet-bigmac.timolia.de howto
   except:
     - master
