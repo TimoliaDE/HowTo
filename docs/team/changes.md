@@ -5,6 +5,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Dezember</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
+| Quanturix | <span class='pro'>Pro+</span> | <span class='developer'>Developer</span> | 08.12.2020 |
 | 12Build | <span class='builder'>Builder</span> | <span class='developer'>Developer</span> | 02.12.2020 |
 
 ###  <strong>November</strong>
