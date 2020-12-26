@@ -39,8 +39,8 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>August</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
-| Sentuqs | <span class='builder'>Builder</span> | <span class='mvp'>Native MVP</span> | 23.08.2019 |
 | BowspamExpertDE | <span class='moderator'>Moderator</span> | <span class='expert'>Native Expert</span> | 23.08.2019 |
+| Sentuqs | <span class='builder'>Builder</span> | <span class='mvp'>Native MVP</span> | 23.08.2020 |
 | zortax | <span class='sysadmin'>SysAdmin</span> | <span class='expert'>Native Expert</span> | 15.08.2019 |
 | Vemdex | <span class='mvp'>Native MVP</span> | <span class='builder'>Builder</span> | 08.08.2020 |
 | HaroZwei | <span class='creator'>Creator</span> | <span class='mvp'>Native MVP</span> | 05.08.2020 |
