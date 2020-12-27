@@ -532,7 +532,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | ------ | ------ | ------ | ------ |
 | Evoferry | <span class='administrator'>Administrator City</span> | <span class='expert'>Native Expert</span> | 30.04.2017 |
 | Fabiewww | <span class='builder'>Builder</span> | <span class='expert'>Expert</span> | 29.04.2017 |
-| ProExecution | <span class='builder'>Builder</span> | <span class='pro'>Pro</span> | 29.04.2017
+| ProExecution | <span class='builder'>Builder</span> | <span class='mvp'>Native MVP</span> | 29.04.2017
 | Haxxsmart | <span class='builder'>Builder</span> | <span class='pro'>Pro</span> | 09.04.2017 |
 | PodgeT | <span class='supporter'>Supporter City</span> | <span class='expert'>Expert</span> | 06.04.2017 |
 | kirschen | <span class='builder'>Builder</span> | <span class='user'>Spieler</span> | 02.04.2017 |
