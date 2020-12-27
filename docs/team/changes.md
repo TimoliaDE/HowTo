@@ -33,7 +33,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | NicoSHG | <span class='expert'>Expert</span> | <span class='supporter'>Supporter</span> | 21.09.2020 |
 | Wie_Shu | <span class='supporter'>Supporter</span> | <span class='expert'>Native Expert</span> | 11.09.2020 |
 | Niizck | <span class='creator'>Creator</span> | <span class='mvp'>Native MVP</span> | 11.09.2020 |
-| Liisa | <span class='mvp'>Native MVP</span> | <span class='supporter'>Supporterin</span> | 10.09.2019 |
+| Liisa | <span class='mvp'>Native MVP</span> | <span class='supporter'>Supporterin</span> | 10.09.2020 |
 | Dankbarkeit | <span class='mvp'>Native MVP</span> | <span class='builder'>Builder</span> | 06.09.2020 |
 
 ###  <strong>August</strong>
