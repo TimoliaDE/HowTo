@@ -659,7 +659,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | BuffmonsterOne | <span class='user'>Spieler</span> | <span class='supporter'>Supporter Games</span> | 05.08.2016 |
 | TimLiebtSt3gi | <span class='expert'>Expert</span> | <span class='supporter'>Supporter Games</span> | 05.08.2016 |
 | \_Rudi_ | <span class='pro'>Pro</span> | <span class='supporter'>Supporter Games</span> | 05.08.2016 |
-| LeePvP | <span class='supporter'>Supporter Games</span> | <span class='pro'>Pro</span> | 05.08.2016 |
+| LeePvP | <span class='supporter'>Supporter Games</span> | <span class='mvp'>Native MVP</span> | 05.08.2016 |
 | Luziii | <span class='supporter'>Supporter Games</span> | <span class='mvp'>Native MVP</span> | 05.08.2016 |
 
 ###  <strong>Juli</strong>
