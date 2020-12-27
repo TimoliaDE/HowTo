@@ -519,7 +519,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Mai</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
-| FabsiFTW | <span class='moderator'>Moderator Games</span> | <span class='expert'>Native Expert</span> | 21.05.2017 |
+| FabsiFTW | <span class='moderator'>Moderator Games</span> | <span class='expert'>Expert</span> | 21.05.2017 |
 | blackINK_ | <span class='supporter'>Supporterin Games</span> | <span class='mvp'>Native MVP</span> | 21.05.2017 |
 | CubeFabi | <span class='supporter'>Supporter Games</span> | <span class='expert'>Native Expert</span> | 20.05.2017 |
 | Tollmolia | <span class='expert'>Expert</span> | <span class='creator'>Creator</span> | 15.05.2017 |
