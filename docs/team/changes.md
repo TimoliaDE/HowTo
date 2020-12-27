@@ -408,7 +408,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 ###  <strong>Januar</strong>
 | Spieler | Vorheriger Rang | Jetziger Rang | Datum |
 | ------ | ------ | ------ | ------ |
-| TaiToni | <span class='supporter'>Supporter</span> | <span class='expert'>Expert</span> | 27.01.2018 |
+| TaiToni | <span class='supporter'>Supporter</span> | <span class='expert'>Native Expert</span> | 27.01.2018 |
 | iPushyy | <span class='user'>Spieler</span> | <span class='developer'>Developer</span> | 23.01.2018 |
 | MCPhilippS | <span class='supporter'>Supporter</span> | <span class='mvp'>Native MVP</span> | 20.01.2018 |
 | Tiem | <span class='supporter'>Supporter</span> | <span class='mvp'>Native MVP</span> | 16.01.2018 |
