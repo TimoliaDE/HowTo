@@ -631,7 +631,7 @@ Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufge
 | Dark_Gamer_98 | <span class='moderator'>Moderator Games</span> | <span class='expert'>Expert</span> | 05.10.2016 |
 | Poxari | <span class='moderator'>Moderator Games</span> | <span class='youtuber'>Native YouTuber</span> | 05.10.2016 |
 | lauratatuetatah | <span class='moderator'>Moderatorin Games</span> | <span class='expert'>Expert</span> | 05.10.2016 |
-| Toebi | <span class='moderator'>Moderator Games</span> | <span class='expert'>Expert</span> | 05.10.2016 |
+| Toebi | <span class='moderator'>Moderator Games</span> | <span class='expert'>Native Expert</span> | 05.10.2016 |
 | Vucanu | <span class='supporter'>Supporter Games</span> | <span class='mvp'>Native MVP</span> | 05.10.2016 |
 | SeiBitteLeise | <span class='supporter'>Supporter Games</span> | <span class='expert'>Native Expert</span> | 05.10.2016 |
 | Tobi_ | <span class='supporter'>Supporter Games</span> | <span class='mvp'>Native MVP</span> | 05.10.2016 |
