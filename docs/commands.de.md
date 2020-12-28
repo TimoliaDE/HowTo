@@ -180,7 +180,6 @@ Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführ
 | `/team invite <Name>`           | Lädt einen Spieler in dein Team ein |
 | `/team kick <Name>`             | Kickt einen Spieler aus deinem Team |
 | `/team leave <Name>`            | Zieht eine Teameinladung zurück |
-| `/top <Kit>`                    | Zeigt die Rangliste eines Competitive-Kits an |
 | `/winstreak`, `/streak`         | Zeigt deine aktuelle Winstreak |
 | `/xp <Level>`                   | Setzt ein XP-Level für dein Kit |
 **[Premium](/ranks/premium/) only**:
@@ -249,7 +248,7 @@ Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführ
 ### UHC
 | Befehl | Funktion |
 | ------ | -------- |
-| `/backpack`, `/bp`                         | Ermöglicht ein gemeinsames Inventar in Team-UHCs |
+| `/backpack`, `/bp`                         | Öffnet das gemeinsames Inventar in Team-UHCs |
 | `/config`                                  | Listet die aktuelle Konfiguration des UHCs auf |
 | `/coordinates`, `/coords`                  | Schickt eine Nachricht an deine Teampartner mit deinen Koordinaten |
 | `/dragons <Spieler>`                       | Bei aktivem Szenario `Dragons` kann der Host des UHCs bei dem Spieler einen Enderdrachen spawnen |
