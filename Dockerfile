@@ -18,7 +18,11 @@ RUN pip install mkdocs
 RUN pip install mkdocs-material
 
 COPY ./ /code/
-RUN cd /code && mkdocs build
+RUN cd /code \
+    && rm docs/team/teamler.json \
+    && rm -rf howto-dapp \
+    && find . -name '*.md.old' -delete \
+    && mkdocs build
 
 RUN adduser -D -g 'www' www
 RUN mkdir /www

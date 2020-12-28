@@ -8,8 +8,9 @@ Außerdem kann es jederzeit zu einer Änderung der Regeln kommen. Dazu wird das 
 Jegliche Modifikationen im und am Spiel sind auf Timolia verboten. Hierzu zählen grundsätzlich alle Mods, aber auch bestimmte Arten von vorteilsbringenden Resource Packs, 
 vor allem durchsichtige oder Xray-Resource Packs. Auch Makros und andere Modifikationen an Minecraft-Client, Maus und Tastatur, die das Spammen von Tasten/Befehlen und
 Chatnachrichten oder auch das Erhöhen der Klickgeschwindigkeit ermöglichen, sind verboten. Das beinhaltet auch und vor allem MouseTweaks sowie die Nutzung von programmierbaren 
-Tastaturen, Mäusen oder Hotkeys für die oben genannten Zwecke. Skinblinker und sämltiche Arten von Minimaps sind ebenfalls verboten. Grundsätzlich kannst du davon ausgehen, dass
-jegliche spielrelevanten, vorteilsbringenden Änderungen verboten sind. Hierzu zählt beispielsweise auch das Benutzen des Mausrads als Alternative zu einer Maustaste.    
+Tastaturen, Mäusen oder Hotkeys für die oben genannten Zwecke. Skinblinker und sämltiche Arten von Minimaps sind ebenfalls verboten. 
+Grundsätzlich kannst du davon ausgehen, dass jegliche spielrelevanten, vorteilsbringenden Änderungen verboten sind. 
+Hierzu zählt beispielsweise auch das Benutzen des Mausrads als Alternative zu einer Maustaste.    
 
 Ausgenommen von dieser Regelung sind spielverschönernde Mods wie [OptiFine](https://optifine.net/) oder [Shader](https://www.google.de/#q=Minecraft+Shader),
 sowie die [5zig](https://5zig.net/)- und [LabyMod](https://www.labymod.net/). Eine genaue Liste aller erlaubten Mods findest du [hier](/rules/approvedmods/).
