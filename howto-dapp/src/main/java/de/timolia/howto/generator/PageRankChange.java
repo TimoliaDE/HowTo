@@ -52,7 +52,7 @@ public class PageRankChange {
 
             if (!year.equals(lastYear)) {
                 lastYear = year;
-                sb.append("# ").append(year).append("\n");
+                sb.append("\n").append("\n").append("# ").append(year).append("\n");
             }
             if (!month.equals(lastMonth)) {
                 lastMonth = month;
