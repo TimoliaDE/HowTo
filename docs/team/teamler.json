@@ -2598,5 +2598,14 @@
     "rank_history": {
       "initial": "developer"
     }
+  },
+  {
+    "name": "rainyrobin",
+    "uuid": "537b2e6b-410b-4b59-84d9-bbf67ce25907",
+    "sex": "male",
+    "rank_history": {
+      "initial": "pro",
+      "30.12.2020": "builder"
+    }
   }
 ]
