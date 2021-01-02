@@ -11,7 +11,7 @@ import java.util.stream.Stream;
 
 public class Teamler {
 
-    private final String name;
+    private     String name;
     private final UUID uuid;
     private final Sex sex;
     private List<String> responsibilitiesMain;
@@ -155,6 +155,10 @@ public class Teamler {
         }
 
         return responsibilityList != null && (responsibilityList.contains(responsibility) || responsibilityList.contains(responsibility + " Forum"));
+    }
+
+    public void updateName() {
+        this.name = SQLApi.getName(uuid);
     }
 
     @Override

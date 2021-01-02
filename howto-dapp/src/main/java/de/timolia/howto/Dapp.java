@@ -58,6 +58,7 @@ public class Dapp { // D. Application
             String json = Files.readString(Path.of("docs", "team", "teamler.json"), Charset.defaultCharset());
             Teamler[] teamlers = gson.fromJson(json, Teamler[].class);
             List<Teamler> teamlerList = Arrays.asList(teamlers);
+            teamlerList.forEach(Teamler::updateName);
 
 //            for(Teamler teamler : teamlerList) {
 //                String name = SQLApi.getName(teamler.getUuid());
