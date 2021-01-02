@@ -158,7 +158,7 @@ public class Teamler {
     }
 
     public void updateName() {
-        this.name = SQLApi.getName(uuid);
+        this.name = SQLApi.getName(uuid, name);
     }
 
     @Override
