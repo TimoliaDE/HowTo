@@ -11,7 +11,7 @@ import java.util.stream.Stream;
 
 public class Teamler {
 
-    private     String name;
+    private String name;
     private final UUID uuid;
     private final Sex sex;
     private List<String> responsibilitiesMain;
