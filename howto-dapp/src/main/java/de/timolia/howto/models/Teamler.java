@@ -90,7 +90,7 @@ public class Teamler {
             String rankOldKey = TeamlerRankChange.toString(dates.get(Math.max(i - 1, 0)));
             if (!rankHistory.containsKey(rankOldKey) && rankHistory.containsKey("hidden-" + rankOldKey)) {
                 rankOldKey = "hidden-" + rankOldKey;
-                hidden = true;
+                //hidden = true;
             }
             Rank rank_old = rankHistory.get(rankOldKey);
 
