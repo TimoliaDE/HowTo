@@ -80,9 +80,9 @@ public class PageResponsibilities {
                 LinkedList<Utils.KeyValuePair<String, String>> nvCustom = new LinkedList<>();
 
                 // custom stuff
-                if (name.equals("%page.responsibilities.forum.bug-reports%")) {
+                if (e.getKey().equals("%page.responsibilities.forum.bug-reports%")) {
                     nvCustom.add(new Utils.KeyValuePair<>("%page.responsibilities.custom.bug-reports.modsanddevs%", null));
-                } else if (name.equals("%page.responsibilities.sm%")) {
+                } else if (e.getKey().equals("%page.responsibilities.sm%")) {
                     titleCustom = "Projekte u. Verantwortungsgrad";
                     for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilityMain("%page.responsibilities.custom.sm.twitter%")).sorted(Teamler::compare).collect(Collectors.toList())) {
                         nvCustom.add(new Utils.KeyValuePair<>("|<span class='" + teamler.getRankCurrent().getCssClass() + "'>" + teamler.getNameForMarkdown() + "</span>", "%page.responsibilities.custom.sm.twitter.hv%"));
@@ -96,7 +96,7 @@ public class PageResponsibilities {
                     for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilitySecondary("%page.responsibilities.custom.sm.twitter-builder%")).sorted(Teamler::compare).collect(Collectors.toList())) {
                         nvCustom.add(new Utils.KeyValuePair<>("|<span class='" + teamler.getRankCurrent().getCssClass() + "'>" + teamler.getNameForMarkdown() + "</span>", "%page.responsibilities.custom.sm.twitter-builder.nv%"));
                     }
-                } else if (name.equals("%page.responsibilities.teamleader%")) {
+                } else if (e.getKey().equals("%page.responsibilities.teamleader%")) {
                     titleCustom = "%page.responsibilities.custom.teamleader.title%";
                     // |<span class='management'>Lascona</span>    | Management des gesamten Timolia-Teams |
                     // |<span class='headbuilder'>Jukplays</span>  | Management des Bau-Teams |
@@ -106,7 +106,7 @@ public class PageResponsibilities {
                     for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilityMain("Management des Bau-Teams")).sorted(Teamler::compare).collect(Collectors.toList())) {
                         hvCustom.add(new Utils.KeyValuePair<>("|<span class='" + teamler.getRankCurrent().getCssClass() + "'>" + teamler.getNameForMarkdown() + "</span>", "%page.responsibilities.custom.teamleader.builder%"));
                     }
-                } else if (name.equals("%page.responsibilities.yter%")) {
+                } else if (e.getKey().equals("%page.responsibilities.yter%")) {
                     titleCustom = "%page.responsibilities.custom.yter.title%";
                 }
 
