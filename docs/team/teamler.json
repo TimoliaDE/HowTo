@@ -1749,7 +1749,8 @@
     "sex": "male",
     "rank_history": {
       "initial": "mvp",
-      "14.10.2019": "supporter"
+      "14.10.2019": "supporter",
+      "01.01.2020": "native_mvp"
     }
   },
   {
@@ -2449,14 +2450,11 @@
     "name": "Chrissi1505",
     "uuid": "762a446c-3192-4d58-a20d-2750f2d7acec",
     "sex": "male",
-    "responsibilities_secondary": [
-      "Community-Discord",
-      "Twitter"
-    ],
     "rank_history": {
       "initial": "expert",
       "22.11.2017": "supporter_games",
-      "hidden-27.12.2020": "supporter"
+      "hidden-27.12.2020": "supporter",
+      "01.01.2021": "native_expert"
     }
   },
   {
