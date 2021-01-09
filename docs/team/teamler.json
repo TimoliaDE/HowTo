@@ -954,16 +954,10 @@
     "name": "TrueSpoki",
     "uuid": "d723842a-7dd9-4e09-ad8e-63086178e73e",
     "sex": "male",
-    "responsibilities_secondary": [
-      "Anregungen und Vorschläge Forum",
-      "Broadcasts",
-      "Entschuldigungen",
-      "Fragen und Antworten Forum",
-      "Map-Einsendungen"
-    ],
     "rank_history": {
       "initial": "pro_plus",
-      "08.03.2020": "supporter"
+      "08.03.2020": "supporter",
+      "09.01.2021": "native_mvp_plus"
     }
   },
   {
