@@ -84,16 +84,16 @@ public class PageResponsibilities {
                     nvCustom.add(new Utils.KeyValuePair<>("%page.responsibilities.custom.bug-reports.modsanddevs%", null));
                 } else if (e.getKey().equals("%page.responsibilities.sm%")) {
                     titleCustom = "Projekte u. Verantwortungsgrad";
-                    for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilityMain("%page.responsibilities.custom.sm.twitter%")).sorted(Teamler::compare).collect(Collectors.toList())) {
+                    for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilityMain("Twitter")).sorted(Teamler::compare).collect(Collectors.toList())) {
                         nvCustom.add(new Utils.KeyValuePair<>("|<span class='" + teamler.getRankCurrent().getCssClass() + "'>" + teamler.getNameForMarkdown() + "</span>", "%page.responsibilities.custom.sm.twitter.hv%"));
                     }
-                    for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilitySecondary("%page.responsibilities.custom.sm.twitter%")).sorted(Teamler::compare).collect(Collectors.toList())) {
+                    for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilitySecondary("Twitter")).sorted(Teamler::compare).collect(Collectors.toList())) {
                         nvCustom.add(new Utils.KeyValuePair<>("|<span class='" + teamler.getRankCurrent().getCssClass() + "'>" + teamler.getNameForMarkdown() + "</span>", "%page.responsibilities.custom.sm.twitter.nv%"));
                     }
-                    for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilityMain("%page.responsibilities.custom.sm.twitter-builder%")).sorted(Teamler::compare).collect(Collectors.toList())) {
+                    for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilityMain("Bauteam-Twitter")).sorted(Teamler::compare).collect(Collectors.toList())) {
                         nvCustom.add(new Utils.KeyValuePair<>("|<span class='" + teamler.getRankCurrent().getCssClass() + "'>" + teamler.getNameForMarkdown() + "</span>", "%page.responsibilities.custom.sm.twitter-builder.hv%"));
                     }
-                    for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilitySecondary("%page.responsibilities.custom.sm.twitter-builder%")).sorted(Teamler::compare).collect(Collectors.toList())) {
+                    for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilitySecondary("Bauteam-Twitter")).sorted(Teamler::compare).collect(Collectors.toList())) {
                         nvCustom.add(new Utils.KeyValuePair<>("|<span class='" + teamler.getRankCurrent().getCssClass() + "'>" + teamler.getNameForMarkdown() + "</span>", "%page.responsibilities.custom.sm.twitter-builder.nv%"));
                     }
                 } else if (e.getKey().equals("%page.responsibilities.teamleader%")) {
