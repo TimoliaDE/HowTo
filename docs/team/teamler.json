@@ -2602,5 +2602,14 @@
       "initial": "pro",
       "30.12.2020": "builder"
     }
+  },
+  {
+    "name": "KuschelPanda",
+    "uuid": "2ae24157-bca3-4c9a-b5a6-a6696b9b3cae",
+    "sex": "female",
+    "rank_history": {
+      "initial": "spieler",
+      "30.12.2020": "builder"
+    }
   }
 ]
