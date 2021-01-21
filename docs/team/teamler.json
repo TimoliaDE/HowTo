@@ -2611,5 +2611,14 @@
       "initial": "spieler",
       "30.12.2020": "builder"
     }
+  },
+  {
+    "name": "p1npa1",
+    "uuid": "2a654b51-5045-47e1-9815-7d195ae291b6",
+    "sex": "male",
+    "rank_history": {
+      "initial": "expert",
+      "17.01.2021": "builder"
+    }
   }
 ]
