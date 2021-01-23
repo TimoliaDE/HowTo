@@ -3,23 +3,22 @@
     <div class="banner-text">Castles</div>
 </div>
 
-## Der Spielverlauf
-Castles ist ein taktisches Spiel, in dem du allein oder gemeinsam mit deinen Teamkameraden die Flagge deiner Gegner erobern musst. Jedes Team besteht aus maximal 4 Spielern und beginnt das Spiel
-in seiner eigenen Burg.
+## The basic idea
+Castles is a tactical game in which your objective is to conquer the flags of your enemies. Depending on the gamemode, teams can consist of a maximum of one to four player who start the game in their own castle before proceeding to sprint or ride into the battleground, which consists of small floating islands connected by rickety bridges!
 
-## Und so gehts
-- Stimme mit `/vote <Map>` oder einem Klick im Chat für die Map deiner Wahl.
-- Ziel des Spiels ist es, die Flagge aus der gegnerischen Burg zu entwenden, zurück in die eigene Basis zu bringen und dann alle gegnerischen Spieler zu töten.
-- Mit dem Gold, das du in der Enderchest in deiner Basis und in Kisten auf den anderen Inseln finden kannst, kannst du Strukturen bauen oder Items kaufen.
-- In den verschiedenen Shops findest du viele nützliche Items, die es dir ermöglichen, die gegnerische Basis taktisch oder schnellstmöglich anzugreifen.
-- Solange dein Team über eine Flagge in der eigenen Base verfügt, kannst du beliebig oft respawnen. 
-- Sollten alle Flaggen von den Gegnern erobert worden sein, können sich diese nicht wiederbeleben, es sei denn, deren Teammate kann eine Flagge zurückgewinnen.
-- Sollte das Spiel lange andauern, weil ein Team sich verbarrikadiert hat, kann durch die Flaggenmacht, also das Besitzen des Großteiles der Flaggen über einen längeren Zeitraum - der Gewinner ermittelt werden. 
-- Das Spiel endet, sobald alle gegnerischen Spieler endgültig gestorben sind.
+## How to play
+- Use `/vote <Map>` or the options displayed in the chat to vote for your preferred map. 
+- The objective of the game is to steal your enemies flags, bring them back into your own base and kill all the enemies afterwards.
+- The enderchest in your base and the chests on the small islands all around your base provide you with gold to upgrade your castle, your shops and bridges.
+- Different shops provide you with different gear to defeat your enemies.
+- As long as a flag stands within your castle your team can always respawn. 
+- Should your opponents manage to steal your flag you will no longer respawn. If you die, you can only be respawned when an ally steals a flag from them and brings it back into your base.
+- If a team owns the majority of flags a timer starts counting down until the team wins through their flag power. 
+- The game ends when all enemies are dead and can't respawn anymore.
 
-## Die Ränge in Castles
+## The Ranks in Castles
 
-| Rang | Punkte | Name |
+| Rank | Points | Name |
 | ------ | ------ | ------ |
 | 1 | 8 | Stalljunge |
 | 2 | 16 | Totengräber |
@@ -36,30 +35,30 @@ in seiner eigenen Burg.
 | 13 | 32768 | ??? |
 | 14 | 65536 | ??? |
 
-Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren, werden namentlich nur die ersten Ränge genannt.
+Ranks need to be reached by at least one player to be displayed here. Until then, they stay hidden.
 
-## Punkteverteilung in Castles
-- Wenn man die Runde verlässt, bevor das Team ausgeschieden ist, bekommt man keine Punkte.
-- Die Kills werden am Ende verdoppelt (Kills * 2).
-- Die Flaggeneroberungen werden am Ende verachtfacht (Eroberungen * 8).
-- Wenn man im Gewinnerteam ist, werden die Punkte am Ende verdoppelt. (*2)
-- Wenn man am meisten Kills hat, erhält man +15 Punkte.
-- Wenn man am zweitmeisten Kills hat, erhält man +10 Punkte.
-- Wenn man am drittmeisten Kills hat, erhält man +5 Punkte.
-- Wenn man mehr als 60% des aufgesammelten Goldes in Strukturen investiert hat, erhält man +12 Punkte.
-- Am Ende wird diese Formel angewandt: 3,5 * &radic;((7 * Gesamtpunkte) / 3)
+## Distribution of points in Castles
+- Players who leave the game before their team was eliminated receive no points.
+- Each kill counts as two points (kills * 2).
+- The conquering of a flag counts as eight points. (Conquests * 8).
+- Winning the game doubles your points. (*2)
+- Having the most kills of the game gives you +15 points.
+- Having the second most kills of the game gives you +10 points.
+- Having the third most kills of the game gives you +5 points.
+- Redistributin 60% of the collected gold into structures gives you +12 points.
+- At the end, the final points are calculated with this formula: 3,5 * &radic;((7 * total points) / 3)
 
 ## Premium-Features
-- Premium-Spieler besitzen je nach Rang bis zu vier Stimmen im Voting-System.
-- Zum Mapvoting kann jederzeit die Lieblingsmap hinzugefügt werden.
-- Premium-Spieler erhalten bis zu drei mal mehr Pixel.
-- Premium-Spieler können in der Voting-Phase Spieler aus einem vollen Team kicken.
-- Werde mit `/togglerank` als normaler Spieler angezeigt.
+- Map votes of players with a premium rank count more.
+- Favorite maps can be added to the map voting at any time.
+- With a premium rank players receive up to three times the normal amount of pixels.
+- Before the game starts, any team can be joined even if its already full.
+- Use `/togglerank` to go undercover and look like a normal user.
 
-Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium/) nachlesen.
+Detailed infos about our ranks and their benefits are listed [here](/ranks/premium/).
 
-## Die Befehle
-| Befehl | Funktion |
+## The commands
+| Command | Usage |
 | ------ | -------- |
-| `/jointeam <Teamfarbe>`, `/team` | Betritt ein Team |
-| `/kill`                         | Tötet dich selbst |
+| `/jointeam <teamcolor>`, `/team` | Joins a team |
+| `/kill`                         | Kills yourself |
