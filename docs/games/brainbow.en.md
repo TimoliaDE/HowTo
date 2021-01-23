@@ -16,7 +16,7 @@ BrainBow is a teamgame where aim and fast reactions are of the essence. The last
 - Up to four teams compete in a game.
 - Every team starts the game in their own base.
 - The whole floor of the map is filled with special blocks. Stand on them while shooting to use their special effects!
-- Redstone Blocks will change your arrow into a tnt. Shoot it in the colored score fields over your enemies' bases.
+- Redstone blocks will change your arrow into a tnt. Shoot it into the colored score fields above your enemies' bases.
 - If a tnt explodes in your own score field your team loses a heart. If your team lands a tnt in the enemies' fields you gain half a heart.
 - Having no hearts left means not being able to respawn anymore. If all players are then eliminated, the team is eliminated as a whole.
 - The last team standing wins and gains the most points and pixels.
@@ -61,5 +61,5 @@ Ranks need to be reached by at least one player to be displayed here. Until then
 Detailed infos about our ranks and their benefits are listed [here](/ranks/premium/).
 
 ## Maps 
-If you like DNA and wanna get creative you can show us your own DNA map by creating a new <a href="https://forum.timolia.de/forums/map-einsendungen.61/" target="_blank">post in our forums</a> about it. With a bit of skill and luck we might add your map to the offical map pool! You can get more information about it at  
+If you like BrainBow and wanna get creative you can show us your own BrainBow map by creating a new <a href="https://forum.timolia.de/forums/map-einsendungen.61/" target="_blank">post in our forums</a> about it. With a bit of skill and luck we might add your map to the offical map pool! You can get more information about it at  
 <a href="https://forum.timolia.de/threads/wie-sende-ich-eine-map-ein.21267/" target="_blank">our guide</a>.
