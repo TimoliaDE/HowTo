@@ -3,28 +3,28 @@
     <div class="banner-text">InTime</div>
 </div>
 
-## Das Spielprinzip
-"Zeit ist Geld" - dieses Sprichwort beschreibt InTime mehr als alles andere. Waffen, Rüstung, Nahrung, Potions und spezielle Items kosten Zeit, Lebenszeit.
-Wenn deine eigene Zeit abgelaufen ist, stirbst du, deshalb ist es wichtig, mit der eigenen Zeit achtsam umzugehen.
+## The basic idea
+Time is money and you don't have enough of it! Everything here costs time - weapons, armor, f, potions, everything.
+If your time runs out you die, so you should better get that time management going!
 
-## Und so gehts
-- Alle Spieler erhalten zu Beginn des Spiels ihre Lebenszeit, diese läuft bei Aktivierung des Time-Keepers ab.
-- In der Mapmitte und auf der Welt verteilt spawnen Villager, die unterschiedlichste Items handeln, die Art der Items kann man über den Köpfen der Villager erkennen.
-- Am Spawn werden nach einiger Zeit neue Villager gespawnt, diese handeln neue Items.
-- Sobald deine Zeit abgelaufen ist, stirbst du, doch natürlich ist es auch möglich, Zeit hinzuzubekommen.
-- Schlägst du einen Gegner mit der Uhr, ziehst du ihm kostbare Lebenszeit ab und transferierst diese auf dich selbst.
-- Nach einiger Zeit erhält man in der Mitte der Map Lebenszeit, sofern man sich dort alleine aufhält.
-- Stirbt ein Spieler, wird die Restzeit, die der Spieler noch besaß, gleichmäßig auf alle verbleibenden Kämpfer verteilt.
+## How to play
+- All players recieve a certain amount of time at the start of the game. The clock starts running down as soon as the Timekeeper is called.
+- All over the map villagers offer you trade deals for your precious time.
+- In the middle of the map the villagers are replaced after a while to offer new items.
+- Once you've run out of time you die, but you have plenty of options to gain some time back!
+- Hitting another player with a clock steals some of their time and adds it to your lifetime.
+- After a few minutes the middle starts sparkling - it now fills your time up again as long as you're the only one standing there!
+- When a player dies their remaining time is redistributed evenly between all remaining players.
 
-## Spezielle Items
-- **Zeitspeicher**: Wenn man einen Zeitspeicher rechtsklickt, bekommt man zwischen 90 und 190 Prozent des Kaufpreises an Zeit wieder zurück.
-- **Timekeeper**: Wenn man einen Timekeeper rechtsklickt, wird die Schutzphase beendet.
-- **Uhr**: Wenn man einen Gegner mit der Uhr schlägt, klaut man diesem seine Lebenszeit. Bei einem normalen Schlag werden zehn, bei einem Critical Hit fünfzehn Sekunden übertragen.
-- **Kompass**: Der Kompass führt dich zu deinem nächsten Gegner.
+## Special items
+- **Timesafe**: Rightclicking a timesafe refunds you between 90 and 190 percent of the time you spent on it!
+- **Timekeeper**: Buying and klicking a timekeeper ends the grace period.
+- **Clock**: Hitting another player with a clock steals some of their time and adds it to your lifetime. A normal hit steals 10, a critical hit 15 seconds.
+- **Compass**: Always points to your next enemy.
 
-## Die Ränge in InTime
+## The Ranks in DNA
 
-| Rang | Punkte | Name |
+| Rank | Points | Name |
 | ------ | ------ | ------ |
 | 1 | 64 | Zeitverschwender |
 | 2 | 128 | Trödler |
@@ -36,11 +36,13 @@ Wenn deine eigene Zeit abgelaufen ist, stirbst du, deshalb ist es wichtig, mit d
 | 8 | 8129 | ??? |
 | 9 | 16348 | ??? |
 
-Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren, werden namentlich nur die ersten Ränge genannt.
+Ranks need to be reached by at least one player to be displayed here. Until then, they stay hidden. Names are only shown for the lower levels.
 
 ## Premium-Features
-- Premium-Spieler besitzen je nach Rang bis zu vier Stimmen im Voting-System.
-- Premium-Spieler erhalten bis zu drei mal mehr Pixel.
-- Werde mit `/togglerank` als normaler Spieler angezeigt.
 
-Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium/) nachlesen.
+- Map votes of players with a premium rank count more.
+- Favorite maps can be added to the map voting at any time.
+- With a premium rank players receive up to three times the normal amount of pixels.
+- Use `/togglerank` to go undercover and look like a normal user.
+
+Detailed infos about our ranks and their benefits are listed [here](/ranks/premium/).
