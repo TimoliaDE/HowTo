@@ -4,7 +4,7 @@
 </div>
 
 ## The basic idea
-You are good at jump 'n' runs and want to prove yourself? Welcome then! At DNA your goal is to reach the height of 32 faster than anyone else. But that might be harder than it sounds...
+You are good at Jump 'n' Runs and want to prove yourself? Welcome then! At DNA your goal is to reach the height of 32 faster than anyone else. But that might be harder than it sounds...
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0xjnQXqb7-A" frameborder="0" allowfullscreen></iframe>
 
@@ -12,7 +12,7 @@ You are good at jump 'n' runs and want to prove yourself? Welcome then! At DNA y
 
 ## How to play
 - Use `/vote <Map>` or the options displayed in the chat to vote for your preferred map. 
-- At the start of the game you are assigned a color. You can recognize your own jump 'n' run by it and only use blocks of this color to climb higher.
+- At the start of the game you are assigned a color. You can recognize your own Jump 'n' Run by it and only use blocks of this color to climb higher.
 - Soon, the first blocks spawn. After you hopped from one block to the next, the first block disappears and there is only one way to continue: forward.
 - Use right click on the block you're currently standing on to set a checkpoint.
 - Each checkpoint slows the time until the next block spawn for you.
