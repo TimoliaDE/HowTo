@@ -3,32 +3,31 @@
     <div class="banner-text">DNA</div>
 </div>
 
-## Das Spielprinzip
-Du bist gut in Jump and Runs und möchtest deine Fähigkeiten unter Beweis stellen? Dann ist DNA genau das Richtige für dich! Ziel ist es, als erster Spieler die obere
-Grenze von 32 Blöcken zu erreichen.
+## The basic idea
+You are good at jump 'n' runs and want to prove yourself? Welcome then! At DNA your goal is to reach the height of 32 faster than anyone else. But that might be harder than it sounds...
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0xjnQXqb7-A" frameborder="0" allowfullscreen></iframe>
 
 <p></p>
 
-## Und so gehts
-- Stimme mit `/vote <Map>` oder einem Klick im Chat für die Map deiner Wahl.
-- Zu Beginn des Spiels bekommt jeder eine Farbe zugewiesen, diese zeigt die Farbe deines Jump and Runs an.
-- Nach ein paar Sekunden spawnen die ersten Blöcke, bei jedem Erklimmen eines Blocks wird ein weiterer gespawnt und der vorherige entfernt.
-- Mit Rechtsklick auf einen Block wird ein Checkpoint gesetzt.
-- Je mehr Checkpoints gesetzt sind, desto länger dauert es, bis der nächste Block erscheint.
-- Blöcke, die die Farbe wechseln, sind Special Blocks. Mit diesen können besondere Items oder Effekte ergattert werden.
+## How to play
+- Use `/vote <Map>` or the options displayed in the chat to vote for your preferred map. 
+- At the start of the game you are assigned a color. You can recognize your own jump 'n' run by it and only use blocks of this color to climb higher.
+- Soon, the first blocks spawn. After you hopped from one block to the next, the first block disappears and there is only one way to continue: forward.
+- Use right click on the block you're currently standing on to set a checkpoint.
+- Each checkpoint slows the time until the next block spawn for you.
+- Some blocks blink in many colors. Those are special blocks. Reach them to collect special items ideal to sabotage your competitors or gain a special advantage.
 
-## Spezielle Items und Effekte
+## Special items and effects
 
-- **Schneeball**: Schieße deine Gegner nach unten.
-- **Faules Ei**: Verursache Übelkeit bei deinem Gegner.
-- **Speed**: Springe durch den Speed-Effekt schneller und weiter.
-- **JumpBoost**: Springe durch den Jump-Boost schneller und weiter.
+- **Snowball**: Knocks your competitor off their block.
+- **Rotten egg**: Makes the target nauseated.
+- **Speed**: Jump faster and farther with the speed effect.
+- **JumpBoost**: Jump faster and farther with the jumpboost effect.
 
-## Die Ränge in DNA
+## The Ranks in DNA
 
-| Rang | Punkte | Name |
+| Rank | Points | Name |
 | ------ | ------ | ------ |
 | 1 | 64 | Tastenklopper |
 | 2 | 128 | Hindernis |
@@ -41,17 +40,17 @@ Grenze von 32 Blöcken zu erreichen.
 | 9 | 16348 | ??? |
 | 10 | 32768 | ??? |
 
-Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren, werden namentlich nur die ersten Ränge genannt.
+Ranks need to be reached by at least one player to be displayed here. Until then, they stay hidden. Names are only shown for the lower levels.
 
 ## Premium-Features
 
-- Premium-Spieler besitzen je nach Rang bis zu vier Stimmen im Voting-System.
-- Zum Mapvoting kann jederzeit die Lieblingsmap hinzugefügt werden.
-- Premium-Spieler erhalten bis zu drei mal mehr Pixel.
-- Werde mit `/togglerank` als normaler Spieler angezeigt.
+- Map votes of players with a premium rank count more.
+- Favorite maps can be added to the map voting at any time.
+- With a premium rank players receive up to three times the normal amount of pixels.
+- Use `/togglerank` to go undercover and look like a normal user.
 
-Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium/) nachlesen.
+Detailed infos about our ranks and their benefits are listed [here](/ranks/premium/).
 
-## Arenen und Maps
-Selbstgebaute Maps für diesen Modus können <a href="https://forum.timolia.de/forums/map-einsendungen.61/" target="_blank">im Forum eingesendet werden</a>. Mehr dazu erfährst du 
-<a href="https://forum.timolia.de/threads/wie-sende-ich-eine-map-ein.21267/" target="_blank">in unserer Anleitung</a>.
+## Maps 
+If you like DNA and wanna get creative you can show us your own DNA map by creating a new <a href="https://forum.timolia.de/forums/map-einsendungen.61/" target="_blank">post in our forums</a> about it. With a bit of skill and luck we might add your map to the offical map pool! You can get more information about it at  
+<a href="https://forum.timolia.de/threads/wie-sende-ich-eine-map-ein.21267/" target="_blank">our guide</a>.
