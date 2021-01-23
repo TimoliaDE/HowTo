@@ -3,39 +3,38 @@
     <div class="banner-text">BrainBow</div>
 </div>
 
-## Das Spielprinzip
+## The basic idea
 
-In BrainBow kannst du gemeinsam mit deinen Teamkollegen deine Fähigkeiten im Bogenschießen unter Beweis stellen. Das Team mit den letzten Überlebenden gewinnt die
-Runde und kann den Kampf für sich entscheiden.
+BrainBow is a teamgame where aim and fast reactions are of the essence. The last team standing wins the game.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EPi7lAyV3R8" frameborder="0" allowfullscreen></iframe>
 
 <p></p>
 
-## Und so gehts
-- Stimme mit `/vote <Map>` oder einem Klick im Chat für die Map deiner Wahl.
-- Bis zu vier Teams kämpfen in der Arena gegeneinander.
-- Zu Beginn des Spiels werden alle Teams in ihre Basis teleportiert, von denen aus das Spiel begonnen wird.
-- Auf dem Boden befinden sich unterschiedliche Blöcke. Stellst du dich auf einen der Spezialblöcke, kannst du dessen Fähigkeit nutzen.
-- Durch Redstone-Blöcke wird TNT verschossen, dieses muss in die Scorefelder der Gegnerteams geschossen werden.
-- Ein Treffer des Gegnerteams zieht deinem Team ein Herz ab, ein Treffer deines Teams addiert ein halbes Herz dazu.
-- Hat ein Team keine Herzen mehr, können die Spieler des Teams nicht mehr respawnen. Wurde der letzte Spieler getötet, ist das Team ausgeschieden.
-- Das zuletzt lebende Team gewinnt den Kampf und bekommt die meisten Punkte.
-- Mit 1000 ergatterten Punkten kann der BrainBow-Bogen in der Lobby freigeschalten werden.
+## How to play
+- Use `/vote <Map>` or the options displayed in the chat to vote for your preferred map. 
+- Up to four teams compete in a game.
+- Every team starts the game in their own base.
+- The whole floor of the map is filled with special blocks. Stand on them while shooting to use their special effects!
+- Redstone Blocks will change your arrow into a tnt. Shoot it in the colored score fields over your enemies' bases.
+- If a tnt explodes in your own score field your team loses a heart. If your team lands a tnt in the enemies' fields you gain half a heart.
+- Having no hearts left means not being able to respawn anymore. If all players are then eliminated, the team is eliminated as a whole.
+- The last team standing wins and gains the most points and pixels.
+- Reaching 1000 points in BrainBow unlocks a special trophy in the pixelshop: The BrainBow.
 
-## Die Blöcke
+## The Blocks
 
-| Block | Bezeichnung | Funktion |
+| Block | Name | Usage |
 | ------ | ------ | ------ |
-| <span style="color:#CF0101">Redstone</span> | TNT-Block | Muss in die gegnerischen Scorefelder geschossen werden. |
-| <strong>Kohle</strong>| Bombe | Gegner töten, TNT oder TNT-Blöcke zerstören und sich selbst nach oben boosten. |
-| <span style="color:#0000FF">Lapislazuli</span> | Enderperle | Hilft zur schnellen Fortbewegung auf der Map. |
-| <span style="color:#64FE2E">Smaragd</span> | Gitftrank | Vergiftet Spieler in einem gewissen Umkreis. Den Effekt wird man erst in der eigenen Base wieder los. |
-| <span style="color:#D8D8D8">Quartz</span> | Schneefeld | Spieler in einem gewissen Umkreis „einfrieren”. |
+| <span style="color:#CF0101">Redstone</span> | TNT-Block | Can explode in the score fields to destroy hearts. |
+| <strong>Coal</strong>| Bomb | Kills enemies, can destroy redstone blocks or alreary shot TNTs or be used to boost yourself. |
+| <span style="color:#0000FF">Lapis Lazuli</span> | Enderpearl | The quickest way of getting around the map. |
+| <span style="color:#64FE2E">Smaragd</span> | Poison | Poisons players in a certain radius. Can be cleared by returning to your own base. |
+| <span style="color:#D8D8D8">Quartz</span> | Snow field | Players in the snow freeze and get slowed. |
 
-## Die Ränge in BrainBow
+## The Ranks in Castles
 
-| Rang | Punkte | Name |
+| Rank | Points | Name |
 | ------ | ------ | ------ |
 | 1 | 64 | Bob |
 | 2 | 128 | Keine Gefahr |
@@ -49,17 +48,18 @@ Runde und kann den Kampf für sich entscheiden.
 | 10 | 32768 | ??? |
 | 11 | 65536 | ??? |
 
-Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren, werden namentlich nur die ersten Ränge genannt.
+Ranks need to be reached by at least one player to be displayed here. Until then, they stay hidden. Names are only shown for the lower levels.
 
 ## Premium-Features
-- Premium-Spieler besitzen je nach Rang bis zu vier Stimmen im Voting-System.
-- Zum Mapvoting kann jederzeit die Lieblingsmap hinzugefügt werden.
-- Premium-Spieler erhalten bis zu drei mal mehr Pixel.
-- Premium-Spieler können in der Voting-Phase Spieler aus einem vollen Team kicken.
-- Werde mit `/togglerank` als normaler Spieler angezeigt.
+- Map votes of players with a premium rank count more.
+- Favorite maps can be added to the map voting at any time.
+- With a premium rank players receive up to three times the normal amount of pixels.
+- Before the game starts, any team can be joined even if its already full.
+- Use `/togglerank` to go undercover and look like a normal user.
 
-Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium/) nachlesen.
 
-## Arenen und Maps
-Selbstgebaute Maps für diesen Modus können <a href="https://forum.timolia.de/forums/map-einsendungen.61/" target="_blank">im Forum eingesendet werden</a>. Mehr dazu erfährst du 
-<a href="https://forum.timolia.de/threads/wie-sende-ich-eine-map-ein.21267/" target="_blank">in unserer Anleitung</a>.
+Detailed infos about our ranks and their benefits are listed [here](/ranks/premium/).
+
+## Maps 
+If you like DNA and wanna get creative you can show us your own DNA map by creating a new <a href="https://forum.timolia.de/forums/map-einsendungen.61/" target="_blank">post in our forums</a> about it. With a bit of skill and luck we might add your map to the offical map pool! You can get more information about it at  
+<a href="https://forum.timolia.de/threads/wie-sende-ich-eine-map-ein.21267/" target="_blank">our guide</a>.
