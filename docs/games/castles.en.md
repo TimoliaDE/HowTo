@@ -35,7 +35,7 @@ Castles is a tactical game in which your objective is to conquer the flags of yo
 | 13 | 32768 | ??? |
 | 14 | 65536 | ??? |
 
-Ranks need to be reached by at least one player to be displayed here. Until then, they stay hidden.
+Ranks need to be reached by at least one player to be displayed here. Until then, they stay hidden. Names are only shown for the lower levels.
 
 ## Distribution of points in Castles
 - Players who leave the game before their team was eliminated receive no points.
