@@ -2621,5 +2621,23 @@
       "initial": "expert",
       "17.01.2021": "builder"
     }
+  },
+  {
+    "name": "ALetsPlay",
+    "uuid": "036e5dee-05ba-409c-905c-314ac6cbc95b",
+    "sex": "male",
+    "rank_history": {
+      "initial": "expert",
+      "30.01.2021": "supporter"
+    }
+  },
+  {
+    "name": "ImBennni",
+    "uuid": "8c79495f-44a2-4b48-903e-8a5b53fcf67b",
+    "sex": "male",
+    "rank_history": {
+      "initial": "mvp",
+      "30.01.2021": "supporter"
+    }
   }
 ]
