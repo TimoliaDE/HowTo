@@ -32,15 +32,11 @@ Since the <b>Supporter+</b> rank represents a promotion for very experienced sup
 
 
 ### Builder
-Players have the opportunity to present their skills to us at the BauWelt which was created specially for this occasion.
-To become a Builder, you have to successfully build 2 plots and complete the subsequent interview positively.
-Please note that you must also be at least 14 years old to join the Timolia team.
-The plots will be evaluated by the builders; if a plot does not meet our criteria, you will have another chance to build a plot after a two-week break.
-If your first plot convinces us, you will also have the opportunity to use WorldEdit on the second plot which is also larger.
-As with supporters, new builders must go through a trial period before they become a permanent part of the team.
+Are you familiar with Building, Modeling, MC Bedrock Scripting and/or Texture Design and do you want to contribute to these areas and further improve yourself?
+At Timolia Creative you have the opportunity to work on exciting projects that can go far beyond the usual building.
 
-Usually, you cannot apply though map submissions. In exceptional cases, however, the builder team may approach 
-people who have sent in a greater number of highly outstanding maps.
+Are you interested? Apply anytime with a compelling portfolio by email to <a href="mailto:apply@timoliacreative.de">apply@timoliacreative.de</a>.
+Please note that you must be at least 16 years old to join the Timolia Creative team.
 
 The <b>HeadBuilders</b> form the management of the builder team on Timolia. Since they are team members with many years of experience and very good knowledge of Timolia's team structures, an application for this rank is not possible.
 

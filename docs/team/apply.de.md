@@ -33,13 +33,11 @@ Da der <b>Supporter+</b> Rang eine Beförderung für besonders erfahrene Support
 
 
 ### Builder
-Spieler haben die Möglichkeit, uns ihre Fähigkeiten auf der eigens dafür eingerichteten BauWelt zu präsentieren.
-Um Builder werden zu können, musst du 2 Plots erfolgreich bebauen und das anschließende Bewerbungsgespräch positiv abschließen. Bitte beachte, dass du außerdem mindestens 14 Jahre alt sein musst, um in das Timolia-Team aufgenommen werden zu können. Die Plots werden von den Buildern bewertet; entspricht ein Plot nicht unseren Kriterien, hast du nach einer zweiwöchigen Pause erneut die Chance, einen Plot zu bebauen.
-Überzeugt uns dein erster Plot, hast du auf dem zweiten, größeren Plot außerdem die Möglichkeit, WorldEdit zu nutzen.
-Ähnlich wie bei Supportern müssen auch neue Builder eine Probephase durchlaufen, bevor sie endgültig ein fester Bestandteil des Teams werden.
+Du kennst dich in den Bereichen Building, Modeling, MC Bedrock Scripting und/oder Texture Design aus und hast Lust, dich in diesen Bereichen bei uns einzubringen und dich selbst weiterzuentwickeln?
+Bei Timolia Creative hast du die Möglichkeit, an spannenden Projekten mitzuwirken, die weit über das Übliche Building hinaus gehen können.
 
-Durch Map-Einsendungen kann man sich im Regelfall nicht bewerben. In Ausnahmefällen kann es jedoch vorkommen, dass das Bauteam gezielt
-auf Personen zu kommt, die vermehrt besonders herausragende Maps eingesendet haben.
+Dein Interesse wurde geweckt? Bewirb dich jederzeit mit einem aussagekräftigen Portfolio per Mail an <a href="mailto:bewerbung@timoliacreative.de">bewerbung@timoliacreative.de</a>.
+Bitte beachte, dass du mindestens 16 Jahre alt sein musst, um in das Timolia Creative-Team aufgenommen werden zu können.
 
 Die <b>HeadBuilder</b> bilden die Bauteamleitung Timolias. Da es sich um Teamler mit langjähriger Erfahrung und sehr guter Kenntnis über Timolias teaminterne Strukturen handelt, ist eine Bewerbung für diesen Rang nicht möglich.
 
