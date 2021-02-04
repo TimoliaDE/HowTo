@@ -39,22 +39,22 @@ SurvivalQuest verfügt über eine Vielzahl an verschiedenen Modi und Einstellung
 
 | Spielvariante | Beschreibung |
 | -------- | ------------ |
-| All4One     | In dieser Variante spielen alle Spieler gemeinsam an einem Questbuch. Das heißt jede Aufgabe muss nur einmal geschafft werden. Arbeitet zusammen um die Runde zu schaffen! Oder anders ausgedrückt: Jede Aufgabe kann nur einmal erfüllt werden. Seid ihr schnell und strategisch, könnt ihr die Aufgaben vor euren Mitspielern schaffen und euch die meisten Punkte sichern! ;) |
-| QuickSQ     | Das klassische “Bingo”. Hier gewinnt der Spieler, der zuerst eine Reihe (Horizontal, Vertikal, Diagonal) vervollständigt. Die einfachste und effektivste Reihe garantiert dir einen schnellen Sieg! |
-| Kleines Questbuch     | Das kleine Questbuch beinhaltet statt 25 Tasks nur 9 Tasks. So habt ihr mehr Zeit für die einzelnen Aufgaben. Diese Runden eignen sich perfekt für Beginner, Kurzentschlossene oder Challenges. |
-| Randomizer     | Ihr kennt Minecraft in und auswendig und habt Lust auf was neues? Dann ist dieser Modus sicher etwas für euch. Der Randomizer mischt in jeder Runde die Loot-tables neu. Das heißt Blockdrops, Mobdrops und Fishingdrops sind jede Runde komplett zufällig. Wenn ihr Glück habt findet ihr vielleicht sogar die Drops einer Lootkiste. |
+| All4One           | In dieser Variante spielen alle Spieler gemeinsam an einem Questbuch. Das heißt jede Aufgabe muss nur einmal geschafft werden. Arbeitet zusammen um die Runde zu schaffen! Oder anders ausgedrückt: Jede Aufgabe kann nur einmal erfüllt werden. Seid ihr schnell und strategisch, könnt ihr die Aufgaben vor euren Mitspielern schaffen und euch die meisten Punkte sichern! ;) |
+| QuickSQ           | Das klassische “Bingo”. Hier gewinnt der Spieler, der zuerst eine Reihe (Horizontal, Vertikal, Diagonal) vervollständigt. Die einfachste und effektivste Reihe garantiert dir einen schnellen Sieg! |
+| Kleines Questbuch | Das kleine Questbuch beinhaltet statt 25 Tasks nur 9 Tasks. So habt ihr mehr Zeit für die einzelnen Aufgaben. Diese Runden eignen sich perfekt für Beginner, Kurzentschlossene oder Challenges. |
+| Randomizer        | Ihr kennt Minecraft in und auswendig und habt Lust auf was neues? Dann ist dieser Modus sicher etwas für euch. Der Randomizer mischt in jeder Runde die Loot-tables neu. Das heißt Blockdrops, Mobdrops und Fishingdrops sind jede Runde komplett zufällig. Wenn ihr Glück habt findet ihr vielleicht sogar die Drops einer Lootkiste. |
 
 ## Handicaps
 Für die besondere Herausforderung. Handicaps werden in bestimmten Challenges aktiviert - oder stell dir in deinem Userserver deine eigene Challenge zusammen.
 
 | Handicap | Beschreibung |
 | -------- | ------------ |
-| Maximale Herzen     | Die maximalen Herzen der Spieler (10 Herzen bis 1 Herz) |
-| Schlaflos     | Diese Einstellung deaktiviert den Tag/Nacht-Wechsel. Unendliche Mitternacht.. (mit all seinen Bewohnern) |
-| Uhc Modus     | Mit dieser Option werden Herzen nicht durch Essen regeneriert |
-| Kein KeepInventory     | Diese Einstellung deaktiviert den Itemkeeper |
-| Kein Weltenkompass     | Ist diese Option aktiv, haben alle Spieler denselben Spawnpunkt und der Kompass kann nur einmal zum Spielstart benutzt werden |
-| Mehr Vanilla     | Ist diese Option aktiv, ist die Mobile Werkbank, der Enderofen und die Enderkiste im Questbuch deaktiviert. Werkzeuge werden beim Craften nicht mehr automatisch verzaubert und auch das automatische Schmelzen von Erzen ist deaktiviert |
+| Maximale Herzen    | Die maximalen Herzen der Spieler (10 Herzen bis 1 Herz) |
+| Schlaflos          | Diese Einstellung deaktiviert den Tag/Nacht-Wechsel. Unendliche Mitternacht.. (mit all seinen Bewohnern) |
+| Uhc Modus          | Mit dieser Option werden Herzen nicht durch Essen regeneriert |
+| Kein KeepInventory | Diese Einstellung deaktiviert den Itemkeeper |
+| Kein Weltenkompass | Ist diese Option aktiv, haben alle Spieler denselben Spawnpunkt und der Kompass kann nur einmal zum Spielstart benutzt werden |
+| Mehr Vanilla       | Ist diese Option aktiv, ist die Mobile Werkbank, der Enderofen und die Enderkiste im Questbuch deaktiviert. Werkzeuge werden beim Craften nicht mehr automatisch verzaubert und auch das automatische Schmelzen von Erzen ist deaktiviert |
 
 ## Events & Challenges
 In SurvivalQuest starten regelmäßig besondere Events und Challenges. Eine Übersicht über die aktuellen Events findet ihr immer direkt in der SurvivalQuest-Lobby.
