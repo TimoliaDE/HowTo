@@ -17,6 +17,7 @@ Besiegt die anderen Spieler der Runde oder sichert euch euren Platz im (Monats-)
 
 ## Das Questbuch
 Dein Questbuch kann dir nicht nur die aktuellen Aufgaben anzeigen. Damit du dich voll und ganz auf die Aufgaben konzentrieren kannst, enhält es noch weitere nützliche Funktionen:
+
 - **Weltenkompass**: Wähle alle 10 Minuten einen neuen Spawnpunkt und teleportiere dich dorthin.
 - **Mobile Werkbank**: Eingebautes 3x3 Craftingfeld & Rezeptbuch - für den spontanen Hobby-Crafter.
 - **Ender Ofen**: Keine Lust auf gekochtes Fleisch zu warten? Gut, wir auch nicht. Brate dein Essen doch einfach unterwegs!
@@ -28,6 +29,7 @@ Bevor das Spiel beginnt, kann man in der Lobby durch kleine Aufgaben einen Spons
 
 ## Punkteberechnung & Highscorelisten
 Du möchtest den Highscore? Oder einfach nur die aktuelle Runde gegen deine Freunde gewinnen? Dann bist du hier richtig!
+
 - Du erhältst Punkte für das Erfüllen von Aufhaben aus dem Questbuch.
 - Schwerere Aufgaben geben mehr Punkte als leichtere, zudem bekommst du einen Zeitbonus, je früher du eine Aufgabe erfüllst.
 - Die Schwierigkeit der aktuellen Runde kann man bereits in der Lobby im Questbuch sehen. (Rot = Schwer, Blau = Mittel, Grün = Leicht)
