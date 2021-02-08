@@ -1840,7 +1840,9 @@
     "sex": "male",
     "rank_history": {
       "initial": "expert",
-      "16.04.2020": "builder"
+      "16.04.2020": "builder",
+      "18.11.2020": "native_expert",
+      "03.02.2021": "builder"
     }
   },
   {
