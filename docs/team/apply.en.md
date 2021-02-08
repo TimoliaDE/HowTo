@@ -51,12 +51,6 @@ creativity; language skills; knowledge of the design and the creative structure 
 Please note that you must be at least 14 years old to apply as a Creator.
 
 
-### UHC Spectator
-UHC spectators are players who help out in UHCs and support the players.
-In doing so, UHC spectators go through various levels with expanding areas of responsibility to prove themselves over time.
-It is currently not possible to apply for this rank.
-
-
 ### Premium ranks
 Timolia has several permanent premium ranks. You cannot apply for these. As a thank you, every player receives a rank when he donates a certain amount of money to Timolia. 
 You can find out more about premium ranks [here](/ranks/premium/).

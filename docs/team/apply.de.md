@@ -51,12 +51,6 @@ Postproduktion für den Schwerpunkt der (YouTube)Videoproduktion; Kreativität; 
 Bitte beachte, dass du mindestens 14 Jahre alt sein musst, um dich bei uns als Creator zu bewerben.
 
 
-### UHC Spectator
-UHC Spectator sind Spieler, die in UHCs aushelfen und die Spieler unterstützen. 
-Hierbei durchlaufen UHC Spectator verschiedene Stufen mit sich erweiternden Aufgabenbereichen, um sich über die Zeit zu bewähren.
-Bewerben kann man sich für diesen Rang derzeit nicht.
-
-
 ### Premium-Ränge
 Timolia hat verschiedene permanente Premium-Ränge. Für diese kann man sich nicht bewerben, als Dankeschön erhält jeder Spieler einen Rang, 
 wenn dieser einen gewissen Betrag an Timolia spendet. [Mehr dazu hier](/ranks/premium/)
