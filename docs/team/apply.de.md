@@ -26,7 +26,7 @@ per Mail an <a href="mailto:supporter@timolia.de">supporter@timolia.de</a> an un
 Unter Umständen kann dieser Prozess trotzdem über einen Monat in Anspruch nehmen.
 Bitte beachte außerdem, dass du für eine Initiativbewerbung und eine Aufnahme in das Timolia-Team mindestens 14 Jahre alt sein musst.
 
-Eine Intiativbewerbung für den Supporter Rang ist auch für Spieler:innen möglich, die sich primär auf den Modus UHC fokussieren wollen.
+Eine Initiativbewerbung für den Supporter Rang ist auch für Spieler:innen möglich, die sich primär auf den Modus UHC fokussieren wollen.
 Hierzu genügt eine normale Supporter-Bewerbung, in der neben einer kurzen Vorstellung von sich selbst auf die bisherigen Erfahrungen im Modus UHC, ob als Spieler:in oder Teamler:in anderer Netzwerke, eingegangen wird. Wir ermutigen ausdrücklich alle UHC Spieler:innen, auf diesem Wege eine Bewerbung zu wagen!
 
 Da der <b>Supporter+</b> Rang eine Beförderung für besonders erfahrene Supporter darstellt, sind keine Bewerbungen für diesen Rang möglich.
