@@ -71,6 +71,11 @@ public class PageTeamMembers {
                             .append("- <u>%page.members.nv%:</u> ").append(teamler.getResponsibilitiesSecondary().stream().sorted(String::compareToIgnoreCase).collect(Collectors.joining(", ")));
                     //.append("- <u>Nebenverantwortlich:</u> ").append(String.join(", ", teamler.getResponsibilitiesSecondary()));
                 }
+                if(teamler.getFields() != null){
+                    sb
+                            .append("\n")
+                            .append("- <u>%page.members.fields%:</u> ").append(teamler.getFields().stream().sorted(String::compareToIgnoreCase).collect(Collectors.joining(", ")));
+                }
             }
         }
 
