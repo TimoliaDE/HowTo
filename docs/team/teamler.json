@@ -264,10 +264,14 @@
     "uuid": "9c119b63-820d-4973-ab8e-90fb79c5064d",
     "sex": "male",
     "responsibilities_main": [
+      "Interne Webanwendung"
+    ],
+    "responsibilities_secondary": [
+      "Hardware"
+    ],
+    "fields": [
       "Systemadministration",
-      "Interne Webanwendung",
-      "Technische Leitung des Bauteams",
-      "Timolia-Plugins"
+      "Web Development"
     ],
     "rank_history": {
       "initial": "supporter_games",
@@ -429,6 +433,9 @@
     "name": "Quanturix",
     "uuid": "ab66f02b-5eef-44b0-a562-a259eb9cd908",
     "sex": "male",
+    "fields": [
+      "Plugin Development"
+    ],
     "rank_history": {
       "initial": "pro_plus",
       "08.12.2020": "developer"
@@ -670,11 +677,11 @@
     "sex": "male",
     "responsibilities_main": [
       "Geschäftsführung",
-      "Verwaltung"
-    ],
-    "responsibilities_secondary": [
-      "Timolia Plugins",
       "Hardware"
+    ],
+    "fields": [
+      "Verwaltung",
+      "Plugin Development"
     ],
     "rank_history": {
       "initial": "administrator",
@@ -685,6 +692,9 @@
     "name": "TimderBusfahrer",
     "uuid": "c2e29142-763d-4153-9429-43f978153314",
     "sex": "male",
+    "fields": [
+      "Plugin Development"
+    ],
     "rank_history": {
       "initial": "pro_plus",
       "17.04.2019": "developer",
@@ -922,7 +932,7 @@
     "name": "Docmac",
     "uuid": "d64144bf-9609-4b1e-b3b1-4a28772254ca",
     "sex": "male",
-    "responsibilities_main": [
+    "fields": [
       "Systemadministration"
     ],
     "rank_history": {
@@ -984,6 +994,9 @@
     "name": "YTKacperSKY",
     "uuid": "dc50fc4e-f1b6-450f-9c8d-52bc2cb86f3b",
     "sex": "male",
+    "fields": [
+      "Plugin Development"
+    ],
     "rank_history": {
       "initial": "native_mvp",
       "27.08.2018": "developer"
@@ -1232,6 +1245,9 @@
     "name": "Handis",
     "uuid": "f74092f8-acb6-4c0d-8742-77813e151b7f",
     "sex": "male",
+    "fields": [
+      "Plugin Development"
+    ],
     "rank_history": {
       "initial": "supporter_games",
       "04.01.2017": "native_mvp",
@@ -1264,6 +1280,9 @@
     "name": "_TakeItEaZy_",
     "uuid": "fa949e8c-adc8-4f89-8d0a-37f5eba3da2d",
     "sex": "male",
+    "fields": [
+      "Web Development"
+    ],
     "rank_history": {
       "initial": "supporter_games",
       "04.05.2017": "native_mvp",
@@ -1303,6 +1322,10 @@
     "name": "tr7zw",
     "uuid": "fce0323d-7f50-4317-9720-5f6b14cf78ea",
     "sex": "male",
+    "fields": [
+      "Systemadministration",
+      "Plugin Development"
+    ],
     "rank_history": {
       "initial": "developer",
       "08.11.2019": "developer_plus"
@@ -1335,11 +1358,11 @@
     "responsibilities_main": [
       "Technische Leitung",
       "Projektleitung und -verwaltung",
-      "Systemadministration",
       "DevOps"
     ],
-    "responsibilities_secondary": [
-      "Timolia-Plugins"
+    "fields": [
+      "Systemadministration",
+      "Plugin Development"
     ],
     "rank_history": {
       "initial": "administrator",
@@ -1675,7 +1698,6 @@
     "uuid": "1bec952b-bbe1-4699-9d9d-d6ceafa7f952",
     "sex": "male",
     "responsibilities_main": [
-      "Systemadministration",
       "Broadcasts",
       "DevOps",
       "Gewinnspielorganisation",
@@ -1688,6 +1710,11 @@
       "TeamSpeak",
       "Timolia Turnier Organisation",
       "Twitter"
+    ],
+    "fields": [
+      "Systemadministration",
+      "Plugin Development",
+      "Web Development"
     ],
     "rank_history": {
       "initial": "spieler",
@@ -1820,6 +1847,9 @@
     "name": "play4me_",
     "uuid": "30587a00-fed2-49ac-80ea-99ff48064d9f",
     "sex": "male",
+    "fields": [
+      "Web Development"
+    ],
     "rank_history": {
       "initial": "spieler",
       "13.07.2017": "developer",
@@ -1834,6 +1864,9 @@
     "responsibilities_secondary": [
       "Anregungen und Vorschläge Forum",
       "Fragen und Antworten Forum"
+    ],
+    "fields": [
+      "Plugin Development"
     ],
     "rank_history": {
       "initial": "spieler",
@@ -2041,8 +2074,7 @@
     "uuid": "525183d9-1a5a-40e1-a712-e3099282c341",
     "sex": "male",
     "responsibilities_main": [
-      "Anti-Cheat",
-      "Timolia-Plugins"
+      "Anti-Cheat"
     ],
     "responsibilities_secondary": [
       "Feedback Forum",
@@ -2052,6 +2084,9 @@
     "responsibilities_main_hidden": [
       "Bug melden",
       "Bugs und Spielfehler"
+    ],
+    "fields": [
+      "Plugin Development"
     ],
     "rank_history": {
       "initial": "developer",
@@ -2134,6 +2169,9 @@
     ],
     "responsibilities_secondary_hidden": [
       "Community-Discord"
+    ],
+    "fields": [
+      "Teamleitung"
     ],
     "rank_history": {
       "initial": "expert",
@@ -2312,6 +2350,9 @@
     "name": "_ELKMAN_",
     "uuid": "6624104a-2e4f-4921-a02d-ed931d47433f",
     "sex": "male",
+    "fields": [
+      "Plugin Development"
+    ],
     "rank_history": {
       "initial": "expert",
       "03.09.2018": "developer"
@@ -2331,7 +2372,11 @@
     "uuid": "6aa9c36c-89be-4b8a-bd24-9401e5085055",
     "sex": "male",
     "responsibilities_secondary": [
-      "Interne Webanwendung und Leveldesign"
+      "Interne Webanwendung",
+      "Leveldesign"
+    ],
+    "fields": [
+      "Web Development"
     ],
     "rank_history": {
       "initial": "spieler",
@@ -2419,13 +2464,17 @@
     "uuid": "73d45f07-891e-4909-b1b9-1d3ec5480eb9",
     "sex": "male",
     "responsibilities_main": [
-      "TeamSpeak",
-      "Timolia-Plugins"
+      "TeamSpeak"
     ],
     "responsibilities_secondary": [
       "Organisation und Betreuung neuer Developer",
-      "Systemadministration",
       "Verschicken von Reddit-Hundeposts"
+    ],
+    "fields": [
+      "Systemadministration",
+      "Plugin Development",
+      "Web Development",
+      "TeamSpeak"
     ],
     "rank_history": {
       "initial": "supporter_city",
@@ -2589,6 +2638,9 @@
       "SurvivalQuest",
       "Xmas Adventure"
     ],
+    "fields": [
+      "Plugin Development"
+    ],
     "rank_history": {
       "initial": "developer"
     }
@@ -2599,6 +2651,9 @@
     "sex": "male",
     "responsibilities_main": [
       "Anti-Cheat"
+    ],
+    "fields": [
+      "Plugin Development"
     ],
     "rank_history": {
       "initial": "developer"

@@ -114,7 +114,7 @@ public class Dapp { // D. Application
                 rankHistory.put(teamlerRankChange.getReadableDate(), teamlerRankChange.getRankTo());
             }
 
-            Teamler teamler = new Teamler(uuid, Sex.undefined, null, null, rankHistory);
+            Teamler teamler = new Teamler(uuid, Sex.undefined, null, null, null, rankHistory);
             teamlers.add(teamler);
         });
 
@@ -123,7 +123,7 @@ public class Dapp { // D. Application
             Teamler teamler = teamlers.stream().filter(teamler1 -> teamler1.getUuid().equals(teamlerResponsibilities.getUuid())).findFirst().orElse(null);
 
             if (teamler == null) {
-                teamler = new Teamler(teamlerResponsibilities.getUuid(), Sex.undefined, null, null, null);
+                teamler = new Teamler(teamlerResponsibilities.getUuid(), Sex.undefined, null, null, null, null);
             }
 
             System.out.println("teamler: " + teamler);

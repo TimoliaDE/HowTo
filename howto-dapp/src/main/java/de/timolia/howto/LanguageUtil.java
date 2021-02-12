@@ -72,8 +72,10 @@ public class LanguageUtil {
             add(new LanguageString(Language.EN, "and", "and"));
             add(new LanguageString(Language.DE, "page.members.first-3", " aufgeteilt."));
             add(new LanguageString(Language.EN, "page.members.first-3", "."));
-            add(new LanguageString(Language.DE, "page.members.first-4", "Nachfolgend findet ihr eine Liste aller Teammitglieder von Timolia und deren Aufgabenbereichen."));
-            add(new LanguageString(Language.EN, "page.members.first-4", "Below you will find a list of all team members of Timolia and their responsibilities."));
+            add(new LanguageString(Language.DE, "page.members.first-4", "Nachfolgend findet ihr eine Liste aller Teammitglieder von Timolia sowie deren Aufgabenbereiche und Verantwortlichkeiten. Diese Zuteilung heißt nicht, dass ausschießlich diese Teamler in diesem Bereich aktiv sind.\n" +
+                    "Die Planung und Entwicklung von neuen Modi, Updates, Events und Ähnlichem liegt ausdrücklich nicht bei einem festen Teammitglied oder einer festen Gruppe von Teammitgliedern sondern unterscheidet sich von Projekt zu Projekt oder ändert sich zum Teil im Laufe des Projekts."));
+            add(new LanguageString(Language.EN, "page.members.first-4", "Below you will find a list of all team members of Timolia and their responsibilities aswell as their fields of operation. This does not mean that these team members alone are active in that specific field.\n" +
+                    "Planning and developing new game modes, updates and events is not assigned to one specific team member or a specific group of team members. It rather differs from one project to another and may change during the course of the project."));
             add(new LanguageString(Language.DE, "page.members.first-5", "Die Ränge auf Timolia"));
             add(new LanguageString(Language.EN, "page.members.first-5", "The ranks on Timolia"));
             add(new LanguageString(Language.DE, "page.members.rank-ingame", "Rang (ingame)"));
@@ -82,6 +84,8 @@ public class LanguageUtil {
             add(new LanguageString(Language.EN, "page.members.hv", "Main responsibilities"));
             add(new LanguageString(Language.DE, "page.members.nv", "Nebenverantwortlich"));
             add(new LanguageString(Language.EN, "page.members.nv", "Secondary responsibilities"));
+            add(new LanguageString(Language.DE, "page.members.fields", "Bereiche"));
+            add(new LanguageString(Language.EN, "page.members.fields", "Fields"));
 
             add(new LanguageString(Language.DE, "page.responsibilities.forum", "Forum"));
             add(new LanguageString(Language.EN, "page.responsibilities.forum", "Forums"));

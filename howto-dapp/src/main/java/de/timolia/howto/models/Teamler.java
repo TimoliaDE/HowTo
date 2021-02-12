@@ -18,11 +18,12 @@ public class Teamler {
     private final List<String> responsibilitiesMainHidden;
     private List<String> responsibilitiesSecondary;
     private final List<String> responsibilitiesSecondaryHidden;
+    private final List<String> fields;
     private final HashMap<String, Rank> rankHistory;
     private transient List<TeamlerRankChange> rankChanges = null;
     private transient Rank rankCurrent = null;
 
-    public Teamler(UUID uuid, Sex sex, List<String> responsibilitiesMain, List<String> responsibilitiesSecondary, HashMap<String, Rank> rankHistory) {
+    public Teamler(UUID uuid, Sex sex, List<String> responsibilitiesMain, List<String> responsibilitiesSecondary, List<String> fields, HashMap<String, Rank> rankHistory) {
         this.name = SQLApi.getName(uuid);
         this.uuid = uuid;
         this.sex = sex;
@@ -30,6 +31,7 @@ public class Teamler {
         this.responsibilitiesMainHidden = null;
         this.responsibilitiesSecondary = responsibilitiesSecondary;
         this.responsibilitiesSecondaryHidden = null;
+        this.fields = fields;
         this.rankHistory = rankHistory;
     }
 
@@ -71,6 +73,10 @@ public class Teamler {
 
     public List<String> getResponsibilitiesSecondaryHidden() {
         return responsibilitiesSecondaryHidden;
+    }
+
+    public List<String> getFields() {
+        return fields;
     }
 
     public HashMap<String, Rank> getRankHistory() {
