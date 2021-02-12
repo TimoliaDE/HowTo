@@ -1501,6 +1501,9 @@
     "name": "_xlinx_",
     "uuid": "0ed6aeee-673f-4579-95ff-0ba474efd610",
     "sex": "female",
+    "responsibilities_main_hidden": [
+      "Bugs und Spielfehler"
+    ],
     "responsibilities_secondary": [
       "Broadcasts",
       "Timolia HowTo"
@@ -1774,6 +1777,9 @@
     "name": "byRoadrunner",
     "uuid": "2ae500be-80f4-4076-a6ea-b43abb431ed9",
     "sex": "male",
+    "responsibilities_main_hidden": [
+      "Bugs und Spielfehler"
+    ],
     "rank_history": {
       "initial": "mvp",
       "12.11.2019": "supporter"
