@@ -2037,14 +2037,12 @@
     "name": "_Tetzel_",
     "uuid": "4f46f87b-968d-45c5-a629-ab1821519b1b",
     "sex": "male",
-    "responsibilities_secondary": [
-      "Broadcasts"
-    ],
     "rank_history": {
       "initial": "spieler",
       "18.12.2016": "builder",
       "13.03.2018": "native_mvp",
-      "13.05.2019": "supporter"
+      "13.05.2019": "supporter",
+      "12.02.2021": "native_expert"
     }
   },
   {
