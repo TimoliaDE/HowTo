@@ -291,7 +291,8 @@
       "initial": "expert",
       "09.05.2016": "supporter_games",
       "14.12.2017": "native_expert",
-      "05.04.2020": "supporter"
+      "05.04.2020": "supporter",
+      "07.02.2021": "moderator"
     }
   },
   {
@@ -1533,7 +1534,8 @@
     ],
     "rank_history": {
       "initial": "mvp",
-      "21.04.2020": "supporter"
+      "21.04.2020": "supporter",
+      "07.02.2021": "supporter_plus"
     }
   },
   {
@@ -1546,7 +1548,8 @@
     ],
     "rank_history": {
       "initial": "spieler",
-      "21.09.2020": "supporter"
+      "21.09.2020": "supporter",
+      "07.02.2021": "supporter_plus"
     }
   },
   {
