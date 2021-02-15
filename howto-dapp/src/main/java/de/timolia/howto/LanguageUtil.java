@@ -17,7 +17,7 @@ public class LanguageUtil {
 
     private static ArrayList<LanguageString> getTranslations() {
         return new ArrayList<>() {{
-            add(new LanguageString(Language.DE, "rank.builder.description", "Das Bauteam kreiert neue Maps und Lobbys für alle Gelegenheiten und Spielmodi auf Timolia.\n" +
+            add(new LanguageString(Language.DE, "rank.builder.description", "Das Bauteam kreiert neue Maps und Lobbys für alle Gelegenheiten und Spielmodi auf Timolia. \n" +
                     "Sie betreuen die architektonische Gestaltung neuer Modi und betreuen externe Mapeinsendungen."));
             add(new LanguageString(Language.EN, "rank.builder.description", "The builder team creates new maps and lobbies for all occasions and game modes on Timolia. \n" +
                     "They supervise the architectural design of new game modes and manage external map submissions."));
@@ -25,11 +25,11 @@ public class LanguageUtil {
             add(new LanguageString(Language.EN, "rank.creator.description", "As a creative streak, they are responsible for a wide range of interests from graphic design to translation."));
             add(new LanguageString(Language.DE, "rank.developer.description", "Developer kümmern sich um die Timolia Plugins, entwickeln neue Features und Spielmodi und kümmern sich um die Bugs, pardon, Features auf Timolia."));
             add(new LanguageString(Language.EN, "rank.developer.description", "Developers take care of Timolia plugins, develop new features and game modes and fix bugs (oh sorry, we really mean features) features on Timolia."));
-            add(new LanguageString(Language.DE, "rank.developer_plus.description", "Sie verfügen über langjährige Erfahrung als Entwickler auf Timolia und stehen bei internen Fragen zum Development zur Verfügung.\n" +
+            add(new LanguageString(Language.DE, "rank.developer_plus.description", "Sie verfügen über langjährige Erfahrung als Entwickler auf Timolia und stehen bei internen Fragen zum Development zur Verfügung. \n" +
                     "Auch kümmern sie sich um Timolia Plugins, entwickeln neue Features und Spielmodi und beheben mögliche Spielfehler."));
             add(new LanguageString(Language.EN, "rank.developer_plus.description", "They have many years of experience as a developer on Timolia and are available to answer internal questions about development. \n" +
                     "They also take care of Timolia plugins, develop new features and game modes and fix possible bugs in games."));
-            add(new LanguageString(Language.DE, "rank.head_builder.description", "Sie leiten und organisieren das Bauteam und dienen als erste Ansprechpartner für alle Builder.\n" +
+            add(new LanguageString(Language.DE, "rank.head_builder.description", "Sie leiten und organisieren das Bauteam und dienen als erste Ansprechpartner für alle Builder. \n" +
                     "Außerdem kümmern sie sich um die Auswahl und Einarbeitung neuer Builder und sind die Schnittstelle zwischen dem Bauteam und der allgemeinen Projektorganisation."));
             add(new LanguageString(Language.EN, "rank.head_builder.description", "They lead and organize the builder team and act as the first point of contact for all builders. \n" +
                     "Moreover, they take care of the selection and training of new builders and are the link between the builder team and the general project organization."));
@@ -37,20 +37,20 @@ public class LanguageUtil {
                     "Sie kümmern sich um die Verwaltung, Organisation und die Teamleitung."));
             add(new LanguageString(Language.EN, "rank.management.description", "These team members form the leadership of Timolia.\n" +
                     "They take care of administration, organization and team management."));
-            add(new LanguageString(Language.DE, "rank.moderator.description", "Moderatoren sind langjährige und besonders erfahrene Teamler, die einzigartige Expertise in ihrem jeweiligen Fachgebiet aufweisen.\n" +
+            add(new LanguageString(Language.DE, "rank.moderator.description", "Moderatoren sind langjährige und besonders erfahrene Teamler, die einzigartige Expertise in ihrem jeweiligen Fachgebiet aufweisen. \n" +
                     "Sie dienen als interne Ansprechpartner bei Fragen und koordinieren häufig einzelne Aufgabengebiete."));
-            add(new LanguageString(Language.EN, "rank.moderator.description", "Moderators are long-term and outstandingly experienced team members who have unique knowledge in their respective fields.\n" +
+            add(new LanguageString(Language.EN, "rank.moderator.description", "Moderators are long-term and outstandingly experienced team members who have unique knowledge in their respective fields. \n" +
                     "They serve as internal contacts for questions and often coordinate individual areas of responsibility."));
-            add(new LanguageString(Language.DE, "rank.supporter.description", "Supporter stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind die ersten, an die sich Spieler mit ihren Anliegen wenden können."));
-            add(new LanguageString(Language.EN, "rank.supporter.description", "Supporters are available for all basic questions and reports and\n" +
+            add(new LanguageString(Language.DE, "rank.supporter.description", "Supporter stehen für alle grundlegenden Fragen und Reports zur Verfügung und sind die ersten, an die sich Spieler mit ihren Anliegen wenden können. "));
+            add(new LanguageString(Language.EN, "rank.supporter.description", "Supporters are available for all basic questions and reports and \n" +
                     "are the first to whom players can address their concerns."));
-            add(new LanguageString(Language.DE, "rank.supporter_plus.description", "Sie verfügen über ein umfassendes Fachwissen und stehen für alle Fragen und Reports zur Verfügung.\n" +
+            add(new LanguageString(Language.DE, "rank.supporter_plus.description", "Sie verfügen über ein umfassendes Fachwissen und stehen für alle Fragen und Reports zur Verfügung. \n" +
                     "Sie sind die ersten, an die sich Spieler mit ihren Anliegen wenden können."));
-            add(new LanguageString(Language.EN, "rank.supporter_plus.description", "They have comprehensive specialized knowledge and are available for all questions and reports.\n" +
+            add(new LanguageString(Language.EN, "rank.supporter_plus.description", "They have comprehensive specialized knowledge and are available for all questions and reports. \n" +
                     "They are the first to whom players can turn with their concerns."));
-            add(new LanguageString(Language.DE, "rank.sysadmin.description", "Systemadministratoren planen, installieren, konfigurieren und warten die technischen Systeme Timolias.\n" +
+            add(new LanguageString(Language.DE, "rank.sysadmin.description", "Systemadministratoren planen, installieren, konfigurieren und warten die technischen Systeme Timolias. \n" +
                     "Sie führen Updates durch und sorgen für ein reibungsloses Spielerlebnis im Alltag."));
-            add(new LanguageString(Language.EN, "rank.sysadmin.description", "System administrators plan, install, configure and maintain Timolia's technical systems.\n" +
+            add(new LanguageString(Language.EN, "rank.sysadmin.description", "System administrators plan, install, configure and maintain Timolia's technical systems. \n" +
                     "They carry out updates and ensure a smooth gaming experience in everyday life."));
 
             add(new LanguageString(Language.DE, "page.rank-change.first", "Hier werden alle Aus- und Eintritte bzw. Beförderungen und Degradierungen aufgelistet."));
@@ -72,9 +72,9 @@ public class LanguageUtil {
             add(new LanguageString(Language.EN, "and", "and"));
             add(new LanguageString(Language.DE, "page.members.first-3", " aufgeteilt."));
             add(new LanguageString(Language.EN, "page.members.first-3", "."));
-            add(new LanguageString(Language.DE, "page.members.first-4", "Nachfolgend findet ihr eine Liste aller Teammitglieder von Timolia sowie deren Aufgabenbereiche und Verantwortlichkeiten. Diese Zuteilung heißt nicht, dass ausschießlich diese Teamler in diesem Bereich aktiv sind.\n" +
+            add(new LanguageString(Language.DE, "page.members.first-4", "Nachfolgend findet ihr eine Liste aller Teammitglieder von Timolia sowie deren Aufgabenbereiche und Verantwortlichkeiten. Diese Zuteilung heißt nicht, dass ausschießlich diese Teamler in diesem Bereich aktiv sind. \n" +
                     "Die Planung und Entwicklung von neuen Modi, Updates, Events und Ähnlichem liegt ausdrücklich nicht bei einem festen Teammitglied oder einer festen Gruppe von Teammitgliedern sondern unterscheidet sich von Projekt zu Projekt oder ändert sich zum Teil im Laufe des Projekts."));
-            add(new LanguageString(Language.EN, "page.members.first-4", "Below you will find a list of all team members of Timolia and their responsibilities aswell as their fields of operation. This does not mean that these team members alone are active in that specific field.\n" +
+            add(new LanguageString(Language.EN, "page.members.first-4", "Below you will find a list of all team members of Timolia and their responsibilities aswell as their fields of operation. This does not mean that these team members alone are active in that specific field. \n" +
                     "Planning and developing new game modes, updates and events is not assigned to one specific team member or a specific group of team members. It rather differs from one project to another and may change during the course of the project."));
             add(new LanguageString(Language.DE, "page.members.first-5", "Die Ränge auf Timolia"));
             add(new LanguageString(Language.EN, "page.members.first-5", "The ranks on Timolia"));
