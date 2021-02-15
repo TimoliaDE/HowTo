@@ -966,10 +966,15 @@
     "name": "TrueSpoki",
     "uuid": "d723842a-7dd9-4e09-ad8e-63086178e73e",
     "sex": "male",
+    "responsibilities_secondary": [
+      "Broadcasts",
+      "Entschuldigungen"
+    ],
     "rank_history": {
       "initial": "pro_plus",
       "08.03.2020": "supporter",
-      "09.01.2021": "native_mvp_plus"
+      "09.01.2021": "native_mvp_plus",
+      "07.02.2021": "supporter"
     }
   },
   {
