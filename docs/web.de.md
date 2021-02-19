@@ -43,7 +43,8 @@ Weitere Informationen findest du in <a href="https://forum.timolia.de/threads/di
 
 ### Entbannungsanträge
 Ab einer Bannzeit von zehn Tagen kannst du mit einer Entschuldigung deine Bannzeit um bis zu 1/3 verkürzen, bei einem permanenten Bann wird deine 
-Bannzeit auf 30 Tage hinabgesetzt. Eine Entschuldigung kannst du im Forum im Themenbereich "Gebannt" schreiben.
+Bannzeit auf 30 Tage hinabgesetzt. Solltest du eine Bannzeit von insgesamt über 46 Tagen haben, musst du erst warten, bis deine Banntage auf 46 Tage oder weniger verjährt sind. Bitte beachte weiterhin, dass du dich nur entschuldigen kannst, wenn du dich in den letzten 6 Monaten weder bereits 3x entschuldigt hast, noch bereits ein Bann in diesem Zeitraum aufgehoben wurde.
+Eine Entschuldigung kannst du im Forum unter "[Entschuldigungen](https://forum.timolia.de/forums/entschuldigungen.49/)" schreiben.
 Solltest du keinen Account für unser Forum haben, kannst du dich auf dem Minecraft-Server `register.timolia.de` für dieses registrieren.
 Alternativ kannst du uns <a href="https://twitter.com/messages/compose?recipient_id=385909409" target="_blank">hier</a> auf Twitter eine DM mit deiner Entschuldigung zukommen lassen.
 

@@ -28,8 +28,10 @@ You have to attach any sort of evidence to your post. Usually, videos are the on
 
  
 ### Appeals 
-You can shorten your ban by up to 1/3 of your ban time in case you have been banned for 10 days or longer. If you have been banned permanently from Timolia, your ban days will be lowered to 30. 
-You can write your appeal on the forum "[Entschuldigungen](https://forum.timolia.de/forums/entschuldigungen.49/) (engl.: "appeals"). 
+You can shorten your ban by up to 1/3 of your ban time in case you have been banned for 10 days or longer. If you have been banned permanently from Timolia, your ban days will be lowered to 30.
+You can write your appeal on the forum "[Entschuldigungen](https://forum.timolia.de/forums/entschuldigungen.49/)" (engl.: "appeals").
+If you exceed 46 ban days, you must wait until your ban days have expired to 46 days or less.
+Please also note that you can only write an appeal in case you have not apologized 3 times during the past 6 months, nor have you already been unbanned in that time period.
 In case you do not yet have an account on the forums, you can register on the Minecraft server `register.timolia.de`. 
 Alternatively, you can contact us <a href="https://twitter.com/messages/compose?recipient_id=385909409" target="_blank">on Twitter</a> with your appeal. 
  

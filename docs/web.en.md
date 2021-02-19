@@ -44,7 +44,10 @@ Further information can be found in <a href="https://forum.timolia.de/threads/di
 
 ### Appeals
 From a ban of ten days on, you can shorten your ban time by up to 1/3 with an appeal, with a permanent ban your 
-ban time will be reduced to 30 days. You can write an apology on the forums under the topic "Banished". 
+ban time will be reduced to 30 days.
+You can write your appeal on the forum "[Entschuldigungen](https://forum.timolia.de/forums/entschuldigungen.49/)" (engl.: "appeals").
+If you exceed 46 ban days, you must wait until your ban days have expired to 46 days or less.
+Please also note that you can only write an appeal in case you have not apologized 3 times during the past 6 months, nor have you already been unbanned in that time period.
 If you don't have an account for our forum, you can register for it on the Minecraft server 'register.timolia.de'.
 Alternatively you can send 
 us <a href="https://twitter.com/messages/compose?recipient_id=385909409" target="_blank">here</a> on Twitter a DM 
