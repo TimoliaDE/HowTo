@@ -93,17 +93,18 @@ Teaming über die Teamgrenzen hinaus (sog. Crossteaming) ist verboten. Auch das 
 
 ## §15 – Entbannung, Bannverkürzung und Bannumgehung
 - <u>Permanente Banns</u>: Grundsätzlich sind alle Banns temporär. Sollte man aber eine Bannzeit von insgesamt 30 Tagen überschreiten, wird ein Spieler automatisch permanent gebannt.
-- <u>Entbannung</u>: Ist ein Spieler der Meinung, ein Bann sei nicht gerechtfertigt, so kann er jederzeit im Forum unter der Kategorie "[Zu Unrecht gebannt](https://forum.timolia.de/forums/zu-unrecht-gebannt.122/)" oder im TeamSpeak den Beweis fordern. Wenn man permanent gebannt ist,
- kann man im Forum einen Antrag auf eine Entbannung stellen. Hierbei sollte man sich besonders viel Mühe geben, da es sehr schwer ist, nach einem permanenten Bann wieder entbannt zu werden.
- Wurde man allerdings zwei Mal aufgrund von Hacks gebannt, so besteht für einen Spieler keinerlei Chance mehr, entbannt zu werden.
-- <u>Bannverkürzung</u>: Ab einem Zeitraum von mindestens 10 Tagen hat jeder User das Recht, im Forum einen Antrag auf Bannverkürzung zu stellen.
-Solltest du keinen Account für unser Forum haben, kannst du dich auf dem Minecraft-Server `register.timolia.de` für dieses registrieren.
-Alternativ kannst du uns <a href="https://twitter.com/messages/compose?recipient_id=385909409" target="_blank">hier</a> auf Twitter eine DM mit deiner Entschuldigung zukommen lassen.
-- <u>Bannumgehung</u>: Das Umgehen von Banns mit einem Zweitaccount ist auf Timolia verboten.
-Als "gebannt" werden der Account, die Person, welche den Account nutzt, und die zu diesem Zeitpunkt verwendete Adresse angesehen.
-Wird eine Bannumgehung nachgewiesen, verjährt der ursprüngliche Bann einen Monat langsamer, eine Entschuldigung/Entbannung ist also erst 30 Tage später als bisher möglich. 
-Diese Regelung wird für jeden Zweitaccount angewendet, bei dem eine Bannumgehung nachgewiesen wird. Wird dabei zusätzlich auf dem Zweitaccount gehackt, zählt die Bannumgehung doppelt, der ursprüngliche Bann verjährt also zwei Monate später.
-Bei wiederholten Verstößen gegen das Bannumgehungsverbot können alle betroffenen Accounts permament und ohne Chance auf Entbannung auf Timolia gesperrt werden. Banntage des ursprünglichen Accounts werden auf Zweitaccounts übertragen.
+- <u>Entbannung</u>: Ist ein Spieler der Meinung, ein Bann sei nicht gerechtfertigt, so kann er jederzeit im Forum unter der Kategorie "[Zu Unrecht gebannt](https://forum.timolia.de/forums/zu-unrecht-gebannt.122/)" oder im TeamSpeak den Beweis fordern. Wenn man permanent gebannt ist, 
+  kann man im Forum einen Antrag auf eine Entbannung stellen. Hierbei sollte man sich besonders viel Mühe geben, da es sehr schwer ist, nach einem permanenten Bann wieder entbannt zu werden.
+- <u>Bannverkürzung</u>: Ab einem Zeitraum von mindestens 10 Tagen hat jeder User das Recht, im Forum einen Antrag auf Bannverkürzung zu stellen. 
+  Solltest du eine Bannzeit von insgesamt über 46 Tagen haben, musst du erst warten, bis deine Banntage auf 46 Tage oder weniger verjährt sind. 
+  Bitte beachte weiterhin, dass du dich nur entschuldigen kannst, wenn du dich in den letzten 6 Monaten weder bereits 3x entschuldigt hast, noch bereits ein Bann in diesem Zeitraum aufgehoben wurde.
+  Solltest du keinen Account für unser Forum haben, kannst du dich auf dem Minecraft-Server `register.timolia.de` für dieses registrieren. 
+  Alternativ kannst du uns <a href="https://twitter.com/messages/compose?recipient_id=385909409" target="_blank">hier</a> auf Twitter eine DM mit deiner Entschuldigung zukommen lassen.
+- <u>Bannumgehung</u>: Das Umgehen von Banns mit einem Zweitaccount ist auf Timolia verboten. 
+  Als "gebannt" werden der Account, die Person, welche den Account nutzt, und die zu diesem Zeitpunkt verwendete Adresse angesehen. 
+  Wird eine Bannumgehung nachgewiesen, verjährt der ursprüngliche Bann einen Monat langsamer, eine Entschuldigung/Entbannung ist also erst 30 Tage später als bisher möglich. 
+  Diese Regelung wird für jeden Zweitaccount angewendet, bei dem eine Bannumgehung nachgewiesen wird. Wird dabei zusätzlich auf dem Zweitaccount gehackt, zählt die Bannumgehung doppelt, der ursprüngliche Bann verjährt also zwei Monate später. 
+  Bei wiederholten Verstößen gegen das Bannumgehungsverbot können alle betroffenen Accounts permament und ohne Chance auf Entbannung auf Timolia gesperrt werden. Banntage des ursprünglichen Accounts werden auf Zweitaccounts übertragen.
 
 ## §16 – Rückerstattung bei technischen Fehlern
 - Sollten durch technische Fehler (Serverabstürze etc.) Pixel oder Punkte zurückgesetzt werden, sieht das übliche Verhalten des Teams vor, diese nicht zu erstatten.
@@ -112,4 +113,4 @@ Bei wiederholten Verstößen gegen das Bannumgehungsverbot können alle betroffe
 
 <strong>Das Team behält sich das Recht vor, bestimmtes Handeln (auch außerhalb des Minecraft- und TeamSpeakservers) zu sanktionieren, welches nicht explizit in den Regeln aufgelistet ist.</strong>
 
-Letzte Aktualisierung: 08. August 2020
+Letzte Aktualisierung: 14. Februar 2021

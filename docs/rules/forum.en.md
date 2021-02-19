@@ -38,9 +38,10 @@ The spamming of reports is prohibited and will be sanctioned when occurring repe
 
 ### Appeals
 If a player is banned, he can request evidence or post an apology at any time in the [Appeals section](https://forum.timolia.de/#reports-und-entbannungsantraege.46). 
-The spamming of appeals is prohibited and will be prosecuted upon repeated occurrence. 
-If a player is banned for more than 46 days, they must wait until the ban days have expired to <=46 days. 
-Furthermore, each player may write a maximum of two appeals, unless another request has been explicitly allowed.
+The spamming of appeals is prohibited and will be prosecuted upon repeated occurrence.
+If a player has a ban time of less than ten days, he cannot write an appeal.
+If a player is banned for more than 46 days, they must wait until the ban days have expired to 46 days or less before being able tp appeal. 
+Furthermore, each player may write a maximum of three appeals, unless another appeal has been explicitly allowed.
 
 ## §4 - Penalties on the Forums
 Should a user violate the rules, they will be warned and a certain number of points will be added to his account. The points expire after 6 months.
@@ -56,4 +57,4 @@ If a player exceeds a certain number of points, he will be excluded from the net
 
 <strong>The team reserves the right to sanction certain actions that are not explicitly listed in the rules.</strong>
 
-Last updated: December 28, 2020
+Last updated: February 14, 2020

@@ -92,16 +92,17 @@ Teaming beyond the team sizes (so-called cross-teaming) is prohibited. Intention
 ## §15 – Unbans, ban shortening and bypassing the ban
 - <u>Permanent bans</u>: In general all bans are temporary. However, if you exceed a ban time of 30 days in total, you will automatically be banned permanently.
 - <u>Unbans</u>: If a player has the opinion that a ban is not justified, he can demand proof at any time on the forums under the category "[Falsely banned](https://forum.timolia.de/forums/zu-unrecht-gebannt.122/)" or in TeamSpeak. 
-If you are permanently banned, you can make a request for an unban on the forums. Here you should make a special effort because it is very difficult to be unbanned after a permanent ban.
-If you have been banned twice due to hacks, there is no chance for a player to be banned.
+  If you are permanently banned, you can make a request for an unban on the forums. Here you should make a special effort because it is very difficult to be unbanned after a permanent ban.
 - <u>Ban shortening</u>: From a period of at least 10 days each user has the right to make a request on the forums for ban shortening.
-If you don't have an account on our forums, you can register for it on the Minecraft server `register.timolia.de`.
-Alternatively you can send us a DM <a href="https://twitter.com/messages/compose?recipient_id=385909409" target="_blank">here</a> on Twitter with your apology.
-- Bypassing bans with a second account is prohibited on timolia.
-The account, the person using the account and the address used at that time are considered banned.
-If the bypass of a ban is proven, the original ban expires one month slower, so an apology/unban is only possible 30 days later than before. 
-This rule is applied for every alt account where a bypass is proven. If, in addition, the alt account is also using hacks, the bypass counts twice, so the original ban expires two months later.
-In case of repeated violations of the ban bans, all affected accounts can be permanently banned from Timolia without any chance of being banned. The ban days of the original account will be transferred to all secondary accounts.
+  If you exceed 46 ban days, you must wait until your ban days have expired to 46 days or less.
+  Please also note that you can only write an appeal in case you have not apologized 3 times during the past 6 months, nor have you already been unbanned in that time period.
+  If you don't have an account on our forums, you can register for it on the Minecraft server `register.timolia.de`. 
+  Alternatively you can send us a DM <a href="https://twitter.com/messages/compose?recipient_id=385909409" target="_blank">here</a> on Twitter with your apology.
+- Bypassing bans with a second account is prohibited on timolia. 
+  The account, the person using the account and the address used at that time are considered banned. 
+  If the bypass of a ban is proven, the original ban expires one month slower, so an apology/unban is only possible 30 days later than before. 
+  This rule is applied for every alt account where a bypass is proven. If, in addition, the alt account is also using hacks, the bypass counts twice, so the original ban expires two months later. 
+  In case of repeated violations of the ban bans, all affected accounts can be permanently banned from Timolia without any chance of being banned. The ban days of the original account will be transferred to all secondary accounts.
 
 ## §16 – Refund for technical errors
 - Should pixels or points be reset due to technical errors (server crashes, etc.), the team's usual behavior is not to refund them.
@@ -110,4 +111,4 @@ In case of repeated violations of the ban bans, all affected accounts can be per
 
 <strong>The team reserves the right to sanction certain actions (also outside the Minecraft and TeamSpeak server) that are not explicitly listed in the rules.</strong>
 
-Last updated: December 28, 2020
+Last updated: February 14, 2020
