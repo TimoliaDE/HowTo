@@ -2709,5 +2709,32 @@
       "initial": "mvp",
       "30.01.2021": "supporter"
     }
+  },
+  {
+    "name": "AbstaubExpertDE",
+    "uuid": "f56499d5-d48f-4390-9e0e-58dc834e29fa",
+    "sex": "male",
+    "rank_history": {
+      "initial": "expert",
+      "22.02.2021": "supporter"
+    }
+  },
+  {
+    "name": "LaSignora",
+    "uuid": "bf4afa71-c3de-4aa4-9c7e-1199cf7c6ebc",
+    "sex": "male",
+    "rank_history": {
+      "initial": "expert",
+      "22.02.2021": "supporter"
+    }
+  },
+  {
+    "name": "SebaDE",
+    "uuid": "e44e5f1e-6e53-4ba6-be72-175ee06f7623",
+    "sex": "male",
+    "rank_history": {
+      "initial": "expert",
+      "22.02.2021": "supporter"
+    }
   }
 ]
