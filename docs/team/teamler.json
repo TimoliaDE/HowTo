@@ -1869,10 +1869,6 @@
     "name": "sp9z",
     "uuid": "317ecd94-d82d-473d-b21d-436d5673ec0e",
     "sex": "male",
-    "responsibilities_secondary": [
-      "Anregungen und Vorschläge Forum",
-      "Fragen und Antworten Forum"
-    ],
     "fields": [
       "Plugin Development"
     ],
