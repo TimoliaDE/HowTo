@@ -21,6 +21,10 @@ public class LanguageUtil {
                     "Sie betreuen die architektonische Gestaltung neuer Modi und betreuen externe Mapeinsendungen."));
             add(new LanguageString(Language.EN, "rank.builder.description", "The builder team creates new maps and lobbies for all occasions and game modes on Timolia. \n" +
                     "They supervise the architectural design of new game modes and manage external map submissions."));
+            add(new LanguageString(Language.DE, "rank.builder_plus.description", "Builder+ übernehmen zusätzliche organisatorische Verantwortung durch ihre hohe Erfahrung sowohl im Level Design als auch im Team. \n" +
+                    "So leiten sie beispielsweise Projekte oder sind Ansprechpartner für neue Builder."));
+            add(new LanguageString(Language.EN, "rank.builder_plus.description", "Builder+ take on additional organizational responsibility through their high level of experience in both level design and the team. \n" +
+                    "For example, they manage projects or are the contact person for new builders."));
             add(new LanguageString(Language.DE, "rank.creator.description", "Als kreative Ader sind sie für die verschiedensten Belange von Grafikdesign bis Übersetzung zuständig."));
             add(new LanguageString(Language.EN, "rank.creator.description", "As a creative streak, they are responsible for a wide range of interests from graphic design to translation."));
             add(new LanguageString(Language.DE, "rank.developer.description", "Developer kümmern sich um die Timolia Plugins, entwickeln neue Features und Spielmodi und kümmern sich um die Bugs, pardon, Features auf Timolia."));
