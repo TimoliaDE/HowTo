@@ -1871,12 +1871,10 @@
     "name": "sp9z",
     "uuid": "317ecd94-d82d-473d-b21d-436d5673ec0e",
     "sex": "male",
-    "fields": [
-      "Plugin Development"
-    ],
     "rank_history": {
       "initial": "spieler",
-      "21.04.2020": "developer"
+      "21.04.2020": "developer",
+      "02.03.2021": "native_mvp"
     }
   },
   {
