@@ -55,6 +55,10 @@ are the first to whom players can address their concerns.
 - <b><span class='headbuilder'>HeadBuilder</span></b>:
 They lead and organize the builder team and act as the first point of contact for all builders. 
 Moreover, they take care of the selection and training of new builders and are the link between the builder team and the general project organization.
+  
+- <b><span class='builder-plus'>Builder+</span></b>:
+Builder+ take on additional organizational responsibility through their high level of experience in both level design and the team. 
+For example, they manage projects or are the contact person for new builders.
 
 - <b><span class='builder'>Builder</span></b>:
 The builder team creates new maps and lobbies for all occasions and game modes on Timolia. 

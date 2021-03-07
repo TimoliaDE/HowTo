@@ -48,6 +48,10 @@ Sie leiten und organisieren das Bauteam und dienen als erste Ansprechpartner fü
 Außerdem kümmern sie sich um die Auswahl und Einarbeitung neuer Builder und sind die Schnittstelle 
 zwischen dem Bauteam und der allgemeinen Projektorganisation.
 
+- <b><span class='builder-plus'>Builder+</span></b>:
+Builder+ übernehmen zusätzliche organisatorische Verantwortung durch ihre hohe Erfahrung sowohl im Level Design als auch im Team.
+So leiten sie beispielsweise Projekte oder sind Ansprechpartner für neue Builder.
+
 - <b><span class='builder'>Builder</span></b>:
 Das Bauteam kreiert neue Maps und Lobbys für alle Gelegenheiten und Spielmodi auf Timolia. 
 Sie betreuen die architektonische Gestaltung neuer Modi und betreuen externe Mapeinsendungen.
