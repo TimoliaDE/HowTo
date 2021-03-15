@@ -935,14 +935,12 @@
     "name": "Docmac",
     "uuid": "d64144bf-9609-4b1e-b3b1-4a28772254ca",
     "sex": "male",
-    "fields": [
-      "Systemadministration"
-    ],
     "rank_history": {
       "initial": "administrator",
       "31.12.2017": "native_expert",
       "06.05.2018": "administrator",
-      "08.11.2019": "sysadmin"
+      "08.11.2019": "sysadmin",
+      "07.03.2021": "native_expert"
     }
   },
   {
