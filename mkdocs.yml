@@ -13,6 +13,7 @@ pages:
   - Webseite und Forum: 'web.md'
   - TeamSpeak: 'teamspeak.md'
   - Community-Discord: 'discord.md'
+  - Zwei-Faktor-Authentifizierung: '2fa.md'
 - Das Regelwerk:
   - Games: 'rules/games.md'
   - Erlaubte Modifikationen: 'rules/approvedmods.md'

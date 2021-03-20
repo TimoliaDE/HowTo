@@ -103,8 +103,10 @@ Teaming über die Teamgrenzen hinaus (sog. Crossteaming) ist verboten. Auch das 
 - <u>Bannumgehung</u>: Das Umgehen von Banns mit einem Zweitaccount ist auf Timolia verboten. 
   Als "gebannt" werden der Account, die Person, welche den Account nutzt, und die zu diesem Zeitpunkt verwendete Adresse angesehen. 
   Wird eine Bannumgehung nachgewiesen, verjährt der ursprüngliche Bann einen Monat langsamer, eine Entschuldigung/Entbannung ist also erst 30 Tage später als bisher möglich. 
-  Diese Regelung wird für jeden Zweitaccount angewendet, bei dem eine Bannumgehung nachgewiesen wird. Wird dabei zusätzlich auf dem Zweitaccount gehackt, zählt die Bannumgehung doppelt, der ursprüngliche Bann verjährt also zwei Monate später. 
-  Bei wiederholten Verstößen gegen das Bannumgehungsverbot können alle betroffenen Accounts permament und ohne Chance auf Entbannung auf Timolia gesperrt werden. Banntage des ursprünglichen Accounts werden auf Zweitaccounts übertragen.
+  Accounts, mit denen der Bann umgangen wird, werden permanent ohne Bannverjährung vom Timolia-Netzwerk ausgeschlossen und werden nur auf Nachfrage und Aktivierung der [Zwei-Faktor-Authentifizierung](/2fa) entbannt.
+  Eine erneute Bannumgehung folgt in einem erneuten permanenten Ausschluss ohne Bannverjährung vom Timolia-Netzwerk, allerdings ohne Möglichkeit auf erneute Entbannung. Diese Regelung trifft nicht auf den ursprünglichen Account zu. 
+  Bei wiederholten Verstößen gegen das Bannumgehungsverbot können alle betroffenen Accounts permament und ohne Chance auf Entbannung auf Timolia gesperrt werden. 
+  Banntage des ursprünglichen Accounts werden auf Zweitaccounts übertragen.
 
 ## §16 – Rückerstattung bei technischen Fehlern
 - Sollten durch technische Fehler (Serverabstürze etc.) Pixel oder Punkte zurückgesetzt werden, sieht das übliche Verhalten des Teams vor, diese nicht zu erstatten.
@@ -113,4 +115,4 @@ Teaming über die Teamgrenzen hinaus (sog. Crossteaming) ist verboten. Auch das 
 
 <strong>Das Team behält sich das Recht vor, bestimmtes Handeln (auch außerhalb des Minecraft- und TeamSpeakservers) zu sanktionieren, welches nicht explizit in den Regeln aufgelistet ist.</strong>
 
-Letzte Aktualisierung: 14. Februar 2021
+Letzte Aktualisierung: 17. März 2021

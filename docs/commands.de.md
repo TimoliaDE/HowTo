@@ -121,7 +121,7 @@ Solltest du dein Handy verlieren, kannst du dich weiterhin mit Backupcodes anmel
 | Befehl | Funktion |
 | ------ | -------- |
 | `/2fa`                          | Zeigt dir die Hilfe für die Zwei-Faktor-Authentifizierung an |
-| `/2fa buc`                      | Listet alle unbenutzten Backupcodes auf |
+| `/2fa buc`                      | Listet alle unbenutzten Backup-Codes auf |
 | `/2fa disable`                  | Deaktiviert die Zwei-Faktor-Authentifizierung |
 | `/2fa logout`                   | Kickt dich vom Netzwerk und loggt dich aus der Zwei-Faktor-Authentifizierung aus |
 | `/2fa setup`                    | Richtet die Zwei-Faktor-Authentifizierung ein |
