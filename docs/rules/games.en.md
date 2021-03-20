@@ -113,4 +113,4 @@ The ban days of the original account will be transferred to all secondary accoun
 
 <strong>The team reserves the right to sanction certain actions (also outside the Minecraft and TeamSpeak server) that are not explicitly listed in the rules.</strong>
 
-Last updated: March 17, 2020
+Last updated: March 20, 2020
