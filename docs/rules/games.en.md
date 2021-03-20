@@ -99,10 +99,12 @@ Teaming beyond the team sizes (so-called cross-teaming) is prohibited. Intention
   If you don't have an account on our forums, you can register for it on the Minecraft server `register.timolia.de`. 
   Alternatively you can send us a DM <a href="https://twitter.com/messages/compose?recipient_id=385909409" target="_blank">here</a> on Twitter with your apology.
 - Bypassing bans with a second account is prohibited on timolia. 
-  The account, the person using the account and the address used at that time are considered banned. 
-  If the bypass of a ban is proven, the original ban expires one month slower, so an apology/unban is only possible 30 days later than before. 
-  This rule is applied for every alt account where a bypass is proven. If, in addition, the alt account is also using hacks, the bypass counts twice, so the original ban expires two months later. 
-  In case of repeated violations of the ban bans, all affected accounts can be permanently banned from Timolia without any chance of being banned. The ban days of the original account will be transferred to all secondary accounts.
+  The account, the person using the account and the address used at that time are considered banned.
+  
+Accounts that are used to bypass a ban will be permanently banned from the Timolia network without ban expiration and will only be unbanned upon request and activation of [Two-factor authentication](/2fa).
+  Another bypass results in a second permanent ban without ban expiration from the Timolia network, but without the possibility of a second unban. This rule does not apply to the original account.
+  In case of repeated violations of the bans, all affected accounts can be permanently banned from Timolia without any chance of being banned. 
+The ban days of the original account will be transferred to all secondary accounts.
 
 ## §16 – Refund for technical errors
 - Should pixels or points be reset due to technical errors (server crashes, etc.), the team's usual behavior is not to refund them.
@@ -111,4 +113,4 @@ Teaming beyond the team sizes (so-called cross-teaming) is prohibited. Intention
 
 <strong>The team reserves the right to sanction certain actions (also outside the Minecraft and TeamSpeak server) that are not explicitly listed in the rules.</strong>
 
-Last updated: February 14, 2020
+Last updated: March 17, 2020
