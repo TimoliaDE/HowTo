@@ -37,7 +37,7 @@ Wir können in diesem Fall die Zwei-Faktor-Authentifizierung für dich **nicht**
   Solltest du Fragen haben, melde dich im [Support](/faq/#wer-supportet-mich-wenn-ich-fragen-habe)!
 - **Registriere dich** für das Forum via `/register` und folge den Anweisungen
 - **Installiere** dir auf deinem Handy eine **Authenticator App**. Wir empfehlen dir für 
-  Android **Aegis** ([Android](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)). Alternativ kannst du den  
+  Android **Aegis** ([Android](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)). Alternativ kannst du den 
   **Google Authenticator** ([Andorid](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2) / [iOS](https://itunes.apple.com/de/app/google-authenticator/id388497605)) nutzen. 
   Du findest die Apps auch wie gewohnt über die Suche im App Store bzw. Play Store. Natürlich kannst du auch eine andere Authentifizierungsapp nutzen.
 - Nutze `/2fa setup`, um dir den QR-Code sowie das Secret anzeigen zu lassen, mit dem du deinen Account verknüpfen kannst.
