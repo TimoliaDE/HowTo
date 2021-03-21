@@ -55,7 +55,7 @@ Wir können in diesem Fall die Zwei-Faktor-Authentifizierung für dich **nicht**
 - Fertig! Du kannst jetzt ganz normal weiterspielen. Dein Account, deine Stats und deine Ränge sind sicher.
   <br>
   <img alt="2FA Authentifizierung" src="../img/2fa-authentication.png">
-- **Achtung!** Bitte notiere dir die **Backup-Codes** (einsehbar unter `/2fa buc`)! Diese Codes kannst du nutzen, solltest 
+- **Achtung!** Bitte notiere dir die **Backup-Codes** (einsehbar unter `/2fa buc`)! Diese Codes musst du nutzen, solltest 
   du einmal dein Handy verlieren oder aus anderen Gründen nicht mehr auf deine App zugreifen können.
   **Ohne Backup-Codes kannst du nicht mehr auf deinen Account zugreifen!**
   <br>
