@@ -2718,12 +2718,13 @@
     }
   },
   {
-    "name": "LaSignora",
+    "name": "YuiKurata",
     "uuid": "bf4afa71-c3de-4aa4-9c7e-1199cf7c6ebc",
     "sex": "male",
     "rank_history": {
       "initial": "expert",
-      "22.02.2021": "supporter"
+      "22.02.2021": "supporter",
+      "28.03.2021": "expert"
     }
   },
   {
