@@ -1,12 +1,14 @@
 Ob und wie du dich im Bereich des Managements, als System-Administrator:in, Developer:in, Moderator:in, Supporter:in, HeadBuilder:in, Builder:in oder Creator:in bewerben kannst, erfährst du hier.
 
-### Management, Moderator:in und System-Administrator:in
+### Management, Moderation und System-Administration
 Diese Ränge werden nur an aktive Teamler:innen vergeben. Außenstehende können sich nicht auf diese Ränge bewerben. 
 Sie übernehmen große Verantwortung in organisatorischen und verwaltungstechnischen Bereichen und ihre Positionen erfordern intensives Wissen über die interne Struktur Timolias.
 
 
-### Developer:in
-Mit einer E-Mail an <a href="mailto:development@timolia.de">development@timolia.de</a> kannst du dich jederzeit als Developer:in bewerben. Neben Teamfähigkeit und einem Mindestalter von 14 Jahren werden die weiter unten erwähnten Punkte vorausgesetzt. Dein Bewerbungsschreiben sollte deinen Ingamenamen, eine kurze Beschreibung deiner Person, Darstellung deiner Fähigkeiten und Kompetenzen und eine Angabe zur Kontaktmöglichkeit beinhalten. Als Developer:in besteht deine Hauptaufgabe daraus, Ideen und Projekte für Timolia ingame oder auf unseren Web-Plattformen umzusetzen. In welchem Grad du dabei frei deine eigenen Ideen zur Umsetzung und Gestaltung einbringst, hängt von deinen eigenen Wünschen und der Art des Projektes ab. Das Team steht dir jederzeit beratend zur Seite.
+### Technik
+Mit einer E-Mail an <a href="mailto:development@timolia.de">development@timolia.de</a> kannst du dich jederzeit als Developer:in bewerben. Neben Teamfähigkeit setzen wir ein Mindestalter von 14 Jahren voraus. 
+Dein Bewerbungsschreiben sollte deinen Ingamenamen, eine kurze Beschreibung deiner Person, Darstellung deiner Fähigkeiten und Kompetenzen und eine Angabe zur Kontaktmöglichkeit beinhalten. Als Developer:in besteht deine Hauptaufgabe darin, Ideen und Projekte für Timolia ingame oder auf unseren Web-Plattformen umzusetzen. 
+In welchem Grad du dabei frei deine eigenen Ideen zur Umsetzung und Gestaltung einbringst, hängt von deinen eigenen Wünschen und der Art des Projektes ab. Das Team steht dir jederzeit beratend zur Seite.
 
 Natürlich gehören zum Workflow eines Devs immer auch das Testen und das Beheben von Bugs (die da eigentlich so gar nicht sein dürften, das ergibt keinen Sinn, hä?!). Und ganz wichtig: Wenn man mal nicht weiterkommt, hilft sich das Dev- und Adminteam untereinander immer weiter!
 Auf Einschränkungen wirst du in deiner Arbeit selten stoßen; wo du helfen möchtest, da bist du auch außerhalb von IntelliJ oder Eclipse mit anderen Entwicklungsumgebungen deiner Wahl stets willkommen.
@@ -35,12 +37,13 @@ Optional:
 - Grundkenntnisse im Bereich des Webdesigns
 - Fundiertes Vorwissen über Timolia
 
-Für eine erfolgreiche Bewerbung ist es notwendig, dass du uns einen kleinen Einblick in bereits von dir abgeschlossene Projekte und deren Quellcode gewährst. Optimalerweise sollte dieser auf GitHub, Bitbucket, GitLab oder einer ähnlichen Plattform gehostet sein, da wir den Quellcode nicht als einfache Datei akzeptieren. Wir achten vor allem auf sauberen, gut kommentierten Code, der deine Fähigkeiten widerspiegelt. Auch solltest du auf die Einhaltung der Java-Konventionen achten und keine obsoleten Anweisungen verwenden. 
+Für eine erfolgreiche Bewerbung ist es notwendig, dass du uns einen kleinen Einblick in bereits von dir abgeschlossene Projekte und deren Quellcode gewährst. Optimalerweise sollte dieser auf GitHub, Bitbucket, GitLab oder einer ähnlichen Plattform gehostet sein, da wir den Quellcode nicht als einfache Datei akzeptieren. 
+Wir achten vor allem auf sauberen, gut kommentierten Code, der deine Fähigkeiten widerspiegelt. Auch solltest du auf die Einhaltung der Java-Konventionen achten und keine obsoleten Anweisungen verwenden. 
 
-Als <b>Developer:in+</b> verfügt man über langjährige Erfahrung als Entwickler auf Timolia und steht bei internen Fragen zum Development zur Verfügung. Bewerbungen für diesen Rang sind daher nicht möglich.
+Teamler:innen des <b>Developer+</b> Rangs verfügen über eine langjährige Erfahrung als Entwickler auf Timolia und stehen bei internen Fragen zum Development zur Verfügung. Bewerbungen für diesen Rang sind daher nicht möglich.
 
 
-### Supporter:in
+### Support
 Sollten neue Teammitglieder im Supportbereich gesucht werden, überprüft das Team, welche Spieler:innen besonders aktiv auf dem Netzwerk sind und positiv auffallen.
 Unter positiv auffallen verstehen wir unter anderem eine gute Reportstatistik, keine gravierenden Verstöße gegen unser Regelwerk und Aktivität auf anderen Plattformen,
 wie im Forum, TeamSpeak und Discord (und evtl. auf Twitter).
@@ -56,7 +59,7 @@ Hierzu genügt eine normale Supporter-Bewerbung, in der neben einer kurzen Vorst
 Da der <b>Supporter+</b> Rang eine Beförderung für besonders erfahrene Supporter darstellt, sind keine Bewerbungen für diesen Rang möglich.
 
 
-### Builder:in
+### Building und Timolia Creative
 Du kennst dich in den Bereichen Building, Modeling, MC Bedrock Scripting und/oder Texture Design aus und hast Lust, dich in diesen Bereichen bei uns einzubringen und dich selbst weiterzuentwickeln?
 Bei Timolia Creative hast du die Möglichkeit, an spannenden Projekten mitzuwirken, die weit über das übliche Building hinaus gehen können.
 
