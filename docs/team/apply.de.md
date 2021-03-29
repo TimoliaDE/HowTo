@@ -14,7 +14,7 @@ Natürlich gehören zum Workflow eines Devs immer auch das Testen und das Behebe
 Auf Einschränkungen wirst du in deiner Arbeit selten stoßen; wo du helfen möchtest, da bist du auch außerhalb von IntelliJ oder Eclipse mit anderen Entwicklungsumgebungen deiner Wahl stets willkommen.
 Damit das so reibungslos im gesamten Team funktionieren kann, gibt es aber natürlich einige Ansprüche, die wir an unser Team im Allgemeinen und an alle Developer:innen im Besonderen stellen.
 
-#### Das wünschen wir uns von dir als Java-Developer:in
+#### Das wünschen wir uns von dir im Java-Development
 - Ausführliche Kenntnisse in Java und der Spigot-API/ Bungeecord-API
 - Vorerfahrung in den Aufgabenbereichen eines Minecraft-Developers
 - Termingerechter Umgang mit Projekten
@@ -26,7 +26,7 @@ Optional:
 - Grundkenntnisse im Bereich des Webdesigns
 - Fundiertes Vorwissen über Timolia
 
-#### Das wünschen wir uns von dir als Web-Developer:in
+#### Das wünschen wir uns von dir im Web-Development
 - Ausführliche Kenntnisse in PHP, Symfony und JavaScript
 - Termingerechter Umgang mit Projekten
 - Grundkenntnisse der englischen Sprache
