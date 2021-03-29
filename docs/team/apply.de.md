@@ -12,8 +12,7 @@ Natürlich gehören zum Workflow eines Devs immer auch das Testen und das Behebe
 Auf Einschränkungen wirst du in deiner Arbeit selten stoßen; wo du helfen möchtest, da bist du auch außerhalb von IntelliJ oder Eclipse mit anderen Entwicklungsumgebungen deiner Wahl stets willkommen.
 Damit das so reibungslos im gesamten Team funktionieren kann, gibt es aber natürlich einige Ansprüche, die wir an unser Team im Allgemeinen und an alle Developer:innen im Besonderen stellen.
 
-<b>Das wünschen wir uns von dir als Java-Developer:in:</b>
-
+#### Das wünschen wir uns von dir als Java-Developer:in:
 - Ausführliche Kenntnisse in Java und der Spigot-API/ Bungeecord-API
 - Vorerfahrung in den Aufgabenbereichen eines Minecraft-Developers
 - Termingerechter Umgang mit Projekten
