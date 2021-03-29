@@ -69,7 +69,7 @@ Bitte beachte, dass du mindestens 16 Jahre alt sein musst, um in das Timolia Cre
 Die <b>HeadBuilder:innen</b> bilden die Bauteamleitung Timolias. Da es sich um Teamler:innen mit langjähriger Erfahrung und sehr guter Kenntnis über Timolias teaminterne Strukturen handelt, ist eine Bewerbung für diesen Rang nicht möglich.
 
 
-### Creator:in
+### Design, Translation und Konzeptentwicklung
 Als Creator:in kannst du dich per E-Mail an <a href="mailto:creator@timolia.de">creator@timolia.de</a> bewerben. Wichtig dabei ist, dass du uns deinen
 Ingamenamen, eine kurze persönliche Beschreibung, einen Überblick über deine bisherigen Arbeiten/Erfahrungen ebenso wie Beispiele
 deiner Arbeiten zukommen lässt. Je nachdem, für welchen kreativen Bereich du dich bewerben willst, benötigst du folgende Kenntnisse: Grundkenntnisse in Bildgestaltung
