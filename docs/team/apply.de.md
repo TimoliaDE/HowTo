@@ -18,17 +18,17 @@ Damit das so reibungslos im gesamten Team funktionieren kann, gibt es aber natü
 - Termingerechter Umgang mit Projekten
 - Grundkenntnisse der englischen Sprache
 
-<b>Optional:</b>
+#### Optional:
 - Erfahrung im Umgang mit Git
 - Grundkenntnisse im Bereich des Webdesigns
 - Fundiertes Vorwissen über Timolia
 
-<b>Das wünschen wir uns von dir als Web-Developer:in:</b>
+#### Das wünschen wir uns von dir als Web-Developer:in:
 - Ausführliche Kenntnisse in PHP, Symfony und JavaScript
 - Termingerechter Umgang mit Projekten
 - Grundkenntnisse der englischen Sprache
 
-<b>Optional:</b>
+#### Optional:
 - Erfahrung im Umgang mit Git
 - Grundkenntnisse im Bereich des Webdesigns
 - Fundiertes Vorwissen über Timolia
