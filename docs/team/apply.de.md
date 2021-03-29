@@ -6,14 +6,14 @@ Sie übernehmen große Verantwortung in organisatorischen und verwaltungstechnis
 
 
 ### Developer:in
-Mit einer E-Mail an <a href="mailto:development@timolia.de">development@timolia.de</a> kannst du dich jederzeit als Developer:in bewerben. Vorausgesetzt werden ausführliche Kenntnisse
-über Java und die Spigot-API, Erfahrungen im Umgang mit Git, Teamfähigkeit, Grundkenntnisse der Sprache Englisch und ein Mindestalter von 14 Jahren. Dein Bewerbungsschreiben
-sollte deinen Ingamenamen, eine kurze Beschreibung deiner Person, Darstellung deiner Fähigkeiten und Kompetenzen und eine Angabe zur Kontaktmöglichkeit beinhalten. Als Developer:in besteht deine Hauptaufgabe daraus, Ideen und Projekte für Timolia ingame oder auf unseren Web-Plattformen umzusetzen. In welchem Grad du dabei frei deine eigenen Ideen zur Umsetzung und Gestaltung einbringst, hängt von deinen eigenen Wünschen und der Art des Projektes ab. Das Team steht dir jederzeit beratend zur Seite.
+Mit einer E-Mail an <a href="mailto:development@timolia.de">development@timolia.de</a> kannst du dich jederzeit als Developer:in bewerben. Neben Teamfähigkeit und einem Mindestalter von 14 Jahren werden die weiter unten erwähnten Punkte vorausgesetzt. Dein Bewerbungsschreiben sollte deinen Ingamenamen, eine kurze Beschreibung deiner Person, Darstellung deiner Fähigkeiten und Kompetenzen und eine Angabe zur Kontaktmöglichkeit beinhalten. Als Developer:in besteht deine Hauptaufgabe daraus, Ideen und Projekte für Timolia ingame oder auf unseren Web-Plattformen umzusetzen. In welchem Grad du dabei frei deine eigenen Ideen zur Umsetzung und Gestaltung einbringst, hängt von deinen eigenen Wünschen und der Art des Projektes ab. Das Team steht dir jederzeit beratend zur Seite.
+
 Natürlich gehören zum Workflow eines Devs immer auch das Testen und das Beheben von Bugs (die da eigentlich so gar nicht sein dürften, das ergibt keinen Sinn, hä?!). Und ganz wichtig: Wenn man mal nicht weiterkommt, hilft sich das Dev- und Adminteam untereinander immer weiter!
 Auf Einschränkungen wirst du in deiner Arbeit selten stoßen; wo du helfen möchtest, da bist du auch außerhalb von IntelliJ oder Eclipse mit anderen Entwicklungsumgebungen deiner Wahl stets willkommen.
 Damit das so reibungslos im gesamten Team funktionieren kann, gibt es aber natürlich einige Ansprüche, die wir an unser Team im Allgemeinen und an alle Developer:innen im Besonderen stellen.
 
 <b>Das wünschen wir uns von dir als Java-Developer:in:</b>
+
 - Ausführliche Kenntnisse in Java und der Spigot-API/ Bungeecord-API
 - Vorerfahrung in den Aufgabenbereichen eines Minecraft-Developers
 - Termingerechter Umgang mit Projekten
