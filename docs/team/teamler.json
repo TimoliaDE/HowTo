@@ -1364,14 +1364,8 @@
     "name": "xiantiel",
     "uuid": "fff54f1a-e61d-4af5-90ab-f925f1b2d0a6",
     "sex": "male",
-    "responsibilities_main": [
-      "Technische Leitung",
-      "Projektleitung und -verwaltung",
-      "DevOps"
-    ],
     "fields": [
-      "Systemadministration",
-      "Plugin Development"
+      "Systemadministration"
     ],
     "rank_history": {
       "initial": "administrator",
