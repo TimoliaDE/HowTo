@@ -37,9 +37,9 @@ public class LanguageUtil {
                     "Außerdem kümmern sie sich um die Auswahl und Einarbeitung neuer Builder und sind die Schnittstelle zwischen dem Bauteam und der allgemeinen Projektorganisation."));
             add(new LanguageString(Language.EN, "rank.head_builder.description", "They lead and organize the builder team and act as the first point of contact for all builders. \n" +
                     "Moreover, they take care of the selection and training of new builders and are the link between the builder team and the general project organization."));
-            add(new LanguageString(Language.DE, "rank.management.description", "Diese Teamler bilden die Leitung Timolias." +
+            add(new LanguageString(Language.DE, "rank.management.description", "Diese Teamler bilden die Leitung Timolias. " +
                     "Sie kümmern sich um die Verwaltung, Organisation und die Teamleitung."));
-            add(new LanguageString(Language.EN, "rank.management.description", "These team members form the leadership of Timolia.\n" +
+            add(new LanguageString(Language.EN, "rank.management.description", "These team members form the leadership of Timolia. " +
                     "They take care of administration, organization and team management."));
             add(new LanguageString(Language.DE, "rank.moderator.description", "Moderatoren sind langjährige und besonders erfahrene Teamler, die einzigartige Expertise in ihrem jeweiligen Fachgebiet aufweisen. \n" +
                     "Sie dienen als interne Ansprechpartner bei Fragen und koordinieren häufig einzelne Aufgabengebiete."));
