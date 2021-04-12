@@ -85,6 +85,7 @@ We are always happy when someone approaches us and hopefully, we can help you wi
 You can also contact us on the social media platform Twitter where our social media team supports you all around the clock. 
 Additionally, you can report in-game problems, bugs and any comments via our ticket system. 
 You can do this by entering the command `/ticket <issue>`.
+We would also be happy to support you on our [Discord](https://timolia.de/discord). There you can tell us your concern at any time in the `#support` channel.
 
 ### How does the kick system work?
 We have a very complex and unique kick system to give both premium and normal players a great gaming experience 
