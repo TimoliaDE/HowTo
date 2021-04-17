@@ -59,7 +59,7 @@ Hierzu genügt eine normale Supporter-Bewerbung, in der neben einer kurzen Vorst
 Da der <b>Supporter+</b> Rang eine Beförderung für besonders erfahrene Supporter darstellt, sind keine Bewerbungen für diesen Rang möglich.
 
 
-### Building und Timolia Creative
+### Builder / Timolia Creative
 Du kennst dich in den Bereichen Building, Modeling, MC Bedrock Scripting und/oder Texture Design aus und hast Lust, dich in diesen Bereichen bei uns einzubringen und dich selbst weiterzuentwickeln?
 Bei Timolia Creative hast du die Möglichkeit, an spannenden Projekten mitzuwirken, die weit über das übliche Building hinaus gehen können.
 
