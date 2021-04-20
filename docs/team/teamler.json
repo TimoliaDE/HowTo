@@ -2743,5 +2743,14 @@
       "22.02.2021": "supporter",
       "03.04.2021": "native_mvp"
     }
+  },
+  {
+    "name": "Butzlabben",
+    "uuid": "42fa7a75-7afa-4a19-932a-1c385c07048a",
+    "sex": "male",
+    "rank_history": {
+      "initial": "spieler",
+      "12.04.2021": "developer"
+    }
   }
 ]
