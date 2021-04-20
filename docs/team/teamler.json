@@ -2752,5 +2752,23 @@
       "initial": "spieler",
       "12.04.2021": "developer"
     }
+  },
+  {
+    "name": "Michelplays",
+    "uuid": "8898cc60-bb99-427a-b1c3-a53057315d36",
+    "sex": "male",
+    "rank_history": {
+      "initial": "mvp",
+      "20.04.2021": "supporter"
+    }
+  },
+  {
+    "name": "KanekiZ",
+    "uuid": "4bb8bd7c-c55d-4232-9529-d4d392de0361",
+    "sex": "male",
+    "rank_history": {
+      "initial": "spieler",
+      "20.04.2021": "supporter"
+    }
   }
 ]
