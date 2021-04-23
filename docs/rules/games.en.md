@@ -1,10 +1,10 @@
-## §1 - General
+## §1 – General
 In the following, the rules for the Minecraft server network Timolia.de are listed. By using a service provided by Timolia every user accepts all
 points of the rules and must follow them. Disregard can lead to penalties, up to exclusion from the Timolia network and all related sites and services.
 
 Furthermore, the rules can be changed at any time. Therefore the date of the last change is always shown under the last point of the rules.
 
-## §2 - Modifications (Mods)/Hacks, Resource Packs and Minimaps
+## §2 – Modifications (Mods)/Hacks, Resource Packs and Minimaps
 Any modifications in and to the game are prohibited on Timolia. This includes basically all mods, but also certain types of beneficial resource packs, 
 especially transparent or Xray resource packs. Moreover, macros and other modifications to the Minecraft client, mouse and keyboard, which allow spamming of 
 keys/commands and chat messages or even increasing the click speed, are prohibited. This also includes MouseTweaks and the use of programmable keyboards, mice 
@@ -18,21 +18,21 @@ If you want to play with a mod that is not on this list, we recommend you to con
 The list is updated regularly. Mods that offer similar features as the mods listed there, but are not on the list, have not been reviewed by us and may lead to a ban.
 We, therefore, advise against using these mods without having asked in advance.
 
-## §3 - Cheating/Bugusing
+## §3 – Cheating/Bugusing
 Bugusing is the intentional exploitation of game errors that have consequences that are not foreseen in the game and is of course forbidden.
 Instead, it is desired to report these bugs to the team via TeamSpeak, on the [forums](https://forum.timolia.de/forums/bug-melden.48/) or in-game.
 This prohibition also refers to the exploitation of bugs in otherwise [allowed modifications](/rules/approvedmods/).
 
-## §4 - Behavior in the chat, forums and in-game
+## §4 – Behavior in the chat, forums and in-game
 The Timolia team expects fair and respectful behavior from every player. Both in-game and in TeamSpeak.
 
-### Paragraph 1 - Insults
+### Paragraph 1 – Insults
 All insults are prohibited. Bypassing the chat filter with spaces, punctuation marks or similar is also prohibited.
 
 - <u>Discrimination</u>: Exclusion, insulting and agitating against other nationalities, ethnic groups, religions, sexualities, minorities or other groups is prohibited on Timolia and will be banned without warning.
 - <u>National Socialism</u>: National Socialist statements, slogans and similar are forbidden on Timolia and will be banned without warning.
 
-### Paragraph 2 - Advertising and phishing/fraud
+### Paragraph 2 – Advertising and phishing/fraud
 - <u>Self-promotion</u>: Self-promotion on the Discord Server is allowed, provided that it is not intrusively placed or spammed.
 In the 1v1 kit advertising for your own YouTube channel or Twitter account is allowed.
 - <u>Server advertising</u>: Server advertising is prohibited. Even sending a server address once can and will be considered as advertising and sanctioned accordingly.
@@ -43,14 +43,14 @@ Skimming off user data such as passwords and e-mails of other users by false pro
 Also, permanent exclusion from the Timolia network takes place. This also includes a pure attempt.
 - <u>Tournament advertising in 1vs1</u>: Advertising for a tournament by any kind of winnings of material value is prohibited. This includes promising Paysafecards or Minecraft accounts when you win a tournament.
 
-### Paragraph 3 - Skins and usernames
+### Paragraph 3 – Skins and usernames
 Offensive, insulting, racist or national socialist skins and usernames are prohibited. This includes, for example, nude skins, Hitler skins and also capes with corresponding symbols.
 
 ## §5 – Pretending using hacks & faking reports
 The intentional misleading of team members is prohibited. Penalties arising from this will not be lifted.
 It is also forbidden to use fake reports to accuse players of a rule violation that they have not committed. Furthermore, any form of exploitation of the report system is prohibited.
 
-## §6 - Statsboosting
+## §6 – Statsboosting
 Boosting your stats in all kinds of game modes by using unfair game methods is not allowed on Timolia. This includes, but is not limited to, kits that give you a significant advantage over your opponent by having the same or similar items.
 
 ## §7 – 1v1 kits
@@ -61,32 +61,45 @@ Cosmetic kits are 1v1 kits created with a modified Minecraft client, which inclu
 of the number of hearts that cannot be done with an unmodified Minecraft client. All kits of this type are also prohibited and will be deleted. 
 Should a user recreate and use a deleted kit, this will be punished with a ban.
 
-## §8 - JumpWorld
+## §7 – 1v1
+### Paragraph 1 – Kits
+- <u>Crash kits</u>: Crash kits are 1v1 kits which "freeze" a player's Minecraft client, crash it or prevent players from playing on the server.
+  All kits of this kind are prohibited on Timolia.
+- <u>Cosmetic kits</u>:
+  Cosmetic kits are 1v1 kits created with a modified Minecraft client, which includes changes to effect properties, item properties and the modification
+  of the number of hearts that cannot be done with an unmodified Minecraft client. All kits of this type are also prohibited and will be deleted.
+  Should a user recreate and use a deleted kit, this will be punished with a ban.
+
+### Paragraph 2 – Ranked System
+Playing in the Ranked Queue is only allowed on your own accounts.
+In particular, sharing accounts and disguising your own IP address (proxy, VPN, Tor and similar) is prohibited.__
+
+## §8 – JumpWorld
 The general Timolia rules also apply to created worlds in JumpWorld. Thus, any kind of racist, offensive or insulting buildings, world names or phrases on signs are prohibited.
 
-## §9 - 4rena
+## §9 – 4rena
 - Teams are forbidden in 4rena. If a team is warned by a supporter and continues to team up, all team members will be kicked or banned. 
 If a team is reported on the forums, it will be banned directly.
 
-## §10 - Timolianische Spiele
+## §10 – Timolianische Spiele
 The unnecessary delay of the game is not desired. This explicitly includes actions like building a house, animal farming and hunting the ender dragon. Teams of any size are allowed.
 
-## §11 - InTime
+## §11 – InTime
 - <u>Teaming</u>: In the game mode InTime teams of any size are prohibited.
 - <u>Time stealing</u>: Letting time be stolen is defined by letting another player intentionally steal the time from you with the clock so they end up having more time.
 If this is detected, the player who intentionally let the time be stolen and the player who stole the time will be kicked and the incident will be noted. 
 If this happens repeatedly, the player may also be banned.
 
-## §12 - Castles
+## §12 – Castles
 Teaming beyond the team sizes (so-called cross-teaming) is prohibited. Intentionally hindering your own team members in the form of gold theft, destroying your own 
 structures, untactical spawn trapping and any other methods that prevent the normal flow of the game is also prohibited and will be punished accordingly. 
 Spawn trapping is considered untactical if you cannot pick up the flag in the base of the spawn trapped opponents or if you kill the players longer than necessary to steal the flag.
 
-## §13 - Mineception
+## §13 – Mineception
 Teaming beyond the team sizes (so-called cross-teaming) is prohibited. Intentionally obstructing your own team members in the form of blocks that are removed from under 
 them (so-called spleefing), stealing items and intentionally not releasing them from prison or other possible methods that hinder the normal flow of the game is also prohibited and will be punished accordingly.
 
-## §14 - Conquer
+## §14 – Conquer
 Teaming beyond the team sizes (so-called cross-teaming) is prohibited. Intentionally hindering your own team members is also not allowed in any form and will be punished accordingly.
 
 ## §15 – Unbans, ban shortening and bypassing the ban
@@ -113,4 +126,4 @@ The ban days of the original account will be transferred to all secondary accoun
 
 <strong>The team reserves the right to sanction certain actions (also outside the Minecraft and TeamSpeak server) that are not explicitly listed in the rules.</strong>
 
-Last updated: March 20, 2020
+Last updated: April 23, 2020
