@@ -113,7 +113,7 @@ Achievements kann man während des Spielens auf Timolia abschließen. Eine Über
 # 2 - Games
 
 ### Wo sind Teams erlaubt?
-In 4rena und InTime sind Teams ausdrücklich verboten, in BrainBow wird Teaming lediglich zwischen zwei Teams toleriert.
+In 4rena FFA und InTime sind Teams ausdrücklich verboten, in 4rena 2v2 ist Crossteaming verboten und in BrainBow wird Teaming lediglich zwischen zwei Teams toleriert.
 Wer in den Timolianischen Spielen teamt, hat keine Konsequenzen zu befürchten. Weitere Informationen findest du im offiziellen [Regelwerk](/rules/games/).
 
 ### Wie funktioniert ... ?

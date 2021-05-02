@@ -70,8 +70,9 @@ Insbesondere ist das Teilen von Accounts sowie das Verschleiern der eigenen IP-A
 Die allgemeinen Timolia-Regeln gelten auch für erstellte Welten in JumpWorld. So sind jegliche Arten von rassistischen, anstößigen oder beleidigenden Bauwerken, Weltnamen oder Formulierungen auf Schildern verboten.
 
 ## §9 – 4rena
-- <u>Teaming</u>: Teams sind in 4rena verboten. Wenn ein Team durch einen Supporter verwarnt wird und weiterhin teamt, werden sämtliche Teammitglieder gekickt oder gebannt. Sollte ein Team im Forum reportet werden,
-so wird dieses direkt gebannt.
+- <u>Teaming</u>: Teams sind in 4rena FFA verboten. In 4rena 2v2 ist Crossteaming verboten. 
+  Wenn ein Team durch einen Supporter verwarnt wird und weiterhin teamt, werden sämtliche Teammitglieder gekickt oder gebannt. 
+  Sollte ein Team im Forum reportet werden, so wird dieses direkt gebannt.
 
 ## §10 – Timolianische Spiele
 Das unnötige Herauszögern des Spiels ist nicht erwünscht. Dazu zählen explizit Handlungen wie: Hausbau, Tierfarmen und die Jagd nach dem Enderdrachen. Teams sind in beliebiger Größe erlaubt.
