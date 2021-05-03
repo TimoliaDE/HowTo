@@ -103,7 +103,17 @@ them (so-called spleefing), stealing items and intentionally not releasing them 
 ## §14 – Conquer
 Teaming beyond the team sizes (so-called cross-teaming) is prohibited. Intentionally hindering your own team members is also not allowed in any form and will be punished accordingly.
 
-## §15 – Unbans, ban shortening and bypassing the ban
+## §15 - UHC
+In UHC there are several rules that are displayed at the beginning of each round. These are:
+- Stripmining and the like is allowed
+- Spamming chunkreloads is forbidden
+- Towering is forbidden from the 50x50 border onwards
+- Griefing and excessive tracking during farm time is forbidden
+- Teaming or crossteaming is allowed, unless otherwise announced in the current UHC
+- Bugusing is forbidden
+- Camping is forbidden from the 100x100 border onwards
+
+## §16 – Unbans, ban shortening and bypassing the ban
 - <u>Permanent bans</u>: In general all bans are temporary. However, if you exceed a ban time of 30 days in total, you will automatically be banned permanently.
 - <u>Unbans</u>: If a player has the opinion that a ban is not justified, he can demand proof at any time on the forums under the category "[Falsely banned](https://forum.timolia.de/forums/zu-unrecht-gebannt.122/)" or in TeamSpeak. 
   If you are permanently banned, you can make a request for an unban on the forums. Here you should make a special effort because it is very difficult to be unbanned after a permanent ban.
@@ -120,11 +130,11 @@ Accounts that are used to bypass a ban will be permanently banned from the Timol
   In case of repeated violations of the bans, all affected accounts can be permanently banned from Timolia without any chance of being banned. 
 The ban days of the original account will be transferred to all secondary accounts.
 
-## §16 – Refund for technical errors
+## §17 – Refund for technical errors
 - Should pixels or points be reset due to technical errors (server crashes, etc.), the team's usual behavior is not to refund them.
 - Should you notice any violations of the rules, it is desired to always report them with proof on the [forums](https://forum.timolia.de), in-game to a team member or on TeamSpeak in the support channel.
 
 
 <strong>The team reserves the right to sanction certain actions (also outside the Minecraft and TeamSpeak server) that are not explicitly listed in the rules.</strong>
 
-Last updated: April 23, 2020
+Last updated: May 03, 2020

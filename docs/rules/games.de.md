@@ -97,7 +97,17 @@ ist ebenfalls verboten und wird entsprechend sanktioniert.
 ## §14 – Conquer
 Teaming über die Teamgrenzen hinaus (sog. Crossteaming) ist verboten. Auch das vorsätzliche Behindern der eigenen Teammitglieder ist in allen Formen nicht erlaubt und wird entsprechend sanktioniert.
 
-## §15 – Entbannung, Bannverkürzung und Bannumgehung
+## §15 – UHC
+In UHC gibt es verschiedene Regeln, die zu Beginn jeder Runde angezeigt werden. Diese sind:
+- Stripmining und ähnliches ist erlaubt
+- Das Spammen von Chunkreloads ist verboten
+- Towern ist ab der 50x50 Border verboten
+- Das Griefen und exzessive Verfolgen während der Farmzeit ist verboten
+- Teaming bzw. Crossteaming ist erlaubt, außer es wird im laufenden UHC anders angekündigt
+- Bugusing ist verboten
+- Das Vercampen ab der 100x100 Border ist verboten
+
+## §16 – Entbannung, Bannverkürzung und Bannumgehung
 - <u>Permanente Banns</u>: Grundsätzlich sind alle Banns temporär. Sollte man aber eine Bannzeit von insgesamt 30 Tagen überschreiten, wird ein Spieler automatisch permanent gebannt.
 - <u>Entbannung</u>: Ist ein Spieler der Meinung, ein Bann sei nicht gerechtfertigt, so kann er jederzeit im Forum unter der Kategorie "[Zu Unrecht gebannt](https://forum.timolia.de/forums/zu-unrecht-gebannt.122/)" oder im TeamSpeak den Beweis fordern. Wenn man permanent gebannt ist, 
   kann man im Forum einen Antrag auf eine Entbannung stellen. Hierbei sollte man sich besonders viel Mühe geben, da es sehr schwer ist, nach einem permanenten Bann wieder entbannt zu werden.
@@ -114,11 +124,11 @@ Teaming über die Teamgrenzen hinaus (sog. Crossteaming) ist verboten. Auch das 
   Bei wiederholten Verstößen gegen das Bannumgehungsverbot können alle betroffenen Accounts permament und ohne Chance auf Entbannung auf Timolia gesperrt werden. 
   Banntage des ursprünglichen Accounts werden auf Zweitaccounts übertragen.
 
-## §16 – Rückerstattung bei technischen Fehlern
+## §17 – Rückerstattung bei technischen Fehlern
 - Sollten durch technische Fehler (Serverabstürze etc.) Pixel oder Punkte zurückgesetzt werden, sieht das übliche Verhalten des Teams vor, diese nicht zu erstatten.
 - Solltest du Verstöße gegen die Regeln bemerken, so ist es erwünscht, diese immer mit Beweis im [Forum](https://forum.timolia.de), ingame einem Teammitglied oder auf dem TeamSpeak im Hilfechannel zu melden.
 
 
 <strong>Das Team behält sich das Recht vor, bestimmtes Handeln (auch außerhalb des Minecraft- und TeamSpeakservers) zu sanktionieren, welches nicht explizit in den Regeln aufgelistet ist.</strong>
 
-Letzte Aktualisierung: 02. Mai 2021
+Letzte Aktualisierung: 03. Mai 2021
