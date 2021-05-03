@@ -78,8 +78,9 @@ In particular, sharing accounts and disguising your own IP address (proxy, VPN, 
 The general Timolia rules also apply to created worlds in JumpWorld. Thus, any kind of racist, offensive or insulting buildings, world names or phrases on signs are prohibited.
 
 ## §9 – 4rena
-- Teams are forbidden in 4rena. If a team is warned by a supporter and continues to team up, all team members will be kicked or banned. 
-If a team is reported on the forums, it will be banned directly.
+- <u>Teaming</u>: Teams are forbidden in 4rena FFA. In 4rena 2v2 crossteaming is forbidden.
+  If a team is warned by a supporter and continues to crossteam, all team members will be kicked or banned.
+  If a team is reported on the forums, it will be banned immediately.
 
 ## §10 – Timolianische Spiele
 The unnecessary delay of the game is not desired. This explicitly includes actions like building a house, animal farming and hunting the ender dragon. Teams of any size are allowed.
