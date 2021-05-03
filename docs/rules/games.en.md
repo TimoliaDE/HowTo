@@ -105,6 +105,7 @@ Teaming beyond the team sizes (so-called cross-teaming) is prohibited. Intention
 
 ## §15 - UHC
 In UHC there are several rules that are displayed at the beginning of each round. These are:
+
 - Stripmining and the like is allowed
 - Spamming chunkreloads is forbidden
 - Towering is forbidden from the 50x50 border onwards

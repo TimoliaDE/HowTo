@@ -99,6 +99,7 @@ Teaming über die Teamgrenzen hinaus (sog. Crossteaming) ist verboten. Auch das 
 
 ## §15 – UHC
 In UHC gibt es verschiedene Regeln, die zu Beginn jeder Runde angezeigt werden. Diese sind:
+
 - Stripmining und ähnliches ist erlaubt
 - Das Spammen von Chunkreloads ist verboten
 - Towern ist ab der 50x50 Border verboten
