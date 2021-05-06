@@ -124,12 +124,11 @@ In UHC there are several rules that are displayed at the beginning of each round
   If you don't have an account on our forums, you can register for it on the Minecraft server `register.timolia.de`. 
   Alternatively you can send us a DM <a href="https://twitter.com/messages/compose?recipient_id=385909409" target="_blank">here</a> on Twitter with your apology.
 - Bypassing bans with a second account is prohibited on timolia. 
-  The account, the person using the account and the address used at that time are considered banned.
-  
-Accounts that are used to bypass a ban will be permanently banned from the Timolia network without ban expiration and will only be unbanned upon request and activation of [Two-factor authentication](/2fa).
-  Another bypass results in a second permanent ban without ban expiration from the Timolia network, but without the possibility of a second unban. This rule does not apply to the original account.
+  The account, the person using the account and the address used at that time are considered banned. 
+  Accounts that are used to bypass a ban will be permanently banned from the Timolia network without ban expiration and will only be unbanned upon request and activation of [Two-factor authentication](/2fa). 
+  Passing on account data incl. 2fa codes or secrets of an account that was already permanently banned for bypassing a ban without ban expiry will result in a new permanent ban without ban expiry from the Timolia network, but without the possibility of another unban.
   In case of repeated violations of the bans, all affected accounts can be permanently banned from Timolia without any chance of being banned. 
-The ban days of the original account will be transferred to all secondary accounts.
+  The ban days of the original account will be transferred to all secondary accounts.
 
 ## §17 – Refund for technical errors
 - Should pixels or points be reset due to technical errors (server crashes, etc.), the team's usual behavior is not to refund them.
@@ -138,4 +137,4 @@ The ban days of the original account will be transferred to all secondary accoun
 
 <strong>The team reserves the right to sanction certain actions (also outside the Minecraft and TeamSpeak server) that are not explicitly listed in the rules.</strong>
 
-Last updated: May 03, 2020
+Last updated: May 06, 2021

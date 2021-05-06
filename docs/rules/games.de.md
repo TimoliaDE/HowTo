@@ -121,7 +121,7 @@ In UHC gibt es verschiedene Regeln, die zu Beginn jeder Runde angezeigt werden. 
   Als "gebannt" werden der Account, die Person, welche den Account nutzt, und die zu diesem Zeitpunkt verwendete Adresse angesehen. 
   Wird eine Bannumgehung nachgewiesen, verjährt der ursprüngliche Bann einen Monat langsamer, eine Entschuldigung/Entbannung ist also erst 30 Tage später als bisher möglich. 
   Accounts, mit denen der Bann umgangen wird, werden permanent ohne Bannverjährung vom Timolia-Netzwerk ausgeschlossen und werden nur auf Nachfrage und Aktivierung der [Zwei-Faktor-Authentifizierung](/2fa) entbannt.
-  Eine erneute Bannumgehung folgt in einem erneuten permanenten Ausschluss ohne Bannverjährung vom Timolia-Netzwerk, allerdings ohne Möglichkeit auf erneute Entbannung. Diese Regelung trifft nicht auf den ursprünglichen Account zu. 
+  Die Weitergabe von Accountdaten inkl. 2fa-Codes oder Secrets eines Accounts, der bereits für Bannumgehung permanent ohne Bannverjährung gebannt war, resultiert in einem erneuten permanenten Ausschluss ohne Bannverjährung vom Timolia-Netzwerk, allerdings ohne Möglichkeit auf erneute Entbannung. 
   Bei wiederholten Verstößen gegen das Bannumgehungsverbot können alle betroffenen Accounts permament und ohne Chance auf Entbannung auf Timolia gesperrt werden. 
   Banntage des ursprünglichen Accounts werden auf Zweitaccounts übertragen.
 
@@ -132,4 +132,4 @@ In UHC gibt es verschiedene Regeln, die zu Beginn jeder Runde angezeigt werden. 
 
 <strong>Das Team behält sich das Recht vor, bestimmtes Handeln (auch außerhalb des Minecraft- und TeamSpeakservers) zu sanktionieren, welches nicht explizit in den Regeln aufgelistet ist.</strong>
 
-Letzte Aktualisierung: 03. Mai 2021
+Letzte Aktualisierung: 06. Mai 2021
