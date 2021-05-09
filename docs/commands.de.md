@@ -26,8 +26,6 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/servername`                   | Zeigt dir den Server an, auf dem du dich aktuell befindest (alternativ: TAB) |
 | `/stats [1,3,30,all]`           | Zeigt dir deine Stats in den meisten Modi |
 | `/teamspeak`, `/ts`             | Zeigt die TS-IP, ermöglicht die Verifizierung und lässt dich deine Identität verwalten |
-| `/ticket <Anliegen>`            | Erstellt ein Ticket |
-| `/tickets`                      | Öffnet eine Übersicht deiner Tickets |
 | `/top`                          | Zeigt dir die Top 10 Spieler der letzten 30 Tage in einem Spielmodus an |
 | `/tutorial`                     | Starte ein Tutorial (nicht in allen Modi verfügbar) |
 | `/vote <Zahl>`                  | Votet für eine Map in einem Spielmodus |

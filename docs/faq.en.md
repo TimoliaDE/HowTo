@@ -82,9 +82,7 @@ If you have problems with your premium rank, you can find help [here](/ranks/pre
 ### Who supports me when I have questions?
 When you got any questions, we do not only love to support in-game but also both on our TeamSpeak and Discord server.
 We are always happy when someone approaches us and hopefully, we can help you with your problems or comments.
-You can also contact us on the social media platform Twitter where our social media team supports you all around the clock. 
-Additionally, you can report in-game problems, bugs and any comments via our ticket system. 
-You can do this by entering the command `/ticket <issue>`.
+You can also contact us on the social media platform Twitter where our social media team supports you all around the clock.
 We would also be happy to support you on our [Discord](https://timolia.de/discord). There you can tell us your concern at any time in the `#support` channel.
 
 ### How does the kick system work?

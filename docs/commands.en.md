@@ -26,8 +26,6 @@ You can use these commands globally at any time.
 | `/servername`                   | Shows your current server (alternatively: TAB) |
 | `/stats [1,3,30,all]`           | Shows your stats in most of the game modes |
 | `/teamspeak`, `/ts`             | Shows the TeamSpeak-IP and lets you verify and manage your identities |
-| `/ticket <issue>`               | Creates a ticket |
-| `/tickets`                      | Opens an overview of your tickets |
 | `/top`                          | Shows the top 10 players of the past 30 days in a certain game mode |
 | `/tutorial`                     | Stats a tutorial (not in all game modes available) |
 | `/vote <number>`                | Vote for a map in a game mode |

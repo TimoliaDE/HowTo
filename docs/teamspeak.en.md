@@ -25,7 +25,7 @@ We offer temporary channels for rent on our server. How? You can find out more a
 ## How do I create my private channel?
 You get a channel by contacting a team member in TeamSpeak. It is best to join the support channel. 
 Team members with the TeamSpeak icon are responsible for private channels. 
-A private channel can also be requested using a ticket. You can create this in-game with `/ticket <issue>`.
+A private channel can also be requested in the support section of our community Discord.
 
 ### Price of a private channel
 The costs of a private channel depend on their duration:
