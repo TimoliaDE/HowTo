@@ -73,6 +73,6 @@ Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium
 | `/tpstart`                      | Setzt dich an den Start des Jump 'n' Runs |
 **[Premium](/ranks/premium/) only**:
 | `/multibuild <3,6>`,<br>`/mb <3,6>` | Du kannst bis zu 3 (ab <span class="pro">Pro</span>) oder bis zu 6 (ab <span class="mvp">MVP+</span>) Blöcke auf einmal setzen
-| `/seticon`, `/reseticon`        | Setzt und entfernt dein eigenes Icon für dein Jump 'n' Run (ab <span class="pro+">Pro+</span>)
+| `/seticon`, `/reseticon`        | Setzt und entfernt dein eigenes Icon für dein Jump 'n' Run
 **[<span class='mvp'>MVP</span>](/ranks/premium/) only**:
 | `/skull [Name]`                 | Gibt dir einen Spielerkopf
