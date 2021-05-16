@@ -223,9 +223,9 @@ Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführ
 ### JumpWorld
 | Befehl | Funktion |
 | ------ | -------- |
-| `/amboss`, `crystals`, `/entities`, `/portals` | Öffnet das Menü zur Übersicht der Entities |
+| `/amboss`, `/crystals`, `/entities`, `/portals` | Öffnet das Menü zur Übersicht der Entities |
 | `/b`                            | Öffnet das Bau-Info-Menü |
-| `/buildspec`                    | Setzt dich im Bau-Modus in den Gamemode 3 |
+| `/buildspec`                    | Setzt dich im Bau-Modus in den Spectator-Modus |
 | `/checkpoint`, `/fall`, `/kill` | Teleportiert dich zurück zum letzten Checkpoint |
 | `/duel accept <Spieler>`        | Nimmt die Einladung in ein Duell an |
 | `/duel invite <Spieler>`        | Lädt einen Spieler in ein Duell ein |
@@ -244,12 +244,13 @@ Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführ
 | `/setstart`                     | Setzt den Startpunkt deines Jump 'n' Runs |
 | `/top <ID>`                     | Zeigt die Top-Zeiten des Jump 'n' Runs mit der ID [id] an |
 | `/top <ID> -f`                  | Zeigt die wenigsten Fails des Jump 'n' Runs mit der ID [id] an |
-| `/tpstart`                      | Setzt dich an den Start des Jump 'n' Runs |
+| `/tpstart`                      | Setzt dich an den Start des Jump 'n' Runs zurück |
 **[Premium](/ranks/premium/) only**:
-| `/multibuild <3,6>`,<br>`/mb <3,6>` | Du kannst bis zu 3 (ab <span class="pro">Pro</span>) oder bis zu 6 (ab <span class="mvp">MVP+</span>) Blöcke auf einmal setzen
-| `/seticon`, `/reseticon`        | Setzt und entfernt dein eigenes Icon für dein Jump 'n' Run
+| `/multibuild <3,6>`,<br>`/mb <3,6>` | Du kannst bis zu 3 (ab <span class="pro">Pro</span>) oder bis zu 6 (ab <span class="mvp">MVP+</span>) Blöcke auf einmal setzen |
+| `/seticon`                      | Setzt ein eigenes Icon für dein Jump 'n' Run |
+| `/reseticon`                    | Setzt das Icon des Jump 'n' Runs zurück |
 **[<span class='mvp'>MVP</span>](/ranks/premium/) only**:
-| `/skull [Name]`                 | Gibt dir einen Spielerkopf
+| `/skull [Name]`                 | Gibt dir einen Spielerkopf |
 
 ### UHC
 | Befehl | Funktion |
