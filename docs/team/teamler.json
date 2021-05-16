@@ -1876,7 +1876,8 @@
     "rank_history": {
       "initial": "spieler",
       "21.04.2020": "developer",
-      "02.03.2021": "native_mvp"
+      "02.03.2021": "native_mvp",
+      "14.05.2021": "developer"
     }
   },
   {
@@ -2771,6 +2772,24 @@
     "rank_history": {
       "initial": "spieler",
       "20.04.2021": "supporter"
+    }
+  },
+  {
+    "name": "HicXD",
+    "uuid": "14a13257-f1a3-4802-bd1e-73f077f0143a",
+    "sex": "male",
+    "rank_history": {
+      "initial": "expert",
+      "14.05.2021": "supporter"
+    }
+  },
+  {
+    "name": "Janettangelina",
+    "uuid": "b04f5c1b-6892-4468-9b77-5708056fdda4",
+    "sex": "female",
+    "rank_history": {
+      "initial": "spieler",
+      "14.05.2021": "supporter"
     }
   }
 ]
