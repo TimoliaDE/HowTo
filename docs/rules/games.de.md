@@ -62,8 +62,8 @@ Als kosmetische Kits werden 1v1-Kits bezeichnet, welche mit einem modifizierten 
 der Anzahl der Herzen beinhalten, die man nicht mit einem unveränderten Minecraft-Client bewirken kann. Sämtliche Kits dieser Art sind ebenfalls verboten und werden von uns gelöscht. 
 Sollte ein User ein gelöschtes Kit erneut erstellen und benutzen, wird dies mit einem Bann geahndet.
 
-### Abs. 2 – Ranked-System
-Das Spielen in der Ranked Queue ist nur auf eigenen Accounts gestattet.
+### Abs. 2 – Ranked-System und Freitagsturnier
+Das Spielen in der Ranked Queue und im Freitagsturnier ist nur auf eigenen Accounts gestattet.
 Insbesondere ist das Teilen von Accounts sowie das Verschleiern der eigenen IP-Adresse (Proxy, VPN, Tor und Ähnliche) verboten.
 
 ## §8 – JumpWorld

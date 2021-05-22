@@ -70,8 +70,8 @@ Should a user recreate and use a deleted kit, this will be punished with a ban.
   of the number of hearts that cannot be done with an unmodified Minecraft client. All kits of this type are also prohibited and will be deleted.
   Should a user recreate and use a deleted kit, this will be punished with a ban.
 
-### Paragraph 2 – Ranked System
-Playing in the Ranked Queue is only allowed on your own accounts.
+### Paragraph 2 – Ranked System and Friday Tournament
+Playing in the Ranked Queue and in the Friday Tournament is only allowed on your own accounts.
 In particular, sharing accounts and disguising your own IP address (proxy, VPN, Tor and similar) is prohibited.__
 
 ## §8 – JumpWorld
