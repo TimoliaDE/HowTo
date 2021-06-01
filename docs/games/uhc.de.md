@@ -75,6 +75,7 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 | Multi Ores           | Doppelte Erze beim Abbauen |
 | Natural Regeneration | Natürliche Regeneration ist aktiviert |
 | NoClean              | Nach jedem Kill bist du für 30 Sekunden unverwundbar |
+| NoClean Plus         | Vereint die Szenarien NoClean, DoNotDisturb und SafeLoot |
 | NoEnchant            | Es sind keine Verzauberungen möglich |
 | NoFall               | Es gibt keinen Fallschaden |
 | Only Golden Apples   | Jeder Apfel, der dropped, ist ein goldener Apfel |
@@ -83,6 +84,7 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 | Ore Limitations      | Du kannst nur 64 Eisenerze, 32 Golderze und 16 Diamanterze abbauen |
 | Regenerating Kill    | Nach einem Kill erhält der Spieler für 10 Sekunden Regeneration II |
 | Rodless              | Ermöglicht ein UHC ohne Angel |
+| Safeloot             | Nach einem Kill können für 30 Sekunden nur der Killer (und sein Team) die Items des getöteten Spielers aufheben oder seine TimeBomb öffnen |
 | Shared Damage        | Bekommt ein Spieler Schaden, bekommen auch dessen Teampartner Schaden |
 | Shared Heal          | Wird ein Spieler geheilt, heilen sich auch dessen Teampartner |
 | Show Health          | Zeigt über jedem Spieler dessen aktuelle Leben an |
