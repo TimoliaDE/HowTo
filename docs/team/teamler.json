@@ -1512,14 +1512,14 @@
       "Entschuldigungen",
       "Fragen und Antworten Forum",
       "Map-Einsendungen",
-      "Spieler melden Forum"
+      "Spieler melden Forum",
+      "Timolia Turnier Organisation"
     ],
     "responsibilities_secondary": [
       "Anregungen und Vorschläge Forum",
       "Broadcasts",
       "Supporterauswahl",
       "Timolia HowTo",
-      "Timolia Turnier Organisation",
       "Twitter"
     ],
     "rank_history": {
@@ -2174,7 +2174,6 @@
       "Management des gesamten Timolia-Teams",
       "Social-Media",
       "Supporterauswahl",
-      "Timolia Turnier Organisation",
       "YouTuber-Ränge"
     ],
     "responsibilities_secondary_hidden": [
@@ -2719,6 +2718,9 @@
     "name": "AbstaubExpertDE",
     "uuid": "f56499d5-d48f-4390-9e0e-58dc834e29fa",
     "sex": "male",
+    "responsibilities_secondary": [
+      "Timolia Turnier Organisation"
+    ],
     "rank_history": {
       "initial": "expert",
       "22.02.2021": "supporter"
