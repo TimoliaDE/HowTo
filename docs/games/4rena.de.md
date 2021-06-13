@@ -5,7 +5,7 @@
 
 ## Das Spielprinzip
 
-4rena verbindet PvP mit taktischen Spielelementen. Beweise dich gegen drei weitere Spieler mit limitierten Items. Wähle jede Runde aus, welches
+4rena verbindet PvP mit taktischen Spielelementen. Beweise dich gegen drei weitere Spieler:innen mit limitierten Items. Wähle jede Runde aus, welches
 Equipment dir zur Verfügung steht, bedenke aber: Die Items können nur einmalig verwendet werden!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DTOIOy35JXc" frameborder="0" allowfullscreen></iframe>
@@ -14,16 +14,16 @@ Equipment dir zur Verfügung steht, bedenke aber: Die Items können nur einmalig
 
 ## Und so gehts
 - Stimme mit `/vote <Map>` oder einem Klick im Chat für die Arena deiner Wahl.
-- Nach dem Ende der Voting-Phase werden alle Spieler in die Arena teleportiert.
+- Nach dem Ende der Voting-Phase werden alle Spieler:innen in die Arena teleportiert.
 - Dir stehen mehrere Kisten mit Items zur Verfügung, diese kannst du jedoch nur einmalig verwenden.
 - Drücke auf den Knopf an der Redstonelampe, um das Signal für den Beginn des Kampfes zu geben.
-- Alle Spieler werden in die Arena teleportiert, der letzte Überlebende gewinnt die Runde.
-- Gewinnt ein Kämpfer insgesamt fünf Runden, hat er das Spiel für sich entschieden.
+- Alle Spieler:innen werden in die Arena teleportiert, wer bis zuletzt übrig bleibt, gewinnt die Runde.
+- Gewinnt eine Person insgesamt fünf Runden, hat sie das Spiel für sich entschieden.
 
 ## Premium-Features
-- Premium-Spieler besitzen je nach Rang bis zu vier Stimmen im Voting-System.
-- Premium-Spieler erhalten bis zu drei mal mehr Pixel.
-- Werde mit `/togglerank` als normaler Spieler angezeigt.
+- Premium-Spieler:innen besitzen je nach Rang bis zu vier Stimmen im Voting-System.
+- Premium-Spieler:innen erhalten bis zu drei mal mehr Pixel.
+- Werde mit `/togglerank` in der normalen Standardfarbe angezeigt.
 
 Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium/) nachlesen.
 
