@@ -642,6 +642,7 @@
     "responsibilities_secondary": [
       "Baufehlerbehebung",
       "Map-Einsendungen",
+      "Organisation und Betreuung neuer Developer",
       "YouTuber-Ränge"
     ],
     "rank_history": {
@@ -2383,7 +2384,8 @@
     "sex": "male",
     "responsibilities_secondary": [
       "Interne Webanwendung",
-      "Leveldesign"
+      "Leveldesign",
+      "Organisation und Betreuung neuer Developer"
     ],
     "fields": [
       "Web Development"
