@@ -352,7 +352,6 @@
     "uuid": "a2101fef-77de-4ce8-8d51-bfeebc0770be",
     "sex": "male",
     "responsibilities_main": [
-      "Map-Einsendungen",
       "Zu Unrecht gebannt Forum"
     ],
     "responsibilities_secondary": [
@@ -539,6 +538,7 @@
     "responsibilities_secondary": [
       "Anregungen und Vorschläge Forum",
       "Fragen und Antworten Forum",
+      "Map-Einsendungen",
       "Timolia HowTo"
     ],
     "rank_history": {
@@ -639,9 +639,11 @@
     "name": "HerLegendaryWolf",
     "uuid": "bab90033-0a49-4965-834f-8e5462df7c6f",
     "sex": "male",
+     "responsibilities_main": [
+      "Map-Einsendungen"
+    ],
     "responsibilities_secondary": [
       "Baufehlerbehebung",
-      "Map-Einsendungen",
       "Organisation und Betreuung neuer Developer",
       "YouTuber-Ränge"
     ],
@@ -988,6 +990,9 @@
     "name": "ChristmasCrelias",
     "uuid": "d9027140-9718-4ef5-aabc-da49937b5be1",
     "sex": "male",
+    "responsibilities_secondary": [
+      "Map-Einsendungen"
+    ],
     "rank_history": {
       "initial": "mvp",
       "30.01.2020": "builder"
@@ -1513,7 +1518,6 @@
       "Baufehlerbehebung",
       "Entschuldigungen",
       "Fragen und Antworten Forum",
-      "Map-Einsendungen",
       "Spieler melden Forum",
       "Timolia Turnier Organisation"
     ],
@@ -1540,6 +1544,7 @@
     ],
     "responsibilities_secondary": [
       "Broadcasts",
+      "Map-Einsendungen",
       "Timolia HowTo"
     ],
     "rank_history": {
@@ -2050,6 +2055,9 @@
     "name": "_Tetzel_",
     "uuid": "4f46f87b-968d-45c5-a629-ab1821519b1b",
     "sex": "male",
+    "responsibilities_secondary": [
+      "Map-Einsendungen"
+    ],
     "rank_history": {
       "initial": "spieler",
       "18.12.2016": "builder",
@@ -2385,6 +2393,7 @@
     "responsibilities_secondary": [
       "Interne Webanwendung",
       "Leveldesign",
+      "Map-Einsendungen",
       "Organisation und Betreuung neuer Developer"
     ],
     "fields": [
@@ -2694,7 +2703,10 @@
     "name": "p1npa1",
     "uuid": "2a654b51-5045-47e1-9815-7d195ae291b6",
     "sex": "male",
-    "rank_history": {
+     "responsibilities_main": [
+      "Map-Einsendungen"
+    ],
+     "rank_history": {
       "initial": "expert",
       "17.01.2021": "builder"
     }
@@ -2743,6 +2755,9 @@
     "name": "SebaDE",
     "uuid": "e44e5f1e-6e53-4ba6-be72-175ee06f7623",
     "sex": "male",
+    "responsibilities_secondary": [
+      "Map-Einsendungen"
+    ],
     "rank_history": {
       "initial": "expert",
       "22.02.2021": "supporter"
@@ -2789,6 +2804,9 @@
     "name": "HicXD",
     "uuid": "14a13257-f1a3-4802-bd1e-73f077f0143a",
     "sex": "male",
+    "responsibilities_secondary": [
+      "Map-Einsendungen"
+    ],
     "rank_history": {
       "initial": "expert",
       "14.05.2021": "supporter"
