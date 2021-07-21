@@ -495,9 +495,11 @@
     "name": "NetflixGutschein",
     "uuid": "b0a7c420-bb5c-437f-9d24-2e73a4e2d6ca",
     "sex": "female",
-    "responsibilities_secondary": [
-      "Baufehlerbehebung",
+    "responsibilities_main": [
       "Broadcasts"
+    ],
+    "responsibilities_secondary": [
+      "Baufehlerbehebung"
     ],
     "rank_history": {
       "initial": "mvp",
