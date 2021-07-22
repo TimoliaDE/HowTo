@@ -46,6 +46,7 @@ build_live_de:
   script:
     - for file in $(find . -name '*.de.md'); do echo "mv $file $(echo $file | sed 's|\.de\.md|.md|g')" && mv "$file" "$(echo $file | sed 's|\.de\.md|.md|g')"; done # use german files
     - for file in $(find . -name '*.*.md'); do echo "rm $file" && rm "$file"; done # remove all other ones
+    - sed -i 's|%SITE_URL%|https://howto.timolia.de|g' mkdocs.yml
     - docker info
     - docker login -u=$DOCKER_USERNAME_LIVE -p=$DOCKER_PASSWORD_LIVE $DOCKER_REGISTRY_LIVE
     - docker build -t $DOCKER_REGISTRY_LIVE/$IMAGE_NAME:$CI_COMMIT_REF_NAME .
@@ -62,6 +63,7 @@ build_dev_de:
   script:
     - for file in $(find . -name '*.de.md'); do echo "mv $file $(echo "$file" | sed -E 's|\.[a-z]+\.|.|g')" && mv "$file" "$(echo "$file" | sed -E 's|\.[a-z]+\.|.|g')"; done # use german files
     - for file in $(find . -name '*.*.md'); do echo "rm $file" && rm "$file"; done # remove all other ones
+    - sed -i 's|%SITE_URL%|https://dev.howto.timolia.de|g' mkdocs.yml
     - docker info
     - docker login -u=$DOCKER_USERNAME_DEV -p=$DOCKER_PASSWORD_DEV $DOCKER_REGISTRY_DEV
     - docker build -t $DOCKER_REGISTRY_DEV/$IMAGE_NAME:dev .
@@ -79,6 +81,7 @@ build_dev_en:
     - for file in $(find . -name '*.en.md'); do echo "mv $file $(echo "$file" | sed -E 's|\.[a-z]+\.|.|g')" && mv "$file" "$(echo "$file" | sed -E 's|\.[a-z]+\.|.|g')"; done # use english files (preferred)
     - for file in $(find . -name '*.de.md'); do if [ ! -f "$(echo "$file" | sed -E 's|\.[a-z]+\.|.|g')" ]; then mv "$file" "$(echo "$file" | sed -E 's|\.[a-z]+\.|.|g')"; fi; done # use german files as fallback
     - for file in $(find . -name '*.*.md'); do echo "rm $file" && rm "$file"; done # remove all other ones
+    - sed -i 's|%SITE_URL%|https://dev.howto-en.timolia.de|g' mkdocs.yml
     - docker info
     - docker login -u=$DOCKER_USERNAME_DEV -p=$DOCKER_PASSWORD_DEV $DOCKER_REGISTRY_DEV
     - docker build -t $DOCKER_REGISTRY_DEV/$IMAGE_NAME-en:dev .
