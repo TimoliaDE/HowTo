@@ -27,6 +27,7 @@ pages:
   - Arcade: 'games/arcade.md'
   - BrainBow: 'games/brainbow.md'
   - Castles: 'games/castles.md'
+  - Chainreact: 'games/chainreact.md'
   - Conquer: 'games/conquer.md'
   - DNA: 'games/dna.md'
   - InTime: 'games/intime.md'
