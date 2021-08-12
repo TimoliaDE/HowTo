@@ -2832,5 +2832,14 @@
       "initial": "spieler",
       "26.06.2021": "builder"
     }
+  },
+  {
+    "name": "Cintoxxx",
+    "uuid": "234f39bf-d648-41e0-8bdc-7d039a9e09c7",
+    "sex": "male",
+    "rank_history": {
+      "initial": "expert",
+      "09.08.2021": "supporter"
+    }
   }
 ]
