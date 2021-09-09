@@ -40,6 +40,9 @@ public class TeamlerRankChange {
         this.rankTo = rankTo;
         this.date = toDate(date);
         this.hidden = hidden;
+
+        Validate.notNull(this.rankFrom, "Der Rang von '" + name + "' existiert nicht");
+        Validate.notNull(this.rankTo, "Der Rang von '" + name + "' existiert nicht");
     }
 
 
