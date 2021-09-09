@@ -247,7 +247,8 @@
     "sex": "male",
     "rank_history": {
       "initial": "mvp",
-      "21.09.2020": "supporter"
+      "21.09.2020": "supporter",
+      "29.08.2021": "native_mvp"
     }
   },
   {
@@ -1829,12 +1830,10 @@
     "name": "byRoadrunner",
     "uuid": "2ae500be-80f4-4076-a6ea-b43abb431ed9",
     "sex": "male",
-    "responsibilities_main_hidden": [
-      "Bugs und Spielfehler"
-    ],
     "rank_history": {
       "initial": "mvp",
-      "12.11.2019": "supporter"
+      "12.11.2019": "supporter",
+      "07.09.2021": "native_mvp"
     }
   },
   {
