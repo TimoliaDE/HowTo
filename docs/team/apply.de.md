@@ -50,6 +50,8 @@ und Bildbearbeitung, wenn du im bildnerischen bzw. gestalterischen Bereich täti
 Postproduktion für den Schwerpunkt der (YouTube)Videoproduktion; Kreativität; sprachliche Fähigkeiten; Kenntnis über Design und kreativen Aufbau Timolias.
 Bitte beachte, dass du mindestens 14 Jahre alt sein musst, um dich bei uns als Creator zu bewerben.
 
+Bewerbungen für diesen Bereich sind derzeit nicht möglich!
+
 
 ### Premium-Ränge
 Timolia hat verschiedene permanente Premium-Ränge. Für diese kann man sich nicht bewerben, als Dankeschön erhält jeder Spieler einen Rang, 
