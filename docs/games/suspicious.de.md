@@ -1,3 +1,8 @@
+<div class="banner-wrapper">
+    <img alt="UHC" src="../img/Suspicious.png">
+    <div class="banner-text">Suspicious</div>
+</div>
+
 ## Das Spielprinzip
 In Suspicious gibt es zwei Teams: Crewmates und Imposter. Die Aufgabe der Crewmates ist es, alle ihre Aufgaben zu lösen und währenddessen nicht von den Impostern getötet zu werden. 
 
