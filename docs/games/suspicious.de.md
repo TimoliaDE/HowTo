@@ -4,44 +4,23 @@
 </div>
 
 ## Das Spielprinzip
-Du bist gut in Jump and Runs und möchtest deine Fähigkeiten unter Beweis stellen? Dann ist DNA genau das Richtige für dich! Ziel ist es, als erster Spieler die obere
-Grenze von 32 Blöcken zu erreichen.
+In Suspicious gibt es zwei Teams: Crewmates und Imposter.Die Aufgabe der Crewmates ist es, alle ihre Aufgaben zu lösen und währenddessen nicht von den Impostern getötet zu werden. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0xjnQXqb7-A" frameborder="0" allowfullscreen></iframe>
+## Und so gehts // Crewmate
+- Versuche nacheinander alle deine Aufgaben zu lösen. Die Karte hilft dir dabei die richtigen Orte zu finden.
+- Als Crewmate weißt du nicht, wer Imposter ist. Versuche also die Person zu enttarnen, welche sich <strong>suspicious</strong> verhält!
+- In Meetings hast du die Möglichkeit für die Person zu stimmen, die du für einen Imposter hälst, und somit die Gefahr zu bannen.
+- Die Crewmates gewinnen das Spiel, wenn sie alle Aufgaben gelöst oder die Imposter rausgevotet haben.
 
-<p></p>
+## Und so gehts // Imposter
+- Nutze deinen Killstick, um alle Crewmates zu töten. Dabei musst du jedoch auf den Cooldown achten!
+- Versuche den Verdacht auf andere zu lenken, indem du vortäuschst wie die übrigen Crewmates Aufgaben zu lösen.
+- Andere Spieler:innen können nicht sehen, welche Items du in der Hand hält.
+- Setze Sabotagen taktisch ein, um Crewates abzulenken oder verschwinde plötzlich in einem der Lüftungsschächte, um schnell zwischen Räumen hin und her zu springen.
+- Die Imposter gewinnen das Spiel, wenn sie alle Crewmates getötet haben.
 
-## Und so gehts
-- Stimme mit `/vote <Map>` oder einem Klick im Chat für die Map deiner Wahl.
-- Zu Beginn des Spiels bekommt jeder eine Farbe zugewiesen, diese zeigt die Farbe deines Jump and Runs an.
-- Nach ein paar Sekunden spawnen die ersten Blöcke, bei jedem Erklimmen eines Blocks wird ein weiterer gespawnt und der vorherige entfernt.
-- Mit Rechtsklick auf einen Block wird ein Checkpoint gesetzt.
-- Je mehr Checkpoints gesetzt sind, desto länger dauert es, bis der nächste Block erscheint.
-- Blöcke, die die Farbe wechseln, sind Special Blocks. Mit diesen können besondere Items oder Effekte ergattert werden.
+## Die Aufgaben
 
-## Spezielle Items und Effekte
-
-- **Schneeball**: Schieße deine Gegner nach unten.
-- **Faules Ei**: Verursache Übelkeit bei deinem Gegner.
-- **Speed**: Springe durch den Speed-Effekt schneller und weiter.
-- **JumpBoost**: Springe durch den Jump-Boost schneller und weiter.
-
-## Die Ränge in DNA
-
-| Rang | Punkte | Name |
-| ------ | ------ | ------ |
-| 1 | 64 | Tastenklopper |
-| 2 | 128 | Hindernis |
-| 3 | 256 | Bergziege |
-| 4 | 512 | Gegner |
-| 5 | 1024 | Sprinter |
-| 6 | 2048 | ??? |
-| 7 | 4096 | ??? |
-| 8 | 8129 | ??? |
-| 9 | 16348 | ??? |
-| 10 | 32768 | ??? |
-
-Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren, werden namentlich nur die ersten Ränge genannt.
 
 ## Premium-Features
 
