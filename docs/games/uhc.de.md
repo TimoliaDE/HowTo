@@ -26,7 +26,7 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 | Szenario | Beschreibung |
 | -------- | ------------ |
 | 1.7 Enchantments     | Enchantments sind im Verzauberungstisch nicht sichtbar. Außerdem benötigst du kein Lapislazuli. |
-| Absorptionless       | Golden Heads -und Äpfel geben keine Absorptionsherzen |
+| Absorptionless       | Golden Heads und Äpfel geben keine Absorptionsherzen |
 | Apple Kill           | Jeder Spieler erhält 3 goldene Äpfel am Ende der Schutzzeit sowie 2 goldene Äpfel nach jedem Kill |
 | Auto Torch           | Fackeln werden in dunkeln Umgebungen automatisch gesetzt |
 | Backpack             | Ermöglicht ein gemeinsames Inventar in Team-UHCs (`/backpack` oder `/bp`) |
@@ -56,10 +56,10 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 | Get Away             | Du erhältst Speed 2 für 30 Sekunden, wenn du einen Spieler tötest |
 | Golden Heal          | Jeder Spieler erhält zu Spielbeginn eine goldene Hacke, mit der man sich ein Mal vollständig heilen kann |
 | Goldless             | Es gibt keine Golderze, jedoch bekommt man pro Kill 8 Gold |
-| Gold Digger          | In jedem Erz findest du zusätzlich 1 Goldnugget |
+| Gold Digger          | In jedem Erz findest du zusätzlich einen Goldnugget |
 | Hastey Boys          | Jedes Werkzeug hat Effizienz und Haltbarkeit 3 |
 | Healing Kill         | Nach jedem Kill erhältst du wieder volles Leben |
-| Heart Upgrade        | Nach jeden Kill erhöht sich deine maximale Lebenszahl um eins |
+| Heart Upgrade        | Nach jedem Kill erhöht sich deine maximale Lebenszahl um eins |
 | Horseless            | Ermöglicht ein UHC ohne Pferde |
 | Hungerless           | Du bist immer gesättigt |
 | Hydrophobic          | Du bekommst Schaden, wenn du im Wasser bist |
@@ -92,10 +92,10 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 | Soup                 | Suppenheilung ist aktiviert (2 Herzen) |
 | Starter              | Das UHC beginnt für jeden mit Eisenrüstung und Werkzeug |
 | Switcheroo           | Beim Abschießen eines Spielers (Pfeil, Ei, ...) tauschen sich die Positionen der beiden Spieler |
-| Tank                 | Die ersten 3 Male, würdest du Schaden erhalten, wirst du verschont |
+| Tank                 | Die ersten 3 Male bei denen ein Spieler Schaden erhalten würde, wird er verschont |
 | Timber               | Bäume gehen direkt kaputt |
-| TimeBomb             | Nach einem Kill spawnt eine Kiste mit den Items des Gegners, diese explodiert nach 30 Sekunden |
-| Toplist              | Alle 10 Minuten regenerierst du 2 Leben und erhältst 2 Extraherzen, bis du Schaden bekommst. Dann musst du einen Spieler töten, um erneut Leben zu erhalten. |
+| TimeBomb             | Nach einem Kill spawnt eine Kiste mit den Items deines Gegners. Diese explodiert nach 30 Sekunden. |
+| Toplist              | Alle 10 Minuten regenerierst du 2 Leben und erhältst 2 Extraherzen, bis du Schaden bekommst. Dann musst du einen Spieler töten, um erneut Leben zu erhalten.
 | Turtle               | Wenn du sneakst, erhälst du nur den halben Schaden |
 | xRay-Pickaxe         | Diese Spitzhacke kann gecrafted werden und verwandelt mit einem Rechtsklick alle Steine im Umkreis für eine kurze Zeit in Glas |
 | Zombie Death         | Wenn ein Spieler stirbt, spawnt an dessen Standort ein Zombie mit Diamantrüstung |
