@@ -68,7 +68,7 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 | Instant Head         | Spielerköpfe sind deine Leibspeise, durch die du 10 Sekunden lang Speed 2 erhältst |
 | Interval Damage      | Alle 10 Minuten bekommt jeder Spieler 2 Herzen Schaden |
 | Killswitch           | Der Killer eines Spielers übernimmt das Inventar des Getöteten |
-| Limited Inventory    | Du kannst nur die Hotbar nutzen. Das restliche Inventar ist gesperrt. |
+| Limited Inventory    | Du kannst nur die Hotbar nutzen, das restliche Inventar ist gesperrt |
 | Low Life             | Jeder Spieler startet mit einem halben Herz und einem Notch-Apfel |
 | MiddleEnchants       | Verzauberungstische sind bis auf vier Stück in der Mitte deaktiviert |
 | MobileCraftingTable  | Öffne deine mobile Werkbank mit `/workbench` |
@@ -94,8 +94,8 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 | Switcheroo           | Beim Abschießen eines Spielers (Pfeil, Ei, ...) tauschen sich die Positionen der beiden Spieler |
 | Tank                 | Die ersten 3 Male bei denen ein Spieler Schaden erhalten würde, wird er verschont |
 | Timber               | Bäume gehen direkt kaputt |
-| TimeBomb             | Nach einem Kill spawnt eine Kiste mit den Items deines Gegners. Diese explodiert nach 30 Sekunden. |
-| Toplist              | Alle 10 Minuten regenerierst du 2 Leben und erhältst 2 Extraherzen, bis du Schaden bekommst. Dann musst du einen Spieler töten, um erneut Leben zu erhalten.
+| TimeBomb             | Nach einem Kill spawnt eine Kiste mit den Items deines Gegners. Diese explodiert nach 30 Sekunden |
+| Toplist              | Alle 10 Minuten regenerierst du 2 Leben und erhältst 2 Extraherzen, bis du Schaden bekommst. Dann musst du einen Spieler töten, um erneut Leben zu erhalten |
 | Turtle               | Wenn du sneakst, erhälst du nur den halben Schaden |
 | xRay-Pickaxe         | Diese Spitzhacke kann gecrafted werden und verwandelt mit einem Rechtsklick alle Steine im Umkreis für eine kurze Zeit in Glas |
 | Zombie Death         | Wenn ein Spieler stirbt, spawnt an dessen Standort ein Zombie mit Diamantrüstung |
