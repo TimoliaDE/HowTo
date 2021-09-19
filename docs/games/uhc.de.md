@@ -28,7 +28,6 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 | 1.7 Enchantments     | Enchantments sind im Verzauberungstisch nicht sichtbar. Außerdem benötigst du kein Lapislazuli. |
 | Absorptionless       | Golden Heads und Äpfel geben keine Absorptionsherzen |
 | Apple Kill           | Jeder Spieler erhält 3 goldene Äpfel am Ende der Schutzzeit sowie 2 goldene Äpfel nach jedem Kill |
-| Auto Torch           | Fackeln werden in dunkeln Umgebungen automatisch gesetzt |
 | Backpack             | Ermöglicht ein gemeinsames Inventar in Team-UHCs (`/backpack` oder `/bp`) |
 | Bandits              | Schlägst du einen Spieler, erhältst du mit einer 5 %igen Wahrscheinlichkeit ein Item aus dessen Inventar |
 | BedBomb              | Betten explodieren, sobald du versuchst, dich hineinzulegen |
@@ -85,18 +84,15 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 | Regenerating Kill    | Nach einem Kill erhält der Spieler für 10 Sekunden Regeneration II |
 | Rodless              | Ermöglicht ein UHC ohne Angel |
 | Safeloot             | Nach einem Kill können für 30 Sekunden nur der Killer (und sein Team) die Items des getöteten Spielers aufheben oder seine TimeBomb öffnen |
-| Shared Damage        | Bekommt ein Spieler Schaden, bekommen auch dessen Teampartner Schaden |
 | Shared Heal          | Wird ein Spieler geheilt, heilen sich auch dessen Teampartner |
 | Show Health          | Zeigt über jedem Spieler dessen aktuelle Leben an |
 | Sniper               | Pfeile, die aus mehr als 30 Blöcken Abstand geschossen werden, machen doppelten Schaden |
 | Soup                 | Suppenheilung ist aktiviert (2 Herzen) |
-| Starter              | Das UHC beginnt für jeden mit Eisenrüstung und Werkzeug |
 | Switcheroo           | Beim Abschießen eines Spielers (Pfeil, Ei, ...) tauschen sich die Positionen der beiden Spieler |
 | Tank                 | Die ersten 3 Male bei denen ein Spieler Schaden erhalten würde, wird er verschont |
 | Timber               | Bäume gehen direkt kaputt |
 | TimeBomb             | Nach einem Kill spawnt eine Kiste mit den Items deines Gegners. Diese explodiert nach 30 Sekunden |
 | Toplist              | Alle 10 Minuten regenerierst du 2 Leben und erhältst 2 Extraherzen, bis du Schaden bekommst. Dann musst du einen Spieler töten, um erneut Leben zu erhalten |
-| Turtle               | Wenn du sneakst, erhälst du nur den halben Schaden |
 | xRay-Pickaxe         | Diese Spitzhacke kann gecrafted werden und verwandelt mit einem Rechtsklick alle Steine im Umkreis für eine kurze Zeit in Glas |
 | Zombie Death         | Wenn ein Spieler stirbt, spawnt an dessen Standort ein Zombie mit Diamantrüstung |
 
