@@ -8,7 +8,7 @@ Chainreact ist ein geheimer Modus auf Timolia, welcher in der Main Lobby verstec
 Dabei gibt es bei Chainreact noch ein weiteres Minispiel: 5 Wins.
 
 ## Und so gehts // Chainreact
-Bei Chainreact geht es darum, durch Kettenreaktionen und Auffülen von Waben, das Spielfeld einzunehmen. 
+Bei Chainreact geht es darum, durch Kettenreaktionen und Auffüllen von Waben, das Spielfeld einzunehmen. 
 Zum Spielen werden mindestens zwei Spieler benötigt und ist je nach Arena mit bis zu sechs Spielern möglich.
 
 - Wählt mit dem Kompass in der Chainreact-Lobby eine Arena aus
@@ -27,16 +27,29 @@ Zum Spielen werden mindestens zwei Spieler benötigt und ist je nach Arena mit b
 Auf Arena 1 kann man zudem noch ein Tutorial starten.
 
 ## Und so gehts // 5-Wins
-Bei 5-Wins geht es darum, durch präzises Setzen von Blöcken, als erstes 5 Blöcke in einer Reihe zu haben. Zum Spielen werden mindestens zwei Spieler benötigt.
+Bei 5-Wins geht es darum, durch präzises Setzen von Blöcken, als erstes 5 Blöcke in einer Reihe zu haben. Zum Spielen werden zwei Spieler benötigt.
 
 - Wählt mit dem Kompass in der Chainreact-Lobby eine Arena aus
 - An den Schildern könnt ihr euch eine Farbe aussuchen
 - Ab 2 Spielern geht es los
 - Die Spieler sind immer abwechselnd am Zug
-- Durch klicken mit der eigenen Farbe auf eine freie Stelle im Glasboden wird ein Block gesetzt
+- Durch Klicken mit der eigenen Farbe auf eine freie Stelle im Glasboden wird ein Block gesetzt
 - Das Spiel endet, sobald einer der beiden Spieler eine Reihe gebaut hat, die aus 5 Blöcken besteht
 - Diese Reihe kann waagerecht oder diagonal sein
 - Die Reihe darf auch die Reihe des gegners Kreuzen, jedoch darf eure Reihe nicht von der gegnerischen unterbrochen werden
+
+## Und so gehts // Overturn
+Bei Overturn geht es darum, durch taktisches Setzen von Blöcken, die Blöcke des Gegners zu erobern. Zum Spielen werden zwei Spieler benötigt.
+
+- Wählt mit dem Kompass in der Chainreact-Lobby eine Arena aus
+- An den Schildern könnt ihr euch eine Farbe aussuchen
+- Ab 2 Spielern geht es los
+- Die Spieler sind immer abwechselnd am Zug
+- Die ersten 4 Blöcke werden in der Mitte der Arena platziert
+- Nach den ersten 4 Zügen muss mit jedem Zug mindestens ein Block übernommen werden
+- Gegnerische Blöcke werden übernommen, indem man sie mit den eigenen Blöcken umschließt (senkrecht, waagerecht oder diagonal)
+- Alle möglichen Züge des Spielers werden mit weißem Glas markiert
+- Gewonnen hat am Ende der Spieler, der die meisten Blöcke eingefärbt hat
 
 ## Die Befehle
 | Befehl | Funktion |
