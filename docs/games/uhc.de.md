@@ -26,11 +26,11 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 | Szenario | Beschreibung |
 | -------- | ------------ |
 | 1.7 Enchantments     | Enchantments sind im Verzauberungstisch nicht sichtbar. Außerdem benötigst du kein Lapislazuli. |
-| Absorptionless       | Golden Heads und Äpfel geben keine Absorptionsherzen |
+| Absorptionless       | Golden Heads und Goldene Äpfel geben keine Absorptionsherzen |
 | Apple Kill           | Jeder Spieler erhält 3 goldene Äpfel am Ende der Schutzzeit sowie 2 goldene Äpfel nach jedem Kill |
 | Backpack             | Ermöglicht ein gemeinsames Inventar in Team-UHCs (`/backpack` oder `/bp`) |
 | Bandits              | Schlägst du einen Spieler, erhältst du mit einer 5 %igen Wahrscheinlichkeit ein Item aus dessen Inventar |
-| BedBomb              | Betten explodieren, sobald du versuchst, dich hineinzulegen |
+| BedBomb              | Betten explodieren, sobald du versuchst dich hineinzulegen |
 | Birds                | Alle Spieler können fliegen |
 | Blocked Blocks       | Man kann selbst platzierte Blöcke nicht mehr abbauen |
 | Bloody Diamonds      | Beim Abbauen eines Diamanten bekommst du ein halbes Herz Schaden |
@@ -91,8 +91,8 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 | Switcheroo           | Beim Abschießen eines Spielers (Pfeil, Ei, ...) tauschen sich die Positionen der beiden Spieler |
 | Tank                 | Die ersten 3 Male bei denen ein Spieler Schaden erhalten würde, wird er verschont |
 | Timber               | Bäume gehen direkt kaputt |
-| TimeBomb             | Nach einem Kill spawnt eine Kiste mit den Items deines Gegners. Diese explodiert nach 30 Sekunden |
-| Toplist              | Alle 10 Minuten regenerierst du 2 Leben und erhältst 2 Extraherzen, bis du Schaden bekommst. Dann musst du einen Spieler töten, um erneut Leben zu erhalten |
+| TimeBomb             | Nach einem Kill spawnt eine Kiste mit den Items deines Gegners. Diese explodiert nach 30 Sekunden. |
+| Toplist              | Alle 10 Minuten regenerierst du 2 Leben und erhältst 2 Extraherzen, bis du Schaden bekommst. Dann musst du einen Spieler töten, um erneut Leben zu erhalten. |
 | xRay-Pickaxe         | Diese Spitzhacke kann gecrafted werden und verwandelt mit einem Rechtsklick alle Steine im Umkreis für eine kurze Zeit in Glas |
 | Zombie Death         | Wenn ein Spieler stirbt, spawnt an dessen Standort ein Zombie mit Diamantrüstung |
 
