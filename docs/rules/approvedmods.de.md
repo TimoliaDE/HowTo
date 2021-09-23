@@ -14,7 +14,7 @@ Suche am besten mit der Suchfunktion deines Browsers (**Strg + F**) auf dieser S
 - AutoGG [<a href="https://2pi.pw/mods/autogg" target="_blank">Klick</a>]
 - AutoTip [<a href="https://autotip.pro" target="_blank">Klick</a>]
 - AutoWho [<a href="https://2pi.pw/mods/autowho" target="_blank">Klick</a>]
-- Badlion Client 2 [<a href="https://client.badlion.net" target="_blank">Klick</a>]
+- Badlion Client [<a href="https://client.badlion.net" target="_blank">Klick</a>]
 - Batty's Coordinates (+) [<a href="https://www.curseforge.com/minecraft/mc-mods/batty-coords" target="_blank">Klick</a>, <a href="https://www.curseforge.com/minecraft/mc-mods/batty-ui" target="_blank">Klick</a>]
 - Better Foliage [<a href="https://www.curseforge.com/minecraft/mc-mods/better-foliage" target="_blank">Klick</a>]
 - bspkrscore [<a href="https://www.curseforge.com/minecraft/mc-mods/bspkrscore" target="_blank">Klick</a>]
