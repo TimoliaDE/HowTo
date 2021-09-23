@@ -26,7 +26,7 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 | Szenario | Beschreibung |
 | -------- | ------------ |
 | 1.7 Enchantments     | Enchantments sind im Verzauberungstisch nicht sichtbar. Außerdem benötigst du kein Lapislazuli. |
-| Absorptionless       | Golden Heads und Goldene Äpfel geben keine Absorptionsherzen |
+| Absorptionless       | Golden Heads und goldene Äpfel geben keine Absorptionsherzen |
 | Apple Kill           | Jeder Spieler erhält 3 goldene Äpfel am Ende der Schutzzeit sowie 2 goldene Äpfel nach jedem Kill |
 | Backpack             | Ermöglicht ein gemeinsames Inventar in Team-UHCs (`/backpack` oder `/bp`) |
 | Bandits              | Schlägst du einen Spieler, erhältst du mit einer 5 %igen Wahrscheinlichkeit ein Item aus dessen Inventar |
