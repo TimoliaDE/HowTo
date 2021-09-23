@@ -24,7 +24,7 @@ Zum Spielen werden mindestens zwei Spieler benötigt und ist je nach Arena mit b
 - Dadurch kann man Kettenreaktionen machen
 - Das Spiel endet, wenn ein Spieler als erstes 25 Waben erobert, oder alle gegnerischen Felder übernimmt
 
-Auf Arena 1 kann man zudem noch ein Tutorial starten.
+Auf Arena 1 findet ihr auch ein Tutorial.
 
 ## Und so gehts // 5-Wins
 Bei 5-Wins geht es darum, durch präzises Setzen von Blöcken, als erstes 5 Blöcke in einer Reihe zu haben. Zum Spielen werden zwei Spieler benötigt.
