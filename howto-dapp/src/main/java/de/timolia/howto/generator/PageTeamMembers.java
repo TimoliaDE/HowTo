@@ -56,11 +56,11 @@ public class PageTeamMembers {
 
             for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.getRankCurrent().equals(rank)).collect(Collectors.toList())) {
 
-                Validate.isTrue(!teamler.getResponsibilitiesMain().contains(null), "Der Spieler '" + teamler.getName() + "' hat eine leere responsibilities_main, Komma zu viel?");
-                Validate.isTrue(!teamler.getResponsibilitiesMainHidden().contains(null), "Der Spieler '" + teamler.getName() + "' hat eine leere responsibilities_main_hidden, Komma zu viel?");
-                Validate.isTrue(!teamler.getResponsibilitiesSecondary().contains(null), "Der Spieler '" + teamler.getName() + "' hat eine leere responsibilities_secondary, Komma zu viel?");
-                Validate.isTrue(!teamler.getResponsibilitiesSecondaryHidden().contains(null), "Der Spieler '" + teamler.getName() + "' hat eine leere responsibilities_secondary_hidden, Komma zu viel?");
-                Validate.isTrue(!teamler.getFields().contains(null), "Der Spieler '" + teamler.getName() + "' hat eine leere fields, Komma zu viel?");
+                Validate.isTrue(teamler.getResponsibilitiesMain() == null || !teamler.getResponsibilitiesMain().contains(null), "Der Spieler '" + teamler.getName() + "' hat eine leere responsibilities_main, Komma zu viel?");
+                Validate.isTrue(teamler.getResponsibilitiesMainHidden() == null || !teamler.getResponsibilitiesMainHidden().contains(null), "Der Spieler '" + teamler.getName() + "' hat eine leere responsibilities_main_hidden, Komma zu viel?");
+                Validate.isTrue(teamler.getResponsibilitiesSecondary() == null || !teamler.getResponsibilitiesSecondary().contains(null), "Der Spieler '" + teamler.getName() + "' hat eine leere responsibilities_secondary, Komma zu viel?");
+                Validate.isTrue(teamler.getResponsibilitiesSecondaryHidden() == null || !teamler.getResponsibilitiesSecondaryHidden().contains(null), "Der Spieler '" + teamler.getName() + "' hat eine leere responsibilities_secondary_hidden, Komma zu viel?");
+                Validate.isTrue(teamler.getFields() == null || !teamler.getFields().contains(null), "Der Spieler '" + teamler.getName() + "' hat eine leere fields, Komma zu viel?");
 
                 sb
                         .append("\n")
