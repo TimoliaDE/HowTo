@@ -265,16 +265,6 @@
     "name": "caelis",
     "uuid": "9c119b63-820d-4973-ab8e-90fb79c5064d",
     "sex": "male",
-    "responsibilities_main": [
-      "Interne Webanwendung"
-    ],
-    "responsibilities_secondary": [
-      "Hardware"
-    ],
-    "fields": [
-      "Systemadministration",
-      "Web Development"
-    ],
     "rank_history": {
       "initial": "supporter_games",
       "05.10.2016": "moderator_games",
@@ -283,13 +273,18 @@
       "27.04.2019": "administrator",
       "08.11.2019": "sysadmin",
       "16.07.2020": "developer_plus",
-      "02.04.2021": "sysadmin"
+      "02.04.2021": "sysadmin",
+      "15.09.2021": "native_expert"
     }
   },
   {
     "name": "xJu1ia",
     "uuid": "9d4ee99b-d4d1-4ca4-8a50-50270a5fadb9",
     "sex": "female",
+    "responsibilities_main": [
+      "Social-Media",
+      "YouTuber-Ränge"
+    ],
     "rank_history": {
       "initial": "expert",
       "09.05.2016": "supporter_games",
@@ -539,11 +534,16 @@
     "name": "Karolux_",
     "uuid": "b225d9b4-e90e-486e-a195-06915092eecc",
     "sex": "male",
-    "responsibilities_secondary": [
+    "responsibilities_main": [
       "Anregungen und Vorschläge Forum",
+      "Feedback Forum",
+      "Forenorganisation",
       "Fragen und Antworten Forum",
-      "Map-Einsendungen",
+      "Gewinnspielorganisation",
       "Timolia HowTo"
+    ],
+    "responsibilities_secondary": [
+      "Map-Einsendungen"
     ],
     "rank_history": {
       "initial": "pro",
@@ -1519,6 +1519,7 @@
     "uuid": "0e23e989-7cfb-40f3-ad63-8a76c68bdd7d",
     "sex": "male",
     "responsibilities_main": [
+      "Anregungen und Vorschläge Forum",
       "Baufehlerbehebung",
       "Entschuldigungen",
       "Fragen und Antworten Forum",
@@ -1526,7 +1527,6 @@
       "Timolia Turnier Organisation"
     ],
     "responsibilities_secondary": [
-      "Anregungen und Vorschläge Forum",
       "Broadcasts",
       "Supporterauswahl",
       "Timolia HowTo",
@@ -1561,10 +1561,12 @@
     "name": "leStark",
     "uuid": "0f60d23f-7105-4199-bfe9-099cee27977f",
     "sex": "male",
+    "responsibilities_main": [
+      "YouTuber-Ränge"
+    ],
     "responsibilities_secondary": [
       "Entschuldigungen",
-      "Zu Unrecht gebannt Forum",
-      "YouTuber-Ränge"
+      "Zu Unrecht gebannt Forum"
     ],
     "rank_history": {
       "initial": "spieler",
@@ -1722,32 +1724,14 @@
     "name": "physanus",
     "uuid": "1bec952b-bbe1-4699-9d9d-d6ceafa7f952",
     "sex": "male",
-    "responsibilities_main": [
-      "Broadcasts",
-      "DevOps",
-      "Gewinnspielorganisation",
-      "Timolia HowTo"
-    ],
-    "responsibilities_secondary": [
-      "Bauteam-Twitter",
-      "Community-Discord",
-      "Supporterauswahl",
-      "TeamSpeak",
-      "Timolia Turnier Organisation",
-      "Twitter"
-    ],
-    "fields": [
-      "Systemadministration",
-      "Plugin Development",
-      "Web Development"
-    ],
     "rank_history": {
       "initial": "spieler",
       "11.10.2017": "developer",
       "15.05.2018": "native_mvp",
       "17.08.2018": "developer",
       "17.02.2019": "moderator",
-      "17.03.2020": "sysadmin"
+      "17.03.2020": "sysadmin",
+      "15.09.2021": "native_expert"
     }
   },
   {
@@ -2096,11 +2080,13 @@
     "uuid": "525183d9-1a5a-40e1-a712-e3099282c341",
     "sex": "male",
     "responsibilities_main": [
-      "Anti-Cheat"
+      "Anregungen und Vorschläge Forum",
+      "Anti-Cheat",
+      "Feedback Forum",
+      "Forenorganisation",
+      "Fragen und Antworten Forum"
     ],
     "responsibilities_secondary": [
-      "Feedback Forum",
-      "Fragen und Antworten Forum",
       "Map-Einsendungen"
     ],
     "responsibilities_main_hidden": [
@@ -2172,34 +2158,13 @@
     "name": "Lascona",
     "uuid": "5687c78f-0076-48b0-9697-e518359bead1",
     "sex": "female",
-    "responsibilities_main": [
-      "Teammanagement",
-      "Projektleitung",
-      "Internes und externes Feedback",
-      "YouTuber"
-    ],
-    "responsibilities_main_hidden": [
-      "Anregungen und Vorschläge Forum",
-      "Broadcasts",
-      "Forenorganisation",
-      "Feedback Forum",
-      "Management des gesamten Timolia-Teams",
-      "Social-Media",
-      "Supporterauswahl",
-      "YouTuber-Ränge"
-    ],
-    "responsibilities_secondary_hidden": [
-      "Community-Discord"
-    ],
-    "fields": [
-      "Teamleitung"
-    ],
     "rank_history": {
       "initial": "expert",
       "09.05.2016": "supporter_games",
       "05.10.2016": "moderator_games",
       "16.05.2018": "administrator",
-      "08.11.2019": "management"
+      "08.11.2019": "management",
+      "15.09.2021": "native_expert"
     }
   },
   {
@@ -2392,8 +2357,10 @@
     "name": "12Build",
     "uuid": "6aa9c36c-89be-4b8a-bd24-9401e5085055",
     "sex": "male",
+    "responsibilities_main": [
+      "Interne Webanwendung"
+    ],
     "responsibilities_secondary": [
-      "Interne Webanwendung",
       "Leveldesign",
       "Map-Einsendungen",
       "Organisation und Betreuung neuer Developer"
@@ -2758,7 +2725,8 @@
     "uuid": "e44e5f1e-6e53-4ba6-be72-175ee06f7623",
     "sex": "male",
     "responsibilities_secondary": [
-      "Map-Einsendungen"
+      "Map-Einsendungen",
+      "YouTuber-Ränge"
     ],
     "rank_history": {
       "initial": "expert",
