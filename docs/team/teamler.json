@@ -2309,17 +2309,10 @@
     "name": "medicoo",
     "uuid": "64c1db27-5848-4d27-84a5-3da214e297c9",
     "sex": "male",
-    "responsibilities_main": [
-      "Bauteam-Twitter",
-      "Timolia Turnier Organisation",
-      "YouTuber-Ränge"
-    ],
-    "responsibilities_secondary": [
-      "TeamSpeak"
-    ],
     "rank_history": {
       "initial": "supporter",
-      "17.02.2019": "moderator"
+      "17.02.2019": "moderator",
+      "29.09.2021": "native_expert"
     }
   },
   {
