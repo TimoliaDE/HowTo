@@ -2815,5 +2815,14 @@
       "initial": "expert",
       "13.09.2021": "developer"
     }
+  },
+  {
+    "name": "Xantoxx",
+    "uuid": "73386fd8-1321-479f-a8e0-49fb389cf246",
+    "sex": "male",
+    "rank_history": {
+      "initial": "mvp",
+      "08.10.2021": "developer"
+    }
   }
 ]
