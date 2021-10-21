@@ -282,7 +282,9 @@
     "uuid": "9d4ee99b-d4d1-4ca4-8a50-50270a5fadb9",
     "sex": "female",
     "responsibilities_main": [
-      "Social-Media",
+      "Social-Media"
+    ],
+    "responsibilities_secondary": [
       "YouTuber-Ränge"
     ],
     "rank_history": {
@@ -1525,14 +1527,14 @@
       "Entschuldigungen",
       "Fragen und Antworten Forum",
       "Spieler melden Forum",
-      "Timolia Turnier Organisation"
+      "Timolia Turnier Organisation",
+      "YouTuber-Ränge"
     ],
     "responsibilities_secondary": [
       "Broadcasts",
       "Supporterauswahl",
       "Timolia HowTo",
-      "Twitter",
-      "YouTuber-Ränge"
+      "Twitter"
     ],
     "rank_history": {
       "initial": "expert",
