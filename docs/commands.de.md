@@ -252,6 +252,13 @@ Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführ
 **[<span class='mvp'>MVP</span>](/ranks/premium/) only**:
 | `/skull [Name]`                 | Gibt dir einen Spielerkopf |
 
+###SecretGames
+| Befehl | Funktion |
+| ------ | -------- |
+| `/cr lobby`           | Bringt euch zum Center zurück |
+| `/cr stats <Spieler>` | Listet euch die Stats eines Spielers auf |
+| `/hub`                | Bringt euch in die Hauptlobby zurück |
+
 ### UHC
 | Befehl | Funktion |
 | ------ | -------- |
