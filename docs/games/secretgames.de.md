@@ -1,11 +1,11 @@
 <div class="banner-wrapper">
-    <img alt="Chainreact" src="../img/Chainreact.png">
-    <div class="banner-text">Chainreact</div>
+    <img alt="SecretGames" src="../img/SecretGames.png">
+    <div class="banner-text">SecretGames</div>
 </div>
 
 ## Der Spielverlauf
-Chainreact ist ein geheimer Modus auf Timolia, welcher in der Main Lobby versteckt ist. 
-Dabei gibt es bei Chainreact noch zwei weitere Minispiele: 5 Wins und Overturn.
+Die SecretGames sind mehrere geheime Modi auf Timolia, welche in der Lobby versteckt sind. 
+Sie heißen Chainreact, 5 Wins und Overturn.
 
 ## Und so gehts // Chainreact
 Bei Chainreact geht es darum, durch Kettenreaktionen und Auffüllen von Waben das Spielfeld einzunehmen.
@@ -53,5 +53,5 @@ Bei Overturn geht es darum, durch taktisches Setzen von Blöcken die seines Gegn
 | Befehl | Funktion |
 | ------ | -------- |
 | `/cr lobby`           | Bringt euch zum Center zurück |
-| `/hub`                | Bringt euch in die Hauptlobby zurück |
 | `/cr stats <Spieler>` | Listet euch die Stats eines Spielers auf |
+| `/hub`                | Bringt euch in die Hauptlobby zurück |
