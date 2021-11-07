@@ -91,7 +91,7 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 | Switcheroo           | Beim Abschießen eines Spielers (Pfeil, Ei, ...) tauschen sich die Positionen der beiden Spieler |
 | Tank                 | Die ersten 3 Male bei denen ein Spieler Schaden erhalten würde, wird er verschont |
 | Timber               | Bäume gehen direkt kaputt |
-| TimeBomb             | Nach einem Kill spawnt eine Kiste mit den Items deines Gegners. Diese explodiert nach 30 Sekunden. |
+| TimeBomb             | Nach einem Kill spawnt eine Kiste mit den Items deines Gegners. Diese explodiert nach 30 Sekunden. In UHCs die von Timolia gehostet werden erhältst du außerdem, statt einem Spielerkopf, einen fertig gecrafteten Golden Head |
 | Toplist              | Alle 10 Minuten regenerierst du 2 Leben und erhältst 2 Extraherzen, bis du Schaden bekommst. Dann musst du einen Spieler töten, um erneut Leben zu erhalten. |
 | xRay-Pickaxe         | Diese Spitzhacke kann gecrafted werden und verwandelt mit einem Rechtsklick alle Steine im Umkreis für eine kurze Zeit in Glas |
 | Zombie Death         | Wenn ein Spieler stirbt, spawnt an dessen Standort ein Zombie mit Diamantrüstung |
