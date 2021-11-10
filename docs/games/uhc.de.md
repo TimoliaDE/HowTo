@@ -52,6 +52,7 @@ Hier findest du alle UHC-Szenarien und deren Bedeutung.
 | ExplosiveArrows      | Pfeile explodieren, wenn sie ihr Ziel treffen |
 | Fireless             | Es gibt keinen Feuer-/Lavaschaden |
 | Fire Focus           | Du machst anderen Spielern doppelten Schaden, wenn du brennst oder vergiftet bist |
+| Flower Power         | Wenn du eine Blume abbaust, dann wird dir ein zufälligess Item gedroppt |
 | Get Away             | Du erhältst Speed 2 für 30 Sekunden, wenn du einen Spieler tötest |
 | Golden Heal          | Jeder Spieler erhält zu Spielbeginn eine goldene Hacke, mit der man sich ein Mal vollständig heilen kann |
 | Goldless             | Es gibt keine Golderze, jedoch bekommt man pro Kill 8 Gold |
