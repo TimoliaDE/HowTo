@@ -16,30 +16,31 @@ public class PageResponsibilities {
     public static String generate(List<Teamler> teamlers) {
 
         LinkedHashMap<String, LinkedHashMap<String, String>> responsibilities = new LinkedHashMap<>() {{
-            put("%page.responsibilities.forum%", new LinkedHashMap<>() {{
-                put("%page.responsibilities.forum.forumorganisation%", "%page.responsibilities.forum.forumorganisation.desc%");
-                put("%page.responsibilities.forum.anregvorschl%", null);
-                put("%page.responsibilities.forum.qa%", null);
-                put("%page.responsibilities.forum.feedback%", null);
-                put("%page.responsibilities.forum.maps%", null);
-                put("%page.responsibilities.forum.player-reports%", null);
-                put("%page.responsibilities.forum.bug-reports%", null);
-                put("%page.responsibilities.forum.ea%", null);
-                put("%page.responsibilities.forum.zug%", null);
+            put("%page.responsibilities.project-team-orga%", new LinkedHashMap<>() {{
+                put("%page.responsibilities.project-team-orga.teamleader%", "%page.responsibilities.project-team-orga.teamleader.desc%");
+                put("%page.responsibilities.project-team-orga.apply.builder%", null);
+                put("%page.responsibilities.project-team-orga.apply.developer%", null);
+                put("%page.responsibilities.project-team-orga.apply.supporter%", "%page.responsibilities.project-team-orga.apply.supporter.desc%");
+                put("%page.responsibilities.project-team-orga.howto%", "%page.responsibilities.project-team-orga.howto.desc%");
+                put("%page.responsibilities.project-team-orga.tournament%", "%page.responsibilities.project-team-orga.tournament.desc%");
+                put("%page.responsibilities.project-team-orga.uhc%", "%page.responsibilities.project-team-orga.uhc.desc%");
+                put("%page.responsibilities.project-team-orga.youtuber%", "%page.responsibilities.project-team-orga.youtuber.desc%");
             }});
-            put("%page.responsibilities.sa%", new LinkedHashMap<>() {{
-                put("%page.responsibilities.ac%", "%page.responsibilities.ac.desc%");
-                put("%page.responsibilities.bugs%", "%page.responsibilities.bugs.desc%");
-                put("%page.responsibilities.baufehler%", "%page.responsibilities.baufehler.desc%");
-                put("%page.responsibilities.supporterauswahl%", "%page.responsibilities.supporterauswahl.desc%");
-                put("%page.responsibilities.howto%", "%page.responsibilities.howto.desc%");
-                put("%page.responsibilities.sm%", "%page.responsibilities.sm.desc%");
-                put("%page.responsibilities.ts%", "%page.responsibilities.ts.desc%");
-                put("%page.responsibilities.cd%", "%page.responsibilities.cd.desc%");
-                put("%page.responsibilities.turnier%", "%page.responsibilities.turnier.desc%");
-                put("%page.responsibilities.broadcasts%", "%page.responsibilities.broadcasts.desc%");
-                put("%page.responsibilities.teamleader%", "%page.responsibilities.teamleader.desc%");
-                put("%page.responsibilities.yter%", "%page.responsibilities.yter.desc%");
+            put("%page.responsibilities.communication-platforms%", new LinkedHashMap<>() {{
+                put("%page.responsibilities.communication-platforms.community-discord%", "%page.responsibilities.communication-platforms.community-discord.desc%");
+                put("%page.responsibilities.communication-platforms.forums.general%", null);
+                put("%page.responsibilities.communication-platforms.forums.bug-reports%", null);
+                put("%page.responsibilities.communication-platforms.forums.appeal%", null);
+                put("%page.responsibilities.communication-platforms.forums.player-reports%", null);
+                put("%page.responsibilities.communication-platforms.forums.falsely-banned%", null);
+                put("%page.responsibilities.communication-platforms.socialmedia%", "%page.responsibilities.communication-platforms.socialmedia.desc%");
+                put("%page.responsibilities.communication-platforms.teamspeak%", "%page.responsibilities.communication-platforms.teamspeak.desc%");
+            }});
+            put("%page.responsibilities.other-responsibilities%", new LinkedHashMap<>() {{
+                put("%page.responsibilities.other-responsibilities.announcements%", null);
+                put("%page.responsibilities.other-responsibilities.graphicdesign%", null);
+                put("%page.responsibilities.other-responsibilities.map-submissions%", null);
+                put("%page.responsibilities.other-responsibilities.translation%", null);
             }});
         }};
 
@@ -98,7 +99,7 @@ public class PageResponsibilities {
                     }
                 } else if (e.getKey().equals("%page.responsibilities.teamleader%")) {
                     titleCustom = "%page.responsibilities.custom.teamleader.title%";
-                    // |<span class='management'>Lascona</span>    | Management des gesamten Timolia-Teams |
+                    // |<span class='management'>J4mPr0</span>    | Management des gesamten Timolia-Teams |
                     // |<span class='headbuilder'>Jukplays</span>  | Management des Bau-Teams |
                     for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilityMain("Management des gesamten Timolia-Teams")).sorted(Teamler::compare).collect(Collectors.toList())) {
                         hvCustom.add(new Utils.KeyValuePair<>("|<span class='" + teamler.getRankCurrent().getCssClass() + "'>" + teamler.getNameForMarkdown() + "</span>", "%page.responsibilities.custom.teamleader.whole-team%"));
@@ -163,4 +164,4 @@ public class PageResponsibilities {
         return sb.toString();
     }
 
-}
+} 
