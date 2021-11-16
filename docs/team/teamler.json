@@ -2813,7 +2813,8 @@
       "Community-Discord"
     ],
     "fields": [
-      "Web Development"
+      "Web Development",
+      "Plugin Development"
     ],
     "rank_history": {
       "initial": "expert",
