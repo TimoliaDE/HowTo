@@ -277,14 +277,9 @@ article preview text color
 /*
 style ranks
  */
-
-.management {
-    color: #009e18;
-}
-
-
-.sysadmin {
-    color: #009e18;
+ 
+.administrator {
+    color: #2a84c0;
 }
 
 .developer-plus {
@@ -352,8 +347,13 @@ style ranks
 old ranks
  */
 
-.administrator {
-    color: #2a84c0;
+.management {
+    color: #009e18;
+}
+
+
+.sysadmin {
+    color: #009e18;
 }
 
 

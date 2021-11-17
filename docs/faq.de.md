@@ -18,12 +18,8 @@ Mit dem CityBuild begann alles. Am 07.05.2011 gründete Tim den CityBuild Timoli
 Leider musste City am 16.12.2018 aus verschiedenen Gründen schließen. Mehr Informationen dazu erhältst du [hier](http://timolia.de/city).
 
 ### Welche Ränge gibt es?
-- <b><span class='management'>Management</span></b>:
+- <b><span class='administrator'>Administrator</span></b>:
 Diese Teamler bilden die Leitung Timolias. Sie kümmern sich um die Verwaltung, Organisation und die Teamleitung.
-
-- <b><span class='sysadmin'>SysAdmin</span></b>:
-Systemadministratoren planen, installieren, konfigurieren und warten die technischen Systeme Timolias. 
-Sie führen Updates durch und sorgen für ein reibungsloses Spielerlebnis im Alltag.
 
 - <b><span class='developer-plus'>Developer+</span></b>:
 Sie verfügen über langjährige Erfahrung als Entwickler auf Timolia und stehen bei internen Fragen zum Development zur Verfügung. 
