@@ -2812,6 +2812,9 @@
     "responsibilities_main": [
       "Community-Discord"
     ],
+    "responsibilities_secondary": [
+      "UHC"
+    ],
     "fields": [
       "Web Development",
       "Plugin Development"
