@@ -2829,5 +2829,32 @@
       "initial": "mvp",
       "08.10.2021": "developer"
     }
+  },
+  {
+    "name": "SupMoritz",
+    "uuid": "9bc330fa-0e99-4c85-9396-cb63fb82297c",
+    "sex": "male",
+    "rank_history": {
+      "initial": "expert",
+      "22.11.2021": "supporter"
+    }
+  },
+  {
+    "name": "Seeraeuber",
+    "uuid": "9bac5789-9029-4fe0-8bb4-c75d0f4de4d3",
+    "sex": "male",
+    "rank_history": {
+      "initial": "expert",
+      "22.11.2021": "supporter"
+    }
+  },
+  {
+    "name": "Luuuu",
+    "uuid": "1a1e7c94-1281-4d7b-930f-be3bd8266949",
+    "sex": "male",
+    "rank_history": {
+      "initial": "expert",
+      "22.11.2021": "supporter"
+    }
   }
 ]
