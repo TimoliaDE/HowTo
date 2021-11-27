@@ -108,6 +108,7 @@ Hier findest du alle UHC-Szenarien und wie diese das Spielgeschehen beeinflussen
 | `/inviteaccept <Spieler>`                  | Damit nimmst du Teameinladungen bei Team-UHCs an |
 | `/nightvision`                             | Damit du für das gesamte UHC eine klare Sicht behältst |
 | `/playerinfo <Spieler>`                    | Zeigt dir die Kills eines Spielers an und potenziell auch von wem dieser getötet wurde |
+| `/rules`                                   | Zeigt dir alle Regeln des aktuellen UHC an |
 | `/scenarios`, `/scn`, `/sc`                | Zeigt dir die aktiven Szenarien an |
 | `/showhealth <Spieler>`, `/h <Spieler>`    | Zeigt die Leben des angegebenen Spielers an |
 | `/topkills`, `/tk`, `/kt`                  | Zeigt den/die Spieler mit den meistens Kills an |
