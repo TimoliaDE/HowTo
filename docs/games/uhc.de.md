@@ -17,7 +17,8 @@ Nach Ablauf der Schutzzeit ist PvP aktiviert. Von jetzt an solltest du auf dich 
 Je länger das Spiel andauert, desto kleiner wird die bespielbare Karte. Die das Spielfeld umgebende Border verkleinert sich dabei stufenweise. Befindest du dich nach der Verkleinerung außerhalb der Border, wirst du zurück auf das Spielfeld teleportiert.
 
 ## Premium-Features
-Nach dem Ausscheiden aus der Runde haben Premium-Spieler die Möglichkeit, das Spielgeschehen weiterhin zu spectaten.
+-Nach dem Ausscheiden aus der Runde haben Premium-Spieler die Möglichkeit, das Spielgeschehen weiterhin zu spectaten.
+- <span class='mvp'>MVP</span> oder höher: Mit `/latescatter` nach UHC Start am Spiel teilnehmen
 
 ## Die Szenarien
 
@@ -114,3 +115,5 @@ Hier findest du alle UHC-Szenarien und wie diese das Spielgeschehen beeinflussen
 | `/topkills`, `/tk`, `/kt`                  | Zeigt den/die Spieler mit den meistens Kills an |
 | `/teaminfo <Spieler>`, `/ti <Spieler>`     | Zeigt dir die Mitglieder eines Teams an |
 | `/uhc`                                     | Zeigt dir alle Befehle an, die du ausführen kannst |
+**[Premium](/ranks/premium/) only**:
+| `/latescatter`                             | Trete auch nach dem Start eines UHCs dem Spiel bei (ab MVP möglich) |
