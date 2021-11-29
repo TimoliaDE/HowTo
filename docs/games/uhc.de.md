@@ -10,7 +10,7 @@ Epische Kämpfe mit bis zu 100 Spielern und abwechslungsreichen Szenarien sind h
 
 Ziel des Spiels ist es, alle Gegner zu eliminieren und als letzter Einzelkämpfer oder als letztes Team zu überleben.
 Jedes UHC hat eigene Szenarien (z. B. Fireless = kein Feuer- und Lavaschaden; NoClean = 30s Schutzzeit nach einem Kill; Jeder gegen jeden oder Teams), die dein Umfeld und das Spielerlebnis erheblich verändern.
-Diese Szenarien können schon vor Spielstart auf dem <a href="https://timolia.de/discord">Timolia-Discord</a> oder auf dem <a href="https://twitter.com/TimoliaUHC">Twitteraccount</a> eingesehen werden.
+Diese Szenarien werden zwei Stunden vor Spielstart auf dem <a href="https://timolia.de/discord">Timolia-Discord</a> oder auf dem <a href="https://twitter.com/TimoliaUHC">Twitteraccount</a> angekündigt.
 Zu Spielbeginn werden alle Spieler auf einer Vanillamap gespawnt. Während der vorher festgelegten Schutzzeit kannst du dich in Ruhe auf die bevorstehenden Kämpfe vorbereiten und dein Equipment erfarmen.
 In der zehnten Spielminute wirst du ein letztes Mal geheilt.
 Nach Ablauf der Schutzzeit ist PvP aktiviert. Von jetzt an solltest du auf dich aufpassen!
@@ -93,8 +93,8 @@ Hier findest du alle UHC-Szenarien und deren Einfluss auf das Spielgeschehen.
 | Zombie Death         | Wenn ein Spieler stirbt, spawnt an dessen Todesort ein Zombie mit Diamantrüstung, der getötet werden muss, um die Items des Verstorbenen zu looten |
 
 ## Premium-Features
-- Nach dem Ausscheiden aus der Runde haben Premium-Spieler die Möglichkeit, das Spielgeschehen weiterhin zu spectaten.
-- <span class='mvp'>MVP</span> oder höher: Mit `/latescatter` kannst du auch nach dem UHC-Start noch am Spiel teilnehmen.
+- Nach dem Ausscheiden aus der Runde haben Premium-Spieler die Möglichkeit das Spielgeschehen weiterhin zu spectaten.
+- <span class='mvp'>MVP</span> oder höher: Mit `/latescatter` kannst du auch bis zum Ende der Schutzzeit (standardmäßig 20 Minuten) noch auf den Server joinen und am Spiel teilnehmen.
 - Werde mit `/togglerank` in der normalen Standardfarbe angezeigt.
 
 Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium/) nachlesen.
@@ -118,4 +118,4 @@ Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium
 | `/teaminfo <Spieler>`, `/ti <Spieler>`     | Zeigt dir die Mitglieder eines Teams an |
 | `/uhc`                                     | Zeigt dir alle Befehle an, die du ausführen kannst |
 **[<span class='mvp'>MVP</span>](/ranks/premium/) only**:
-| `/latescatter`                             | Trete auch nach dem Start eines UHCs dem Spiel bei |
+| `/latescatter`                             | Ermöglicht dir während der Schutzzeit auch nach Spielstart noch dem UHC beizutreten |
