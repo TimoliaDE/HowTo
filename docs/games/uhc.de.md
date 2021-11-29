@@ -95,6 +95,7 @@ Hier findest du alle UHC-Szenarien und deren Einfluss auf das Spielgeschehen.
 ## Premium-Features
 - Nach dem Ausscheiden aus der Runde haben Premium-Spieler die Möglichkeit, das Spielgeschehen weiterhin zu spectaten.
 - <span class='mvp'>MVP</span> oder höher: Mit `/latescatter` kannst du auch nach dem UHC-Start noch am Spiel teilnehmen.
+- Werde mit `/togglerank` in der normalen Standardfarbe angezeigt.
 
 Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium/) nachlesen.
 
