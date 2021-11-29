@@ -16,10 +16,6 @@ In der zehnten Spielminute wirst du ein letztes Mal geheilt.
 Nach Ablauf der Schutzzeit ist PvP aktiviert. Von jetzt an solltest du auf dich aufpassen!
 Je länger das Spiel andauert, desto kleiner wird die bespielbare Karte. Die das Spielfeld umgebende Border verkleinert sich dabei stufenweise. Befindest du dich nach der Verkleinerung außerhalb der Border, wirst du zurück auf das Spielfeld teleportiert.
 
-## Premium-Features
-- Nach dem Ausscheiden aus der Runde haben Premium-Spieler die Möglichkeit, das Spielgeschehen weiterhin zu spectaten.
-- <span class='mvp'>MVP</span> oder höher: Mit `/latescatter` kannst du auch nach dem UHC-Start noch am Spiel teilnehmen.
-
 ## Die Szenarien
 
 Hier findest du alle UHC-Szenarien und deren Einfluss auf das Spielgeschehen.
@@ -96,6 +92,11 @@ Hier findest du alle UHC-Szenarien und deren Einfluss auf das Spielgeschehen.
 | xRay-Pickaxe         | Diese Spitzhacke kann gecrafted werden und verwandelt mit einem Rechtsklick alle Steine im Umkreis für eine kurze Zeit in Glas |
 | Zombie Death         | Wenn ein Spieler stirbt, spawnt an dessen Todesort ein Zombie mit Diamantrüstung, der getötet werden muss, um die Items des Verstorbenen zu looten |
 
+## Premium-Features
+- Nach dem Ausscheiden aus der Runde haben Premium-Spieler die Möglichkeit, das Spielgeschehen weiterhin zu spectaten.
+- <span class='mvp'>MVP</span> oder höher: Mit `/latescatter` kannst du auch nach dem UHC-Start noch am Spiel teilnehmen.
+
+Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium/) nachlesen.
 
 ## Befehle
 | Befehl | Funktion |
@@ -115,5 +116,5 @@ Hier findest du alle UHC-Szenarien und deren Einfluss auf das Spielgeschehen.
 | `/topkills`, `/tk`, `/kt`                  | Zeigt den/die Spieler mit den meisten Kills an |
 | `/teaminfo <Spieler>`, `/ti <Spieler>`     | Zeigt dir die Mitglieder eines Teams an |
 | `/uhc`                                     | Zeigt dir alle Befehle an, die du ausführen kannst |
-**[MVP](/ranks/mvp/) only**:
+**[<span class='mvp'>MVP</span>](/ranks/premium/) only**:
 | `/latescatter`                             | Trete auch nach dem Start eines UHCs dem Spiel bei |
