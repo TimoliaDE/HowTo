@@ -18,19 +18,19 @@ Je länger das Spiel andauert, desto kleiner wird die bespielbare Karte. Die das
 
 ## Premium-Features
 - Nach dem Ausscheiden aus der Runde haben Premium-Spieler die Möglichkeit, das Spielgeschehen weiterhin zu spectaten.
-- <span class='mvp'>MVP</span> oder höher: Mit `/latescatter` nach UHC Start am Spiel teilnehmen
+- <span class='mvp'>MVP</span> oder höher: Mit `/latescatter` kannst du auch nach dem UHC-Start noch am Spiel teilnehmen.
 
 ## Die Szenarien
 
-Hier findest du alle UHC-Szenarien und wie diese das Spielgeschehen beeinflussen.
+Hier findest du alle UHC-Szenarien und deren Einfluss auf das Spielgeschehen.
 
 | Szenario | Beschreibung |
 | -------- | ------------ |
-| 1.7 Enchantments     | Enchantments sind im Verzauberungstisch nicht sichtbar. Außerdem benötigst du kein Lapislazuli |
+| 1.7 Enchantments     | Enchantments sind im Verzauberungstisch nicht sichtbar. Außerdem benötigst du kein Lapislazuli. |
 | Absorptionless       | Golden Heads und goldene Äpfel geben keine Absorptionsherzen |
-| Apple Kill           | Jeder Spieler erhält am Ende der Schutzzeit drei goldene Äpfel sowie zwei weitere goldene Äpfel für jeden Kill |
+| Apple Kill           | Jeder Spieler erhält am Ende der Schutzzeit drei goldene Äpfel sowie zwei weitere goldene Äpfel pro Kill |
 | Backpack             | Ermöglicht ein gemeinsames Inventar in Team-UHCs (`/backpack` oder `/bp`) |
-| Bandits              | Schlägst du einen Spieler, stiehlst du diesem mit einer 5%igen Wahrscheinlichkeit ein Item aus dem Inventar |
+| Bandits              | Schlägst du einen Spieler, stiehlst du diesem mit einer 5%-igen Wahrscheinlichkeit ein Item aus dem Inventar |
 | BedBomb              | Betten explodieren, sobald du versuchst dich hineinzulegen |
 | Birds                | Alle Spieler können fliegen |
 | Blocked Blocks       | Man kann von sich selbst platzierte Blöcke nicht mehr abbauen |
@@ -38,17 +38,17 @@ Hier findest du alle UHC-Szenarien und wie diese das Spielgeschehen beeinflussen
 | Bloody Enchantments  | Bei jeder Verzauberung bekommst du ein halbes Herz Schaden |
 | Bowless              | Bögen existieren mit dieser Einstellung nicht |
 | Cold Weapons         | Du kannst deine Waffen nicht auf Verbrennung und Flamme verzaubern |
-| CooldownPvP          | Zwischen den Schlägen existiert ein Cooldown – ähnlich der Minecraft Versionen ab der 1.9 |
-| CutClean             | Erze und Essen werden bereits geschmolzen/gebraten gedroppt |
+| CooldownPvP          | Zwischen den Schlägen existiert ein Cooldown – ähnlich dem der Minecraft-Versionen ab der 1.9 |
+| CutClean             | Erze und Essen werden geschmolzen/gebraten gedroppt |
 | Daylight Circle      | Bei jedem Tod eines Spielers wechselt die Tageszeit zwischen Tag und Nacht |
 | DecreaseHearts       | Jeder Spieler hat maximal so viele Leben, wie es Spieler gibt |
 | Diamondless          | Drops von Diamanterzen sind deaktiviert, jedoch bekommt man pro Kill einen Diamanten |
 | Dolphins             | Im Wasser ist man schneller |
-| DoNotDisturb         | Kein anderer Spieler kann dich angreifen während du dich im Kampf befindest |
+| DoNotDisturb         | Kein anderer Spieler kann dich angreifen, während du dich im Kampf befindest |
 | Double Jump          | Du kannst Doppelsprung nutzen |
 | Dragons              | Der Host kann mit `/dragons` bei jedem Spieler einen Enderdrachen spawnen |
 | Elimination          | Alle 10 Minuten stirbt der Spieler mit den wenigsten Herzen. Haben mehrere Spieler gleich viele Leben, stirbt niemand. |
-| Enchanted Death      | Verzauberungstische sind deaktiviert. Durch Kills verbessern sich die Enchantments auf deinem Equip |
+| Enchanted Death      | Verzauberungstische sind deaktiviert. Durch Kills verbessern sich die Enchantments auf deinem Equip. |
 | ExplosiveArrows      | Pfeile explodieren, wenn sie ihr Ziel treffen |
 | Fireless             | Es gibt keinen Feuer-/Lavaschaden |
 | Fire Focus           | Du machst anderen Spielern doppelten Schaden, wenn du brennst oder vergiftet bist |
@@ -64,14 +64,14 @@ Hier findest du alle UHC-Szenarien und wie diese das Spielgeschehen beeinflussen
 | Hungerless           | Man verliert keinen Hunger |
 | Hydrophobic          | Du bekommst Schaden, wenn du im Wasser bist |
 | Ice Core             | Lava unter Höhe 16 wird durch Eis ersetzt |
-| IncreaseHearts       | Alle Spieler starten mit nur einem Herz. Sobald einer der Spieler stirbt, erhalten alle anderen ein Herz dazu |
+| IncreaseHearts       | Alle Spieler starten mit nur einem Herz. Sobald einer der Spieler stirbt, erhalten alle anderen ein Herz dazu. |
 | Instant Head         | Spielerköpfe können durch Rechtsklick gegen 10 Sekunden Speed II eingetauscht werden |
 | Interval Damage      | Alle 10 Minuten bekommt jeder Spieler 2 Herzen Schaden |
 | Killswitch           | Der Killer eines Spielers übernimmt das Inventar des Getöteten |
-| Limited Inventory    | Nur die Hotbar kann genutzt werden, das restliche Inventar ist gesperrt |
+| Limited Inventory    | Nur die Hotbar kann genutzt werden. Das restliche Inventar ist gesperrt. |
 | MiddleEnchants       | Verzauberungstische sind bis auf vier Stück in der Mitte deaktiviert |
 | MobileCraftingTable  | Öffne deine mobile Werkbank mit `/workbench` |
-| Multi Ores           | Erze droppen beim Abbauen die x-fache Menge (Standardmäßig 2x) |
+| Multi Ores           | Erze droppen beim Abbauen eine x-fache Menge (standardmäßig 2x) |
 | Natural Regeneration | Natürliche Regeneration ist aktiviert |
 | NoClean              | Nach jedem Kill bist du für 30 Sekunden unverwundbar |
 | NoClean Plus         | Vereint die Szenarien NoClean, DoNotDisturb und SafeLoot |
@@ -83,14 +83,14 @@ Hier findest du alle UHC-Szenarien und wie diese das Spielgeschehen beeinflussen
 | Ore Limitations      | Du kannst nur 64 Eisenerze, 32 Golderze und 16 Diamanterze abbauen |
 | Regenerating Kill    | Nach einem Kill erhält der Spieler für 10 Sekunden Regeneration II |
 | Rodless              | Angeln können nicht gecraftet werden |
-| Safeloot             | Nach einem Kill können für 30 Sekunden nur der Killer (und sein Team) die Items des getöteten Spielers aufheben bzw. (falls das Szenario aktiv ist) seine TimeBomb öffnen |
+| Safeloot             | Nach einem Kill können für 30 Sekunden nur der Killer (und sein Team) die Items des getöteten Spielers aufheben bzw. seine TimeBomb öffnen (falls das Szenario aktiv ist) |
 | Shared Heal          | Wird ein Spieler geheilt, heilen sich auch dessen Teampartner |
 | Show Health          | Zeigt über dem Kopf jeden Spielers dessen aktuelle Leben an |
 | Sniper               | Pfeile, die aus mehr als 30 Blöcken Abstand geschossen werden, machen doppelten Schaden |
 | Soup                 | Suppenheilung ist aktiviert (2 Herzen) |
 | Switcheroo           | Beim Abschießen eines Spielers (Pfeil, Ei, ...) tauschen sich die Positionen der beiden Spieler |
 | Timber               | Beim Abbauen eines Baums mit einer Axt wird sofort der gesamte Baum gefällt |
-| TimeBomb             | Nach einem Kill spawnt eine Kiste mit den Items deines Gegners. Diese explodiert nach 30 Sekunden. In UHCs die von Timolia gehostet werden, erhältst du außerdem statt des Spielerkopfes einen fertig gecrafteten Golden Head |
+| TimeBomb             | Nach einem Kill spawnt eine Kiste mit den Items deines Gegners. Diese explodiert nach 30 Sekunden. In UHCs, die von Timolia gehostet werden, erhältst du außerdem statt des Spielerkopfes einen fertig gecrafteten Golden Head. |
 | Toplist              | Alle 10 Minuten regenerierst du 2 Leben und erhältst 2 Extraherzen, bis du Schaden bekommst. Dann musst du einen Spieler töten, um erneut Leben zu erhalten. |
 | Tracker              | Du erhältst zum Spielstart einen Kompass, der dich zum nächstgelegenen Spieler führen kann |
 | xRay-Pickaxe         | Diese Spitzhacke kann gecrafted werden und verwandelt mit einem Rechtsklick alle Steine im Umkreis für eine kurze Zeit in Glas |
@@ -112,7 +112,7 @@ Hier findest du alle UHC-Szenarien und wie diese das Spielgeschehen beeinflussen
 | `/rules`                                   | Zeigt dir alle Regeln des aktuellen UHC an |
 | `/scenarios`, `/scn`, `/sc`                | Zeigt dir die aktiven Szenarien an |
 | `/showhealth <Spieler>`, `/h <Spieler>`    | Zeigt die Leben des angegebenen Spielers an |
-| `/topkills`, `/tk`, `/kt`                  | Zeigt den/die Spieler mit den meistens Kills an |
+| `/topkills`, `/tk`, `/kt`                  | Zeigt den/die Spieler mit den meisten Kills an |
 | `/teaminfo <Spieler>`, `/ti <Spieler>`     | Zeigt dir die Mitglieder eines Teams an |
 | `/uhc`                                     | Zeigt dir alle Befehle an, die du ausführen kannst |
 **[Premium](/ranks/premium/) only**:
