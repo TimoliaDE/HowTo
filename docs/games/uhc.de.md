@@ -115,5 +115,5 @@ Hier findest du alle UHC-Szenarien und deren Einfluss auf das Spielgeschehen.
 | `/topkills`, `/tk`, `/kt`                  | Zeigt den/die Spieler mit den meisten Kills an |
 | `/teaminfo <Spieler>`, `/ti <Spieler>`     | Zeigt dir die Mitglieder eines Teams an |
 | `/uhc`                                     | Zeigt dir alle Befehle an, die du ausführen kannst |
-**[Premium](/ranks/premium/) only**:
-| `/latescatter`                             | Trete auch nach dem Start eines UHCs dem Spiel bei (ab MVP möglich) |
+**[MVP](/ranks/mvp/) only**:
+| `/latescatter`                             | Trete auch nach dem Start eines UHCs dem Spiel bei |
