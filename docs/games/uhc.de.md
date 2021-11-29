@@ -17,7 +17,7 @@ Nach Ablauf der Schutzzeit ist PvP aktiviert. Von jetzt an solltest du auf dich 
 Je länger das Spiel andauert, desto kleiner wird die bespielbare Karte. Die das Spielfeld umgebende Border verkleinert sich dabei stufenweise. Befindest du dich nach der Verkleinerung außerhalb der Border, wirst du zurück auf das Spielfeld teleportiert.
 
 ## Premium-Features
--Nach dem Ausscheiden aus der Runde haben Premium-Spieler die Möglichkeit, das Spielgeschehen weiterhin zu spectaten.
+- Nach dem Ausscheiden aus der Runde haben Premium-Spieler die Möglichkeit, das Spielgeschehen weiterhin zu spectaten.
 - <span class='mvp'>MVP</span> oder höher: Mit `/latescatter` nach UHC Start am Spiel teilnehmen
 
 ## Die Szenarien
