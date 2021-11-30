@@ -118,4 +118,4 @@ Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium
 | `/teaminfo <Spieler>`, `/ti <Spieler>`     | Zeigt dir die Mitglieder eines Teams an |
 | `/uhc`                                     | Zeigt dir alle Befehle an, die du ausführen kannst |
 **[<span class='mvp'>MVP</span>](/ranks/premium/) only**:
-| `/latescatter`                             | Ermöglicht dir, dem UHC nach Spielstart, vor dem Ende der Schutzzeit, beizutreten |
+| `/latescatter`                             | Ermöglicht dir während der Schutzzeit auch nach Spielstart noch dem UHC beizutreten |

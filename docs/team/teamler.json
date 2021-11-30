@@ -245,6 +245,9 @@
     "name": "Mihaaa",
     "uuid": "97f28009-3bbb-49a3-96c7-d0f214eb6456",
     "sex": "male",
+    "responsibilities_secondary": [
+      "UHC"
+    ],
     "rank_history": {
       "initial": "mvp",
       "21.09.2020": "supporter",
@@ -2858,6 +2861,9 @@
     "name": "Luuuu",
     "uuid": "1a1e7c94-1281-4d7b-930f-be3bd8266949",
     "sex": "male",
+    "responsibilities_secondary": [
+      "UHC"
+    ],
     "rank_history": {
       "initial": "expert",
       "22.11.2021": "supporter"
