@@ -2815,7 +2815,11 @@
     "responsibilities_main": [
       "Community-Discord"
     ],
+    "responsibilities_secondary": [
+      "UHC"
+    ],
     "fields": [
+      "Plugin Development",
       "Web Development"
     ],
     "rank_history": {
