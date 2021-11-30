@@ -94,7 +94,7 @@ Hier findest du alle UHC-Szenarien und deren Einfluss auf das Spielgeschehen.
 
 ## Premium-Features
 - Nach dem Ausscheiden aus der Runde haben Premium-Spieler die Möglichkeit das Spielgeschehen weiterhin zu spectaten.
-- <span class='mvp'>MVP</span> oder höher: Mit `/latescatter` kannst du auch bis zum Ende der Schutzzeit (standardmäßig 20 Minuten) noch auf den Server joinen und am Spiel teilnehmen.
+- <span class='mvp'>MVP</span> oder höher: Mit `/latescatter` kannst du bis zum Ende der Schutzzeit (standardmäßig 20 Minuten) noch auf den Server joinen und am Spiel teilnehmen.
 - Werde mit `/togglerank` in der normalen Standardfarbe angezeigt.
 
 Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium/) nachlesen.
@@ -118,4 +118,4 @@ Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium
 | `/teaminfo <Spieler>`, `/ti <Spieler>`     | Zeigt dir die Mitglieder eines Teams an |
 | `/uhc`                                     | Zeigt dir alle Befehle an, die du ausführen kannst |
 **[<span class='mvp'>MVP</span>](/ranks/premium/) only**:
-| `/latescatter`                             | Ermöglicht dir während der Schutzzeit auch nach Spielstart noch dem UHC beizutreten |
+| `/latescatter`                             | Ermöglicht dir, dem UHC nach Spielstart, vor dem Ende der Schutzzeit, beizutreten |
