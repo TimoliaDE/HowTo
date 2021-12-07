@@ -60,7 +60,7 @@
     "uuid": "81f159e2-b9ac-4c16-aa81-6f07bc5980d7",
     "sex": "male",
     "responsibilities_main": [
-      "Team-Leiter",
+      "Management des Bau-Teams",
       "Teamlerauswahl Builder und Timolia Creative"
     ],
     "responsibilities_secondary": [
@@ -357,13 +357,12 @@
     "uuid": "a2101fef-77de-4ce8-8d51-bfeebc0770be",
     "sex": "male",
     "responsibilities_main": [
-      "Forum Zu Unrecht gebannt",
-      "Team-Leiter",
+      "Management des Timolia-Teams",
+      "Projektmanagement",
       "Teamlerauswahl Supporter"
     ],
     "responsibilities_secondary": [
-      "Timolia Turnier Organisation",
-      "UHC"
+      "Teamlerauswahl Developer"
     ],
     "rank_history": {
       "initial": "expert",
@@ -2096,7 +2095,8 @@
     "sex": "male",
     "responsibilities_main": [
       "Forum Allgemein",
-      "Forum Bug melden"
+      "Forum Bug melden",
+      "Teamlerauswahl Developer"
     ],
     "responsibilities_secondary": [
       "Map-Einsendungen"
