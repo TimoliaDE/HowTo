@@ -1,6 +1,6 @@
 Ob und wie du dich im Bereich des Managements, als System-Administrator, Developer, Moderator, Supporter, HeadBuilder, Builder oder Creator bewerben kannst, erfährst du hier.
 
-### Management, Moderator und System-Administrator
+### Administrator und Moderator
 Diese Ränge werden nur an aktive Teamler vergeben. Außenstehende können sich nicht auf diese Ränge bewerben. 
 Sie übernehmen große Verantwortung in organisatorischen und verwaltungstechnischen Bereichen und ihre Positionen erfordern intensives Wissen über die interne Struktur Timolias.
 

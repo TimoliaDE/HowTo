@@ -17,7 +17,7 @@ public class PageResponsibilities {
 
         LinkedHashMap<String, LinkedHashMap<String, String>> responsibilities = new LinkedHashMap<>() {{
             put("%page.responsibilities.project-team-orga%", new LinkedHashMap<>() {{
-                put("%page.responsibilities.project-team-orga.teamleader%", "%page.responsibilities.project-team-orga.teamleader.desc%");
+                put("%page.responsibilities.teamleader%", "%page.responsibilities.teamleader.desc%");
                 put("%page.responsibilities.project-team-orga.apply.builder%", null);
                 put("%page.responsibilities.project-team-orga.apply.developer%", null);
                 put("%page.responsibilities.project-team-orga.apply.supporter%", "%page.responsibilities.project-team-orga.apply.supporter.desc%");
@@ -101,7 +101,7 @@ public class PageResponsibilities {
                     titleCustom = "%page.responsibilities.custom.teamleader.title%";
                     // |<span class='management'>J4mPr0</span>    | Management des gesamten Timolia-Teams |
                     // |<span class='headbuilder'>Jukplays</span>  | Management des Bau-Teams |
-                    for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilityMain("Management des gesamten Timolia-Teams")).sorted(Teamler::compare).collect(Collectors.toList())) {
+                    for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilityMain("Management des Timolia-Teams")).sorted(Teamler::compare).collect(Collectors.toList())) {
                         hvCustom.add(new Utils.KeyValuePair<>("|<span class='" + teamler.getRankCurrent().getCssClass() + "'>" + teamler.getNameForMarkdown() + "</span>", "%page.responsibilities.custom.teamleader.whole-team%"));
                     }
                     for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilityMain("Management des Bau-Teams")).sorted(Teamler::compare).collect(Collectors.toList())) {

@@ -93,10 +93,10 @@ public class LanguageUtil {
 
             add(new LanguageString(Language.DE, "page.responsibilities.project-team-orga", "Projekt- und Teamorganisation"));
             add(new LanguageString(Language.EN, "page.responsibilities.project-team-orga", "Project- and Teamorganization"));
-            add(new LanguageString(Language.DE, "page.responsibilities.project-team-orga.teamleader", "Team-Leiter"));
-            add(new LanguageString(Language.EN, "page.responsibilities.project-team-orga.teamleader", "Team Leader"));
-            add(new LanguageString(Language.DE, "page.responsibilities.project-team-orga.teamleader.desc", "Im Timolia Team gibt es kleinere Teams, welche unter anderem durch diese Verantwortlichen organisiert werden."));
-            add(new LanguageString(Language.EN, "page.responsibilities.project-team-orga.teamleader.desc", "In the Timolia team, there are smaller teams, which are organized among others by these responsible persons."));
+            add(new LanguageString(Language.DE, "page.responsibilities.teamleader", "Team-Leiter"));
+            add(new LanguageString(Language.EN, "page.responsibilities.teamleader", "Team Leader"));
+            add(new LanguageString(Language.DE, "page.responsibilities.teamleader.desc", "Im Timolia Team gibt es kleinere Teams, welche unter anderem durch diese Verantwortlichen organisiert werden."));
+            add(new LanguageString(Language.EN, "page.responsibilities.teamleader.desc", "In the Timolia team, there are smaller teams, which are organized among others by these responsible persons."));
             add(new LanguageString(Language.DE, "page.responsibilities.project-team-orga.apply.builder", "Teamlerauswahl Builder und Timolia Creative"));
             add(new LanguageString(Language.EN, "page.responsibilities.project-team-orga.apply.builder", "Staff selection builder and Timolia Creative"));
             add(new LanguageString(Language.DE, "page.responsibilities.project-team-orga.apply.creator", "Teamlerauswahl Creator"));
@@ -183,8 +183,8 @@ public class LanguageUtil {
             add(new LanguageString(Language.EN, "page.responsibilities.custom.sm.twitter-builder.nv", "Builder Team-Twitter SR"));
             add(new LanguageString(Language.DE, "page.responsibilities.custom.teamleader.title", "Zuständigkeit"));
             add(new LanguageString(Language.EN, "page.responsibilities.custom.teamleader.title", "Responsibility"));
-            add(new LanguageString(Language.DE, "page.responsibilities.custom.teamleader.whole-team", "Management des gesamten Timolia-Teams"));
-            add(new LanguageString(Language.EN, "page.responsibilities.custom.teamleader.whole-team", "Management of the entire Timolia team"));
+            add(new LanguageString(Language.DE, "page.responsibilities.custom.teamleader.whole-team", "Management des Timolia-Teams"));
+            add(new LanguageString(Language.EN, "page.responsibilities.custom.teamleader.whole-team", "Management of the Timolia team"));
             add(new LanguageString(Language.DE, "page.responsibilities.custom.teamleader.builder", "Management des Bau-Teams"));
             add(new LanguageString(Language.EN, "page.responsibilities.custom.teamleader.builder", "Management of the builder team"));
             add(new LanguageString(Language.DE, "page.responsibilities.custom.yter.title", "Zuständigkeit"));
