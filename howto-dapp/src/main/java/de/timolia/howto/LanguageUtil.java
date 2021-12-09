@@ -159,6 +159,8 @@ public class LanguageUtil {
             add(new LanguageString(Language.EN, "page.responsibilities.other-responsibilities.graphicdesign", "Graphic design"));
             add(new LanguageString(Language.DE, "page.responsibilities.other-responsibilities.announcements", "Ankündigungen"));
             add(new LanguageString(Language.EN, "page.responsibilities.other-responsibilities.announcements", "Announcements"));
+            add(new LanguageString(Language.DE, "page.responsibilities.other-responsibilities.monthly-winner", "Monatssieger"));
+            add(new LanguageString(Language.EN, "page.responsibilities.other-responsibilities.monthly-winner", "Monthly winner"));
 
 //            add(new LanguageString(Language.DE, "page.responsibilities.broadcasts.desc", "Um auch ingame immer auf dem neusten Stand zu bleiben, wird sich hier um Broadcast Mitteilungen gekümmert."));
 //            add(new LanguageString(Language.EN, "page.responsibilities.broadcasts.desc", "To always stay up to date in-game, here is it taken care of broadcast messages."));

@@ -544,6 +544,7 @@
     "responsibilities_main": [
       "Forum Allgemein",
       "Gewinnspielorganisation",
+      "Monatssieger",
       "Timolia HowTo"
     ],
     "responsibilities_secondary": [
@@ -652,6 +653,7 @@
       "Map-Einsendungen"
     ],
     "responsibilities_secondary": [
+      "Monatssieger",
       "Teamlerauswahl Developer",
       "Youtuber-Ränge"
     ],
@@ -1559,6 +1561,7 @@
     ],
     "responsibilities_secondary": [
       "Map-Einsendungen",
+      "Monatssieger",
       "TeamSpeak",
       "Timolia HowTo"
     ],
@@ -2251,6 +2254,10 @@
     "name": "TraizzyBuilds",
     "uuid": "5c67c1f7-5e39-4827-9af2-947439c617a2",
     "sex": "male",
+    "responsibilities_secondary": [
+      "Grafikdesign",
+      "Monatssieger"
+    ],
     "rank_history": {
       "initial": "expert",
       "08.03.2020": "builder"
@@ -2673,6 +2680,9 @@
     "name": "ALetsPlay",
     "uuid": "036e5dee-05ba-409c-905c-314ac6cbc95b",
     "sex": "male",
+    "responsibilities_main": [
+      "Monatssieger"
+    ],
     "rank_history": {
       "initial": "expert",
       "30.01.2021": "supporter"
@@ -2839,6 +2849,9 @@
     "name": "SupMoritz",
     "uuid": "9bc330fa-0e99-4c85-9396-cb63fb82297c",
     "sex": "male",
+    "responsibilities_secondary": [
+      "Monatssieger"
+    ],
     "rank_history": {
       "initial": "expert",
       "22.11.2021": "supporter"
