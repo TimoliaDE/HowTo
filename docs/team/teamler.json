@@ -1000,7 +1000,7 @@
     "name": "ChristmasCrelias",
     "uuid": "d9027140-9718-4ef5-aabc-da49937b5be1",
     "sex": "male",
-    "responsibilities_secondary": [
+    "responsibilities_main": [
       "Map-Einsendungen"
     ],
     "rank_history": {
