@@ -1406,12 +1406,10 @@
     "name": "NicoSHG",
     "uuid": "00282beb-a460-48f4-83ed-ea4214538455",
     "sex": "male",
-    "responsibilities_main": [
-      "UHC"
-    ],
     "rank_history": {
       "initial": "expert",
-      "21.09.2020": "supporter"
+      "21.09.2020": "supporter",
+      "21.12.2021": "native_expert"
     }
   },
   {
