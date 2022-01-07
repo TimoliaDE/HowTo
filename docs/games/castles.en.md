@@ -18,7 +18,7 @@ Castles is a tactical game in which your objective is to conquer the flags of yo
 
 ## The Ranks in Castles
 
-| Rang | Punkte | Name |
+| Rank | Points | Name |
 | ------ | ------ | ------ |
 | 1 | 8 | Stalljunge |
 | 2 | 16 | Totengräber |
