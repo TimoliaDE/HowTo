@@ -18,22 +18,30 @@ Castles is a tactical game in which your objective is to conquer the flags of yo
 
 ## The Ranks in Castles
 
-| Rank | Points | Name |
+| Rang | Punkte | Name |
 | ------ | ------ | ------ |
 | 1 | 8 | Stalljunge |
 | 2 | 16 | Totengräber |
 | 3 | 32 | Nachtwächter |
 | 4 | 64 | Kämmerer |
 | 5 | 128 | Mundschenk |
-| 6 | 256 | ??? |
-| 7 | 512 | ??? |
-| 8 | 1024 | ??? |
-| 9 | 2048 | ??? |
-| 10 | 4096 | ??? |
-| 11 | 8192 | ??? |
-| 12 | 16384 | ??? |
-| 13 | 32768 | ??? |
-| 14 | 65536 | ??? |
+| 6 | 256 | Edelmann |
+| 7 | 512 | Hofnarr |
+| 8 | 1024 | Landmann |
+| 9 | 2048 | Heckenritter |
+| 10 | 4096 | Ritter |
+| 11 | 8192 | Marschall |
+| 12 | 16384 | Freiherr |
+| 13 | 32768 | Baron |
+| 14 | 65536 | Graf |
+| 15 | 131072 | Fürst |
+| 16 | 262144 | Landgraf |
+| 17 | 524288 | ??? |
+| 18 | 1048576 | ??? |
+| 19 | 2097152 | ??? |
+| 20 | 4194304 | ??? |
+| 21 | 8388608 | ??? |
+| 22 | 16777216 | ??? |
 
 Ranks need to be reached by at least one player to be displayed here. Until then, they stay hidden. Names are only shown for the lower levels.
 
