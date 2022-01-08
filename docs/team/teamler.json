@@ -245,14 +245,12 @@
     "name": "Mihaaa",
     "uuid": "97f28009-3bbb-49a3-96c7-d0f214eb6456",
     "sex": "male",
-    "responsibilities_secondary": [
-      "UHC"
-    ],
     "rank_history": {
       "initial": "mvp",
       "21.09.2020": "supporter",
       "29.08.2021": "native_mvp",
-      "25.11.2021": "supporter"
+      "25.11.2021": "supporter",
+      "07.01.2022": "native_mvp"
     }
   },
   {
