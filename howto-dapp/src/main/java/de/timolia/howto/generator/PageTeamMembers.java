@@ -41,7 +41,7 @@ public class PageTeamMembers {
                 .append("\n")
                 .append("\n").append("%page.members.first-4%")
                 .append("\n")
-                .append("\n").append("![%page.members.first-5%](img/ranks-new.png)");
+                .append("\n").append("![%page.members.first-5%](img/ranks-new2.png)");
 
         for (Rank rank : ranks) {
 
