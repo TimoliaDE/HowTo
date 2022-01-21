@@ -43,7 +43,7 @@ Notifications are displayed above the bell and you can use the speech bubble to 
 Further information can be found in <a href="https://forum.timolia.de/threads/die-neue-website.38/" target="_blank">this</a> post.
 
 ### Appeals
-From a ban of ten days on, you can shorten your ban time by up to 1/3 with an appeal, with a permanent ban your 
+From a ban of two days on, you can shorten your ban time by up to 1/2 with an appeal, with a permanent ban your 
 ban time will be reduced to 30 days.
 You can write your appeal on the forum "[Entschuldigungen](https://forum.timolia.de/forums/entschuldigungen.49/)" (engl.: "appeals").
 If you exceed 46 ban days, you must wait until your ban days have expired to 46 days or less.
