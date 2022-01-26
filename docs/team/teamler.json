@@ -2866,5 +2866,14 @@
       "initial": "expert",
       "22.11.2021": "supporter"
     }
+  },
+  {
+    "name": "Jchannes",
+    "uuid": "251f7677-ee4b-464b-aa8b-17614cc789be",
+    "sex": "male",
+    "rank_history": {
+      "initial": "spieler",
+      "22.11.2021": "builder"
+    }
   }
 ]
