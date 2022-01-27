@@ -26,8 +26,6 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/servername`                   | Zeigt dir den Server an, auf dem du dich aktuell befindest (alternativ: TAB) |
 | `/stats [1,3,30,all]`           | Zeigt dir deine Stats in den meisten Modi |
 | `/teamspeak`, `/ts`             | Zeigt die TS-IP, ermöglicht die Verifizierung und lässt dich deine Identität verwalten |
-| `/ticket <Anliegen>`            | Erstellt ein Ticket |
-| `/tickets`                      | Öffnet eine Übersicht deiner Tickets |
 | `/top`                          | Zeigt dir die Top 10 Spieler der letzten 30 Tage in einem Spielmodus an |
 | `/tutorial`                     | Starte ein Tutorial (nicht in allen Modi verfügbar) |
 | `/vote <Zahl>`                  | Votet für eine Map in einem Spielmodus |
@@ -225,25 +223,41 @@ Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführ
 ### JumpWorld
 | Befehl | Funktion |
 | ------ | -------- |
+| `/amboss`, `/crystals`, `/entities`, `/portals` | Öffnet das Menü zur Übersicht der Entities |
 | `/b`                            | Öffnet das Bau-Info-Menü |
+| `/buildspec`                    | Setzt dich im Bau-Modus in den Spectator-Modus |
 | `/checkpoint`, `/fall`, `/kill` | Teleportiert dich zurück zum letzten Checkpoint |
 | `/duel accept <Spieler>`        | Nimmt die Einladung in ein Duell an |
 | `/duel invite <Spieler>`        | Lädt einen Spieler in ein Duell ein |
 | `/duel kick <Spieler>`          | Kickt einen Spieler aus einem Duell |
 | `/duel leave <Spieler>`         | Verlässt ein Duell |
+| `/duel promote <Spieler>`       | Ernennt einen neuen Duell-Leiter |
 | `/enter <ID>`, `/e <ID>`        | Betritt ein bestimmtes Jump 'n' Run |
+| `/info`, `/jnr`                 | Gibt Informationen über das Jump 'n' Run aus |
+| `/jnrsettings`                  | Zeigt die Einstellungen des Jump 'n' Runs an |
 | `/join <Name>`                  | Betritt das Jump 'n' Run, auf dem sich [Spieler] gerade befindet |
 | `/jump`                         | Wechselt zwischen Jump- und Bau-Modus |
 | `/kit`                          | Gibt dir die Start-Items im Bau-Modus |
 | `/leave`, `/l`                  | Verlässt das aktuelle Jump 'n' Run |
-| `/setblock`, `/sb`                    | Platziert den Block in deiner Hand unter dir |
+| `/resetjnr`                     | Startet das Jump 'n' Run neu |
+| `/setblock`, `/sb`              | Platziert den Block in deiner Hand unter dir |
 | `/setstart`                     | Setzt den Startpunkt deines Jump 'n' Runs |
 | `/top <ID>`                     | Zeigt die Top-Zeiten des Jump 'n' Runs mit der ID [id] an |
 | `/top <ID> -f`                  | Zeigt die wenigsten Fails des Jump 'n' Runs mit der ID [id] an |
+| `/tpstart`                      | Setzt dich an den Start des Jump 'n' Runs zurück |
 **[Premium](/ranks/premium/) only**:
-| `/multibuild <3,6>`,<br>`/mb <3,6>` | Du kannst bis zu 3 (ab <span class="pro">Pro</span>) oder bis zu 6 (ab <span class="mvp">MVP+</span>) Blöcke auf einmal setzen
+| `/multibuild <3,6>`,<br>`/mb <3,6>` | Du kannst bis zu 3 (ab <span class="pro">Pro</span>) oder bis zu 6 (ab <span class="mvp">MVP+</span>) Blöcke auf einmal setzen |
+| `/seticon`                      | Setzt ein eigenes Icon für dein Jump 'n' Run |
+| `/reseticon`                    | Setzt das Icon des Jump 'n' Runs zurück |
 **[<span class='mvp'>MVP</span>](/ranks/premium/) only**:
-| `/skull [Name]`                     | Gibt dir einen Spielerkopf 
+| `/skull [Name]`                 | Gibt dir einen Spielerkopf |
+
+###SecretGames
+| Befehl | Funktion |
+| ------ | -------- |
+| `/cr lobby`           | Bringt euch zum Center zurück |
+| `/cr stats <Spieler>` | Listet euch die Stats eines Spielers auf |
+| `/hub`                | Bringt euch in die Hauptlobby zurück |
 
 ### UHC
 | Befehl | Funktion |

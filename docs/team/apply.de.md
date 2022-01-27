@@ -1,11 +1,11 @@
-Ob und wie du dich im Bereich des Managements, als System-Administrator:in, Developer:in, Moderator:in, Supporter:in, HeadBuilder:in, Builder:in oder Creator:in bewerben kannst, erfährst du hier.
+Ob und wie du dich im Bereich Administration, Development, Moderation, Support, Building oder Creation bewerben kannst, erfährst du hier.
 
-### Management, Moderation und System-Administration
-Diese Ränge werden nur an aktive Teamler:innen vergeben. Außenstehende können sich nicht auf diese Ränge bewerben. 
+### Administrator und Moderator
+Diese Ränge werden nur an aktive Teammitglieder vergeben. Außenstehende können sich nicht auf diese Ränge bewerben. 
 Sie übernehmen große Verantwortung in organisatorischen und verwaltungstechnischen Bereichen und ihre Positionen erfordern intensives Wissen über die interne Struktur Timolias.
 
 
-### Technik
+### Development
 Mit einer E-Mail an <a href="mailto:development@timolia.de">development@timolia.de</a> kannst du dich jederzeit als Developer:in bewerben. Neben Teamfähigkeit setzen wir ein Mindestalter von 14 Jahren voraus. 
 Dein Bewerbungsschreiben sollte deinen Ingamenamen, eine kurze Beschreibung deiner Person, Darstellung deiner Fähigkeiten und Kompetenzen und eine Angabe zur Kontaktmöglichkeit beinhalten. Als Developer:in besteht deine Hauptaufgabe darin, Ideen und Projekte für Timolia ingame oder auf unseren Web-Plattformen umzusetzen. 
 In welchem Grad du dabei frei deine eigenen Ideen zur Umsetzung und Gestaltung einbringst, hängt von deinen eigenen Wünschen und der Art des Projektes ab. Das Team steht dir jederzeit beratend zur Seite.
@@ -40,7 +40,7 @@ Optional:
 Für eine erfolgreiche Bewerbung ist es notwendig, dass du uns einen kleinen Einblick in bereits von dir abgeschlossene Projekte und deren Quellcode gewährst. Optimalerweise sollte dieser auf GitHub, Bitbucket, GitLab oder einer ähnlichen Plattform gehostet sein, da wir den Quellcode nicht als einfache Datei akzeptieren. 
 Wir achten vor allem auf sauberen, gut kommentierten Code, der deine Fähigkeiten widerspiegelt. Auch solltest du auf die Einhaltung der Java-Konventionen achten und keine obsoleten Anweisungen verwenden. 
 
-Teamler:innen des <b>Developer+</b> Rangs verfügen über eine langjährige Erfahrung als Entwickler auf Timolia und stehen bei internen Fragen zum Development zur Verfügung. Bewerbungen für diesen Rang sind daher nicht möglich.
+Teammitglieder des <b>Developer+</b> Rangs verfügen über eine langjährige Erfahrung als Entwickler auf Timolia und stehen bei internen Fragen zum Development zur Verfügung. Bewerbungen für diesen Rang sind daher nicht möglich.
 
 
 ### Support
@@ -66,7 +66,7 @@ Bei Timolia Creative hast du die Möglichkeit, an spannenden Projekten mitzuwirk
 Dein Interesse wurde geweckt? Bewirb dich jederzeit mit einem aussagekräftigen Portfolio per Mail an <a href="mailto:bewerbung@timoliacreative.de">bewerbung@timoliacreative.de</a>.
 Bitte beachte, dass du mindestens 16 Jahre alt sein musst, um in das Timolia Creative-Team aufgenommen werden zu können.
 
-Die <b>HeadBuilder:innen</b> bilden die Bauteamleitung Timolias. Da es sich um Teamler:innen mit langjähriger Erfahrung und sehr guter Kenntnis über Timolias teaminterne Strukturen handelt, ist eine Bewerbung für diesen Rang nicht möglich.
+Die <b>Heads of Building</b> bilden die Bauteamleitung Timolias. Da es sich um Teamler:innen mit langjähriger Erfahrung und sehr guter Kenntnis über Timolias teaminterne Strukturen handelt, ist eine Bewerbung für diesen Rang nicht möglich.
 
 
 ### Design, Translation und Konzeptentwicklung
@@ -76,6 +76,8 @@ deiner Arbeiten zukommen lässt. Je nachdem, für welchen kreativen Bereich du d
 und Bildbearbeitung, wenn du im bildnerischen bzw. gestalterischen Bereich tätig sein willst; Grundkenntnisse in Videoproduktion, Schnitt und sonstiger
 Postproduktion für den Schwerpunkt der (YouTube)Videoproduktion; Kreativität; sprachliche Fähigkeiten; Kenntnis über Design und kreativen Aufbau Timolias.
 Bitte beachte, dass du mindestens 14 Jahre alt sein musst, um dich bei uns als Creator:in zu bewerben.
+
+Bewerbungen für diesen Bereich sind derzeit nicht möglich!
 
 
 ### Premium-Ränge

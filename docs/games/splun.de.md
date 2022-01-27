@@ -13,19 +13,21 @@ Splun ist eine Kombination aus <strong>Spl</strong>eef und Jump and R<strong>un<
 - Mit verschiedenen Items kannst du deine Gegner beeinflussen oder dich schneller bewegen.
 
 ## Spezielle Items
-- <strong>Rakete</strong>: Du kannst höher springen
-- <strong>Feder</strong>: Du zerstörst keine Blöcke
-- <strong>Stein</strong>: Unter deinen Füßen entsteht eine Schwebeplattform
-- <strong>Schwert</strong>: Schlage deine Gegner von der Plattform
-- <strong>Trank</strong>: Fülle deine Gegner ab (Übelkeitseffekt)
-- <strong>Schuhe</strong>: Du kannst schneller rennen
-- <strong>TNT</strong>: Blöcke, die du berührst, verwandeln sich in TNT
-- <strong>Obsidian</strong>: Alle Gegner erhalten den Blindness-Effekt
-- <strong>Spitzhacke</strong>: Du kannst Blöcke mit der Spitzhacke abbauen
-- <strong>Enderperle</strong>: Du erhältst eine Enderperle
-- <strong>Soulsand</strong>: Alle Gegner erhalten den Slowness-Effekt
-- <strong>Goldapfel</strong>: Du kannst fliegen
+- <strong>Blaze Rod</strong>: Stellt Blöcke unter dir wieder her
 - <strong>Ei</strong>: Wirf die Eier, um  Blöcke zu spawnen
+- <strong>Enderauge</strong>: Du erhältst drei Doppelsprünge
+- <strong>Enderperle</strong>: Du erhältst eine Enderperle
+- <strong>Goldapfel</strong>: Du kannst fliegen
+- <strong>Obsidian</strong>: Alle Gegner erhalten den Blindness-Effekt
+- <strong>Rakete</strong>: Du kannst höher springen
+- <strong>Redstone Fackel</strong>: Schleudert alle Spieler in die Luft
+- <strong>Schneeball</strong>: Wirf die Schneebälle, um Blöcke zu zerstören
+- <strong>Schuhe</strong>: Du kannst schneller rennen
+- <strong>Schwert</strong>: Schlage deine Gegner von der Plattform
+- <strong>Soulsand</strong>: Alle Gegner erhalten den Slowness-Effekt
+- <strong>Spitzhacke</strong>: Du kannst Blöcke mit der Spitzhacke abbauen
+- <strong>Stein</strong>: Unter deinen Füßen entsteht eine Schwebeplattform
+- <strong>TNT</strong>: Blöcke, die du berührst, verwandeln sich in TNT
 
 ## Die Ränge in Splun
 

@@ -3,6 +3,7 @@ package de.timolia.howto.conversion.models;
 import de.timolia.howto.conversion.RankConversion;
 import de.timolia.howto.conversion.SQLApi;
 import de.timolia.howto.models.Rank;
+import org.apache.commons.lang3.Validate;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -27,6 +28,9 @@ public class TeamlerRankChange {
         this.rankTo = RankConversion.getRank(rankTo);
         this.date = simpleDateFormat.parse(date);
         this.hidden = false;
+
+        Validate.notNull(this.rankFrom, "Der Rang von '" + name + "' ('" + rankFrom + "') existiert nicht");
+        Validate.notNull(this.rankTo, "Der Rang von '" + name + "' ('" + rankTo + "') existiert nicht");
     }
 
     public TeamlerRankChange(String name, UUID uuid, Rank rankFrom, Rank rankTo, String date, boolean hidden) {
@@ -36,6 +40,9 @@ public class TeamlerRankChange {
         this.rankTo = rankTo;
         this.date = toDate(date);
         this.hidden = hidden;
+
+        Validate.notNull(this.rankFrom, "Der Rang von '" + name + "' existiert nicht");
+        Validate.notNull(this.rankTo, "Der Rang von '" + name + "' existiert nicht");
     }
 
 

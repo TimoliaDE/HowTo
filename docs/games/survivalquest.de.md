@@ -1,6 +1,6 @@
 <div class="banner-wrapper">
     <img alt="UHC" src="../img/SurvivalQuest.png">
-    <div class="banner-text">Survival&nbsp;Quest</div>
+    <div class="banner-text">SurvivalQuest</div>
 </div>
 
 

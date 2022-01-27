@@ -38,7 +38,7 @@ You can find out which premium rank offers you which advantages [here](/ranks/pr
 | 5 | 1024 | Halbstarker |
 | 6 | 2048 | ??? |
 | 7 | 4096 | ??? |
-| 8 | 8129 | ??? |
+| 8 | 8192 | ??? |
 | 9 | 16348 | ??? |
 | 10 | 32768 | ??? |
 

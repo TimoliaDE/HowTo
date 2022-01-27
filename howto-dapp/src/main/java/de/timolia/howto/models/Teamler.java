@@ -2,6 +2,7 @@ package de.timolia.howto.models;
 
 import de.timolia.howto.conversion.SQLApi;
 import de.timolia.howto.conversion.models.TeamlerRankChange;
+import org.apache.commons.lang3.Validate;
 
 import java.text.ParseException;
 import java.text.RuleBasedCollator;
@@ -19,11 +20,11 @@ public class Teamler {
     private List<String> responsibilitiesSecondary;
     private final List<String> responsibilitiesSecondaryHidden;
     private final List<String> fields;
-    private final HashMap<String, Rank> rankHistory;
+    private final LinkedHashMap<String, Rank> rankHistory;
     private transient List<TeamlerRankChange> rankChanges = null;
     private transient Rank rankCurrent = null;
 
-    public Teamler(UUID uuid, Sex sex, List<String> responsibilitiesMain, List<String> responsibilitiesSecondary, List<String> fields, HashMap<String, Rank> rankHistory) {
+    public Teamler(UUID uuid, Sex sex, List<String> responsibilitiesMain, List<String> responsibilitiesSecondary, List<String> fields, LinkedHashMap<String, Rank> rankHistory) {
         this.name = SQLApi.getName(uuid);
         this.uuid = uuid;
         this.sex = sex;
@@ -88,6 +89,11 @@ public class Teamler {
         rankChanges = new ArrayList<>();
         if (rankHistory == null || rankHistory.isEmpty()) {
             return rankChanges;
+        }
+
+        for (int i = 0; i < rankHistory.size(); i++) {
+            Rank rank = (Rank) rankHistory.values().toArray()[i];
+            Validate.notNull(rank, "Der " + (i + 1) + ". Rang von '" + name + "' existiert nicht");
         }
 
         List<Date> dates = rankHistory.keySet().stream().map(s -> s.replace("hidden-", "")).map(TeamlerRankChange::toDate).sorted().collect(Collectors.toList());

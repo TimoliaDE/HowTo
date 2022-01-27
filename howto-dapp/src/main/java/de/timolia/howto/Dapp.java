@@ -22,7 +22,7 @@ import java.nio.file.StandardOpenOption;
 import java.text.ParseException;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -106,7 +106,7 @@ public class Dapp { // D. Application
         teamlerRankChanges.stream().map(TeamlerRankChange::getUuid).sorted().distinct().forEach(uuid -> {
             List<TeamlerRankChange> changes = teamlerRankChanges.stream().filter(teamlerRankChange -> teamlerRankChange.getUuid().equals(uuid)).collect(Collectors.toList());
 
-            HashMap<String, Rank> rankHistory = new HashMap<>();
+            LinkedHashMap<String, Rank> rankHistory = new LinkedHashMap<>();
             for (TeamlerRankChange teamlerRankChange : changes) {
                 if (rankHistory.isEmpty()) {
                     rankHistory.put("initial", teamlerRankChange.getRankFrom());

@@ -50,6 +50,8 @@ basic knowledge in video production, editing and other post-production for the m
 creativity; language skills; knowledge of the design and the creative structure of Timolia.
 Please note that you must be at least 14 years old to apply as a Creator.
 
+Applications for this field are currently not possible!
+
 
 ### Premium ranks
 Timolia has several permanent premium ranks. You cannot apply for these. As a thank you, every player receives a rank when he donates a certain amount of money to Timolia. 

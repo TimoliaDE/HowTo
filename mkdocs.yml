@@ -2,7 +2,8 @@ site_name: Timolia HowTo
 site_author: thomasgneist, Tedget
 site_description: Alle wichtigen und auch unwichtigen Informationen über Timolia sind hier zu finden.
 copyright: tixia UG (haftungsbeschränkt)
-google_analytics: ['UA-55594495-7', 'howto.timolia.de']
+# google_analytics: ['UA-55594495-7', 'howto.timolia.de']
+site_url: '%SITE_URL%'
 
 pages:
 - Über: 'index.md'
@@ -31,8 +32,10 @@ pages:
   - InTime: 'games/intime.md'
   - JumpWorld: 'games/jumpworld.md'
   - Mineception: 'games/mineception.md'
+  - SecretGames: 'games/secretgames.md'
   - Splun: 'games/splun.md'
-  - Survival Quest: 'games/survival-quest.md'
+  - SurvivalQuest: 'games/survivalquest.md'
+  - Suspicious: 'games/suspicious.md'
   - Timolianische Spiele: 'games/tspiele.md'
   - UHC: 'games/uhc.md'
 - Ränge auf Timolia:

@@ -60,11 +60,11 @@
     "uuid": "81f159e2-b9ac-4c16-aa81-6f07bc5980d7",
     "sex": "male",
     "responsibilities_main": [
-      "Bauteam-Twitter",
-      "Management des Bauteams"
+      "Management des Bau-Teams",
+      "Teamlerauswahl Builder und Timolia Creative"
     ],
-    "responsibilities_main_hidden": [
-      "Management des Bau-Teams"
+    "responsibilities_secondary": [
+      "Social Media"
     ],
     "rank_history": {
       "initial": "spieler",
@@ -121,7 +121,8 @@
       "initial": "spieler",
       "05.03.2019": "supporter",
       "14.09.2019": "native_mvp",
-      "10.09.2020": "supporter"
+      "10.09.2020": "supporter",
+      "17.07.2021": "native_mvp"
     }
   },
   {
@@ -179,12 +180,12 @@
     "uuid": "94fa217d-6e68-4b87-86ff-6156765c4a17",
     "sex": "male",
     "responsibilities_main": [
-      "Supporterauswahl"
+      "Forum Zu Unrecht gebannt",
+      "Teamlerauswahl Supporter"
     ],
     "responsibilities_secondary": [
       "Community-Discord",
-      "Timolia Turnier Organisation",
-      "Zu Unrecht gebannt Forum"
+      "Timolia Turnier Organisation"
     ],
     "rank_history": {
       "initial": "expert",
@@ -246,7 +247,10 @@
     "sex": "male",
     "rank_history": {
       "initial": "mvp",
-      "21.09.2020": "supporter"
+      "21.09.2020": "supporter",
+      "29.08.2021": "native_mvp",
+      "25.11.2021": "supporter",
+      "07.01.2022": "native_mvp"
     }
   },
   {
@@ -260,19 +264,9 @@
     }
   },
   {
-    "name": "WeihnachtsMax",
+    "name": "caelis",
     "uuid": "9c119b63-820d-4973-ab8e-90fb79c5064d",
     "sex": "male",
-    "responsibilities_main": [
-      "Interne Webanwendung"
-    ],
-    "responsibilities_secondary": [
-      "Hardware"
-    ],
-    "fields": [
-      "Systemadministration",
-      "Web Development"
-    ],
     "rank_history": {
       "initial": "supporter_games",
       "05.10.2016": "moderator_games",
@@ -280,13 +274,23 @@
       "24.09.2018": "moderator",
       "27.04.2019": "administrator",
       "08.11.2019": "sysadmin",
-      "16.07.2020": "developer_plus"
+      "16.07.2020": "developer_plus",
+      "02.04.2021": "sysadmin",
+      "15.09.2021": "native_expert"
     }
   },
   {
     "name": "xJu1ia",
     "uuid": "9d4ee99b-d4d1-4ca4-8a50-50270a5fadb9",
     "sex": "female",
+    "responsibilities_main": [
+      "Grafikdesign",
+      "Social Media",
+      "UHC"
+    ],
+    "responsibilities_secondary": [
+      "Youtuber-Ränge"
+    ],
     "rank_history": {
       "initial": "expert",
       "09.05.2016": "supporter_games",
@@ -351,18 +355,19 @@
     "uuid": "a2101fef-77de-4ce8-8d51-bfeebc0770be",
     "sex": "male",
     "responsibilities_main": [
-      "Map-Einsendungen",
-      "Zu Unrecht gebannt Forum"
+      "Management des Timolia-Teams",
+      "Projektmanagement",
+      "Teamlerauswahl Supporter"
     ],
     "responsibilities_secondary": [
-      "Supporterauswahl",
-      "Timolia Turnier Organisation"
+      "Teamlerauswahl Developer"
     ],
     "rank_history": {
       "initial": "expert",
       "10.05.2019": "supporter",
       "08.11.2019": "supporter_plus",
-      "05.07.2020": "moderator"
+      "05.07.2020": "moderator",
+      "10.11.2021": "administrator"
     }
   },
   {
@@ -434,12 +439,10 @@
     "name": "Quanturix",
     "uuid": "ab66f02b-5eef-44b0-a562-a259eb9cd908",
     "sex": "male",
-    "fields": [
-      "Plugin Development"
-    ],
     "rank_history": {
       "initial": "pro_plus",
-      "08.12.2020": "developer"
+      "08.12.2020": "developer",
+      "10.01.2022": "native_mvp"
     }
   },
   {
@@ -494,13 +497,10 @@
     "name": "NetflixGutschein",
     "uuid": "b0a7c420-bb5c-437f-9d24-2e73a4e2d6ca",
     "sex": "female",
-    "responsibilities_secondary": [
-      "Baufehlerbehebung",
-      "Broadcasts"
-    ],
     "rank_history": {
       "initial": "mvp",
-      "15.09.2019": "supporter"
+      "15.09.2019": "supporter",
+      "04.01.2022": "native_mvp"
     }
   },
   {
@@ -535,10 +535,15 @@
     "name": "Karolux_",
     "uuid": "b225d9b4-e90e-486e-a195-06915092eecc",
     "sex": "male",
-    "responsibilities_secondary": [
-      "Anregungen und Vorschläge Forum",
-      "Fragen und Antworten Forum",
+    "responsibilities_main": [
+      "Forum Allgemein",
+      "Gewinnspielorganisation",
+      "Monatssieger",
       "Timolia HowTo"
+    ],
+    "responsibilities_secondary": [
+      "Map-Einsendungen",
+      "Social Media"
     ],
     "rank_history": {
       "initial": "pro",
@@ -570,7 +575,8 @@
     "sex": "female",
     "rank_history": {
       "initial": "mvp",
-      "24.11.2020": "creator"
+      "24.11.2020": "creator",
+      "20.04.2021": "native_mvp"
     }
   },
   {
@@ -637,15 +643,19 @@
     "name": "HerLegendaryWolf",
     "uuid": "bab90033-0a49-4965-834f-8e5462df7c6f",
     "sex": "male",
+     "responsibilities_main": [
+      "Map-Einsendungen"
+    ],
     "responsibilities_secondary": [
-      "Baufehlerbehebung",
-      "Map-Einsendungen",
-      "YouTuber-Ränge"
+      "Monatssieger",
+      "Teamlerauswahl Developer",
+      "Youtuber-Ränge"
     ],
     "rank_history": {
       "initial": "mvp",
       "12.11.2019": "supporter",
-      "01.11.2020": "supporter_plus"
+      "01.11.2020": "supporter_plus",
+      "09.01.2022": "moderator"
     }
   },
   {
@@ -682,29 +692,28 @@
     "sex": "male",
     "responsibilities_main": [
       "Geschäftsführung",
-      "Hardware"
+      "Verwaltung"
     ],
     "fields": [
-      "Verwaltung",
+      "Hardware",
       "Plugin Development"
     ],
     "rank_history": {
       "initial": "administrator",
-      "08.11.2019": "management"
+      "08.11.2019": "management",
+      "10.11.2021": "administrator"
     }
   },
   {
     "name": "TimderBusfahrer",
     "uuid": "c2e29142-763d-4153-9429-43f978153314",
     "sex": "male",
-    "fields": [
-      "Plugin Development"
-    ],
     "rank_history": {
       "initial": "pro_plus",
       "17.04.2019": "developer",
       "28.08.2019": "native_mvp",
-      "05.03.2020": "developer"
+      "05.03.2020": "developer",
+      "10.01.2022": "native_mvp"
     }
   },
   {
@@ -732,12 +741,11 @@
     "name": "xTessia",
     "uuid": "c635caa2-0e21-412a-bcda-9785168df838",
     "sex": "female",
+    "responsibilities_main": [
+      "Ankündigungen"
+    ],
     "responsibilities_secondary": [
-      "Broadcasts",
-      "Entschuldigungen",
-      "TeamSpeak",
-      "Twitter",
-      "YouTuber-Ränge"
+      "Youtuber-Ränge"
     ],
     "rank_history": {
       "initial": "pro",
@@ -765,7 +773,8 @@
       "25.06.2017": "builder",
       "14.01.2018": "expert",
       "22.05.2018": "builder",
-      "24.03.2019": "native_expert"
+      "24.03.2019": "native_expert",
+      "06.04.2021": "builder"
     }
   },
   {
@@ -776,7 +785,8 @@
       "initial": "pro",
       "04.07.2019": "builder",
       "26.10.2019": "native_mvp",
-      "27.04.2020": "builder"
+      "27.04.2020": "builder",
+      "06.06.2021": "native_mvp"
     }
   },
   {
@@ -969,23 +979,28 @@
     "uuid": "d723842a-7dd9-4e09-ad8e-63086178e73e",
     "sex": "male",
     "responsibilities_secondary": [
-      "Broadcasts",
-      "Entschuldigungen"
+      "Forum Entschuldigungen",
+      "UHC"
     ],
     "rank_history": {
       "initial": "pro_plus",
       "08.03.2020": "supporter",
       "09.01.2021": "native_mvp_plus",
-      "07.02.2021": "supporter"
+      "07.02.2021": "supporter",
+      "09.01.2022": "supporter_plus"
     }
   },
   {
     "name": "ChristmasCrelias",
     "uuid": "d9027140-9718-4ef5-aabc-da49937b5be1",
     "sex": "male",
+    "responsibilities_main": [
+      "Map-Einsendungen"
+    ],
     "rank_history": {
       "initial": "mvp",
-      "30.01.2020": "builder"
+      "30.01.2020": "builder",
+      "18.11.2021": "head_builder"
     }
   },
   {
@@ -1002,12 +1017,10 @@
     "name": "YTKacperSKY",
     "uuid": "dc50fc4e-f1b6-450f-9c8d-52bc2cb86f3b",
     "sex": "male",
-    "fields": [
-      "Plugin Development"
-    ],
     "rank_history": {
       "initial": "native_mvp",
-      "27.08.2018": "developer"
+      "27.08.2018": "developer",
+      "09.01.2022": "native_expert"
     }
   },
   {
@@ -1079,6 +1092,9 @@
     "name": "Sunneeh",
     "uuid": "e5b9ea2e-c610-4ff7-8e07-3ff6fb95f1a8",
     "sex": "female",
+    "responsibilities_main": [
+      "Translation und Content creation"
+    ],
     "rank_history": {
       "initial": "expert",
       "02.04.2020": "creator"
@@ -1281,7 +1297,8 @@
       "07.10.2018": "native_mvp",
       "05.09.2019": "builder",
       "09.06.2020": "native_mvp",
-      "06.09.2020": "builder"
+      "06.09.2020": "builder",
+      "23.06.2021": "expert"
     }
   },
   {
@@ -1315,7 +1332,8 @@
     "rank_history": {
       "initial": "spieler",
       "07.05.2020": "builder",
-      "07.02.2021": "builder_plus"
+      "07.02.2021": "builder_plus",
+      "18.09.2021": "native_expert"
     }
   },
   {
@@ -1364,20 +1382,16 @@
     "name": "xiantiel",
     "uuid": "fff54f1a-e61d-4af5-90ab-f925f1b2d0a6",
     "sex": "male",
-    "responsibilities_main": [
-      "Technische Leitung",
-      "Projektleitung und -verwaltung",
-      "DevOps"
-    ],
     "fields": [
-      "Systemadministration",
-      "Plugin Development"
+      "Systemadministration"
     ],
     "rank_history": {
       "initial": "administrator",
       "13.12.2018": "native_expert",
       "28.08.2019": "administrator",
-      "08.11.2019": "management"
+      "08.11.2019": "management",
+      "02.04.2021": "sysadmin",
+      "10.11.2021": "developer_plus"
     }
   },
   {
@@ -1386,7 +1400,8 @@
     "sex": "male",
     "rank_history": {
       "initial": "expert",
-      "21.09.2020": "supporter"
+      "21.09.2020": "supporter",
+      "21.12.2021": "native_expert"
     }
   },
   {
@@ -1509,19 +1524,16 @@
     "uuid": "0e23e989-7cfb-40f3-ad63-8a76c68bdd7d",
     "sex": "male",
     "responsibilities_main": [
-      "Baufehlerbehebung",
-      "Entschuldigungen",
-      "Fragen und Antworten Forum",
-      "Map-Einsendungen",
-      "Spieler melden Forum"
+      "Forum Entschuldigungen",
+      "Forum Spieler melden",
+      "Teamlerauswahl Supporter",
+      "Timolia Turnier Organisation",
+      "Youtuber-Ränge"
     ],
     "responsibilities_secondary": [
-      "Anregungen und Vorschläge Forum",
-      "Broadcasts",
-      "Supporterauswahl",
-      "Timolia HowTo",
-      "Timolia Turnier Organisation",
-      "Twitter"
+      "Forum Allgemein",
+      "Social Media",
+      "Timolia HowTo"
     ],
     "rank_history": {
       "initial": "expert",
@@ -1534,11 +1546,13 @@
     "name": "_xlinx_",
     "uuid": "0ed6aeee-673f-4579-95ff-0ba474efd610",
     "sex": "female",
-    "responsibilities_main_hidden": [
-      "Bugs und Spielfehler"
+    "responsibilities_main": [
+      "Forum Bug melden",
+      "TeamSpeak"
     ],
     "responsibilities_secondary": [
-      "Broadcasts",
+      "Map-Einsendungen",
+      "Monatssieger",
       "Timolia HowTo"
     ],
     "rank_history": {
@@ -1551,9 +1565,12 @@
     "name": "leStark",
     "uuid": "0f60d23f-7105-4199-bfe9-099cee27977f",
     "sex": "male",
+    "responsibilities_main": [
+      "Forum Entschuldigungen",
+      "Youtuber-Ränge"
+    ],
     "responsibilities_secondary": [
-      "Entschuldigungen",
-      "Zu Unrecht gebannt Forum"
+      "Forum Zu Unrecht gebannt"
     ],
     "rank_history": {
       "initial": "spieler",
@@ -1677,13 +1694,15 @@
   },
   {
     "name": "Ni1ck",
-    "uuid": "1bb9806d-839a-4d48-99cb-c3664e280d0a",
+    "old-uuid": "1bb9806d-839a-4d48-99cb-c3664e280d0a",
+    "uuid": "cf13ae9d-0004-40a1-ae9f-c8a764060a1c",
     "sex": "male",
     "rank_history": {
       "initial": "pro_plus",
       "21.02.2020": "creator",
       "11.09.2020": "native_mvp",
-      "12.01.2021": "creator"
+      "12.01.2021": "creator",
+      "26.05.2021": "native_mvp"
     }
   },
   {
@@ -1709,32 +1728,14 @@
     "name": "physanus",
     "uuid": "1bec952b-bbe1-4699-9d9d-d6ceafa7f952",
     "sex": "male",
-    "responsibilities_main": [
-      "Broadcasts",
-      "DevOps",
-      "Gewinnspielorganisation",
-      "Timolia HowTo"
-    ],
-    "responsibilities_secondary": [
-      "Bauteam-Twitter",
-      "Community-Discord",
-      "Supporterauswahl",
-      "TeamSpeak",
-      "Timolia Turnier Organisation",
-      "Twitter"
-    ],
-    "fields": [
-      "Systemadministration",
-      "Plugin Development",
-      "Web Development"
-    ],
     "rank_history": {
       "initial": "spieler",
       "11.10.2017": "developer",
       "15.05.2018": "native_mvp",
       "17.08.2018": "developer",
       "17.02.2019": "moderator",
-      "17.03.2020": "sysadmin"
+      "17.03.2020": "sysadmin",
+      "15.09.2021": "native_expert"
     }
   },
   {
@@ -1752,7 +1753,8 @@
     "sex": "male",
     "rank_history": {
       "initial": "expert",
-      "20.10.2020": "builder"
+      "20.10.2020": "builder",
+      "14.05.2021": "native_expert"
     }
   },
   {
@@ -1816,12 +1818,10 @@
     "name": "byRoadrunner",
     "uuid": "2ae500be-80f4-4076-a6ea-b43abb431ed9",
     "sex": "male",
-    "responsibilities_main_hidden": [
-      "Bugs und Spielfehler"
-    ],
     "rank_history": {
       "initial": "mvp",
-      "12.11.2019": "supporter"
+      "12.11.2019": "supporter",
+      "07.09.2021": "native_mvp"
     }
   },
   {
@@ -1873,10 +1873,14 @@
     "name": "sp9z",
     "uuid": "317ecd94-d82d-473d-b21d-436d5673ec0e",
     "sex": "male",
+    "fields": [
+      "Plugin Development"
+    ],
     "rank_history": {
       "initial": "spieler",
       "21.04.2020": "developer",
-      "02.03.2021": "native_mvp"
+      "02.03.2021": "native_mvp",
+      "14.05.2021": "developer"
     }
   },
   {
@@ -1887,7 +1891,8 @@
       "initial": "expert",
       "16.04.2020": "builder",
       "18.11.2020": "native_expert",
-      "03.02.2021": "builder"
+      "03.02.2021": "builder",
+      "01.06.2021": "native_expert"
     }
   },
   {
@@ -2043,12 +2048,16 @@
     "name": "_Tetzel_",
     "uuid": "4f46f87b-968d-45c5-a629-ab1821519b1b",
     "sex": "male",
+    "responsibilities_secondary": [
+      "Map-Einsendungen"
+    ],
     "rank_history": {
       "initial": "spieler",
       "18.12.2016": "builder",
       "13.03.2018": "native_mvp",
       "13.05.2019": "supporter",
-      "12.02.2021": "native_expert"
+      "12.02.2021": "native_expert",
+      "06.06.2021": "creator"
     }
   },
   {
@@ -2078,16 +2087,12 @@
     "uuid": "525183d9-1a5a-40e1-a712-e3099282c341",
     "sex": "male",
     "responsibilities_main": [
-      "Anti-Cheat"
+      "Forum Allgemein",
+      "Forum Bug melden",
+      "Teamlerauswahl Developer"
     ],
     "responsibilities_secondary": [
-      "Feedback Forum",
-      "Fragen und Antworten Forum",
       "Map-Einsendungen"
-    ],
-    "responsibilities_main_hidden": [
-      "Bug melden",
-      "Bugs und Spielfehler"
     ],
     "fields": [
       "Plugin Development"
@@ -2095,7 +2100,9 @@
     "rank_history": {
       "initial": "developer",
       "16.05.2018": "administrator",
-      "08.11.2019": "developer_plus"
+      "08.11.2019": "developer_plus",
+      "29.09.2021": "management",
+      "10.11.2021": "administrator"
     }
   },
   {
@@ -2154,35 +2161,13 @@
     "name": "Lascona",
     "uuid": "5687c78f-0076-48b0-9697-e518359bead1",
     "sex": "female",
-    "responsibilities_main": [
-      "Teammanagement",
-      "Projektleitung",
-      "Internes und externes Feedback",
-      "YouTuber"
-    ],
-    "responsibilities_main_hidden": [
-      "Anregungen und Vorschläge Forum",
-      "Broadcasts",
-      "Forenorganisation",
-      "Feedback Forum",
-      "Management des gesamten Timolia-Teams",
-      "Social-Media",
-      "Supporterauswahl",
-      "Timolia Turnier Organisation",
-      "YouTuber-Ränge"
-    ],
-    "responsibilities_secondary_hidden": [
-      "Community-Discord"
-    ],
-    "fields": [
-      "Teamleitung"
-    ],
     "rank_history": {
       "initial": "expert",
       "09.05.2016": "supporter_games",
       "05.10.2016": "moderator_games",
       "16.05.2018": "administrator",
-      "08.11.2019": "management"
+      "08.11.2019": "management",
+      "15.09.2021": "native_expert"
     }
   },
   {
@@ -2259,6 +2244,10 @@
     "name": "TraizzyBuilds",
     "uuid": "5c67c1f7-5e39-4827-9af2-947439c617a2",
     "sex": "male",
+    "responsibilities_secondary": [
+      "Grafikdesign",
+      "Monatssieger"
+    ],
     "rank_history": {
       "initial": "expert",
       "08.03.2020": "builder"
@@ -2326,17 +2315,10 @@
     "name": "medicoo",
     "uuid": "64c1db27-5848-4d27-84a5-3da214e297c9",
     "sex": "male",
-    "responsibilities_main": [
-      "Bauteam-Twitter",
-      "Timolia Turnier Organisation",
-      "YouTuber-Ränge"
-    ],
-    "responsibilities_secondary": [
-      "TeamSpeak"
-    ],
     "rank_history": {
       "initial": "supporter",
-      "17.02.2019": "moderator"
+      "17.02.2019": "moderator",
+      "25.09.2021": "native_expert"
     }
   },
   {
@@ -2354,12 +2336,10 @@
     "name": "_ELKMAN_",
     "uuid": "6624104a-2e4f-4921-a02d-ed931d47433f",
     "sex": "male",
-    "fields": [
-      "Plugin Development"
-    ],
     "rank_history": {
       "initial": "expert",
-      "03.09.2018": "developer"
+      "03.09.2018": "developer",
+      "10.01.2022": "native_expert"
     }
   },
   {
@@ -2376,8 +2356,9 @@
     "uuid": "6aa9c36c-89be-4b8a-bd24-9401e5085055",
     "sex": "male",
     "responsibilities_secondary": [
-      "Interne Webanwendung",
-      "Leveldesign"
+      "Map-Einsendungen",
+      "Teamlerauswahl Builder und Timolia Creative",
+      "Teamlerauswahl Developer"
     ],
     "fields": [
       "Web Development"
@@ -2389,7 +2370,8 @@
       "22.10.2018": "builder",
       "16.07.2019": "native_expert",
       "23.10.2019": "builder",
-      "02.12.2020": "developer"
+      "02.12.2020": "developer",
+      "28.11.2021": "developer_plus"
     }
   },
   {
@@ -2468,17 +2450,13 @@
     "uuid": "73d45f07-891e-4909-b1b9-1d3ec5480eb9",
     "sex": "male",
     "responsibilities_main": [
+      "Teamlerauswahl Developer",
       "TeamSpeak"
-    ],
-    "responsibilities_secondary": [
-      "Organisation und Betreuung neuer Developer",
-      "Verschicken von Reddit-Hundeposts"
     ],
     "fields": [
       "Systemadministration",
       "Plugin Development",
-      "Web Development",
-      "TeamSpeak"
+      "Web Development"
     ],
     "rank_history": {
       "initial": "supporter_city",
@@ -2568,10 +2546,6 @@
     "name": "NameIsTaken",
     "uuid": "79107071-ed61-4379-a56a-1b2ad9f5fd8a",
     "sex": "male",
-    "responsibilities_main": [
-      "Community-Discord",
-      "Supporterauswahl"
-    ],
     "rank_history": {
       "initial": "expert",
       "02.10.2017": "supporter_games",
@@ -2579,7 +2553,8 @@
       "15.10.2018": "developer",
       "17.02.2019": "moderator",
       "12.11.2019": "native_expert",
-      "28.02.2020": "moderator"
+      "28.02.2020": "moderator",
+      "02.10.2021": "native_expert"
     }
   },
   {
@@ -2653,14 +2628,9 @@
     "name": "Raziel",
     "uuid": "f7781742-b4ae-4989-a2a0-2bbcf691d03b",
     "sex": "male",
-    "responsibilities_main": [
-      "Anti-Cheat"
-    ],
-    "fields": [
-      "Plugin Development"
-    ],
     "rank_history": {
-      "initial": "developer"
+      "initial": "developer",
+      "10.01.2022": "native_mvp"
     }
   },
   {
@@ -2669,7 +2639,8 @@
     "sex": "male",
     "rank_history": {
       "initial": "pro",
-      "30.12.2020": "builder"
+      "30.12.2020": "builder",
+      "01.06.2021": "native_mvp"
     }
   },
   {
@@ -2685,15 +2656,19 @@
     "name": "p1npa1",
     "uuid": "2a654b51-5045-47e1-9815-7d195ae291b6",
     "sex": "male",
-    "rank_history": {
+     "rank_history": {
       "initial": "expert",
-      "17.01.2021": "builder"
+      "17.01.2021": "builder",
+      "03.12.2021": "native_expert"
     }
   },
   {
     "name": "ALetsPlay",
     "uuid": "036e5dee-05ba-409c-905c-314ac6cbc95b",
     "sex": "male",
+    "responsibilities_main": [
+      "Monatssieger"
+    ],
     "rank_history": {
       "initial": "expert",
       "30.01.2021": "supporter"
@@ -2705,16 +2680,21 @@
     "sex": "male",
     "rank_history": {
       "initial": "mvp",
-      "30.01.2021": "supporter"
+      "30.01.2021": "supporter",
+      "04.12.2021": "native_mvp"
     }
   },
   {
     "name": "AbstaubExpertDE",
     "uuid": "f56499d5-d48f-4390-9e0e-58dc834e29fa",
     "sex": "male",
+    "responsibilities_secondary": [
+      "Timolia Turnier Organisation"
+    ],
     "rank_history": {
       "initial": "expert",
-      "22.02.2021": "supporter"
+      "22.02.2021": "supporter",
+      "03.10.2021": "supporter_plus"
     }
   },
   {
@@ -2731,6 +2711,10 @@
     "name": "SebaDE",
     "uuid": "e44e5f1e-6e53-4ba6-be72-175ee06f7623",
     "sex": "male",
+    "responsibilities_secondary": [
+      "Map-Einsendungen",
+      "Youtuber-Ränge"
+    ],
     "rank_history": {
       "initial": "expert",
       "22.02.2021": "supporter"
@@ -2742,7 +2726,145 @@
     "sex": "male",
     "rank_history": {
       "initial": "mvp",
-      "22.02.2021": "supporter"
+      "22.02.2021": "supporter",
+      "03.04.2021": "native_mvp"
+    }
+  },
+  {
+    "name": "Butzlabben",
+    "uuid": "42fa7a75-7afa-4a19-932a-1c385c07048a",
+    "sex": "male",
+    "rank_history": {
+      "initial": "spieler",
+      "12.04.2021": "developer",
+      "10.01.2022": "native_mvp"
+    }
+  },
+  {
+    "name": "Michelplays",
+    "uuid": "8898cc60-bb99-427a-b1c3-a53057315d36",
+    "sex": "male",
+    "responsibilities_main": [
+      "UHC"
+    ],
+    "rank_history": {
+      "initial": "mvp",
+      "20.04.2021": "supporter"
+    }
+  },
+  {
+    "name": "KanekiZ",
+    "uuid": "4bb8bd7c-c55d-4232-9529-d4d392de0361",
+    "sex": "male",
+    "rank_history": {
+      "initial": "spieler",
+      "20.04.2021": "supporter"
+    }
+  },
+  {
+    "name": "HicXD",
+    "uuid": "14a13257-f1a3-4802-bd1e-73f077f0143a",
+    "sex": "male",
+    "responsibilities_secondary": [
+      "Map-Einsendungen"
+    ],
+    "rank_history": {
+      "initial": "expert",
+      "14.05.2021": "supporter"
+    }
+  },
+  {
+    "name": "Janettangelina",
+    "uuid": "b04f5c1b-6892-4468-9b77-5708056fdda4",
+    "sex": "female",
+    "rank_history": {
+      "initial": "spieler",
+      "14.05.2021": "supporter",
+      "05.11.2021": "native_mvp"
+    }
+  },
+  {
+    "name": "zLegende_YT",
+    "uuid": "999676d1-f0db-458f-afe0-11cb40d2a829",
+    "sex": "male",
+    "rank_history": {
+      "initial": "spieler",
+      "26.06.2021": "builder"
+    }
+  },
+  {
+    "name": "Cintoxxx",
+    "uuid": "234f39bf-d648-41e0-8bdc-7d039a9e09c7",
+    "sex": "male",
+    "rank_history": {
+      "initial": "expert",
+      "08.08.2021": "supporter"
+    }
+  },
+  {
+    "name": "L3nnart_",
+    "uuid": "f31bfa9e-2757-4805-835f-aa38018336e6",
+    "sex": "male",
+    "responsibilities_main": [
+      "Community-Discord"
+    ],
+    "responsibilities_secondary": [
+      "UHC"
+    ],
+    "fields": [
+      "Plugin Development",
+      "Web Development"
+    ],
+    "rank_history": {
+      "initial": "expert",
+      "13.09.2021": "developer"
+    }
+  },
+  {
+    "name": "Xantoxx",
+    "uuid": "73386fd8-1321-479f-a8e0-49fb389cf246",
+    "sex": "male",
+    "rank_history": {
+      "initial": "mvp",
+      "08.10.2021": "developer"
+    }
+  },
+  {
+    "name": "SupMoritz",
+    "uuid": "9bc330fa-0e99-4c85-9396-cb63fb82297c",
+    "sex": "male",
+    "responsibilities_secondary": [
+      "Monatssieger"
+    ],
+    "fields": [
+      "Web Development"
+    ],
+    "rank_history": {
+      "initial": "expert",
+      "22.11.2021": "supporter",
+      "09.01.2022": "developer"
+    }
+  },
+  {
+    "name": "Seeraeuber",
+    "uuid": "9bac5789-9029-4fe0-8bb4-c75d0f4de4d3",
+    "sex": "male",
+    "rank_history": {
+      "initial": "expert",
+      "22.11.2021": "supporter"
+    }
+  },
+  {
+    "name": "Luuuu",
+    "uuid": "1a1e7c94-1281-4d7b-930f-be3bd8266949",
+    "sex": "male",
+    "responsibilities_secondary": [
+      "Forum Entschuldigungen",
+      "UHC"
+    ],
+    "rank_history": {
+      "initial": "expert",
+      "22.11.2021": "supporter"
     }
   }
 ]
