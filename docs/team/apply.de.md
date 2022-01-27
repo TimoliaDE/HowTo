@@ -1,6 +1,6 @@
 Ob und wie du dich im Bereich Administration, Development, Moderation, Support, Building oder Creation bewerben kannst, erfährst du hier.
 
-### Administrator und Moderator
+### Administration und Moderation
 Diese Ränge werden nur an aktive Teammitglieder vergeben. Außenstehende können sich nicht auf diese Ränge bewerben. 
 Sie übernehmen große Verantwortung in organisatorischen und verwaltungstechnischen Bereichen und ihre Positionen erfordern intensives Wissen über die interne Struktur Timolias.
 
@@ -16,14 +16,13 @@ Damit das so reibungslos im gesamten Team funktionieren kann, gibt es aber natü
 
 #### Das wünschen wir uns von dir im Java-Development
 - Ausführliche Kenntnisse in Java und der Spigot-API/Bungeecord-API
-- Vorerfahrung in den Aufgabenbereichen von Minecraft-Developer:innen
+- Vorerfahrung in den Aufgabenbereichen von Minecraft-Development
 - Termingerechter Umgang mit Projekten
 - Grundkenntnisse der englischen Sprache
 
 Optional:
 
 - Erfahrung im Umgang mit Git
-- Grundkenntnisse im Bereich des Webdesigns
 - Fundiertes Vorwissen über Timolia
 
 #### Das wünschen wir uns von dir im Web-Development
@@ -40,7 +39,7 @@ Optional:
 Für eine erfolgreiche Bewerbung ist es notwendig, dass du uns einen kleinen Einblick in bereits von dir abgeschlossene Projekte und deren Quellcode gewährst. Optimalerweise sollte dieser auf GitHub, Bitbucket, GitLab oder einer ähnlichen Plattform gehostet sein, da wir den Quellcode nicht als einfache Datei akzeptieren. 
 Wir achten vor allem auf sauberen, gut kommentierten Code, der deine Fähigkeiten widerspiegelt. Auch solltest du auf die Einhaltung der Java-Konventionen achten und keine obsoleten Anweisungen verwenden. 
 
-Teammitglieder des <b>Developer+</b> Rangs verfügen über eine langjährige Erfahrung als Entwickler auf Timolia und stehen bei internen Fragen zum Development zur Verfügung. Bewerbungen für diesen Rang sind daher nicht möglich.
+Teammitglieder des <b>Development+</b> Rangs verfügen über eine langjährige Erfahrung als Entwickler auf Timolia und stehen bei internen Fragen zum Development zur Verfügung. Bewerbungen für diesen Rang sind daher nicht möglich.
 
 
 ### Support
@@ -54,22 +53,22 @@ Unter Umständen kann dieser Prozess trotzdem über einen Monat in Anspruch nehm
 Bitte beachte außerdem, dass du für eine Initiativbewerbung und eine Aufnahme in das Timolia-Team mindestens 14 Jahre alt sein musst.
 
 Eine Initiativbewerbung für den Supporter Rang ist auch für Spieler:innen möglich, die sich primär auf den Modus UHC fokussieren wollen.
-Hierzu genügt eine normale Supporter-Bewerbung, in der neben einer kurzen Vorstellung von sich selbst auf die bisherigen Erfahrungen im Modus UHC, ob als Spieler:in oder Teamler:in anderer Netzwerke, eingegangen wird. Wir ermutigen ausdrücklich alle UHC Spieler:innen, auf diesem Wege eine Bewerbung zu wagen!
+Hierzu genügt eine normale Supporter-Bewerbung, in der neben einer kurzen Vorstellung von sich selbst auf die bisherigen Erfahrungen im Modus UHC, ob als Spieler:in oder Teammitglied anderer Netzwerke, eingegangen wird. Wir ermutigen ausdrücklich alle UHC Spieler:innen, auf diesem Wege eine Bewerbung zu wagen!
 
-Da der <b>Supporter+</b> Rang eine Beförderung für besonders erfahrene Supporter darstellt, sind keine Bewerbungen für diesen Rang möglich.
+Da der <b>Support+</b> Rang eine Beförderung für besonders erfahrene Supporter darstellt, sind keine Bewerbungen für diesen Rang möglich.
 
 
-### Builder / Timolia Creative
+### Building
 Du kennst dich in den Bereichen Building, Modeling, MC Bedrock Scripting und/oder Texture Design aus und hast Lust, dich in diesen Bereichen bei uns einzubringen und dich selbst weiterzuentwickeln?
 Bei Timolia Creative hast du die Möglichkeit, an spannenden Projekten mitzuwirken, die weit über das übliche Building hinaus gehen können.
 
 Dein Interesse wurde geweckt? Bewirb dich jederzeit mit einem aussagekräftigen Portfolio per Mail an <a href="mailto:bewerbung@timoliacreative.de">bewerbung@timoliacreative.de</a>.
 Bitte beachte, dass du mindestens 16 Jahre alt sein musst, um in das Timolia Creative-Team aufgenommen werden zu können.
 
-Die <b>Heads of Building</b> bilden die Bauteamleitung Timolias. Da es sich um Teamler:innen mit langjähriger Erfahrung und sehr guter Kenntnis über Timolias teaminterne Strukturen handelt, ist eine Bewerbung für diesen Rang nicht möglich.
+Die <b>Heads of Building</b> bilden die Bauteamleitung Timolias. Da es sich um Teammitglieder mit langjähriger Erfahrung und sehr guter Kenntnis über Timolias teaminterne Strukturen handelt, ist eine Bewerbung für diesen Rang nicht möglich.
 
 
-### Design, Translation und Konzeptentwicklung
+### Creation
 Als Creator:in kannst du dich per E-Mail an <a href="mailto:creator@timolia.de">creator@timolia.de</a> bewerben. Wichtig dabei ist, dass du uns deinen
 Ingamenamen, eine kurze persönliche Beschreibung, einen Überblick über deine bisherigen Arbeiten/Erfahrungen ebenso wie Beispiele
 deiner Arbeiten zukommen lässt. Je nachdem, für welchen kreativen Bereich du dich bewerben willst, benötigst du folgende Kenntnisse: Grundkenntnisse in Bildgestaltung
