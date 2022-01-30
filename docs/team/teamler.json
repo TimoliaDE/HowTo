@@ -2758,7 +2758,8 @@
     "sex": "male",
     "rank_history": {
       "initial": "spieler",
-      "20.04.2021": "supporter"
+      "20.04.2021": "supporter",
+      "27.01.2022": "native_mvp"
     }
   },
   {
@@ -2798,7 +2799,8 @@
     "sex": "male",
     "rank_history": {
       "initial": "expert",
-      "08.08.2021": "supporter"
+      "08.08.2021": "supporter",
+      "27.01.2022": "native_expert"
     }
   },
   {
