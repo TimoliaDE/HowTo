@@ -76,4 +76,4 @@ Suche am besten mit der Suchfunktion deines Browsers (**Strg + F**) auf dieser S
 - XaeroBetterPVP (ohne MiniMap und Damage Indicators) [<a href="http://chocolateminecraft.com/betterpvp2.php" target="_blank">Klick</a>]
 
 
-Letzte Aktualisierung: 23. Februar 2022
+Letzte Aktualisierung: 29. März 2022
