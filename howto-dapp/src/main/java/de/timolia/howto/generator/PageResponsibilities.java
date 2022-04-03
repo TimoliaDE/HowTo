@@ -37,7 +37,6 @@ public class PageResponsibilities {
                 put("%page.responsibilities.communication-platforms.teamspeak%", "%page.responsibilities.communication-platforms.teamspeak.desc%");
             }});
             put("%page.responsibilities.other-responsibilities%", new LinkedHashMap<>() {{
-                put("%page.responsibilities.other-responsibilities.announcements%", null);
                 put("%page.responsibilities.other-responsibilities.graphicdesign%", null);
                 put("%page.responsibilities.other-responsibilities.map-submissions%", null);
                 put("%page.responsibilities.other-responsibilities.monthly-winner%", null);
