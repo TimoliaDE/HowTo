@@ -187,6 +187,9 @@
       "Community-Discord",
       "Timolia Turnier Organisation"
     ],
+    "fields": [
+      "Plugin Development"
+    ],
     "rank_history": {
       "initial": "expert",
       "21.07.2017": "supporter_games",
@@ -535,16 +538,6 @@
     "name": "Karolux_",
     "uuid": "b225d9b4-e90e-486e-a195-06915092eecc",
     "sex": "male",
-    "responsibilities_main": [
-      "Forum Allgemein",
-      "Gewinnspielorganisation",
-      "Monatssieger",
-      "Timolia HowTo"
-    ],
-    "responsibilities_secondary": [
-      "Map-Einsendungen",
-      "Social Media"
-    ],
     "rank_history": {
       "initial": "pro",
       "21.09.2020": "supporter"
@@ -644,7 +637,8 @@
     "uuid": "bab90033-0a49-4965-834f-8e5462df7c6f",
     "sex": "male",
      "responsibilities_main": [
-      "Map-Einsendungen"
+      "Map-Einsendungen",
+      "Teamlerauswahl Supporter"
     ],
     "responsibilities_secondary": [
       "Monatssieger",
@@ -695,7 +689,7 @@
       "Verwaltung"
     ],
     "fields": [
-      "Hardware",
+      "Systemadministration",
       "Plugin Development"
     ],
     "rank_history": {
@@ -741,12 +735,6 @@
     "name": "xTessia",
     "uuid": "c635caa2-0e21-412a-bcda-9785168df838",
     "sex": "female",
-    "responsibilities_main": [
-      "Ankündigungen"
-    ],
-    "responsibilities_secondary": [
-      "Youtuber-Ränge"
-    ],
     "rank_history": {
       "initial": "pro",
       "18.06.2017": "supporter_city",
@@ -995,6 +983,8 @@
     "uuid": "d9027140-9718-4ef5-aabc-da49937b5be1",
     "sex": "male",
     "responsibilities_main": [
+      "Management des Bau-Teams",
+      "Teamlerauswahl Builder und Timolia Creative",
       "Map-Einsendungen"
     ],
     "rank_history": {
@@ -1350,7 +1340,6 @@
     "uuid": "fce0323d-7f50-4317-9720-5f6b14cf78ea",
     "sex": "male",
     "fields": [
-      "Systemadministration",
       "Plugin Development"
     ],
     "rank_history": {
@@ -1382,9 +1371,6 @@
     "name": "xiantiel",
     "uuid": "fff54f1a-e61d-4af5-90ab-f925f1b2d0a6",
     "sex": "male",
-    "fields": [
-      "Systemadministration"
-    ],
     "rank_history": {
       "initial": "administrator",
       "13.12.2018": "native_expert",
@@ -1532,8 +1518,7 @@
     ],
     "responsibilities_secondary": [
       "Forum Allgemein",
-      "Social Media",
-      "Timolia HowTo"
+      "Social Media"
     ],
     "rank_history": {
       "initial": "expert",
@@ -1548,6 +1533,7 @@
     "sex": "female",
     "responsibilities_main": [
       "Forum Bug melden",
+      "Timolia HowTo",
       "TeamSpeak"
     ],
     "responsibilities_secondary": [
@@ -2091,10 +2077,8 @@
       "Forum Bug melden",
       "Teamlerauswahl Developer"
     ],
-    "responsibilities_secondary": [
-      "Map-Einsendungen"
-    ],
     "fields": [
+      "Systemadministration",
       "Plugin Development"
     ],
     "rank_history": {
@@ -2361,6 +2345,7 @@
       "Teamlerauswahl Developer"
     ],
     "fields": [
+      "Systemadministration",
       "Web Development"
     ],
     "rank_history": {
@@ -2456,7 +2441,8 @@
     "fields": [
       "Systemadministration",
       "Plugin Development",
-      "Web Development"
+      "Web Development",
+      "Verschicken von Reddit-Hundeposts"
     ],
     "rank_history": {
       "initial": "supporter_city",
@@ -2667,7 +2653,11 @@
     "uuid": "036e5dee-05ba-409c-905c-314ac6cbc95b",
     "sex": "male",
     "responsibilities_main": [
-      "Monatssieger"
+      "Monatssieger",
+      "Gewinnspielorganisation"
+    ],
+    "responsibilities_secondary": [
+      "Social Media"
     ],
     "rank_history": {
       "initial": "expert",
@@ -2691,6 +2681,9 @@
     "responsibilities_secondary": [
       "Timolia Turnier Organisation"
     ],
+    "fields": [
+      "Plugin Development"
+    ],
     "rank_history": {
       "initial": "expert",
       "22.02.2021": "supporter",
@@ -2711,6 +2704,9 @@
     "name": "SebaDE",
     "uuid": "e44e5f1e-6e53-4ba6-be72-175ee06f7623",
     "sex": "male",
+    "responsibilities_main": [
+      "Social Media"
+    ],
     "responsibilities_secondary": [
       "Map-Einsendungen",
       "Youtuber-Ränge"
@@ -2808,12 +2804,15 @@
     "uuid": "f31bfa9e-2757-4805-835f-aa38018336e6",
     "sex": "male",
     "responsibilities_main": [
-      "Community-Discord"
+      "Community-Discord",
+      "Timolia HowTo"
     ],
     "responsibilities_secondary": [
-      "UHC"
+      "UHC",
+      "Forum Bug melden"
     ],
     "fields": [
+      "Systemadministration",
       "Plugin Development",
       "Web Development"
     ],
@@ -2826,6 +2825,9 @@
     "name": "Xantoxx",
     "uuid": "73386fd8-1321-479f-a8e0-49fb389cf246",
     "sex": "male",
+    "fields": [
+      "Plugin Development"
+    ],
     "rank_history": {
       "initial": "mvp",
       "08.10.2021": "developer"
@@ -2836,6 +2838,7 @@
     "uuid": "9bc330fa-0e99-4c85-9396-cb63fb82297c",
     "sex": "male",
     "responsibilities_secondary": [
+      "Grafikdesign",
       "Monatssieger"
     ],
     "fields": [
@@ -2851,6 +2854,9 @@
     "name": "Seeraeuber",
     "uuid": "9bac5789-9029-4fe0-8bb4-c75d0f4de4d3",
     "sex": "male",
+    "responsibilities_main": [
+      "Social Media"
+    ],
     "rank_history": {
       "initial": "expert",
       "22.11.2021": "supporter"
