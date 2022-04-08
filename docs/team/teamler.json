@@ -2703,16 +2703,10 @@
     "name": "SebaDE",
     "uuid": "e44e5f1e-6e53-4ba6-be72-175ee06f7623",
     "sex": "male",
-    "responsibilities_main": [
-      "Social Media"
-    ],
-    "responsibilities_secondary": [
-      "Map-Einsendungen",
-      "Youtuber-Ränge"
-    ],
     "rank_history": {
       "initial": "expert",
-      "22.02.2021": "supporter"
+      "22.02.2021": "supporter",
+      "07.04.2022": "expert"
     }
   },
   {
