@@ -44,9 +44,27 @@ build_live_de:
     - for file in $(find . -name '*.*.md'); do echo "rm $file" && rm "$file"; done # remove all other ones
     - sed -i 's|%SITE_URL%|https://howto.timolia.de|g' mkdocs.yml
     - docker info
-    - docker login -u=$DOCKER_USERNAME_LIVE -p=$DOCKER_PASSWORD_LIVE $DOCKER_REGISTRY
+    - docker login -u=$DOCKER_USERNAME -p=$DOCKER_PASSWORD $DOCKER_REGISTRY
     - docker build -t $DOCKER_REGISTRY/$IMAGE_NAME:$CI_COMMIT_REF_NAME .
     - docker push $DOCKER_REGISTRY/$IMAGE_NAME:$CI_COMMIT_REF_NAME
+  only:
+    - master
+
+build_live_en:
+  stage: build
+  tags:
+    - docker
+  dependencies:
+    - shadow
+  script:
+    - for file in $(find . -name '*.en.md'); do echo "mv $file $(echo "$file" | sed -E 's|\.[a-z]+\.|.|g')" && mv "$file" "$(echo "$file" | sed -E 's|\.[a-z]+\.|.|g')"; done # use english files (preferred)
+    - for file in $(find . -name '*.de.md'); do if [ ! -f "$(echo "$file" | sed -E 's|\.[a-z]+\.|.|g')" ]; then mv "$file" "$(echo "$file" | sed -E 's|\.[a-z]+\.|.|g')"; fi; done # use german files as fallback
+    - for file in $(find . -name '*.*.md'); do echo "rm $file" && rm "$file"; done # remove all other ones
+    - sed -i 's|%SITE_URL%|https://howto-en.timolia.de|g' mkdocs.yml
+    - docker info
+    - docker login -u=$DOCKER_USERNAME -p=$DOCKER_PASSWORD $DOCKER_REGISTRY
+    - docker build -t $DOCKER_REGISTRY/$IMAGE_NAME-en:$CI_COMMIT_REF_NAME .
+    - docker push $DOCKER_REGISTRY/$IMAGE_NAME-en:$CI_COMMIT_REF_NAME
   only:
     - master
 
@@ -61,7 +79,7 @@ build_dev_de:
     - for file in $(find . -name '*.*.md'); do echo "rm $file" && rm "$file"; done # remove all other ones
     - sed -i 's|%SITE_URL%|https://dev.howto.timolia.de|g' mkdocs.yml
     - docker info
-    - docker login -u=$DOCKER_USERNAME_DEV -p=$DOCKER_PASSWORD_DEV $DOCKER_REGISTRY
+    - docker login -u=$DOCKER_USERNAME -p=$DOCKER_PASSWORD $DOCKER_REGISTRY
     - docker build -t $DOCKER_REGISTRY/$IMAGE_NAME:dev .
     - docker push $DOCKER_REGISTRY/$IMAGE_NAME:dev
   except:
@@ -79,7 +97,7 @@ build_dev_en:
     - for file in $(find . -name '*.*.md'); do echo "rm $file" && rm "$file"; done # remove all other ones
     - sed -i 's|%SITE_URL%|https://dev.howto-en.timolia.de|g' mkdocs.yml
     - docker info
-    - docker login -u=$DOCKER_USERNAME_DEV -p=$DOCKER_PASSWORD_DEV $DOCKER_REGISTRY
+    - docker login -u=$DOCKER_USERNAME -p=$DOCKER_PASSWORD $DOCKER_REGISTRY
     - docker build -t $DOCKER_REGISTRY/$IMAGE_NAME-en:dev .
     - docker push $DOCKER_REGISTRY/$IMAGE_NAME-en:dev
   except:
