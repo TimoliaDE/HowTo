@@ -46,7 +46,7 @@ build_live_de:
     - docker info
     - docker login -u=$DOCKER_USERNAME -p=$DOCKER_PASSWORD $DOCKER_REGISTRY
     - docker build -t $DOCKER_REGISTRY/web/$IMAGE_NAME:$CI_COMMIT_REF_NAME -t $DOCKER_REGISTRY/web/$IMAGE_NAME:$CI_PIPELINE_ID .
-    - docker push $DOCKER_REGISTRY/web/$IMAGE_NAME:$CI_COMMIT_REF_NAME
+    - docker push $DOCKER_REGISTRY/web/$IMAGE_NAME:$CI_COMMIT_REF_NAME $DOCKER_REGISTRY/web/$IMAGE_NAME:$CI_PIPELINE_ID
   only:
     - master
 
@@ -63,8 +63,8 @@ build_live_en:
     - sed -i 's|%SITE_URL%|https://howto-en.timolia.de|g' mkdocs.yml
     - docker info
     - docker login -u=$DOCKER_USERNAME -p=$DOCKER_PASSWORD $DOCKER_REGISTRY
-    - docker build -t $DOCKER_REGISTRY/web/$IMAGE_NAME-en:$CI_COMMIT_REF_NAME -t $DOCKER_REGISTRY/web/$IMAGE_NAME:$CI_PIPELINE_ID .
-    - docker push $DOCKER_REGISTRY/web/$IMAGE_NAME-en:$CI_COMMIT_REF_NAME
+    - docker build -t $DOCKER_REGISTRY/web/$IMAGE_NAME-en:$CI_COMMIT_REF_NAME -t $DOCKER_REGISTRY/web/$IMAGE_NAME-en:$CI_PIPELINE_ID .
+    - docker push $DOCKER_REGISTRY/web/$IMAGE_NAME-en:$CI_COMMIT_REF_NAME $DOCKER_REGISTRY/web/$IMAGE_NAME-en:$CI_PIPELINE_ID
   only:
     - master
 
@@ -80,8 +80,8 @@ build_dev_de:
     - sed -i 's|%SITE_URL%|https://dev.howto.timolia.de|g' mkdocs.yml
     - docker info
     - docker login -u=$DOCKER_USERNAME -p=$DOCKER_PASSWORD $DOCKER_REGISTRY
-    - docker build -t $DOCKER_REGISTRY/web/$IMAGE_NAME:dev -t $DOCKER_REGISTRY/web/$IMAGE_NAME:$CI_PIPELINE_ID .
-    - docker push $DOCKER_REGISTRY/web/$IMAGE_NAME:dev
+    - docker build -t $DOCKER_REGISTRY/web/$IMAGE_NAME:dev -t $DOCKER_REGISTRY/web/$IMAGE_NAME:dev-$CI_PIPELINE_ID .
+    - docker push $DOCKER_REGISTRY/web/$IMAGE_NAME:dev $DOCKER_REGISTRY/web/$IMAGE_NAME:dev-$CI_PIPELINE_ID
   except:
     - master
 
@@ -98,8 +98,8 @@ build_dev_en:
     - sed -i 's|%SITE_URL%|https://dev.howto-en.timolia.de|g' mkdocs.yml
     - docker info
     - docker login -u=$DOCKER_USERNAME -p=$DOCKER_PASSWORD $DOCKER_REGISTRY
-    - docker build -t $DOCKER_REGISTRY/web/$IMAGE_NAME-en:dev -t $DOCKER_REGISTRY/web/$IMAGE_NAME:$CI_PIPELINE_ID .
-    - docker push $DOCKER_REGISTRY/web/$IMAGE_NAME-en:dev
+    - docker build -t $DOCKER_REGISTRY/web/$IMAGE_NAME-en:dev -t $DOCKER_REGISTRY/web/$IMAGE_NAME-en:dev-$CI_PIPELINE_ID .
+    - docker push $DOCKER_REGISTRY/web/$IMAGE_NAME-en:dev $DOCKER_REGISTRY/web/$IMAGE_NAME-en:dev-$CI_PIPELINE_ID
   except:
     - master
 
