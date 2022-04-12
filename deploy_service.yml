@@ -1,0 +1,73 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: $SERVICE_NAME
+  labels:
+    app: $SERVICE_NAME
+    env: $DEPLOY_ENV
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: $SERVICE_NAME
+      env: $DEPLOY_ENV
+  template:
+    metadata:
+      labels:
+        app: $SERVICE_NAME
+        env: $DEPLOY_ENV
+    spec:
+      containers:
+        - name: frontend
+          image: "$DOCKER_REGISTRY/web/$IMAGE_NAME:$CI_PIPELINE_ID"
+          ports:
+            - containerPort: 80
+      imagePullSecrets:
+        - name: regcred
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: $SERVICE_NAME
+  labels:
+    app: $SERVICE_NAME
+    env: $DEPLOY_ENV
+spec:
+  ports:
+  - name: http
+    port: 80
+    protocol: TCP
+    targetPort: 80
+  selector:
+    app: $SERVICE_NAME
+    env: $DEPLOY_ENV
+---
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  annotations:
+    cert-manager.io/cluster-issuer: letsencrypt
+    ingress.kubernetes.io/ssl-redirect: "true"
+    kubernets.io/ingress.class: nginx
+    nginx.ingress.kubernetes.io/ssl-redirect: "true"
+  name: $SERVICE_NAME
+  labels:
+    app: $SERVICE_NAME
+    env: $DEPLOY_ENV
+spec:
+  rules:
+  - host: $DEPLOY_HOST
+    http:
+      paths:
+        - path: /
+          pathType: Prefix
+          backend:
+            service:
+              name: $SERVICE_NAME
+              port:
+                number: 80
+  tls:
+  - hosts:
+    - $DEPLOY_HOST
+    secretName: $SERVICE_NAME
+  ingressClassName: nginx

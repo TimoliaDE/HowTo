@@ -7,7 +7,6 @@ stages:
 
 variables:
   DOCKER_REGISTRY: core.harbor.timolia.de
-  IMAGE_NAME: howto
 
 shadow:
   stage: shadow
@@ -107,22 +106,50 @@ build_dev_en:
   except:
     - master
 
-#deploy_live:
-#  stage: deploy
-#  image: ictu/sshpass
-#  tags:
-#    - docker
-#  script:
-#    - sshpass -p $HOWTO_PW ssh -p $DEPLOY_PORT -o "StrictHostKeyChecking=no" howto@$DEPLOY_HOST
-#  only:
-#    - master
+deploy_live_de:
+  stage: deploy
+  variables:
+    DEPLOY_ENV: live
+    IMAGE_NAME: howto
+    SERVICE_NAME: howto-live
+    SERVICE_HOST: howto.timolia.de
+  script:
+    - bash deploy.sh
+  only:
+    - master
 
-#deploy_dev:
-#  stage: deploy
-#  image: ictu/sshpass
-#  tags:
-#    - docker
-#  script:
-#    - sshpass -p $UPDATER_PW_DEV ssh -o "StrictHostKeyChecking=no" gitlab-updater@devnet-bigmac.timolia.de howto
-#  except:
-#    - master
+deploy_live_en:
+  stage: deploy
+  variables:
+    DEPLOY_ENV: live
+    IMAGE_NAME: howto-en
+    SERVICE_NAME: howto-en-live
+    SERVICE_HOST: howto-en.timolia.de
+  script:
+    - bash deploy.sh
+  only:
+    - master
+
+deploy_dev_de:
+  stage: deploy
+  variables:
+    DEPLOY_ENV: dev
+    IMAGE_NAME: howto
+    SERVICE_NAME: howto-dev
+    SERVICE_HOST: dev.howto.timolia.de
+  script:
+    - bash deploy.sh
+  except:
+    - master
+
+deploy_dev_en:
+  stage: deploy
+  variables:
+    DEPLOY_ENV: dev
+    IMAGE_NAME: howto-en
+    SERVICE_NAME: howto-en-dev
+    SERVICE_HOST: dev.howto-en.timolia.de
+  script:
+    - bash deploy.sh
+  except:
+    - master
