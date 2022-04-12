@@ -14,7 +14,7 @@ spec:
   template:
     metadata:
       labels:
-        app: $SERVICE_NAME
+        app: howto
         env: $DEPLOY_ENV
     spec:
       containers:
