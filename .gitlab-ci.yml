@@ -107,8 +107,13 @@ build_dev_en:
   except:
     - master
 
+
+
 deploy_live_de:
   stage: deploy
+  image: dtzar/helm-kubectl
+  tags:
+    - docker
   variables:
     DEPLOY_ENV: live
     IMAGE_NAME: $IMAGE_NAME
@@ -121,6 +126,9 @@ deploy_live_de:
 
 deploy_live_en:
   stage: deploy
+  image: dtzar/helm-kubectl
+  tags:
+    - docker
   variables:
     DEPLOY_ENV: live
     IMAGE_NAME: $IMAGE_NAME-en
@@ -133,6 +141,9 @@ deploy_live_en:
 
 deploy_dev_de:
   stage: deploy
+  image: dtzar/helm-kubectl
+  tags:
+    - docker
   variables:
     DEPLOY_ENV: dev
     IMAGE_NAME: $IMAGE_NAME
@@ -145,6 +156,9 @@ deploy_dev_de:
 
 deploy_dev_en:
   stage: deploy
+  image: dtzar/helm-kubectl
+  tags:
+    - docker
   variables:
     DEPLOY_ENV: dev
     IMAGE_NAME: $IMAGE_NAME-en
