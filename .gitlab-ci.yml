@@ -7,6 +7,7 @@ stages:
 
 variables:
   DOCKER_REGISTRY: core.harbor.timolia.de
+  IMAGE_NAME: howto
 
 shadow:
   stage: shadow
@@ -110,7 +111,7 @@ deploy_live_de:
   stage: deploy
   variables:
     DEPLOY_ENV: live
-    IMAGE_NAME: howto
+    IMAGE_NAME: $IMAGE_NAME
     SERVICE_NAME: howto-live
     SERVICE_HOST: howto.timolia.de
   script:
@@ -122,7 +123,7 @@ deploy_live_en:
   stage: deploy
   variables:
     DEPLOY_ENV: live
-    IMAGE_NAME: howto-en
+    IMAGE_NAME: $IMAGE_NAME-en
     SERVICE_NAME: howto-en-live
     SERVICE_HOST: howto-en.timolia.de
   script:
@@ -134,7 +135,7 @@ deploy_dev_de:
   stage: deploy
   variables:
     DEPLOY_ENV: dev
-    IMAGE_NAME: howto
+    IMAGE_NAME: $IMAGE_NAME
     SERVICE_NAME: howto-dev
     SERVICE_HOST: dev.howto.timolia.de
   script:
@@ -146,7 +147,7 @@ deploy_dev_en:
   stage: deploy
   variables:
     DEPLOY_ENV: dev
-    IMAGE_NAME: howto-en
+    IMAGE_NAME: $IMAGE_NAME-en
     SERVICE_NAME: howto-en-dev
     SERVICE_HOST: dev.howto-en.timolia.de
   script:
