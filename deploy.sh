@@ -37,8 +37,3 @@ cat $API_REQUEST_YML
 echo "\n-----------\n"
 
 kubectl -n web apply -f $API_REQUEST_YML || exit 10
-
-echo "Terminating Pods..."
-for pod in $(kubectl -n $DEPLOY_ENV get pods -lapp=$SERVICE_NAME -o custom-columns=":metadata.name"); do
-  kubectl -n $DEPLOY_ENV delete pod $pod --wait=false
-done
