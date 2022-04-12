@@ -119,6 +119,7 @@ deploy_live_de:
     IMAGE_NAME: howto
     SERVICE_NAME: howto-live
     SERVICE_HOST: howto.timolia.de
+    LANG: DE
   script:
     - bash deploy.sh
   only:
@@ -131,9 +132,10 @@ deploy_live_en:
     - docker
   variables:
     DEPLOY_ENV: live
-    IMAGE_NAME: howto-en
+    IMAGE_NAME: howto-en-live
     SERVICE_NAME: howto-en-live
     SERVICE_HOST: howto-en.timolia.de
+    LANG: EN
   script:
     - bash deploy.sh
   only:
@@ -149,6 +151,7 @@ deploy_dev_de:
     IMAGE_NAME: howto
     SERVICE_NAME: howto-dev
     SERVICE_HOST: dev.howto.timolia.de
+    LANG: DE
   script:
     - bash deploy.sh
   except:
@@ -161,9 +164,10 @@ deploy_dev_en:
     - docker
   variables:
     DEPLOY_ENV: dev
-    IMAGE_NAME: howto-en
+    IMAGE_NAME: howto-en-dev
     SERVICE_NAME: howto-en-dev
     SERVICE_HOST: dev.howto-en.timolia.de
+    LANG: EN
   script:
     - bash deploy.sh
   except:

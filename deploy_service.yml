@@ -3,19 +3,22 @@ kind: Deployment
 metadata:
   name: $SERVICE_NAME
   labels:
-    app: $SERVICE_NAME
+    app: howto
     env: $DEPLOY_ENV
+    lang: $LANG
 spec:
   replicas: 1
   selector:
     matchLabels:
       app: howto
       env: $DEPLOY_ENV
+      lang: $LANG
   template:
     metadata:
       labels:
         app: howto
         env: $DEPLOY_ENV
+        lang: $LANG
     spec:
       containers:
         - name: frontend
@@ -30,8 +33,9 @@ kind: Service
 metadata:
   name: $SERVICE_NAME
   labels:
-    app: $SERVICE_NAME
+    app: howto
     env: $DEPLOY_ENV
+    lang: $LANG
 spec:
   ports:
   - name: http
@@ -39,8 +43,9 @@ spec:
     protocol: TCP
     targetPort: 80
   selector:
-    app: $SERVICE_NAME
+    app: howto
     env: $DEPLOY_ENV
+    lang: $LANG
 ---
 apiVersion: networking.k8s.io/v1
 kind: Ingress
@@ -52,8 +57,9 @@ metadata:
     nginx.ingress.kubernetes.io/ssl-redirect: 'true'
   name: $SERVICE_NAME
   labels:
-    app: $SERVICE_NAME
-    env: $SERVICE_HOST
+    app: howto
+    env: $DEPLOY_ENV
+    lang: $LANG
 spec:
   rules:
   - host: $SERVICE_HOST
