@@ -53,10 +53,10 @@ metadata:
   name: $SERVICE_NAME
   labels:
     app: $SERVICE_NAME
-    env: $DEPLOY_ENV
+    env: $SERVICE_HOST
 spec:
   rules:
-  - host: $DEPLOY_HOST
+  - host: $SERVICE_HOST
     http:
       paths:
         - path: /
@@ -68,6 +68,6 @@ spec:
                 number: 80
   tls:
   - hosts:
-    - $DEPLOY_HOST
+    - $SERVICE_HOST
     secretName: $SERVICE_NAME
   ingressClassName: nginx

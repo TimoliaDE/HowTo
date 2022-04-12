@@ -118,7 +118,7 @@ deploy_live_de:
     DEPLOY_ENV: live
     IMAGE_NAME: howto
     SERVICE_NAME: howto-live
-    SERVICE_HOST: "howto.timolia.de"
+    SERVICE_HOST: howto.timolia.de
   script:
     - bash deploy.sh
   only:
@@ -133,7 +133,7 @@ deploy_live_en:
     DEPLOY_ENV: live
     IMAGE_NAME: howto-en
     SERVICE_NAME: howto-en-live
-    SERVICE_HOST: "howto-en.timolia.de"
+    SERVICE_HOST: howto-en.timolia.de
   script:
     - bash deploy.sh
   only:
@@ -148,7 +148,7 @@ deploy_dev_de:
     DEPLOY_ENV: dev
     IMAGE_NAME: howto
     SERVICE_NAME: howto-dev
-    SERVICE_HOST: "dev.howto.timolia.de"
+    SERVICE_HOST: dev.howto.timolia.de
   script:
     - bash deploy.sh
   except:
@@ -163,7 +163,7 @@ deploy_dev_en:
     DEPLOY_ENV: dev
     IMAGE_NAME: howto-en
     SERVICE_NAME: howto-en-dev
-    SERVICE_HOST: "dev.howto-en.timolia.de"
+    SERVICE_HOST: dev.howto-en.timolia.de
   script:
     - bash deploy.sh
   except:
