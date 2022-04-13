@@ -3,47 +3,47 @@
     <div class="banner-text">UHC</div>
 </div>
 
-## Das Spielprinzip
-Epische Kämpfe mit bis zu 100 Spielern und abwechslungsreichen Szenarien sind hier garantiert! Suche dir dein Lieblingsszenario aus und kämpfe alleine oder im Team bis zum letzten Mann. Crafte dir dein eigenes Equipment und bestreite die Kämpfe auf deine Art und Weise.
+## The game principle
+Epic battles with up to 100 players and varied scenarios are guaranteed here! Choose your favorite scenario and fight alone or in a team to the last man. Craft your own equipment and fight the battles in your own way.
 
-## Und so gehts
+## That's how it works
 
-Ziel des Spiels ist es, alle Gegner zu eliminieren und als letzter Einzelkämpfer oder als letztes Team zu überleben.
-Jedes UHC hat eigene Szenarien (z. B. Fireless = kein Feuer- und Lavaschaden; NoClean = 30s Schutzzeit nach einem Kill; Jeder gegen jeden oder Teams), die dein Umfeld und das Spielerlebnis erheblich verändern.
-Diese Szenarien können schon vor Spielstart auf dem <a href="https://timolia.de/discord">Timolia-Discord</a> oder auf dem <a href="https://twitter.com/TimoliaUHC">Twitteraccount</a> eingesehen werden.
-Zu Spielbeginn werden alle Spieler auf einer Vanillamap gespawnt. Während der vorher festgelegten Schutzzeit kannst du dich in Ruhe auf die bevorstehenden Kämpfe vorbereiten und dein Equipment erfarmen.
-In der zehnten Spielminute wirst du ein letztes Mal geheilt.
-Nach Ablauf der Schutzzeit ist PvP aktiviert. Von jetzt an solltest du auf dich aufpassen!
-Je länger das Spiel andauert, desto kleiner wird die bespielbare Karte. Die das Spielfeld umgebende Border verkleinert sich dabei stufenweise. Befindest du dich nach der Verkleinerung außerhalb der Border, wirst du zurück auf das Spielfeld teleportiert.
+The main goal the game is to eliminate all opponents and survive as the last lone fighter or as the last team.
+Each UHC has its own scenarios (e.g. Fireless = no fire and lava damage; NoClean = 30s protection time after a kill; free-for-all or teams) that significantly change your environment and gaming experience.
+These scenarios can be viewed before the game starts on the <a href="https://timolia.de/discord">Timolia Discord</a> or on the <a href="https://twitter.com/TimoliaUHC"> Twitter account</a> can be viewed.
+At the beginning of the game, all players are spawned on a vanilla map. During the pre-determined protection period, you can calmly prepare for the upcoming battles and farm your equipment.
+In the tenth minute of the game you are healed one last time.
+After the protection time expires, PvP is enabled. You should take care of yourself from now on!
+The longer the game lasts, the smaller the playable map becomes. The border surrounding the playing field gradually decreases. If you find yourself outside the border after shrinking, you will be teleported back onto the playing field.
 
 ## Premium-Features
-Nach dem Ausscheiden aus der Runde haben Premium-Spieler die Möglichkeit, das Spielgeschehen weiterhin zu spectaten.
+After being eliminated from the round, Premium players have the option to continue spectating the gameplay.
 
-## Die Szenarien
+## The Scenarios
 
-Hier findest du alle UHC-Szenarien und deren Bedeutung.
+Here you can find all UHC scenarios and their meaning.
 
-| Szenario | Beschreibung |
+| Scenario | Meaning |
 | -------- | ------------ |
-| 1.7 Enchantments     | Enchantments sind im Verzauberungstisch nicht sichtbar. Außerdem benötigst du kein Lapislazuli. |
-| Absorptionless       | Golden Heads -und Äpfel geben keine Absorptionsherzen |
-| Apple Kill           | Jeder Spieler erhält 3 goldene Äpfel am Ende der Schutzzeit sowie 2 goldene Äpfel nach jedem Kill |
-| Auto Torch           | Fackeln werden in dunkeln Umgebungen automatisch gesetzt |
-| Backpack             | Ermöglicht ein gemeinsames Inventar in Team-UHCs (`/backpack` oder `/bp`) |
-| Bandits              | Schlägst du einen Spieler, erhältst du mit einer 5 %igen Wahrscheinlichkeit ein Item aus dessen Inventar |
-| BedBomb              | Betten explodieren, sobald du versuchst, dich hineinzulegen |
-| Birds                | Alle Spieler können fliegen |
-| Blocked Blocks       | Man kann selbst platzierte Blöcke nicht mehr abbauen |
-| Bloody Diamonds      | Beim Abbauen eines Diamanten bekommst du ein halbes Herz Schaden |
-| Bloody Enchantments  | Bei jeder Verzauberung bekommst du ein halbes Herz Schaden |
-| Bowless              | Ermöglicht ein UHC ohne Bogen |
-| Cold Weapons         | Du kannst deine Waffen nicht auf Verbrennung und Feuer verzaubern |
-| CooldownPvP          | Zwischen den Schlägen existiert ein Cooldown – ähnlich der 1.9 |
-| CutClean             | Erze und Essen werden bereits geschmolzen/gebraten |
-| Daylight Circle      | Bei jedem Tod eines Spielers wechselt die Tageszeit zwischen Tag und Nacht |
-| DecreaseHearts       | Jeder Spieler hat maximal so viele Leben, wie es Spieler gibt |
-| Diamondless          | Es gibt keine Diamanterze, jedoch bekommt man pro Kill einen Diamanten |
-| Dolphins             | Im Wasser ist man schneller |
+| 1.7 Enchantments     | Enchantments are not visible in the enchantment table. Also, you don't need lapis lazuli. |
+| Absorptionless       | Golden Heads and Apples do not give absorption hearts |
+| Apple Kill           | Each player gets 3 golden apples at the end of protection time, as well as 2 golden apples after each kill |
+| Auto Torch           | Torches are set automatically in dark environments |
+| Backpack             | Allows shared inventory in team UHCs (`/backpack` or `/bp`) |
+| Bandits              | If you hit a player, you have a 5% chance of getting an item from their inventory |
+| BedBomb              | Beds explode as soon as you try to lie down |
+| Birds                | All players can fly |
+| Blocked Blocks       | You can no longer dismantle blocks you have placed yourself |
+| Bloody Diamonds      | Mining a diamond deals half a heart of damage |
+| Bloody Enchantments  | Each enchantment deals half a heart of damage |
+| Bowless              | Allows for a UHC without a bow |
+| Cold Weapons         | You cannot enchant your weapons with flame and fire aspect |
+| CooldownPvP          | There is a cooldown between the hits - similar to 1.9 |
+| CutClean             | Ores and food are already being smelted/roasted |
+| Daylight Circle      | Each time a player dies, the time of day alternates between day and night |
+| DecreaseHearts       | Each player has at most as many lives as there are players |
+| Diamondless          | Diamond ore drops are disabled, but you get one diamond per kill|
+| Dolphins             | You're faster in the water |
 | DoNotDisturb         | Kein anderer Spieler kann dich im Kampf mit einem anderen Spieler angreifen |
 | Double Jump          | Du kannst Doppelsprung nutzen |
 | Dragons              | Der Host kann mit `/dragons` bei jedem Spieler einen Enderdrachen spawnen |
