@@ -8,6 +8,11 @@ metadata:
     lang: $LANG
 spec:
   replicas: 1
+  selector:
+    matchLabels:
+      app: howto
+      env: $DEPLOY_ENV
+      lang: $LANG
   template:
     metadata:
       labels:
