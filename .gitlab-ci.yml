@@ -132,7 +132,7 @@ deploy_live_en:
     - docker
   variables:
     DEPLOY_ENV: live
-    IMAGE_NAME: howto-en-live
+    IMAGE_NAME: howto-en
     SERVICE_NAME: howto-en-live
     SERVICE_HOST: howto-en.timolia.de
     LANG: EN
@@ -164,7 +164,7 @@ deploy_dev_en:
     - docker
   variables:
     DEPLOY_ENV: dev
-    IMAGE_NAME: howto-en-dev
+    IMAGE_NAME: howto-en
     SERVICE_NAME: howto-en-dev
     SERVICE_HOST: dev.howto-en.timolia.de
     LANG: EN
