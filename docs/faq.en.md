@@ -18,7 +18,7 @@ participate in giveaways and much more. We also offer temporary channels for ren
 All further information is provided [in our Discord explanation](/discord/).
 
 ### Hasn't there once been a Citybuild?
-It all started on May 7th, 2020 when Tim founded Timolias City build. 
+It all started on May 7th, 2010 when Tim founded Timolias City build. 
 Unfortunately, it had to down on December 16th, 2018. 
 All further information is provided [here](https://timolia.de/city).
 
