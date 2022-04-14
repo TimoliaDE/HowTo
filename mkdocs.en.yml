@@ -5,24 +5,23 @@ copyright: tixia UG (haftungsbeschränkt)
 # google_analytics: ['UA-55594495-7', 'howto.timolia.de']
 site_url: '%SITE_URL%'
 
-# TODO: Alina mach mal, danke :)
 nav:
 - About: 'index.md'
-- Allgemeines:
+- General:
   - Frequently Asked Questions: 'faq.md'
   - All Commands: 'commands.md'
-  - Reports und Entbannungen: 'bans.md'
-  - Webseite und Forum: 'web.md'
+  - Reports and unbans: 'bans.md'
+  - Website and forum: 'web.md'
   - TeamSpeak: 'teamspeak.md'
   - Community-Discord: 'discord.md'
-  - Zwei-Faktor-Authentifizierung: '2fa.md'
-- Das Regelwerk:
+  - Two-Factor Authentication: '2fa.md'
+- Rules:
   - Games: 'rules/games.md'
-  - Erlaubte Modifikationen: 'rules/approvedmods.md'
+  - Allowed modifications: 'rules/approvedmods.md'
   - Forum: 'rules/forum.md'
   - TeamSpeak: 'rules/teamspeak.md'
   - Discord: 'rules/discord.md'
-- Games Netzwerk:
+- Games Network:
   - 1vs1: 'games/1vs1.md'
   - 4rena: 'games/4rena.md'
   - Arcade: 'games/arcade.md'
@@ -39,18 +38,18 @@ nav:
   - Suspicious: 'games/suspicious.md'
   - Timolianische Spiele: 'games/tspiele.md'
   - UHC: 'games/uhc.md'
-- Ränge auf Timolia:
-  - Premium-Ränge: 'ranks/premium.md'
-  - YouTuber und VIP: 'ranks/youtube.md'
-- Das Timolia-Team:
-  - Alle Teammitglieder: 'team/members.md'
-  - Veränderungen: 'team/changes.md'
-  - Aufgabenbereiche: 'team/responsibilities.md'
-  - Wie werde ich...?: 'team/apply.md'
+- Ranks on Timolia:
+  - Premium-Ranks: 'ranks/premium.md'
+  - YouTuber and VIP: 'ranks/youtube.md'
+- Timolia-Team:
+  - All Teammembers: 'team/members.md'
+  - Changes: 'team/changes.md'
+  - Responsibilities: 'team/responsibilities.md'
+  - How to apply: 'team/apply.md'
 
 theme:
   name: 'material'
-  language: 'de'
+  language: 'en'
   logo: 'img/logo.png'
   palette:
     primary: 'blue grey'
