@@ -49,7 +49,7 @@ nav:
 
 theme:
   name: 'material'
-  language: 'de'
+  language: 'en'
   logo: 'img/logo.png'
   palette:
     primary: 'blue grey'
