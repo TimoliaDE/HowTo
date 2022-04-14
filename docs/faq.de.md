@@ -18,12 +18,8 @@ Mit dem CityBuild begann alles. Am 07.05.2011 gründete Tim den CityBuild Timoli
 Leider musste City am 16.12.2018 aus verschiedenen Gründen schließen. Mehr Informationen dazu erhältst du [hier](http://timolia.de/city).
 
 ### Welche Ränge gibt es?
-- <b><span class='management'>Management</span></b>:
+- <b><span class='administrator'>Administrator</span></b>:
 Diese Teamler bilden die Leitung Timolias. Sie kümmern sich um die Verwaltung, Organisation und die Teamleitung.
-
-- <b><span class='sysadmin'>SysAdmin</span></b>:
-Systemadministratoren planen, installieren, konfigurieren und warten die technischen Systeme Timolias. 
-Sie führen Updates durch und sorgen für ein reibungsloses Spielerlebnis im Alltag.
 
 - <b><span class='developer-plus'>Developer+</span></b>:
 Sie verfügen über langjährige Erfahrung als Entwickler auf Timolia und stehen bei internen Fragen zum Development zur Verfügung. 
@@ -48,6 +44,10 @@ Sie leiten und organisieren das Bauteam und dienen als erste Ansprechpartner fü
 Außerdem kümmern sie sich um die Auswahl und Einarbeitung neuer Builder und sind die Schnittstelle 
 zwischen dem Bauteam und der allgemeinen Projektorganisation.
 
+- <b><span class='builder-plus'>Builder+</span></b>:
+Builder+ übernehmen zusätzliche organisatorische Verantwortung durch ihre hohe Erfahrung sowohl im Level Design als auch im Team.
+So leiten sie beispielsweise Projekte oder sind Ansprechpartner für neue Builder.
+
 - <b><span class='builder'>Builder</span></b>:
 Das Bauteam kreiert neue Maps und Lobbys für alle Gelegenheiten und Spielmodi auf Timolia. 
 Sie betreuen die architektonische Gestaltung neuer Modi und betreuen externe Mapeinsendungen.
@@ -65,7 +65,8 @@ Spieler mit einem unserer permanenten Premium-Ränge erhalten gewisse Vorteile. 
 
 ### Wer supportet mich, wenn ich fragen habe?
 Wenn du ingame oder im [Teamspeak](/teamspeak/) Fragen hast, steht dir unser großes [Supportteam](/team/members/#supporter) stets zur Verfügung. Wir freuen uns immer, wenn jemand auf uns zukommt und können dir hoffentlich bei Problemen oder Anmerkungen weiterhelfen.
-Auf der Social Media Plattform [Twitter](https://twitter.com/TimoliaTeam) supportet rund um die Uhr das [Social Media Team](/team/responsibilities/#social-media). Du kannst zusätzlich ingame Probleme, Bugs und Anmerkungen über das Ticketsystem melden. Dazu kannst du den Befehl `/ticket <Anliegen>` eingeben.
+Auf der Social Media Plattform [Twitter](https://twitter.com/TimoliaTeam) supportet rund um die Uhr das [Social Media Team](/team/responsibilities/#social-media).
+Gerne supporten wir dich auch auf unserem [Discord](https://timolia.de/discord). Dort kannst du uns jederzeit im Channel `#support` dein Anliegen mitteilen.
 
 ### Wie funktioniert das Kick-System?
 Wir besitzen ein recht komplexes und einzigartiges Kicksystem, um sowohl Premium- als auch normalen Spielern ein tolles Spielerlebnis ohne ewige Wartezeiten zu ermöglichen. 
@@ -108,7 +109,7 @@ Achievements kann man während des Spielens auf Timolia abschließen. Eine Über
 # 2 - Games
 
 ### Wo sind Teams erlaubt?
-In 4rena und InTime sind Teams ausdrücklich verboten, in BrainBow wird Teaming lediglich zwischen zwei Teams toleriert.
+In 4rena FFA und InTime sind Teams ausdrücklich verboten, in 4rena 2v2 ist Crossteaming verboten und in BrainBow wird Teaming lediglich zwischen zwei Teams toleriert.
 Wer in den Timolianischen Spielen teamt, hat keine Konsequenzen zu befürchten. Weitere Informationen findest du im offiziellen [Regelwerk](/rules/games/).
 
 ### Wie funktioniert ... ?

@@ -6,12 +6,8 @@ stages:
   - deploy
 
 variables:
-  DOCKER_REGISTRY_LIVE: registry.timolia.de
-  DOCKER_REGISTRY_DEV: dev-registry.timolia.de
+  DOCKER_REGISTRY: core.harbor.timolia.de
   IMAGE_NAME: howto
-  DEPLOY_HOST: web-team.timolia.de
-  DEPLOY_PORT: 2222
-
 
 shadow:
   stage: shadow
@@ -46,10 +42,31 @@ build_live_de:
   script:
     - for file in $(find . -name '*.de.md'); do echo "mv $file $(echo $file | sed 's|\.de\.md|.md|g')" && mv "$file" "$(echo $file | sed 's|\.de\.md|.md|g')"; done # use german files
     - for file in $(find . -name '*.*.md'); do echo "rm $file" && rm "$file"; done # remove all other ones
+    - sed -i 's|%SITE_URL%|https://howto.timolia.de|g' mkdocs.yml
     - docker info
-    - docker login -u=$DOCKER_USERNAME_LIVE -p=$DOCKER_PASSWORD_LIVE $DOCKER_REGISTRY_LIVE
-    - docker build -t $DOCKER_REGISTRY_LIVE/$IMAGE_NAME:$CI_COMMIT_REF_NAME .
-    - docker push $DOCKER_REGISTRY_LIVE/$IMAGE_NAME:$CI_COMMIT_REF_NAME
+    - docker login -u=$DOCKER_USERNAME -p=$DOCKER_PASSWORD $DOCKER_REGISTRY
+    - docker build -t $DOCKER_REGISTRY/web/$IMAGE_NAME:$CI_COMMIT_REF_NAME -t $DOCKER_REGISTRY/web/$IMAGE_NAME:$CI_PIPELINE_ID .
+    - docker push $DOCKER_REGISTRY/web/$IMAGE_NAME:$CI_COMMIT_REF_NAME
+    - docker push $DOCKER_REGISTRY/web/$IMAGE_NAME:$CI_PIPELINE_ID
+  only:
+    - master
+
+build_live_en:
+  stage: build
+  tags:
+    - docker
+  dependencies:
+    - shadow
+  script:
+    - for file in $(find . -name '*.en.md'); do echo "mv $file $(echo "$file" | sed -E 's|\.[a-z]+\.|.|g')" && mv "$file" "$(echo "$file" | sed -E 's|\.[a-z]+\.|.|g')"; done # use english files (preferred)
+    - for file in $(find . -name '*.de.md'); do if [ ! -f "$(echo "$file" | sed -E 's|\.[a-z]+\.|.|g')" ]; then mv "$file" "$(echo "$file" | sed -E 's|\.[a-z]+\.|.|g')"; fi; done # use german files as fallback
+    - for file in $(find . -name '*.*.md'); do echo "rm $file" && rm "$file"; done # remove all other ones
+    - sed -i 's|%SITE_URL%|https://howto-en.timolia.de|g' mkdocs.yml
+    - docker info
+    - docker login -u=$DOCKER_USERNAME -p=$DOCKER_PASSWORD $DOCKER_REGISTRY
+    - docker build -t $DOCKER_REGISTRY/web/$IMAGE_NAME-en:$CI_COMMIT_REF_NAME -t $DOCKER_REGISTRY/web/$IMAGE_NAME-en:$CI_PIPELINE_ID .
+    - docker push $DOCKER_REGISTRY/web/$IMAGE_NAME-en:$CI_COMMIT_REF_NAME
+    - docker push $DOCKER_REGISTRY/web/$IMAGE_NAME-en:$CI_PIPELINE_ID
   only:
     - master
 
@@ -62,10 +79,12 @@ build_dev_de:
   script:
     - for file in $(find . -name '*.de.md'); do echo "mv $file $(echo "$file" | sed -E 's|\.[a-z]+\.|.|g')" && mv "$file" "$(echo "$file" | sed -E 's|\.[a-z]+\.|.|g')"; done # use german files
     - for file in $(find . -name '*.*.md'); do echo "rm $file" && rm "$file"; done # remove all other ones
+    - sed -i 's|%SITE_URL%|https://dev.howto.timolia.de|g' mkdocs.yml
     - docker info
-    - docker login -u=$DOCKER_USERNAME_DEV -p=$DOCKER_PASSWORD_DEV $DOCKER_REGISTRY_DEV
-    - docker build -t $DOCKER_REGISTRY_DEV/$IMAGE_NAME:dev .
-    - docker push $DOCKER_REGISTRY_DEV/$IMAGE_NAME:dev
+    - docker login -u=$DOCKER_USERNAME -p=$DOCKER_PASSWORD $DOCKER_REGISTRY
+    - docker build -t $DOCKER_REGISTRY/web/$IMAGE_NAME:dev -t $DOCKER_REGISTRY/web/$IMAGE_NAME:$CI_PIPELINE_ID .
+    - docker push $DOCKER_REGISTRY/web/$IMAGE_NAME:dev
+    - docker push $DOCKER_REGISTRY/web/$IMAGE_NAME:$CI_PIPELINE_ID
   except:
     - master
 
@@ -79,31 +98,77 @@ build_dev_en:
     - for file in $(find . -name '*.en.md'); do echo "mv $file $(echo "$file" | sed -E 's|\.[a-z]+\.|.|g')" && mv "$file" "$(echo "$file" | sed -E 's|\.[a-z]+\.|.|g')"; done # use english files (preferred)
     - for file in $(find . -name '*.de.md'); do if [ ! -f "$(echo "$file" | sed -E 's|\.[a-z]+\.|.|g')" ]; then mv "$file" "$(echo "$file" | sed -E 's|\.[a-z]+\.|.|g')"; fi; done # use german files as fallback
     - for file in $(find . -name '*.*.md'); do echo "rm $file" && rm "$file"; done # remove all other ones
+    - sed -i 's|%SITE_URL%|https://dev.howto-en.timolia.de|g' mkdocs.yml
     - docker info
-    - docker login -u=$DOCKER_USERNAME_DEV -p=$DOCKER_PASSWORD_DEV $DOCKER_REGISTRY_DEV
-    - docker build -t $DOCKER_REGISTRY_DEV/$IMAGE_NAME-en:dev .
-    - docker push $DOCKER_REGISTRY_DEV/$IMAGE_NAME-en:dev
+    - docker login -u=$DOCKER_USERNAME -p=$DOCKER_PASSWORD $DOCKER_REGISTRY
+    - docker build -t $DOCKER_REGISTRY/web/$IMAGE_NAME-en:dev -t $DOCKER_REGISTRY/web/$IMAGE_NAME-en:$CI_PIPELINE_ID .
+    - docker push $DOCKER_REGISTRY/web/$IMAGE_NAME-en:dev
+    - docker push $DOCKER_REGISTRY/web/$IMAGE_NAME-en:$CI_PIPELINE_ID
   except:
     - master
 
 
 
-deploy_live:
+deploy_live_de:
   stage: deploy
-  image: ictu/sshpass
+  image: dtzar/helm-kubectl
   tags:
     - docker
+  variables:
+    DEPLOY_ENV: live
+    IMAGE_NAME: howto
+    SERVICE_NAME: howto-live
+    SERVICE_HOST: howto.timolia.de
+    LANG: DE
   script:
-    - sshpass -p $HOWTO_PW ssh -p $DEPLOY_PORT -o "StrictHostKeyChecking=no" howto@$DEPLOY_HOST
+    - bash deploy.sh
   only:
     - master
 
-deploy_dev:
+deploy_live_en:
   stage: deploy
-  image: ictu/sshpass
+  image: dtzar/helm-kubectl
   tags:
     - docker
+  variables:
+    DEPLOY_ENV: live
+    IMAGE_NAME: howto-en
+    SERVICE_NAME: howto-en-live
+    SERVICE_HOST: howto-en.timolia.de
+    LANG: EN
   script:
-    - sshpass -p $UPDATER_PW_DEV ssh -o "StrictHostKeyChecking=no" gitlab-updater@devnet-bigmac.timolia.de howto
+    - bash deploy.sh
+  only:
+    - master
+
+deploy_dev_de:
+  stage: deploy
+  image: dtzar/helm-kubectl
+  tags:
+    - docker
+  variables:
+    DEPLOY_ENV: dev
+    IMAGE_NAME: howto
+    SERVICE_NAME: howto-dev
+    SERVICE_HOST: dev.howto.timolia.de
+    LANG: DE
+  script:
+    - bash deploy.sh
+  except:
+    - master
+
+deploy_dev_en:
+  stage: deploy
+  image: dtzar/helm-kubectl
+  tags:
+    - docker
+  variables:
+    DEPLOY_ENV: dev
+    IMAGE_NAME: howto-en
+    SERVICE_NAME: howto-en-dev
+    SERVICE_HOST: dev.howto-en.timolia.de
+    LANG: EN
+  script:
+    - bash deploy.sh
   except:
     - master

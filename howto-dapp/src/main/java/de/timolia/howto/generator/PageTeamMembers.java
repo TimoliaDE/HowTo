@@ -2,6 +2,7 @@ package de.timolia.howto.generator;
 
 import de.timolia.howto.models.Rank;
 import de.timolia.howto.models.Teamler;
+import org.apache.commons.lang3.Validate;
 
 import java.util.Arrays;
 import java.util.List;
@@ -40,7 +41,7 @@ public class PageTeamMembers {
                 .append("\n")
                 .append("\n").append("%page.members.first-4%")
                 .append("\n")
-                .append("\n").append("![%page.members.first-5%](img/ranks.png)");
+                .append("\n").append("![%page.members.first-5%](img/ranks-new2.png)");
 
         for (Rank rank : ranks) {
 
@@ -54,6 +55,13 @@ public class PageTeamMembers {
                     .append("\n");
 
             for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.getRankCurrent().equals(rank)).collect(Collectors.toList())) {
+
+                Validate.isTrue(teamler.getResponsibilitiesMain() == null || !teamler.getResponsibilitiesMain().contains(null), "Der Spieler '" + teamler.getName() + "' hat eine leere responsibilities_main, Komma zu viel?");
+                Validate.isTrue(teamler.getResponsibilitiesMainHidden() == null || !teamler.getResponsibilitiesMainHidden().contains(null), "Der Spieler '" + teamler.getName() + "' hat eine leere responsibilities_main_hidden, Komma zu viel?");
+                Validate.isTrue(teamler.getResponsibilitiesSecondary() == null || !teamler.getResponsibilitiesSecondary().contains(null), "Der Spieler '" + teamler.getName() + "' hat eine leere responsibilities_secondary, Komma zu viel?");
+                Validate.isTrue(teamler.getResponsibilitiesSecondaryHidden() == null || !teamler.getResponsibilitiesSecondaryHidden().contains(null), "Der Spieler '" + teamler.getName() + "' hat eine leere responsibilities_secondary_hidden, Komma zu viel?");
+                Validate.isTrue(teamler.getFields() == null || !teamler.getFields().contains(null), "Der Spieler '" + teamler.getName() + "' hat eine leere fields, Komma zu viel?");
+
                 sb
                         .append("\n")
                         .append("\n")

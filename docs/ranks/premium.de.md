@@ -3,7 +3,7 @@ Da sich Timolia ausschließlich durch die Community finanziert, sind wir für je
 Geld für einen Minecraft-Server ausgeben sollst, bekommst du als Gegenleistung einen speziellen Rang auf unserem Netzwerk!
 Die Ränge sind in unserem Shop erhältlich, diesen kannst du unter [https://www.timolia.de/shop](https://www.timolia.de/shop) erreichen.
 
-### Welche Vorteile habe ich als Premium-Spieler?
+## Welche Vorteile habe ich als Premium-Spieler?
 Diese Features stehen dir mit deinem Rang zur Verfügung:
 
 |                                        |   <span class='pro'>Pro</span>            |  <span class='pro'>Pro+</span>             | <span class='mvp'>MVP</span>            | <span class='mvp'>MVP+</span>            | <span class='expert'>Expert</span>        |
@@ -24,8 +24,9 @@ Diese Features stehen dir mit deinem Rang zur Verfügung:
 | 1vs1: Zusätzliche Info-Commands        | -                                         | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
 | Größere Parties erstellen              | -                                         | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
 | Individuelle Lobbyzeit                 | -                                         | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
-| Betatests                              | -                                         | -                                         | &check;                                 | &check;                                  | &check;                                   |
+| JumpWorld: Eigenes Icon setzen         | -                                         | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
 | JumpWorld: Spielerköpfe & Armorstands nutzen | -                                   | -                                         | &check;                                 | &check;                                  | &check;                                   |
+| Betatests                              | -                                         | -                                         | &check;                                 | &check;                                  | &check;                                   |
 | Mapvoting: Maps freischalten           | -                                         | -                                         | &check;                                 | &check;                                  | &check;                                   |
 | 1vs1: Best of 5                        | -                                         | -                                         | &check;                                 | &check;                                  | &check;                                   |
 | 1vs1: Flawless Death Animation         | -                                         | -                                         | &check;                                 | &check;                                  | &check;                                   |
@@ -46,7 +47,7 @@ Diese Features stehen dir mit deinem Rang zur Verfügung:
 
 *Alle Infos zum Kick-System findest du [hier](/faq/#wie-funktioniert-das-kick-system).
 
-### Gutscheine und Pixelbooster
+## Gutscheine und Pixelbooster
 Neben den Premium-Rängen kannst du in unserem Shop auch [Gutscheine](https://shop.timolia.de/#Gifts) und [Pixelbooster](https://shop.timolia.de/#Pixel) erhalten.    
 
 Mit unseren **Gutscheinen** können alle Ränge und Pixelbooster im Shop erworben werden. Sie sind außerdem frei mit anderen Gutscheinen und Zahlungsarten kombinierbar und können auch über mehrere Zahlungsvorgänge hinweg in unserem Buycraft-System verwendet werden, sollten sie nicht in der ersten Zahlung vollständig verwendet werden.
@@ -55,14 +56,14 @@ Die gekauften Gutscheine werden von uns per E-Mail versendet und können somit s
 Mit **Pixelboostern** multipliziert ihr nicht nur die Anzahl der Pixel, die ihr selbst verdient, sondern ebenso die eurer Freunde und Mitspieler in gemeinsamen Runden. Einmal gekauft könnt ihr die Pixelbooster ingame im Pixelshop unter euren Items aktivieren. Dauer und Stärke hängen hierbei davon ab, für welchen Booster ihr euch beim Kauf entschieden habt - bei der gegebenen Auswahl ist aber sicher für jeden etwas dabei!
 Nun bleibt noch die Frage, was passiert, wenn ihr schon einen Rang auf Timolia habt: Ganz einfach! Ihr bekommt zusätzlich zu euren durch den Rang erhöhten Pixeln noch die Pixel des Boosters dazu addiert, ihr könnt also mehr Pixel als je zuvor verdienen.
 
-### Die Zahlungsmöglichkeiten
+## Die Zahlungsmöglichkeiten
 Timolia kannst du entweder per Buycraft (PayPal, Paysafecard, Überweisung) oder Nitrado (Paysafecard, Sofort-Überweisung, uvm.) mit einer Spende
 unterstützen. Zahlungen per Buycraft werden direkt auf dem Server umgesetzt. Die Spenden per Nitrado müssen manuell bearbeitet werden und sind 
 daher ca. 1-24 Stunden nachdem du die Spende getätigt hast auf dem Server verfügbar. **Spenden mit mehreren Paysafecards müssen über Nitrado getätigt werden**.
 
 Klicke [<strong>hier</strong>, um über Buycraft zu spenden](https://shop.timolia.de/).
 
-### Nitrado
+## Nitrado
 **Wichtig für Spenden über Nitrado**: Spenden per Nitrado müssen manuell bearbeitet werden und können deshalb bis zu 24 Stunden dauern.
 
 Um über Nitrado spenden zu können, benötigst du ein eigenes Nitrado-Konto. Dieses kannst du dir [**hier** auf der offiziellen Nitrado-Webseite einrichten](https://nitra.do/timolia-minecraft). Sobald du eingeloggt bist, kannst du im oberen Menü "Spenden" auswählen.
@@ -84,18 +85,18 @@ Verwendungszweck: MCExpertDE, Upgrade von Pro auf MVP Plus, Zahlung 1/3
 Es ist zu beachten, dass Geld, das bereits auf das Nitrado-Konto eingezahlt wurde, nicht mehr für Timolia gespendet werden kann! 
 
 
-### Mein Rang ist nicht da, was kann ich tun?
+## Mein Rang ist nicht da, was kann ich tun?
 Bezahlungen können eine Weile dauern - besonders, wenn der Kauf über Nitrado abgewickelt wurde. Sollte dein Rang 24 Stunden nach der Bestellung immer noch
 nicht da sein, melde dich bitte in einem unserer Hilfechannel. Nach ein paar Angaben über deinen Kauf wird die Bestellung von einem zuständigen Teammitglied bearbeitet.
 Da dieser Vorgang manuell vorgenommen werden muss, kann dies ebenfalls ein paar Stunden in Anspruch nehmen.
 
-### Behalte ich meinen Rang nach einer Namensänderung?
+## Behalte ich meinen Rang nach einer Namensänderung?
 Da bei einer Spende nicht nur der Name, sondern auch die UUID gespeichert wird, bleibt dein Rang auch nach einer Namensänderung erhalten.
 Bitte gib jedoch immer deinen aktuellen Namen an, um Komplikationen zu vermeiden!
 
-### Kann ich meinen Rang übertragen?
+## Kann ich meinen Rang übertragen?
 Nein, alle Ränge sind an den Account gebunden und können nicht übertragen werden. Sollte dir also bei einer Bestellung ein Fehler unterlaufen sein,
 melde diesen bitte so schnell wie möglich, andernfalls behält eventuell ein anderer Account deinen Rang.
 
-### Wird mein Rang zurückerstattet?
+## Wird mein Rang zurückerstattet?
 Das Geld, welches für einen Rang bezahlt wurde, wird von uns in der Regel nicht rückerstattet.

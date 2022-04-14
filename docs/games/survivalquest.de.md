@@ -1,11 +1,11 @@
 <div class="banner-wrapper">
     <img alt="UHC" src="../img/SurvivalQuest.png">
-    <div class="banner-text">Survival&nbsp;Quest</div>
+    <div class="banner-text">SurvivalQuest</div>
 </div>
 
 
 ## Der Spielverlauf
-Bist du ein Vanilla Experte? Bei Survival Quest geht es darum, möglichst viele Aufgaben in einer zufällig generierten Minecraftwelt abzuschließen. In jeder Runde werden aus über 200 verschiedenen Aufgaben zufällig 25 ausgewählt.
+Bist du ein Vanilla Experte? Bei SurvivalQuest geht es darum, möglichst viele Aufgaben in einer zufällig generierten Minecraftwelt abzuschließen. In jeder Runde werden aus über 200 verschiedenen Aufgaben zufällig 25 ausgewählt.
 Eine neue Runde startet alle 2 Stunden (zu jeder geraden Stunde). 
 Besiegt die anderen Spieler der Runde oder sichert euch euren Platz im (Monats-) Highscore!
 
@@ -30,7 +30,7 @@ Bevor das Spiel beginnt, kann man in der Lobby durch kleine Aufgaben einen Spons
 ## Punkteberechnung & Highscorelisten
 Du möchtest den Highscore? Oder einfach nur die aktuelle Runde gegen deine Freunde gewinnen? Dann bist du hier richtig!
 
-- Du erhältst Punkte für das Erfüllen von Aufhaben aus dem Questbuch.
+- Du erhältst Punkte für das Erfüllen von Aufgaben aus dem Questbuch.
 - Schwerere Aufgaben geben mehr Punkte als leichtere, zudem bekommst du einen Zeitbonus, je früher du eine Aufgabe erfüllst.
 - Die Schwierigkeit der aktuellen Runde kann man bereits in der Lobby im Questbuch sehen. (Rot = Schwer, Blau = Mittel, Grün = Leicht)
 - Bonuspunkte gibt es zudem für jede vollständige Reihe im Questbuch (Waagerechte, Senkrecht und Diagonal)
@@ -56,7 +56,7 @@ Für die besondere Herausforderung. Handicaps werden in bestimmten Challenges ak
 | Uhc Modus          | Mit dieser Option werden Herzen nicht durch Essen regeneriert |
 | Kein KeepInventory | Diese Einstellung deaktiviert den Itemkeeper |
 | Kein Weltenkompass | Ist diese Option aktiv, haben alle Spieler denselben Spawnpunkt und der Kompass kann nur einmal zum Spielstart benutzt werden |
-| Mehr Vanilla       | Ist diese Option aktiv, ist die Mobile Werkbank, der Enderofen und die Enderkiste im Questbuch deaktiviert. Werkzeuge werden beim Craften nicht mehr automatisch verzaubert und auch das automatische Schmelzen von Erzen ist deaktiviert |
+| Mehr Vanilla       | Ist diese Option aktiv, ist die mobile Werkbank, der Enderofen und die Enderkiste im Questbuch deaktiviert. Werkzeuge werden beim Craften nicht mehr automatisch verzaubert und auch das automatische Schmelzen von Erzen ist deaktiviert |
 
 ## Events & Challenges
 In SurvivalQuest starten regelmäßig besondere Events und Challenges. Eine Übersicht über die aktuellen Events findet ihr immer direkt in der SurvivalQuest-Lobby.

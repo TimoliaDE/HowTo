@@ -1,6 +1,6 @@
 Ob und wie du dich im Bereich des Managements, als System-Administrator, Developer, Moderator, Supporter, HeadBuilder, Builder oder Creator bewerben kannst, erfährst du hier.
 
-### Management, Moderator und System-Administrator
+### Administrator und Moderator
 Diese Ränge werden nur an aktive Teamler vergeben. Außenstehende können sich nicht auf diese Ränge bewerben. 
 Sie übernehmen große Verantwortung in organisatorischen und verwaltungstechnischen Bereichen und ihre Positionen erfordern intensives Wissen über die interne Struktur Timolias.
 
@@ -49,6 +49,8 @@ deiner Arbeiten zukommen lässt. Je nachdem, für welchen kreativen Bereich du d
 und Bildbearbeitung, wenn du im bildnerischen bzw. gestalterischen Bereich tätig sein willst; Grundkenntnisse in Videoproduktion, Schnitt und sonstiger
 Postproduktion für den Schwerpunkt der (YouTube)Videoproduktion; Kreativität; sprachliche Fähigkeiten; Kenntnis über Design und kreativen Aufbau Timolias.
 Bitte beachte, dass du mindestens 14 Jahre alt sein musst, um dich bei uns als Creator zu bewerben.
+
+Bewerbungen für diesen Bereich sind derzeit nicht möglich!
 
 
 ### Premium-Ränge

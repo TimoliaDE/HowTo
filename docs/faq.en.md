@@ -18,7 +18,7 @@ participate in giveaways and much more. We also offer temporary channels for ren
 All further information is provided [in our Discord explanation](/discord/).
 
 ### Hasn't there once been a Citybuild?
-It all started on May 7th, 2020 when Tim founded Timolias City build. 
+It all started on May 7th, 2010 when Tim founded Timolias City build. 
 Unfortunately, it had to down on December 16th, 2018. 
 All further information is provided [here](https://timolia.de/city).
 
@@ -55,6 +55,10 @@ are the first to whom players can address their concerns.
 - <b><span class='headbuilder'>HeadBuilder</span></b>:
 They lead and organize the builder team and act as the first point of contact for all builders. 
 Moreover, they take care of the selection and training of new builders and are the link between the builder team and the general project organization.
+  
+- <b><span class='builder-plus'>Builder+</span></b>:
+Builder+ take on additional organizational responsibility through their high level of experience in both level design and the team. 
+For example, they manage projects or are the contact person for new builders.
 
 - <b><span class='builder'>Builder</span></b>:
 The builder team creates new maps and lobbies for all occasions and game modes on Timolia. 
@@ -78,9 +82,8 @@ If you have problems with your premium rank, you can find help [here](/ranks/pre
 ### Who supports me when I have questions?
 When you got any questions, we do not only love to support in-game but also both on our TeamSpeak and Discord server.
 We are always happy when someone approaches us and hopefully, we can help you with your problems or comments.
-You can also contact us on the social media platform Twitter where our social media team supports you all around the clock. 
-Additionally, you can report in-game problems, bugs and any comments via our ticket system. 
-You can do this by entering the command `/ticket <issue>`.
+You can also contact us on the social media platform Twitter where our social media team supports you all around the clock.
+We would also be happy to support you on our [Discord](https://timolia.de/discord). There you can tell us your concern at any time in the `#support` channel.
 
 ### How does the kick system work?
 We have a very complex and unique kick system to give both premium and normal players a great gaming experience 
