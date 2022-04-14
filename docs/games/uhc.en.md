@@ -44,72 +44,72 @@ Here you can find all UHC scenarios and their meaning.
 | DecreaseHearts       | Each player has at most as many lives as there are players |
 | Diamondless          | Diamond ore drops are disabled, but you get one diamond per kill|
 | Dolphins             | You're faster in the water |
-| DoNotDisturb         | Kein anderer Spieler kann dich im Kampf mit einem anderen Spieler angreifen |
-| Double Jump          | Du kannst Doppelsprung nutzen |
-| Dragons              | Der Host kann mit `/dragons` bei jedem Spieler einen Enderdrachen spawnen |
-| DropAllItems         | Alle 30 Sekunden werden alle Items aus dem Inventar gedroppt |
-| Elimination          | Alle 10 Minuten stirbt der Spieler mit den geringsten Leben. Haben mehrere Spieler gleich viele Leben, stirbt niemand. |
-| Enchanted Death      | Verzauberungstische sind deaktiviert. Durch Kills verbessert sich dein Equip. |
-| ExplosiveArrows      | Pfeile explodieren, wenn sie ihr Ziel treffen |
-| Fireless             | Es gibt keinen Feuer-/Lavaschaden |
-| Fire Focus           | Du machst anderen Spielern doppelten Schaden, wenn du brennst oder vergiftet bist |
-| Get Away             | Du erhältst Speed 2 für 30 Sekunden, wenn du einen Spieler tötest |
-| Golden Heal          | Jeder Spieler erhält zu Spielbeginn eine goldene Hacke, mit der man sich ein Mal vollständig heilen kann |
-| Goldless             | Es gibt keine Golderze, jedoch bekommt man pro Kill 8 Gold |
-| Gold Digger          | In jedem Erz findest du zusätzlich 1 Goldnugget |
-| Hastey Boys          | Jedes Werkzeug hat Effizienz und Haltbarkeit 3 |
-| Healing Kill         | Nach jedem Kill erhältst du wieder volles Leben |
-| Heart Upgrade        | Nach jeden Kill erhöht sich deine maximale Lebenszahl um eins |
-| Horseless            | Ermöglicht ein UHC ohne Pferde |
-| Hungerless           | Du bist immer gesättigt |
-| Hydrophobic          | Du bekommst Schaden, wenn du im Wasser bist |
-| Ice Core             | Lava unter Höhe 16 wird durch Eis ersetzt |
-| IncreaseHearts       | Jeder Spieler startet mit 1 Leben, das sich bei jedem Tod eines Spielers um 1 erhöht |
-| Instant Head         | Spielerköpfe sind deine Leibspeise, durch die du 10 Sekunden lang Speed 2 erhältst |
-| Interval Damage      | Alle 10 Minuten bekommt jeder Spieler 2 Herzen Schaden |
-| Killswitch           | Der Killer eines Spielers übernimmt das Inventar des Getöteten |
-| Limited Inventory    | Du kannst nur die Hotbar nutzen. Das restliche Inventar ist gesperrt. |
-| Low Life             | Jeder Spieler startet mit einem halben Herz und einem Notch-Apfel |
-| MiddleEnchants       | Verzauberungstische sind bis auf vier Stück in der Mitte deaktiviert |
-| MobileCraftingTable  | Öffne deine mobile Werkbank mit `/workbench` |
-| Multi Ores           | Doppelte Erze beim Abbauen |
-| Natural Regeneration | Natürliche Regeneration ist aktiviert |
-| NoClean              | Nach jedem Kill bist du für 30 Sekunden unverwundbar |
-| NoEnchant            | Es sind keine Verzauberungen möglich |
-| NoFall               | Es gibt keinen Fallschaden |
-| Only Golden Apples   | Jeder Apfel, der dropped, ist ein goldener Apfel |
-| OpSword              | Man kann ein Diamantschwert mit Schärfe X craften |
-| Ore Apples           | Goldene Äpfel können mit allen Erz-Blöcken gecraftet werden |
-| Ore Limitations      | Du kannst nur 64 Eisenerze, 32 Golderze und 16 Diamanterze abbauen |
-| Regenerating Kill    | Nach einem Kill erhält der Spieler für 10 Sekunden Regeneration II |
-| Rodless              | Ermöglicht ein UHC ohne Angel |
-| Shared Damage        | Bekommt ein Spieler Schaden, bekommen auch dessen Teampartner Schaden |
-| Shared Heal          | Wird ein Spieler geheilt, heilen sich auch dessen Teampartner |
-| Show Health          | Zeigt über jedem Spieler dessen aktuelle Leben an |
-| Sniper               | Pfeile, die aus mehr als 30 Blöcken Abstand geschossen werden, machen doppelten Schaden |
-| Soup                 | Suppenheilung ist aktiviert (2 Herzen) |
-| Starter              | Das UHC beginnt für jeden mit Eisenrüstung und Werkzeug |
-| Switcheroo           | Beim Abschießen eines Spielers (Pfeil, Ei, ...) tauschen sich die Positionen der beiden Spieler |
-| Tank                 | Die ersten 3 Male, würdest du Schaden erhalten, wirst du verschont |
-| Timber               | Bäume gehen direkt kaputt |
-| TimeBomb             | Nach einem Kill spawnt eine Kiste mit den Items des Gegners, diese explodiert nach 30 Sekunden |
-| Toplist              | Alle 10 Minuten regenerierst du 2 Leben und erhältst 2 Extraherzen, bis du Schaden bekommst. Dann musst du einen Spieler töten, um erneut Leben zu erhalten. |
-| Turtle               | Wenn du sneakst, erhälst du nur den halben Schaden |
-| xRay-Pickaxe         | Diese Spitzhacke kann gecrafted werden und verwandelt mit einem Rechtsklick alle Steine im Umkreis für eine kurze Zeit in Glas |
-| Zombie Death         | Wenn ein Spieler stirbt, spawnt an dessen Standort ein Zombie mit Diamantrüstung |
+| DoNotDisturb         | No other player can attack you while you are  in battle with another player |
+| Double Jump          | You can use double jump |
+| Dragons              | The host can use `/dragons` to spawn an ender dragon on each player |
+| DropAllItems         | All inventory items are dropped every 30 seconds |
+| Elimination          | Every 10 minutes the player with the lowest health dies. If several players have the same number of lives, nobody dies. |
+| Enchanted Death      | Enchantment tables are disabled. Your equipment improves through kills. |
+| ExplosiveArrows      | Arrows explode when they hit their target |
+| Fireless             | There is no fire/lava damage |
+| Fire Focus           | You do double damage to other players when you are on fire or poisoned |
+| Get Away             | You gain Speed ​​2 for 30 seconds when you kill a player |
+| Golden Heal          | At the beginning of the game, each player receives a golden pickaxe, which can be used to completely heal one time |
+| Goldless             | There are no gold ores, but you get 8 gold per kill |
+| Gold Digger          | In each ore you will also find 1 gold nugget |
+| Hastey Boys          | Each tool has efficiency and durability 3|
+| Healing Kill         | After each kill you regain full health|
+| Heart Upgrade        | After each kill, your maximum life increases by one |
+| Horseless            | Enables a UHC without horses |
+| Hungerless           | You are never hungry |
+| Hydrophobic          | You take damage when you are in the water |
+| Ice Core             | Lava below level 16 is replaced with ice |
+| IncreaseHearts       | Each player starts with 1 life, which increases by 1 each time a player dies |
+| Instant Head         | Player Heads are your favorite food, giving you Speed ​​2 for 10 seconds |
+| Interval Damage      | Every 10 minutes each player takes 2 hearts of damage |
+| Killswitch           | A player's killer takes over the inventory of the killed one |
+| Limited Inventory    | You can only use the hotbar. The rest of the inventory is locked. |
+| Low Life             | Each player starts with half a heart and a notch apple |
+| MiddleEnchants       | Enchantment tables are disabled except for four in the center |
+| MobileCraftingTable  | Open your mobile workbench with `/workbench` |
+| Multi Ores           | Double ores when mining |
+| Natural Regeneration | Natural regeneration is activated |
+| NoClean              | After each kill you are invulnerable for 30 seconds |
+| NoEnchant            | No enchantments |
+| NoFall               | No fall damage |
+| Only Golden Apples   | Each apple that drops is a golden apple |
+| OpSword              | You can craft a diamond sword with Sharpness X |
+| Ore Apples           | Golden apples can be crafted with all ore blocks |
+| Ore Limitations      | You can only mine 64 iron ores, 32 gold ores, and 16 diamond ores |
+| Regenerating Kill    | After a kill, the player gains Regeneration II for 10 seconds |
+| Rodless              | A UHC without a fishing rod |
+| Shared Damage        | If a player takes damage, their teammates also take damage |
+| Shared Heal          | When a player is healed, their teammates are also healed |
+| Show Health          | Displays current lives above each player |
+| Sniper               | Arrows fired from more than 30 blocks do double damage |
+| Soup                 | Soup Healing is activated (2 hearts) |
+| Starter              | The UHC begins for everyone with iron armor and tools|
+| Switcheroo           | When a player is shot (arrow, egg, ...), the positions of the two players swap |
+| Tank                 | The first 3 times you would take damage, you are spared |
+| Timber               | Trees are destroyed immediately |
+| TimeBomb             | After a kill, a chest containing the opponent's items will spawn and explode after 30 seconds |
+| Toplist              | Every 10 minutes you regenerate 2 life and gain 2 extra hearts until you take damage. Then you have to kill a player to get life again. |
+| Turtle               | If you sneak, you only take half damage |
+| xRay-Pickaxe         | This pickaxe can be crafted and right-clicked to turn all nearby rocks into glass for a short time |
+| Zombie Death         | When a player dies, a diamond-armored zombie will spawn at their location |
 
 
-## Befehle
-| Befehl | Funktion |
+## Commands
+| Command | Function |
 | ------ | -------- |
-| `/backpack`, `/bp`                         | Ermöglicht ein gemeinsames Inventar in Team-UHCs |
-| `/config`                                  | Listet die aktuelle Konfiguration des UHCs auf |
-| `/coordinates`, `/coords`                  | Schickt eine Nachricht an deine Teampartner mit deinen Koordinaten |
-| `/dragons <Spieler>`                       | Bei aktivem Szenario `Dragons` kann der Host des UHCs bei dem Spieler einen Enderdrachen spawnen |
-| `/fix`                                     | Damit kannst du alle Spieler neu laden |
-| `/helpop`                                  | Damit kannst du jederzeit Fragen bezüglich des UHCs an das Team stellen |
-| `/invite <Spieler>`                        | Damit kannst du Spieler in dein Team bei Team-UHCs einladen |
-| `/inviteaccept <Spieler>`                  | Damit nimmst du Teameinladungen bei Team-UHCs an |
-| `/scenarios`, `/scn`, `/uhc`               | Zeigt dir die aktiven Szenarien an |
-| `/showhealth <Spieler>`, `/h <Spieler>`    | Zeigt die Leben des angegebenen Spielers an |
-| `/topkills`, `/top`, `/tk`                 | Zeigt den/die Spieler mit den meistens Kills an |
+| `/backpack`, `/bp`                         | Allows shared inventory in team UHCs|
+| `/config`                                  | Lists the current configuration of the UHC |
+| `/coordinates`, `/coords`                  | Sends a message to your teammates with your coordinates |
+| `/dragons <Spieler>`                       | When the 'Dragons' scenario is active, the host of the UHC can spawn an ender dragon near the player |
+| `/fix`                                     | With this you can reload all players |
+| `/helpop`                                  | This allows you to ask the team questions about the UHC at any time |
+| `/invite <Spieler>`                        | This allows you to invite players to your team at team UHCs |
+| `/inviteaccept <Spieler>`                  | Use this to accept team invites at team UHCs |
+| `/scenarios`, `/scn`, `/uhc`               | Shows you the active scenarios |
+| `/showhealth <Spieler>`, `/h <Spieler>`    | Displays the specified player's lives |
+| `/topkills`, `/top`, `/tk`                 | Displays the player(s) with the most kills |
