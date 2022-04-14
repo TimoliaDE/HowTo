@@ -42,6 +42,7 @@ build_live_de:
   script:
     - for file in $(find . -name '*.de.md'); do echo "mv $file $(echo $file | sed 's|\.de\.md|.md|g')" && mv "$file" "$(echo $file | sed 's|\.de\.md|.md|g')"; done # use german files
     - for file in $(find . -name '*.*.md'); do echo "rm $file" && rm "$file"; done # remove all other ones
+    - mv mkdocs.de.yml mkdocs.yml
     - sed -i 's|%SITE_URL%|https://howto.timolia.de|g' mkdocs.yml
     - docker info
     - docker login -u=$DOCKER_USERNAME -p=$DOCKER_PASSWORD $DOCKER_REGISTRY
@@ -61,6 +62,7 @@ build_live_en:
     - for file in $(find . -name '*.en.md'); do echo "mv $file $(echo "$file" | sed -E 's|\.[a-z]+\.|.|g')" && mv "$file" "$(echo "$file" | sed -E 's|\.[a-z]+\.|.|g')"; done # use english files (preferred)
     - for file in $(find . -name '*.de.md'); do if [ ! -f "$(echo "$file" | sed -E 's|\.[a-z]+\.|.|g')" ]; then mv "$file" "$(echo "$file" | sed -E 's|\.[a-z]+\.|.|g')"; fi; done # use german files as fallback
     - for file in $(find . -name '*.*.md'); do echo "rm $file" && rm "$file"; done # remove all other ones
+    - mv mkdocs.en.yml mkdocs.yml
     - sed -i 's|%SITE_URL%|https://howto-en.timolia.de|g' mkdocs.yml
     - docker info
     - docker login -u=$DOCKER_USERNAME -p=$DOCKER_PASSWORD $DOCKER_REGISTRY
@@ -79,6 +81,7 @@ build_dev_de:
   script:
     - for file in $(find . -name '*.de.md'); do echo "mv $file $(echo "$file" | sed -E 's|\.[a-z]+\.|.|g')" && mv "$file" "$(echo "$file" | sed -E 's|\.[a-z]+\.|.|g')"; done # use german files
     - for file in $(find . -name '*.*.md'); do echo "rm $file" && rm "$file"; done # remove all other ones
+    - mv mkdocs.de.yml mkdocs.yml
     - sed -i 's|%SITE_URL%|https://dev.howto.timolia.de|g' mkdocs.yml
     - docker info
     - docker login -u=$DOCKER_USERNAME -p=$DOCKER_PASSWORD $DOCKER_REGISTRY
@@ -98,6 +101,7 @@ build_dev_en:
     - for file in $(find . -name '*.en.md'); do echo "mv $file $(echo "$file" | sed -E 's|\.[a-z]+\.|.|g')" && mv "$file" "$(echo "$file" | sed -E 's|\.[a-z]+\.|.|g')"; done # use english files (preferred)
     - for file in $(find . -name '*.de.md'); do if [ ! -f "$(echo "$file" | sed -E 's|\.[a-z]+\.|.|g')" ]; then mv "$file" "$(echo "$file" | sed -E 's|\.[a-z]+\.|.|g')"; fi; done # use german files as fallback
     - for file in $(find . -name '*.*.md'); do echo "rm $file" && rm "$file"; done # remove all other ones
+    - mv mkdocs.en.yml mkdocs.yml
     - sed -i 's|%SITE_URL%|https://dev.howto-en.timolia.de|g' mkdocs.yml
     - docker info
     - docker login -u=$DOCKER_USERNAME -p=$DOCKER_PASSWORD $DOCKER_REGISTRY
@@ -106,7 +110,6 @@ build_dev_en:
     - docker push $DOCKER_REGISTRY/web/$IMAGE_NAME-en:$CI_PIPELINE_ID
   except:
     - master
-
 
 
 deploy_live_de:
