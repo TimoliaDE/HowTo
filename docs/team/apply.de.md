@@ -10,11 +10,11 @@ Mit einer E-Mail an <a href="mailto:development@timolia.de">development@timolia.
 Dein Bewerbungsschreiben sollte deinen Ingamenamen, eine kurze Beschreibung deiner Person, Darstellung deiner Fähigkeiten und Kompetenzen und eine Angabe zur Kontaktmöglichkeit beinhalten. Als Developer:in besteht deine Hauptaufgabe darin, Ideen und Projekte für Timolia ingame oder auf unseren Web-Plattformen umzusetzen. 
 In welchem Grad du dabei frei deine eigenen Ideen zur Umsetzung und Gestaltung einbringst, hängt von deinen eigenen Wünschen und der Art des Projektes ab. Das Team steht dir jederzeit beratend zur Seite.
 
-Natürlich gehören zum Workflow der Developer:innen immer auch das Testen und das Beheben von Bugs (die da eigentlich so gar nicht sein dürften, das ergibt keinen Sinn, hä?!). Und ganz wichtig: Wenn man mal nicht weiterkommt, hilft sich das Dev- und Adminteam untereinander immer weiter!
+Natürlich gehören zum Workflow der Developer:innen immer auch das Testen und das Beheben von Bugs (die da eigentlich so gar nicht sein dürften, das ergibt keinen Sinn, hä?!). Und ganz wichtig: Wenn man mal nicht weiterkommt, hilft sich das Dev(+)- und Adminteam untereinander immer weiter!
 Auf Einschränkungen wirst du in deiner Arbeit selten stoßen; wo du helfen möchtest, da bist du auch außerhalb von IntelliJ oder Eclipse mit anderen Entwicklungsumgebungen deiner Wahl stets willkommen.
 Damit das so reibungslos im gesamten Team funktionieren kann, gibt es aber natürlich einige Ansprüche, die wir an unser Team im Allgemeinen und an alle Developer:innen im Besonderen stellen.
 
-#### Das wünschen wir uns von dir im Java-Development
+#### Das wünschen wir uns von dir im Plugin-Development
 - Ausführliche Kenntnisse in Java und der Spigot-API/Bungeecord-API
 - Vorerfahrung in den Aufgabenbereichen von Minecraft-Development
 - Termingerechter Umgang mit Projekten
@@ -23,6 +23,7 @@ Damit das so reibungslos im gesamten Team funktionieren kann, gibt es aber natü
 Optional:
 
 - Erfahrung im Umgang mit Git
+- Erfahrung im Umgang mit Docker und Kubernetes
 - Fundiertes Vorwissen über Timolia
 
 #### Das wünschen wir uns von dir im Web-Development
@@ -33,6 +34,7 @@ Optional:
 Optional:
 
 - Erfahrung im Umgang mit Git
+- Erfahrung im Umgang mit Docker und Kubernetes
 - Grundkenntnisse im Bereich des Webdesigns
 - Fundiertes Vorwissen über Timolia
 
@@ -75,8 +77,6 @@ deiner Arbeiten zukommen lässt. Je nachdem, für welchen kreativen Bereich du d
 und Bildbearbeitung, wenn du im bildnerischen bzw. gestalterischen Bereich tätig sein willst; Grundkenntnisse in Videoproduktion, Schnitt und sonstiger
 Postproduktion für den Schwerpunkt der (YouTube)Videoproduktion; Kreativität; sprachliche Fähigkeiten; Kenntnis über Design und kreativen Aufbau Timolias.
 Bitte beachte, dass du mindestens 14 Jahre alt sein musst, um dich bei uns als Creator:in zu bewerben.
-
-Bewerbungen für diesen Bereich sind derzeit nicht möglich!
 
 
 ### Premium-Ränge
