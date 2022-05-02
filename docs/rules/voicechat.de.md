@@ -1,5 +1,5 @@
 ## §1 - Allgemein
-Im Allgemeinen gelten für den Labymod-VoiceChat das [allgemeine Regelwerk](games.md) wie auch für das Minecraft-Netzwerk.
+Im Allgemeinen gelten für den [Labymod VoiceChat](https://www.labymod.net/de/voicechat/rules) das [allgemeine Regelwerk](games.md) wie auch für das Minecraft-Netzwerk.
 
 ## §2 – Zu laute/störende Geräusche
 Beispielsweise Geräusche, die mit der Absicht verwendet werden, andere zu belästigen. Beispielsweise Schreien, Musik- und Soundbots, Stimmenverzerrung usw.
@@ -33,4 +33,4 @@ Wie zum Beispiel der Versuch, Cosmetics und Emotes oder andere Dinge zu verkaufe
 
 <strong>Das Team behält sich das Recht vor, bestimmtes Handeln (auch außerhalb des Minecraft- und TeamSpeakservers) zu sanktionieren, welches nicht explizit in den Regeln aufgelistet ist.</strong>
 
-Letzte Aktualisierung: 30. Januar 2022
+Letzte Aktualisierung: 02. Mai 2022

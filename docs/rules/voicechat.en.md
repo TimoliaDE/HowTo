@@ -1,5 +1,5 @@
 ## §1 - General
-In general, the [general rules](games.md) apply to the Labymod VoiceChat as well as to the Minecraft network.
+In general, the [general rules](games.md) apply to the [Labymod VoiceChat](https://www.labymod.net/en/voicechat/rules) as well as to the Minecraft network.
 
 ## §2 – Too loud/disturbing noise:
 Such as any noise used with the intention to annoy others like screaming, music/soundbots, voice distortion etc.
@@ -33,4 +33,4 @@ Such as trying to sell or buy/get cosmetics and emotes or other things from othe
 
 <strong>The team reserves the right to sanction certain actions (also outside the Minecraft and TeamSpeak server) that are not explicitly listed in the rules.</strong>
 
-Last updated: March 29, 2022
+Last updated: May 02, 2022
