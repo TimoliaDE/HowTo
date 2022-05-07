@@ -736,6 +736,9 @@
     "name": "xTessia",
     "uuid": "c635caa2-0e21-412a-bcda-9785168df838",
     "sex": "female",
+    "responsibilities_secondary": [
+      "Youtuber-Ränge"
+    ],
     "rank_history": {
       "initial": "pro",
       "18.06.2017": "supporter_city",
