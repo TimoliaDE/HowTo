@@ -16,28 +16,7 @@ After that, click on the message which you received in your <strong>Minecraft ch
 # 2 - Discord rules
 You can either view the rules of the Discord server in the channel [#regeln](https://discordapp.com/channels/407554118887014402/407565978025852929) on our Discord server or [here](/rules/discord/).
 
-# 3 - Private channels
-On our Discord server we offer temporary <strong>chat channels</strong> for rent. Below, we listed some more information for you.
-
-## How do I create a private channel?
-You can obtain a private channel by messaging a team member. Ideally, you use `/support <issue>` in the private chat with the 
-Timolia bot or in the channel [#support](https://discordapp.com/channels/407554118887014402/413594798906408960).
-
-## Price of a private channel
-The channel costs <strong><u>1,000 Pixel</u> per month</strong>.
-
-## How do I add a friend?
-You can add members to your channel with `/channel invite <@name>`. With `/channel remove <@name>` you can remove a member again.
-
-## Rules in the private channel
-- The <strong>maximum duration</strong> for which a channel may be created in advance is <strong>6 months</strong>.
-- Every user may only have <strong>one private channel</strong> at a time.
-- It is possible to share the channel and the costs with friends. But you should note that only one rightful owner may exist. 
-In case of any discrepancies between the owners, they have the sole claim on the channel.
-- After expiration, the channel gets locked. Upon renewal, it gets unlocked again and all previous messages will be kept.
-
-
-# 4 - The scoring system 
+# 3 - The scoring system 
 ## How does it work?
 The count of all messages longer than a certain minimum length is used to calculate the score.
 
@@ -60,6 +39,27 @@ For the lowest rank, you need 128 points. From then on you always need double th
 
 <strong>All users who exploit (or try to exploit) this system, e.g. with massive spam, will be reset to 0 points.</strong> 
 
+# 4 - Sonstiges
+
+## Bugs melden
+Bugs können im Channel bug-melden gemeldet werden. Dazu wird der Command /bug verwendet.
+
+Folgende Informationen sind wichtig, damit der Bug behoben werden kann:
+- Um welchen Bug/Fehler handelt es sich?
+- Wann ist der Bug aufgetreten? (z.B. “am 20.04.19 gegen 17:00 Uhr”)
+- Wo ist der Bug aufgetreten? (z.B. “auf dem Server games01”. Der aktuelle Server wird dir auf Tab angezeigt)
+- Mit welcher Minecraft Version spielst du? Nutzt du Modifikationen? Wenn ja, welche?
+- Ist der Bug durch eine bestimmte Handlung aufgetreten?
+- Bekommst du Fehlermeldungen? Wenn ja, welche?
+
+Solltest du einen Screenshot oder eine Videoaufnahme des Fehlers haben, so kannst du diese/n ebenfalls anhängen. Das ist für uns oftmals sehr hilfreich.
+Lade diese bitte auf Online-Plattformen, z.B. Imgur für Fotos und YouTube für Videos.
+
+## Support
+
+Wir bieten Support auf diesem Server in Chatform an. Sollte der communitysupport eine Frage nicht klären können oder das Anliegen mit vertraulichen Informationen in Verbindung stehen, so kann mit /support <Problembeschreibung> ein Supportchat erstellt werden. In diesen können, ähnlich wie beim TS Hilfechannel, einzelne Teamler joinen und weiterhelfen.
+Voicesupport wird auf dem Discord nicht angeboten, weder in Voicechanneln noch per Sprachanruf oder ähnlichem. Für Sprachchannel und Support steht unser Teamspeak (ts.timolia.de) und der dortige Hilfechannel zur Verfügung.
+
 # 5 - Commands
 
 The following list contains commands you can use with the <strong>Timolia Bot</strong>.
@@ -76,7 +76,6 @@ The following list contains commands you can use with the <strong>Timolia Bot</s
 | `/quote <message ID>/<message URL>` | Only in channels | Quotes the provided message |
 | `/top` | Timolia Bot (private chat) and [#ranks](https://discordapp.com/channels/407554118887014402/548160287891783690)| Displays the top 10 of all users |
 | `/rank` | Timolia Bot (private chat) and [#ranks](https://discordapp.com/channels/407554118887014402/548160287891783690) | Displays information about your rank |
-| `/channel invite <@name>` or `/channel remove <@name>` | Timolia Bot (private chat) and private channel | Invites/removes a user to/from your private channel |
 | `/bug <description>` | Timolia Bot (private chat) and [#bug-melden](https://discordapp.com/channels/407554118887014402/413638656264503317) | Reports a bug to the Timolia Team |
 | `/support <description>` | Timolia Bot (private chat) and [#support](https://discordapp.com/channels/407554118887014402/413594798906408960) | Creates a support channel for you with the provided issue |
 | `/idea <idea>` | Only in [#ideen](https://discordapp.com/channels/407554118887014402/413615776399097866) and [#discord-ideen](https://discordapp.com/channels/407554118887014402/569594169228656656) | The Bot posts your idea and adds a positive and a newgative reaction |

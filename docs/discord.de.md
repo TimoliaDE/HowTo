@@ -10,7 +10,7 @@ Hier findest du nun eine grobe Übersicht über den Discord, alle weiteren Infor
 # 2 - Discord Regelwerk
 Die Regeln des Discord-Servers kannst du dem Channel [#regeln](https://discord.com/channels/407554118887014402/407565978025852929) auf dem Discord entnehmen oder [hier](/rules/discord/) nachlesen.
 
-# 4 - Das Scoresystem
+# 3 - Das Scoresystem
 
 ## Wie funktioniert es?
 Nachrichten werden ab einer gewissen Länge gewertet und ein Score aus ihnen berechnet. Abgesehen von der Mindestlänge ist der Score für jede Nachricht aber unabhängig von der Länge der Nachricht.
@@ -32,7 +32,7 @@ Der niedrigste Rang benötigt 128 Punkte. Ab da berechnet sich die Mindestpunktz
 
 <strong>User, die das System durch permanenten Spam ausnutzen (oder dies versuchen) werden auf einen Score von 0 Punkten zurückgesetzt.</strong>
 
-# 5 - Sonstiges
+# 4 - Sonstiges
 
 ## Bugs melden
 Bugs können im Channel bug-melden gemeldet werden. Dazu wird der Command /bug verwendet.
@@ -53,7 +53,7 @@ Lade diese bitte auf Online-Plattformen, z.B. Imgur für Fotos und YouTube für 
 Wir bieten Support auf diesem Server in Chatform an. Sollte der communitysupport eine Frage nicht klären können oder das Anliegen mit vertraulichen Informationen in Verbindung stehen, so kann mit /support <Problembeschreibung> ein Supportchat erstellt werden. In diesen können, ähnlich wie beim TS Hilfechannel, einzelne Teamler joinen und weiterhelfen.
 Voicesupport wird auf dem Discord nicht angeboten, weder in Voicechanneln noch per Sprachanruf oder ähnlichem. Für Sprachchannel und Support steht unser Teamspeak (ts.timolia.de) und der dortige Hilfechannel zur Verfügung.
 
-# 6 - Befehle
+# 5 - Befehle
 
 Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführt werden können.
 
@@ -69,7 +69,6 @@ Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführ
 | `/quote <NachrichtID>/<Nachricht Link>` | Nur in Channeln | Zitiert die angegebene Nachricht |
 | `/top` | Timolia Bot (Privatchat) und [#ranks](https://discordapp.com/channels/407554118887014402/548160287891783690)| Zeigt die Top 10 der User an|
 | `/rank` | Timolia Bot (Privatchat) und [#ranks](https://discordapp.com/channels/407554118887014402/548160287891783690) | Zeigt Informationen zu deinem Rang an |
-| `/channel invite <@Name>` oder `/channel remove <@Name>` | Timolia Bot (Privatchat) und eigener Channel | Lädt einen User in einen privaten Chatchannel ein oder entfernt ihn |
 | `/bug <Beschreibung>` | Timolia Bot (Privatchat) und [#bug-melden](https://discordapp.com/channels/407554118887014402/413638656264503317) | Meldet einen Bug an das Timolia Team |
 | `/support <Beschreibung>` | Timolia Bot (Privatchat) und [#support](https://discordapp.com/channels/407554118887014402/413594798906408960) | Erstellt einen Supportchat für dich mit dem angegebenen Problem |
 | `/idea <Idee>` | Nur in [#ideen](https://canary.discord.com/channels/407554118887014402/413615776399097866) | Der Bot postet deine Idee und versieht sie mit einer positiven und einer negativen Reaction |
