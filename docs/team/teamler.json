@@ -1717,6 +1717,12 @@
     "name": "physanus",
     "uuid": "1bec952b-bbe1-4699-9d9d-d6ceafa7f952",
     "sex": "male",
+    "responsibilities_main": [
+      "Gewinnspielorganisation"
+    ],
+    "fields": [
+      "Systemadministration"
+    ],
     "rank_history": {
       "initial": "spieler",
       "11.10.2017": "developer",
@@ -1724,7 +1730,8 @@
       "17.08.2018": "developer",
       "17.02.2019": "moderator",
       "17.03.2020": "sysadmin",
-      "15.09.2021": "native_expert"
+      "15.09.2021": "native_expert",
+      "14.05.2022": "developer_plus"
     }
   },
   {
