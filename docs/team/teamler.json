@@ -736,14 +736,12 @@
     "name": "xTessia",
     "uuid": "c635caa2-0e21-412a-bcda-9785168df838",
     "sex": "female",
-    "responsibilities_secondary": [
-      "Youtuber-Ränge"
-    ],
     "rank_history": {
       "initial": "pro",
       "18.06.2017": "supporter_city",
       "hidden-27.12.2020": "supporter",
-      "12.01.2021": "creator"
+      "12.01.2021": "creator",
+      "21.05.2022": "native_expert"
     }
   },
   {
@@ -1086,12 +1084,10 @@
     "name": "Sunneeh",
     "uuid": "e5b9ea2e-c610-4ff7-8e07-3ff6fb95f1a8",
     "sex": "female",
-    "responsibilities_main": [
-      "Translation und Content creation"
-    ],
     "rank_history": {
       "initial": "expert",
-      "02.04.2020": "creator"
+      "02.04.2020": "creator",
+      "21.05.2022": "native_expert"
     }
   },
   {
@@ -1834,12 +1830,10 @@
     "name": "Evageddon",
     "uuid": "2bda4ff9-eb04-4680-971e-03520265b482",
     "sex": "female",
-    "responsibilities_main": [
-      "Grafikdesign"
-    ],
     "rank_history": {
       "initial": "supporter_games",
-      "07.02.2017": "creator"
+      "07.02.2017": "creator",
+      "21.05.2022": "native_expert"
     }
   },
   {
