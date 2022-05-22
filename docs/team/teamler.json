@@ -2919,5 +2919,14 @@
       "initial": "expert",
       "02.05.2022": "supporter"
     }
+  },
+  {
+    "name": "Mathiasmupschi",
+    "uuid": "e27508ba-4b95-4a1c-9db4-8cab505745f9",
+    "sex": "male",
+    "rank_history": {
+      "initial": "mvp",
+      "22.05.2022": "creator"
+    }
   }
 ]
