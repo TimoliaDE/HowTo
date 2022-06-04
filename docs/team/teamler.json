@@ -2644,13 +2644,14 @@
     }
   },
   {
-    "name": "p1npa1",
+    "name": "littlebeekeeper",
     "uuid": "2a654b51-5045-47e1-9815-7d195ae291b6",
     "sex": "male",
      "rank_history": {
       "initial": "expert",
       "17.01.2021": "builder",
-      "03.12.2021": "native_expert"
+      "03.12.2021": "native_expert",
+      "04.06.2022": "builder"
     }
   },
   {
