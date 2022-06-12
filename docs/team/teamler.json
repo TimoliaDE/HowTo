@@ -2930,5 +2930,17 @@
       "initial": "mvp",
       "22.05.2022": "creator"
     }
+  },
+  {
+    "name": "_Esel",
+    "uuid": "b7673cf5-a23c-45b5-a2a7-f4f85eb4fd74",
+    "sex": "male",
+    "fields": [
+      "Plugin Development"
+    ],
+    "rank_history": {
+      "initial": "spieler",
+      "11.06.2022": "developer"
+    }
   }
 ]
