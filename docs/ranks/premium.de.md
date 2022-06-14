@@ -52,11 +52,18 @@ Die Sponsoren-Ränge symboliseren unsere Dankbarkeit Spielern gegenüber, welche
 unterstützen.
 Diese Ränge können nicht im Shop erworben werden, sondern werden manuell ab einer gewissen Summe (siehe Tabelle) vergeben.
 
-Tabelle:(muss ich mit webstorm machen idk webansicht ist weird)
-
+|                            | <span>Sponsor: (Level 1)</span> |  <span>Sponsor: (Level 2)</span>   |  <span>Sponsor: (Level 3)</span>   |
+|:---------------------------|:-------------------------------:|:----------------------------------:|:----------------------------------:|
+| Dankschreiben              |             &check;             |              &check;               |              &check;               |
+| Discord-Rolle              |             &check;             |              &check;               |              &check;               |
+| Subtitle: Sponsor-Level 1  |             &check;             |              &check;               |              &check;               |
+| Subtitle: Sponsor-Level 2  |                -                |              &check;               |              &check;               |
+| Subtitle: Sponsor-Level 3  |                -                |                 -                  |              &check;               |
+| exklusives Phantom-Pet     |                -                |              &check;               |              &check;               |
+| exklusive Rangfarbe (Pink) |                -                |                 -                  |              &check;               |
 Wichtig: Käufe, die vor dem 31.05.2022 getätigt worden sind, werden von dieser Regelung nicht berücksichtigt!
 
-###Wie erhalte ich diesen Rang?
+### Wie erhalte ich diesen Rang?
 
 Solltest du dich für einen Sponsoren-Rang qualifiziert haben, melde dich auf unserem Discord (Link) im #support Channel oder melde dich per Mail an info@timolia.de (entsprechende Kaufbelege müssen vorliegen!)
 
