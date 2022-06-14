@@ -67,7 +67,7 @@ Diese Ränge können nicht im Shop erworben werden, sondern werden manuell ab ei
 
 ### Wie erhalte ich diesen Rang?
 
-Solltest du dich für einen Sponsoren-Rang qualifiziert haben, melde dich auf unserem Discord [Link](https://timolia.de/discord) im #support Channel oder melde dich per Mail an info@timolia.de (entsprechende Kaufbelege müssen vorliegen!)
+Solltest du dich für einen Sponsoren-Rang qualifiziert haben, melde dich auf unserem Discord ([Link](https://timolia.de/discord)) im #support Channel oder melde dich per Mail an info@timolia.de (entsprechende Kaufbelege müssen vorliegen!)
 
 ## Gutscheine und Pixelbooster
 Neben den Premium-Rängen kannst du in unserem Shop auch [Gutscheine](https://shop.timolia.de/#Gifts) und [Pixelbooster](https://shop.timolia.de/#Pixel) erhalten.    
