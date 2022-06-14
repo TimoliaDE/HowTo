@@ -47,6 +47,19 @@ Diese Features stehen dir mit deinem Rang zur Verfügung:
 
 *Alle Infos zum Kick-System findest du [hier](/faq/#wie-funktioniert-das-kick-system).
 
+## Sponsoren-Ränge
+Die Sponsoren-Ränge symboliseren unsere Dankbarkeit Spielern gegenüber, welche Timolia im besonderen Maße finanziell
+unterstützen.
+Diese Ränge können nicht im Shop erworben werden, sondern werden manuell ab einer gewissen Summe (siehe Tabelle) vergeben.
+
+Tabelle:(muss ich mit webstorm machen idk webansicht ist weird)
+
+Wichtig: Käufe, die vor dem 31.05.2022 getätigt worden sind, werden von dieser Regelung nicht berücksichtigt!
+
+###Wie erhalte ich diesen Rang?
+
+Solltest du dich für einen Sponsoren-Rang qualifiziert haben, melde dich auf unserem Discord (Link) im #support Channel oder melde dich per Mail an info@timolia.de (entsprechende Kaufbelege müssen vorliegen!)
+
 ## Gutscheine und Pixelbooster
 Neben den Premium-Rängen kannst du in unserem Shop auch [Gutscheine](https://shop.timolia.de/#Gifts) und [Pixelbooster](https://shop.timolia.de/#Pixel) erhalten.    
 
