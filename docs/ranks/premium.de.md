@@ -78,11 +78,11 @@ Mit **Pixelboostern** multipliziert ihr nicht nur die Anzahl der Pixel, die ihr 
 Nun bleibt noch die Frage, was passiert, wenn ihr schon einen Rang auf Timolia habt: Ganz einfach! Ihr bekommt zusätzlich zu euren durch den Rang erhöhten Pixeln noch die Pixel des Boosters dazu addiert, ihr könnt also mehr Pixel als je zuvor verdienen.
 
 ## Die Zahlungsmöglichkeiten
-Timolia kannst du entweder per Buycraft (PayPal, Paysafecard, Überweisung) oder Nitrado (Paysafecard, Sofort-Überweisung, uvm.) mit einer Spende
-unterstützen. Zahlungen per Buycraft werden direkt auf dem Server umgesetzt. Die Spenden per Nitrado müssen manuell bearbeitet werden und sind 
-daher ca. 1-24 Stunden nachdem du die Spende getätigt hast auf dem Server verfügbar. **Spenden mit mehreren Paysafecards müssen über Nitrado getätigt werden**.
+Timolia kannst du per Buycraft (PayPal, Überweisung) mit einer Spende unterstützen.
+Zahlungen per Buycraft werden direkt auf dem Server umgesetzt. Die Spenden per Nitrado müssen manuell bearbeitet werden und sind 
+daher ca. 1-24 Stunden nachdem du die Spende getätigt hast auf dem Server verfügbar.
 
-Klicke [<strong>hier</strong>, um über Buycraft zu spenden](https://shop.timolia.de/).
+Klicke [<strong>hier</strong>, um über Buycraft zu spenden (shop.timolia.de)](https://shop.timolia.de/).
 
 ## Mein Rang ist nicht da, was kann ich tun?
 Bezahlungen können eine Weile dauern - besonders, wenn der Kauf über Nitrado abgewickelt wurde. Sollte dein Rang 24 Stunden nach der Bestellung immer noch
