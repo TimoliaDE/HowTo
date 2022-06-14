@@ -79,8 +79,7 @@ Nun bleibt noch die Frage, was passiert, wenn ihr schon einen Rang auf Timolia h
 
 ## Die Zahlungsmöglichkeiten
 Timolia kannst du per Buycraft (PayPal, Überweisung) mit einer Spende unterstützen.
-Zahlungen per Buycraft werden direkt auf dem Server umgesetzt. Die Spenden per Nitrado müssen manuell bearbeitet werden und sind 
-daher ca. 1-24 Stunden nachdem du die Spende getätigt hast auf dem Server verfügbar.
+Zahlungen per Buycraft werden direkt auf dem Server umgesetzt.
 
 Klicke [<strong>hier</strong>, um über Buycraft zu spenden (shop.timolia.de)](https://shop.timolia.de/).
 
