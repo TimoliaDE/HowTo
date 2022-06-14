@@ -55,7 +55,6 @@ Diese Ränge können nicht im Shop erworben werden, sondern werden manuell ab ei
 |                            | <span>Sponsor: (Level 1)</span> | <span>Sponsor: (Level 2)</span> | <span>Sponsor: (Level 3)</span> |
 |:---------------------------|:-------------------------------:|:-------------------------------:|:-------------------------------:|
 | Anforderung                |              250€               |              500€               |              1000€              |
-| Dankschreiben              |             &check;             |             &check;             |             &check;             |
 | Discord-Rolle              |             &check;             |             &check;             |             &check;             |
 | Subtitle: Sponsor-Level 1  |             &check;             |             &check;             |             &check;             |
 | Subtitle: Sponsor-Level 2  |                -                |             &check;             |             &check;             |
