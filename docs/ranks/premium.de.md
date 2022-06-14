@@ -48,7 +48,7 @@ Diese Features stehen dir mit deinem Rang zur Verfügung:
 *Alle Infos zum Kick-System findest du [hier](/faq/#wie-funktioniert-das-kick-system).
 
 ## Sponsoren-Ränge
-Die Sponsoren-Ränge symboliseren unsere Dankbarkeit Spielern gegenüber, welche Timolia im besonderen Maße finanziell
+Die Sponsoren-Ränge symbolisieren unsere Dankbarkeit Spielern gegenüber, welche Timolia im besonderen Maße finanziell
 unterstützen.
 Diese Ränge können nicht im Shop erworben werden, sondern werden manuell ab einer gewissen Summe (siehe Tabelle) vergeben.
 

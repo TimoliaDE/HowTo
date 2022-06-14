@@ -47,29 +47,26 @@ These features are available to you with your rank:
 
 *Further information about the kick system can be found [here](/faq/#wie-funktioniert-das-kick-system).
 
-## Sponsoren-Ränge
-Die Sponsoren-Ränge symboliseren unsere Dankbarkeit Spielern gegenüber, welche Timolia im besonderen Maße finanziell
-unterstützen.
-Diese Ränge können nicht im Shop erworben werden, sondern werden manuell ab einer gewissen Summe (siehe Tabelle) vergeben.
+## Sponsor-Ranks
+The sponsor ranks symbolize our gratitude towards players, which especially financially
+support Timolia.
+These ranks cannot be purchased in the shop, but are assigned manually from a certain amount (see table).
 
 |                            | <span>Sponsor: (Level 1)</span> | <span>Sponsor: (Level 2)</span> | <span>Sponsor: (Level 3)</span> |
 |:---------------------------|:-------------------------------:|:-------------------------------:|:-------------------------------:|
-| Anforderung                |              250€               |              500€               |              1000€              |
-| Discord-Rolle              |             &check;             |             &check;             |             &check;             |
+| Requirement                |              250€               |              500€               |              1000€              |
+| Discord-Role              |             &check;             |             &check;             |             &check;             |
 | Subtitle: Sponsor-Level 1  |             &check;             |             &check;             |             &check;             |
 | Subtitle: Sponsor-Level 2  |                -                |             &check;             |             &check;             |
 | Subtitle: Sponsor-Level 3  |                -                |                -                |             &check;             |
-| exklusives Phantom-Pet     |                -                |             &check;             |             &check;             |
-| exklusive Rangfarbe (Pink) |                -                |                -                |             &check;             |
+| exclusive Phantom-Pet     |                -                |             &check;             |             &check;             |
+| exclusive rank color (Pink) |                -                |                -                |             &check;             |
 
-**Wichtig: Käufe, die vor dem 31.05.2022 getätigt worden sind, werden von dieser Regelung nicht berücksichtigt!**
+**Important: Purchases made before May 31, 2022 are not included in this rule!**
 
-### Wie erhalte ich diesen Rang?
+### How do I get this rank?
 
-Solltest du dich für einen Sponsoren-Rang qualifiziert haben, melde dich auf unserem Discord ([Link](https://timolia.de/discord)) im #support Channel oder melde dich per Mail an info@timolia.de (entsprechende Kaufbelege müssen vorliegen!)
-
-## Gutscheine und Pixelbooster
-Neben den Premium-Rängen kannst du in unserem Shop auch [Gutscheine](https://shop.timolia.de/#Gifts) und [Pixelbooster](https://shop.timolia.de/#Pixel) erhalten.
+If you have qualified for a sponsor rank, register on our Discord ([Link](https://timolia.de/discord)) in the #support channel or send an email to info@timolia.de (corresponding proof of purchase must be present!)
 
 ### Gift cards and Pixelboosters
 Besides the premium ranks you can also get [gift cards](https://shop.timolia.de/#Gifts) and [Pixelboosters](https://shop.timolia.de/#Pixel) in our shop.
