@@ -61,7 +61,8 @@ Diese Ränge können nicht im Shop erworben werden, sondern werden manuell ab ei
 | Subtitle: Sponsor-Level 3  |                -                |                 -                  |              &check;               |
 | exklusives Phantom-Pet     |                -                |              &check;               |              &check;               |
 | exklusive Rangfarbe (Pink) |                -                |                 -                  |              &check;               |
-Wichtig: Käufe, die vor dem 31.05.2022 getätigt worden sind, werden von dieser Regelung nicht berücksichtigt!
+
+**Wichtig: Käufe, die vor dem 31.05.2022 getätigt worden sind, werden von dieser Regelung nicht berücksichtigt!**
 
 ### Wie erhalte ich diesen Rang?
 
