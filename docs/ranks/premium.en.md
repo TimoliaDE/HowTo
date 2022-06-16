@@ -52,14 +52,14 @@ The sponsor ranks symbolize our gratitude towards players, which especially fina
 support Timolia.
 These ranks cannot be purchased in the shop, but are assigned manually from a certain amount (see table).
 
-|                            | <span>Sponsor: (Level 1)</span> | <span>Sponsor: (Level 2)</span> | <span>Sponsor: (Level 3)</span> |
-|:---------------------------|:-------------------------------:|:-------------------------------:|:-------------------------------:|
-| Requirement                |              250€               |              500€               |              1000€              |
-| Discord-Role              |             &check;             |             &check;             |             &check;             |
-| Subtitle: Sponsor-Level 1  |             &check;             |             &check;             |             &check;             |
-| Subtitle: Sponsor-Level 2  |                -                |             &check;             |             &check;             |
-| Subtitle: Sponsor-Level 3  |                -                |                -                |             &check;             |
-| exclusive Phantom-Pet     |                -                |             &check;             |             &check;             |
+|                             | <span>Sponsor: (Level 1)</span> | <span>Sponsor: (Level 2)</span> | <span>Sponsor: (Level 3)</span> |
+|:----------------------------|:-------------------------------:|:-------------------------------:|:-------------------------------:|
+| Requirement                 |              250€               |              500€               |              1000€              |
+| Discord-Role                |             &check;             |             &check;             |             &check;             |
+| Subtitle: Sponsor-Level 1   |             &check;             |             &check;             |             &check;             |
+| Subtitle: Sponsor-Level 2   |                -                |             &check;             |             &check;             |
+| Subtitle: Sponsor-Level 3   |                -                |                -                |             &check;             |
+| exclusive Phantom-Pet       |                -                |             &check;             |             &check;             |
 | exclusive rank color (Pink) |                -                |                -                |             &check;             |
 
 **Important: Purchases made before May 31, 2022 are not included in this rule!**
