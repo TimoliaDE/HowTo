@@ -2958,5 +2958,14 @@
       "initial": "spieler",
       "06.06.2022": "builder"
     }
+  },
+  {
+    "name": "Katharinchen",
+    "uuid": "38f0f8dc-834a-4e4e-8e45-bc68f2fd9595",
+    "sex": "female",
+    "rank_history": {
+      "initial": "spieler",
+      "17.06.2022": "supporter"
+    }
   }
 ]
