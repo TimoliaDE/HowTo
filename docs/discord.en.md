@@ -78,4 +78,4 @@ The following list contains commands you can use with the <strong>Timolia Bot</s
 | `/rank` | Timolia Bot (private chat) and [#ranks](https://discordapp.com/channels/407554118887014402/548160287891783690) | Displays information about your rank |
 | `/bug <description>` | Timolia Bot (private chat) and [#bug-melden](https://discordapp.com/channels/407554118887014402/413638656264503317) | Reports a bug to the Timolia Team |
 | `/support <description>` | Timolia Bot (private chat) and [#support](https://discordapp.com/channels/407554118887014402/413594798906408960) | Creates a support channel for you with the provided issue |
-| `/idea <idea>` | Only in [#ideen](https://discordapp.com/channels/407554118887014402/413615776399097866) and [#discord-ideen](https://discordapp.com/channels/407554118887014402/569594169228656656) | The Bot posts your idea and adds a positive and a newgative reaction |
+| `/idea <idea>` | Only in [#ideen](https://discordapp.com/channels/407554118887014402/413615776399097866) | The Bot posts your idea and adds a positive and a newgative reaction |
