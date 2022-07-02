@@ -48,6 +48,27 @@ Diese Features stehen dir mit deinem Rang zur Verfügung:
 
 *Alle Infos zum Kick-System findest du [hier](/faq/#wie-funktioniert-das-kick-system).
 
+## Sponsoren-Ränge
+Die Sponsoren-Ränge symbolisieren unsere Dankbarkeit Spielern gegenüber, welche Timolia im besonderen Maße finanziell
+unterstützen.
+Diese Ränge können nicht im Shop erworben werden, sondern werden manuell ab einer gewissen Summe (siehe Tabelle) vergeben.
+
+|                            | <span>Sponsor: (Level 1)</span> | <span>Sponsor: (Level 2)</span> | <span>Sponsor: (Level 3)</span> |
+|:---------------------------|:-------------------------------:|:-------------------------------:|:-------------------------------:|
+| Anforderung                |              250€               |              500€               |              1000€              |
+| Discord-Rolle              |             &check;             |             &check;             |             &check;             |
+| Subtitle: Sponsor-Level 1  |             &check;             |             &check;             |             &check;             |
+| Subtitle: Sponsor-Level 2  |                -                |             &check;             |             &check;             |
+| Subtitle: Sponsor-Level 3  |                -                |                -                |             &check;             |
+| exklusives Phantom-Pet     |                -                |             &check;             |             &check;             |
+| exklusive Rangfarbe (Pink) |                -                |                -                |             &check;             |
+
+**Wichtig: Käufe, die vor dem 31.05.2022 getätigt worden sind, werden von dieser Regelung nicht berücksichtigt!**
+
+### Wie erhalte ich diesen Rang?
+
+Solltest du dich für einen Sponsoren-Rang qualifiziert haben, melde dich auf unserem Discord ([Link](https://timolia.de/discord)) im #support Channel oder melde dich per Mail an info@timolia.de (entsprechende Kaufbelege müssen vorliegen!)
+
 ## Gutscheine und Pixelbooster
 Neben den Premium-Rängen kannst du in unserem Shop auch [Gutscheine](https://shop.timolia.de/#Gifts) und [Pixelbooster](https://shop.timolia.de/#Pixel) erhalten.    
 
@@ -58,11 +79,10 @@ Mit **Pixelboostern** multipliziert ihr nicht nur die Anzahl der Pixel, die ihr 
 Nun bleibt noch die Frage, was passiert, wenn ihr schon einen Rang auf Timolia habt: Ganz einfach! Ihr bekommt zusätzlich zu euren durch den Rang erhöhten Pixeln noch die Pixel des Boosters dazu addiert, ihr könnt also mehr Pixel als je zuvor verdienen.
 
 ## Die Zahlungsmöglichkeiten
-Timolia kannst du entweder per Buycraft (PayPal, Paysafecard, Überweisung) oder Nitrado (Paysafecard, Sofort-Überweisung, uvm.) mit einer Spende
-unterstützen. Zahlungen per Buycraft werden direkt auf dem Server umgesetzt. Die Spenden per Nitrado müssen manuell bearbeitet werden und sind 
-daher ca. 1-24 Stunden nachdem du die Spende getätigt hast auf dem Server verfügbar. **Spenden mit mehreren Paysafecards müssen über Nitrado getätigt werden**.
+Timolia kannst du per Buycraft (PayPal, Überweisung) mit einer Spende unterstützen.
+Zahlungen per Buycraft werden direkt auf dem Server umgesetzt.
 
-Klicke [<strong>hier</strong>, um über Buycraft zu spenden](https://shop.timolia.de/).
+Klicke [<strong>hier</strong>, um über Buycraft zu spenden (shop.timolia.de)](https://shop.timolia.de/).
 
 ## Mein Rang ist nicht da, was kann ich tun?
 Bezahlungen können eine Weile dauern - besonders, wenn der Kauf über Nitrado abgewickelt wurde. Sollte dein Rang 24 Stunden nach der Bestellung immer noch

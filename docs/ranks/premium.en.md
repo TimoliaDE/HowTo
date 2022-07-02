@@ -48,6 +48,27 @@ These features are available to you with your rank:
 
 *Further information about the kick system can be found [here](/faq/#wie-funktioniert-das-kick-system).
 
+## Sponsor-Ranks
+The sponsor ranks symbolize our gratitude towards players, which especially financially
+support Timolia.
+These ranks cannot be purchased in the shop, but are assigned manually from a certain amount (see table).
+
+|                             | <span>Sponsor: (Level 1)</span> | <span>Sponsor: (Level 2)</span> | <span>Sponsor: (Level 3)</span> |
+|:----------------------------|:-------------------------------:|:-------------------------------:|:-------------------------------:|
+| Requirement                 |              250€               |              500€               |              1000€              |
+| Discord-Role                |             &check;             |             &check;             |             &check;             |
+| Subtitle: Sponsor-Level 1   |             &check;             |             &check;             |             &check;             |
+| Subtitle: Sponsor-Level 2   |                -                |             &check;             |             &check;             |
+| Subtitle: Sponsor-Level 3   |                -                |                -                |             &check;             |
+| exclusive Phantom-Pet       |                -                |             &check;             |             &check;             |
+| exclusive rank color (Pink) |                -                |                -                |             &check;             |
+
+**Important: Purchases made before May 31, 2022 are not included in this rule!**
+
+### How do I get this rank?
+
+If you have qualified for a sponsor rank, register on our Discord ([Link](https://timolia.de/discord)) in the #support channel or send an email to info@timolia.de (corresponding proof of purchase must be present!)
+
 ### Gift cards and Pixelboosters
 Besides the premium ranks you can also get [gift cards](https://shop.timolia.de/#Gifts) and [Pixelboosters](https://shop.timolia.de/#Pixel) in our shop.
 
@@ -62,12 +83,10 @@ Now the question remains, what happens if you already have a rank on Timolia: Ve
 In addition to the Pixel you receive due to your rank, you'll get the Pixel of the booster added on top, so you can earn more pixels than ever before.
 
 ### The payment methods
-You can support Timolia with a donation either by Buycraft (PayPal, Paysafecard, bank transfer) or Nitrado (Paysafecard, Sofort-Überweisung, and much more). 
-Payments via Buycraft are processed directly on the server. 
-Donations via Nitrado have to be processed manually and are therefore available on the server about 1-24 hours after you have made the donation. 
-**Donations with multiple Paysafecards must be made via Nitrado**.
+You can support Timolia with a donation either by Buycraft (PayPal, bank transfer).
+Payments via Buycraft are processed directly on the server.
 
-Click [<strong>here</strong> to donate via Buycraft](https://shop.timolia.de/).
+Click [<strong>here</strong> to donate via Buycraft (shop.timolia.de)](https://shop.timolia.de/).
 
 ### I did not receive my rank, what can I do?
 Payments can take a while - especially if the purchase was made through Nitrado. 
