@@ -184,6 +184,10 @@ Left and right toc scrollbar
     line-height: 1.3;
 }
 
+.md-nav__link--passed {
+    color: #8b8b8b !important;
+}
+
 /*
 Arrow Left Icon
 */
@@ -277,7 +281,7 @@ article preview text color
 /*
 style ranks
  */
- 
+
 .administrator {
     color: #2a84c0;
 }
