@@ -2970,5 +2970,14 @@
       "initial": "spieler",
       "17.06.2022": "supporter"
     }
+  },
+  {
+    "name": "Keimeno",
+    "uuid": "6ee9150c-b99c-4d7f-9980-eb05c0c603e1",
+    "sex": "male",
+    "rank_history": {
+      "initial": "spieler",
+      "10.07.2022": "developer"
+    }
   }
 ]
