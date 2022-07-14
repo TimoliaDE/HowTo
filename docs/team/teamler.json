@@ -1339,12 +1339,10 @@
     "name": "tr7zw",
     "uuid": "fce0323d-7f50-4317-9720-5f6b14cf78ea",
     "sex": "male",
-    "fields": [
-      "Plugin Development"
-    ],
     "rank_history": {
       "initial": "developer",
-      "08.11.2019": "developer_plus"
+      "08.11.2019": "developer_plus",
+      "14.07.2022": "native_expert"
     }
   },
   {
