@@ -2684,16 +2684,11 @@
     "name": "AbstaubExpertDE",
     "uuid": "f56499d5-d48f-4390-9e0e-58dc834e29fa",
     "sex": "male",
-    "responsibilities_secondary": [
-      "Timolia Turnier Organisation"
-    ],
-    "fields": [
-      "Plugin Development"
-    ],
     "rank_history": {
       "initial": "expert",
       "22.02.2021": "supporter",
-      "03.10.2021": "supporter_plus"
+      "03.10.2021": "supporter_plus",
+      "05.07.202": "native_expert"
     }
   },
   {
