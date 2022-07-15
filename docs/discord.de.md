@@ -35,7 +35,7 @@ Der niedrigste Rang benötigt 128 Punkte. Ab da berechnet sich die Mindestpunktz
 # 4 - Sonstiges
 
 ## Bugs melden
-Bugs können im Channel bug-melden gemeldet werden. Dazu wird der Command /bug verwendet.
+Bugs können im Channel bug-reports gemeldet werden. Dazu wird der Command /bug verwendet.
 
 Folgende Informationen sind wichtig, damit der Bug behoben werden kann:
 - Um welchen Bug/Fehler handelt es sich?
@@ -57,18 +57,18 @@ Voicesupport wird auf dem Discord nicht angeboten, weder in Voicechanneln noch p
 
 Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführt werden können.
 
-| Befehl | Channel | Funktion |
-| ------ | -------------- | -------- |
-| `/help` | Timolia Bot (Privatchat) | Listet alle verfügbaren Commands auf |
-| `/help <command>` oder `/<command> help` | Timolia Bot (Privatchat) | Gibt Infos über den ausgewählten Command aus |
-| `/verify <Ingamename>` | Timolia Bot (Privatchat) | Verknüpft deinen Discord-Account mit deinem Minecraft-Account |
-| `/unverify` | Timolia Bot (Privatchat) | Hebt die Verknüpfung deines Discord-Accounts mit deinem Minecraft-Account auf |
-| `/stats [@Name]` | Timolia Bot (Privatchat) | Gibt einige Discordstats von dir oder anderen aus |
-| `/stats all` | Timolia Bot (Privatchat) | Gibt die Serverstats aus |
-| `/lookup <@Name>` | Timolia Bot (Privatchat) | Gibt Informationen zu einem User aus |
-| `/quote <NachrichtID>/<Nachricht Link>` | Nur in Channeln | Zitiert die angegebene Nachricht |
-| `/top` | Timolia Bot (Privatchat) und [#ranks](https://discordapp.com/channels/407554118887014402/548160287891783690)| Zeigt die Top 10 der User an|
-| `/rank` | Timolia Bot (Privatchat) und [#ranks](https://discordapp.com/channels/407554118887014402/548160287891783690) | Zeigt Informationen zu deinem Rang an |
-| `/bug <Beschreibung>` | Timolia Bot (Privatchat) und [#bug-melden](https://discordapp.com/channels/407554118887014402/413638656264503317) | Meldet einen Bug an das Timolia Team |
-| `/support <Beschreibung>` | Timolia Bot (Privatchat) und [#support](https://discordapp.com/channels/407554118887014402/413594798906408960) | Erstellt einen Supportchat für dich mit dem angegebenen Problem |
-| `/idea <Idee>` | Nur in [#ideen](https://canary.discord.com/channels/407554118887014402/413615776399097866) | Der Bot postet deine Idee und versieht sie mit einer positiven und einer negativen Reaction |
+| Befehl                                   | Channel                                                                                                            | Funktion                                                                                    |
+|------------------------------------------|--------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| `/help`                                  | Timolia Bot (Privatchat)                                                                                           | Listet alle verfügbaren Commands auf                                                        |
+| `/help <command>` oder `/<command> help` | Timolia Bot (Privatchat)                                                                                           | Gibt Infos über den ausgewählten Command aus                                                |
+| `/verify <Ingamename>`                   | Timolia Bot (Privatchat)                                                                                           | Verknüpft deinen Discord-Account mit deinem Minecraft-Account                               |
+| `/unverify`                              | Timolia Bot (Privatchat)                                                                                           | Hebt die Verknüpfung deines Discord-Accounts mit deinem Minecraft-Account auf               |
+| `/stats [@Name]`                         | Timolia Bot (Privatchat)                                                                                           | Gibt einige Discordstats von dir oder anderen aus                                           |
+| `/stats all`                             | Timolia Bot (Privatchat)                                                                                           | Gibt die Serverstats aus                                                                    |
+| `/lookup <@Name>`                        | Timolia Bot (Privatchat)                                                                                           | Gibt Informationen zu einem User aus                                                        |
+| `/quote <NachrichtID>/<Nachricht Link>`  | Nur in Channeln                                                                                                    | Zitiert die angegebene Nachricht                                                            |
+| `/top`                                   | Timolia Bot (Privatchat) und [#ranks](https://discordapp.com/channels/407554118887014402/548160287891783690)       | Zeigt die Top 10 der User an                                                                |
+| `/rank`                                  | Timolia Bot (Privatchat) und [#ranks](https://discordapp.com/channels/407554118887014402/548160287891783690)       | Zeigt Informationen zu deinem Rang an                                                       |
+| `/bug <Beschreibung>`                    | Timolia Bot (Privatchat) und [#bug-reports](https://discordapp.com/channels/407554118887014402/413638656264503317) | Meldet einen Bug an das Timolia Team                                                        |
+| `/support <Beschreibung>`                | Timolia Bot (Privatchat) und [#support](https://discordapp.com/channels/407554118887014402/413594798906408960)     | Erstellt einen Supportchat für dich mit dem angegebenen Problem                             |
+| `/idea <Idee>`                           | Nur in [#ideas](https://canary.discord.com/channels/407554118887014402/413615776399097866)                         | Der Bot postet deine Idee und versieht sie mit einer positiven und einer negativen Reaction |

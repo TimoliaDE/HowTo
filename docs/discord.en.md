@@ -39,43 +39,43 @@ For the lowest rank, you need 128 points. From then on you always need double th
 
 <strong>All users who exploit (or try to exploit) this system, e.g. with massive spam, will be reset to 0 points.</strong> 
 
-# 4 - Sonstiges
+# 4 - Other
 
-## Bugs melden
-Bugs können im Channel bug-melden gemeldet werden. Dazu wird der Command /bug verwendet.
+## Report bugs
+Bugs can be reported in the channel bug-reports. The command /bug is used for this purpose.
 
-Folgende Informationen sind wichtig, damit der Bug behoben werden kann:
-- Um welchen Bug/Fehler handelt es sich?
-- Wann ist der Bug aufgetreten? (z.B. “am 20.04.19 gegen 17:00 Uhr”)
-- Wo ist der Bug aufgetreten? (z.B. “auf dem Server games01”. Der aktuelle Server wird dir auf Tab angezeigt)
-- Mit welcher Minecraft Version spielst du? Nutzt du Modifikationen? Wenn ja, welche?
-- Ist der Bug durch eine bestimmte Handlung aufgetreten?
-- Bekommst du Fehlermeldungen? Wenn ja, welche?
+The following information is important so that the bug can be fixed:
+- What bug/error is it?
+- When did the bug occur? (e.g. "on 20.04.19 around 17:00")
+- Where did the bug occur? (e.g. "on the server games01". The current server is displayed on Tab)
+- Which Minecraft version are you playing with? Do you use modifications? If so, which ones?
+- Did the bug occur due to a certain action?
+- Are you getting error messages? If so, which ones?
 
-Solltest du einen Screenshot oder eine Videoaufnahme des Fehlers haben, so kannst du diese/n ebenfalls anhängen. Das ist für uns oftmals sehr hilfreich.
-Lade diese bitte auf Online-Plattformen, z.B. Imgur für Fotos und YouTube für Videos.
+If you have a screenshot or a video recording of the bug, you can also attach it. This is often very helpful for us.
+Please upload them to online platforms, e.g. Imgur for photos and YouTube for videos.
 
 ## Support
 
-Wir bieten Support auf diesem Server in Chatform an. Sollte der communitysupport eine Frage nicht klären können oder das Anliegen mit vertraulichen Informationen in Verbindung stehen, so kann mit /support <Problembeschreibung> ein Supportchat erstellt werden. In diesen können, ähnlich wie beim TS Hilfechannel, einzelne Teamler joinen und weiterhelfen.
-Voicesupport wird auf dem Discord nicht angeboten, weder in Voicechanneln noch per Sprachanruf oder ähnlichem. Für Sprachchannel und Support steht unser Teamspeak (ts.timolia.de) und der dortige Hilfechannel zur Verfügung.
+We offer support on this server in chat form. Should the #communitysupport not be able to clarify a question or the concern is related to confidential information, a support chat can be created with /support <problem description>. In this chat, similar to the TS help channel, individual team members can join and help further.
+Voice support is not offered on Discord, neither in voice channels nor by voice call or similar. For voice channels and support, our Teamspeak (ts.timolia.de) and the help channel there are available.
 
 # 5 - Commands
 
 The following list contains commands you can use with the <strong>Timolia Bot</strong>.
 
-| Command | Channel | Description |
-| ------ | -------------- | -------- |
-| `/help` | Timolia Bot (private chat) | Lists all available commands |
-| `/help <command>` oder `/<command> help` | Timolia Bot (private chat) | Shows information about the provided command |
-| `/verify <Ingamename>` | Timolia Bot (private chat) | Links your Discord account to your Minecraft account and verifies you |
-| `/unverify` | Timolia Bot (private chat) | Remove the link of your Minecraft account with your Discord account |
-| `/stats [@name]` | Timolia Bot (private chat) | Displays your or another users Discord stats |
-| `/stats all` | Timolia Bot (private chat) | Displays server stats |
-| `/lookup <@name>` | Timolia Bot (private chat) | Lists information about a user |
-| `/quote <message ID>/<message URL>` | Only in channels | Quotes the provided message |
-| `/top` | Timolia Bot (private chat) and [#ranks](https://discordapp.com/channels/407554118887014402/548160287891783690)| Displays the top 10 of all users |
-| `/rank` | Timolia Bot (private chat) and [#ranks](https://discordapp.com/channels/407554118887014402/548160287891783690) | Displays information about your rank |
-| `/bug <description>` | Timolia Bot (private chat) and [#bug-melden](https://discordapp.com/channels/407554118887014402/413638656264503317) | Reports a bug to the Timolia Team |
-| `/support <description>` | Timolia Bot (private chat) and [#support](https://discordapp.com/channels/407554118887014402/413594798906408960) | Creates a support channel for you with the provided issue |
-| `/idea <idea>` | Only in [#ideen](https://discordapp.com/channels/407554118887014402/413615776399097866) | The Bot posts your idea and adds a positive and a newgative reaction |
+| Command                                  | Channel                                                                                                              | Description                                                           |
+|------------------------------------------|----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| `/help`                                  | Timolia Bot (private chat)                                                                                           | Lists all available commands                                          |
+| `/help <command>` oder `/<command> help` | Timolia Bot (private chat)                                                                                           | Shows information about the provided command                          |
+| `/verify <Ingamename>`                   | Timolia Bot (private chat)                                                                                           | Links your Discord account to your Minecraft account and verifies you |
+| `/unverify`                              | Timolia Bot (private chat)                                                                                           | Remove the link of your Minecraft account with your Discord account   |
+| `/stats [@name]`                         | Timolia Bot (private chat)                                                                                           | Displays your or another users Discord stats                          |
+| `/stats all`                             | Timolia Bot (private chat)                                                                                           | Displays server stats                                                 |
+| `/lookup <@name>`                        | Timolia Bot (private chat)                                                                                           | Lists information about a user                                        |
+| `/quote <message ID>/<message URL>`      | Only in channels                                                                                                     | Quotes the provided message                                           |
+| `/top`                                   | Timolia Bot (private chat) and [#ranks](https://discordapp.com/channels/407554118887014402/548160287891783690)       | Displays the top 10 of all users                                      |
+| `/rank`                                  | Timolia Bot (private chat) and [#ranks](https://discordapp.com/channels/407554118887014402/548160287891783690)       | Displays information about your rank                                  |
+| `/bug <description>`                     | Timolia Bot (private chat) and [#bug-reports](https://discordapp.com/channels/407554118887014402/413638656264503317) | Reports a bug to the Timolia Team                                     |
+| `/support <description>`                 | Timolia Bot (private chat) and [#support](https://discordapp.com/channels/407554118887014402/413594798906408960)     | Creates a support channel for you with the provided issue             |
+| `/idea <idea>`                           | Only in [#ideas](https://discordapp.com/channels/407554118887014402/413615776399097866)                              | The Bot posts your idea and adds a positive and a newgative reaction  |
