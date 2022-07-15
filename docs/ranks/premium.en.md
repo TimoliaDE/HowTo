@@ -6,46 +6,68 @@ The ranks are available in our shop which you can reach at [https://www.timolia.
 ### What advantages do I have as a premium player?
 These features are available to you with your rank:
 
-|                                        |   <span class='pro'>Pro</span>            |  <span class='pro'>Pro+</span>             | <span class='mvp'>MVP</span>            | <span class='mvp'>MVP+</span>            | <span class='expert'>Expert</span>        |
-| :------------------------------------- | :---------------------------------------: | :---------------------------------------: | :-------------------------------------: | :--------------------------------------: | :---------------------------------------: |
-| Duration                               | LIFETIME                                  | LIFETIME                                  | LIFETIME                                | LIFETIME                                 | LIFETIME                                  |
-| Rank color                             | &check;                                   | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
-| Free LabyCoins                         | 210                                       | 450                                       | 900                                     | 1800                                     | 3000                                      |
-| Join full servers*                     | &check;                                   | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
-| Access to the Premium Lobby            | &check;                                   | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
-| TeamSpeak rank                         | &check;                                   | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
-| Forums rank                            | &check;                                   | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
-| Discord rank                           | &check;                                   | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
-| 1vs1: Best of 3                        | &check;                                   | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
-| Arcade: Create tournaments             | 3 Turnierpässe                            | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
-| 1vs1: Create tournaments               | 3 Turnierpässe                            | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
-| 1vs1: Change the team color            | -                                         | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
-| 1vs1: Blocks as skulls                 | -                                         | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
-| 1vs1: Additional info-commands         | -                                         | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
-| Create larger parties                  | -                                         | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
-| Individual lobby time                  | -                                         | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
-| JumpWorld: Set own icon                | -                                         | &check;                                   | &check;                                 | &check;                                  | &check;                                   |
-| JumpWorld: Use player skulls & armor stands | -                                    | -                                         | &check;                                 | &check;                                  | &check;                                   |
-| Beta tests                             | -                                         | -                                         | &check;                                 | &check;                                  | &check;                                   |
-| Mapvoting: Unlock maps                 | -                                         | -                                         | &check;                                 | &check;                                  | &check;                                   |
-| 1vs1: Best of 5                        | -                                         | -                                         | &check;                                 | &check;                                  | &check;                                   |
-| 1vs1: Flawless Death animation         | -                                         | -                                         | &check;                                 | &check;                                  | &check;                                   |
-| 1vs1: Create server-wide tournaments   | -                                         | -                                         | -                                       | &check;                                  | &check;                                   |
-| Create public parties                  | -                                         | -                                         | -                                       | &check;                                  | &check;                                   |
-| Give away 3 days Pro (every 30 days)   | -                                         | -                                         | -                                       | -                                        | &check;                                   |
-| X-times Pixel                          | 1                                         | 1,5                                       | 2                                       | 2,5                                      | 3                                         |
-| Free Pixelbooster                      | 1                                         | 2                                         | 3                                       | 5                                        | 10                                        | 
-| Mapvoting: votes                       | 1,5                                       | 2                                         | 2,5                                     | 3                                        | 4                                         |
-| 1vs1: Number of kits                   | 1                                         | 2                                         | 3                                       | 4                                        | 5                                         |
-| 1vs1: Maps slots                       | 1                                         | 2                                         | 3                                       | 4                                        | 5                                         |
-| 1vs1: Maximum team size                | 3                                         | 4                                         | 5                                       | 6                                        | &infin;                                   |
-| JumpWorld: Multibuild                  | 3                                         | 3                                         | 3                                       | 6                                        | 6                                         |
-| JumpWorld: Map slots                   | 1                                         | 2                                         | 2                                       | 2                                        | 3                                         |
-| JumpWorld: Entity count                | 32                                        | 48                                        | 64                                      | 96                                       | 128                                       |
-| Arcade: Select favorite games          | 1                                         | 2                                         | 2                                       | 2                                        | 3                                         |
-| Exclusive Pixelshop items              | 27                                        | 31                                        | 48                                      | 54                                       | 64                                        |
+|                                                  | <span class='pro'>Pro</span> | <span class='pro'>Pro+</span> | <span class='mvp'>MVP</span> | <span class='mvp'>MVP+</span> | <span class='expert'>Expert</span> |
+|:-------------------------------------------------|:----------------------------:|:-----------------------------:|:----------------------------:|:-----------------------------:|:----------------------------------:|
+| Duration                                         |           LIFETIME           |           LIFETIME            |           LIFETIME           |           LIFETIME            |              LIFETIME              |
+| Rank color                                       |           &check;            |            &check;            |           &check;            |            &check;            |              &check;               |
+| Free LabyCoins                                   |             210              |              450              |             900              |             1800              |                3000                |
+| Join full servers*                               |           &check;            |            &check;            |           &check;            |            &check;            |              &check;               |
+| Access to the Premium Lobby                      |           &check;            |            &check;            |           &check;            |            &check;            |              &check;               |
+| TeamSpeak rank                                   |           &check;            |            &check;            |           &check;            |            &check;            |              &check;               |
+| Forums rank                                      |           &check;            |            &check;            |           &check;            |            &check;            |              &check;               |
+| Discord rank                                     |           &check;            |            &check;            |           &check;            |            &check;            |              &check;               |
+| 1vs1: Best of 3                                  |           &check;            |            &check;            |           &check;            |            &check;            |              &check;               |
+| Arcade: Create tournaments                       |        3 Turnierpässe        |            &check;            |           &check;            |            &check;            |              &check;               |
+| 1vs1: Create Kit-1vs1 tournaments                |        3 Turnierpässe        |            &check;            |           &check;            |            &check;            |              &check;               |
+| 1vs1: Change the team color                      |              -               |            &check;            |           &check;            |            &check;            |              &check;               |
+| 1vs1: Blocks as skulls                           |              -               |            &check;            |           &check;            |            &check;            |              &check;               |
+| 1vs1: Additional info-commands                   |              -               |            &check;            |           &check;            |            &check;            |              &check;               |
+| Create larger parties                            |              -               |            &check;            |           &check;            |            &check;            |              &check;               |
+| Individual lobby time                            |              -               |            &check;            |           &check;            |            &check;            |              &check;               |
+| JumpWorld: Set own icon                          |              -               |            &check;            |           &check;            |            &check;            |              &check;               |
+| JumpWorld: Use player skulls & armor stands      |              -               |               -               |           &check;            |            &check;            |              &check;               |
+| Beta tests                                       |              -               |               -               |           &check;            |            &check;            |              &check;               |
+| Mapvoting: Unlock maps                           |              -               |               -               |           &check;            |            &check;            |              &check;               |
+| 1vs1: Best of 5                                  |              -               |               -               |           &check;            |            &check;            |              &check;               |
+| 1vs1: Flawless Death animation                   |              -               |               -               |           &check;            |            &check;            |              &check;               |
+| 1vs1: Create server-wide tournaments             |              -               |               -               |              -               |            &check;            |              &check;               |
+| 1vs1: Create FFA und Minigame tournaments        |              -               |               -               |              -               |            &check;            |              &check;               |
+| Create public parties                            |              -               |               -               |              -               |            &check;            |              &check;               |
+| Give away 3 days Pro (every 30 days)             |              -               |               -               |              -               |               -               |              &check;               |
+| X-times Pixel                                    |              1               |              1,5              |              2               |              2,5              |                 3                  |
+| Free Pixelbooster                                |              1               |               2               |              3               |               5               |                 10                 | 
+| Mapvoting: votes                                 |             1,5              |               2               |             2,5              |               3               |                 4                  |
+| 1vs1: Number of kits                             |              1               |               2               |              3               |               4               |                 5                  |
+| 1vs1: Maps slots                                 |              1               |               2               |              3               |               4               |                 5                  |
+| 1vs1: Maximum team size                          |              3               |               4               |              5               |               6               |              &infin;               |
+| JumpWorld: Multibuild                            |              3               |               3               |              3               |               6               |                 6                  |
+| JumpWorld: Map slots                             |              1               |               2               |              2               |               2               |                 3                  |
+| JumpWorld: Entity count                          |              32              |              48               |              64              |              96               |                128                 |
+| Arcade: Select favorite games                    |              1               |               2               |              2               |               2               |                 3                  |
+| Exclusive Pixelshop items                        |              27              |              31               |              48              |              54               |                 64                 |
 
 *Further information about the kick system can be found [here](/faq/#wie-funktioniert-das-kick-system).
+
+## Sponsor-Ranks
+The sponsor ranks symbolize our gratitude towards players, which especially financially
+support Timolia.
+These ranks cannot be purchased in the shop, but are assigned manually from a certain amount (see table).
+
+|                             | <span>Sponsor: (Level 1)</span> | <span>Sponsor: (Level 2)</span> | <span>Sponsor: (Level 3)</span> |
+|:----------------------------|:-------------------------------:|:-------------------------------:|:-------------------------------:|
+| Requirement                 |              250€               |              500€               |              1000€              |
+| Discord-Role                |             &check;             |             &check;             |             &check;             |
+| Subtitle: Sponsor-Level 1   |             &check;             |             &check;             |             &check;             |
+| Subtitle: Sponsor-Level 2   |                -                |             &check;             |             &check;             |
+| Subtitle: Sponsor-Level 3   |                -                |                -                |             &check;             |
+| exclusive Phantom-Pet       |                -                |             &check;             |             &check;             |
+| exclusive rank color (Pink) |                -                |                -                |             &check;             |
+
+**Important: Purchases made before May 31, 2022 are not included in this rule!**
+
+### How do I get this rank?
+
+If you have qualified for a sponsor rank, register on our Discord ([Link](https://timolia.de/discord)) in the #support channel or send an email to info@timolia.de (corresponding proof of purchase must be present!)
 
 ### Gift cards and Pixelboosters
 Besides the premium ranks you can also get [gift cards](https://shop.timolia.de/#Gifts) and [Pixelboosters](https://shop.timolia.de/#Pixel) in our shop.
@@ -61,36 +83,10 @@ Now the question remains, what happens if you already have a rank on Timolia: Ve
 In addition to the Pixel you receive due to your rank, you'll get the Pixel of the booster added on top, so you can earn more pixels than ever before.
 
 ### The payment methods
-You can support Timolia with a donation either by Buycraft (PayPal, Paysafecard, bank transfer) or Nitrado (Paysafecard, Sofort-Überweisung, and much more). 
-Payments via Buycraft are processed directly on the server. 
-Donations via Nitrado have to be processed manually and are therefore available on the server about 1-24 hours after you have made the donation. 
-**Donations with multiple Paysafecards must be made via Nitrado**.
+You can support Timolia with a donation either by Buycraft (PayPal, bank transfer).
+Payments via Buycraft are processed directly on the server.
 
-Click [<strong>here</strong> to donate via Buycraft](https://shop.timolia.de/).
-
-### Nitrado
-**Important for donations via Nitrado** Donations via Nitrado have to be processed manually and can therefore take up to 24 hours.
-
-To donate via Nitrado, you need to have your own Nitrado account. 
-You can create one [**here** on the official Nitrado website](https://nitra.do/timolia-minecraft). 
-As soon as you are logged in, you can select "Donate" in the upper menu.
-
-Please enter Timolia as **receiver**. In order for us to correctly process your donation, please provide us with the following data in the **Purpose** field:
-
-* Your current in-game name
-* Your current rank
-* Your desired rank
-* Payment x/y, if you divide the total amount into several partial amounts
-
-The amount can be selected according to the desired amount of the Paysafecard.<br />
-Please note that you have to write out the `+` of Pro+ and MVP+, because Nitrado cannot handle the `+` character!
-
-**Example**: You can specify an upgrade from Pro to MVP+ (45 Euro) with 3 Paysafecards like this:<br />
-Receiver: Timolia<br />
-Reason for payment: MCExpertDE, Upgrade from Pro to MVP Plus, Payment 1/3
-
-Please note that money that has already been deposited to the Nitrado account cannot be donated to Timolia! 
-
+Click [<strong>here</strong> to donate via Buycraft (shop.timolia.de)](https://shop.timolia.de/).
 
 ### I did not receive my rank, what can I do?
 Payments can take a while - especially if the purchase was made through Nitrado. 

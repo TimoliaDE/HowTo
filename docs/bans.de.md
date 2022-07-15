@@ -26,7 +26,7 @@ Registrieren kannst du dich ingame mit dem Befehl `/register <E-Mail>`, im Forum
 nur als Beweise bei MSG-Nachrichten, alle anderen Regelverstöße müssen mit einem Video bewiesen werden. Natürlich kann ingame auch `/livereport` und `/chatreport` verwendet werden. 
 
 ### Entschuldigungen
-Ab einer Bannzeit von zehn Tagen kannst du mit einer Entschuldigung deine Bannzeit um bis zu 1/3 verkürzen, bei einem permanenten Bann wird deine 
+Ab einer Bannzeit von zehn Tagen kannst du mit einer Entschuldigung deine Bannzeit um bis zu 1/2 verkürzen, bei einem permanenten Bann wird deine 
 Bannzeit auf 30 Tage hinabgesetzt. Eine Entschuldigung kannst du im Forum unter "[Entschuldigungen](https://forum.timolia.de/forums/entschuldigungen.49/)" schreiben.
 Solltest du eine Bannzeit von insgesamt über 46 Tagen haben, musst du erst warten, bis deine Banntage auf 46 Tage oder weniger verjährt sind. 
 Bitte beachte weiterhin, dass du dich nur entschuldigen kannst, wenn du dich in den letzten 6 Monaten weder bereits 3x entschuldigt hast, noch bereits ein Bann in diesem Zeitraum aufgehoben wurde.

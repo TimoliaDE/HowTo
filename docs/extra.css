@@ -218,7 +218,11 @@ Arrow Right Icon
 }
 
 .md-nav__link:focus, .md-nav__link:hover {
-    color: #c3d9e4;
+    color: #c3d9e4 !important;
+}
+
+.md-nav__link--passed {
+    color: #d4d4d4 !important;
 }
 
 /*
@@ -277,7 +281,7 @@ article preview text color
 /*
 style ranks
  */
- 
+
 .administrator {
     color: #2a84c0;
 }
