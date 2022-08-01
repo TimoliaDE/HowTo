@@ -2871,6 +2871,9 @@
     "name": "Jchannes",
     "uuid": "251f7677-ee4b-464b-aa8b-17614cc789be",
     "sex": "male",
+    "responsibilities_secondary": [
+      "Monatssieger"
+    ],
     "rank_history": {
       "initial": "spieler",
       "21.01.2022": "builder"
