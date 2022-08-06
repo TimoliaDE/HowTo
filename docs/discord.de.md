@@ -8,27 +8,9 @@ Hier findest du nun eine grobe Übersicht über den Discord, alle weiteren Infor
 - Solltest du gebannt sein, kannst du auf *register.timolia.de* joinen und dort die Verifizierung durchführen.
 
 # 2 - Discord Regelwerk
-Die Regeln des Discord-Servers kannst du dem Channel [#regeln](https://discordapp.com/channels/407554118887014402/407565978025852929) auf dem Discord entnehmen oder [hier](/rules/discord/) nachlesen.
+Die Regeln des Discord-Servers kannst du dem Channel [#regeln](https://discord.com/channels/407554118887014402/407565978025852929) auf dem Discord entnehmen oder [hier](/rules/discord/) nachlesen.
 
-# 3 - Private Channel
-Auf unserem Server bieten wir zeitlich begrenzte <strong>Chatchannel</strong> zum Mieten an. Wie? Das erfährst du hier:
-
-## Wie erhalte ich einen Channel?
-Einen Channel erhält man, indem man sich auf dem Discord an ein Teammitglied wendet. Am besten eignet sich dafür `/support <Problembeschreibung>`, welches man dem Timolia Bot oder im Channel [#support](https://discordapp.com/channels/407554118887014402/413594798906408960) schreiben kann.
-
-## Kosten eines Channels
-Die Kosten eines privaten Channels belaufen sich <strong>pro Monat auf <u>1.000 Pixel</u></strong>.
-
-## Wie füge ich einen Freund hinzu?
-Weitere Mitglieder kann der Besitzer des Channels mit `/channel invite <@Name>` hinzufügen. Mit `/channel remove <@Name>` kann ein Nutzer wieder entfernt werden.
-
-## Regeln für private Channel
-- Ein Channel hat eine <strong>maximale Laufzeit von 6 Monaten</strong>.
-- Jeder User darf maximal <strong>einen Channel</strong> besitzen.
-- Es ist möglich, sich den Channel und die damit verbundenen Kosten mit Freunden zu teilen. Jedoch ist zu beachten, dass es nur einen rechtmäßigen Besitzer geben kann. Dieser hat im Fall einer Uneinstimmigkeit zwischen den Besitzern den alleinigen Anspruch auf den Channel.
-- Nach Ablauf der Zeit werden die Channel automatisch gesperrt. Durch eine Verlängerung des Channels kann dieser weiter genutzt werden und die Nachrichten bleiben erhalten.
-
-# 4 - Das Scoresystem
+# 3 - Das Scoresystem
 
 ## Wie funktioniert es?
 Nachrichten werden ab einer gewissen Länge gewertet und ein Score aus ihnen berechnet. Abgesehen von der Mindestlänge ist der Score für jede Nachricht aber unabhängig von der Länge der Nachricht.
@@ -50,24 +32,43 @@ Der niedrigste Rang benötigt 128 Punkte. Ab da berechnet sich die Mindestpunktz
 
 <strong>User, die das System durch permanenten Spam ausnutzen (oder dies versuchen) werden auf einen Score von 0 Punkten zurückgesetzt.</strong>
 
+# 4 - Sonstiges
+
+## Bugs melden
+Bugs können im Channel bug-reports gemeldet werden. Dazu wird der Command /bug verwendet.
+
+Folgende Informationen sind wichtig, damit der Bug behoben werden kann:
+- Um welchen Bug/Fehler handelt es sich?
+- Wann ist der Bug aufgetreten? (z.B. “am 20.04.19 gegen 17:00 Uhr”)
+- Wo ist der Bug aufgetreten? (z.B. “auf dem Server games01”. Der aktuelle Server wird dir auf Tab angezeigt)
+- Mit welcher Minecraft Version spielst du? Nutzt du Modifikationen? Wenn ja, welche?
+- Ist der Bug durch eine bestimmte Handlung aufgetreten?
+- Bekommst du Fehlermeldungen? Wenn ja, welche?
+
+Solltest du einen Screenshot oder eine Videoaufnahme des Fehlers haben, so kannst du diese/n ebenfalls anhängen. Das ist für uns oftmals sehr hilfreich.
+Lade diese bitte auf Online-Plattformen, z.B. Imgur für Fotos und YouTube für Videos.
+
+## Support
+
+Wir bieten Support auf diesem Server in Chatform an. Sollte der communitysupport eine Frage nicht klären können oder das Anliegen mit vertraulichen Informationen in Verbindung stehen, so kann mit /support <Problembeschreibung> ein Supportchat erstellt werden. In diesen können, ähnlich wie beim TS Hilfechannel, einzelne Teamler joinen und weiterhelfen.
+Voicesupport wird auf dem Discord nicht angeboten, weder in Voicechanneln noch per Sprachanruf oder ähnlichem. Für Sprachchannel und Support steht unser Teamspeak (ts.timolia.de) und der dortige Hilfechannel zur Verfügung.
+
 # 5 - Befehle
 
 Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführt werden können.
 
-| Befehl | Channel | Funktion |
-| ------ | -------------- | -------- |
-| `/help` | Timolia Bot (Privatchat) | Listet alle verfügbaren Commands auf |
-| `/help <command>` oder `/<command> help` | Timolia Bot (Privatchat) | Gibt Infos über den ausgewählten Command aus |
-| `/verify <Ingamename>` | Timolia Bot (Privatchat) | Verknüpft deinen Discord-Account mit deinem Minecraft-Account |
-| `/unverify` | Timolia Bot (Privatchat) | Hebt die Verknüpfung deines Discord-Accounts mit deinem Minecraft-Account auf |
-| `/stats [@Name]` | Timolia Bot (Privatchat) | Gibt einige Discordstats von dir oder anderen aus |
-| `/stats all` | Timolia Bot (Privatchat) | Gibt die Serverstats aus |
-| `/lookup <@Name>` | Timolia Bot (Privatchat) | Gibt Informationen zu einem User aus |
-| `/quote <NachrichtID>/<Nachricht Link>` | Nur in Channeln | Zitiert die angegebene Nachricht |
-| `/top` | Timolia Bot (Privatchat) und [#ranks](https://discordapp.com/channels/407554118887014402/548160287891783690)| Zeigt die Top 10 der User an|
-| `/rank` | Timolia Bot (Privatchat) und [#ranks](https://discordapp.com/channels/407554118887014402/548160287891783690) | Zeigt Informationen zu deinem Rang an |
-| `/channel invite <@Name>` oder `/channel remove <@Name>` | Timolia Bot (Privatchat) und eigener Channel | Lädt einen User in einen privaten Chatchannel ein oder entfernt ihn |
-| `/bug <Beschreibung>` | Timolia Bot (Privatchat) und [#bug-melden](https://discordapp.com/channels/407554118887014402/413638656264503317) | Meldet einen Bug an das Timolia Team |
-| `/support <Beschreibung>` | Timolia Bot (Privatchat) und [#support](https://discordapp.com/channels/407554118887014402/413594798906408960) | Erstellt einen Supportchat für dich mit dem angegebenen Problem |
-| `/idea <Idee>` | Nur in [#ideen](https://discordapp.com/channels/407554118887014402/413615776399097866) und [#discord-ideen](https://discordapp.com/channels/407554118887014402/569594169228656656) | Der Bot postet deine Idee und versieht sie mit einer positiven und einer negativen Reaction |
-| `/join` | Timolia Bot (Privatchat) | Der Bot gibt die Join-Nachrichten aus |
+| Befehl                                   | Channel                                                                                                            | Funktion                                                                                    |
+|------------------------------------------|--------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| `/help`                                  | Timolia Bot (Privatchat)                                                                                           | Listet alle verfügbaren Commands auf                                                        |
+| `/help <command>` oder `/<command> help` | Timolia Bot (Privatchat)                                                                                           | Gibt Infos über den ausgewählten Command aus                                                |
+| `/verify <Ingamename>`                   | Timolia Bot (Privatchat)                                                                                           | Verknüpft deinen Discord-Account mit deinem Minecraft-Account                               |
+| `/unverify`                              | Timolia Bot (Privatchat)                                                                                           | Hebt die Verknüpfung deines Discord-Accounts mit deinem Minecraft-Account auf               |
+| `/stats [@Name]`                         | Timolia Bot (Privatchat)                                                                                           | Gibt einige Discordstats von dir oder anderen aus                                           |
+| `/stats all`                             | Timolia Bot (Privatchat)                                                                                           | Gibt die Serverstats aus                                                                    |
+| `/lookup <@Name>`                        | Timolia Bot (Privatchat)                                                                                           | Gibt Informationen zu einem User aus                                                        |
+| `/quote <NachrichtID>/<Nachricht Link>`  | Nur in Channeln                                                                                                    | Zitiert die angegebene Nachricht                                                            |
+| `/top`                                   | Timolia Bot (Privatchat) und [#ranks](https://discordapp.com/channels/407554118887014402/548160287891783690)       | Zeigt die Top 10 der User an                                                                |
+| `/rank`                                  | Timolia Bot (Privatchat) und [#ranks](https://discordapp.com/channels/407554118887014402/548160287891783690)       | Zeigt Informationen zu deinem Rang an                                                       |
+| `/bug <Beschreibung>`                    | Timolia Bot (Privatchat) und [#bug-reports](https://discordapp.com/channels/407554118887014402/413638656264503317) | Meldet einen Bug an das Timolia Team                                                        |
+| `/support <Beschreibung>`                | Timolia Bot (Privatchat) und [#support](https://discordapp.com/channels/407554118887014402/413594798906408960)     | Erstellt einen Supportchat für dich mit dem angegebenen Problem                             |
+| `/idea <Idee>`                           | Nur in [#ideas](https://canary.discord.com/channels/407554118887014402/413615776399097866)                         | Der Bot postet deine Idee und versieht sie mit einer positiven und einer negativen Reaction |
