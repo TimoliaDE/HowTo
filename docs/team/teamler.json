@@ -1541,7 +1541,8 @@
     "rank_history": {
       "initial": "mvp",
       "21.04.2020": "supporter",
-      "07.02.2021": "supporter_plus"
+      "07.02.2021": "supporter_plus",
+      "07.08.2022": "moderator"
     }
   },
   {
@@ -2665,7 +2666,8 @@
     ],
     "rank_history": {
       "initial": "expert",
-      "30.01.2021": "supporter"
+      "30.01.2021": "supporter",
+      "07.08.2022": "supporter_plus"
     }
   },
   {
@@ -2864,7 +2866,8 @@
     ],
     "rank_history": {
       "initial": "expert",
-      "22.11.2021": "supporter"
+      "22.11.2021": "supporter",
+      "07.08.2022": "supporter_plus"
     }
   },
   {
