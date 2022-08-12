@@ -1295,15 +1295,13 @@
     "name": "_TakeItEaZy_",
     "uuid": "fa949e8c-adc8-4f89-8d0a-37f5eba3da2d",
     "sex": "male",
-    "fields": [
-      "Web Development"
-    ],
     "rank_history": {
       "initial": "supporter_games",
       "04.05.2017": "native_mvp",
       "17.09.2017": "supporter_games",
       "21.11.2017": "native_mvp",
-      "27.03.2020": "developer"
+      "27.03.2020": "developer",
+      "12.08.2022": "native_expert"
     }
   },
   {
@@ -2437,20 +2435,11 @@
     "name": "MCelements",
     "uuid": "73d45f07-891e-4909-b1b9-1d3ec5480eb9",
     "sex": "male",
-    "responsibilities_main": [
-      "Teamlerauswahl Developer",
-      "TeamSpeak"
-    ],
-    "fields": [
-      "Systemadministration",
-      "Plugin Development",
-      "Web Development",
-      "Verschicken von Reddit-Hundeposts"
-    ],
     "rank_history": {
       "initial": "supporter_city",
       "24.06.2017": "developer",
-      "08.11.2019": "developer_plus"
+      "08.11.2019": "developer_plus",
+      "12.08.2022": "native_expert"
     }
   },
   {
