@@ -2967,5 +2967,14 @@
       "initial": "spieler",
       "10.07.2022": "developer"
     }
+  },
+  {
+    "name": "Kanoenchen",
+    "uuid": "527e3805-26a3-4e73-8500-f91e6e6428b7",
+    "sex": "male",
+    "rank_history": {
+      "initial": "mvp",
+      "16.08.2022": "builder"
+    }
   }
 ]
