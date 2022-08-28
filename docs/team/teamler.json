@@ -2969,6 +2969,15 @@
     }
   },
   {
+    "name": "wilde_maus",
+    "uuid": "3c60e8cd-3fc1-4328-b60e-1d01bc0b8a59",
+    "sex": "male",
+    "rank_history": {
+      "initial": "spieler",
+      "11.08.2022": "builder"
+    }
+  },
+  {
     "name": "Kanoenchen",
     "uuid": "527e3805-26a3-4e73-8500-f91e6e6428b7",
     "sex": "male",
