@@ -180,7 +180,7 @@
     "uuid": "94fa217d-6e68-4b87-86ff-6156765c4a17",
     "sex": "male",
     "responsibilities_main": [
-      "Forum Zu Unrecht gebannt",
+      "Zu Unrecht gebannt",
       "Teamlerauswahl Supporter"
     ],
     "responsibilities_secondary": [
@@ -969,7 +969,7 @@
     "uuid": "d723842a-7dd9-4e09-ad8e-63086178e73e",
     "sex": "male",
     "responsibilities_secondary": [
-      "Forum Entschuldigungen",
+      "Entschuldigungen",
       "UHC"
     ],
     "rank_history": {
@@ -1506,14 +1506,12 @@
     "uuid": "0e23e989-7cfb-40f3-ad63-8a76c68bdd7d",
     "sex": "male",
     "responsibilities_main": [
-      "Forum Entschuldigungen",
-      "Forum Spieler melden",
+      "Entschuldigungen",
       "Teamlerauswahl Supporter",
       "Timolia Turnier Organisation",
       "Youtuber-Ränge"
     ],
     "responsibilities_secondary": [
-      "Forum Allgemein",
       "Social Media"
     ],
     "rank_history": {
@@ -1528,7 +1526,7 @@
     "uuid": "0ed6aeee-673f-4579-95ff-0ba474efd610",
     "sex": "female",
     "responsibilities_main": [
-      "Forum Bug melden",
+      "Bug Reports",
       "Timolia HowTo",
       "TeamSpeak"
     ],
@@ -1548,11 +1546,11 @@
     "uuid": "0f60d23f-7105-4199-bfe9-099cee27977f",
     "sex": "male",
     "responsibilities_main": [
-      "Forum Entschuldigungen",
+      "Entschuldigungen",
       "Youtuber-Ränge"
     ],
     "responsibilities_secondary": [
-      "Forum Zu Unrecht gebannt"
+      "Zu Unrecht gebannt"
     ],
     "rank_history": {
       "initial": "spieler",
@@ -2071,8 +2069,7 @@
     "uuid": "525183d9-1a5a-40e1-a712-e3099282c341",
     "sex": "male",
     "responsibilities_main": [
-      "Forum Allgemein",
-      "Forum Bug melden",
+      "Bug Reports",
       "Teamlerauswahl Developer"
     ],
     "fields": [
@@ -2785,11 +2782,11 @@
     "sex": "male",
     "responsibilities_main": [
       "Community-Discord",
-      "Timolia HowTo"
+      "Timolia HowTo",
+      "Bug Reports"
     ],
     "responsibilities_secondary": [
-      "UHC",
-      "Forum Bug melden"
+      "UHC"
     ],
     "fields": [
       "Systemadministration",
@@ -2847,7 +2844,7 @@
     "uuid": "1a1e7c94-1281-4d7b-930f-be3bd8266949",
     "sex": "male",
     "responsibilities_secondary": [
-      "Forum Entschuldigungen",
+      "Entschuldigungen",
       "UHC"
     ],
     "rank_history": {
