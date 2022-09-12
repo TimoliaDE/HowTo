@@ -60,11 +60,11 @@
     "uuid": "81f159e2-b9ac-4c16-aa81-6f07bc5980d7",
     "sex": "male",
     "responsibilities_main": [
-      "Management des Bau-Teams",
-      "Teamlerauswahl Builder und Timolia Creative"
+      "Management des Bau-Teams"
     ],
     "responsibilities_secondary": [
-      "Social Media"
+      "Social Media",
+      "Teamlerauswahl Builder und Timolia Creative"
     ],
     "rank_history": {
       "initial": "spieler",
@@ -1295,15 +1295,13 @@
     "name": "_TakeItEaZy_",
     "uuid": "fa949e8c-adc8-4f89-8d0a-37f5eba3da2d",
     "sex": "male",
-    "fields": [
-      "Web Development"
-    ],
     "rank_history": {
       "initial": "supporter_games",
       "04.05.2017": "native_mvp",
       "17.09.2017": "supporter_games",
       "21.11.2017": "native_mvp",
-      "27.03.2020": "developer"
+      "27.03.2020": "developer",
+      "12.08.2022": "native_expert"
     }
   },
   {
@@ -1712,9 +1710,6 @@
     "name": "physanus",
     "uuid": "1bec952b-bbe1-4699-9d9d-d6ceafa7f952",
     "sex": "male",
-    "responsibilities_main": [
-      "Gewinnspielorganisation"
-    ],
     "fields": [
       "Systemadministration"
     ],
@@ -2437,20 +2432,11 @@
     "name": "MCelements",
     "uuid": "73d45f07-891e-4909-b1b9-1d3ec5480eb9",
     "sex": "male",
-    "responsibilities_main": [
-      "Teamlerauswahl Developer",
-      "TeamSpeak"
-    ],
-    "fields": [
-      "Systemadministration",
-      "Plugin Development",
-      "Web Development",
-      "Verschicken von Reddit-Hundeposts"
-    ],
     "rank_history": {
       "initial": "supporter_city",
       "24.06.2017": "developer",
-      "08.11.2019": "developer_plus"
+      "08.11.2019": "developer_plus",
+      "12.08.2022": "native_expert"
     }
   },
   {
@@ -2862,6 +2848,7 @@
     "sex": "male",
     "responsibilities_secondary": [
       "Forum Entschuldigungen",
+      "Timolia Turnier Organisation",
       "UHC"
     ],
     "rank_history": {
@@ -2874,12 +2861,16 @@
     "name": "Jchannes",
     "uuid": "251f7677-ee4b-464b-aa8b-17614cc789be",
     "sex": "male",
+    "responsibilities_main": [
+      "Teamlerauswahl Builder und Timolia Creative"
+    ],
     "responsibilities_secondary": [
       "Monatssieger"
     ],
     "rank_history": {
       "initial": "spieler",
-      "21.01.2022": "builder"
+      "21.01.2022": "builder",
+      "03.09.2022": "builder_plus"
     }
   },
   {
@@ -2974,9 +2965,30 @@
     "name": "Keimeno",
     "uuid": "6ee9150c-b99c-4d7f-9980-eb05c0c603e1",
     "sex": "male",
+    "fields": [
+      "Web Development"
+    ],
     "rank_history": {
       "initial": "spieler",
       "10.07.2022": "developer"
+    }
+  },
+  {
+    "name": "wilde_maus",
+    "uuid": "3c60e8cd-3fc1-4328-b60e-1d01bc0b8a59",
+    "sex": "male",
+    "rank_history": {
+      "initial": "spieler",
+      "11.08.2022": "builder"
+    }
+  },
+  {
+    "name": "Kanoenchen",
+    "uuid": "527e3805-26a3-4e73-8500-f91e6e6428b7",
+    "sex": "male",
+    "rank_history": {
+      "initial": "mvp",
+      "16.08.2022": "builder"
     }
   }
 ]
