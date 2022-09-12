@@ -4,4 +4,4 @@ include:
     file:    '.global/imagebuild/$CI_PROJECT_PATH.yml'
 
 variables:
-  RELEASE_VERSION:   '1.0.0'
+  RELEASE_VERSION:   '1.0.1'
