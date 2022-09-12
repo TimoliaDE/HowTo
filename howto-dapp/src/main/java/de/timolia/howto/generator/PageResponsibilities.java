@@ -28,11 +28,9 @@ public class PageResponsibilities {
             }});
             put("%page.responsibilities.communication-platforms%", new LinkedHashMap<>() {{
                 put("%page.responsibilities.communication-platforms.community-discord%", "%page.responsibilities.communication-platforms.community-discord.desc%");
-                put("%page.responsibilities.communication-platforms.forums.general%", null);
-                put("%page.responsibilities.communication-platforms.forums.bug-reports%", null);
-                put("%page.responsibilities.communication-platforms.forums.appeal%", null);
-                put("%page.responsibilities.communication-platforms.forums.player-reports%", null);
-                put("%page.responsibilities.communication-platforms.forums.falsely-banned%", null);
+                put("%page.responsibilities.communication-platforms.bug-reports%", null);
+                put("%page.responsibilities.communication-platforms.appeal%", null);
+                put("%page.responsibilities.communication-platforms.falsely-banned%", null);
                 put("%page.responsibilities.communication-platforms.socialmedia%", "%page.responsibilities.communication-platforms.socialmedia.desc%");
                 put("%page.responsibilities.communication-platforms.teamspeak%", "%page.responsibilities.communication-platforms.teamspeak.desc%");
             }});
@@ -81,7 +79,7 @@ public class PageResponsibilities {
                 LinkedList<Utils.KeyValuePair<String, String>> nvCustom = new LinkedList<>();
 
                 // custom stuff
-                if (e.getKey().equals("%page.responsibilities.forum.bug-reports%")) {
+                if (e.getKey().equals("%page.responsibilities.bug-reports%")) {
                     nvCustom.add(new Utils.KeyValuePair<>("%page.responsibilities.custom.bug-reports.modsanddevs%", null));
                 } else if (e.getKey().equals("%page.responsibilities.sm%")) {
                     titleCustom = "Projekte u. Verantwortungsgrad";
