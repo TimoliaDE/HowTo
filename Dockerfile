@@ -1,16 +1,18 @@
-FROM alpine:latest
+FROM core.harbor.timolia.de/library/alpine:3.16.2
 
-RUN apk add --update \
-    ca-certificates \
-    bash \
-    gcc \
-    git \
-    musl-dev \
-    python3 \
-    python3-dev \
-    curl \
-    openrc \
-    nginx
+RUN set -x \
+    && apk --no-cache upgrade \
+    && apk --no-cache add \
+         bash \
+         ca-certificates \
+         curl \
+         gcc \
+         git \
+         musl-dev \
+         nginx \
+         openrc \
+         python3 \
+         python3-dev
 
 RUN curl -s https://bootstrap.pypa.io/get-pip.py | python3 - && \
     echo -en '\nPython version: ' && python3 -V && echo -n 'pip version:    ' &&  pip -V && echo -en '\n'
