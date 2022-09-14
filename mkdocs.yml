@@ -48,8 +48,6 @@ nav:
   - Aufgabenbereiche: 'team/responsibilities.md'
   - Wie werde ich...?: 'team/apply.md'
 
-
-
 theme:
   name: 'material'
   language: 'de'
