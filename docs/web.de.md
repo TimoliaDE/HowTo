@@ -27,6 +27,7 @@ Sollten Fragen auftreten, steht das Timolia-Team zur Verfügung.
 
 # 3 - Forum
 Die Foren-Regeln findest du [hier](/rules/forum/).
+Seit dem 31.08.2022 ist das Forum nicht mehr in Betrieb, bitte benutze stattdessen unseren [Discord Server](https://discord.gg/timolia).
 
 ## Nutzung des Forums
 
