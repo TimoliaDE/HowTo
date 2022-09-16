@@ -26,7 +26,7 @@ If there are any questions, the Timolia team is available.
 
 # 3 - Forums
 You can find the rules of the forums [here](/rules/forum/).
-
+Since 31.08.2022 the forum is no longer in use, please use our [Discord server](https://timolia.de/discord) instead.
 
 ## Use of the forums
 
@@ -38,7 +38,7 @@ Press "Post New Thread" in a sub-forum to write your text.
 
 ### Conversations
 In the upper right corner of the forums, there are two symbols, a speech bubble and a bell.
-Notifications are displayed above the bell and you can use the speech bubble to conduct private conversations.
+Notifications are displayed above the bell, and you can use the speech bubble to conduct private conversations.
 
 Further information can be found in <a href="https://forum.timolia.de/threads/die-neue-website.38/" target="_blank">this</a> post.
 
