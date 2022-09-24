@@ -357,20 +357,13 @@
     "name": "J4mPr0",
     "uuid": "a2101fef-77de-4ce8-8d51-bfeebc0770be",
     "sex": "male",
-    "responsibilities_main": [
-      "Management des Timolia-Teams",
-      "Projektmanagement",
-      "Teamlerauswahl Supporter"
-    ],
-    "responsibilities_secondary": [
-      "Teamlerauswahl Developer"
-    ],
     "rank_history": {
       "initial": "expert",
       "10.05.2019": "supporter",
       "08.11.2019": "supporter_plus",
       "05.07.2020": "moderator",
-      "10.11.2021": "administrator"
+      "10.11.2021": "administrator",
+      "24.09.2022": "expert"
     }
   },
   {
