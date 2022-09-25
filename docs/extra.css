@@ -441,7 +441,7 @@ old ranks
 
 /** fix box-shadopw **/
 @media screen and (min-width: 76.25em) {
-    .md-nav--primary .md-nav__title {
-        box-shadow: none;
+    .md-nav__title {
+        box-shadow: none !important;
     }
 }
