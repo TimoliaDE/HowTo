@@ -439,30 +439,9 @@ old ranks
     text-shadow: 0px 7px 10px #000;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/** fix box-shadopw **/
+@media screen and (min-width: 76.25em) {
+    .md-nav--primary .md-nav__title {
+        box-shadow: none;
+    }
+}
