@@ -2899,7 +2899,10 @@
     "rank_history": {
       "initial": "expert",
       "02.05.2022": "supporter"
-    }
+    },
+    "responsibilities_secondary": [
+      "HowTo"
+    ]
   },
   {
     "name": "Maathias",
