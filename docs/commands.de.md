@@ -23,7 +23,6 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/quickjoin <Spielmodus>`       | Betritt einen Spielmodus per Befehl |
 | `/rank`                         | Zeigt deinen aktuellen Ingame-Rang und wie lange er läuft |
 | `/register <E-Mail>`            | Registriert dich für die Webseite |
-| `/servername`                   | Zeigt dir den Server an, auf dem du dich aktuell befindest (alternativ: TAB) |
 | `/stats [1,3,30,all]`           | Zeigt dir deine Stats in den meisten Modi |
 | `/teamspeak`, `/ts`             | Zeigt die TS-IP, ermöglicht die Verifizierung und lässt dich deine Identität verwalten |
 | `/top`                          | Zeigt dir die Top 10 Spieler der letzten 30 Tage in einem Spielmodus an |

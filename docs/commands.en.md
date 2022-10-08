@@ -23,7 +23,6 @@ You can use these commands globally at any time.
 | `/quickjoin <game mode>`        | Joins a game mode via command |
 | `/rank`                         | Shows your current ingame rank and its duration |
 | `/register <e-mail>`            | Register on our webseite |
-| `/servername`                   | Shows your current server (alternatively: TAB) |
 | `/stats [1,3,30,all]`           | Shows your stats in most of the game modes |
 | `/teamspeak`, `/ts`             | Shows the TeamSpeak-IP and lets you verify and manage your identities |
 | `/top`                          | Shows the top 10 players of the past 30 days in a certain game mode |
