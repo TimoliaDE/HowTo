@@ -417,7 +417,8 @@
       "05.03.2019": "supporter",
       "22.10.2019": "native_mvp",
       "06.01.2020": "supporter",
-      "14.04.2020": "native_mvp"
+      "14.04.2020": "native_mvp",
+      "27.10.2022": "supporter"
     }
   },
   {
@@ -1481,7 +1482,8 @@
       "29.01.2017": "supporter_city",
       "16.07.2017": "native_mvp",
       "08.04.2018": "supporter",
-      "01.11.2018": "native_expert"
+      "01.11.2018": "native_expert",
+      "27.10.2022": "supporter"
     }
   },
   {
@@ -2983,6 +2985,24 @@
     "rank_history": {
       "initial": "mvp",
       "16.08.2022": "builder"
+    }
+  },
+  {
+    "name": "RupertMC",
+    "uuid": "e29a92bc-14c5-4d76-ba11-3190f2ad1df1",
+    "sex": "male",
+    "rank_history": {
+      "initial": "expert",
+      "27.10.2022": "supporter"
+    }
+  },
+  {
+    "name": "Gollumine",
+    "uuid": "aa251f9e-a899-40ea-9143-ee3ef9229187",
+    "sex": "female",
+    "rank_history": {
+      "initial": "expert",
+      "27.10.2022": "supporter"
     }
   }
 ]
