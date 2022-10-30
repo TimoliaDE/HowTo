@@ -412,6 +412,9 @@
     "name": "Pexa",
     "uuid": "a783235f-6ecf-4871-b2fa-ec3d0af9ee0b",
     "sex": "male",
+    "responsibilities_secondary": [
+      "Youtuber-Ränge"
+    ],
     "rank_history": {
       "initial": "spieler",
       "05.03.2019": "supporter",
@@ -2806,12 +2809,13 @@
     }
   },
   {
-    "name": "SupMoritz",
+    "name": "DevMoritz",
     "uuid": "9bc330fa-0e99-4c85-9396-cb63fb82297c",
     "sex": "male",
     "responsibilities_secondary": [
       "Grafikdesign",
-      "Monatssieger"
+      "Monatssieger",
+      "Youtuber-Ränge"
     ],
     "fields": [
       "Web Development"
