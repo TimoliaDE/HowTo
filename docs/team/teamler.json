@@ -635,6 +635,7 @@
     "uuid": "bab90033-0a49-4965-834f-8e5462df7c6f",
     "sex": "male",
     "responsibilities_main": [
+      "JumpWorld Events",
       "JumpWorld Verifizierung",
       "Map-Einsendungen",
       "Teamlerauswahl Supporter"
@@ -1533,6 +1534,7 @@
       "TeamSpeak"
     ],
     "responsibilities_secondary": [
+      "JumpWorld Events",
       "JumpWorld Verifizierung",
       "Map-Einsendungen",
       "Monatssieger"
@@ -2645,6 +2647,7 @@
     "sex": "male",
     "responsibilities_main": [
       "Gewinnspielorganisation",
+      "JumpWorld Events",
       "JumpWorld Verifizierung",
       "Monatssieger"
     ],
@@ -2877,8 +2880,9 @@
       "Teamlerauswahl Builder und Timolia Creative"
     ],
     "responsibilities_secondary": [
-      "Monatssieger",
-      "JumpWorld Verifizierung"
+      "JumpWorld Events",
+      "JumpWorld Verifizierung",
+      "Monatssieger"
     ],
     "rank_history": {
       "initial": "spieler",
@@ -2915,6 +2919,7 @@
       "02.05.2022": "supporter"
     },
     "responsibilities_secondary": [
+      "JumpWorld Events",
       "JumpWorld Verifizierung"
     ]
   },
@@ -2928,6 +2933,7 @@
     },
     "responsibilities_secondary": [
       "HowTo",
+      "JumpWorld Events",
       "JumpWorld Verifizierung"
     ]
   },
