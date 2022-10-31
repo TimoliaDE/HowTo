@@ -631,10 +631,11 @@
     }
   },
   {
-    "name": "HerLegendaryWolf",
+    "name": "_Snxffy_",
     "uuid": "bab90033-0a49-4965-834f-8e5462df7c6f",
     "sex": "male",
-     "responsibilities_main": [
+    "responsibilities_main": [
+      "JumpWorld Verifizierung",
       "Map-Einsendungen",
       "Teamlerauswahl Supporter"
     ],
@@ -965,6 +966,9 @@
     "name": "TrueSpoki",
     "uuid": "d723842a-7dd9-4e09-ad8e-63086178e73e",
     "sex": "male",
+    "responsibilities_main": [
+      "JumpWorld Verifizierung"
+    ],
     "responsibilities_secondary": [
       "Entschuldigungen",
       "UHC"
@@ -1529,6 +1533,7 @@
       "TeamSpeak"
     ],
     "responsibilities_secondary": [
+      "JumpWorld Verifizierung",
       "Map-Einsendungen",
       "Monatssieger"
     ],
@@ -2639,8 +2644,9 @@
     "uuid": "036e5dee-05ba-409c-905c-314ac6cbc95b",
     "sex": "male",
     "responsibilities_main": [
-      "Monatssieger",
-      "Gewinnspielorganisation"
+      "Gewinnspielorganisation",
+      "JumpWorld Verifizierung",
+      "Monatssieger"
     ],
     "responsibilities_secondary": [
       "Social Media"
@@ -2803,6 +2809,9 @@
     "fields": [
       "Plugin Development"
     ],
+    "responsibilities_secondary": [
+      "JumpWorld Verifizierung"
+    ],
     "rank_history": {
       "initial": "mvp",
       "08.10.2021": "developer"
@@ -2868,7 +2877,8 @@
       "Teamlerauswahl Builder und Timolia Creative"
     ],
     "responsibilities_secondary": [
-      "Monatssieger"
+      "Monatssieger",
+      "JumpWorld Verifizierung"
     ],
     "rank_history": {
       "initial": "spieler",
@@ -2903,7 +2913,10 @@
     "rank_history": {
       "initial": "expert",
       "02.05.2022": "supporter"
-    }
+    },
+    "responsibilities_secondary": [
+      "JumpWorld Verifizierung"
+    ]
   },
   {
     "name": "HonigTee",
@@ -2914,7 +2927,8 @@
       "02.05.2022": "supporter"
     },
     "responsibilities_secondary": [
-      "HowTo"
+      "HowTo",
+      "JumpWorld Verifizierung"
     ]
   },
   {
