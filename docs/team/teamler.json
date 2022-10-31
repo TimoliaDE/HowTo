@@ -2851,6 +2851,7 @@
       "Social Media"
     ],
     "responsibilities_secondary": [
+      "JumpWorld Verifizierung",
       "Map-Einsendungen"
     ],
     "rank_history": {
@@ -3037,6 +3038,9 @@
     "name": "Gollumine",
     "uuid": "aa251f9e-a899-40ea-9143-ee3ef9229187",
     "sex": "female",
+    "responsibilities_secondary": [
+      "JumpWorld Verifizierung"
+    ],
     "rank_history": {
       "initial": "expert",
       "27.10.2022": "supporter"
