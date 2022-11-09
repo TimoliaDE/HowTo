@@ -2680,7 +2680,8 @@
       "initial": "expert",
       "22.02.2021": "supporter",
       "03.10.2021": "supporter_plus",
-      "05.07.2022": "native_expert"
+      "05.07.2022": "native_expert",
+      "07.11.2022": "supporter_plus"
     }
   },
   {
@@ -2730,7 +2731,8 @@
     "rank_history": {
       "initial": "mvp",
       "20.04.2021": "supporter",
-      "13.06.2022": "native_expert"
+      "13.06.2022": "native_expert",
+      "07.11.2022": "supporter_plus"
     }
   },
   {
@@ -2805,7 +2807,8 @@
     ],
     "rank_history": {
       "initial": "expert",
-      "13.09.2021": "developer"
+      "13.09.2021": "developer",
+      "07.11.2022": "developer_plus"
     }
   },
   {
