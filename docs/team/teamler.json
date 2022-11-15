@@ -288,6 +288,7 @@
     "sex": "female",
     "responsibilities_main": [
       "Grafikdesign",
+      "Teamlerauswahl Supporter",
       "Social Media",
       "UHC"
     ],
@@ -631,10 +632,12 @@
     }
   },
   {
-    "name": "HerLegendaryWolf",
+    "name": "_Snxffy_",
     "uuid": "bab90033-0a49-4965-834f-8e5462df7c6f",
     "sex": "male",
-     "responsibilities_main": [
+    "responsibilities_main": [
+      "JumpWorld Events",
+      "JumpWorld Verifizierung",
       "Map-Einsendungen",
       "Teamlerauswahl Supporter"
     ],
@@ -965,6 +968,9 @@
     "name": "TrueSpoki",
     "uuid": "d723842a-7dd9-4e09-ad8e-63086178e73e",
     "sex": "male",
+    "responsibilities_main": [
+      "JumpWorld Verifizierung"
+    ],
     "responsibilities_secondary": [
       "Entschuldigungen",
       "UHC"
@@ -1526,9 +1532,12 @@
     "responsibilities_main": [
       "Bug Reports",
       "Timolia HowTo",
+      "Teamlerauswahl Supporter",
       "TeamSpeak"
     ],
     "responsibilities_secondary": [
+      "JumpWorld Events",
+      "JumpWorld Verifizierung",
       "Map-Einsendungen",
       "Monatssieger"
     ],
@@ -2639,8 +2648,10 @@
     "uuid": "036e5dee-05ba-409c-905c-314ac6cbc95b",
     "sex": "male",
     "responsibilities_main": [
-      "Monatssieger",
-      "Gewinnspielorganisation"
+      "Gewinnspielorganisation",
+      "JumpWorld Events",
+      "JumpWorld Verifizierung",
+      "Monatssieger"
     ],
     "responsibilities_secondary": [
       "Social Media"
@@ -2786,6 +2797,7 @@
       "Bug Reports"
     ],
     "responsibilities_secondary": [
+      "Teamlerauswahl Developer",
       "UHC"
     ],
     "fields": [
@@ -2806,6 +2818,9 @@
     "fields": [
       "Plugin Development"
     ],
+    "responsibilities_secondary": [
+      "JumpWorld Verifizierung"
+    ],
     "rank_history": {
       "initial": "mvp",
       "08.10.2021": "developer"
@@ -2815,7 +2830,12 @@
     "name": "DevMoritz",
     "uuid": "9bc330fa-0e99-4c85-9396-cb63fb82297c",
     "sex": "male",
+    "responsibilities_main": [
+      "JumpWorld Events",
+      "JumpWorld Verifizierung"
+    ],
     "responsibilities_secondary": [
+      "Gewinnspielorganisation",
       "Grafikdesign",
       "Monatssieger",
       "Youtuber-Ränge"
@@ -2835,6 +2855,10 @@
     "sex": "male",
     "responsibilities_main": [
       "Social Media"
+    ],
+    "responsibilities_secondary": [
+      "JumpWorld Verifizierung",
+      "Map-Einsendungen"
     ],
     "rank_history": {
       "initial": "expert",
@@ -2866,6 +2890,8 @@
       "Teamlerauswahl Builder und Timolia Creative"
     ],
     "responsibilities_secondary": [
+      "JumpWorld Events",
+      "JumpWorld Verifizierung",
       "Monatssieger"
     ],
     "rank_history": {
@@ -2901,7 +2927,11 @@
     "rank_history": {
       "initial": "expert",
       "02.05.2022": "supporter"
-    }
+    },
+    "responsibilities_secondary": [
+      "JumpWorld Events",
+      "JumpWorld Verifizierung"
+    ]
   },
   {
     "name": "HonigTee",
@@ -2912,7 +2942,9 @@
       "02.05.2022": "supporter"
     },
     "responsibilities_secondary": [
-      "HowTo"
+      "HowTo",
+      "JumpWorld Events",
+      "JumpWorld Verifizierung"
     ]
   },
   {
@@ -2924,7 +2956,7 @@
       "22.05.2022": "creator"
     },
     "responsibilities_main": [
-      "Video Creation"
+      "Social Media"
     ]
   },
   {
@@ -3003,12 +3035,21 @@
     "rank_history": {
       "initial": "expert",
       "27.10.2022": "creator"
-    }
+    },
+    "responsibilities_main": [
+      "Social Media"
+    ],
+    "responsibilities_secondary": [
+      "Map-Einsendungen"
+    ]
   },
   {
     "name": "Gollumine",
     "uuid": "aa251f9e-a899-40ea-9143-ee3ef9229187",
     "sex": "female",
+    "responsibilities_secondary": [
+      "JumpWorld Verifizierung"
+    ],
     "rank_history": {
       "initial": "expert",
       "27.10.2022": "supporter"
