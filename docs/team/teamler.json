@@ -3056,5 +3056,14 @@
       "initial": "expert",
       "27.10.2022": "supporter"
     }
+  },
+  {
+    "name": "Zeichenfolge",
+    "uuid": "854f03b9-c528-4af8-94fd-783cbfbdb9e9",
+    "sex": "male",
+    "rank_history": {
+      "initial": "user",
+      "20.11.2022": "developer"
+    }
   }
 ]
