@@ -1263,13 +1263,11 @@
     "name": "Handis",
     "uuid": "f74092f8-acb6-4c0d-8742-77813e151b7f",
     "sex": "male",
-    "fields": [
-      "Plugin Development"
-    ],
     "rank_history": {
       "initial": "supporter_games",
       "04.01.2017": "native_mvp",
-      "08.09.2019": "developer"
+      "08.09.2019": "developer",
+      "29.10.2022": "native_mvp"
     }
   },
   {
