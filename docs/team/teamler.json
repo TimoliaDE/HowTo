@@ -1509,20 +1509,12 @@
     "name": "RodspamExpertRU",
     "uuid": "0e23e989-7cfb-40f3-ad63-8a76c68bdd7d",
     "sex": "male",
-    "responsibilities_main": [
-      "Entschuldigungen",
-      "Teamlerauswahl Supporter",
-      "Timolia Turnier Organisation",
-      "Youtuber-Ränge"
-    ],
-    "responsibilities_secondary": [
-      "Social Media"
-    ],
     "rank_history": {
       "initial": "expert",
       "02.12.2018": "supporter",
       "08.11.2019": "supporter_plus",
-      "05.07.2020": "moderator"
+      "05.07.2020": "moderator",
+      "02.12.2022": "native_expert"
     }
   },
   {
@@ -3016,7 +3008,8 @@
     "sex": "male",
     "rank_history": {
       "initial": "spieler",
-      "11.08.2022": "builder"
+      "11.08.2022": "builder",
+      "04.12.2022": "native_mvp"
     }
   },
   {
