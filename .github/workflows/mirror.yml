@@ -16,5 +16,5 @@ jobs:
         GITLAB_HOSTNAME: "gitlab.timolia.de"
         GITLAB_USERNAME: "github-mirror"
         GITLAB_PASSWORD: ${{ secrets.CI_GITLAB_IMPERSONATION_TOKEN }}
-        GITLAB_PROJECT_ID: "130"
+        GITLAB_PROJECT_ID: "https://gitlab.com/web/howto/edit"
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
