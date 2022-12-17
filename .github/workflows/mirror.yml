@@ -15,6 +15,6 @@ jobs:
         FORCE_PUSH: "false"
         GITLAB_HOSTNAME: "gitlab.timolia.com"
         GITLAB_USERNAME: "github-mirror"
-        GITLAB_PASSWORD: ${{ secrets.GITLAB_PASSWORD }}
+        GITLAB_PASSWORD: ${{ secrets.GITLAB_ACCESS_KEY }}
         GITLAB_PROJECT_ID: "130"
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
