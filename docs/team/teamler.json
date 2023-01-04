@@ -414,6 +414,7 @@
     "uuid": "a783235f-6ecf-4871-b2fa-ec3d0af9ee0b",
     "sex": "male",
     "responsibilities_secondary": [
+      "Timolia Turnier Organisation",
       "Youtuber-Ränge"
     ],
     "rank_history": {
@@ -2676,6 +2677,9 @@
     "name": "AbstaubExpertDE",
     "uuid": "f56499d5-d48f-4390-9e0e-58dc834e29fa",
     "sex": "male",
+    "responsibilities_main": [
+      "Timolia Turnier Organisation"
+    ],
     "rank_history": {
       "initial": "expert",
       "22.02.2021": "supporter",
@@ -2728,6 +2732,9 @@
     "name": "Michelplays",
     "uuid": "8898cc60-bb99-427a-b1c3-a53057315d36",
     "sex": "male",
+    "responsibilities_secondary": [
+      "Timolia Turnier Organisation"
+    ],
     "rank_history": {
       "initial": "mvp",
       "20.04.2021": "supporter",
@@ -2750,7 +2757,8 @@
     "uuid": "14a13257-f1a3-4802-bd1e-73f077f0143a",
     "sex": "male",
     "responsibilities_secondary": [
-      "Map-Einsendungen"
+      "Map-Einsendungen",
+      "Timolia Turnier Organisation"
     ],
     "rank_history": {
       "initial": "expert",
@@ -2869,10 +2877,12 @@
     "name": "Luuuu",
     "uuid": "1a1e7c94-1281-4d7b-930f-be3bd8266949",
     "sex": "male",
-    "responsibilities_secondary": [
+    "responsibilities_main": [
       "Entschuldigungen",
+      "Timolia Turnier Organisation"
+    ],
+    "responsibilities_secondary": [
       "Zu Unrecht gebannt",
-      "Timolia Turnier Organisation",
       "Social Media",
       "UHC"
     ],
