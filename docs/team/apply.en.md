@@ -23,11 +23,6 @@ In addition to that, there is the possibility to send an unsolicited application
 email to <a href="mailto:supporter@timolia.de">supporter@timolia.de</a>. We try to complete the application process as soon as possible. However, please note that this process may take more than a month.
 Please also note that you must be at least 14 years old to submit a unsolicited application and join the Timolia team.
 
-It is also possible for players who want to focus primarily on the UHC mode to apply for the Supporter rank.
-For this purpose, a normal supporter application is sufficient, in which, in addition to a short introduction of yourself, 
-your previous experience in the UHC mode, whether as a player or team member of other networks, is addressed. 
-We encourage all UHC players to apply in this way!
-
 Since the <b>Supporter+</b> rank represents a promotion for very experienced supporters, applications for this rank are not possible.
 
 
