@@ -5,12 +5,6 @@ Um die Sicherheit deines Accounts zu schützen, bieten wir eine Zwei-Faktor-Auth
 Dieser Code ändert sich alle 30 Sekunden.
 
 # 2 - Registrierung
-Für das Forum kannst du dich in wenigen Schritten ingame registrieren.
-
-- Per `/register <E-Mail>` kannst du deine E-Mail-Adresse mit deinem Account verbinden
-- In deinem Postfach befindet sich innerhalb von ein paar Minuten eine E-Mail von Timolia, diese kann ab und an auch im Spam-Ordner landen
-- Über den Link in der E-Mail kannst du ein Passwort für deinen Account setzen, danach kannst du die Webseite und das Forum benutzen
-- Solltest du gebannt sein, kannst du dich auf den Minecraft-Server `register.timolia.de` verbinden und dort die Registrierung durchführen
 
 ### 2fa einrichten
 
@@ -45,15 +39,11 @@ Weitere Informationen findest du in <a href="https://forum.timolia.de/threads/di
 ### Entbannungsanträge
 Ab einer Bannzeit von zwei Tagen kannst du mit einer Entschuldigung deine Bannzeit um bis zu 1/2 verkürzen, bei einem permanenten Bann wird deine 
 Bannzeit auf 30 Tage hinabgesetzt. Solltest du eine Bannzeit von insgesamt über 46 Tagen haben, musst du erst warten, bis deine Banntage auf 46 Tage oder weniger verjährt sind. Bitte beachte weiterhin, dass du dich nur entschuldigen kannst, wenn du dich in den letzten 6 Monaten weder bereits 3x entschuldigt hast, noch bereits ein Bann in diesem Zeitraum aufgehoben wurde.
-Eine Entschuldigung kannst du im Forum unter "[Entschuldigungen](https://forum.timolia.de/forums/entschuldigungen.49/)" schreiben.
-Solltest du keinen Account für unser Forum haben, kannst du dich auf dem Minecraft-Server `register.timolia.de` für dieses registrieren.
+Diese kannst du in einem Support Ticket auf unserem [Discord](https://timolia.de/discord) schreiben.
+Solltest du noch nicht auf unserem Discord Server verifiziert sein, kannst du dich auf dem Minecraft-Server `register.timolia.de`  registrieren.
 Alternativ kannst du uns <a href="https://twitter.com/messages/compose?recipient_id=385909409" target="_blank">hier</a> auf Twitter eine DM mit deiner Entschuldigung zukommen lassen.
 
 Da sich Spieler verändern, ihre Fehler einsehen und sich bessern können, gibt es die sogenannte <strong>Bannverjährung</strong>. Diese sorgt dafür, dass die vermerkten Tage nicht dauerhaft bleiben, sondern sich Stück für Stück abbauen. Sinkt durch die Bannverjährung die Summe der Banntage auf 30 oder weniger, kann man wieder auf Timolia spielen.
 Die Bannverjährung tritt <strong>6 Monate</strong> nach dem Zeitpunkt des Banns ein. Ab dann werden jeden Monat <strong>3 Banntage</strong> von dem entsprechenden Bann abgezogen.
 Wurde man also für 30 Tage gebannt, sind nach 7 Monaten noch 27 Tage vermerkt, nach 8 Monaten noch 24 Tage und nach 16 Monaten ist der Bann komplett verjährt.
 
-[**Hier** kannst du dich entschuldigen](https://forum.timolia.de/forums/entschuldigungen.49/) und [**hier** meldest du dich, wenn du zu unrecht gebannt wurdest](https://forum.timolia.de/forums/zu-unrecht-gebannt.122/).
-
-Erklärungen, wie du eine [Entschuldigung](https://forum.timolia.de/threads/einen-entbannungsantrag-schreiben.21927/#post-77036) oder
-einen [Entbannungsantrag](https://forum.timolia.de/threads/einen-entbannungsantrag-schreiben.21927/#post-77037) schreiben kannst, findest du in unserem Forum.
