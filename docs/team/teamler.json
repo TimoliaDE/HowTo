@@ -1543,17 +1543,11 @@
     "name": "leStark",
     "uuid": "0f60d23f-7105-4199-bfe9-099cee27977f",
     "sex": "male",
-    "responsibilities_main": [
-      "Entschuldigungen",
-      "Youtuber-Ränge"
-    ],
-    "responsibilities_secondary": [
-      "Zu Unrecht gebannt"
-    ],
     "rank_history": {
       "initial": "spieler",
       "21.09.2020": "supporter",
-      "07.02.2021": "supporter_plus"
+      "07.02.2021": "supporter_plus",
+      "07.01.2023": "native_mvp"
     }
   },
   {
