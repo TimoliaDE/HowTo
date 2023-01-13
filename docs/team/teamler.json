@@ -2735,12 +2735,10 @@
     "name": "HicXD",
     "uuid": "14a13257-f1a3-4802-bd1e-73f077f0143a",
     "sex": "male",
-    "responsibilities_secondary": [
-      "Map-Einsendungen"
-    ],
     "rank_history": {
       "initial": "expert",
-      "14.05.2021": "supporter"
+      "14.05.2021": "supporter",
+      "12.01.2023": "native_mvp"
     }
   },
   {
