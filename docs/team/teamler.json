@@ -1548,7 +1548,7 @@
       "initial": "spieler",
       "21.09.2020": "supporter",
       "07.02.2021": "supporter_plus",
-      "07.01.2023": "native_mvp"
+      "07.01.2023": "native_expert"
     }
   },
   {
@@ -2788,8 +2788,7 @@
       "Timolia HowTo"
     ],
     "responsibilities_secondary": [
-      "Teamlerauswahl Developer",
-      "UHC"
+      "Teamlerauswahl Developer"
     ],
     "fields": [
       "Systemadministration",
