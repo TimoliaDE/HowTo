@@ -1,9 +1,11 @@
 # HowTo
-Dieses Projekt beinhaltet das HowTo Timolias.
-Die Live-Seite ist es erreichbar unter [https://howto.timolia.de/](https://howto.timolia.de/) (Wird automatisch aktualisiert bei einem Push auf master).
-Die Dev-Seite mit dem jeweils letzten Commit ist es erreichbar unter [https://dev.howto.timolia.de/](https://dev.howto.timolia.de/). (Dies gilt nur für alle Branche in diesem Projekt, es gibt aktuell keine Möglichkeit für andere Contributor ihre Texte zu testen)
+Dieses Projekt beinhaltet das HowTo von Timolia.
 
-Die englische Live-Version des HowTos ist erreichbar unter [https://howto-en.timolia.de/](https://howto-en.timolia.de/).
+Die Live-Seite ist es erreichbar unter [https://howto.timolia.de/](https://howto.timolia.de/) (Wird automatisch aktualisiert bei einem Push auf master).<br>
+Die Dev-Seite mit dem jeweils letzten Commit ist es erreichbar unter [https://dev.howto.timolia.de/](https://dev.howto.timolia.de/)<br>
+(Dies gilt nur für alle Branche in diesem Projekt, es gibt aktuell keine Möglichkeit für andere Contributor ihre Texte zu "testen").
+
+Die englische Live-Version des HowTos ist erreichbar unter [https://howto-en.timolia.de/](https://howto-en.timolia.de/).<br>
 Die Dev-Version unter [https://dev.howto-en.timolia.de/](https://dev.howto-en.timolia.de/).
 
 ## Contributing
