@@ -1987,7 +1987,8 @@
       "initial": "spieler",
       "26.02.2017": "builder",
       "25.03.2018": "native_mvp",
-      "08.08.2020": "builder"
+      "08.08.2020": "builder",
+      "22.03.2021": "native_mvp"
     }
   },
   {
@@ -2978,7 +2979,8 @@
     "sex": "male",
     "rank_history": {
       "initial": "spieler",
-      "06.06.2022": "builder"
+      "06.06.2022": "builder",
+      "05.09.2022": "spieler"
     }
   },
   {
