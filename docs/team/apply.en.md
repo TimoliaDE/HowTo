@@ -38,14 +38,7 @@ The <b>HeadBuilders</b> form the management of the builder team on Timolia. Sinc
 
 ### Creator
 
-You can apply as a Creator by e-mail to <a href="mailto:creator@timolia.de">creator@timolia.de</a>. It is important to you send us your in-game name, a short personal description, 
-an overview of your previous work/experiences as well as examples to your work. Depending on the creative area you want to apply for, you will need the 
-following knowledge: Basic knowledge of image design and image editing, if you want to work in the field of visual arts or design; 
-basic knowledge in video production, editing and other post-production for the main focus of (YouTube) video production; 
-creativity; language skills; knowledge of the design and the creative structure of Timolia.
-Please note that you must be at least 14 years old to apply as a Creator.
-
-Applications for this field are currently not possible!
+Creator are responsible for image design and image editing, the visual arts or design, video production, editing and other post-production for the main focus of (YouTube) video production. Applications for this field are currently not possible! Nevertheless if you are interested in supporting us at this, get in touch with us using the support.
 
 
 ### Premium ranks
