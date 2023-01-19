@@ -68,12 +68,9 @@ Die <b>Heads of Building</b> bilden die Bauteamleitung Timolias. Da es sich um T
 
 
 ### Creation
-Als Creator:in kannst du dich per E-Mail an <a href="mailto:creator@timolia.de">creator@timolia.de</a> bewerben. Wichtig dabei ist, dass du uns deinen
-Ingamenamen, eine kurze persönliche Beschreibung, einen Überblick über deine bisherigen Arbeiten/Erfahrungen ebenso wie Beispiele
-deiner Arbeiten zukommen lässt. Je nachdem, für welchen kreativen Bereich du dich bewerben willst, benötigst du folgende Kenntnisse: Grundkenntnisse in Bildgestaltung
-und Bildbearbeitung, wenn du im bildnerischen bzw. gestalterischen Bereich tätig sein willst; Grundkenntnisse in Videoproduktion, Schnitt und sonstiger
-Postproduktion für den Schwerpunkt der (YouTube)Videoproduktion; Kreativität; sprachliche Fähigkeiten; Kenntnis über Design und kreativen Aufbau Timolias.
-Bitte beachte, dass du mindestens 14 Jahre alt sein musst, um dich bei uns als Creator:in zu bewerben.
+Creator sind bei uns für Bildgestaltung und Bildbearbeitung, den bildnerischen bzw. gestalterischen Bereich, Videoproduktion, Schnitt und sonstige
+Postproduktion für den Schwerpunkt der (YouTube)Videoproduktion zuständig.
+Für diesen Rang kann man sich nicht bewerben. Solltest du dennoch Interesse haben, uns hierbei zu unterstützen, kannst du dich gerne im Support melden.
 
 
 ### Premium-Ränge
