@@ -1,8 +1,7 @@
 site_name: Timolia HowTo
-site_author: thomasgneist, Tedget, Karolux, Alina, Lennart
+site_author: Timolia
 site_description: All important and unimportant information about Timolia can be found here
 copyright: tixia UG (haftungsbeschränkt)
-# google_analytics: ['UA-55594495-7', 'howto.timolia.de']
 site_url: '%SITE_URL%'
 
 nav:
