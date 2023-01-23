@@ -1,0 +1,58 @@
+site_name: Timolia HowTo
+site_author: thomasgneist, Tedget, Karolux, Alina, Lennart
+site_description: All important and unimportant information about Timolia can be found here
+copyright: tixia UG (haftungsbeschränkt)
+# google_analytics: ['UA-55594495-7', 'howto.timolia.de']
+site_url: '%SITE_URL%'
+
+nav:
+- About: 'index.md'
+- General:
+  - Frequently Asked Questions: 'faq.md'
+  - All Commands: 'commands.md'
+  - Reports and unbans: 'bans.md'
+  - Website and forum: 'web.md'
+  - TeamSpeak: 'teamspeak.md'
+  - Community-Discord: 'discord.md'
+  - Two-Factor Authentication: '2fa.md'
+- Rules:
+  - Games: 'rules/games.md'
+  - Allowed modifications: 'rules/approvedmods.md'
+  - Forum: 'rules/forum.md'
+  - TeamSpeak: 'rules/teamspeak.md'
+  - Discord: 'rules/discord.md'
+- Games Network:
+  - 1vs1: 'games/1vs1.md'
+  - 4rena: 'games/4rena.md'
+  - Arcade: 'games/arcade.md'
+  - BrainBow: 'games/brainbow.md'
+  - Castles: 'games/castles.md'
+#  - Conquer: 'games/conquer.md'
+  - DNA: 'games/dna.md'
+  - InTime: 'games/intime.md'
+  - JumpWorld: 'games/jumpworld.md'
+  - Mineception: 'games/mineception.md'
+  - SecretGames: 'games/secretgames.md'
+  - Splun: 'games/splun.md'
+  - SurvivalQuest: 'games/survivalquest.md'
+  - Suspicious: 'games/suspicious.md'
+  - Timolianische Spiele: 'games/tspiele.md'
+  - UHC: 'games/uhc.md'
+- Ranks on Timolia:
+  - Premium-Ranks: 'ranks/premium.md'
+  - YouTuber and VIP: 'ranks/youtube.md'
+- Timolia-Team:
+  - All Teammembers: 'team/members.md'
+  - Changes: 'team/changes.md'
+  - Responsibilities: 'team/responsibilities.md'
+  - How to apply: 'team/apply.md'
+
+theme:
+  name: 'material'
+  language: 'en'
+  logo: 'img/logo.png'
+  palette:
+    primary: 'blue grey'
+    accent: 'blue grey'
+
+extra_css: [extra.css]
