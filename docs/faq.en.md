@@ -7,15 +7,13 @@ You can join Timolia using the server address `play.timolia.de`. Enjoy your time
 Yes, we do have a TeamSpeak server!
 You can join it using the server address `ts.timolia.de`. There you do not only have support channels
 for quick support but also public areas where you can meet new friends!
-On our server, we offer temporary channels for rent (2.500 Pixel per month). 
 All further information is provided [in our TeamSpeak explanation](/teamspeak/).
 
 ### Do you have a Discord server?
 Yes, we do have a Discord server!
 You can join it via [https://timolia.de/discord](https://timolia.de/discord). 
 Here you can hang out with your friends and the community. Moreover, you can also seek support, report bugs,
-participate in giveaways and much more. We also offer temporary channels for rent (1.000 Pixel per month).
-All further information is provided [in our Discord explanation](/discord/).
+participate in giveaways and much more. All further information is provided [in our Discord explanation](/discord/).
 
 ### Hasn't there once been a Citybuild?
 It all started on May 7th, 2010 when Tim founded Timolias City build. 
@@ -91,15 +89,15 @@ without waiting forever. Each player receives an individual "kick value" when jo
 in-game rank. The higher the rank, the higher the "kick value". A player with a higher kick value kicks the player 
 with the lowest kick value if a server is full.
 
-| Rank | Kick value |
-| ------ | -------- |
-| User | 0 |
-| <span class='pro'>Pro</span> | 300 |
-| <span class='pro'>Pro+</span> | 400 |
-| <span class='mvp'>MVP</span> | 500 |
-| <span class='mvp'>MVP+</span> | 600 |
-| <span class='expert'>Expert</span> | 800 |
-| <span class='youtuber'>Youtuber</span> | 900 |
+| Rank                                   | Kick value  |
+|----------------------------------------|-------------|
+| User                                   | 0           |
+| <span class='pro'>Pro</span>           | 300         |
+| <span class='pro'>Pro+</span>          | 400         |
+| <span class='mvp'>MVP</span>           | 500         |
+| <span class='mvp'>MVP+</span>          | 600         |
+| <span class='expert'>Expert</span>     | 800         |
+| <span class='youtuber'>Youtuber</span> | 900         |
 
 When e.g. an Expert joins a full server, a random player with the lowest KV is sent back to 
 one of the game lobbies. Their kick value automatically increases by 1. Thus, the next time it is more likely that 
@@ -108,17 +106,17 @@ is assigned their standard kick value again.
 
 ### Where can I appeal?
 If you have been banned for at least 10 days, your ban can be shortened by up to 1/3 of your ban time, if your excuse is well 
-written. You can post your appeal on our [forums](https://forum.timolia.de/forums/entschuldigungen.49), alternatively 
+written. You can post your appeal on our [Discord](https://timolia.e/discord), alternatively 
 you can also send us a DM <a href="https://twitter.com/messages/compose?recipient_id=385909409" target="_blank">here</a> 
 on Twitter. Caution! If you have been banned twice for hacking or have more than 46 ban days, you first have to wait 
 until your ban days have expired to 46 days or less. Furthermore, you can only apologize if you have not already 
 apologized 3 times in the last 6 months, nor if a ban has already been lifted in that time period. 
-You can register for our forums via the Minecraft server `register.timolia.de` if you have not already done so. 
+You can verify for our discord via the Minecraft server `register.timolia.de` if you have not already done so. 
 You can read more about appeals [here](/bans/).
 
 ### What are achievements?
 Achievements can be collected while playing on Timolia. 
-You can find an overview of all achievements with the command `/ achievements`.
+You can find an overview of all achievements with the command `/achievements`.
 
 ### From where do I get the Timolia Optifine cape?
 - URL: [https://www.needcoolshoes.com/banner?=paeyeseqpwphec](https://www.needcoolshoes.com/banner?=paeyeseqpwphec)
@@ -129,8 +127,6 @@ You can find an overview of all achievements with the command `/ achievements`.
 ### From where do I get the Timolia 5zig/LabyMod capes?
 - LabyMod: [https://imgur.com/a/cc5Ou](https://imgur.com/a/cc5Ou) und [https://imgur.com/a/08ghXiI](https://imgur.com/a/08ghXiI)
 - 5zig: [https://imgur.com/a/RXBwvGo](https://imgur.com/a/RXBwvGo)
-
-
 
 # 2 - Games
 
@@ -144,8 +140,8 @@ In each lobby of the game modes, you will find an exact explanation in your inve
 respective game. Of course, you can also read everything here in our HowTo.
 
 ### Where can I submit maps?
-You can submit your maps on our forums in the category "Map Submissions". All maps are examined by 
-team members, especially by our builder team. You can read more about this [here](https://forum.timolia.de/threads/wie-sende-ich-eine-map-ein.21267/).
+You can submit your maps on our discord channel [#ideas](https://discord.com/channels/407554118887014402/1047084675627221092). All maps are examined by 
+team members, especially by our builder team.
 
 ### May I use maps from Timolia?
 We do not offer any maps that you can find on our network as a download, as it is not welcomed to distribute our 
