@@ -1,7 +1,7 @@
 # 1 - Allgemeines
 
 ### Wie lautet die IP doch gleich?
-Mit der Minecraft-Serveradresse `play.timolia.de` erreichst du alle Server Timolias. Wir wünschen Dir viel Spaß auf unserem Netzwerk!
+Mit der Serveradresse `play.timolia.de` erreichst du unseren Minecraft Server. Wir wünschen dir viel Spaß auf unserem Netzwerk!
 
 ### Gibt es auch einen TeamSpeak-Server?
 Mit der TeamSpeak-Serveradresse `ts.timolia.de` gelangst du auf unseren TeamSpeak-Server. Dort gibt es nicht nur Hilfechannel für schnellen Support, auch öffentliche Zonen erwarten dich.
@@ -10,8 +10,7 @@ Auf unserem Server bieten wir zeitlich begrenzte Channel zum Mieten an, die Kost
 
 ### Gibt es auch einen Discord-Server?
 Über [https://timolia.de/discord](https://timolia.de/discord) kannst du auf unseren Discord-Server joinen. Hier kannst du dich mit anderen Usern austauschen, Support erhalten oder an Gewinnspielen teilnehmen.
-Auf unserem Server bieten wir zeitlich begrenzte Chatchannel zum Mieten an, die Kosten betragen monatlich 1.000 Pixel. Alle weiteren Informationen findest du 
-[in unserer Discord-Erklärung](/discord/).
+Alle weiteren Informationen findest du [in unserer Discord-Erklärung](/discord/).
 
 ### Wo ist der Citybuild hin?
 Mit dem CityBuild begann alles. Am 07.05.2011 gründete Tim den CityBuild Timolias.  
@@ -46,7 +45,7 @@ zwischen dem Bauteam und der allgemeinen Projektorganisation.
 
 - <b><span class='builder-plus'>Builder+</span></b>:
 Builder+ übernehmen zusätzliche organisatorische Verantwortung durch ihre hohe Erfahrung sowohl im Level Design als auch im Team.
-So leiten sie beispielsweise Projekte oder sind Ansprechpartner für neue Builder.
+So leiten diese beispielsweise Projekte oder sind Ansprechpartner für neue Builder.
 
 - <b><span class='builder'>Builder</span></b>:
 Das Bauteam kreiert neue Maps und Lobbys für alle Gelegenheiten und Spielmodi auf Timolia. 
@@ -63,7 +62,7 @@ Spieler mit einem unserer permanenten Premium-Ränge erhalten gewisse Vorteile. 
 
 **Alles rund um Bewerbungen [ist hier zu finden](/team/apply/).** Solltest du Probleme mit deinem  Premium-Rang haben, findest du [hier Hilfe](/ranks/premium/).
 
-### Wer supportet mich, wenn ich fragen habe?
+### Wer supportet mich, wenn ich Fragen habe?
 Wenn du ingame oder im [Teamspeak](/teamspeak/) Fragen hast, steht dir unser großes [Supportteam](/team/members/#supporter) stets zur Verfügung. Wir freuen uns immer, wenn jemand auf uns zukommt und können dir hoffentlich bei Problemen oder Anmerkungen weiterhelfen.
 Auf der Social Media Plattform [Twitter](https://twitter.com/TimoliaTeam) supportet rund um die Uhr das [Social Media Team](/team/responsibilities/#social-media).
 Gerne supporten wir dich auch auf unserem [Discord](https://timolia.de/discord). Dort kannst du uns jederzeit im Channel `#support` dein Anliegen mitteilen.
@@ -72,25 +71,25 @@ Gerne supporten wir dich auch auf unserem [Discord](https://timolia.de/discord).
 Wir besitzen ein recht komplexes und einzigartiges Kicksystem, um sowohl Premium- als auch normalen Spielern ein tolles Spielerlebnis ohne ewige Wartezeiten zu ermöglichen. 
 Jeder Spieler erhält beim Joinen des Netzwerkes eine individuelle "Kick-Value", basierend auf dem Ingame-Rang. Umso höher der Rang, desto höher die "Kick-Value". Ein Spieler mit einer höheren "Kick-Value" kickt den Spieler mit der niedrigsten "Kick-Value", sollte ein Server voll sein.
 
-| Rang | Kick-Value |
-| ------ | -------- |
-| User | 0 |
-| <span class='pro'>Pro</span> | 300 |
-| <span class='pro'>Pro+</span> | 400 |
-| <span class='mvp'>MVP</span> | 500 |
-| <span class='mvp'>MVP+</span> | 600 |
-| <span class='expert'>Expert</span> | 800 |
-| <span class='youtuber'>Youtuber</span> | 900 |
+| Rang                                     | Kick-Value |
+|------------------------------------------|------------|
+| User                                     | 0          |
+| <span class='pro'>Pro</span>             | 300        |
+| <span class='pro'>Pro+</span>            | 400        |
+| <span class='mvp'>MVP</span>             | 500        |
+| <span class='mvp'>MVP+</span>            | 600        |
+| <span class='expert'>Expert</span>       | 800        |
+| <span class='youtuber'>Youtuber</span>   | 900        |
 
-Wenn nun z.B. ein Expert einen vollen Server betritt, wird ein zufälliger Spieler mit der niedrigsten KV wieder in eine 
-der Games-Lobbies geschickt. Seine Kick-Value erhöht sich dabei um 1. Beim nächsten Versuch ist es also wahrscheinlicher, dass er nicht gekickt wird, da die anderen Spieler nun eine 
-niedrigere Kick-Value haben. Sobald ein Spiel startet, wird jedem Spieler wieder seine Standard-Kick-Value zugewiesen.
+Wenn nun z.B. eine Person mit dem Expert Rang, einen vollen Server betritt, wird eine zufällige andere Person mit der niedrigsten KV wieder in eine 
+der Games-Lobbies geschickt. Der Kick-Value der Person erhöht sich dabei um 1. Beim nächsten Versuch ist es also wahrscheinlicher, dass die Person nicht gekickt wird, da die anderen Personen jetzt einen 
+niedrigeren Kick-Value haben. Sobald ein Spiel startet, wird jeder Person wieder der Standard Kick-Value zugewiesen.
 
 ### Wo kann ich mich entschuldigen?
 Wenn du für einen Zeitraum von mindestens zehn Tagen gebannt wurdest, kannst du mit einem Entbannungsantrag eine Bannverkürzung von maximal 1/3 deiner Bannzeit bekommen, insofern deine Entschuldigung sehr gut geschrieben ist. 
-Diese kannst du in unserem [Forum](https://forum.timolia.de/forums/entschuldigungen.49) posten, alternativ kannst du uns auch <a href="https://twitter.com/messages/compose?recipient_id=385909409" target="_blank">hier</a>
-auf Twitter eine DM mit deiner Entschuldigung zukommen lassen. Achtung! Solltest du zwei Mal wegen Hacking gebannt worden sein oder eine Bannzeit von insgesamt über 46 Tagen haben, 
-musst du erst warten, bis deine Banntage auf 46 Tage oder weniger verjährt sind. Weiterhin kannst du dich nur entschuldigen, wenn du dich in den letzten 6 Monaten weder bereits 3x entschuldigt hast, noch bereits ein Bann in diesem Zeitraum aufgehoben wurde. Über den Minecraft-Server `register.timolia.de` kannst du dich für unser Forum registrieren, sofern du dies nicht schon getan hast. 
+Diese kannst du in unserem [Discord](https://timolia.e/discord) in einem Support-Channel schreiben, alternativ kannst du uns auch <a href="https://twitter.com/messages/compose?recipient_id=385909409" target="_blank">hier</a>
+auf Twitter eine DM mit deiner Entschuldigung zukommen lassen. Achtung! Solltest du zweimal wegen Hacking gebannt worden sein oder eine Bannzeit von insgesamt über 46 Tagen haben, 
+musst du erst warten, bis deine Banntage auf 46 Tage oder weniger verjährt sind. Weiterhin kannst du dich nur entschuldigen, wenn du dich in den letzten 6 Monaten weder bereits 3x entschuldigt hast, noch bereits ein Bann in diesem Zeitraum aufgehoben wurde. Über den Minecraft-Server `register.timolia.de` kannst du dich auf unserem Discord-Server registrieren, sofern du dies nicht schon getan hast. 
 Mehr über Entbannungsanträge und Entschuldigungen [kannst du hier lesen](/bans/).
 
 ### Was sind Achievements?
@@ -116,8 +115,8 @@ Wer in den Timolianischen Spielen teamt, hat keine Konsequenzen zu befürchten. 
 In jeder Lobby der Modi findest du in deinem Inventar eine genaue Erklärung, die das jeweilige Spielgeschehen erläutert. Natürlich kannst du alles auch hier in unserem HowTo nachlesen.
 
 ### Wo kann ich Maps einsenden?
-In unserem Forum im Themenbereich “Map-Einsendungen” können gebaute Arenen präsentiert werden, welche von allen Teammitgliedern,
-insbesondere von unserem Bauteam, begutachtet werden. Mehr dazu kannst du [hier nachlesen](https://forum.timolia.de/threads/wie-sende-ich-eine-map-ein.21267/).
+In unserem Discord im Foren-Channel [#ideas](https://discord.com/channels/407554118887014402/1047084675627221092) können gebaute Arenen präsentiert werden, welche von allen Teammitgliedern,
+insbesondere von unserem Bauteam, begutachtet werden.
 
 ### Darf ich Arenen von Timolia verwenden?
 Alle Maps, die du auf unserem Netzwerk findest, bieten wir nicht zum Download an, da es nicht gerne gesehen wird, wenn unsere Arenen ohne vorherige Zustimmung verbreitet werden.
