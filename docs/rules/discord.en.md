@@ -35,11 +35,11 @@ Exploiting the functions of the bots and possible bugs is prohibited. The intent
 
 ## §5 - Penalties on the Discord Server
 Depending on the type and severity of the offense, temporary mutes, bans from certain areas of the Discord Server and temporary or in severe cases permanent bans from the entire Discord server are possible. 
-In extreme cases, misbehavior on the Discord can also lead to penalties on other Timolia platforms, such as the Minecraft network, Teamspeak or the forums.
+In extreme cases, misbehavior on the Discord can also lead to penalties on other Timolia platforms, such as the Minecraft network or the TeamSpeak.
 
 ## §6 - Private Messages
 Private messages are outside our server and therefore outside our responsibility and cannot be sanctioned.
 
 <strong>The team reserves the right to sanction certain actions that are not explicitly listed in the rules.</strong>
 
-Last updated: December 28, 2020
+Last updated: January 10, 2023

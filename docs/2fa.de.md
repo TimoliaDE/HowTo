@@ -11,7 +11,7 @@ Beispiel das [Passwort regelmäßig zu ändern](https://www.minecraft.net/de-de/
 in vielen Teilen des Internets die Möglichkeit, eine weitere Sicherheitsmaßnahme zu ergreifen:
 Die **Zwei-Faktor-Authentifizierung**.
 
-Egal ob Twitter oder Discord, das Timolia Forum oder Steam, überall ist es möglich, die zweistufige Authentifizierung einzurichten.
+Egal ob Twitter, Discord oder Steam, überall ist es möglich, die zweistufige Authentifizierung einzurichten.
 Kurz und knapp formuliert **bedeutet 2FA für dich, dass ein Hacker deinen Account nicht auf Timolia nutzen kann, 
 selbst wenn er Zugriff auf dein Passwort hat**.
 
@@ -35,7 +35,6 @@ Wir können in diesem Fall die Zwei-Faktor-Authentifizierung für dich **nicht**
 ## Einrichtung von 2FA
 - Lies dir [Was muss ich beachten?](#was-muss-ich-beachten) sorgfältig durch und stelle sicher, dass du den Absatz verstanden hast. 
   Solltest du Fragen haben, melde dich im [Support](/faq/#wer-supportet-mich-wenn-ich-fragen-habe)!
-- **Registriere dich** für das Forum via `/register` und folge den Anweisungen
 - **Installiere** dir auf deinem Handy eine **Authenticator App**. Wir empfehlen dir für 
   Android **Aegis** ([Android](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)). Alternativ kannst du den 
   **Google Authenticator** ([Andorid](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2) / [iOS](https://itunes.apple.com/de/app/google-authenticator/id388497605)) nutzen. 
@@ -63,7 +62,7 @@ Wir können in diesem Fall die Zwei-Faktor-Authentifizierung für dich **nicht**
 
 
 ## Was du sonst noch tun kannst
-Stelle sicher, dass du für deinen Minecraft Account, das Forum, deinen E-Mail Account, sowie alle anderen Dienste, bei denen
+Stelle sicher, dass du für deinen Minecraft Account, deinen E-Mail Account, sowie alle anderen Dienste, bei denen
 du registriert bist, unterschiedliche Passwörter verwendest. So erhält ein Angreifer nie Zugriff auf alle deine Accounts gleichzeitig
 und du kannst Passwörter sehr einfach ändern.
 

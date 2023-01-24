@@ -15,3 +15,5 @@ Eine Kooperation von Julian und Daniel
 <br />
 "Das sind wirklich sehr süße Katzen!" ~ Karolux
 
+Null ist auch süß! ~ Alina
+

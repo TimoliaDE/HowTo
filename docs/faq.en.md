@@ -108,12 +108,12 @@ is assigned their standard kick value again.
 
 ### Where can I appeal?
 If you have been banned for at least 10 days, your ban can be shortened by up to 1/3 of your ban time, if your excuse is well 
-written. You can post your appeal on our [forums](https://forum.timolia.de/forums/entschuldigungen.49), alternatively 
+written. You can post your appeal in a supportticket on our [Discord](https://timolia.de/discord), alternatively 
 you can also send us a DM <a href="https://twitter.com/messages/compose?recipient_id=385909409" target="_blank">here</a> 
 on Twitter. Caution! If you have been banned twice for hacking or have more than 46 ban days, you first have to wait 
 until your ban days have expired to 46 days or less. Furthermore, you can only apologize if you have not already 
 apologized 3 times in the last 6 months, nor if a ban has already been lifted in that time period. 
-You can register for our forums via the Minecraft server `register.timolia.de` if you have not already done so. 
+You can verify your discord account via the Minecraft server `register.timolia.de` if you have not already done so. 
 You can read more about appeals [here](/bans/).
 
 ### What are achievements?

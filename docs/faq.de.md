@@ -88,9 +88,9 @@ niedrigere Kick-Value haben. Sobald ein Spiel startet, wird jedem Spieler wieder
 
 ### Wo kann ich mich entschuldigen?
 Wenn du für einen Zeitraum von mindestens zehn Tagen gebannt wurdest, kannst du mit einem Entbannungsantrag eine Bannverkürzung von maximal 1/3 deiner Bannzeit bekommen, insofern deine Entschuldigung sehr gut geschrieben ist. 
-Diese kannst du in unserem [Forum](https://forum.timolia.de/forums/entschuldigungen.49) posten, alternativ kannst du uns auch <a href="https://twitter.com/messages/compose?recipient_id=385909409" target="_blank">hier</a>
+Diese kannst du in einem Support Ticket auf unserem [Discord](https://timolia.de/discord) posten, alternativ kannst du uns auch <a href="https://twitter.com/messages/compose?recipient_id=385909409" target="_blank">hier</a>
 auf Twitter eine DM mit deiner Entschuldigung zukommen lassen. Achtung! Solltest du zwei Mal wegen Hacking gebannt worden sein oder eine Bannzeit von insgesamt über 46 Tagen haben, 
-musst du erst warten, bis deine Banntage auf 46 Tage oder weniger verjährt sind. Weiterhin kannst du dich nur entschuldigen, wenn du dich in den letzten 6 Monaten weder bereits 3x entschuldigt hast, noch bereits ein Bann in diesem Zeitraum aufgehoben wurde. Über den Minecraft-Server `register.timolia.de` kannst du dich für unser Forum registrieren, sofern du dies nicht schon getan hast. 
+musst du erst warten, bis deine Banntage auf 46 Tage oder weniger verjährt sind. Weiterhin kannst du dich nur entschuldigen, wenn du dich in den letzten 6 Monaten weder bereits 3x entschuldigt hast, noch bereits ein Bann in diesem Zeitraum aufgehoben wurde. Über den Minecraft-Server `register.timolia.de` kannst du deinen Discord Account verifizieren, sofern du dies nicht schon getan hast. 
 Mehr über Entbannungsanträge und Entschuldigungen [kannst du hier lesen](/bans/).
 
 ### Was sind Achievements?

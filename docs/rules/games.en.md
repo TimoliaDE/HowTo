@@ -20,10 +20,10 @@ We, therefore, advise against using these mods without having asked in advance.
 
 ## §3 – Cheating/Bugusing
 Bugusing is the intentional exploitation of game errors that have consequences that are not foreseen in the game and is of course forbidden.
-Instead, it is desired to report these bugs to the team via TeamSpeak, on the [forums](https://forum.timolia.de/forums/bug-melden.48/) or in-game.
+Instead, it is desired to report these bugs to the team via TeamSpeak, on the [Discord](https://timolia.de/discord) or in-game.
 This prohibition also refers to the exploitation of bugs in otherwise [allowed modifications](/rules/approvedmods/).
 
-## §4 – Behavior in the chat, forums and in-game
+## §4 – Behavior in the chat and in-game
 The Timolia team expects fair and respectful behavior from every player. Both in-game and in TeamSpeak.
 
 ### Paragraph 1 – Insults
@@ -80,7 +80,6 @@ The general Timolia rules also apply to created worlds in JumpWorld. Thus, any k
 ## §9 – 4rena
 - <u>Teaming</u>: Teams are forbidden in 4rena FFA. In 4rena 2v2 crossteaming is forbidden.
   If a team is warned by a supporter and continues to crossteam, all team members will be kicked or banned.
-  If a team is reported on the forums, it will be banned immediately.
 
 ## §10 – Timolianische Spiele
 The unnecessary delay of the game is not desired. This explicitly includes actions like building a house, animal farming and hunting the ender dragon. Teams of any size are allowed.
@@ -116,12 +115,12 @@ In UHC there are several rules that are displayed at the beginning of each round
 
 ## §16 – Unbans, ban shortening and bypassing the ban
 - <u>Permanent bans</u>: In general all bans are temporary. However, if you exceed a ban time of 30 days in total, you will automatically be banned permanently.
-- <u>Unbans</u>: If a player has the opinion that a ban is not justified, he can demand proof at any time on the forums under the category "[Falsely banned](https://forum.timolia.de/forums/zu-unrecht-gebannt.122/)" or in TeamSpeak. 
-  If you are permanently banned, you can make a request for an unban on the forums. Here you should make a special effort because it is very difficult to be unbanned after a permanent ban.
-- <u>Ban shortening</u>: From a period of at least 10 days each user has the right to make a request on the forums for ban shortening.
+- <u>Unbans</u>: If a player has the opinion that a ban is not justified, he can demand proof at any time by creating a supportticket on our [Discord](https://timolia.de/discord) or in TeamSpeak. 
+  If you are permanently banned, you can make a request for an unban on our [Discord](https://timolia.de/discord). Here you should make a special effort because it is very difficult to be unbanned after a permanent ban.
+- <u>Ban shortening</u>: From a period of at least 10 days each user has the right to make a request on our [Discord](https://timolia.de/discord) for ban shortening.
   If you exceed 46 ban days, you must wait until your ban days have expired to 46 days or less.
   Please also note that you can only write an appeal in case you have not apologized 3 times during the past 6 months, nor have you already been unbanned in that time period.
-  If you don't have an account on our forums, you can register for it on the Minecraft server `register.timolia.de`. 
+  If you don't have an verified Discord account, you can verify for it on the Minecraft server `register.timolia.de`. 
   Alternatively you can send us a DM <a href="https://twitter.com/messages/compose?recipient_id=385909409" target="_blank">here</a> on Twitter with your apology.
 - Bypassing bans with a second account is prohibited on timolia. 
   The account, the person using the account and the address used at that time are considered banned. 
@@ -132,9 +131,9 @@ In UHC there are several rules that are displayed at the beginning of each round
 
 ## §17 – Refund for technical errors
 - Should pixels or points be reset due to technical errors (server crashes, etc.), the team's usual behavior is not to refund them.
-- Should you notice any violations of the rules, it is desired to always report them with proof on the [forums](https://forum.timolia.de), in-game to a team member or on TeamSpeak in the support channel.
+- Should you notice any violations of the rules, it is desired to always report them with proof on our [Discord](https://timolia.de/discord), in-game to a team member or on TeamSpeak in the support channel.
 
 
 <strong>The team reserves the right to sanction certain actions (also outside the Minecraft and TeamSpeak server) that are not explicitly listed in the rules.</strong>
 
-Last updated: May 06, 2021
+Last updated: January 10, 2023
