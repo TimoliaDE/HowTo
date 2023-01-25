@@ -180,9 +180,9 @@
     "uuid": "94fa217d-6e68-4b87-86ff-6156765c4a17",
     "sex": "male",
     "responsibilities_main": [
-      "Zu Unrecht gebannt",
       "Teamlerauswahl Supporter",
-      "Timolia Turnier Organisation"
+      "Timolia Turnier Organisation",
+      "Zu Unrecht gebannt"
     ],
     "responsibilities_secondary": [
       "Community-Discord"
@@ -2862,12 +2862,13 @@
     "sex": "male",
     "responsibilities_main": [
       "Entschuldigungen",
-      "Timolia Turnier Organisation"
+      "Timolia Turnier Organisation",
+      "Zu Unrecht gebannt"
     ],
     "responsibilities_secondary": [
-      "Zu Unrecht gebannt",
       "Social Media",
-      "UHC"
+      "UHC",
+      "Youtuber-Ränge"
     ],
     "rank_history": {
       "initial": "expert",
