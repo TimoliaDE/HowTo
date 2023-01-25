@@ -54,7 +54,36 @@ Ebenso ist es verboten, Spielern durch gefälschte Reports einen Regelverstoß a
 Das Boosten seiner Stats in den verschiedenen Spielmodi durch die Anwendung unfairer Spielmethoden ist auf Timolia nicht erlaubt. Hierunter zählen auch, aber nicht nur, Kits, die einem gegenüber dem Gegner einen erhebliche Vorteil durch gleiche oder ähnliche Items bieten.
 
 ## §7 – 1v1
-### Abs. 1 – Kits
+###Abs. 1 - Ranked-System 
+Entschuldigungen und Gewichtung:
+
+Jeder Spieler hat jederzeit die Möglichkeit, sich bei einem Verstoß gegen die Ranked Regeln zu entschuldigen. In dieser Entschuldigung muss der Spieler auf seinen Bann eingehen und dementsprechende Reue zeigen.
+Sollte ein Spieler mehrfach negativ auffallen erhöhen sich die Strafen, bspw:
+Verwarnung -> 5 Tage Ranked Bann -> 10 Tage Ranked Bann -> 20 Tage Ranked Bann -> Season Ranked Bann
+
+Regeln:
+
+- <u> VPN</u>: (bei Verstoß Ranked Bann aus aktueller Season + Elo Reset)
+Das Spielen auf einer VPN oder anderweitiges Verschleiern der eigenen IP ist verboten.
+
+- <u> Accountsharing</u>: (bei Verstoß Ranked Bann aus aktueller Season + Elo Reset)
+Das Spielen in der Ranked Queue ist nur auf eigenen Accounts erstattet. 
+
+- <u> Multiaccounting</u>: (bei Verstoß Ranked Bann aus aktueller Season + Elo Reset)
+Das Spielen mit mehreren Accounts ist verboten.
+
+- <u> Elo Manipulation</u>: (bei Verstoß 5 Tage Ranked Bann + Match Invalidierung)
+Das Manipulieren von Elo wie z.B. vorsätliches Verlieren, das Bitten um Surrender o.Ä. ist verboten.
+
+- <u> Camping & Kiting</u>: (bei Verstoß Verwarnung + Match Invalidierung)
+Das Campen wie z.B. hochbauen in der Ecke ist verboten.
+Das Vollheilen oder unnötige Herauszögern eines Kampfes durch Rodden, das Setzen von Wassereimern o.Ä. (Kiting), ist verboten.
+
+### Abs. 2 – Ranked-System und Freitagsturnier
+Das Spielen in der Ranked Queue und im Freitagsturnier ist nur auf eigenen Accounts gestattet.
+Insbesondere ist das Teilen von Accounts sowie das Verschleiern der eigenen IP-Adresse (Proxy, VPN, Tor und Ähnliche) verboten.
+
+### Abs. 3 – Kits
 - <u>Crash-Kits</u>: Als Crash-Kits werden 1v1-Kits bezeichnet, welche den Minecraft-Client eines Spielers “einfrieren” lassen, zum Absturz bringen oder verhindern, dass Spieler auf dem Server spielen können. 
 Sämtliche Kits dieser Art sind auf Timolia verboten.
 - <u>Kosmetische Kits</u>:
@@ -62,9 +91,6 @@ Als kosmetische Kits werden 1v1-Kits bezeichnet, welche mit einem modifizierten 
 der Anzahl der Herzen beinhalten, die man nicht mit einem unveränderten Minecraft-Client bewirken kann. Sämtliche Kits dieser Art sind ebenfalls verboten und werden von uns gelöscht. 
 Sollte ein User ein gelöschtes Kit erneut erstellen und benutzen, wird dies mit einem Bann geahndet.
 
-### Abs. 2 – Ranked-System und Freitagsturnier
-Das Spielen in der Ranked Queue und im Freitagsturnier ist nur auf eigenen Accounts gestattet.
-Insbesondere ist das Teilen von Accounts sowie das Verschleiern der eigenen IP-Adresse (Proxy, VPN, Tor und Ähnliche) verboten.
 
 ## §8 – JumpWorld
 Die allgemeinen Timolia-Regeln gelten auch für erstellte Welten in JumpWorld. So sind jegliche Arten von rassistischen, anstößigen oder beleidigenden Bauwerken, Weltnamen oder Formulierungen auf Schildern verboten.
