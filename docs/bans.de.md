@@ -26,7 +26,7 @@ Ein Beweis ist Pflicht. Screenshots geltennur als Beweise bei MSG-Nachrichten, a
 
 ### Entschuldigungen
 Ab einer Bannzeit von zehn Tagen kannst du mit einer Entschuldigung deine Bannzeit um bis zu 1/2 verkürzen, bei einem permanenten Bann wird deine 
-Bannzeit auf 30 Tage hinabgesetzt. Eine Entschuldigung kannst du im [Discord](https://timolia.de/discord) in einem SUpportticket schreiben.
+Bannzeit auf 30 Tage hinabgesetzt. Eine Entschuldigung kannst du im [Discord](https://timolia.de/discord) in einem Supportticket schreiben.
 Solltest du eine Bannzeit von insgesamt über 46 Tagen haben, musst du erst warten, bis deine Banntage auf 46 Tage oder weniger verjährt sind. 
 Bitte beachte weiterhin, dass du dich nur entschuldigen kannst, wenn du dich in den letzten 6 Monaten weder bereits 3x entschuldigt hast, noch bereits ein Bann in diesem Zeitraum aufgehoben wurde.
 Solltest du keinen verifizierten Discord Accounthaben, kannst du dich auf dem Minecraft-Server `register.timolia.de` verifizieren.
