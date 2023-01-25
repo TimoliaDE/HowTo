@@ -55,6 +55,11 @@ Das Boosten seiner Stats in den verschiedenen Spielmodi durch die Anwendung unfa
 
 ## §7 – 1v1
 ###Abs. 1 - Ranked-System 
+Entschuldigungen und Gewichtung:
+
+Jeder Spieler hat jederzeit die Möglichkeit, sich bei einem Verstoß gegen die Ranked Regeln zu entschuldigen. In dieser Entschuldigung muss der Spieler auf seinen Bann eingehen und dementsprechende Reue zeigen.
+Sollte ein Spieler mehrfach negativ auffallen erhöhen sich die Strafen, bspw:
+Verwarnung -> 5 Tage Ranked Bann -> 10 Tage Ranked Bann -> 20 Tage Ranked Bann -> Season Ranked Bann
 
 Regeln:
 
@@ -73,11 +78,6 @@ Das Manipulieren von Elo wie z.B. vorsätliches Verlieren, das Bitten um Surrend
 - <u> Camping & Kiting</u>: (bei Verstoß Verwarnung + Match Invalidierung)
 Das Campen wie z.B. hochbauen in der Ecke ist verboten.
 Das Vollheilen oder unnötige Herauszögern eines Kampfes durch Rodden, das Setzen von Wassereimern o.Ä. (Kiting), ist verboten.
-
-- <u> Entschuldigungen & Gewichtung</u>:
-Jeder Spieler hat jederzeit die Möglichkeit, sich bei einem Verstoß gegen die Ranked Regeln zu entschuldigen. In dieser Entschuldigung muss der Spieler auf seinen Bann eingehen und dementsprechende Reue zeigen.
-Sollte ein Spieler mehrfach negativ auffallen erhöhen sich die Strafen, bspw:
-Verwarnung -> 5 Tage Ranked Bann -> 10 Tage Ranked Bann -> 20 Tage Ranked Bann -> Season Ranked Bann
 
 ### Abs. 2 – Ranked-System und Freitagsturnier
 Das Spielen in der Ranked Queue und im Freitagsturnier ist nur auf eigenen Accounts gestattet.
