@@ -47,10 +47,10 @@ Um Tagessieger zu werden:
 Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium/) nachlesen.
 
 ## WorldEdit Befehle
-Welche Befehle für dich freigeschaltet sind, kannst du [hier](/jumpworld.timolia.de/commands/worldedit) nachlesen.
+Welche Befehle für dich freigeschaltet sind, kannst du [hier](https://jumpworld.timolia.de/commands/worldedit) nachlesen.
 
 ## JumpWorld-Browser
-Zu dem Jumpwold-Browser kannst du [hier](/https://jumpworld.timolia.de/home) finden. Dort gibt es auch regelmäßige Events!
+Zu dem Jumpwold-Browser kannst du [hier](https://jumpworld.timolia.de/home) finden. Dort gibt es auch regelmäßige Events!
 
 ## Befehle
 | Befehl | Funktion |
