@@ -62,17 +62,34 @@ of the number of hearts that cannot be done with an unmodified Minecraft client.
 Should a user recreate and use a deleted kit, this will be punished with a ban.
 
 ## §7 – 1v1
-### Paragraph 1 – Kits
+###Paragraph 1 - ranked system
+Apologies and weighting:
+
+Every player has the opportunity to apologize for a violation of the ranked rules at any time. In this apology, the player must address their ban and show appropriate remorse. If a player repeatedly stands out negatively, the penalties will increase, e.g.: Warning -> 5 days ranked ban -> 10 days ranked ban -> 20 days ranked ban -> season ranked ban
+
+Rules:
+
+- <u>VPN</u>: (violation results in ranked ban from current season + elo reset) Playing on a VPN or disguising your IP otherwise is prohibited.
+
+- <u>Accountsharing</u>: (violation results in ranked ban from current season + elo reset) Playing in the ranked queue is only permitted on your own account.
+
+- <u>Multiaccounting</u>: (violation results in ranked ban from current season + elo reset) Playing with multiple accounts is prohibited.
+
+- <u>Elo manipulation</u>: (violation results in 5 days ranked ban + match invalidation) Manipulating elo, such as intentionally losing, asking for surrender, etc. is prohibited.
+
+- <u>Camping & kiting</u>: (violation results in warning + match invalidation) Camping, such as towering in a corner, is prohibited. Healing full or unnecessarily delaying a fight by running, placing water buckets, etc. (kiting), is prohibited.
+
+### Paragraph 2 – Ranked System and Friday Tournament
+Playing in the Ranked Queue and in the Friday Tournament is only allowed on your own accounts.
+In particular, sharing accounts and disguising your own IP address (proxy, VPN, Tor and similar) is prohibited.
+
+### Paragraph 3 – Kits
 - <u>Crash kits</u>: Crash kits are 1v1 kits which "freeze" a player's Minecraft client, crash it or prevent players from playing on the server.
   All kits of this kind are prohibited on Timolia.
 - <u>Cosmetic kits</u>:
   Cosmetic kits are 1v1 kits created with a modified Minecraft client, which includes changes to effect properties, item properties and the modification
   of the number of hearts that cannot be done with an unmodified Minecraft client. All kits of this type are also prohibited and will be deleted.
   Should a user recreate and use a deleted kit, this will be punished with a ban.
-
-### Paragraph 2 – Ranked System and Friday Tournament
-Playing in the Ranked Queue and in the Friday Tournament is only allowed on your own accounts.
-In particular, sharing accounts and disguising your own IP address (proxy, VPN, Tor and similar) is prohibited.__
 
 ## §8 – JumpWorld
 The general Timolia rules also apply to created worlds in JumpWorld. Thus, any kind of racist, offensive or insulting buildings, world names or phrases on signs are prohibited.
@@ -136,4 +153,4 @@ In UHC there are several rules that are displayed at the beginning of each round
 
 <strong>The team reserves the right to sanction certain actions (also outside the Minecraft and TeamSpeak server) that are not explicitly listed in the rules.</strong>
 
-Last updated: January 10, 2023
+Last updated: February 1st, 2023
