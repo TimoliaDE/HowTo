@@ -1,30 +1,7 @@
-types:
-  - build
-  - deploy
+include:
+  - project: 'timolia/pipeline-template'
+    ref:     'prod/v1'
+    file:    '.global/imagebuild/$CI_PROJECT_PATH.yml'
 
-# Live
-livebuild:
-  type: build
-  script: "bash /home/builds/build-remote-Howto.sh live $CI_BUILD_REF_NAME $CI_PIPELINE_ID"
-  only:
-    - master@timolia/howto
-  tags:
-      - live
-  environment: live
-  artifacts:
-      name: "howto:${CI_BUILD_REF_NAME}"
-livedeploy:
-  type: deploy
-  script: "bash /home/builds/updateHowto.sh live $CI_BUILD_REF_NAME $CI_PIPELINE_ID"
-  only:
-    - master@timolia/howto
-  when: manual
-  tags:
-      - live
-  environment: live
-# Dev
-devbuild:
-  type: build
-  script: "echo 'Dev-Build succeeded'"
-  except:
-    - master@timolia/howto
+variables:
+  RELEASE_VERSION:   '1.0.1'
