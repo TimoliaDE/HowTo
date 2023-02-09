@@ -111,7 +111,7 @@ you can also send us a DM <a href="https://twitter.com/messages/compose?recipien
 on Twitter. Caution! If you have been banned twice for hacking or have more than 46 ban days, you first have to wait 
 until your ban days have expired to 46 days or less. Furthermore, you can only apologize if you have not already 
 apologized 3 times in the last 6 months, nor if a ban has already been lifted in that time period. 
-You can verify for our discord via the Minecraft server `register.timolia.de` if you have not already done so. 
+You can verify your discord account via the Minecraft server `register.timolia.de` if you have not already done so. 
 You can read more about appeals [here](/bans/).
 
 ### What are achievements?

@@ -20,10 +20,10 @@ ggf. zu einem Bann führen. Wir raten daher davon ab, diese Mods ungefragt zu ve
 
 ## §3 – Cheating/Bugusing
 Bugusing ist das bewusste Ausnutzen von Spielfehlern, welche im Spiel nicht vorgesehene Folgen haben, und ist selbstverständlich verboten.
-Stattdessen ist es erwünscht, diese Bugs dem Team über den TeamSpeak, im [Forum](https://forum.timolia.de/forums/bug-melden.48/) oder ingame zu melden.
+Stattdessen ist es erwünscht, diese Bugs dem Team über den TeamSpeak, im [Discord](https://timolia.de/discord) oder ingame zu melden.
 Dieses Verbot bezieht sich auch auf das Ausnutzen von Bugs in grundsätzlich [erlaubten Modifikationen](/rules/approvedmods/).
 
-## §4 – Chat-, Forum- und Ingame-Verhalten
+## §4 – Chat- und Ingame-Verhalten
 Das Timolia-Team erwartet von jedem Spieler ein faires und respektvolles Verhalten. Sowohl ingame, als auch im TeamSpeak.
 
 ### Abs. 1 – Beleidigungen
@@ -54,7 +54,36 @@ Ebenso ist es verboten, Spielern durch gefälschte Reports einen Regelverstoß a
 Das Boosten seiner Stats in den verschiedenen Spielmodi durch die Anwendung unfairer Spielmethoden ist auf Timolia nicht erlaubt. Hierunter zählen auch, aber nicht nur, Kits, die einem gegenüber dem Gegner einen erhebliche Vorteil durch gleiche oder ähnliche Items bieten.
 
 ## §7 – 1v1
-### Abs. 1 – Kits
+###Abs. 1 - Ranked-System 
+Entschuldigungen und Gewichtung:
+
+Jeder Spieler hat jederzeit die Möglichkeit, sich bei einem Verstoß gegen die Ranked Regeln zu entschuldigen. In dieser Entschuldigung muss der Spieler auf seinen Bann eingehen und dementsprechende Reue zeigen.
+Sollte ein Spieler mehrfach negativ auffallen erhöhen sich die Strafen, bspw:
+Verwarnung -> 5 Tage Ranked Bann -> 10 Tage Ranked Bann -> 20 Tage Ranked Bann -> Season Ranked Bann
+
+Regeln:
+
+- <u> VPN</u>: (bei Verstoß Ranked Bann aus aktueller Season + Elo Reset)
+Das Spielen auf einer VPN oder anderweitiges Verschleiern der eigenen IP ist verboten.
+
+- <u> Accountsharing</u>: (bei Verstoß Ranked Bann aus aktueller Season + Elo Reset)
+Das Spielen in der Ranked Queue ist nur auf eigenen Accounts erstattet. 
+
+- <u> Multiaccounting</u>: (bei Verstoß Ranked Bann aus aktueller Season + Elo Reset)
+Das Spielen mit mehreren Accounts ist verboten.
+
+- <u> Elo Manipulation</u>: (bei Verstoß 5 Tage Ranked Bann + Match Invalidierung)
+Das Manipulieren von Elo wie z.B. vorsätliches Verlieren, das Bitten um Surrender o.Ä. ist verboten.
+
+- <u> Camping & Kiting</u>: (bei Verstoß Verwarnung + Match Invalidierung)
+Das Campen wie z.B. hochbauen in der Ecke ist verboten.
+Das Vollheilen oder unnötige Herauszögern eines Kampfes durch Rodden, das Setzen von Wassereimern o.Ä. (Kiting), ist verboten.
+
+### Abs. 2 – Ranked-System und Freitagsturnier
+Das Spielen in der Ranked Queue und im Freitagsturnier ist nur auf eigenen Accounts gestattet.
+Insbesondere ist das Teilen von Accounts sowie das Verschleiern der eigenen IP-Adresse (Proxy, VPN, Tor und Ähnliche) verboten.
+
+### Abs. 3 – Kits
 - <u>Crash-Kits</u>: Als Crash-Kits werden 1v1-Kits bezeichnet, welche den Minecraft-Client eines Spielers “einfrieren” lassen, zum Absturz bringen oder verhindern, dass Spieler auf dem Server spielen können. 
 Sämtliche Kits dieser Art sind auf Timolia verboten.
 - <u>Kosmetische Kits</u>:
@@ -62,9 +91,6 @@ Als kosmetische Kits werden 1v1-Kits bezeichnet, welche mit einem modifizierten 
 der Anzahl der Herzen beinhalten, die man nicht mit einem unveränderten Minecraft-Client bewirken kann. Sämtliche Kits dieser Art sind ebenfalls verboten und werden von uns gelöscht. 
 Sollte ein User ein gelöschtes Kit erneut erstellen und benutzen, wird dies mit einem Bann geahndet.
 
-### Abs. 2 – Ranked-System und Freitagsturnier
-Das Spielen in der Ranked Queue und im Freitagsturnier ist nur auf eigenen Accounts gestattet.
-Insbesondere ist das Teilen von Accounts sowie das Verschleiern der eigenen IP-Adresse (Proxy, VPN, Tor und Ähnliche) verboten.
 
 ## §8 – JumpWorld
 Die allgemeinen Timolia-Regeln gelten auch für erstellte Welten in JumpWorld. So sind jegliche Arten von rassistischen, anstößigen oder beleidigenden Bauwerken, Weltnamen oder Formulierungen auf Schildern verboten.
@@ -72,7 +98,6 @@ Die allgemeinen Timolia-Regeln gelten auch für erstellte Welten in JumpWorld. S
 ## §9 – 4rena
 - <u>Teaming</u>: Teams sind in 4rena FFA verboten. In 4rena 2v2 ist Crossteaming verboten. 
   Wenn ein Team durch einen Supporter verwarnt wird und weiterhin teamt, werden sämtliche Teammitglieder gekickt oder gebannt. 
-  Sollte ein Team im Forum reportet werden, so wird dieses direkt gebannt.
 
 ## §10 – Timolianische Spiele
 Das unnötige Herauszögern des Spiels ist nicht erwünscht. Dazu zählen explizit Handlungen wie: Hausbau, Tierfarmen und die Jagd nach dem Enderdrachen. Teams sind in beliebiger Größe erlaubt.
@@ -110,12 +135,12 @@ In UHC gibt es verschiedene Regeln, die zu Beginn jeder Runde angezeigt werden. 
 
 ## §16 – Entbannung, Bannverkürzung und Bannumgehung
 - <u>Permanente Banns</u>: Grundsätzlich sind alle Banns temporär. Sollte man aber eine Bannzeit von insgesamt 30 Tagen überschreiten, wird ein Spieler automatisch permanent gebannt.
-- <u>Entbannung</u>: Ist ein Spieler der Meinung, ein Bann sei nicht gerechtfertigt, so kann er jederzeit im Forum unter der Kategorie "[Zu Unrecht gebannt](https://forum.timolia.de/forums/zu-unrecht-gebannt.122/)" oder im TeamSpeak den Beweis fordern. Wenn man permanent gebannt ist, 
-  kann man im Forum einen Antrag auf eine Entbannung stellen. Hierbei sollte man sich besonders viel Mühe geben, da es sehr schwer ist, nach einem permanenten Bann wieder entbannt zu werden.
-- <u>Bannverkürzung</u>: Ab einem Zeitraum von mindestens 10 Tagen hat jeder User das Recht, im Forum einen Antrag auf Bannverkürzung zu stellen. 
+- <u>Entbannung</u>: Ist ein Spieler der Meinung, ein Bann sei nicht gerechtfertigt, so kann er jederzeit im [Discord](https://timolia.de/discord) ein Supportticket erstellen oder im TeamSpeak den Beweis anfordern. Wenn man permanent gebannt ist, 
+  kann man im [Discord](https://timolia.de/discord) einen Antrag auf eine Entbannung stellen. Hierbei sollte man sich besonders viel Mühe geben, da es sehr schwer ist, nach einem permanenten Bann wieder entbannt zu werden.
+- <u>Bannverkürzung</u>: Ab einem Zeitraum von mindestens 10 Tagen hat jeder User das Recht, im [Discord](https://timolia.de/discord) einen Antrag auf Bannverkürzung zu stellen. 
   Solltest du eine Bannzeit von insgesamt über 46 Tagen haben, musst du erst warten, bis deine Banntage auf 46 Tage oder weniger verjährt sind. 
   Bitte beachte weiterhin, dass du dich nur entschuldigen kannst, wenn du dich in den letzten 6 Monaten weder bereits 3x entschuldigt hast, noch bereits ein Bann in diesem Zeitraum aufgehoben wurde.
-  Solltest du keinen Account für unser Forum haben, kannst du dich auf dem Minecraft-Server `register.timolia.de` für dieses registrieren. 
+  Solltest dein Discord Account noch nicht verifiziert sein, kannst du dich auf dem Minecraft-Server `register.timolia.de` für dieses verifizieren. 
   Alternativ kannst du uns <a href="https://twitter.com/messages/compose?recipient_id=385909409" target="_blank">hier</a> auf Twitter eine DM mit deiner Entschuldigung zukommen lassen.
 - <u>Bannumgehung</u>: Das Umgehen von Banns mit einem Zweitaccount ist auf Timolia verboten. 
   Als "gebannt" werden der Account, die Person, welche den Account nutzt, und die zu diesem Zeitpunkt verwendete Adresse angesehen. 
@@ -127,9 +152,9 @@ In UHC gibt es verschiedene Regeln, die zu Beginn jeder Runde angezeigt werden. 
 
 ## §17 – Rückerstattung bei technischen Fehlern
 - Sollten durch technische Fehler (Serverabstürze etc.) Pixel oder Punkte zurückgesetzt werden, sieht das übliche Verhalten des Teams vor, diese nicht zu erstatten.
-- Solltest du Verstöße gegen die Regeln bemerken, so ist es erwünscht, diese immer mit Beweis im [Forum](https://forum.timolia.de), ingame einem Teammitglied oder auf dem TeamSpeak im Hilfechannel zu melden.
+- Solltest du Verstöße gegen die Regeln bemerken, so ist es erwünscht, diese immer mit Beweis im [Discord](https://timolia.de/discord), ingame einem Teammitglied oder auf dem TeamSpeak im Hilfechannel zu melden.
 
 
 <strong>Das Team behält sich das Recht vor, bestimmtes Handeln (auch außerhalb des Minecraft- und TeamSpeakservers) zu sanktionieren, welches nicht explizit in den Regeln aufgelistet ist.</strong>
 
-Letzte Aktualisierung: 06. Mai 2021
+Letzte Aktualisierung: 10. Januar 2023

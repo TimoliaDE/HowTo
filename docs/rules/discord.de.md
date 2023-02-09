@@ -30,11 +30,11 @@ Des Weiteren ist es verboten, sich durch den User-/Nicknamen oder Textnachrichte
 Das Ausnutzen der Funktionen der Bots sowie möglicher Bugs ist verboten. Ebenso sind das vorsätzliche Crashen der Bots und die Umgehung von z.B. Spamschutz, Banns und Mutes verboten.
 
 ## §5 - Sanktionen auf dem Discord Server
-Je nach Art und Schwere des Vergehens sind temporäre Mutes, Banns aus bestimmten Bereichen des Discord Servers sowie temporäre oder in schweren Fällen permanente Banns vom gesamten Discord Server möglich. In extremen Fällen kann Fehlverhalten auf dem Discord auch zu Sanktionen auf anderen Plattformen Timolias, wie z.B. dem Minecraft Netzwerk, dem Teamspeak oder dem Forum führen.
+Je nach Art und Schwere des Vergehens sind temporäre Mutes, Banns aus bestimmten Bereichen des Discord Servers sowie temporäre oder in schweren Fällen permanente Banns vom gesamten Discord Server möglich. In extremen Fällen kann Fehlverhalten auf dem Discord auch zu Sanktionen auf anderen Plattformen Timolias, wie z.B. dem Minecraft Netzwerk oder dem Teamspeak führen.
 
 ## §6 - Privatnachrichten
 Privatnachrichten liegen außerhalb unseres Servers und damit unserer Zuständigkeit und können nicht sanktioniert werden.
 
 <strong>Das Team behält sich das Recht vor, bestimmtes Handeln zu sanktionieren, welches nicht explizit in den Regeln aufgelistet ist.</strong>
 
-Letzte Aktualisierung: 03. Oktober 2019
+Letzte Aktualisierung: 10. Januar 2023

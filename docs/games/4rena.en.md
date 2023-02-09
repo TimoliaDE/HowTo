@@ -46,5 +46,4 @@ The remaining ranks remain secret until the corresponding ranks have been reache
 To keep the surprise, only the first few ranks are mentioned by name.
 
 ## Arenas and Maps
-Self-made maps for this game mode can be submitted <a href="https://forum.timolia.de/forums/map-einsendungen.61/" target="_blank">on the forums</a>. 
-You can find out more about this <a href="https://forum.timolia.de/threads/wie-sende-ich-eine-map-ein.21267/" target="_blank">in our instructions</a>.
+Self-made maps for this game mode can be submitted in our [Discord](https://timolia.de/discord).

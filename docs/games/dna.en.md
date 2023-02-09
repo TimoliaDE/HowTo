@@ -52,5 +52,4 @@ Ranks need to be reached by at least one player to be displayed here. Until then
 Detailed infos about our ranks and their benefits are listed [here](/ranks/premium/).
 
 ## Maps 
-If you like DNA and wanna get creative you can show us your own DNA map by creating a new <a href="https://forum.timolia.de/forums/map-einsendungen.61/" target="_blank">post in our forums</a> about it. With a bit of skill and luck we might add your map to the offical map pool! You can get more information about it at  
-<a href="https://forum.timolia.de/threads/wie-sende-ich-eine-map-ein.21267/" target="_blank">our guide</a>.
+If you like DNA and wanna get creative you can show us your own DNA map by creating a new one. Maps can be submitted on our [Discord](https://timolia.de/discord).

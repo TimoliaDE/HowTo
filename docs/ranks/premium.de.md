@@ -12,9 +12,7 @@ Diese Features stehen dir mit deinem Rang zur Verfügung:
 | Rangfarbe                                    |           &check;            |            &check;            |           &check;            |            &check;            |              &check;               |
 | Kostenlose LabyCoins                         |             210              |              450              |             900              |             1800              |                3000                |
 | Volle Server betreten*                       |           &check;            |            &check;            |           &check;            |            &check;            |              &check;               |
-| Zugang zur Premium-Lobby                     |           &check;            |            &check;            |           &check;            |            &check;            |              &check;               |
 | TeamSpeak-Rang                               |           &check;            |            &check;            |           &check;            |            &check;            |              &check;               |
-| Foren-Rang                                   |           &check;            |            &check;            |           &check;            |            &check;            |              &check;               |
 | Discord-Rang                                 |           &check;            |            &check;            |           &check;            |            &check;            |              &check;               |
 | 1vs1: Best of 3                              |           &check;            |            &check;            |           &check;            |            &check;            |              &check;               |
 | Arcade: Turnier erstellen                    |        3 Turnierpässe        |            &check;            |           &check;            |            &check;            |              &check;               |

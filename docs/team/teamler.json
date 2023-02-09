@@ -180,9 +180,9 @@
     "uuid": "94fa217d-6e68-4b87-86ff-6156765c4a17",
     "sex": "male",
     "responsibilities_main": [
-      "Zu Unrecht gebannt",
       "Teamlerauswahl Supporter",
-      "Timolia Turnier Organisation"
+      "Timolia Turnier Organisation",
+      "Zu Unrecht gebannt"
     ],
     "responsibilities_secondary": [
       "Community-Discord"
@@ -2862,12 +2862,13 @@
     "sex": "male",
     "responsibilities_main": [
       "Entschuldigungen",
-      "Timolia Turnier Organisation"
+      "Timolia Turnier Organisation",
+      "Zu Unrecht gebannt"
     ],
     "responsibilities_secondary": [
-      "Zu Unrecht gebannt",
       "Social Media",
-      "UHC"
+      "UHC",
+      "Youtuber-Ränge"
     ],
     "rank_history": {
       "initial": "expert",
@@ -3055,9 +3056,24 @@
     "name": "Zeichenfolge",
     "uuid": "854f03b9-c528-4af8-94fd-783cbfbdb9e9",
     "sex": "male",
+    "fields": [
+      "Backend Development"
+    ],
     "rank_history": {
       "initial": "spieler",
       "20.11.2022": "developer"
+    }
+  },
+  {
+    "name": "NoJokeFNA",
+    "uuid": "609b6216-b1f7-40fe-997b-5f1f975cc712",
+    "sex": "male",
+    "fields": [
+      "Plugin Development"
+    ],
+    "rank_history": {
+      "initial": "spieler",
+      "02.02.2023": "developer"
     }
   }
 ]
