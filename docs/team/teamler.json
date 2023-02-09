@@ -640,10 +640,10 @@
       "JumpWorld Events",
       "JumpWorld Verifizierung",
       "Map-Einsendungen",
-      "Teamlerauswahl Supporter"
+      "Teamlerauswahl Supporter",
+      "Monatssieger"
     ],
     "responsibilities_secondary": [
-      "Monatssieger",
       "Teamlerauswahl Developer",
       "Youtuber-Ränge"
     ],
@@ -2823,12 +2823,12 @@
     "sex": "male",
     "responsibilities_main": [
       "JumpWorld Events",
-      "JumpWorld Verifizierung"
+      "JumpWorld Verifizierung",
+      "Monatssieger"
     ],
     "responsibilities_secondary": [
       "Gewinnspielorganisation",
       "Grafikdesign",
-      "Monatssieger",
       "Youtuber-Ränge"
     ],
     "fields": [
