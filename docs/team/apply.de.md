@@ -67,13 +67,25 @@ Bitte beachte, dass du mindestens 16 Jahre alt sein musst, um in das Timolia Cre
 Die <b>Heads of Building</b> bilden die Bauteamleitung Timolias. Da es sich um Teammitglieder mit langjähriger Erfahrung und sehr guter Kenntnis über Timolias teaminterne Strukturen handelt, ist eine Bewerbung für diesen Rang nicht möglich.
 
 
-### Creation
-Als Creator:in kannst du dich per E-Mail an <a href="mailto:creator@timolia.de">creator@timolia.de</a> bewerben. Wichtig dabei ist, dass du uns deinen
+### Content
+Als Content kannst du dich per E-Mail an <a href="mailto:content@timolia.de">content@timolia.de</a> bewerben. Wichtig dabei ist, dass du uns deinen
 Ingamenamen, eine kurze persönliche Beschreibung, einen Überblick über deine bisherigen Arbeiten/Erfahrungen ebenso wie Beispiele
-deiner Arbeiten zukommen lässt. Je nachdem, für welchen kreativen Bereich du dich bewerben willst, benötigst du folgende Kenntnisse: Grundkenntnisse in Bildgestaltung
-und Bildbearbeitung, wenn du im bildnerischen bzw. gestalterischen Bereich tätig sein willst; Grundkenntnisse in Videoproduktion, Schnitt und sonstiger
-Postproduktion für den Schwerpunkt der (YouTube)Videoproduktion; Kreativität; sprachliche Fähigkeiten; Kenntnis über Design und kreativen Aufbau Timolias.
-Bitte beachte, dass du mindestens 14 Jahre alt sein musst, um dich bei uns als Creator:in zu bewerben.
+deiner Arbeiten zukommen lässt. Je nachdem, für welchen kreativen Bereich du dich bewerben willst, benötigst du folgende Kenntnisse:
+
+### Social Media
+ - Grundkenntnisse in Bildgestaltung und Bildbearbeitung
+ - Grundkenntnisse in Videoproduktion, Schnitt und sonstiger Postproduktion für den Schwerpunkt der (YouTube/TikTok)Videoproduktion;
+ - Kreativität; sprachliche Fähigkeiten;
+ - Kenntnis über Design und kreativen Aufbau Timolias.
+
+### Game Design
+ - Selbstständige Ideenfindung und -umsetzung der Konzepte
+ - Umfangreiche Kenntnisse in den neuen Minecraft Java Edition Versionen
+ - Gute sprach und schriftliche Kenntnisse in der deutschen Sprache
+ - Qualitätssicherung der umgesetzten Ideen & Konzepte
+
+
+Bitte beachte, dass du mindestens 14 Jahre alt sein musst, um dich bei uns als Content zu bewerben.
 
 
 ### Premium-Ränge
