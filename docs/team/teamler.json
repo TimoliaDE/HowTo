@@ -180,7 +180,7 @@
     "uuid": "94fa217d-6e68-4b87-86ff-6156765c4a17",
     "sex": "male",
     "responsibilities_main": [
-      "Teamlerauswahl Supporter",
+      "Teamlerauswahl Support",
       "Timolia Turnier Organisation",
       "Zu Unrecht gebannt"
     ],
@@ -288,7 +288,7 @@
     "sex": "female",
     "responsibilities_main": [
       "Grafikdesign",
-      "Teamlerauswahl Supporter",
+      "Teamlerauswahl Support",
       "Social Media",
       "UHC"
     ],
@@ -640,11 +640,11 @@
       "JumpWorld Events",
       "JumpWorld Verifizierung",
       "Map-Einsendungen",
-      "Teamlerauswahl Supporter",
+      "Teamlerauswahl Support",
       "Monatssieger"
     ],
     "responsibilities_secondary": [
-      "Teamlerauswahl Developer",
+      "Teamlerauswahl Development",
       "Youtuber-Ränge"
     ],
     "rank_history": {
@@ -970,11 +970,11 @@
     "uuid": "d723842a-7dd9-4e09-ad8e-63086178e73e",
     "sex": "male",
     "responsibilities_main": [
-      "JumpWorld Verifizierung"
+      "JumpWorld Verifizierung",
+      "Teamlerauswahl Content"
     ],
     "responsibilities_secondary": [
       "Entschuldigungen",
-      "HowTo",
       "UHC"
     ],
     "rank_history": {
@@ -1523,9 +1523,10 @@
     "uuid": "0ed6aeee-673f-4579-95ff-0ba474efd610",
     "sex": "female",
     "responsibilities_main": [
-      "Timolia HowTo",
-      "Teamlerauswahl Supporter",
-      "TeamSpeak"
+      "Teamlerauswahl Content",
+      "Teamlerauswahl Support",
+      "TeamSpeak",
+      "Timolia HowTo"
     ],
     "responsibilities_secondary": [
       "JumpWorld Events",
@@ -2063,14 +2064,6 @@
     "name": "svdragster",
     "uuid": "525183d9-1a5a-40e1-a712-e3099282c341",
     "sex": "male",
-    "responsibilities_main": [
-      "Bug Reports",
-      "Teamlerauswahl Developer"
-    ],
-    "fields": [
-      "Systemadministration",
-      "Plugin Development"
-    ],
     "rank_history": {
       "initial": "developer",
       "16.05.2018": "administrator",
@@ -2332,7 +2325,7 @@
     "responsibilities_secondary": [
       "Map-Einsendungen",
       "Teamlerauswahl Builder und Timolia Creative",
-      "Teamlerauswahl Developer"
+      "Teamlerauswahl Development"
     ],
     "fields": [
       "Systemadministration",
@@ -2786,10 +2779,11 @@
     "responsibilities_main": [
       "Bug Reports",
       "Community-Discord",
-      "Timolia HowTo"
+      "Timolia HowTo",
+      "Teamlerauswahl Development"
     ],
     "responsibilities_secondary": [
-      "Teamlerauswahl Developer"
+      "Teamlerauswahl Content"
     ],
     "fields": [
       "Systemadministration",
@@ -2950,6 +2944,8 @@
       "22.05.2022": "creator"
     },
     "responsibilities_main": [
+      "Management des Content-Teams",
+      "Teamlerauswahl Content",
       "Social Media"
     ]
   },

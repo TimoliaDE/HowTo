@@ -72,13 +72,13 @@ Als Content kannst du dich per E-Mail an <a href="mailto:content@timolia.de">con
 Ingamenamen, eine kurze persönliche Beschreibung, einen Überblick über deine bisherigen Arbeiten/Erfahrungen ebenso wie Beispiele
 deiner Arbeiten zukommen lässt. Je nachdem, für welchen kreativen Bereich du dich bewerben willst, benötigst du folgende Kenntnisse:
 
-### Social Media
+#### Social Media
  - Grundkenntnisse in Bildgestaltung und Bildbearbeitung
  - Grundkenntnisse in Videoproduktion, Schnitt und sonstiger Postproduktion für den Schwerpunkt der (YouTube/TikTok)Videoproduktion;
  - Kreativität; sprachliche Fähigkeiten;
  - Kenntnis über Design und kreativen Aufbau Timolias.
 
-### Game Design
+#### Game Design
  - Selbstständige Ideenfindung und -umsetzung der Konzepte
  - Umfangreiche Kenntnisse in den neuen Minecraft Java Edition Versionen
  - Gute sprach und schriftliche Kenntnisse in der deutschen Sprache
