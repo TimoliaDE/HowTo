@@ -1,4 +1,4 @@
-Here you can find out more about whether and how you can apply in the area of Management, System-Administrator, Developer, Supporter, HeadBuilder, Builder or Creator.
+Here you can find out more about whether and how you can apply in the area of Administration, Development, Moderation, Support, Building or Content.
 
 ### Management, Moderator and System-Administrator
 These ranks are only given to active team members. External persons cannot apply for these ranks. 
@@ -36,16 +36,30 @@ Please note that you must be at least 16 years old to join the Timolia Creative 
 The <b>HeadBuilders</b> form the management of the builder team on Timolia. Since they are team members with many years of experience and very good knowledge of Timolia's team structures, an application for this rank is not possible.
 
 
-### Creator
+### Cotent
 
 You can apply as a Creator by e-mail to <a href="mailto:creator@timolia.de">creator@timolia.de</a>. It is important to you send us your in-game name, a short personal description, 
 an overview of your previous work/experiences as well as examples to your work. Depending on the creative area you want to apply for, you will need the 
-following knowledge: Basic knowledge of image design and image editing, if you want to work in the field of visual arts or design; 
-basic knowledge in video production, editing and other post-production for the main focus of (YouTube) video production; 
-creativity; language skills; knowledge of the design and the creative structure of Timolia.
-Please note that you must be at least 14 years old to apply as a Creator.
+following knowledge:
 
-Applications for this field are currently not possible!
+Als Content kannst du dich per E-Mail an <a href="mailto:content@timolia.de">content@timolia.de</a> bewerben. Wichtig dabei ist, dass du uns deinen
+Ingamenamen, eine kurze persönliche Beschreibung, einen Überblick über deine bisherigen Arbeiten/Erfahrungen ebenso wie Beispiele
+deiner Arbeiten zukommen lässt. Je nachdem, für welchen kreativen Bereich du dich bewerben willst, benötigst du folgende Kenntnisse:
+
+#### Social Media
+- Basic knowledge of image design and image editing
+- Basic knowledge in video production, editing and other post-production for the main focus of (YouTube/TikTok) video production
+- Knowledge of the design and the creative structure of Timolia
+
+#### Game Design
+- Independent brainstorming and implementation of concepts
+- Extensive knowledge of the new Minecraft Java Edition versions
+- Good verbal and written skills in the German language
+- Quality assurance of the implemented ideas & concepts
+
+
+Please note that you must be at least 14 years old to apply as a Content.
+
 
 
 ### Premium ranks
