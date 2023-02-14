@@ -2035,7 +2035,8 @@
       "13.03.2018": "native_mvp",
       "13.05.2019": "supporter",
       "12.02.2021": "native_expert",
-      "06.06.2021": "creator"
+      "06.06.2021": "creator",
+      "15.02.2023": "content"
     }
   },
   {
@@ -2944,7 +2945,8 @@
     "sex": "male",
     "rank_history": {
       "initial": "mvp",
-      "22.05.2022": "creator"
+      "22.05.2022": "creator",
+      "15.02.2023": "content"
     },
     "responsibilities_main": [
       "Management des Content-Teams",
@@ -2970,7 +2972,8 @@
     "sex": "female",
     "rank_history": {
       "initial": "expert",
-      "13.06.2022": "creator"
+      "13.06.2022": "creator",
+      "15.02.2023": "content"
     }
   },
   {
@@ -3029,7 +3032,8 @@
     "sex": "male",
     "rank_history": {
       "initial": "expert",
-      "27.10.2022": "creator"
+      "27.10.2022": "creator",
+      "15.02.2023": "content"
     },
     "responsibilities_main": [
       "Social Media"
