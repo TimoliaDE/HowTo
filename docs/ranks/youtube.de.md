@@ -1,6 +1,6 @@
 # YouTuber und VIP
 
-Wir als Timolia-Team bieten dir als Creator die Möglichkeit, zwei verschiedene Ränge zu beantragen. Diese bieten dir die Möglichkeit zu exklusiven Premium-Features und darüber hinaus nützliche Ingame-Tools. 
+Wir als Timolia-Team bieten dir als Content Creator die Möglichkeit, zwei verschiedene Ränge zu beantragen. Diese bieten dir die Möglichkeit zu exklusiven Premium-Features und darüber hinaus nützliche Ingame-Tools. 
 
 ## Welche Anforderungen gelten für diese Ränge?
 - Ab einer Abonnentenanzahl von ~2000 auf Youtube kann man auf Timolia den VIP-Rang beantragen. Auch Streamer haben die Möglichkeit ab einer durchschnittlichen Zuschauerzahl von ~30 diesen Rang zu beantragen.

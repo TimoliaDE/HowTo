@@ -19,8 +19,8 @@ public class PageResponsibilities {
             put("%page.responsibilities.project-team-orga%", new LinkedHashMap<>() {{
                 put("%page.responsibilities.teamleader%", "%page.responsibilities.teamleader.desc%");
                 put("%page.responsibilities.project-team-orga.apply.builder%", null);
-                put("%page.responsibilities.project-team-orga.apply.developer%", null);
-                put("%page.responsibilities.project-team-orga.apply.supporter%", "%page.responsibilities.project-team-orga.apply.supporter.desc%");
+                put("%page.responsibilities.project-team-orga.apply.development%", null);
+                put("%page.responsibilities.project-team-orga.apply.support%", "%page.responsibilities.project-team-orga.apply.support.desc%");
                 put("%page.responsibilities.project-team-orga.howto%", "%page.responsibilities.project-team-orga.howto.desc%");
                 put("%page.responsibilities.project-team-orga.tournament%", "%page.responsibilities.project-team-orga.tournament.desc%");
                 put("%page.responsibilities.project-team-orga.uhc%", "%page.responsibilities.project-team-orga.uhc.desc%");
