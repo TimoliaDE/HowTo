@@ -185,6 +185,10 @@ public class LanguageUtil {
             add(new LanguageString(Language.EN, "page.responsibilities.custom.teamleader.whole-team", "Management of the Timolia team"));
             add(new LanguageString(Language.DE, "page.responsibilities.custom.teamleader.builder", "Management des Bau-Teams"));
             add(new LanguageString(Language.EN, "page.responsibilities.custom.teamleader.builder", "Management of the builder team"));
+            add(new LanguageString(Language.DE, "page.responsibilities.custom.teamleader.content", "Management des Content-Teams"));
+            add(new LanguageString(Language.EN, "page.responsibilities.custom.teamleader.content", "Management of the content team"));
+            add(new LanguageString(Language.DE, "page.responsibilities.custom.teamleader.development", "Management des Dev-Teams"));
+            add(new LanguageString(Language.EN, "page.responsibilities.custom.teamleader.development", "Management of the development team"));
             add(new LanguageString(Language.DE, "page.responsibilities.custom.yter.title", "Zuständigkeit"));
             add(new LanguageString(Language.EN, "page.responsibilities.custom.yter.title", "Responsibility"));
             add(new LanguageString(Language.DE, "page.responsibilities.teamler", "Teamler"));
