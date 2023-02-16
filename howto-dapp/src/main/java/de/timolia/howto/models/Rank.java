@@ -6,7 +6,7 @@ public enum Rank {
     administrator_city(  160,  true, "administrator",  "Administrator City",     null),
     builder(              80,  true, "builder",        "Builder",                "Builderin",    "%rank.builder.description%"),
     builder_plus(         85,  true, "builder-plus",   "Builder+",               null,           "%rank.builder_plus.description%"),
-    creator(              70,  true, "creator",        "Creator",                null,           "%rank.creator.description%"),
+    creator(              70,  true, "creator",        "Creator",                null),
     content(              71,  true, "content",        "Content",                null,           "%rank.content.description%"),
     developer(           135,  true, "developer",      "Developer",              null,           "%rank.developer.description%"),
     developer_city(      131,  true, "developer",      "Developer City",         null),
