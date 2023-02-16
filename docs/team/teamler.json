@@ -2844,16 +2844,10 @@
     "name": "Seeraeuber",
     "uuid": "9bac5789-9029-4fe0-8bb4-c75d0f4de4d3",
     "sex": "male",
-    "responsibilities_main": [
-      "Social Media"
-    ],
-    "responsibilities_secondary": [
-      "JumpWorld Verifizierung",
-      "Map-Einsendungen"
-    ],
     "rank_history": {
       "initial": "expert",
-      "22.11.2021": "supporter"
+      "22.11.2021": "supporter",
+      "16.02.2023": "native_expert"
     }
   },
   {
