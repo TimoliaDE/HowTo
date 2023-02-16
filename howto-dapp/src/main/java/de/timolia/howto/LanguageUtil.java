@@ -103,9 +103,9 @@ public class LanguageUtil {
             add(new LanguageString(Language.EN, "page.responsibilities.project-team-orga.apply.content", "Staff selection content"));
             add(new LanguageString(Language.DE, "page.responsibilities.project-team-orga.apply.development", "Teamlerauswahl Development"));
             add(new LanguageString(Language.EN, "page.responsibilities.project-team-orga.apply.development", "Staff selection development"));
-            add(new LanguageString(Language.DE, "page.responsibilities.project-team-orga.apply.support", "Teamlerauswahl Supporter"));
-            add(new LanguageString(Language.EN, "page.responsibilities.project-team-orga.apply.support", "Staff selection supporter"));
-            add(new LanguageString(Language.DE, "page.responsibilities.project-team-orga.apply.support.desc", "Wenn es wieder daran geht, neue Supporter in unsere Reihen zu holen, kümmern sich diese Verantwortlichen darum."));
+            add(new LanguageString(Language.DE, "page.responsibilities.project-team-orga.apply.support", "Teamlerauswahl Support"));
+            add(new LanguageString(Language.EN, "page.responsibilities.project-team-orga.apply.support", "Staff selection support"));
+            add(new LanguageString(Language.DE, "page.responsibilities.project-team-orga.apply.support.desc", "Wenn es wieder daran geht, neue Teammitglieder für den Support in unsere Reihen zu holen, kümmern sich diese Verantwortlichen darum."));
             add(new LanguageString(Language.EN, "page.responsibilities.project-team-orga.apply.support.desc", "When it comes to recruiting new supporters, those team members will take care of it."));
             add(new LanguageString(Language.DE, "page.responsibilities.project-team-orga.howto", "Timolia HowTo"));
             add(new LanguageString(Language.EN, "page.responsibilities.project-team-orga.howto", "Timolia HowTo"));
