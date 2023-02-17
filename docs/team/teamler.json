@@ -2177,6 +2177,9 @@
     "name": "Stracy",
     "uuid": "5996be13-7178-47fd-bdfe-60951ae1407f",
     "sex": "male",
+    "responsibilities_secondary": [
+      "Timolia Turnier Organisation"
+    ],
     "rank_history": {
       "initial": "expert",
       "08.03.2020": "supporter",
@@ -3076,6 +3079,9 @@
     "name": "yEredin",
     "uuid": "3a664305-a8d5-4daa-b092-c53fbe4fca86",
     "sex": "male",
+    "responsibilities_secondary": [
+      "Timolia Turnier Organisation"
+    ],
     "rank_history": {
       "initial": "pro_plus",
       "16.02.2023": "supporter"
@@ -3085,6 +3091,9 @@
     "name": "Niedlichkeit",
     "uuid": "c5f40157-914c-48a8-a5b9-e95892505905",
     "sex": "male",
+    "responsibilities_secondary": [
+      "Timolia Turnier Organisation"
+    ],
     "rank_history": {
       "initial": "expert",
       "16.02.2023": "supporter"
