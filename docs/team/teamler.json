@@ -2328,8 +2328,10 @@
     "name": "12Build",
     "uuid": "6aa9c36c-89be-4b8a-bd24-9401e5085055",
     "sex": "male",
+    "responsibilities_main": [
+      "Management des Development-Teams"
+    ],
     "responsibilities_secondary": [
-      "Management des Development-Teams",
       "Map-Einsendungen",
       "Teamlerauswahl Builder und Timolia Creative",
       "Teamlerauswahl Development"
