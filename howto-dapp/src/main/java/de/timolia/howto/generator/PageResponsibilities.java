@@ -108,7 +108,7 @@ public class PageResponsibilities {
                     for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilityMain("Management des Content-Teams")).sorted(Teamler::compare).collect(Collectors.toList())) {
                         hvCustom.add(new Utils.KeyValuePair<>("|<span class='" + teamler.getRankCurrent().getCssClass() + "'>" + teamler.getNameForMarkdown() + "</span>", "%page.responsibilities.custom.teamleader.content%"));
                     }
-                    for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilityMain("Management des Dev-Teams")).sorted(Teamler::compare).collect(Collectors.toList())) {
+                    for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilityMain("Management des Development-Teams")).sorted(Teamler::compare).collect(Collectors.toList())) {
                         hvCustom.add(new Utils.KeyValuePair<>("|<span class='" + teamler.getRankCurrent().getCssClass() + "'>" + teamler.getNameForMarkdown() + "</span>", "%page.responsibilities.custom.teamleader.development%"));
                     }
                 } else if (e.getKey().equals("%page.responsibilities.yter%")) {
