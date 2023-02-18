@@ -81,7 +81,7 @@ deiner Arbeiten zukommen lässt. Je nachdem, für welchen kreativen Bereich du d
 #### Game Design
  - Selbstständige Ideenfindung und -umsetzung der Konzepte
  - Umfangreiche Kenntnisse in den neuen Minecraft Java Edition Versionen
- - Gute sprach und schriftliche Kenntnisse in der deutschen Sprache
+ - Gute sprachliche und schriftliche Kenntnisse in der deutschen Sprache
  - Qualitätssicherung der umgesetzten Ideen & Konzepte
 
 
