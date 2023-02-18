@@ -2171,11 +2171,16 @@
     "name": "Stracy",
     "uuid": "5996be13-7178-47fd-bdfe-60951ae1407f",
     "sex": "male",
+    "responsibilities_secondary": [
+      "Timolia Turnier Organisation",
+      "Youtuber-Ränge"
+    ],
     "rank_history": {
       "initial": "expert",
       "08.03.2020": "supporter",
       "05.07.2020": "supporter_plus",
-      "25.09.2020": "expert"
+      "25.09.2020": "expert",
+      "16.02.2023": "supporter"
     }
   },
   {
@@ -2842,16 +2847,10 @@
     "name": "Seeraeuber",
     "uuid": "9bac5789-9029-4fe0-8bb4-c75d0f4de4d3",
     "sex": "male",
-    "responsibilities_main": [
-      "Social Media"
-    ],
-    "responsibilities_secondary": [
-      "JumpWorld Verifizierung",
-      "Map-Einsendungen"
-    ],
     "rank_history": {
       "initial": "expert",
-      "22.11.2021": "supporter"
+      "22.11.2021": "supporter",
+      "16.02.2023": "native_expert"
     }
   },
   {
@@ -3033,7 +3032,7 @@
     "rank_history": {
       "initial": "expert",
       "27.10.2022": "creator",
-      "15.02.2023": "content"
+      "16.02.2023": "supporter"
     },
     "responsibilities_main": [
       "Social Media"
@@ -3076,6 +3075,30 @@
     "rank_history": {
       "initial": "spieler",
       "02.02.2023": "developer"
+    }
+  },
+  {
+    "name": "yEredin",
+    "uuid": "3a664305-a8d5-4daa-b092-c53fbe4fca86",
+    "sex": "male",
+    "responsibilities_secondary": [
+      "Timolia Turnier Organisation"
+    ],
+    "rank_history": {
+      "initial": "pro_plus",
+      "16.02.2023": "supporter"
+    }
+  },
+  {
+    "name": "Niedlichkeit",
+    "uuid": "c5f40157-914c-48a8-a5b9-e95892505905",
+    "sex": "male",
+    "responsibilities_secondary": [
+      "Timolia Turnier Organisation"
+    ],
+    "rank_history": {
+      "initial": "expert",
+      "16.02.2023": "supporter"
     }
   }
 ]
