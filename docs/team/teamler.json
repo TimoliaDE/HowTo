@@ -2724,14 +2724,12 @@
     "name": "Michelplays",
     "uuid": "8898cc60-bb99-427a-b1c3-a53057315d36",
     "sex": "male",
-    "responsibilities_secondary": [
-      "Timolia Turnier Organisation"
-    ],
     "rank_history": {
       "initial": "mvp",
       "20.04.2021": "supporter",
       "13.06.2022": "native_expert",
-      "07.11.2022": "supporter"
+      "07.11.2022": "supporter",
+      "20.02.2023": "native_expert"
     }
   },
   {
