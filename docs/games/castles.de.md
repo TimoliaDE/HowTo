@@ -70,3 +70,39 @@ Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium
 | ------ | -------- |
 | `/jointeam <Teamfarbe>`, `/team` | Betritt ein Team |
 | `/kill`                         | Tötet dich selbst |
+| `/jointeam <Team-Farbe>`, `/team` | Betrete ein Team |
+
+## Maps
+
+<details><summary>Klicke hier, um alle Maps zu sehen</summary>
+
+### 4x2 und 4x4
+Hier findest du alle Maps der Teamgrößen 4x2 und 4x4:
+
+#### Asia (only 4x4)
+#### Beduin
+#### Bollwerk
+#### Tower
+
+### 2x2 und 2x4
+Hier findest du alle Maps der Teamgrößen 2x2 und 2x4:
+
+#### Asia (small)
+#### Bollwerk (big)
+#### Candle Cove (small)
+#### River (small)
+#### Space (small)
+#### Super Mario (big)
+Diese Map ist, wie es der Name bereits sagt, an Super Mario angelehnt:
+![Super Mario](img/maps/castles/Super_Mario_1.png)
+![Super Mario](img/maps/castles/Super_Mario_2.png)
+Built by [Memoryos](/team/members/#memoryos) & [xnulix](/team/members/#memoryos)
+#### Tower (small)
+
+    1vs1-River (small)
+    
+    -Asia (small)
+    -Bollwerk (big)
+    -Candle Cove (small)
+    -Space (small)
+    -Tower (small)
