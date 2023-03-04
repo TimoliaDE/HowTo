@@ -641,11 +641,11 @@
       "JumpWorld Verifizierung",
       "Map-Einsendungen",
       "Teamlerauswahl Support",
-      "Monatssieger"
+      "Monatssieger",
+      "Youtuber-Ränge"
     ],
     "responsibilities_secondary": [
-      "Teamlerauswahl Development",
-      "Youtuber-Ränge"
+      "Teamlerauswahl Development"
     ],
     "rank_history": {
       "initial": "mvp",
@@ -975,7 +975,9 @@
     ],
     "responsibilities_secondary": [
       "Entschuldigungen",
-      "UHC"
+      "Social Media",
+      "UHC",
+      "Youtuber-Ränge"
     ],
     "rank_history": {
       "initial": "pro_plus",
@@ -2860,12 +2862,12 @@
     "responsibilities_main": [
       "Entschuldigungen",
       "Timolia Turnier Organisation",
-      "Zu Unrecht gebannt"
+      "Zu Unrecht gebannt",
+      "Youtuber-Ränge"
     ],
     "responsibilities_secondary": [
       "Social Media",
-      "UHC",
-      "Youtuber-Ränge"
+      "UHC"
     ],
     "rank_history": {
       "initial": "expert",
@@ -3034,11 +3036,9 @@
       "27.10.2022": "creator",
       "16.02.2023": "supporter"
     },
-    "responsibilities_main": [
-      "Social Media"
-    ],
     "responsibilities_secondary": [
-      "Map-Einsendungen"
+      "Map-Einsendungen",
+      "Social Media"
     ]
   },
   {
