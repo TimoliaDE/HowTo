@@ -3109,5 +3109,14 @@
       "initial": "spieler",
       "21.02.2023": "content"
     }
+  },
+  {
+    "name": "BugPlayZ",
+    "uuid": "61da8027-dbb0-433a-8281-bee6958d90d2",
+    "sex": "male",
+    "rank_history": {
+      "initial": "spieler",
+      "07.03.2023": "developer"
+    }
   }
 ]
