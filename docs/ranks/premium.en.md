@@ -86,6 +86,30 @@ Payments via Buycraft are processed directly on the server.
 
 Click [<strong>here</strong> to donate via Buycraft (shop.timolia.de)](https://shop.timolia.de/).
 
+### Nitrado
+**Important for donations via Nitrado** Donations via Nitrado have to be processed manually and can therefore take up to 24 hours.
+
+To donate via Nitrado, you need to have your own Nitrado account. 
+You can create one [**here** on the official Nitrado website](https://nitra.do/timolia-minecraft). 
+As soon as you are logged in, you can select "Donate" in the upper menu.
+
+Please enter Timolia as **receiver**. In order for us to correctly process your donation, please provide us with the following data in the **Purpose** field:
+
+* Your current in-game name
+* Your current rank
+* Your desired rank
+* Payment x/y, if you divide the total amount into several partial amounts
+
+The amount can be selected according to the desired amount of the Paysafecard.<br />
+Please note that you have to write out the `+` of Pro+ and MVP+, because Nitrado cannot handle the `+` character!
+
+**Example**: You can specify an upgrade from Pro to MVP+ (45 Euro) with 3 Paysafecards like this:<br />
+Receiver: Timolia<br />
+Reason for payment: MCExpertDE, Upgrade from Pro to MVP Plus, Payment 1/3
+
+Please note that money that has already been deposited to the Nitrado account cannot be donated to Timolia! 
+
+
 ### I did not receive my rank, what can I do?
 Payments can take a while - especially if the purchase was made through Nitrado. 
 If your rank is still not there 24 hours after placing your order, please contact us in out support channel. 
