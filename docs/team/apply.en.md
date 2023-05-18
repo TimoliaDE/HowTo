@@ -42,10 +42,6 @@ You can apply as a Content by e-mail to <a href="mailto:content@timolia.de">cont
 an overview of your previous work/experiences as well as examples to your work. Depending on the creative area you want to apply for, you will need the 
 following knowledge:
 
-Als Content kannst du dich per E-Mail an <a href="mailto:content@timolia.de">content@timolia.de</a> bewerben. Wichtig dabei ist, dass du uns deinen
-Ingamenamen, eine kurze persönliche Beschreibung, einen Überblick über deine bisherigen Arbeiten/Erfahrungen ebenso wie Beispiele
-deiner Arbeiten zukommen lässt. Je nachdem, für welchen kreativen Bereich du dich bewerben willst, benötigst du folgende Kenntnisse:
-
 #### Social Media
 - Basic knowledge of image design and image editing
 - Basic knowledge in video production, editing and other post-production for the main focus of (YouTube/TikTok) video production
@@ -59,8 +55,6 @@ deiner Arbeiten zukommen lässt. Je nachdem, für welchen kreativen Bereich du d
 
 
 Please note that you must be at least 14 years old to apply as a Content.
-
-
 
 ### Premium ranks
 Timolia has several permanent premium ranks. You cannot apply for these. As a thank you, every player receives a rank when he donates a certain amount of money to Timolia. 

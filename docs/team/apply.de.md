@@ -6,7 +6,7 @@ Sie übernehmen große Verantwortung in organisatorischen und verwaltungstechnis
 
 
 ### Development
-Mit einer E-Mail an <a href="mailto:development@timolia.de">development@timolia.de</a> kannst du dich jederzeit als Developer:in bewerben. Neben Teamfähigkeit setzen wir ein Mindestalter von 14 Jahren voraus. 
+Mit einer Bewerbung über unser Bewerbungsformular auf <a href="https://apply.timolia.de/g/dev">apply.timolia.de</a> kannst du dich jederzeit als Developer:in bewerben. Neben Teamfähigkeit setzen wir ein Mindestalter von 14 Jahren voraus. 
 Dein Bewerbungsschreiben sollte deinen Ingamenamen, eine kurze Beschreibung deiner Person, Darstellung deiner Fähigkeiten und Kompetenzen und eine Angabe zur Kontaktmöglichkeit beinhalten. Als Developer:in besteht deine Hauptaufgabe darin, Ideen und Projekte für Timolia ingame oder auf unseren Web-Plattformen umzusetzen. 
 In welchem Grad du dabei frei deine eigenen Ideen zur Umsetzung und Gestaltung einbringst, hängt von deinen eigenen Wünschen und der Art des Projektes ab. Das Team steht dir jederzeit beratend zur Seite.
 
@@ -50,7 +50,7 @@ Unter positiv auffallen verstehen wir unter anderem eine gute Reportstatistik, k
 wie im Forum, TeamSpeak und Discord (und evtl. auf Twitter).
 
 Zusätzlich dazu gibt es die Möglichkeit, eine Initiativbewerbung, welche deinen Ingamenamen, eine Vorstellung von dir sowie Beschreibungen deiner bisherigen Erfahrungen beinhalten sollte,
-per Mail an <a href="mailto:supporter@timolia.de">supporter@timolia.de</a> an uns zu senden. Wir bemühen uns, den Bewerbungsablauf so schnell wie möglich durchzuführen.
+per Formular auf <a href="https://apply.timolia.de/g/sup">apply.timolia.de</a> an uns zu senden. Wir bemühen uns, den Bewerbungsablauf so schnell wie möglich durchzuführen.
 Unter Umständen kann dieser Prozess trotzdem über einen Monat in Anspruch nehmen.
 Bitte beachte außerdem, dass du für eine Initiativbewerbung und eine Aufnahme in das Timolia-Team mindestens 14 Jahre alt sein musst.
 
@@ -61,14 +61,14 @@ Da der <b>Support+</b> Rang eine Beförderung für besonders erfahrene Supporter
 Du kennst dich in den Bereichen Building, Modeling, MC Bedrock Scripting und/oder Texture Design aus und hast Lust, dich in diesen Bereichen bei uns einzubringen und dich selbst weiterzuentwickeln?
 Bei Timolia Creative hast du die Möglichkeit, an spannenden Projekten mitzuwirken, die weit über das übliche Building hinaus gehen können.
 
-Dein Interesse wurde geweckt? Bewirb dich jederzeit mit einem aussagekräftigen Portfolio per Mail an <a href="mailto:bewerbung@timoliacreative.de">bewerbung@timoliacreative.de</a>.
+Dein Interesse wurde geweckt? Bewirb dich jederzeit mit einem aussagekräftigen Portfolio per Bewerbungsformular auf <a href="https://apply.timolia.de/g/build">apply.timolia.de</a> bewerben.
 Bitte beachte, dass du mindestens 16 Jahre alt sein musst, um in das Timolia Creative-Team aufgenommen werden zu können.
 
 Die <b>Heads of Building</b> bilden die Bauteamleitung Timolias. Da es sich um Teammitglieder mit langjähriger Erfahrung und sehr guter Kenntnis über Timolias teaminterne Strukturen handelt, ist eine Bewerbung für diesen Rang nicht möglich.
 
 
 ### Content
-Als Content kannst du dich per E-Mail an <a href="mailto:content@timolia.de">content@timolia.de</a> bewerben. Wichtig dabei ist, dass du uns deinen
+Als Content kannst du dich per Bewerbungsformular auf <a href="https://apply.timolia.de/g/content">apply.timolia.de</a> bewerben. Wichtig dabei ist, dass du uns deinen
 Ingamenamen, eine kurze persönliche Beschreibung, einen Überblick über deine bisherigen Arbeiten/Erfahrungen ebenso wie Beispiele
 deiner Arbeiten zukommen lässt. Je nachdem, für welchen kreativen Bereich du dich bewerben willst, benötigst du folgende Kenntnisse:
 
