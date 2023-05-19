@@ -1,32 +1,38 @@
-package de.timolia.howto.responsibility;
+package de.timolia.howto.responsibility
 
-import de.timolia.howto.models.Teamler;
+import de.timolia.howto.teamler.Teamler
 
-public interface Responsibility {
-    void renderTo(StringBuilder builder);
+fun interface Responsibility {
+    fun renderTo(builder: StringBuilder)
 
-    static Responsibility simple(ResponsibilityType type, String teamler) {
-        return builder -> builder
-                .append("|")
-                .append(teamler)
-                .append(" | ")
-                .append(type.defaultKey())
-                .append(" |");
-    }
+    companion object {
+        fun simple(type: ResponsibilityType, teamler: String): Responsibility {
+            return Responsibility { builder ->
+                builder
+                        .append("|")
+                        .append(teamler)
+                        .append(" | ")
+                        .append(type.defaultKey())
+                        .append(" |")
+            }
+        }
 
-    static Responsibility concreteTeamster(ResponsibilityType type, Teamler teamler) {
-        return concreteTeamster(teamler, type.defaultKey());
-    }
+        fun concreteTeamster(type: ResponsibilityType, teamler: Teamler): Responsibility {
+            return concreteTeamster(teamler, type.defaultKey())
+        }
 
-    static Responsibility concreteTeamster(Teamler teamler, String translationKey) {
-        return builder -> builder
-                .append("|<span class='")
-                .append(teamler.getRankCurrent().getCssClass())
-                .append("'>")
-                .append(teamler.getNameForMarkdown())
-                .append("</span>")
-                .append(" | ")
-                .append(translationKey)
-                .append(" |");
+        fun concreteTeamster(teamler: Teamler, translationKey: String): Responsibility {
+            return Responsibility { builder ->
+                builder
+                        .append("|<span class='")
+                        .append(teamler.getRankCurrent().cssClass)
+                        .append("'>")
+                        .append(teamler.getNameForMarkdown())
+                        .append("</span>")
+                        .append(" | ")
+                        .append(translationKey)
+                        .append(" |")
+            }
+        }
     }
 }

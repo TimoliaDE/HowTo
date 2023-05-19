@@ -1,12 +1,10 @@
-package de.timolia.howto.responsibility;
+package de.timolia.howto.responsibility
 
-import java.util.Locale;
-
-public enum ResponsibilityType {
+enum class ResponsibilityType {
     HV,
     NV;
 
-    public String defaultKey() {
-        return "%page.responsibilities." + name().toLowerCase(Locale.ROOT) + "%";
+    fun defaultKey(): String {
+        return "%page.responsibilities.${name.lowercase()}%"
     }
 }

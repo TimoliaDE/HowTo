@@ -1,6 +1,6 @@
-package de.timolia.howto.models;
+package de.timolia.howto.teamler
 
-public enum Sex {
+enum class Sex {
     female,
     male,
     undefined

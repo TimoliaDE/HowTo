@@ -1,64 +1,60 @@
-package de.timolia.howto.conversion;
+package de.timolia.howto.database
 
-import de.timolia.howto.Dapp;
+import java.sql.SQLException
+import java.util.*
+import kotlin.jvm.Volatile
 
-import java.sql.*;
-import java.util.UUID;
+object SQLApi {
+    @Volatile
+    private var connection: SqlUserConnection? = null
 
-public class SQLApi {
-    private static volatile SqlUserConnection connection;
-    private static volatile boolean triedConnect;
-
-    private static SqlUserConnection establishConnection() {
+    @Volatile
+    private var triedConnect = false
+    private fun establishConnection(): SqlUserConnection {
         if (!triedConnect) {
-            synchronized (SQLApi.class) {
+            synchronized(SQLApi::class.java) {
                 if (!triedConnect) {
-                    tryGuardedConnect();
+                    tryGuardedConnect()
                 }
             }
         }
-        SqlUserConnection connection = SQLApi.connection;
-        if (connection == null) {
-            throw new RuntimeException("Earlier attempt connecting to sql failed");
-        }
-        return connection;
+        return connection ?: throw RuntimeException("Earlier attempt connecting to sql failed")
     }
 
-    private static void tryGuardedConnect() {
+    private fun tryGuardedConnect() {
         try {
-            connection = SqlUserConnection.connect();
-        } catch (SQLException exception) {
-            throw new RuntimeException("Unable to establish sql connection", exception);
+            connection = SqlUserConnection.connect()
+        } catch (exception: SQLException) {
+            throw RuntimeException("Unable to establish sql connection", exception)
         } finally {
-            triedConnect = true;
+            triedConnect = true
         }
     }
 
-    public static UUID getUuid(String name) {
-        try {
-            return establishConnection().getUuid(name);
-        } catch (RuntimeException exception) {
-            exception.printStackTrace();
-            throw exception;
+    fun getUuid(name: String?): UUID? {
+        return try {
+            establishConnection().getUuid(name)
+        } catch (exception: RuntimeException) {
+            exception.printStackTrace()
+            throw exception
         }
     }
 
-    public static String getName(UUID uuid) {
-        return getName(uuid, null);
+    fun getName(uuid: UUID?): String? {
+        return getName(uuid, null)
     }
 
-    public static String getName(UUID uuid, String fallback) {
-        SqlUserConnection connection;
-        try {
-            connection = establishConnection();
-        } catch (RuntimeException exception) {
+    fun getName(uuid: UUID?, fallback: String?): String? {
+        val connection: SqlUserConnection = try {
+            establishConnection()
+        } catch (exception: RuntimeException) {
             if (fallback != null && SqlUserConnection.isDevEnv()) {
-                System.err.println("Unable to establish sql connection for " + uuid + " fallback to " + fallback);
-                exception.printStackTrace();
-                return fallback;
+                System.err.println("Unable to establish sql connection for $uuid fallback to $fallback")
+                exception.printStackTrace()
+                return fallback
             }
-            throw new RuntimeException("Unable to establish sql connection", exception);
+            throw RuntimeException("Unable to establish sql connection", exception)
         }
-        return connection.getName(uuid, fallback);
+        return connection.getName(uuid, fallback)
     }
 }

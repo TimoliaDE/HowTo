@@ -1,53 +1,53 @@
-package de.timolia.howto.translate;
+package de.timolia.howto.translate
 
-import java.io.IOException;
-import java.io.UncheckedIOException;
-import java.nio.charset.StandardCharsets;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.util.*;
-import java.util.stream.Collectors;
+import java.io.IOException
+import java.io.UncheckedIOException
+import java.nio.charset.StandardCharsets
+import java.nio.file.Files
+import java.nio.file.Path
+import java.util.*
+import java.util.stream.Collectors
+import kotlin.Throws
+import kotlin.io.path.extension
+import kotlin.io.path.nameWithoutExtension
 
-public class Translate {
-    private final Map<Language, List<Translation>> translations = new HashMap<>();
-
-    public void loadDirectory(Path path) throws IOException {
-         Files.list(path).forEach(file -> {
-              try {
-                   mayLoadFile(file);
-              } catch (IOException e) {
-                   throw new UncheckedIOException("Failed to load translation from " + file, e);
-              }
-         });
-    }
-
-    private void mayLoadFile(Path path) throws IOException {
-         String name = path.getFileName().toString();
-         System.out.println(name);
-         if (!name.endsWith(".properties")) {
-              return;
-         }
-         String languageName = name.substring(0, name.length() - ".properties".length());
-         Language language = Language.valueOf(languageName.toUpperCase(Locale.ROOT));
-         System.out.println(languageName);
-         Properties properties = new Properties();
-         properties.load(Files.newBufferedReader(path, StandardCharsets.UTF_8));
-         translations.put(language, properties.entrySet()
-                 .stream()
-                 .map(property -> new Translation(language, property.getKey().toString(), property.getValue().toString()))
-                 .collect(Collectors.toList()));
-    }
-    
-    public TranslationContext forLanguage(Language language) {
-        List<Translation> translations = this.translations.get(language);
-        if (translations == null) {
-            throw new IllegalArgumentException("No translations for language " + language);
-        }
-        return content -> {
-            for (Translation translation : translations) {
-                content = translation.replace(content);
+class Translate {
+    private val translations = EnumMap<Language, MutableList<Translation>>(Language::class.java)
+    @Throws(IOException::class)
+    fun loadDirectory(path: Path) {
+        Files.list(path).forEach { file: Path ->
+            try {
+                mayLoadFile(file)
+            } catch (e: IOException) {
+                throw UncheckedIOException("Failed to load translation from $file", e)
             }
-            return content;
-        };
+        }
+    }
+
+    @Throws(IOException::class)
+    private fun mayLoadFile(path: Path) {
+        if (path.extension != "properties") {
+            return
+        }
+        val languageName = path.nameWithoutExtension
+        val language = Language.valueOf(languageName.uppercase())
+        println(languageName)
+        val properties = Properties()
+        properties.load(Files.newBufferedReader(path, StandardCharsets.UTF_8))
+        translations[language] = properties.entries
+                .map { property -> Translation(language, property.key.toString(), property.value.toString()) }
+                .toMutableList()
+    }
+
+    fun forLanguage(language: Language): TranslationContext {
+        val translations = translations[language]
+                ?: throw IllegalArgumentException("No translations for language $language")
+        return TranslationContext { content ->
+            var content = content
+            for (translation in translations) {
+                content = translation.replace(content)
+            }
+            content
+        }
     }
 }

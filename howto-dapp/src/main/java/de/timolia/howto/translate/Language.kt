@@ -1,12 +1,10 @@
-package de.timolia.howto.translate;
+package de.timolia.howto.translate
 
-import java.util.Locale;
-
-public enum Language {
+enum class Language {
     DE,
     EN;
 
-    public String key() {
-        return name().toLowerCase(Locale.ROOT);
+    fun key(): String {
+        return name.lowercase()
     }
 }

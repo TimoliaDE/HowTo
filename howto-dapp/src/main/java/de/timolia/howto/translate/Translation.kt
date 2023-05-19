@@ -1,42 +1,19 @@
-package de.timolia.howto.translate;
+package de.timolia.howto.translate
 
-public class Translation {
-    private final Language language;
-    private final String key;
-    private final String value;
-
-    public Translation(Language language, String key, String value) {
-        this.language = language;
-        this.key = key;
-        this.value = value;
+class Translation(private val language: Language, private val key: String, private val value: String) {
+    fun replace(text: String): String {
+        return text.replace(replacementKey(), value)
     }
 
-    public String replace(String text) {
-        return text.replace(replacementKey(), getValue());
+    private fun replacementKey(): String {
+        return "%$key%"
     }
 
-    private String replacementKey() {
-        return "%" + getKey() + "%";
-    }
-
-    public Language getLanguage() {
-        return language;
-    }
-
-    public String getKey() {
-        return key;
-    }
-
-    public String getValue() {
-        return value;
-    }
-
-    @Override
-    public String toString() {
+    override fun toString(): String {
         return "LanguageString{" +
                 "language=" + language +
                 ", key='" + key + '\'' +
                 ", value='" + value + '\'' +
-                '}';
+                '}'
     }
 }

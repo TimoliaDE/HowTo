@@ -1,47 +1,21 @@
-package de.timolia.howto.conversion.models;
+package de.timolia.howto.conversion
 
-import de.timolia.howto.conversion.SQLApi;
+import de.timolia.howto.database.SQLApi
+import java.util.*
 
-import java.util.UUID;
+class TeamlerResponsibilities(
+        private val name: String?,
+        val hv: String?,
+        val nv: String?
+) {
+    val uuid: UUID = SQLApi.getUuid(name)!!
 
-public class TeamlerResponsibilities {
-    private final String name;
-    private final UUID uuid;
-    private final String hv;
-    private final String nv;
-
-    public TeamlerResponsibilities(String name, String hv, String nv) {
-        this.name = name;
-        this.uuid = SQLApi.getUuid(name);
-        this.hv = hv;
-        this.nv = nv;
-    }
-
-
-    public String getName() {
-        return name;
-    }
-
-    public UUID getUuid() {
-        return uuid;
-    }
-
-    public String getHv() {
-        return hv;
-    }
-
-    public String getNv() {
-        return nv;
-    }
-
-
-    @Override
-    public String toString() {
+    override fun toString(): String {
         return "TeamlerResponsibilities{" +
                 "name='" + name + '\'' +
                 ", uuid=" + uuid +
                 ", hv='" + hv + '\'' +
                 ", nv='" + nv + '\'' +
-                '}';
+                '}'
     }
 }

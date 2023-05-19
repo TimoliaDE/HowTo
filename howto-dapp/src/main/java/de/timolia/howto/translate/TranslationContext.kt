@@ -1,5 +1,5 @@
-package de.timolia.howto.translate;
+package de.timolia.howto.translate
 
-public interface TranslationContext {
-    String replaceAll(String content);
+fun interface TranslationContext {
+    fun replaceAll(content: String): String
 }
