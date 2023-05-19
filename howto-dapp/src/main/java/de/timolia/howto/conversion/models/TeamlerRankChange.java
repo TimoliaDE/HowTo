@@ -11,7 +11,6 @@ import java.util.Date;
 import java.util.UUID;
 
 public class TeamlerRankChange {
-
     private static final SimpleDateFormat simpleDateFormat = new SimpleDateFormat("dd.MM.yyyy");
 
     private final String name;
@@ -108,5 +107,4 @@ public class TeamlerRankChange {
                 ", date=" + simpleDateFormat.format(date) +
                 '}';
     }
-
 }

@@ -37,10 +37,6 @@ public class JsonBuilder {
             String rankTo = split[3];
             String date = split[4];
 
-//            if(rankTo.contains("Supporter+")) {
-//                Thread.dumpStack();
-//            }
-
             TeamlerRankChange teamlerRankChange = new TeamlerRankChange(name, rankFrom, rankTo, date);
             teamlerRankChanges.add(teamlerRankChange);
             System.out.println(teamlerRankChange);

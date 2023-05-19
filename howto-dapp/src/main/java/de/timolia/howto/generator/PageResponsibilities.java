@@ -1,9 +1,12 @@
 package de.timolia.howto.generator;
 
-import de.timolia.howto.LanguageUtil;
-import de.timolia.howto.Utils;
-import de.timolia.howto.models.Language;
+import de.timolia.howto.Dapp;
+import de.timolia.howto.responsibility.Responsibility;
+import de.timolia.howto.responsibility.ResponsibilityType;
+import de.timolia.howto.translate.Language;
 import de.timolia.howto.models.Teamler;
+import de.timolia.howto.translate.Translate;
+import de.timolia.howto.translate.TranslationContext;
 
 import java.util.LinkedHashMap;
 import java.util.LinkedList;
@@ -12,9 +15,7 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 public class PageResponsibilities {
-
     public static String generate(List<Teamler> teamlers) {
-
         LinkedHashMap<String, LinkedHashMap<String, String>> responsibilities = new LinkedHashMap<>() {{
             put("%page.responsibilities.project-team-orga%", new LinkedHashMap<>() {{
                 put("%page.responsibilities.teamleader%", "%page.responsibilities.teamleader.desc%");
@@ -48,15 +49,14 @@ public class PageResponsibilities {
         for (Map.Entry<String, LinkedHashMap<String, String>> categories : responsibilities.entrySet()) {
             String categoryName = categories.getKey();
             LinkedHashMap<String, String> subcategories = categories.getValue();
-
             sb
                     .append("\n")
                     .append("\n").append("# ").append(categoryName);
 
+            TranslationContext nameConverter = Dapp.translate.forLanguage(Language.DE);
             for (Map.Entry<String, String> e : subcategories.entrySet()) {
-                String name = LanguageUtil.translate(Language.DE, e.getKey());
+                String name = nameConverter.replaceAll(e.getKey());
                 String description = e.getValue();
-
                 sb
                         .append("\n")
                         .append("\n").append("### **").append(name).append("**");
@@ -75,97 +75,78 @@ public class PageResponsibilities {
 
                 String titleCustom = null;
 
-                LinkedList<Utils.KeyValuePair<String, String>> hvCustom = new LinkedList<>();
-                LinkedList<Utils.KeyValuePair<String, String>> nvCustom = new LinkedList<>();
+                LinkedList<Responsibility> hvCustom = new LinkedList<>();
+                LinkedList<Responsibility> nvCustom = new LinkedList<>();
 
                 // custom stuff
-                if (e.getKey().equals("%page.responsibilities.bug-reports%")) {
-                    nvCustom.add(new Utils.KeyValuePair<>("%page.responsibilities.custom.bug-reports.modsanddevs%", null));
-                } else if (e.getKey().equals("%page.responsibilities.sm%")) {
-                    titleCustom = "Projekte u. Verantwortungsgrad";
-                    for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilityMain("Twitter")).sorted(Teamler::compare).collect(Collectors.toList())) {
-                        nvCustom.add(new Utils.KeyValuePair<>("|<span class='" + teamler.getRankCurrent().getCssClass() + "'>" + teamler.getNameForMarkdown() + "</span>", "%page.responsibilities.custom.sm.twitter.hv%"));
-                    }
-                    for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilitySecondary("Twitter")).sorted(Teamler::compare).collect(Collectors.toList())) {
-                        nvCustom.add(new Utils.KeyValuePair<>("|<span class='" + teamler.getRankCurrent().getCssClass() + "'>" + teamler.getNameForMarkdown() + "</span>", "%page.responsibilities.custom.sm.twitter.nv%"));
-                    }
-                    for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilityMain("Bauteam-Twitter")).sorted(Teamler::compare).collect(Collectors.toList())) {
-                        nvCustom.add(new Utils.KeyValuePair<>("|<span class='" + teamler.getRankCurrent().getCssClass() + "'>" + teamler.getNameForMarkdown() + "</span>", "%page.responsibilities.custom.sm.twitter-builder.hv%"));
-                    }
-                    for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilitySecondary("Bauteam-Twitter")).sorted(Teamler::compare).collect(Collectors.toList())) {
-                        nvCustom.add(new Utils.KeyValuePair<>("|<span class='" + teamler.getRankCurrent().getCssClass() + "'>" + teamler.getNameForMarkdown() + "</span>", "%page.responsibilities.custom.sm.twitter-builder.nv%"));
-                    }
-                } else if (e.getKey().equals("%page.responsibilities.teamleader%")) {
-                    titleCustom = "%page.responsibilities.custom.teamleader.title%";
-                    // |<span class='management'>J4mPr0</span>    | Management des gesamten Timolia-Teams |
-                    // |<span class='headbuilder'>Jukplays</span>  | Management des Bau-Teams |
-                    for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilityMain("Management des Timolia-Teams")).sorted(Teamler::compare).collect(Collectors.toList())) {
-                        hvCustom.add(new Utils.KeyValuePair<>("|<span class='" + teamler.getRankCurrent().getCssClass() + "'>" + teamler.getNameForMarkdown() + "</span>", "%page.responsibilities.custom.teamleader.whole-team%"));
-                    }
-                    for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilityMain("Management des Bau-Teams")).sorted(Teamler::compare).collect(Collectors.toList())) {
-                        hvCustom.add(new Utils.KeyValuePair<>("|<span class='" + teamler.getRankCurrent().getCssClass() + "'>" + teamler.getNameForMarkdown() + "</span>", "%page.responsibilities.custom.teamleader.builder%"));
-                    }
-                    for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilityMain("Management des Content-Teams")).sorted(Teamler::compare).collect(Collectors.toList())) {
-                        hvCustom.add(new Utils.KeyValuePair<>("|<span class='" + teamler.getRankCurrent().getCssClass() + "'>" + teamler.getNameForMarkdown() + "</span>", "%page.responsibilities.custom.teamleader.content%"));
-                    }
-                    for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilityMain("Management des Development-Teams")).sorted(Teamler::compare).collect(Collectors.toList())) {
-                        hvCustom.add(new Utils.KeyValuePair<>("|<span class='" + teamler.getRankCurrent().getCssClass() + "'>" + teamler.getNameForMarkdown() + "</span>", "%page.responsibilities.custom.teamleader.development%"));
-                    }
-                } else if (e.getKey().equals("%page.responsibilities.yter%")) {
-                    titleCustom = "%page.responsibilities.custom.yter.title%";
+                switch (e.getKey()) {
+                    case "%page.responsibilities.bug-reports%":
+                        nvCustom.add(Responsibility.simple(ResponsibilityType.NV, "%page.responsibilities.custom.bug-reports.modsanddevs%"));
+                        break;
+                    case "%page.responsibilities.sm%":
+                        titleCustom = "Projekte u. Verantwortungsgrad";
+                        for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilityMain("Twitter")).sorted(Teamler::compare).collect(Collectors.toList())) {
+                            nvCustom.add(Responsibility.concreteTeamster(teamler, "%page.responsibilities.custom.sm.twitter.hv%"));
+                        }
+                        for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilitySecondary("Twitter")).sorted(Teamler::compare).collect(Collectors.toList())) {
+                            nvCustom.add(Responsibility.concreteTeamster(teamler, "%page.responsibilities.custom.sm.twitter.nv%"));
+                        }
+                        for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilityMain("Bauteam-Twitter")).sorted(Teamler::compare).collect(Collectors.toList())) {
+                            nvCustom.add(Responsibility.concreteTeamster(teamler, "%page.responsibilities.custom.sm.twitter-builder.hv%"));
+                        }
+                        for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilitySecondary("Bauteam-Twitter")).sorted(Teamler::compare).collect(Collectors.toList())) {
+                            nvCustom.add(Responsibility.concreteTeamster(teamler, "%page.responsibilities.custom.sm.twitter-builder.nv%"));
+                        }
+                        break;
+                    case "%page.responsibilities.teamleader%":
+                        titleCustom = "%page.responsibilities.custom.teamleader.title%";
+                        for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilityMain("Management des Timolia-Teams")).sorted(Teamler::compare).collect(Collectors.toList())) {
+                            hvCustom.add(Responsibility.concreteTeamster(teamler, "%page.responsibilities.custom.teamleader.whole-team%"));
+                        }
+                        for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilityMain("Management des Bau-Teams")).sorted(Teamler::compare).collect(Collectors.toList())) {
+                            hvCustom.add(Responsibility.concreteTeamster(teamler, "%page.responsibilities.custom.teamleader.builder%"));
+                        }
+                        for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilityMain("Management des Content-Teams")).sorted(Teamler::compare).collect(Collectors.toList())) {
+                            hvCustom.add(Responsibility.concreteTeamster(teamler, "%page.responsibilities.custom.teamleader.content%"));
+                        }
+                        for (Teamler teamler : teamlers.stream().filter(teamler -> teamler.hasResponsibilityMain("Management des Development-Teams")).sorted(Teamler::compare).collect(Collectors.toList())) {
+                            hvCustom.add(Responsibility.concreteTeamster(teamler, "%page.responsibilities.custom.teamleader.development%"));
+                        }
+                        break;
+                    case "%page.responsibilities.yter%":
+                        titleCustom = "%page.responsibilities.custom.yter.title%";
+                        break;
                 }
-
-
                 if (titleCustom == null) {
                     sb.append("\n").append("| %page.responsibilities.teamler% | %page.responsibilities.responsib% |");
                 } else {
                     sb.append("\n").append("| %page.responsibilities.teamler% | ").append(titleCustom).append(" |");
                 }
-
                 sb.append("\n").append("| ------ | ------ |");
-
                 if (hvCustom.isEmpty()) {
                     for (Teamler teamler : hv) {
-                        sb.append("\n").append("|<span class='").append(teamler.getRankCurrent().getCssClass()).append("'>").append(teamler.getNameForMarkdown()).append("</span> | %page.responsibilities.hv% |");
-                    }
-                } else {
-                    for (Utils.KeyValuePair<String, String> hvEntry : hvCustom) {
-                        String k = hvEntry.getKey();
-                        String v = hvEntry.getValue();
-                        if (v == null) {
-                            sb.append("\n").append(k).append(" | %page.responsibilities.hv% |");
-                        } else {
-                            sb.append("\n").append(k).append(" | ").append(v).append(" |");
-                        }
+                        hvCustom.add(Responsibility.concreteTeamster(ResponsibilityType.HV, teamler));
                     }
                 }
-
+                for (Responsibility hvEntry : hvCustom) {
+                    sb.append("\n");
+                    hvEntry.renderTo(sb);
+                }
                 if (!nv.isEmpty() || !nvCustom.isEmpty()) {
                     sb.append("\n").append("| | |");
                     if (nvCustom.isEmpty()) {
                         for (Teamler teamler : nv) {
-                            sb.append("\n").append("|<span class='").append(teamler.getRankCurrent().getCssClass()).append("'>").append(teamler.getNameForMarkdown()).append("</span> | %page.responsibilities.nv% |");
-                        }
-                    } else {
-                        for (Utils.KeyValuePair<String, String> nvEntry : nvCustom) {
-                            String k = nvEntry.getKey();
-                            String v = nvEntry.getValue();
-                            if (v == null) {
-                                sb.append("\n").append("|").append(k).append(" | %page.responsibilities.nv% |");
-                            } else {
-                                sb.append("\n").append(k).append(" | ").append(v).append(" |");
-                            }
+                            hvCustom.add(Responsibility.concreteTeamster(ResponsibilityType.NV, teamler));
                         }
                     }
+                    for (Responsibility nvEntry : nvCustom) {
+                        sb.append("\n");
+                        nvEntry.renderTo(sb);
+                    }
                 }
-
-
             }
         }
-
         sb.append("\n");
-
         return sb.toString();
     }
-
-} 
+}

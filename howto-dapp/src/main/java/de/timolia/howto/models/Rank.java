@@ -1,7 +1,6 @@
 package de.timolia.howto.models;
 
 public enum Rank {
-
     administrator(       161,  true, "administrator",  "Administrator",          "Administratorin", "%rank.administrator.description%"),
     administrator_city(  160,  true, "administrator",  "Administrator City",     null),
     builder(              80,  true, "builder",        "Builder",                "Builderin",    "%rank.builder.description%"),
@@ -60,19 +59,11 @@ public enum Rank {
     }
 
     public String getString(Sex sex) {
-        if (sex.equals(Sex.female)) {
-            if (this.female != null) {
-                return this.female;
-            } else {
-                return this.male;
-            }
-        } else if (sex.equals(Sex.male)) {
-            return this.male;
-        } else {
-            return this.male;
+        if (sex == Sex.female && this.female != null) {
+            return this.female;
         }
+        return this.male;
     }
-
 
     public int getValue() {
         return value;

@@ -3,43 +3,43 @@ package de.timolia.howto.conversion;
 import de.timolia.howto.Dapp;
 
 import java.sql.*;
-import java.util.HashMap;
-import java.util.Map;
 import java.util.UUID;
 
 public class SQLApi {
+    private static volatile SqlUserConnection connection;
+    private static volatile boolean triedConnect;
 
-    private static Connection connection;
-    private static final Map<String, UUID> usernames = new HashMap<>();
-    private static final Map<UUID, String> uuids = new HashMap<>();
-
-    private static void establishConnection() throws SQLException {
+    private static SqlUserConnection establishConnection() {
+        if (!triedConnect) {
+            synchronized (SQLApi.class) {
+                if (!triedConnect) {
+                    tryGuardedConnect();
+                }
+            }
+        }
+        SqlUserConnection connection = SQLApi.connection;
         if (connection == null) {
-            connection = DriverManager.getConnection(Dapp.MYSQL_CON_STR, Dapp.MYSQL_USER, Dapp.MYSQL_PASS);
+            throw new RuntimeException("Earlier attempt connecting to sql failed");
+        }
+        return connection;
+    }
+
+    private static void tryGuardedConnect() {
+        try {
+            connection = SqlUserConnection.connect();
+        } catch (SQLException exception) {
+            throw new RuntimeException("Unable to establish sql connection", exception);
+        } finally {
+            triedConnect = true;
         }
     }
 
-
     public static UUID getUuid(String name) {
-        if (usernames.containsKey(name)) {
-            return usernames.get(name);
-        }
-
-        System.out.print("Fetching UUID of '" + name + "'... ");
         try {
-            establishConnection();
-            PreparedStatement prepareStatement = connection.prepareStatement("SELECT uuid FROM timolia_user_names WHERE name=? ORDER BY last_played DESC LIMIT 1");
-            prepareStatement.setString(1, name);
-            ResultSet resultSet = prepareStatement.executeQuery();
-            resultSet.next();
-
-            UUID uuid = UUID.fromString(resultSet.getString("uuid"));
-            usernames.put(name, uuid);
-            System.out.println("'" + uuid + "'");
-            return uuid;
-        } catch (SQLException e) {
-            e.printStackTrace();
-            throw new RuntimeException("Cannot find UUID of '" + name + "'");
+            return establishConnection().getUuid(name);
+        } catch (RuntimeException exception) {
+            exception.printStackTrace();
+            throw exception;
         }
     }
 
@@ -48,33 +48,17 @@ public class SQLApi {
     }
 
     public static String getName(UUID uuid, String fallback) {
-        if (uuids.containsKey(uuid)) {
-            return uuids.get(uuid);
-        }
-
-        System.out.print("Fetching name of '" + uuid + "'... ");
+        SqlUserConnection connection;
         try {
-            establishConnection();
-            //PreparedStatement prepareStatement = connection.prepareStatement("SELECT * FROM timolia_user_names WHERE uuid=? ORDER BY last_played DESC LIMIT 1");
-            PreparedStatement prepareStatement = connection.prepareStatement("SELECT * FROM timolia_user WHERE uuid=?");
-            prepareStatement.setString(1, uuid.toString());
-            ResultSet resultSet = prepareStatement.executeQuery();
-            resultSet.next();
-
-            String name = resultSet.getString("name");
-            uuids.put(uuid, name);
-            System.out.println(name);
-            return name;
-        } catch (SQLException e) {
-            if (Dapp.isDevEnv && fallback != null) {
-                System.err.println("Cannot find name of '" + uuid + "', using '" + fallback + "'");
-                uuids.put(uuid, fallback);
+            connection = establishConnection();
+        } catch (RuntimeException exception) {
+            if (fallback != null && SqlUserConnection.isDevEnv()) {
+                System.err.println("Unable to establish sql connection for " + uuid + " fallback to " + fallback);
+                exception.printStackTrace();
                 return fallback;
             }
-
-            e.printStackTrace();
-            throw new RuntimeException("Cannot find name of '" + uuid + "'");
+            throw new RuntimeException("Unable to establish sql connection", exception);
         }
+        return connection.getName(uuid, fallback);
     }
-
 }

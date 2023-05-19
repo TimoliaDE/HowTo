@@ -11,22 +11,14 @@ import java.util.stream.Collectors;
 public class RankConversion {
 
     public static Rank getRank(String text) {
-        Map.Entry<Rank, Double> result = Arrays.stream(Rank.values())
+       return Arrays.stream(Rank.values())
                 .collect(Collectors.toMap(Function.identity(), rank -> Math.max(getSimilarity(text, rank.getFemale()), getSimilarity(text, rank.getMale()))))
                 .entrySet()
                 .stream()
                 .max(Comparator.comparingDouble(Map.Entry::getValue))
                 .filter(e -> e.getValue() > 0.1)
-                .orElse(null);
-        //System.out.println(result.getValue() + ": " + result.getKey().getName());
-
-        if (result == null) {
-            return null;
-        }
-        return result.getKey();
-
-        // < 0.1
-        //return Arrays.stream(Scenarios.values()).min((o1, o2) -> Double.compare(TextUtils.getSimilarity(text, o2.getName()), TextUtils.getSimilarity(text, o1.getName()))).orElse(null);
+                .map(Map.Entry::getKey)
+               .orElse(null);
     }
 
     /**

@@ -21,7 +21,6 @@ public class Teamler {
     private final List<String> responsibilitiesSecondaryHidden;
     private final List<String> fields;
     private final LinkedHashMap<String, Rank> rankHistory;
-    private transient List<TeamlerRankChange> rankChanges = null;
     private transient Rank rankCurrent = null;
 
     public Teamler(UUID uuid, Sex sex, List<String> responsibilitiesMain, List<String> responsibilitiesSecondary, List<String> fields, LinkedHashMap<String, Rank> rankHistory) {
@@ -85,8 +84,7 @@ public class Teamler {
     }
 
     public List<TeamlerRankChange> getRankChanges(boolean includeHidden) {
-        //if(rankChanges == null) {
-        rankChanges = new ArrayList<>();
+        List<TeamlerRankChange> rankChanges = new ArrayList<>();
         if (rankHistory == null || rankHistory.isEmpty()) {
             return rankChanges;
         }
@@ -102,13 +100,8 @@ public class Teamler {
             String rankOldKey = TeamlerRankChange.toString(dates.get(Math.max(i - 1, 0)));
             if (!rankHistory.containsKey(rankOldKey) && rankHistory.containsKey("hidden-" + rankOldKey)) {
                 rankOldKey = "hidden-" + rankOldKey;
-                //hidden = true;
             }
             Rank rank_old = rankHistory.get(rankOldKey);
-
-//                if(Math.max(i - 1, 0) + 1 > dates.size() - 1) {
-//                    System.out.println("asd");
-//                }
 
             String rankNewKey = TeamlerRankChange.toString(dates.get(i));
             if (!rankHistory.containsKey(rankNewKey) && rankHistory.containsKey("hidden-" + rankNewKey)) {
@@ -116,14 +109,11 @@ public class Teamler {
                 hidden = true;
             }
             Rank rank_new = rankHistory.get(rankNewKey);
-
             if (includeHidden || !hidden && !rankNewKey.equals("initial")) {
                 TeamlerRankChange teamlerRankChange = new TeamlerRankChange(name, uuid, rank_old, rank_new, TeamlerRankChange.toString(dates.get(i)), hidden);
                 rankChanges.add(teamlerRankChange);
             }
         }
-        //}
-
         return rankChanges;
     }
 
@@ -184,5 +174,4 @@ public class Teamler {
                 ", rankHistory=" + rankHistory +
                 '}';
     }
-
 }

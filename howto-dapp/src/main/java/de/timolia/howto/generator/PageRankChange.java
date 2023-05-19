@@ -9,9 +9,7 @@ import java.util.List;
 import java.util.Locale;
 
 public class PageRankChange {
-
     public static String generate(List<Teamler> teamlers) {
-
         ArrayList<TeamlerRankChange> rankChanges = new ArrayList<>();
         for (Teamler teamler : teamlers) {
             rankChanges.addAll(teamler.getRankChanges(false));
@@ -21,11 +19,6 @@ public class PageRankChange {
             if (!t1.getDate().equals(t2.getDate())) {
                 return t2.getDate().compareTo(t1.getDate());
             }
-//            if(t1.getRankFrom().equals(t2.getRankFrom())) {
-//                Teamler teamler1 = teamlers.stream().filter(t -> t.getUuid().equals(t1.getUuid())).findFirst().orElse(null);
-//                Teamler teamler2 = teamlers.stream().filter(t -> t.getUuid().equals(t2.getUuid())).findFirst().orElse(null);
-//                return t1.getRankFrom().getString(teamler1.getSex()).compareToIgnoreCase(t2.getRankFrom().getString(teamler2.getSex()));
-//            }
             if (!t1.getRankTo().equals(t2.getRankTo())) {
                 Teamler teamler1 = teamlers.stream().filter(t -> t.getUuid().equals(t1.getUuid())).findFirst().orElse(null);
                 Teamler teamler2 = teamlers.stream().filter(t -> t.getUuid().equals(t2.getUuid())).findFirst().orElse(null);
@@ -48,7 +41,7 @@ public class PageRankChange {
             Calendar cal = Calendar.getInstance();
             cal.setTime(teamlerRankChange.getDate());
             String month = cal.getDisplayName(Calendar.MONTH, Calendar.LONG, Locale.GERMAN) + " " + cal.get(Calendar.YEAR);
-            String year = cal.get(Calendar.YEAR) + "";
+            String year = String.valueOf(cal.get(Calendar.YEAR));
 
             if (!year.equals(lastYear)) {
                 lastYear = year;
@@ -73,7 +66,6 @@ public class PageRankChange {
                     .append(teamlerRankChange.getReadableDate())
                     .append(" |")
                     .append("\n");
-            //sb.append(teamlerRankChange).append("\n");
         }
 
         sb.append("\n");

@@ -5,7 +5,6 @@ import de.timolia.howto.conversion.SQLApi;
 import java.util.UUID;
 
 public class TeamlerResponsibilities {
-
     private final String name;
     private final UUID uuid;
     private final String hv;
@@ -45,5 +44,4 @@ public class TeamlerResponsibilities {
                 ", nv='" + nv + '\'' +
                 '}';
     }
-
 }
