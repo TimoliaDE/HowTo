@@ -753,10 +753,6 @@
       "Geschäftsführung",
       "Verwaltung"
     ],
-    "fields": [
-      "Systemadministration",
-      "Plugin Development"
-    ],
     "rank_history": {
       "initial": "administrator",
       "08.11.2019": "management",
@@ -1876,6 +1872,9 @@
     "name": "byRoadrunner",
     "uuid": "2ae500be-80f4-4076-a6ea-b43abb431ed9",
     "sex": "male",
+    "fields": [
+      "Systemadministration"
+    ],
     "rank_history": {
       "initial": "mvp",
       "12.11.2019": "supporter",
@@ -2916,7 +2915,8 @@
       "Youtuber-Ränge"
     ],
     "fields": [
-      "Web Development"
+      "Web Development",
+      "Systemadministration"
     ],
     "rank_history": {
       "initial": "expert",
@@ -3036,6 +3036,7 @@
     "uuid": "b7673cf5-a23c-45b5-a2a7-f4f85eb4fd74",
     "sex": "male",
     "fields": [
+      "Systemadministration",
       "Plugin Development"
     ],
     "rank_history": {
@@ -3133,6 +3134,7 @@
     "uuid": "854f03b9-c528-4af8-94fd-783cbfbdb9e9",
     "sex": "male",
     "fields": [
+      "Web Development",
       "Backend Development"
     ],
     "rank_history": {
