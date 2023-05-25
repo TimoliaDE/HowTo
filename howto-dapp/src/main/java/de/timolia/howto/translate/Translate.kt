@@ -2,11 +2,9 @@ package de.timolia.howto.translate
 
 import java.io.IOException
 import java.io.UncheckedIOException
-import java.nio.charset.StandardCharsets
 import java.nio.file.Files
 import java.nio.file.Path
 import java.util.*
-import java.util.stream.Collectors
 import kotlin.Throws
 import kotlin.io.path.extension
 import kotlin.io.path.nameWithoutExtension
@@ -33,7 +31,7 @@ class Translate {
         val language = Language.valueOf(languageName.uppercase())
         println(languageName)
         val properties = Properties()
-        properties.load(Files.newBufferedReader(path, StandardCharsets.UTF_8))
+        properties.load(Files.newBufferedReader(path))
         translations[language] = properties.entries
                 .map { property -> Translation(language, property.key.toString(), property.value.toString()) }
                 .toMutableList()

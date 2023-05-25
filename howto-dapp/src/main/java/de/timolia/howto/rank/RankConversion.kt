@@ -7,7 +7,7 @@ import java.util.stream.Collectors
 object RankConversion {
     fun getRank(text: String): Rank? {
         return Arrays.stream(Rank.values())
-                .collect(Collectors.toMap(Function.identity()) { rank -> Math.max(getSimilarity(text, rank.getFemale()), getSimilarity(text, rank.male)) })
+                .collect(Collectors.toMap(Function.identity()) { rank -> getSimilarity(text, rank.getFemale()).coerceAtLeast(getSimilarity(text, rank.male)) })
                 .entries
                 .stream()
                 .max(Comparator.comparingDouble { (_, value) -> value })
@@ -19,7 +19,7 @@ object RankConversion {
     /**
      * Calculates the similarity (a number within 0 and 1) between two strings.
      */
-    fun getSimilarity(s1: String, s2: String): Double {
+    private fun getSimilarity(s1: String, s2: String): Double {
         var longer = s1
         var shorter = s2
         if (s1.length < s2.length) { // longer should always have greater length
@@ -46,8 +46,7 @@ object RankConversion {
                 if (i == 0) costs[j] = j else {
                     if (j > 0) {
                         var newValue = costs[j - 1]
-                        if (s1[i - 1] != s2[j - 1]) newValue = Math.min(Math.min(newValue, lastValue),
-                                costs[j]) + 1
+                        if (s1[i - 1] != s2[j - 1]) newValue = newValue.coerceAtMost(lastValue).coerceAtMost(costs[j]) + 1
                         costs[j - 1] = lastValue
                         lastValue = newValue
                     }

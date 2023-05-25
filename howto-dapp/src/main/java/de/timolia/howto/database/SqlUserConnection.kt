@@ -6,6 +6,7 @@ import java.util.*
 class SqlUserConnection private constructor(private val connection: Connection) {
     private val usernames: MutableMap<String?, UUID?> = HashMap()
     private val uuids: MutableMap<UUID?, String?> = HashMap()
+
     fun getUuid(name: String?): UUID? {
         return usernames.computeIfAbsent(name, ::resolveUniqueId)
     }

@@ -6,10 +6,9 @@ import de.timolia.howto.responsibility.Responsibility
 import de.timolia.howto.responsibility.ResponsibilityType
 import de.timolia.howto.translate.Language
 import java.util.*
-import java.util.stream.Collectors
 
 object PageResponsibilities {
-    fun generate(teamlers: MutableList<Teamler>): String {
+    fun generate(teamlers: List<Teamler>): String {
         val responsibilities: LinkedHashMap<String, LinkedHashMap<String, String?>> = object : LinkedHashMap<String, LinkedHashMap<String, String?>>() {
             init {
                 put("%page.responsibilities.project-team-orga%", object : LinkedHashMap<String, String?>() {

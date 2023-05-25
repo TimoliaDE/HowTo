@@ -6,8 +6,8 @@ import de.timolia.howto.teamler.Teamler
 import java.util.*
 
 object PageRankChange {
-    fun generate(teamlers: MutableList<Teamler>): String {
-        val rankChanges = ArrayList<TeamlerRankChange>()
+    fun generate(teamlers: List<Teamler>): String {
+        val rankChanges = arrayListOf<TeamlerRankChange>()
         for (teamler in teamlers) {
             rankChanges.addAll(teamler.getRankChanges(false))
         }

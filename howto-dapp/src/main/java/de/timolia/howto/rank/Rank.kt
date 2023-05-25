@@ -2,7 +2,14 @@ package de.timolia.howto.rank
 
 import de.timolia.howto.teamler.Sex
 
-enum class Rank {
+enum class Rank(
+        private val value: Int,
+        val inTeam: Boolean,
+        val cssClass: String,
+        val male: String,
+        private val female: String?,
+        val description: String? = null
+) {
     administrator(161, true, "administrator", "Administrator", "Administratorin", "%rank.administrator.description%"),
     administrator_city(160, true, "administrator", "Administrator City", null),
     builder(80, true, "builder", "Builder", "Builderin", "%rank.builder.description%"),
@@ -35,31 +42,6 @@ enum class Rank {
     supporter_city_games(100, true, "supporter", "Supporter City & Games", "Supporterin City & Games"),
     sysadmin(150, true, "sysadmin", "SysAdmin", null);
 
-    private val value: Int
-    val inTeam: Boolean
-    val male: String
-    private val female: String?
-    val cssClass: String
-    val description: String?
-
-    constructor(value: Int, inTeam: Boolean, cssClass: String, male: String, female: String?) {
-        this.value = value
-        this.inTeam = inTeam
-        this.male = male
-        this.female = female
-        this.cssClass = cssClass
-        description = null
-    }
-
-    constructor(value: Int, inTeam: Boolean, cssClass: String, male: String, female: String?, description: String?) {
-        this.value = value
-        this.inTeam = inTeam
-        this.male = male
-        this.female = female
-        this.cssClass = cssClass
-        this.description = description
-    }
-
     fun getString(sex: Sex): String {
         return if (sex == Sex.female && female != null) {
             female
@@ -71,6 +53,6 @@ enum class Rank {
     }
 
     fun compare(o: Rank): Int {
-        return Integer.compare(o.value, value)
+        return o.value.compareTo(value)
     }
 }

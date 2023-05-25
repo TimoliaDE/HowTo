@@ -7,20 +7,18 @@ import org.apache.commons.lang3.Validate
 import java.text.ParseException
 import java.text.RuleBasedCollator
 import java.util.*
-import java.util.stream.Collectors
-import java.util.stream.Stream
 
 class Teamler(
         val uuid: UUID,
         val sex: Sex,
-        var responsibilitiesMain: MutableList<String>?,
-        var responsibilitiesSecondary: MutableList<String>?,
-        val fields: MutableList<String>?,
+        var responsibilitiesMain: List<String>?,
+        var responsibilitiesSecondary: List<String>?,
+        val fields: List<String>?,
         private val rankHistory: LinkedHashMap<String, Rank>?
 ) {
     private var name: String
-    private val responsibilitiesMainHidden: MutableList<String>? = null
-    private val responsibilitiesSecondaryHidden: MutableList<String>? = null
+    private val responsibilitiesMainHidden: List<String>? = null
+    private val responsibilitiesSecondaryHidden: List<String>? = null
 
     @Transient
     private var rankCurrent: Rank? = null
@@ -34,7 +32,7 @@ class Teamler(
     }
 
     fun getRankChanges(includeHidden: Boolean): MutableList<TeamlerRankChange> {
-        val rankChanges: MutableList<TeamlerRankChange> = ArrayList()
+        val rankChanges = mutableListOf<TeamlerRankChange>()
         if (rankHistory.isNullOrEmpty()) {
             return rankChanges
         }
@@ -46,9 +44,9 @@ class Teamler(
                 .map { s -> s.replace("hidden-", "") }
                 .map { date -> TeamlerRankChange.toDate(date) }
                 .sorted()
-        for (i in Math.min(1, dates.size - 1) until dates.size) {
+        for (i in 1.coerceAtMost(dates.size - 1) until dates.size) {
             var hidden = false
-            var rankOldKey: String = TeamlerRankChange.toString(dates[Math.max(i - 1, 0)])
+            var rankOldKey: String = TeamlerRankChange.toString(dates[(i - 1).coerceAtLeast(0)])
             if (!rankHistory.containsKey(rankOldKey) && rankHistory.containsKey("hidden-$rankOldKey")) {
                 rankOldKey = "hidden-$rankOldKey"
             }
@@ -89,25 +87,29 @@ class Teamler(
             ruleBasedCollator.compare(name.lowercase(Locale.getDefault()), o.name.lowercase(Locale.getDefault()))
         } catch (e: ParseException) {
             e.printStackTrace()
-            throw RuntimeException()
+            throw RuntimeException(e)
         }
     }
 
     fun hasResponsibilityMain(responsibility: String?): Boolean {
-        return hasResponsibility(responsibility, Stream.concat(if (responsibilitiesMain == null) Stream.empty() else responsibilitiesMain!!.stream(), responsibilitiesMainHidden?.stream()
-                ?: Stream.empty()).collect(Collectors.toList()))
+        return hasResponsibility(
+                responsibility,
+                (responsibilitiesMain ?: emptyList()) + (responsibilitiesMainHidden ?: emptyList())
+        )
     }
 
     fun hasResponsibilitySecondary(responsibility: String?): Boolean {
-        return hasResponsibility(responsibility, Stream.concat(if (responsibilitiesSecondary == null) Stream.empty() else responsibilitiesSecondary!!.stream(), responsibilitiesSecondaryHidden?.stream()
-                ?: Stream.empty()).collect(Collectors.toList()))
+        return hasResponsibility(
+                responsibility,
+                (responsibilitiesSecondary ?: emptyList()) + (responsibilitiesSecondaryHidden ?: emptyList())
+        )
     }
 
-    private fun hasResponsibility(responsibility: String?, responsibilityList: MutableList<String>?): Boolean {
-        if (!getRankCurrent().inTeam && responsibilityList!!.isNotEmpty()) {
+    private fun hasResponsibility(responsibility: String?, responsibilityList: List<String>): Boolean {
+        if (!getRankCurrent().inTeam && responsibilityList.isNotEmpty()) {
             throw RuntimeException("'$name' has responsibilities but is not in team anymore")
         }
-        return responsibilityList != null && (responsibilityList.contains(responsibility) || responsibilityList.contains("$responsibility Forum"))
+        return responsibilityList.contains(responsibility) || responsibilityList.contains("$responsibility Forum")
     }
 
     fun updateName() {

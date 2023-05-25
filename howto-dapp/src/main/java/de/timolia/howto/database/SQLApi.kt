@@ -10,6 +10,7 @@ object SQLApi {
 
     @Volatile
     private var triedConnect = false
+
     private fun establishConnection(): SqlUserConnection {
         if (!triedConnect) {
             synchronized(SQLApi::class.java) {

@@ -4,7 +4,5 @@ enum class Language {
     DE,
     EN;
 
-    fun key(): String {
-        return name.lowercase()
-    }
+    fun key() = name.lowercase()
 }
