@@ -12,7 +12,7 @@ object InitialConversion {
     @Throws(IOException::class, ParseException::class)
     fun convert() {
         val teamlerRankChanges = JsonBuilder.getTeamlerRankChanges()
-        val teamlers= teamlerRankChanges.map(TeamlerRankChange::uuid).sorted().distinct().map { uuid ->
+        val teamlers = teamlerRankChanges.asSequence().map(TeamlerRankChange::uuid).sorted().distinct().map { uuid ->
             val rankHistory = LinkedHashMap<String, Rank>()
             teamlerRankChanges
                     .filter { teamlerRankChange -> teamlerRankChange.uuid == uuid }

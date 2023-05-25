@@ -27,9 +27,7 @@ class Teamler(
         name = SQLApi.getName(uuid)!!
     }
 
-    fun getNameForMarkdown(): String {
-        return name.replace("_", "\\\\_")
-    }
+    fun getNameForMarkdown() = name.replace("_", "\\_")
 
     fun getRankChanges(includeHidden: Boolean): MutableList<TeamlerRankChange> {
         val rankChanges = mutableListOf<TeamlerRankChange>()

@@ -118,7 +118,7 @@ object PageResponsibilities {
                     hvEntry.renderTo(sb)
                 }
                 if (nv.isNotEmpty() || !nvCustom.isEmpty()) {
-                    sb.append("\n").append("| | |")
+                    sb.append("\n")
                     if (nvCustom.isEmpty()) {
                         for (teamler in nv) {
                             hvCustom.add(Responsibility.concreteTeamster(ResponsibilityType.NV, teamler))
