@@ -3009,13 +3009,9 @@
     "sex": "female",
     "rank_history": {
       "initial": "expert",
-      "02.05.2022": "supporter"
-    },
-    "responsibilities_secondary": [
-      "HowTo",
-      "JumpWorld Events",
-      "JumpWorld Verifizierung"
-    ]
+      "02.05.2022": "supporter",
+      "30.05.2023": "native_expert"
+    }
   },
   {
     "name": "Maathias",
@@ -3053,7 +3049,8 @@
     "rank_history": {
       "initial": "expert",
       "13.06.2022": "creator",
-      "18.02.2023": "content"
+      "18.02.2023": "content",
+      "30.05.2023": "native_expert"
     }
   },
   {
