@@ -32,6 +32,7 @@ enum class Rank(
     native_mvp(35, false, "mvp", "Native MVP", null),
     native_mvp_plus(45, false, "mvp", "Native MVP+", null),
     native_youtuber(60, false, "youtuber", "Native YouTuber", null),
+    youtuber(59, false, "youtuber", "YouTuber", null),
     pro(10, false, "pro", "Pro", null),
     pro_plus(20, false, "pro", "Pro+", null),
     spieler(0, false, "user", "Spieler", "Spielerin"),
