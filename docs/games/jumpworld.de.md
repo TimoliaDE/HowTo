@@ -21,7 +21,7 @@ In JumpWorld können verschiedenste Jump and Runs gespielt, aber auch selbst erb
 Täglich wird ein Parcours zum Jump and Run des Tages gekürt.
 Um Tagessieger zu werden:
 
-- veröffentlicht von 20 Uhr Tag X-4 bis 20 Uhr Tag X-1
+- veröffentlicht von 20 Uhr Tag X-7 bis 20 Uhr Tag X-1
 - geschafft von mindestens 10% aller Spieler, die es versucht haben
 - mindestens 25 Bewertungen
 - besser bewertet als alle anderen, die auch die Kriterien erfüllen

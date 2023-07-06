@@ -10,15 +10,15 @@ Please note that private messages, party messages and friend broadcasts are not 
 You can report this kind of message with a screenshot or video of the complete Minecraft window on tour https://i.imgur.com/5LWmybt.png or in-game via `/reportevidence <username> <evidence>`. 
  
  
-| Command | Function | 
-| ------- | -------- | 
+| Command                                                                                                                         | Function                                        | 
+|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------| 
 | `/report <username>`, `/rp`, `/chatreport`, `/chatrp`, `/chatlog`, `/cl`, `/livereport`, `/liverp`, `/teamingreport`, `/teamrp` | Lets you select a category and creates a report | 
-| `/reportjnr <ID>`               | Creates a report of a Jump and Run in JumpWorld | 
-| `/reportbugusing <username> <description>` | Creates a report about bugusing | 
-| `/reportevidence <username> <evidence>` | Creates a report with evidence | 
-| `/reportinfo <ID>`              | Shows you the details of a report | 
-| `/reports [page]`              | Opens an overview of your reports | 
-| `/reportstats`                  | Displays the success rate of your reports | 
+| `/reportjnr <ID>`                                                                                                               | Creates a report of a Jump and Run in JumpWorld | 
+| `/reportbugusing <username> <description>`                                                                                      | Creates a report about bugusing                 | 
+| `/reportevidence <username> <evidence>`                                                                                         | Creates a report with evidence                  | 
+| `/reportinfo <ID>`                                                                                                              | Shows you the details of a report               | 
+| `/reports [page]`                                                                                                               | Opens an overview of your reports               | 
+| `/reportstats`                                                                                                                  | Displays the success rate of your reports       | 
  
 ### Reporting players on our Discord 
 In case a player who violated our rules went offline before a team member could spectate them, you can report the player on our [Discord](https://timolia.de/discord) with video evidence. 
