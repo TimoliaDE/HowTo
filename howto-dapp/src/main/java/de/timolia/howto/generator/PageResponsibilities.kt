@@ -117,17 +117,15 @@ object PageResponsibilities {
                     sb.append("\n")
                     hvEntry.renderTo(sb)
                 }
-                if (nv.isNotEmpty() || !nvCustom.isEmpty()) {
+                if (nvCustom.isEmpty()) {
+                    for (teamler in nv) {
+                        nvCustom.add(Responsibility.concreteTeamster(ResponsibilityType.NV, teamler))
+                    }
+                }
+                for (nvEntry in nvCustom) {
                     sb.append("\n")
-                    if (nvCustom.isEmpty()) {
-                        for (teamler in nv) {
-                            hvCustom.add(Responsibility.concreteTeamster(ResponsibilityType.NV, teamler))
-                        }
-                    }
-                    for (nvEntry in nvCustom) {
-                        sb.append("\n")
-                        nvEntry.renderTo(sb)
-                    }
+                    println(nvEntry)
+                    nvEntry.renderTo(sb)
                 }
             }
         }
