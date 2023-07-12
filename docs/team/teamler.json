@@ -345,21 +345,13 @@
     "name": "xJu1ia",
     "uuid": "9d4ee99b-d4d1-4ca4-8a50-50270a5fadb9",
     "sex": "female",
-    "responsibilities_main": [
-      "Grafikdesign",
-      "Teamlerauswahl Support",
-      "Social Media",
-      "UHC"
-    ],
-    "responsibilities_secondary": [
-      "Youtuber-Ränge"
-    ],
     "rank_history": {
       "initial": "expert",
       "09.05.2016": "supporter_games",
       "14.12.2017": "native_expert",
       "05.04.2020": "supporter",
-      "07.02.2021": "moderator"
+      "07.02.2021": "moderator",
+      "12.07.2023": "native_expert"
     }
   },
   {
