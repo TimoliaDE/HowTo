@@ -3218,5 +3218,35 @@
       "initial": "spieler",
       "14.06.2023": "content"
     }
+    {
+    "name": "Schneeeule_",
+    "uuid": "e01be9de-968a-4ead-a520-aca93c89572a",
+    "sex": "male",
+    "responsibilities_main": [
+      "Gamedesign"
+    ],
+    "rank_history": {
+      "initial": "spieler",
+      "12.07.2023": "content"
+    }
+    {
+    "name": "Mareeeek",
+    "uuid": "91e8a331-94b3-4d8b-b4d5-53e8aeff7ad8",
+    "sex": "male",
+    "responsibilities_main": [
+      "Gamedesign"
+    ],
+    "rank_history": {
+      "initial": "expert",
+      "21.07.2023": "content"
+    }
+    {
+    "name": "xDarkey",
+    "uuid": "33c50bfd-e1b4-4b45-850e-0702a1319393",
+    "sex": "male",
+    "rank_history": {
+      "initial": "expert",
+      "20.07.2023": "supporter"
+    }
   }
 ]
