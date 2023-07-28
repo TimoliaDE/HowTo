@@ -3243,13 +3243,22 @@
       "21.07.2023": "content"
     }
   },
-    {
+  {
     "name": "xDarkey",
     "uuid": "33c50bfd-e1b4-4b45-850e-0702a1319393",
     "sex": "male",
     "rank_history": {
       "initial": "expert",
       "20.07.2023": "supporter"
+    }
+  },
+  {
+    "name": "FluffixYT",
+    "uuid": "e0cc0eb4-8668-41f8-a4cf-83efcab96e12",
+    "sex": "male",
+    "rank_history": {
+      "initial": "spieler",
+      "28.07.2023": "developer"
     }
   }
 ]
