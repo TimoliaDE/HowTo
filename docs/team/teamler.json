@@ -1022,22 +1022,13 @@
     "name": "TrueSpoki",
     "uuid": "d723842a-7dd9-4e09-ad8e-63086178e73e",
     "sex": "male",
-    "responsibilities_main": [
-      "JumpWorld Verifizierung",
-      "Teamlerauswahl Content"
-    ],
-    "responsibilities_secondary": [
-      "Entschuldigungen",
-      "Social Media",
-      "UHC",
-      "Youtuber-Ränge"
-    ],
     "rank_history": {
       "initial": "pro_plus",
       "08.03.2020": "supporter",
       "09.01.2021": "native_mvp_plus",
       "07.02.2021": "supporter",
-      "09.01.2022": "supporter_plus"
+      "09.01.2022": "supporter_plus",
+      "09.08.2023": "native_expert"
     }
   },
   {
@@ -3256,9 +3247,12 @@
     "name": "FluffixYT",
     "uuid": "e0cc0eb4-8668-41f8-a4cf-83efcab96e12",
     "sex": "male",
+    "fields": [
+      "Plugin Development"
+    ],
     "rank_history": {
-      "initial": "spieler",
-      "28.07.2023": "developer"
+      "initial": "expert",
+      "27.07.2023": "developer"
     }
   }
 ]
