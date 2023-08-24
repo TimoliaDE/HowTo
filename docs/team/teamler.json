@@ -126,7 +126,8 @@
       "17.07.2016": "builder",
       "09.11.2018": "native_expert",
       "08.10.2019": "builder",
-      "08.11.2019": "head_builder"
+      "08.11.2019": "head_builder",
+      "23.08.2023": "administrator"
     }
   },
   {
@@ -2130,7 +2131,8 @@
       "16.05.2018": "administrator",
       "08.11.2019": "developer_plus",
       "29.09.2021": "management",
-      "10.11.2021": "administrator"
+      "10.11.2021": "administrator",
+      "23.08.2023": "native_expert"
     }
   },
   {
