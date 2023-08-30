@@ -3,36 +3,35 @@
     <div class="banner-text">Splun</div>
 </div>
 
-## Das Spielprinzip
-Splun ist eine Kombination aus <strong>Spl</strong>eef und Jump and R<strong>un</strong> und eignet sich perfekt als kleines Spiel für Zwischendurch.
+## The game concept
+Splun is a combination of <strong>Spl</strong>eef and Jump and R<strong>un</strong>.
+## And that's how it works
+- Vote with `/vote <Map>` or with a klick into the Chat for the Map of your choise.
+- Try to stay a live as long as possible with jumping from block to block.
+- All you will touch is going to despawn under your foots.
+- With different items you can change the movement of other players or increase your personal speed. 
 
-## Und so gehts
-- Stimme mit `/vote <Map>` oder einem Klick im Chat für die Map deiner Wahl.
-- Versuche, so lange wie möglich zu überleben, indem du von Block zu Block springst.
-- Alles, was du berührst, verschwindet unter deinen Füßen.
-- Mit verschiedenen Items kannst du deine Gegner beeinflussen oder dich schneller bewegen.
+## Special Items
+- <strong>Rocket</strong>: You can spring higher.
+- <strong>Feather</strong>: Your not going to destroy blocks.
+- <strong>Stone</strong>: A levitation platform is forming beneath your feet.
+- <strong>Sword</strong>: Knock your opponents off the platform.
+- <strong>Trank</strong>: Fill your opponents with arrows (Nausea effect).
+- <strong>Boots</strong>: You can run faster.
+- <strong>TNT</strong>: Blocks you touch turn into TNT.
+- <strong>Obsidian</strong>: All opponents receive the Blindness effect.
+- <strong>Pickaxe</strong>: You can mine blocks with a pickaxe.
+- <strong>Ender pearl</strong>: You receive an ender pearl.
+- <strong>Soulsand</strong>: All opponents receive the Slowness effect.
+- <strong>Golden Apple</strong>: You can fly
+- <strong>Egg</strong>: Throw eggs to spawn blocks.
 
-## Spezielle Items
-- <strong>Rakete</strong>: Du kannst höher springen
-- <strong>Feder</strong>: Du zerstörst keine Blöcke
-- <strong>Stein</strong>: Unter deinen Füßen entsteht eine Schwebeplattform
-- <strong>Schwert</strong>: Schlage deine Gegner von der Plattform
-- <strong>Trank</strong>: Fülle deine Gegner ab (Übelkeitseffekt)
-- <strong>Schuhe</strong>: Du kannst schneller rennen
-- <strong>TNT</strong>: Blöcke, die du berührst, verwandeln sich in TNT
-- <strong>Obsidian</strong>: Alle Gegner erhalten den Blindness-Effekt
-- <strong>Spitzhacke</strong>: Du kannst Blöcke mit der Spitzhacke abbauen
-- <strong>Enderperle</strong>: Du erhältst eine Enderperle
-- <strong>Soulsand</strong>: Alle Gegner erhalten den Slowness-Effekt
-- <strong>Goldapfel</strong>: Du kannst fliegen
-- <strong>Ei</strong>: Wirf die Eier, um  Blöcke zu spawnen
-
-## Die Ränge in Splun
+## The ranks in 4rena
 
 | Rang | Punkte | Name |
 | ------ | ------ | ------ |
 | 1 | 64 | Noob |
-| 2 | 128 | Anfänger |
+| 2 | 128 | Starter |
 | 3 | 256 | Hoppelhase |
 | 4 | 512 | Glückspilz |
 | 5 | 1024 | Grashüpfer |
@@ -42,16 +41,16 @@ Splun ist eine Kombination aus <strong>Spl</strong>eef und Jump and R<strong>un<
 | 9 | 16348 | ??? |
 | 10 | 32768 | ??? |
 
-Die restlichen Ränge bleiben so lange geheim, bis die entsprechenden Ränge erspielt wurden. Um den Überraschungsfaktor zu bewahren, werden namentlich nur die ersten Ränge genannt. 
+The remaining ranks remain secret until the corresponding ranks have been reached. To keep the surprise, only the first few ranks are mentioned by name.
 
-## Premium-Features
-- Premium-Spieler besitzen je nach Rang bis zu vier Stimmen im Voting-System.
-- Zum Mapvoting kann jederzeit die Lieblingsmap hinzugefügt werden.
-- Premium-Spieler erhalten bis zu drei mal mehr Pixel.
-- Werde mit `/togglerank` als normaler Spieler angezeigt.
+## Premium features
+- Map votes of players with a premium rank count more.
+- Favorite maps can be added to the map voting at any time.
+- With a premium rank players receive up to three times the normal amount of pixels.
+- Before the game starts, any team can be joined even if its already full.
+- Use /togglerank to go undercover and look like a normal user.
 
-Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium/) nachlesen.
+Detailed infos about our ranks and their benefits are listed [hier](/ranks/premium/).
 
-## Arenen und Maps
-Selbstgebaute Maps für diesen Modus können <a href="https://forum.timolia.de/forums/map-einsendungen.61/" target="_blank">im Forum eingesendet werden</a>. Mehr dazu erfährst du 
-<a href="https://forum.timolia.de/threads/wie-sende-ich-eine-map-ein.21267/" target="_blank">in unserer Anleitung</a>.
+## Arenas and maps
+If you like BrainBow and wanna get creative you can show us your own BrainBow map by creating a new one. Maps can be submitted in our [Discord](https://timolia.de/discord).
