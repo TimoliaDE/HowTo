@@ -2965,6 +2965,11 @@
     "name": "q8h",
     "uuid": "c2505ed9-8600-4570-a73f-0af05972da4f",
     "sex": "male",
+    "responsibilities_main": [
+      "JumpWorld Events",
+      "JumpWorld Verifizierung",
+      "Monatssieger"
+    ],
     "rank_history": {
       "initial": "expert",
       "02.05.2022": "supporter",
