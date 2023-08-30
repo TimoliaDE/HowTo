@@ -96,7 +96,7 @@ Mehr über Entbannungsanträge und Entschuldigungen [kannst du hier lesen](/bans
 Achievements kann man während des Spielens auf Timolia abschließen. Eine Übersicht über alle Achievements findest du unter dem Befehl `/achievements`.
 
 ### Woher bekomme ich das Timolia Optifine-Cape?
-- URL: [https://www.needcoolshoes.com/banner?=paeyeseqpwphec](https://www.needcoolshoes.com/banner?=paeyeseqpwphec)
+- URL: [https://www.needcoolershoes.com/banner?=paeyeseqpwphec](https://www.needcoolshoes.com/banner?=paeyeseqpwphec)
 - Align: Scale oder Bottom
 - Top: 334CB2
 - Bottom: 334CB2
