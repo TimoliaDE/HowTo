@@ -15,11 +15,6 @@ You can join it via [https://timolia.de/discord](https://timolia.de/discord).
 Here you can hang out with your friends and the community. Moreover, you can also seek support, report bugs,
 participate in giveaways and much more. All further information is provided [in our Discord explanation](/discord/).
 
-### Hasn't there once been a Citybuild?
-It all started on May 7th, 2010 when Tim founded Timolias City build. 
-Unfortunately, it had to down on December 16th, 2018. 
-All further information is provided [here](https://timolia.de/city).
-
 ### Which ranks are there?
 - <b><span class='management'>Management</span></b>:
 These team members form the leadership of Timolia. 
@@ -128,6 +123,10 @@ You can find an overview of all achievements with the command `/achievements`.
 - LabyMod: [https://imgur.com/a/cc5Ou](https://imgur.com/a/cc5Ou) und [https://imgur.com/a/08ghXiI](https://imgur.com/a/08ghXiI)
 - 5zig: [https://imgur.com/a/RXBwvGo](https://imgur.com/a/RXBwvGo)
 
+### Hasn't there once been a Citybuild?
+It all started on May 7th, 2010 when Tim founded Timolias City build. 
+Unfortunately, it had to down on December 16th, 2018. 
+All further information is provided [here](https://timolia.de/city).
 # 2 - Games
 
 ### Where is teaming allowed?
