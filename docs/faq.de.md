@@ -12,10 +12,6 @@ Auf unserem Server bieten wir zeitlich begrenzte Channel zum Mieten an, die Kost
 Über [https://timolia.de/discord](https://timolia.de/discord) kannst du auf unseren Discord-Server joinen. Hier kannst du dich mit anderen Usern austauschen, Support erhalten oder an Gewinnspielen teilnehmen.
 Alle weiteren Informationen findest du [in unserer Discord-Erklärung](/discord/).
 
-### Wo ist der Citybuild hin?
-Mit dem CityBuild begann alles. Am 07.05.2011 gründete Tim den CityBuild Timolias.  
-Leider musste City am 16.12.2018 aus verschiedenen Gründen schließen. Mehr Informationen dazu erhältst du [hier](http://timolia.de/city).
-
 ### Welche Ränge gibt es?
 - <b><span class='administrator'>Administrator</span></b>:
 Diese Teamler bilden die Leitung Timolias. Sie kümmern sich um die Verwaltung, Organisation und die Teamleitung.
@@ -104,6 +100,10 @@ Achievements kann man während des Spielens auf Timolia abschließen. Eine Über
 ### Woher bekomme ich die 5zig/LabyMod Capes?
 - LabyMod: [https://imgur.com/a/cc5Ou](https://imgur.com/a/cc5Ou) und [https://imgur.com/a/08ghXiI](https://imgur.com/a/08ghXiI)
 - 5zig: [https://imgur.com/a/RXBwvGo](https://imgur.com/a/RXBwvGo)
+
+### Wo ist der Citybuild hin?
+Mit dem CityBuild begann alles. Am 07.05.2011 gründete Tim den CityBuild Timolias.  
+Leider musste City am 16.12.2018 aus verschiedenen Gründen schließen. Mehr Informationen dazu erhältst du [hier](http://timolia.de/city).
 
 # 2 - Games
 
