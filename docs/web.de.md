@@ -23,17 +23,6 @@ Sollten Fragen auftreten, steht das Timolia-Team zur Verfügung.
 Die Foren-Regeln findest du [hier](/rules/forum/).
 Seit dem 31.08.2022 ist das Forum nicht mehr in Betrieb, bitte benutze stattdessen unseren [Discord Server](https://discord.gg/timolia).
 
-## Nutzung des Forums
-
-### Erstellen von Threads
-Auf der Startseite des Forums befinden sich verschiedene Unterforen. So gibt es beispielsweise ein eigenes Forum für Bugs, Entbannungsanträge etc., wichtige Themen werden damit
-aus der Masse herausgefiltert. Bitte beachte die Themenbereiche, falsch "eingeordnete" Themen werden eventuell ohne Vorwarnung gelöscht. Drücke in einem Unterforum auf
-"Neues Thema erstellen", um deinen Text schreiben zu können.
-
-### Konversationen führen
-In der oberen rechten Ecke des Forums befinden sich zwei Symbole, eine Sprechblase und eine Glocke. Über die Glocke werden Benachrichtigungen angezeigt, private Konversationen kannst du
-mithilfe der Sprechblase führen.
-
 Weitere Informationen findest du in <a href="https://forum.timolia.de/threads/die-neue-website.38/" target="_blank">diesem</a> Beitrag.
 
 ### Entbannungsanträge
