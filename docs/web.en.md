@@ -23,20 +23,6 @@ If there are any questions, the Timolia team is available.
 You can find the rules of the forums [here](/rules/forum/).
 Since 31.08.2022 the forum is no longer in use, please use our [Discord server](https://timolia.de/discord) instead.
 
-## Use of the forums
-
-### Creation of threads
-There are various sub-forums on the homepage of the forum.
-For example, there is a separate forum for bugs, appeals, etc., important topics are filtered out from the crowd.
-Please note the subject areas, incorrectly "classified" threads may be deleted without warning.
-Press "Post New Thread" in a sub-forum to write your text.
-
-### Conversations
-In the upper right corner of the forums, there are two symbols, a speech bubble and a bell.
-Notifications are displayed above the bell, and you can use the speech bubble to conduct private conversations.
-
-Further information can be found in <a href="https://forum.timolia.de/threads/die-neue-website.38/" target="_blank">this</a> post.
-
 ### Appeals
 From a ban of two days on, you can shorten your ban time by up to 1/2 with an appeal, with a permanent ban your 
 ban time will be reduced to 30 days.
