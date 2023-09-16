@@ -3262,5 +3262,23 @@
       "initial": "expert",
       "27.07.2023": "developer"
     }
+  },
+  {
+    "name": "Thomas5432",
+    "uuid": "e6e02927-7278-4aad-9e41-cfd4c1d2734c",
+    "sex": "male",
+    "rank_history": {
+      "initial": "expert",
+      "12.09.2023": "supporter"
+    }
+  },
+  {
+    "name": "Bastiz",
+    "uuid": "3bd2ee53-73e9-4328-9a7b-5a7570049050",
+    "sex": "male",
+    "rank_history": {
+      "initial": "pro_plus",
+      "12.09.2023": "supporter"
+    }
   }
 ]
