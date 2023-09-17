@@ -258,7 +258,7 @@ Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführ
 | `/unclaim` | Gibt deinen Chunk frei |
 | `/home` | Öffnet dir das Teleport Punkte Menü |
 | `/spawn` | Bringt dich direkt zum Spawn der Freebuild Welt |
-| `/workbench`, `/wb`, `/crafting` | Öffnet dir eine Werkbank
+| `/workbench`, `/wb`, `/crafting` | Öffnet dir eine Werkbank |
 | `/backpack`, `/bp`, `/ec` | Öffnet dein persönliches Backpack |
 | `/removebinding` | Entfernt den Fluch der Bindung von sämtlichen Rüstungsteilen |
 | `/settings`| Öffnet die Freebuild-Einstellungen |
