@@ -221,8 +221,25 @@ The following list contains commands you can use with the <strong>Timolia Bot</s
 | `/jointeam <team color>`, `/team` | Joins a team |
 | `/kill`                           | Kills yourself |
 
-### JumpWorld
+### Freebuild
+| Command | Description |
+| ------ | -------- |
+| `/claim` | Claim the chunk you're in |
+| `/unclaim` | Releases your chunk |
+| `/home` | Open the Teleport Points menu |
+| `/spawn` | Takes you straight to the spawn of the Freebuild world |
+| `/workbench`, `/wb`, `/crafting` | Open a workbench for you |
+| `/backpack`, `/bp`, `/ec` | Open your personal backpack |
+| `/removebinding` | Removes the curse of binding from all armor pieces |
+| `/settings`| Opens the Freebuild settings |
+| `/missions`| Gives you access and overview of all active missions |
+| `/foodmenu` | Opens the food shop |
+| `/tutorial` | Shows you a Freebuild introduction |
+| `/trade <Spieler>` | Starting a trade with another player |
+| `/tpa <Spieler>`, `/tphere <Spieler>` | Sends a request of teleport to another player |
+| `/accepttpa <Spieler>`, `/accepttphere` | Accepts and allows a player to be teleported to you |
 
+### JumpWorld
 | Command | Description |
 | ------ | -------- |
 | `/b`                                | Opens the build info menu |
