@@ -254,21 +254,20 @@ Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführ
 ### Freebuild
 | Befehl | Funktion |
 | ------ | -------- |
-| `/claim` | Beansprucht den Chunk in welchem du dich befindest |
-| `/unclaim` | Gibt deinen Chunk frei |
-| `/home` | Öffnet dir das Teleport Punkte Menü |
-| `/spawn` | Bringt dich direkt zum Spawn der Freebuild Welt |
-| `/workbench`, `/wb`, `/crafting` | Öffnet dir eine Werkbank |
+| `/accepttpa <Spieler>`, `/accepttphere` | Akzeptiert und ermöglicht die Teleportation eines Spielers zu dir |
 | `/backpack`, `/bp`, `/ec` | Öffnet dein persönliches Backpack |
+| `/claim` | Beansprucht den Chunk in welchem du dich befindest |
+| `/foodmenu` | Öffnet den Essens Shop |
+| `/home` | Öffnet dir das Teleport Punkte Menü |
+| `/missions`| Verschafft dir zugang und übersicht zu allen aktiven Missionen |
 | `/removebinding` | Entfernt den Fluch der Bindung von sämtlichen Rüstungsteilen |
 | `/settings`| Öffnet die Freebuild-Einstellungen |
-| `/missions`| Verschafft dir zugang und übersicht zu allen aktiven Missionen |
-| `/foodmenu` | Öffnet den Essens Shop |
-| `/tutorial` | Zeigt dir eine Freebuild Einführung an |
-| `/trade <Spieler>` | Eröffnet einen Handel mit einem anderem Spieler |
+| `/spawn` | Bringt dich direkt zum Spawn der Freebuild Welt |
 | `/tpa <Spieler>`, `/tphere <Spieler>` | Sendet eine anfrage des Teleportes zu einem anderen Spieler |
-| `/accepttpa <Spieler>`, `/accepttphere` | Akzeptiert und ermöglicht die Teleportation eines Spielers zu dir |
-
+| `/trade <Spieler>` | Eröffnet einen Handel mit einem anderem Spieler |
+| `/tutorial` | Zeigt dir eine Freebuild Einführung an |
+| `/unclaim` | Gibt deinen Chunk frei |
+| `/workbench`, `/wb`, `/crafting` | Öffnet dir eine Werkbank |
 
 ### SecretGames
 | Befehl | Funktion |
