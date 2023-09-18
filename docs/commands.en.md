@@ -224,20 +224,20 @@ The following list contains commands you can use with the <strong>Timolia Bot</s
 ### Freebuild
 | Command | Description |
 | ------ | -------- |
-| `/claim` | Claim the chunk you're in |
-| `/unclaim` | Releases your chunk |
-| `/home` | Open the Teleport Points menu |
-| `/spawn` | Takes you straight to the spawn of the Freebuild world |
-| `/workbench`, `/wb`, `/crafting` | Open a workbench for you |
+| `/accepttpa <Spieler>`, `/accepttphere` | Accepts and allows a player to be teleported to you |
 | `/backpack`, `/bp`, `/ec` | Open your personal backpack |
+| `/claim` | Claim the chunk you're in |
+| `/foodmenu` | Opens the food shop |
+| `/home` | Open the Teleport Points menu |
+| `/missions`| Gives you access and overview of all active missions |
 | `/removebinding` | Removes the curse of binding from all armor pieces |
 | `/settings`| Opens the Freebuild settings |
-| `/missions`| Gives you access and overview of all active missions |
-| `/foodmenu` | Opens the food shop |
-| `/tutorial` | Shows you a Freebuild introduction |
-| `/trade <Spieler>` | Starting a trade with another player |
+| `/spawn` | Takes you straight to the spawn of the Freebuild world |
 | `/tpa <Spieler>`, `/tphere <Spieler>` | Sends a request of teleport to another player |
-| `/accepttpa <Spieler>`, `/accepttphere` | Accepts and allows a player to be teleported to you |
+| `/trade <Spieler>` | Starting a trade with another player |
+| `/tutorial` | Shows you a Freebuild introduction |
+| `/unclaim` | Releases your chunk |
+| `/workbench`, `/wb`, `/crafting` | Open a workbench for you |
 
 ### JumpWorld
 | Command | Description |
