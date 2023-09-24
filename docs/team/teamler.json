@@ -3197,12 +3197,10 @@
     "name": "Leg0shi_",
     "uuid": "08521f46-8bb8-43a8-9eb3-d3842c34473d",
     "sex": "male",
-    "fields": [
-      "Plugin Development"
-    ],
     "rank_history": {
       "initial": "youtuber",
       "03.06.2023": "developer"
+      "24.09.2023":"native_youtuber"
     }
   },
   {
