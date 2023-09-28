@@ -15,4 +15,4 @@ Exploiting any bugs for personal gain is prohibited. Game-influencing bugs must 
 
 <strong>The team reserves the right to sanction certain actions (even outside of Minecraft and TeamSpeak servers) that are not explicitly listed in the rules.</strong>
 
-Last updated: Septembre 17, 2023
+Last updated: September 17, 2023
