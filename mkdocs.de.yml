@@ -15,10 +15,10 @@ nav:
   - Discord: 'discord.md'
   - Zwei-Faktor-Authentifizierung: '2fa.md'
 - Das Regelwerk:
-  - Games: 'rules/games.md'
-  - Erlaubte Modifikationen: 'rules/approvedmods.md'
   - Discord: 'rules/discord.md'
-  - Forum: 'rules/forum.md'
+  - Erlaubte Modifikationen: 'rules/approvedmods.md'
+  - Freebuild: 'rules/freebuild.md'
+  - Games: 'rules/games.md'
   - TeamSpeak: 'rules/teamspeak.md'
   - VoiceChat: 'rules/voicechat.md'
 - Games Netzwerk:
@@ -29,7 +29,6 @@ nav:
   - Castles: 'games/castles.md'
 #  - Conquer: 'games/conquer.md'
   - DNA: 'games/dna.md'
-  - Freebuild: 'games/freebuild.md'
   - InTime: 'games/intime.md'
   - JumpWorld: 'games/jumpworld.md'
   - Mineception: 'games/mineception.md'

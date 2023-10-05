@@ -15,11 +15,11 @@ nav:
   - Community-Discord: 'discord.md'
   - Two-Factor Authentication: '2fa.md'
 - Rules:
-  - Games: 'rules/games.md'
   - Allowed modifications: 'rules/approvedmods.md'
-  - Forum: 'rules/forum.md'
-  - TeamSpeak: 'rules/teamspeak.md'
   - Discord: 'rules/discord.md'
+  - Freebuild: 'rules/freebuild.md'
+  - Games: 'rules/games.md'
+  - TeamSpeak: 'rules/teamspeak.md'
 - Games Network:
   - 1vs1: 'games/1vs1.md'
   - 4rena: 'games/4rena.md'
@@ -28,7 +28,6 @@ nav:
   - Castles: 'games/castles.md'
 #  - Conquer: 'games/conquer.md'
   - DNA: 'games/dna.md'
-  - Freebuild: 'games/freebuild.md'
   - InTime: 'games/intime.md'
   - JumpWorld: 'games/jumpworld.md'
   - Mineception: 'games/mineception.md'
