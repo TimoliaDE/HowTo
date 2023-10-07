@@ -24,6 +24,10 @@
 - Game-influencing bugs must be reported to the team
 - Reporting serious bugs may result in a reward for the reporters
 
+## §6 - Second Accounts/Alt Accounts
+- Second/old accounts may not be used to increase the plot of the main account. 
+- Second/old accounts may not be used to purify items from the alchemist for the main account.
+
 <strong>The team reserves the right to sanction certain actions (even outside of Minecraft and TeamSpeak servers) that are not explicitly listed in the rules.</strong>
 
 Last updated: October 07, 2023

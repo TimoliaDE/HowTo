@@ -23,6 +23,10 @@
 - Das Ausnutzen jeglicher Bugs für den eigenen Vorteil ist verboten
 - Spiel beeinflussende Bugs müssen dem Team gemeldet werden. Das Melden von schwerwiegenden Bugs kann eine Belohnung, der Reporters nach sich ziehen
 
+## §6 - Zweit Accounts/Alt Accounts
+- Zweit/Alt Accounts dürfen nicht genutzt werden, um das Plot des Hauptaccounts zu vergrößern. 
+- Zweit/Alt Accounts dürfen nicht dafür genutzt werden, um Items beim Alchemisten für den Hauptaccount zu purifien.
+
 <strong>Das Team behält sich das Recht vor, bestimmtes Handeln (auch außerhalb des Minecraft- und TeamSpeakservers) zu sanktionieren, welches nicht explizit in den Regeln aufgelistet ist.</strong>
 
 Letzte Aktualisierung: 07. Oktober 2023
