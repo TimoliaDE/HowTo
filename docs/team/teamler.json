@@ -3252,12 +3252,10 @@
     "name": "FluffixYT",
     "uuid": "e0cc0eb4-8668-41f8-a4cf-83efcab96e12",
     "sex": "male",
-    "fields": [
-      "Plugin Development"
-    ],
     "rank_history": {
-      "initial": "expert",
-      "27.07.2023": "developer"
+      "initial": "spieler",
+      "27.07.2023": "developer",
+      "01.11.2023": "spieler"
     }
   },
   {
