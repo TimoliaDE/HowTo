@@ -3005,13 +3005,9 @@
     "rank_history": {
       "initial": "mvp",
       "22.05.2022": "creator",
-      "18.02.2023": "content"
-    },
-    "responsibilities_main": [
-      "Management des Content-Teams",
-      "Teamlerauswahl Content",
-      "Social Media"
-    ]
+      "18.02.2023": "content",
+      "01.12.2023": "native_mvp"
+    }
   },
   {
     "name": "_Esel",
@@ -3274,6 +3270,15 @@
     "rank_history": {
       "initial": "pro_plus",
       "12.09.2023": "supporter"
+    }
+  },
+  {
+    "name": "lena_sote",
+    "uuid": "65c94956-e288-480c-abad-2949814e6e18",
+    "sex": "female",
+    "rank_history": {
+      "initial": "spieler",
+      "12.09.2023": "content"
     }
   }
 ]
