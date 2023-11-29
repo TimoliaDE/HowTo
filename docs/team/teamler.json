@@ -690,22 +690,12 @@
     "name": "_Snxffy_",
     "uuid": "bab90033-0a49-4965-834f-8e5462df7c6f",
     "sex": "male",
-    "responsibilities_main": [
-      "JumpWorld Events",
-      "JumpWorld Verifizierung",
-      "Map-Einsendungen",
-      "Teamlerauswahl Support",
-      "Monatssieger",
-      "Youtuber-Ränge"
-    ],
-    "responsibilities_secondary": [
-      "Teamlerauswahl Development"
-    ],
     "rank_history": {
       "initial": "mvp",
       "12.11.2019": "supporter",
       "01.11.2020": "supporter_plus",
-      "09.01.2022": "moderator"
+      "09.01.2022": "moderator",
+      "25.11.2023": "native_mvp"
     }
   },
   {
@@ -3005,13 +2995,9 @@
     "rank_history": {
       "initial": "mvp",
       "22.05.2022": "creator",
-      "18.02.2023": "content"
-    },
-    "responsibilities_main": [
-      "Management des Content-Teams",
-      "Teamlerauswahl Content",
-      "Social Media"
-    ]
+      "18.02.2023": "content",
+      "25.11.2023": "native_mvp"
+    }
   },
   {
     "name": "_Esel",
@@ -3274,6 +3260,15 @@
     "rank_history": {
       "initial": "pro_plus",
       "12.09.2023": "supporter"
+    }
+  },
+  {
+    "name": "lena_sote",
+    "uuid": "65c94956-e288-480c-abad-2949814e6e18",
+    "sex": "female",
+    "rank_history": {
+      "initial": "spieler",
+      "25.11.2023": "content"
     }
   }
 ]
