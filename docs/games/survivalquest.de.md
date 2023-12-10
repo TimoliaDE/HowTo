@@ -66,6 +66,24 @@ Für die besondere Herausforderung. Handicaps werden in bestimmten Challenges ak
 ## Events & Challenges
 In SurvivalQuest starten regelmäßig besondere Events und Challenges. Eine Übersicht über die aktuellen Events findet ihr immer direkt in der SurvivalQuest-Lobby.
 
+## Die Befehle
+
+| Befehl | Funktion |
+| ------ | -------- |
+| `/lobbygame challenge <Name> <Game>` | Fordert andere Spieler:innen zu einem Lobbyspiel heraus |
+| `/lobbygame open <GameId>`      | Öffnet ein Lobbyspiel der angegebenen GameId |
+| `/news`, `/sqnews`, `/sq news`  | Zeigt dir die aktuellen Neuigkeiten im Chat an |
+| `/questbook`,	`/qb`             | Öffnet das Questbuch |
+| `/sq info` | Zeigt die Spieleinstellungen der momentanen Runde |
+| `/sq kit` | Bekomme ein Questbuch und Lobby-Items, sollten diese verloren gegangen sein |
+| `/sq questbook <Name>` | Öffnet das Questbuch des gewünschten Spielers |
+| `/sq seed` | Zeigt den Weltenseed der aktuellen Runde |
+| `/sq team` | Erhalte Informationen über dein Team |
+| `/sq tpa <Name>`, `/tpa <Name>` | Schicke eine Tpa-Anfrage an andere Spieler:innen |
+| `/stats <Name>`, `/statistik <Name>`, `/records <Name>`, `/sq top` | Zeigt die Spielstatistiken von Spieler:innen |
+**[<span class='expert'>Expert</span>](/ranks/premium/) only**:
+| `/start`, `/startgame`, `/sq start` | Setze beliebige Spieleinstellungen in einer privaten Runde |
+
 ## Premium-Features
 - Premium-Spieler erhalten bis zu drei mal mehr Pixel.
 - Werde mit `/togglerank` als normaler Spieler angezeigt.

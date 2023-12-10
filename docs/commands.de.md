@@ -251,7 +251,25 @@ Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführ
 **[<span class='mvp'>MVP</span>](/ranks/premium/) only**:
 | `/skull [Name]`                 | Gibt dir einen Spielerkopf |
 
-###SecretGames
+### Freebuild
+| Befehl | Funktion |
+| ------ | -------- |
+| `/accepttpa <Spieler>`, `/accepttphere` | Akzeptiert und ermöglicht die Teleportation eines Spielers zu dir |
+| `/backpack`, `/bp`, `/ec` | Öffnet dein persönliches Backpack |
+| `/claim` | Beansprucht den Chunk in welchem du dich befindest |
+| `/foodmenu` | Öffnet den Essens Shop |
+| `/home` | Öffnet dir das Teleport Punkte Menü |
+| `/missions`| Verschafft dir zugang und übersicht zu allen aktiven Missionen |
+| `/removebinding` | Entfernt den Fluch der Bindung von sämtlichen Rüstungsteilen |
+| `/settings`| Öffnet die Freebuild-Einstellungen |
+| `/spawn` | Bringt dich direkt zum Spawn der Freebuild Welt |
+| `/tpa <Spieler>`, `/tphere <Spieler>` | Sendet eine anfrage des Teleportes zu einem anderen Spieler |
+| `/trade <Spieler>` | Eröffnet einen Handel mit einem anderem Spieler |
+| `/tutorial` | Zeigt dir eine Freebuild Einführung an |
+| `/unclaim` | Gibt deinen Chunk frei |
+| `/workbench`, `/wb`, `/crafting` | Öffnet dir eine Werkbank |
+
+### SecretGames
 | Befehl | Funktion |
 | ------ | -------- |
 | `/cr lobby`           | Bringt euch zum Center zurück |

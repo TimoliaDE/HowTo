@@ -75,6 +75,7 @@ Zu dem Jumpwold-Browser kannst du [hier](https://jumpworld.timolia.de/home) find
 | `/setblock`, `/sb`              | Platziert den Block in deiner Hand unter dir |
 | `/setstart`                     | Setzt den Startpunkt deines Jump 'n' Runs |
 | `/top <ID>`                     | Zeigt die Top-Zeiten des Jump 'n' Runs mit der ID [id] an |
+| `/top <ID> -g`                  | Zeigt die Top-Zeiten aller Spieler des Jump 'n' Runs mit der ID [id] an |
 | `/top <ID> -f`                  | Zeigt die wenigsten Fails des Jump 'n' Runs mit der ID [id] an |
 | `/tpstart`                      | Setzt dich an den Start des Jump 'n' Runs zurück |
 **[Premium](/ranks/premium/) only**:

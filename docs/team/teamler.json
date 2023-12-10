@@ -126,7 +126,8 @@
       "17.07.2016": "builder",
       "09.11.2018": "native_expert",
       "08.10.2019": "builder",
-      "08.11.2019": "head_builder"
+      "08.11.2019": "head_builder",
+      "23.08.2023": "administrator"
     }
   },
   {
@@ -689,22 +690,12 @@
     "name": "_Snxffy_",
     "uuid": "bab90033-0a49-4965-834f-8e5462df7c6f",
     "sex": "male",
-    "responsibilities_main": [
-      "JumpWorld Events",
-      "JumpWorld Verifizierung",
-      "Map-Einsendungen",
-      "Teamlerauswahl Support",
-      "Monatssieger",
-      "Youtuber-Ränge"
-    ],
-    "responsibilities_secondary": [
-      "Teamlerauswahl Development"
-    ],
     "rank_history": {
       "initial": "mvp",
       "12.11.2019": "supporter",
       "01.11.2020": "supporter_plus",
-      "09.01.2022": "moderator"
+      "09.01.2022": "moderator",
+      "25.11.2023": "native_expert"
     }
   },
   {
@@ -1022,22 +1013,13 @@
     "name": "TrueSpoki",
     "uuid": "d723842a-7dd9-4e09-ad8e-63086178e73e",
     "sex": "male",
-    "responsibilities_main": [
-      "JumpWorld Verifizierung",
-      "Teamlerauswahl Content"
-    ],
-    "responsibilities_secondary": [
-      "Entschuldigungen",
-      "Social Media",
-      "UHC",
-      "Youtuber-Ränge"
-    ],
     "rank_history": {
       "initial": "pro_plus",
       "08.03.2020": "supporter",
       "09.01.2021": "native_mvp_plus",
       "07.02.2021": "supporter",
-      "09.01.2022": "supporter_plus"
+      "09.01.2022": "supporter_plus",
+      "09.08.2023": "native_expert"
     }
   },
   {
@@ -2139,7 +2121,8 @@
       "16.05.2018": "administrator",
       "08.11.2019": "developer_plus",
       "29.09.2021": "management",
-      "10.11.2021": "administrator"
+      "10.11.2021": "administrator",
+      "23.08.2023": "native_expert"
     }
   },
   {
@@ -2700,8 +2683,8 @@
     }
   },
   {
-    "name": "littlebeekeeper",
-    "uuid": "2a654b51-5045-47e1-9815-7d195ae291b6",
+    "name": "BotanyBoy",
+    "uuid": "699854ef-6a4f-413f-9ae3-c559473f9d8a",
     "sex": "male",
     "rank_history": {
       "initial": "expert",
@@ -2744,7 +2727,8 @@
     "uuid": "f56499d5-d48f-4390-9e0e-58dc834e29fa",
     "sex": "male",
     "responsibilities_main": [
-      "Timolia Turnier Organisation"
+      "Timolia Turnier Organisation",
+      "Entschuldigungen"
     ],
     "fields": [
       "Plugin Development"
@@ -2972,6 +2956,11 @@
     "name": "q8h",
     "uuid": "c2505ed9-8600-4570-a73f-0af05972da4f",
     "sex": "male",
+    "responsibilities_main": [
+      "JumpWorld Events",
+      "JumpWorld Verifizierung",
+      "Monatssieger"
+    ],
     "rank_history": {
       "initial": "expert",
       "02.05.2022": "supporter",
@@ -3006,13 +2995,9 @@
     "rank_history": {
       "initial": "mvp",
       "22.05.2022": "creator",
-      "18.02.2023": "content"
-    },
-    "responsibilities_main": [
-      "Management des Content-Teams",
-      "Teamlerauswahl Content",
-      "Social Media"
-    ]
+      "18.02.2023": "content",
+      "25.11.2023": "native_expert"
+    }
   },
   {
     "name": "_Esel",
@@ -3121,6 +3106,9 @@
       "Web Development",
       "Backend Development"
     ],
+    "responsibilities_secondary": [
+      "Teamlerauswahl Development"
+    ],
     "rank_history": {
       "initial": "spieler",
       "20.11.2022": "developer"
@@ -3154,13 +3142,10 @@
     "name": "Niedlichkeit",
     "uuid": "c5f40157-914c-48a8-a5b9-e95892505905",
     "sex": "male",
-    "responsibilities_secondary": [
-      "Timolia Turnier Organisation",
-      "Entschuldigungen"
-    ],
     "rank_history": {
       "initial": "expert",
-      "16.02.2023": "supporter"
+      "16.02.2023": "supporter",
+      "16.10.2023": "native_expert"
     }
   },
   {
@@ -3199,12 +3184,10 @@
     "name": "Leg0shi_",
     "uuid": "08521f46-8bb8-43a8-9eb3-d3842c34473d",
     "sex": "male",
-    "fields": [
-      "Plugin Development"
-    ],
     "rank_history": {
       "initial": "youtuber",
-      "03.06.2023": "developer"
+      "03.06.2023": "developer",
+      "24.09.2023":"native_youtuber"
     }
   },
   {
@@ -3217,6 +3200,75 @@
     "rank_history": {
       "initial": "spieler",
       "14.06.2023": "content"
+    }
+  },
+  {
+    "name": "Schneeeule_",
+    "uuid": "e01be9de-968a-4ead-a520-aca93c89572a",
+    "sex": "male",
+    "responsibilities_main": [
+      "Gamedesign",
+      "Timolia HowTo"
+    ],
+    "rank_history": {
+      "initial": "spieler",
+      "12.07.2023": "content"
+    }
+  },
+  {
+    "name": "Mareeeek",
+    "uuid": "91e8a331-94b3-4d8b-b4d5-53e8aeff7ad8",
+    "sex": "male",
+    "rank_history": {
+      "initial": "expert",
+      "21.07.2023": "content",
+      "29.09.2023": "expert"
+    }
+  },
+  {
+    "name": "xDarkey",
+    "uuid": "33c50bfd-e1b4-4b45-850e-0702a1319393",
+    "sex": "male",
+    "rank_history": {
+      "initial": "expert",
+      "20.07.2023": "supporter"
+    }
+  },
+  {
+    "name": "FluffixYT",
+    "uuid": "e0cc0eb4-8668-41f8-a4cf-83efcab96e12",
+    "sex": "male",
+    "rank_history": {
+      "initial": "spieler",
+      "27.07.2023": "developer",
+      "01.11.2023": "spieler"
+    }
+  },
+  {
+    "name": "Thomas5432",
+    "uuid": "e6e02927-7278-4aad-9e41-cfd4c1d2734c",
+    "sex": "male",
+    "rank_history": {
+      "initial": "expert",
+      "12.09.2023": "supporter"
+    }
+  },
+  {
+    "name": "Bastiz",
+    "uuid": "3bd2ee53-73e9-4328-9a7b-5a7570049050",
+    "sex": "male",
+    "rank_history": {
+      "initial": "pro_plus",
+      "12.09.2023": "supporter"
+    }
+  },
+  {
+    "name": "lena_sote",
+    "uuid": "65c94956-e288-480c-abad-2949814e6e18",
+    "sex": "female",
+    "rank_history": {
+      "initial": "spieler",
+      "25.11.2023": "content"
     }
   }
 ]

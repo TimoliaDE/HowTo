@@ -87,6 +87,8 @@ deiner Arbeiten zukommen lässt. Je nachdem, für welchen kreativen Bereich du d
 
 Bitte beachte, dass du mindestens 14 Jahre alt sein musst, um dich bei uns als Content zu bewerben.
 
+### YouTuber und VIP
+Wir als Timolia-Team bieten dir als Content Creator die Möglichkeit, zwei verschiedene Ränge zu beantragen. Diese bieten dir die Möglichkeit zu exklusiven Premium-Features und darüber hinaus nützliche Ingame-Tools. Welche Anforderungen für diese Ränge benötigt werden kannst du [direkt hier](/ranks/youtube/) nachlesen.
 
 ### Premium-Ränge
 Timolia hat verschiedene permanente Premium-Ränge. Für diese kann man sich nicht bewerben, als Dankeschön erhält jede:r Spieler:in einen Rang, 
