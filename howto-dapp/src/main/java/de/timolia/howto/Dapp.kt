@@ -8,8 +8,10 @@ import de.timolia.howto.generator.FileWriter
 import de.timolia.howto.generator.PageRankChange
 import de.timolia.howto.generator.PageResponsibilities
 import de.timolia.howto.generator.PageTeamMembers
+import de.timolia.howto.minecraft.MojangService
 import de.timolia.howto.teamler.Teamler
 import de.timolia.howto.translate.Translate
+import kotlinx.coroutines.runBlocking
 import java.nio.file.Files
 import java.nio.file.Path
 import java.util.*

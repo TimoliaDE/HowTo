@@ -1,4 +1,4 @@
-package de.timolia.howto.database
+package de.timolia.howto.conversion
 
 import java.sql.SQLException
 import java.util.*

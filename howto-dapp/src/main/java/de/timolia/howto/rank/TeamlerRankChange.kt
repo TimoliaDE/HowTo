@@ -1,6 +1,7 @@
 package de.timolia.howto.rank
 
-import de.timolia.howto.database.SQLApi
+import de.timolia.howto.conversion.SQLApi
+import de.timolia.howto.minecraft.MojangService
 import java.text.ParseException
 import java.text.SimpleDateFormat
 import java.util.*
@@ -25,7 +26,12 @@ class TeamlerRankChange {
     }
 
     constructor(name: String?, uuid: UUID, rankFrom: Rank, rankTo: Rank, date: String, hidden: Boolean) {
-        this.name = SQLApi.getName(uuid, name)!!
+        this.name = try {
+            MojangService.nameFromUUid(uuid.toString())
+        } catch (exception: Exception) {
+            exception.printStackTrace()
+            name!!
+        }
         this.uuid = uuid
         this.rankFrom = rankFrom
         this.rankTo = rankTo

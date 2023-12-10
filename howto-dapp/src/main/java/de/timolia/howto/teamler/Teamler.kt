@@ -1,6 +1,6 @@
 package de.timolia.howto.teamler
 
-import de.timolia.howto.database.SQLApi
+import de.timolia.howto.minecraft.MojangService
 import de.timolia.howto.rank.Rank
 import de.timolia.howto.rank.TeamlerRankChange
 import org.apache.commons.lang3.Validate
@@ -16,16 +16,12 @@ class Teamler(
         val fields: List<String>?,
         private val rankHistory: LinkedHashMap<String, Rank>?
 ) {
-    private var name: String
+    private var name: String = "Unresolved"
     private val responsibilitiesMainHidden: List<String>? = null
     private val responsibilitiesSecondaryHidden: List<String>? = null
 
     @Transient
     private var rankCurrent: Rank? = null
-
-    init {
-        name = SQLApi.getName(uuid)!!
-    }
 
     fun getNameForMarkdown() = name.replace("_", "\\_")
 
@@ -111,7 +107,7 @@ class Teamler(
     }
 
     fun updateName() {
-        name = SQLApi.getName(uuid, name)!!
+        name = MojangService.nameFromUUid(uuid.toString())
     }
 
     override fun toString(): String {

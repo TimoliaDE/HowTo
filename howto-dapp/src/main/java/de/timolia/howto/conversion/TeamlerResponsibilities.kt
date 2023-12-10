@@ -1,6 +1,5 @@
 package de.timolia.howto.conversion
 
-import de.timolia.howto.database.SQLApi
 import java.util.*
 
 class TeamlerResponsibilities(
