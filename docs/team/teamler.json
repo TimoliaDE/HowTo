@@ -2223,9 +2223,11 @@
     "name": "Stracy",
     "uuid": "5996be13-7178-47fd-bdfe-60951ae1407f",
     "sex": "male",
-    "responsibilities_secondary": [
-      "Timolia Turnier Organisation",
+    "responsibilities_main": [
       "Youtuber-Ränge"
+    ],
+    "responsibilities_secondary": [
+      "Timolia Turnier Organisation"
     ],
     "rank_history": {
       "initial": "expert",
@@ -2960,6 +2962,9 @@
       "JumpWorld Events",
       "JumpWorld Verifizierung",
       "Monatssieger"
+    ],
+    "responsibilities_secondary": [
+      "Youtuber-Ränge"
     ],
     "rank_history": {
       "initial": "expert",
