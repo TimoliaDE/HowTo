@@ -3274,6 +3274,22 @@
     "rank_history": {
       "initial": "spieler",
       "25.11.2023": "content"
+    },
+    {
+    "name": "Knuddeliq",
+    "uuid": "391ef10e-8fdb-4c32-b8b5-c9c501c0de10",
+    "sex": "male",
+    "rank_history": {
+      "initial": "expert",
+      "17.12.2023": "supporter"
+    },
+    {
+    "name": "Flauschiq",
+    "uuid": "5ba5d816-9642-4cd5-b79c-118ee62953b0",
+    "sex": "male",
+    "rank_history": {
+      "initial": "expert",
+      "17.12.2023": "supporter"
     }
   }
 ]
