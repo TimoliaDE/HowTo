@@ -3192,7 +3192,7 @@
     "rank_history": {
       "initial": "youtuber",
       "03.06.2023": "developer",
-      "24.09.2023":"native_youtuber"
+      "24.09.2023": "native_youtuber"
     }
   },
   {
@@ -3271,6 +3271,9 @@
     "name": "lena_sote",
     "uuid": "65c94956-e288-480c-abad-2949814e6e18",
     "sex": "female",
+    "responsibilities_main": [
+      "Social Media"
+    ],
     "rank_history": {
       "initial": "spieler",
       "25.11.2023": "content"
@@ -3285,7 +3288,7 @@
       "17.12.2023": "supporter"
     }
   },
-    {
+  {
     "name": "Flauschiq",
     "uuid": "5ba5d816-9642-4cd5-b79c-118ee62953b0",
     "sex": "male",
