@@ -33,12 +33,6 @@ Splun ist eine Kombination aus <strong>Spl</strong>eef und Jump and R<strong>un<
 - <strong>Stein</strong>: Unter deinen Füßen entsteht eine Schwebeplattform
 - <strong>TNT</strong>: Blöcke, die du berührst, verwandeln sich in TNT
 
-- <strong>Feuerball</strong>: Du kannst den Feuerball werfen, und er wird nach einiger Zeit explodieren
-- <strong>Spinnenwebe</strong>: Du kannst ein Spinnennetz platzieren und so andere am Laufen hindern
-- <strong>Armbrust</strong>: Du kannst andere Spieler mit einem Pfeil abschießen
-- <strong>Chorusfrucht</strong>: Du kannst dich durch das Essen der Frucht an einen zufälligen Ort auf der Map teleportieren
-
-
 ## Die Ränge in Splun
 
 | Rang | Punkte | Name |
