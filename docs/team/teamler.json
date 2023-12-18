@@ -3286,7 +3286,7 @@
   {
     "name": "Knuddeliq",
     "uuid": "391ef10e-8fdb-4c32-b8b5-c9c501c0de10",
-    "sex": "male",
+    "sex": "female",
     "rank_history": {
       "initial": "expert",
       "17.12.2023": "supporter"
@@ -3299,6 +3299,14 @@
     "rank_history": {
       "initial": "expert",
       "17.12.2023": "supporter"
+    },
+    {
+    "name": "shrobbyy",
+    "uuid": "7f82c864-dd8d-4f91-8d6b-9f7d8a91c06a",
+    "sex": "male",
+    "rank_history": {
+      "initial": "pro_plus",
+      "17.12.2023": "content"
     }
   }
 ]
