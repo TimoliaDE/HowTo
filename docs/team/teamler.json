@@ -238,12 +238,8 @@
     "uuid": "94fa217d-6e68-4b87-86ff-6156765c4a17",
     "sex": "male",
     "responsibilities_main": [
-      "Teamlerauswahl Support",
       "Timolia Turnier Organisation",
       "Zu Unrecht gebannt"
-    ],
-    "responsibilities_secondary": [
-      "Community-Discord"
     ],
     "fields": [
       "Plugin Development"
@@ -733,7 +729,7 @@
     "name": "MCExpertDE",
     "uuid": "bda5ddac-1033-4220-9752-0efbaef1da5c",
     "sex": "male",
-    "responsibilities_main": [
+    "fields": [
       "Geschäftsführung",
       "Verwaltung"
     ],
@@ -1416,6 +1412,9 @@
     "name": "xiantiel",
     "uuid": "fff54f1a-e61d-4af5-90ab-f925f1b2d0a6",
     "sex": "male",
+    "fields": [
+      "Verwaltung"
+    ],
     "rank_history": {
       "initial": "administrator",
       "13.12.2018": "native_expert",
@@ -1570,14 +1569,10 @@
     "sex": "female",
     "responsibilities_main": [
       "Management des Support-Teams",
-      "Teamlerauswahl Content",
-      "Teamlerauswahl Support",
-      "TeamSpeak",
-      "Timolia HowTo"
+      "TeamSpeak"
     ],
     "responsibilities_secondary": [
       "JumpWorld Events",
-      "JumpWorld Verifizierung",
       "Map-Einsendungen",
       "Monatssieger"
     ],
@@ -2388,9 +2383,6 @@
     "name": "12Build",
     "uuid": "6aa9c36c-89be-4b8a-bd24-9401e5085055",
     "sex": "male",
-    "responsibilities_main": [
-      "Management des Development-Teams"
-    ],
     "responsibilities_secondary": [
       "Map-Einsendungen",
       "Teamlerauswahl Builder und Timolia Creative",
@@ -2856,12 +2848,11 @@
     "sex": "male",
     "responsibilities_main": [
       "Management des Development-Teams",
-      "Community-Discord",
-      "Timolia HowTo",
-      "Teamlerauswahl Development"
+      "Management des Content-Teams",
+      "Community-Discord"
     ],
     "responsibilities_secondary": [
-      "Teamlerauswahl Content"
+      "Timolia HowTo"
     ],
     "fields": [
       "Systemadministration",
@@ -3266,6 +3257,9 @@
     "name": "Bastiz",
     "uuid": "3bd2ee53-73e9-4328-9a7b-5a7570049050",
     "sex": "male",
+    "responsibilities_main": [
+      "Timolia Turnier Organisation"
+    ],
     "rank_history": {
       "initial": "pro_plus",
       "12.09.2023": "supporter"
@@ -3299,14 +3293,27 @@
     "rank_history": {
       "initial": "expert",
       "17.12.2023": "supporter"
-    },
-    {
+    }
+  },
+  {
     "name": "shrobbyy",
     "uuid": "7f82c864-dd8d-4f91-8d6b-9f7d8a91c06a",
     "sex": "male",
     "rank_history": {
       "initial": "pro_plus",
       "17.12.2023": "content"
+    }
+  },
+  {
+    "name": "Grafjojo",
+    "uuid": "55034041-35c1-4ba7-848d-6bcb21675738",
+    "sex": "male",
+    "fields": [
+      "Plugin Development"
+    ],
+    "rank_history": {
+      "initial": "spieler",
+      "18.12.2023": "developer"
     }
   }
 ]
