@@ -3130,12 +3130,10 @@
     "name": "yEredin",
     "uuid": "3a664305-a8d5-4daa-b092-c53fbe4fca86",
     "sex": "male",
-    "responsibilities_secondary": [
-      "Timolia Turnier Organisation"
-    ],
     "rank_history": {
       "initial": "pro_plus",
-      "16.02.2023": "supporter"
+      "16.02.2023": "supporter",
+      "02.11.2023": "native_mvp"
     }
   },
   {
