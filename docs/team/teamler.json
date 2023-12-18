@@ -1583,7 +1583,8 @@
       "initial": "mvp",
       "21.04.2020": "supporter",
       "07.02.2021": "supporter_plus",
-      "07.08.2022": "moderator"
+      "07.08.2022": "moderator",
+      "18.12.2023": "administrator"
     }
   },
   {
@@ -2868,7 +2869,8 @@
     "rank_history": {
       "initial": "expert",
       "13.09.2021": "developer",
-      "14.11.2022": "developer_plus"
+      "14.11.2022": "developer_plus",
+      "18.12.2023": "administrator"
     }
   },
   {
