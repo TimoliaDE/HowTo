@@ -13,10 +13,13 @@ Splun ist eine Kombination aus <strong>Spl</strong>eef und Jump and R<strong>un<
 - Mit verschiedenen Items kannst du deine Gegner beeinflussen oder dich schneller bewegen.
 
 ## Spezielle Items
+- <strong>Armbrust</strong>: Du kannst andere Spieler mit einem Pfeil abschießen
 - <strong>Blaze Rod</strong>: Stellt Blöcke unter dir wieder her
+- <strong>Chorusfrucht</strong>: Du kannst dich durch das Essen der Frucht an einen zufälligen Ort auf der Map teleportieren
 - <strong>Ei</strong>: Wirf die Eier, um  Blöcke zu spawnen
 - <strong>Enderauge</strong>: Du erhältst drei Doppelsprünge
 - <strong>Enderperle</strong>: Du erhältst eine Enderperle
+- <strong>Feuerball</strong>: Du kannst den Feuerball werfen, und er wird nach einiger Zeit explodieren
 - <strong>Goldapfel</strong>: Du kannst fliegen
 - <strong>Obsidian</strong>: Alle Gegner erhalten den Blindness-Effekt
 - <strong>Rakete</strong>: Du kannst höher springen
@@ -25,6 +28,7 @@ Splun ist eine Kombination aus <strong>Spl</strong>eef und Jump and R<strong>un<
 - <strong>Schuhe</strong>: Du kannst schneller rennen
 - <strong>Schwert</strong>: Schlage deine Gegner von der Plattform
 - <strong>Soulsand</strong>: Alle Gegner erhalten den Slowness-Effekt
+- <strong>Spinnenweben</strong>: Du kannst ein Spinnennetz platzieren und so andere am Laufen hindern
 - <strong>Spitzhacke</strong>: Du kannst Blöcke mit der Spitzhacke abbauen
 - <strong>Stein</strong>: Unter deinen Füßen entsteht eine Schwebeplattform
 - <strong>TNT</strong>: Blöcke, die du berührst, verwandeln sich in TNT
