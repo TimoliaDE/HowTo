@@ -70,14 +70,6 @@ You can use these commands globally at any time.
 | `/spawn`                        | Teleports you back to the spawn of the hub |
 | `/sync {0, 1, 2...]`, `/armorsync` | Synchronizes the color switching armor from the PixelShop |
 
-### Homes
-| Command | Description |
-| ------ | -------- |
-| `/homes`                        | Shows a list of your homes |
-| `/delhome <name>`               | Deletes a home |
-| `/sethome <name>`               | Sets a home |
-| `/sethome <name> -f`            | Overwrites an existing home |
-
 ### Friend system
 
 Instead of `/friend` you can also use `/f`.
