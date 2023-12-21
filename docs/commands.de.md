@@ -70,14 +70,6 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/spawn`                        | Teleportiert dich zurück zum Spawn vom Hub |
 | `/sync {0, 1, 2...]`, `/armorsync` | Synchronisiert die farbwechselnde Rüstung aus dem PixelShop |
 
-### Homes
-| Befehl | Funktion |
-| ------ | -------- |
-| `/homes`                        | Zeigt eine Liste deiner Homepunkte |
-| `/delhome <Name>`               | Löscht ein Home |
-| `/sethome <Name>`               | Setzt ein Home |
-| `/sethome <Name> -f`            | Überschreibt ein vorhandenes Home |
-
 ### Freundesystem
 
 Anstatt `/friend` kann jeweils `/f` genutzt werden.
