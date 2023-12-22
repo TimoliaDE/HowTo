@@ -2880,15 +2880,15 @@
     "uuid": "9bc330fa-0e99-4c85-9396-cb63fb82297c",
     "sex": "male",
     "responsibilities_main": [
+      "Grafikdesign",
       "JumpWorld Events",
       "JumpWorld Verifizierung",
-      "Monatssieger",
-      "Grafikdesign"
+      "Monatssieger"
     ],
     "responsibilities_secondary": [
       "Gewinnspielorganisation",
-      "Youtuber-Ränge",
-      "Social Media"
+      "Social Media",
+      "Youtuber-Ränge"
     ],
     "fields": [
       "Web Development",
@@ -2958,8 +2958,8 @@
       "Monatssieger"
     ],
     "responsibilities_secondary": [
-      "Youtuber-Ränge",
-      "Timolia HowTo"
+      "Timolia HowTo",
+      "Youtuber-Ränge"
     ],
     "rank_history": {
       "initial": "expert",
