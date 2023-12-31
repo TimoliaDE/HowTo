@@ -3166,12 +3166,10 @@
     "name": "BugPlayZ",
     "uuid": "61da8027-dbb0-433a-8281-bee6958d90d2",
     "sex": "male",
-    "fields": [
-      "Plugin Development"
-    ],
     "rank_history": {
       "initial": "spieler",
-      "07.03.2023": "developer"
+      "07.03.2023": "developer",
+      "22.12.2023":  "native_mvp"
     }
   },
   {
