@@ -2697,9 +2697,7 @@
       "Gewinnspielorganisation",
       "JumpWorld Events",
       "JumpWorld Verifizierung",
-      "Monatssieger"
-    ],
-    "responsibilities_secondary": [
+      "Monatssieger",
       "Social Media"
     ],
     "rank_history": {
@@ -2804,6 +2802,8 @@
     "name": "HicXD",
     "uuid": "14a13257-f1a3-4802-bd1e-73f077f0143a",
     "sex": "male",
+    "responsibilities_secondary": [
+      "JumpWorld Verifizierung",
     "rank_history": {
       "initial": "expert",
       "14.05.2021": "supporter",
@@ -2880,13 +2880,14 @@
     "uuid": "9bc330fa-0e99-4c85-9396-cb63fb82297c",
     "sex": "male",
     "responsibilities_main": [
+      "Grafikdesign",
       "JumpWorld Events",
       "JumpWorld Verifizierung",
       "Monatssieger"
     ],
     "responsibilities_secondary": [
       "Gewinnspielorganisation",
-      "Grafikdesign",
+      "Social Media",
       "Youtuber-Ränge"
     ],
     "fields": [
@@ -2930,7 +2931,6 @@
     "responsibilities_secondary": [
       "JumpWorld Events",
       "JumpWorld Verifizierung",
-      "Monatssieger"
     ],
     "rank_history": {
       "initial": "spieler",
@@ -2958,6 +2958,7 @@
       "Monatssieger"
     ],
     "responsibilities_secondary": [
+      "Timolia HowTo",
       "Youtuber-Ränge"
     ],
     "rank_history": {
@@ -3221,6 +3222,8 @@
     "name": "xDarkey",
     "uuid": "33c50bfd-e1b4-4b45-850e-0702a1319393",
     "sex": "male",
+    "responsibilities_secondary": [
+      "JumpWorld Verifizierung",
     "rank_history": {
       "initial": "expert",
       "20.07.2023": "supporter"
@@ -3282,6 +3285,8 @@
     "name": "Flauschiq",
     "uuid": "5ba5d816-9642-4cd5-b79c-118ee62953b0",
     "sex": "male",
+    "responsibilities_secondary": [
+      "JumpWorld Verifizierung",
     "rank_history": {
       "initial": "expert",
       "17.12.2023": "supporter"
