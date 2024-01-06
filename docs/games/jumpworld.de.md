@@ -50,6 +50,7 @@ Welcher Premium-Rang dir welche Vorteile bietet, kannst du [hier](/ranks/premium
 Welche Befehle für dich freigeschaltet sind, kannst du [hier](https://jumpworld.timolia.de/commands/worldedit) nachlesen.
 
 ## JumpWorld-Browser
+Auf dieser Webseite hast du die Möglichkeit, nach JnRs zu suchen, ihre Topzeiten und Bewertungen einzusehen und, solltest du auch ingame online sein, durch anklicken des "Beitreten"-Buttons direkt in das JnR joinen.
 Zu dem Jumpwold-Browser kannst du [hier](https://jumpworld.timolia.de/home) finden. Dort gibt es auch regelmäßige Events!
 
 ## Befehle
