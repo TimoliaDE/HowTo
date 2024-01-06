@@ -98,6 +98,9 @@ object PageResponsibilities {
                         for (teamler in teamlers.filter { teamler -> teamler.hasResponsibilityMain("Management des Development-Teams") }.sortedWith { obj, o -> obj.compare(o) }) {
                             hvCustom.add(Responsibility.concreteTeamster(teamler, "%page.responsibilities.custom.teamleader.development%"))
                         }
+                        for (teamler in teamlers.filter { teamler -> teamler.hasResponsibilityMain("Management des Support-Teams") }.sortedWith { obj, o -> obj.compare(o) }) {
+                            hvCustom.add(Responsibility.concreteTeamster(teamler, "%page.responsibilities.custom.teamleader.development%"))
+                        }
                     }
 
                     "%page.responsibilities.yter%" -> titleCustom = "%page.responsibilities.custom.yter.title%"
