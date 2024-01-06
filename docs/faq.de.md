@@ -12,6 +12,14 @@ Auf unserem Server bieten wir zeitlich begrenzte Channel zum Mieten an, die Kost
 Über [https://timolia.de/discord](https://timolia.de/discord) kannst du auf unseren Discord-Server joinen. Hier kannst du dich mit anderen Usern austauschen, Support erhalten oder an Gewinnspielen teilnehmen.
 Alle weiteren Informationen findest du [in unserer Discord-Erklärung](/discord/).
 
+### Was ist mit der 1.8 Passiert?
+#### Jumpworld
+Die Maps aus Jumpworld Legacy sind weiterhin in unserer Datenbank vorhanden. Da die meisten aktiven Benutzer ihre Maps bereits in die neue Version übertragen haben, ist dies momentan nicht mehr ohne weiteres möglich
+#### 1vs1 PvP 
+Beide PvP-Server wurden vereint. Somit können 1.8 und 1.9+ gegeneinander antreten. Welches Kampfsystem ihr dabei verwenden wollt, kann in den Kiteinstellungen festgelegt werden.
+#### Survivalquest & Arcade
+Sowohl Survivalquest als auch Arcade sind mit der 1.8 nicht länger verfügbar.
+
 ### Wo ist der Citybuild hin?
 Mit dem CityBuild begann alles. Am 07.05.2011 gründete Tim den CityBuild Timolias.  
 Leider musste City am 16.12.2018 aus verschiedenen Gründen schließen. Mehr Informationen dazu erhältst du [hier](http://timolia.de/city).
