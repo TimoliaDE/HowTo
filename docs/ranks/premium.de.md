@@ -52,6 +52,9 @@ Diese Features stehen dir mit deinem Rang zur Verfügung:
 
 *Alle Infos zum Kick-System findest du [hier](/faq/#wie-funktioniert-das-kick-system).
 
+## LabyMod Cashback
+Timolia ist ofizieller LabyMod Partner. Mit dem Kauf eines Premium-Ranges auf unserem Netzwerk erhälst du LabyMod Coins mit welchen du Cosmetics, Emotes und vieles mehr im LabyMod Shop erwerben kannst.
+
 ## Sponsoren-Ränge
 Die Sponsoren-Ränge symbolisieren unsere Dankbarkeit Spielern gegenüber, welche Timolia im besonderen Maße finanziell
 unterstützen.
