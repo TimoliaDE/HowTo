@@ -13,10 +13,10 @@ Auf unserem Server bieten wir zeitlich begrenzte Channel zum Mieten an, die Kost
 Alle weiteren Informationen findest du [in unserer Discord-Erklärung](/discord/).
 
 ### Was ist mit der 1.8 Passiert?
-#### Jumpworld
-Die Maps aus Jumpworld Legacy sind weiterhin in unserer Datenbank vorhanden. Da die meisten aktiven Benutzer ihre Maps bereits in die neue Version übertragen haben, ist dies momentan nicht mehr ohne weiteres möglich
 #### 1vs1 PvP 
 Beide PvP-Server wurden vereint. Somit können 1.8 und 1.9+ gegeneinander antreten. Welches Kampfsystem ihr dabei verwenden wollt, kann in den Kiteinstellungen festgelegt werden.
+#### Jumpworld
+Die Maps aus Jumpworld Legacy sind weiterhin in unserer Datenbank vorhanden. Da die meisten aktiven Benutzer ihre Maps bereits in die neue Version übertragen haben, ist dies momentan nicht mehr ohne weiteres möglich
 #### Survivalquest & Arcade
 Sowohl Survivalquest als auch Arcade sind mit der 1.8 nicht länger verfügbar.
 
