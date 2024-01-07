@@ -2234,7 +2234,8 @@
       "08.03.2020": "supporter",
       "05.07.2020": "supporter_plus",
       "25.09.2020": "expert",
-      "16.02.2023": "supporter"
+      "16.02.2023": "supporter",
+      "07.01.2024": "supporter_plus"
     }
   },
   {
@@ -2813,7 +2814,8 @@
       "initial": "expert",
       "14.05.2021": "supporter",
       "12.01.2023": "native_expert",
-      "26.06.2023": "supporter"
+      "26.06.2023": "supporter",
+      "07.01.2024": "supporter_plus"
     }
   },
   {
@@ -2970,7 +2972,8 @@
       "initial": "expert",
       "02.05.2022": "supporter",
       "16.09.2022": "native_expert",
-      "22.06.2023": "supporter"
+      "22.06.2023": "supporter",
+      "07.01.2024": "supporter_plus"
     }
   },
   {
