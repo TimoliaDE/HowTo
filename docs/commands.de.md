@@ -8,7 +8,6 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | ------ | -------- |
 | `/achievements`, `/ach`         | Listet eine Übersicht aller Achievements auf |
 | `/bannotify`                    | Deaktiviere Benachrichtigungen zu deinen Banntagen |
-| `/champ`, `/championship`       | Zeigt Infos zu Timolia Champ |
 | `/games`                        | Teleportiert dich zu den Games-Servern |
 | `/help`                         | Zeigt dir die wichtigsten Infos zu Timolia |
 | `/hub`, `/lobby`                | Teleportiert dich in die Lobby |
@@ -16,7 +15,6 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/jointeam <Team-Farbe>`, `/team`| Betritt ein Team in Castles, Brainbow und Mineception |
 | `/lang <Sprache>`               | Ändere deine Sprache |
 | `/lookup <Spieler>`, `/lu`      | Zeigt dir LogIn-Informationen über einen Spieler |
-| `/mail`                         | Öffnet das Menü deiner Mails |
 | `/msg`                          | Erlaubt MSGs mit Freunden, keinem oder allen |
 | `/msg <Spieler>`, `/m`          | Schreibe mit einem Spieler im Privatchat |
 | `/present <Spieler> <Betrag> [Nachricht]`, `/gift`, `/donate` | Ermöglicht es dir, in der Weihnachtszeit Pixel zu verschenken |
