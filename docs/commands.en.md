@@ -8,7 +8,6 @@ You can use these commands globally at any time.
 | ------ | -------- |
 | `/achievements`, `/ach`         | Lists an overview of all achievements |
 | `/bannotify`                    | Deactivate notifications concerning your ban days |
-| `/champ`, `/championship`       | Shows information about Timolia Champ |
 | `/games`                        | Teleports you to the games servers |
 | `/help`                         | Shows the most important information about Timolia |
 | `/hub`, `/lobby`                | Teleports you back to the hub |
@@ -16,7 +15,6 @@ You can use these commands globally at any time.
 | `/jointeam <Team-Farbe>`, `/team`| Joins a team in Castles, Brainbow and Mineception |
 | `/lang <language>`              | Select your language |
 | `/lookup <player>`, `/lu`       | Shows login information about a player |
-| `/mail`                         | Opens the menu of your mails |
 | `/msg`                          | Allows msg's from friends only, no one or everyone |
 | `/msg <player>`, `/m`           | Schreibe mit einem Spieler im Privatchat |
 | `/present <player> <Betrag> [Nachricht]`, `/gift`, `/donate` | Allows you to give away pixel during Christmastime |
