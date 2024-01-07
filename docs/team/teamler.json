@@ -3119,12 +3119,10 @@
     "name": "NoJokeFNA",
     "uuid": "609b6216-b1f7-40fe-997b-5f1f975cc712",
     "sex": "male",
-    "fields": [
-      "Plugin Development"
-    ],
     "rank_history": {
       "initial": "spieler",
-      "02.02.2023": "developer"
+      "02.02.2023": "developer",
+      "07.01.2024": "native_mvp"
     }
   },
   {
