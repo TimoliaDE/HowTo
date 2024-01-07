@@ -2272,13 +2272,10 @@
     "name": "TraizzyBuilds",
     "uuid": "5c67c1f7-5e39-4827-9af2-947439c617a2",
     "sex": "male",
-    "responsibilities_secondary": [
-      "Grafikdesign",
-      "Monatssieger"
-    ],
     "rank_history": {
       "initial": "expert",
-      "08.03.2020": "builder"
+      "08.03.2020": "builder",
+      "07.01.2024": "native_expert"
     }
   },
   {
