@@ -24,7 +24,7 @@ All further information is provided [here](https://timolia.de/city).
 #### 1vs1 PvP
 Both PvP servers have been united. Thus, 1.8 and 1.9+ can compete against each other. Which combat system you want to use can be determined in the kite settings.”
 #### Jumpworld
-The maps from Jumpworld Legacy are still in our database. Since most active users have already transferred their maps to the new version, this is currently not easily possible.
+The maps from Jumpworld Legacy are still present in our database. Since most users have already transferred their maps to the new version, transferring maps from Legacy Jumpworld is currently not straightforward anymore.
 #### Survivalquest and Arcade
 Survivalquest and Arcade are no longer available with the 1.8.
 
