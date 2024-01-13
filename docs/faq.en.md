@@ -22,15 +22,16 @@ All further information is provided [here](https://timolia.de/city).
 
 ### What happened to the 1.8?
 #### Arcade
-Arcade is currently being updated to 1.20, currently it is uncertain,
+Arcade will be updated in the future  to 1.20, it is currently uncertain,
 when it will be available again.
 #### 1vs1
-Both PvP servers have been merged. This means that 1.8 and 1.9+ can compete against each other.
-Which combat system you use depends on the kit setting which you can customise in the kit creator.
+Both PvP servers have been merged. This means that 1.8 and 1.9+ players/clients can compete against each other.
+Which combat system you use depends on the kit setting.
+You can adjust the kit settings in the Kit Creator in the 1vs1 lobby.
 #### JumpWorld
 The maps from the JumpWorld 1.8 server are still available in our database.
 For the last two years it was possible to export the map to the new JumpWorld server.
-It is currently no longer possible to transfer maps from JumpWorld 1.8, but we plan to make this possible again in the long term.
+As of now, it is no longer possible to transfer maps from JumpWorld 1.8, but it is planned that this will be possible again in the long term.
 
 ### Which ranks are there?
 - <b><span class='management'>Management</span></b>:

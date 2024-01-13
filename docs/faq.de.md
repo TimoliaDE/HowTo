@@ -14,15 +14,16 @@ Alle weiteren Informationen findest du [in unserer Discord-Erklärung](/discord/
 
 ### Was ist mit der 1.8 Passiert?
 #### Arcade
-Arcade wird gerade überarbeitet und auf die 1.20 aktualisiert, aktuell ist ungewiss,
+Arcade wird künftig überarbeitet und auf die 1.20 aktualisiert, aktuell ist ungewiss,
 wann es wieder verfügbar sein wird.
 #### 1vs1
-Beide PvP-Server wurden vereint. Somit können 1.8 und 1.9+ gegeneinander antreten.
-Welches Kampfsystem ihr ist abhängig von der Kiteinstellung welche ihr anpassen könnt.
+Beide PvP-Server wurden vereint. Somit können 1.8 und 1.9+ Spieler/Clients gegeneinander antreten.
+Welches Kampfsystem ihr verwendet ist abhängig von der Kit-Einstellung.
+Die Kit-Einstellungen könnt ihr im Kit Creator in der 1vs1 Lobby anpassen.
 #### JumpWorld
 Die Maps vom JumpWorld 1.8 Server sind weiterhin in unserer Datenbank vorhanden.
 Die letzten zwei Jahre bestand die Möglichkeit die Map auf den neuen JumpWorld Server zu exportieren.
-Aktuell ist das Übertragen von Maps aus JumpWorld 1.8 momentan nicht mehr möglich, langfristig ist aber geplant, dass dies wieder möglich sein wird.
+Stand jetzt ist das Übertragen von Maps aus JumpWorld 1.8 nicht mehr möglich, langfristig ist aber geplant, dass dies wieder möglich sein wird.
 
 ### Wo ist der Citybuild hin?
 Mit dem CityBuild begann alles. Am 07.05.2011 gründete Tim den CityBuild Timolias.  
