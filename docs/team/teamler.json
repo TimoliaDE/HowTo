@@ -462,17 +462,14 @@
     "name": "Pexa",
     "uuid": "a783235f-6ecf-4871-b2fa-ec3d0af9ee0b",
     "sex": "male",
-    "responsibilities_secondary": [
-      "Timolia Turnier Organisation",
-      "Youtuber-Ränge"
-    ],
     "rank_history": {
       "initial": "spieler",
       "05.03.2019": "supporter",
       "22.10.2019": "native_mvp",
       "06.01.2020": "supporter",
       "14.04.2020": "native_mvp",
-      "27.10.2022": "supporter"
+      "27.10.2022": "supporter",
+      "09.01.2024": "native_mvp"
     }
   },
   {
