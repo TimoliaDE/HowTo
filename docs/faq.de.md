@@ -18,7 +18,7 @@ Arcade wird gerade überarbeitet und auf die 1.20 aktualisiert, aktuell ist unge
 wann es wieder verfügbar sein wird.
 #### 1vs1
 Beide PvP-Server wurden vereint. Somit können 1.8 und 1.9+ gegeneinander antreten.
-Welches Kampfsystem ihr ist abhängig von der Kiteinstellung welche ihr anpassen könnt.
+Welches Kampfsystem dabei verwendet wird ist von der Kiteinstellung abhängig welche ihr selbst anpassen könnt.
 #### JumpWorld
 Die Maps vom JumpWorld 1.8 Server sind weiterhin in unserer Datenbank vorhanden.
 Die letzten zwei Jahre bestand die Möglichkeit die Map auf den neuen JumpWorld Server zu exportieren.
