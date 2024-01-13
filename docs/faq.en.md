@@ -20,6 +20,18 @@ It all started on May 7th, 2010 when Tim founded Timolias City build.
 Unfortunately, it had to down on December 16th, 2018. 
 All further information is provided [here](https://timolia.de/city).
 
+### What happened to the 1.8?
+#### Arcade
+Arcade is currently being updated to 1.20, currently it is uncertain,
+when it will be available again.
+#### 1vs1
+Both PvP servers have been merged. This means that 1.8 and 1.9+ can compete against each other.
+Which combat system you use depends on the kit setting which you can customise in the kit creator.
+#### JumpWorld
+The maps from the JumpWorld 1.8 server are still available in our database.
+For the last two years it was possible to export the map to the new JumpWorld server.
+It is currently no longer possible to transfer maps from JumpWorld 1.8, but we plan to make this possible again in the long term.
+
 ### Which ranks are there?
 - <b><span class='management'>Management</span></b>:
 These team members form the leadership of Timolia. 

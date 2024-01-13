@@ -2701,6 +2701,9 @@
       "Monatssieger",
       "Social Media"
     ],
+    "fields": [
+      "Public Relations"
+    ],
     "rank_history": {
       "initial": "expert",
       "30.01.2021": "supporter",
@@ -2727,7 +2730,7 @@
       "Entschuldigungen"
     ],
     "fields": [
-      "Plugin Development"
+      "1vs1"
     ],
     "rank_history": {
       "initial": "expert",

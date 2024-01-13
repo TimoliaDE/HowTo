@@ -48,6 +48,14 @@ To become Jump 'n' Run of the day a parcour needs to:
 
 Detailed infos about our ranks and their benefits are listed [here](/ranks/premium/).
 
+
+## WorldEdit Commands
+You can find information about the commands available to you here.
+
+## JumpWorld-Browser
+On this website, you have the opportunity to search for Jump and Runs (JnRs), view their top times and ratings, and, if you are also online in-game, join the JnR directly by clicking the "Join" button.
+You can find the JumpWorld Browser here. There are also regular events featured on the site!
+
 ## Commands
 | Command | Usage |
 | ------ | -------- |

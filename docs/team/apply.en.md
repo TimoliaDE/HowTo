@@ -60,5 +60,5 @@ Please note that you must be at least 14 years old to apply as a Content.
 As the Timolia team, we offer you, as a content creator, the opportunity to apply for two different ranks. These provide you with access to exclusive premium features and useful in-game tools. You can read about the requirements for these ranks [right here](/ranks/youtube/).
 
 ### Premium ranks
-Timolia has several permanent premium ranks. You cannot apply for these. As a thank you, every player receives a rank when he donates a certain amount of money to Timolia. 
+Timolia has several premium ranks. You cannot apply for these. As a thank you, every player receives a rank when he donates a certain amount of money to Timolia. 
 You can find out more about premium ranks [here](/ranks/premium/).

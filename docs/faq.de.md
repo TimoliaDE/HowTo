@@ -12,6 +12,18 @@ Auf unserem Server bieten wir zeitlich begrenzte Channel zum Mieten an, die Kost
 Über [https://timolia.de/discord](https://timolia.de/discord) kannst du auf unseren Discord-Server joinen. Hier kannst du dich mit anderen Usern austauschen, Support erhalten oder an Gewinnspielen teilnehmen.
 Alle weiteren Informationen findest du [in unserer Discord-Erklärung](/discord/).
 
+### Was ist mit der 1.8 Passiert?
+#### Arcade
+Arcade wird gerade überarbeitet und auf die 1.20 aktualisiert, aktuell ist ungewiss,
+wann es wieder verfügbar sein wird.
+#### 1vs1
+Beide PvP-Server wurden vereint. Somit können 1.8 und 1.9+ gegeneinander antreten.
+Welches Kampfsystem ihr ist abhängig von der Kiteinstellung welche ihr anpassen könnt.
+#### JumpWorld
+Die Maps vom JumpWorld 1.8 Server sind weiterhin in unserer Datenbank vorhanden.
+Die letzten zwei Jahre bestand die Möglichkeit die Map auf den neuen JumpWorld Server zu exportieren.
+Aktuell ist das Übertragen von Maps aus JumpWorld 1.8 momentan nicht mehr möglich, langfristig ist aber geplant, dass dies wieder möglich sein wird.
+
 ### Wo ist der Citybuild hin?
 Mit dem CityBuild begann alles. Am 07.05.2011 gründete Tim den CityBuild Timolias.  
 Leider musste City am 16.12.2018 aus verschiedenen Gründen schließen. Mehr Informationen dazu erhältst du [hier](http://timolia.de/city).
