@@ -3315,5 +3315,14 @@
       "initial": "spieler",
       "18.12.2023": "developer"
     }
+  },
+  {
+    "name": "Dustin_284",
+    "uuid": "60afe361-2703-4313-9d0e-f3b40a4ca2ce",
+    "sex": "male",
+    "rank_history": {
+      "initial": "spieler",
+      "24.01.2024": "developer"
+    }
   }
 ]
