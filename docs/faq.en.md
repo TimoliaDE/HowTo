@@ -34,18 +34,12 @@ For the last two years it was possible to export the map to the new JumpWorld se
 As of now, it is no longer possible to transfer maps from JumpWorld 1.8, but it is planned that this will be possible again in the long term.
 
 ### Which ranks are there?
-- <b><span class='management'>Management</span></b>:
+- <b><span class='administrator'>Administration</span></b>:
 These team members form the leadership of Timolia. 
 They take care of administration, organization and team management.
 
-- <b><span class='sysadmin'>SysAdmin</span></b>:
-System administrators plan, install, configure and maintain Timolia's technical systems. 
-They carry out updates and ensure a smooth gaming experience in everyday life.
-
 - <b><span class='developer-plus'>Developer+</span></b>:
-They have many years of experience as a developer on Timolia and are available to answer
-internal questions about development. They also take care of Timolia plugins, develop new features and game modes 
-and fix possible bugs in the games.
+They have many years of experience as a developer on Timolia and are available for internal development-related questions. They also take care of Timolia plugins, develop new features and game modes, and address potential gameplay issues.
 
 - <b><span class='developer'>Developer</span></b>:
 Developers take care of Timolia plugins, develop new features and game modes and 
