@@ -194,17 +194,6 @@ The following list contains commands you can use with the <strong>Timolia Bot</s
 | `/create`                       | Creates a tournament |
 | `/invite <player>`              | Invites a player to your tournament |
 
-### Bauwelt
-| Command | Description |
-| ------ | -------- |
-| `/backup [page]`  | Lists all saved backups |
-| `/bauwelt`        | Lists all commands of the Bauwelt |
-| `/finish`         | Submit your finished plot |
-| `/reset`          | Resets your plot |
-| `/save`           | Saves your plot |
-| `/spawn`          | Teleports you to the spawn of the Bauwelt |
-| `/tutorial`       | Teleports you to the tutorial |
-
 ### Castles
 | Command | Description |
 | ------ | -------- |
