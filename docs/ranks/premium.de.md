@@ -129,12 +129,12 @@ melde diesen bitte so schnell wie möglich, andernfalls behält eventuell ein an
 ## Wie verhalten sich die Premium Features nach Ablauf meines Ranges?
 Wenn euer Rang abläuft, werden die Features, die nur Premium-Spielern zur Verfügung stehen, nicht mehr aktiv nutzbar sein. Sie sind jedoch nicht verschwunden, sondern lediglich passiv. Sobald ihr wieder einen Premium-Rang habt, könnt ihr sie wieder verwenden.
 
-## Wird mein Rang zurückerstattet?
-Das Geld, welches für einen Rang bezahlt wurde, wird von uns in der Regel nicht rückerstattet.
-
 Einige Beispiele:
 - In JumpWorld werden die zusätzlichen Entities, die ihr dank eures Ranges platziert habt, nach Ablauf des Ranges nicht gelöscht. Sie bleiben auf der Karte, können jedoch nach dem Entfernen nicht erneut platziert werden.
 - Wenn ihr zusätzliche Building-Slots verwendet habt, könnt ihr die Karte nicht mehr erreichen oder veröffentlichen, solange ihr den Rang nicht habt. Sobald ihr den Rang wieder erhaltet, könnt ihr nahtlos weiterbauen.
 - Die im 1vs1 erstellten Kits bleiben gespeichert, sind jedoch nach Ablauf des Ranges nicht mehr zugänglich.
 - Pixelshop-Features werden nach Ablauf des Ranges deaktiviert, bleiben jedoch weiterhin vorhanden. Sie stehen euch wieder zur Verfügung, sobald ihr den Rang erneut erlangt.
 - Die monatlichen MegaPixel bleiben erhalten und können auch ohne Rang ausgegeben werden.
+
+## Wird mein Rang zurückerstattet?
+Das Geld, welches für einen Rang bezahlt wurde, wird von uns in der Regel nicht rückerstattet.

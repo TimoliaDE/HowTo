@@ -133,9 +133,6 @@ Please always enter your current name to avoid complications!
 No, all ranks are bound to the account and cannot be transferred. 
 If you made a mistake while placing an order, please report it as soon as possible, otherwise another account may keep your rank.
 
-## Will my rank be refunded??
-Money that was paid for a rank is usually not refunded by us.
-
 ## How do Premium Features behave after my rank expires?
 When your rank expires, features exclusive to premium players will no longer be actively accessible, but they are not lost – only inactive. Once you regain a premium rank, you can use them again.
 
@@ -145,3 +142,6 @@ Here are some examples:
 - Kits created in 1vs1 are saved but become inaccessible after the rank expires.
 - Pixelshop features are deactivated after the rank expires but are still available. They become accessible again when you regain the rank.
 - Monthly MegaPixels remain intact and can be spent even without an active rank.
+
+## Will my rank be refunded??
+Money that was paid for a rank is usually not refunded by us.
