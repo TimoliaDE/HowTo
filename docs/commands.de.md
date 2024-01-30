@@ -192,17 +192,6 @@ Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführ
 | `/create`                       | Erstellt ein Turnier |
 | `/invite <Spieler>`             | Lädt einen Spieler in dein Turnier ein |
 
-### Bauwelt
-| Befehl | Funktion |
-| ------ | -------- |
-| `/backup [Seite]` | Ruft alle gespeicherten Backups auf |
-| `/bauwelt` | Listet alle Befehle der Bauwelt auf |
-| `/finish` | Gibt deinen fertigen Plot ab |
-| `/reset` | Resettet deinen Plot |
-| `/save` | Speichert deinen Plot |
-| `/spawn` | Telportiert dich zum Spawn der Bauwelt |
-| `/tutorial` | Teleportiert dich zum Tutorial |
-
 ### Castles
 | Befehl | Funktion |
 | ------ | -------- |
