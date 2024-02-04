@@ -2225,6 +2225,9 @@
       "Youtuber-Ränge",
       "Zu Unrecht gebannt"
     ],
+    "fields": [
+      "1vs1"
+    ],
     "rank_history": {
       "initial": "expert",
       "08.03.2020": "supporter",
@@ -2727,7 +2730,7 @@
       "Entschuldigungen"
     ],
     "fields": [
-      "1vs1"
+      "Plugin Development"
     ],
     "rank_history": {
       "initial": "expert",
