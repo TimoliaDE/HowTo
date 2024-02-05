@@ -3267,9 +3267,12 @@
     }
   },
   {
-    "name": "Knuddeliq",
+    "name": "Numbsi",
     "uuid": "391ef10e-8fdb-4c32-b8b5-c9c501c0de10",
     "sex": "female",
+        "responsibilities_secondary": [
+      "Youtuber-Ränge"
+    ],
     "rank_history": {
       "initial": "expert",
       "17.12.2023": "supporter"
@@ -3280,7 +3283,8 @@
     "uuid": "5ba5d816-9642-4cd5-b79c-118ee62953b0",
     "sex": "male",
     "responsibilities_secondary": [
-      "JumpWorld Verifizierung"
+      "JumpWorld Verifizierung",
+      "Youtuber-Ränge"
     ],
     "rank_history": {
       "initial": "expert",
