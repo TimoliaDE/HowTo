@@ -36,7 +36,7 @@ Please note that you must be at least 16 years old to join the Timolia Creative 
 The <b>HeadBuilders</b> form the management of the builder team on Timolia. Since they are team members with many years of experience and very good knowledge of Timolia's team structures, an application for this rank is not possible.
 
 
-### Cotent
+### Content
 
 You can apply as a Content by e-mail to <a href="mailto:content@timolia.de">content@timolia.de</a>. It is important to you send us your in-game name, a short personal description, 
 an overview of your previous work/experiences as well as examples to your work. Depending on the creative area you want to apply for, you will need the 
