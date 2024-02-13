@@ -8,6 +8,7 @@ You can use these commands globally at any time.
 | ------ | -------- |
 | `/achievements`, `/ach`         | Lists an overview of all achievements |
 | `/bannotify`                    | Deactivate notifications concerning your ban days |
+| `/discord unverify`             | Separate the verification and connection between your Minecraft and Discord account. |
 | `/games`                        | Teleports you to the games servers |
 | `/help`                         | Shows the most important information about Timolia |
 | `/hub`, `/lobby`                | Teleports you back to the hub |
@@ -131,8 +132,7 @@ The following list contains commands you can use with the <strong>Timolia Bot</s
 | `/stats all` | Timolia Bot (private chat) | Displays server stats |
 | `/support <description>` | Timolia Bot (private chat) and [#support](https://discordapp.com/channels/407554118887014402/413594798906408960) | Creates a support channel for you with the provided issue |
 | `/top` | Timolia Bot (private chat) and [#ranks](https://discordapp.com/channels/407554118887014402/548160287891783690)| Displays the top 10 of all users |
-| `/unverify` | Timolia Bot (private chat) | Remove the link of your Minecraft account with your Discord account |
-| `/verify <in-game name>` | Timolia Bot (private chat) | Links your Discord account to your Minecraft account and verifies you |
+| `/register <in-game name>` | Timolia Bot (private chat) | Links your Discord account to your Minecraft account and verifies you |
 
 ## 2 - Commands of each game modes
 
