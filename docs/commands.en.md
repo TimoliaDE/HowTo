@@ -8,7 +8,7 @@ You can use these commands globally at any time.
 | ------ | -------- |
 | `/achievements`, `/ach`         | Lists an overview of all achievements |
 | `/bannotify`                    | Deactivate notifications concerning your ban days |
-| `/discord unverify`             | Separate the verification and connection between your Minecraft and Discord account. |
+| `/discord unverify`             | Remove the verification and connection between your Minecraft and Discord account. |
 | `/games`                        | Teleports you to the games servers |
 | `/help`                         | Shows the most important information about Timolia |
 | `/hub`, `/lobby`                | Teleports you back to the hub |
