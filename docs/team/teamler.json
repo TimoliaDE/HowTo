@@ -3320,5 +3320,29 @@
       "initial": "spieler",
       "24.01.2024": "developer"
     }
+  },
+  {
+    "name": "heyniklas",
+    "uuid": "9863d39b-7043-4587-b8b0-23754d30de5d",
+    "sex": "male",
+    "responsibilities_main": [
+      "Gamedesign"
+    ],
+    "rank_history": {
+      "initial": "spieler",
+      "14.02.2024": "content"
+    }
+  },
+  {
+    "name": "JkNopeJk",
+    "uuid": "8cfeae05-b100-4543-89cb-e8adf07f86b8",
+    "sex": "male",
+    "responsibilities_main": [
+      "Grafikdesign"
+    ],
+    "rank_history": {
+      "initial": "expert",
+      "14.02.2024": "content"
+    }
   }
 ]
