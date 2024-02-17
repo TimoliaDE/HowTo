@@ -8,6 +8,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | ------ | -------- |
 | `/achievements`, `/ach`         | Listet eine Übersicht aller Achievements auf |
 | `/bannotify`                    | Deaktiviere Benachrichtigungen zu deinen Banntagen |
+| `/discord unverify`             | Trennt die Verifikation sowie Verbindung zwischen deinem Minecraft und Discord Account |
 | `/games`                        | Teleportiert dich zu den Games-Servern |
 | `/help`                         | Zeigt dir die wichtigsten Infos zu Timolia |
 | `/hub`, `/lobby`                | Teleportiert dich in die Lobby |
@@ -131,8 +132,7 @@ Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführ
 | `/stats all` | Timolia Bot (Privatchat) | Gibt die Serverstats aus |
 | `/support <Beschreibung>` | Timolia Bot (Privatchat) und [#support](https://discordapp.com/channels/407554118887014402/413594798906408960) | Erstellt einen Supportchat für dich mit dem angegebenen Problem |
 | `/top` | Timolia Bot (Privatchat) und [#ranks](https://discordapp.com/channels/407554118887014402/548160287891783690)| Zeigt die Top 10 der User an|
-| `/unverify` | Timolia Bot (Privatchat) | Hebt die Verknüpfung deines Discord-Accounts mit deinem Minecraft-Account auf |
-| `/verify <Ingamename>` | Timolia Bot (Privatchat) | Verknüpft deinen Discord-Account mit deinem Minecraft-Account |
+| `/register <Ingamename>` | Timolia Bot (Privatchat) | Verknüpft deinen Discord-Account mit deinem Minecraft-Account |
 
 ## 2 - Befehle der einzelnen Modi
 
