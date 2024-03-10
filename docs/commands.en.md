@@ -140,6 +140,7 @@ The following list contains commands you can use with the <strong>Timolia Bot</s
 
 | Command | Description |
 | ------ | -------- |
+| `/bestofx <Spieler> <Anzahl>`   | Duel a player (best of 3/5) |
 | `/challenge <player>`, `/c`     | Duel a player |
 | `/compare <name> <name>`        | Shows stats of two players |
 | `/endmatch`                     | The fight ends after one minute. The player closest to the middle for the longest time wins |
@@ -171,7 +172,6 @@ The following list contains commands you can use with the <strong>Timolia Bot</s
 | `/winstreak`, `/streak`         | Shows your current win streak |
 | `/xp <Level>`                   | Sets an XP-level for your kit |
 **[Premium](/ranks/premium/) only**:
-| `/bestofx <Spieler> <Anzahl>`   | Duel a player (best of 3/5) |
 | `/create [Passwort]`            | Creates a tournament (optionally with a password) |
 | `/modify`                       | Creates the tournament settings |
 | `/near <kit> [name]`            | Shows the distance to the next rank for each kit ranking |
