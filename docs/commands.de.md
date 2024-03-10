@@ -139,6 +139,7 @@ Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführ
 ### 1vs1
 | Befehl | Funktion |
 | ------ | -------- |
+| `/bestofx <Spieler> <Anzahl>`   | Fordert einen Spieler zu einem Best of 3 oder Best of 5 heraus |
 | `/challenge <Spieler>`, `/c`    | Fordert einen Spieler zu einem Duell heraus |
 | `/compare <Name> <Name>`        | Zeigt die Kampfstatistik zweier Spieler |
 | `/endmatch`                     | Der Kampf wird nach einer Minute mit Entscheidung durch die Mitte beendet |
@@ -170,7 +171,6 @@ Der <strong>Timolia Bot</strong> verfügt über mehrere Commands, die ausgeführ
 | `/winstreak`, `/streak`         | Zeigt deine aktuelle Winstreak |
 | `/xp <Level>`                   | Setzt ein XP-Level für dein Kit |
 **[Premium](/ranks/premium/) only**:
-| `/bestofx <Spieler> <Anzahl>`   | Fordert einen Spieler zu einem Best of 3 oder Best of 5 heraus |
 | `/create [Passwort]`            | Erstellt ein Turnier (optional mit einem Passwort) |
 | `/modify`                       | Bearbeitet die Turniereinstellungen |
 | `/near <kit> [name]`            | Zeigt für jede Kitrangliste die Entfernung zum nächsten Rang an |
