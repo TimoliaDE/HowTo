@@ -9,7 +9,7 @@ Here in the howto, there are far too few cats. Therefore, we added a few sweet c
 
 ![](catsimg/IMG_2170.jpg)
 
-![](catsimg/Katze.jpeg)
+![](catsimg/Katze.JPEG)
 
 
 <br />
