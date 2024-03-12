@@ -9,6 +9,9 @@ Hier im HowTo gibt es zu wenige Katzen, darum hier ein paar süße Katzenbilder 
 
 ![](catsimg/IMG_2170.jpg)
 
+![](catsimg/Katze.JPEG)
+Katze Katze
+
 <br />
 
 Eine Kooperation von Julian und Daniel
