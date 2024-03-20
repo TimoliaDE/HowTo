@@ -4,8 +4,25 @@ Hier findest du nun eine grobe Übersicht über den Discord, alle weiteren Infor
 
 # 1 - Verifizierung auf dem Discord
 - Wenn du den Community-Discord betrittst, bist du zunächst unverifiziert. Durch die Verifizierung mit deinem Minecraft-Account erhältst du eine besondere Rolle mit deinem Ingame-Rang und einige neue Rechte auf dem Discord. Außerdem bekommst du ingame den "Discord Crew"-Subtitle!
-- Sobald du den Discord-Server betreten hast, wird dich der "<strong>Timolia Bot</strong>" anschreiben. (Sollte er dies nicht tun, stelle bitte sicher, dass private Nachrichten von Usern auf diesem Discord-Server erlaubt sind! Mit `/join` erhältst du die Join-Nachrichten des Bots erneut.)  Sei <strong>ingame online und schreibe dem Bot auf dem Discord</strong> `/verify <dein Ingamename>`. Klicke dann im <strong>Minecraft-Chat</strong> auf die Nachricht, die du dort bekmmen hast.
-- Solltest du gebannt sein, kannst du auf *register.timolia.de* joinen und dort die Verifizierung durchführen.
+- Um dich zu Verifizieren musst du zunächst unseren Bot anschreiben. Klicke dazu in der Mitgliederliste mit einem Rechtsklick auf seinen Namen. Im weiteren Menü dann auf Nachricht
+
+![Screenshot (14033)](https://github.com/TimoliaDE/HowTo/assets/137213948/24905990-2a06-42b5-877f-201a8ab861a1)
+
+- Gebe ein / ein und klicke Links in PopUp auf das Timolia Logo. Dort kannst du den Command /register auswählen.
+
+![Screenshot (14034)](https://github.com/TimoliaDE/HowTo/assets/137213948/990eb714-28cd-49a4-b6fd-a3b262bfe701) ![Screenshot (14035)](https://github.com/TimoliaDE/HowTo/assets/137213948/1d9181f7-7be8-4b14-bbed-5e306385aa4e)
+Gebe nun deinen Ingame-Namen an. Wichitg! Bitte sei zu diesem Zeitpunkt bereits auf dem Minecraft-Netzwerk online um die Nachricht empfangen zu können!
+
+![Screenshot (14036)](https://github.com/TimoliaDE/HowTo/assets/137213948/07a894fb-34db-458e-a28c-9e3101f5a69e) ![Screenshot (14037)](https://github.com/TimoliaDE/HowTo/assets/137213948/fcd1797f-bc79-49ac-b935-008513a4e69a)
+
+
+- Im Ingame-Chat hast du nun eine Nachricht erhalten. Klicke auf diese um den Vorgang zu Bestätigen. Sollte es sich nicht um deinen Discord-Namen handeln Ignoriere diese einfach. 
+
+![Screenshot (14038)](https://github.com/TimoliaDE/HowTo/assets/137213948/48eb8744-e6c0-44c2-8743-f2293e6f3e6f)
+
+- Du erhälst eine Bestätigung im Ingame-Chat und die Rolle Timolianer auf dem Discord. Außerden wurde dein Discord-Name an deinen Ingame-Namen angepasst. Der Subtitle "Discord-Crew" ist nun im Pixelshop verfügbar
+
+![Screenshot (14040)](https://github.com/TimoliaDE/HowTo/assets/137213948/3c5d0d69-4a2c-4191-8ede-b26021aa5433)
 
 # 2 - Discord Regelwerk
 Die Regeln des Discord-Servers kannst du dem Channel [#regeln](https://discord.com/channels/407554118887014402/407565978025852929) auf dem Discord entnehmen oder [hier](/rules/discord/) nachlesen.
