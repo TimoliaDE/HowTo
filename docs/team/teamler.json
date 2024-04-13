@@ -3297,19 +3297,18 @@
     "sex": "male",
     "rank_history": {
       "initial": "pro_plus",
-      "17.12.2023": "content"
+      "17.12.2023": "content",
+      "12.04.2024": "native_mvp"
     }
   },
   {
     "name": "Grafjojo",
     "uuid": "55034041-35c1-4ba7-848d-6bcb21675738",
     "sex": "male",
-    "fields": [
-      "Plugin Development"
-    ],
     "rank_history": {
       "initial": "spieler",
-      "18.12.2023": "developer"
+      "18.12.2023": "developer",
+      "10.04.2024": "native_mvp"
     }
   },
   {
