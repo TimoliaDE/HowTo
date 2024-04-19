@@ -1,6 +1,6 @@
-Here you can find out more about whether and how you can apply in the area of Administration, Development, Moderation, Support, Building or Content.
+Here you can find out more about whether and how you can apply in the area of Administration, Development, System-Administration, Moderation, Support, Building or Content.
 
-### Management, Moderator and System-Administrator
+### Administration, Moderation and System-Administration
 These ranks are only given to active team members. External persons cannot apply for these ranks. 
 They take great responsibility in organizational and administrative areas and their positions require intensive knowledge of Timolia's internal structure.
 
