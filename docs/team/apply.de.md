@@ -1,6 +1,6 @@
 Ob und wie du dich im Bereich Administration, Development, System Administration, Moderation, Support, Building oder Content bewerben kannst, erfährst du hier.
 
-### Administration und Moderation
+### Administration, Moderation und System-Administration
 Diese Ränge werden nur an aktive Teammitglieder vergeben. Außenstehende können sich nicht auf diese Ränge bewerben. 
 Sie übernehmen große Verantwortung in organisatorischen und verwaltungstechnischen Bereichen und ihre Positionen erfordern intensives Wissen über die interne Struktur Timolias.
 
@@ -42,9 +42,6 @@ Für eine erfolgreiche Bewerbung ist es notwendig, dass du uns einen kleinen Ein
 Wir achten vor allem auf sauberen, gut kommentierten Code, der deine Fähigkeiten widerspiegelt. Auch solltest du auf die Einhaltung der Java-Konventionen achten und keine obsoleten Anweisungen verwenden. 
 
 Teammitglieder des <b>Development+</b> Rangs verfügen über eine langjährige Erfahrung als Entwickler auf Timolia und stehen bei internen Fragen zum Development zur Verfügung. Bewerbungen für diesen Rang sind daher nicht möglich.
-
-### System Administration
-Diese Ränge werden nur an aktive Teammitglieder vergeben. Außenstehende können sich nicht auf diese Ränge bewerben. Sie verwalten die Technische Grundlage Timolias und warten die Infrastruktu. Ihre Positionen erfordern intensives Wissen.
 
 ### Support
 Sollten neue Teammitglieder im Supportbereich gesucht werden, überprüft das Team, welche Spieler:innen besonders aktiv auf dem Netzwerk sind und positiv auffallen.
