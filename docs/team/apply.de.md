@@ -1,6 +1,6 @@
 Ob und wie du dich im Bereich Administration, System Administration, Development, Moderation, Support, Building oder Content bewerben kannst, erfährst du hier.
 
-### Administration, Moderation und System-Administration
+### Administration, System-Administration und Moderation
 Diese Ränge werden nur an aktive Teammitglieder vergeben. Außenstehende können sich nicht auf diese Ränge bewerben. 
 Sie übernehmen große Verantwortung in organisatorischen und verwaltungstechnischen Bereichen und ihre Positionen erfordern intensives Wissen über die interne Struktur Timolias.
 
