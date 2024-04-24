@@ -1,4 +1,4 @@
-Ob und wie du dich im Bereich Administration, Development, System Administration, Moderation, Support, Building oder Content bewerben kannst, erfährst du hier.
+Ob und wie du dich im Bereich Administration, System Administration, Development, Moderation, Support, Building oder Content bewerben kannst, erfährst du hier.
 
 ### Administration, Moderation und System-Administration
 Diese Ränge werden nur an aktive Teammitglieder vergeben. Außenstehende können sich nicht auf diese Ränge bewerben. 
