@@ -108,10 +108,7 @@ class Teamler(
     }
 
     fun updateName() {
-        name = MojangService.nameFromUUid(uuid.toString())
-        if (name == null) {
-            name = SQLApi.getName(uuid).toString()
-        }
+        name = SQLApi.getName(uuid).toString()
     }
 
     override fun toString(): String {
