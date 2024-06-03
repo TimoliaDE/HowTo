@@ -1,5 +1,6 @@
 package de.timolia.howto.teamler
 
+import de.timolia.howto.conversion.SQLApi
 import de.timolia.howto.minecraft.MojangService
 import de.timolia.howto.rank.Rank
 import de.timolia.howto.rank.TeamlerRankChange
@@ -108,6 +109,9 @@ class Teamler(
 
     fun updateName() {
         name = MojangService.nameFromUUid(uuid.toString())
+        if (name == null) {
+            name = SQLApi.getName(uuid).toString()
+        }
     }
 
     override fun toString(): String {
