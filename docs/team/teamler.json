@@ -2810,7 +2810,8 @@
     "uuid": "14a13257-f1a3-4802-bd1e-73f077f0143a",
     "sex": "male",
     "responsibilities_secondary": [
-      "JumpWorld Verifizierung"
+      "JumpWorld Verifizierung",
+      "Timolia Turnier Organisation"
     ],
     "rank_history": {
       "initial": "expert",
@@ -2868,7 +2869,7 @@
       "13.09.2021": "developer",
       "14.11.2022": "developer_plus",
       "18.12.2023": "administrator",
-      "01.06.2024": "developer"
+      "05.06.2024": "developer"
     }
   },
   {
@@ -2953,6 +2954,7 @@
     ],
     "responsibilities_secondary": [
       "Building",
+      "Entschuldigungen",
       "Social Media",
       "Timolia HowTo",
       "Youtuber-Ränge"
@@ -3217,6 +3219,7 @@
     "uuid": "33c50bfd-e1b4-4b45-850e-0702a1319393",
     "sex": "male",
     "responsibilities_secondary": [
+      "Entschuldigungen",
       "JumpWorld Verifizierung",
       "Timolia Turnier Organisation",
       "Youtuber-Ränge"
@@ -3288,7 +3291,9 @@
     "uuid": "5ba5d816-9642-4cd5-b79c-118ee62953b0",
     "sex": "male",
     "responsibilities_secondary": [
+      "Entschuldigungen",
       "JumpWorld Verifizierung",
+      "Timolia Turnier Organisation",
       "Youtuber-Ränge"
     ],
     "rank_history": {
