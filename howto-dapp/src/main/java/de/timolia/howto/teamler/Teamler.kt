@@ -31,9 +31,9 @@ class Teamler(
         if (rankHistory.isNullOrEmpty()) {
             return rankChanges
         }
-        for (i in 0 until rankHistory.size) {
-            val rank = rankHistory.values.toTypedArray()[i]
-            Validate.notNull(rank, "Der " + (i + 1) + ". Rang von '" + name + "' existiert nicht")
+        val ranks = rankHistory.values.toTypedArray()
+        ranks.forEachIndexed { index, rank ->
+            Validate.notNull(rank, "Der " + (index + 1) + ". Rang von '" + name + "' existiert nicht")
         }
         val dates = rankHistory.keys
                 .map { s -> s.replace("hidden-", "") }
@@ -108,9 +108,8 @@ class Teamler(
     }
 
     fun updateName() {
-        name = MojangService.nameFromUUid(uuid.toString())
-        if (name == null) {
-            name = SQLApi.getName(uuid).toString()
+        name = MojangService.nameFromUUid(uuid.toString()) {
+            SQLApi.getName(uuid).toString()
         }
     }
 
