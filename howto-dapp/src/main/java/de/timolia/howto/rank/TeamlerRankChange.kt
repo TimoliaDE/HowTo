@@ -27,7 +27,9 @@ class TeamlerRankChange {
 
     constructor(name: String?, uuid: UUID, rankFrom: Rank, rankTo: Rank, date: String, hidden: Boolean) {
         this.name = try {
-            MojangService.nameFromUUid(uuid.toString())
+            MojangService.nameFromUUid(uuid.toString()) {
+                name!!
+            }
         } catch (exception: Exception) {
             exception.printStackTrace()
             name!!
