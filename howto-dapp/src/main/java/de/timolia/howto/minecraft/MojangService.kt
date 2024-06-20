@@ -10,13 +10,6 @@ import kotlin.time.Duration
 object MojangService {
     data class ProfileInfo(val id: String, val name: String? = null)
     private val resolved = HashMap<String, String>()
-    private var requests = 0
-
-    /**
-     * set the rate-limit to 200 to take previous runs into consideration and the update it to 599 if the limit was
-     * reached
-     */
-    private var rateLimit = 200
     private val logger = Logger.getLogger(this::class.simpleName)
 
     /**
@@ -27,25 +20,21 @@ object MojangService {
      * @return the player name
      */
     fun nameFromUUid(uuid: String, fallback: () -> String) = resolved.computeIfAbsent(uuid) {
-        resolve(uuid) ?: fallback()
+        if(Math.random() > 0.5) {
+            resolve(uuid) ?: fallback()
+        } else {
+            fallback()
+        }
     }
 
     private fun resolve(uuid: String): String? = runBlocking {
-        if(requests > rateLimit) {
-            logger.warning("Mojang Api Rate Limit reached! Suspending requests for 10 minutes!")
-            delay(1000 * 60 * 10)   //wait 10 minutes until rate limit goes away
-            rateLimit = 599
-            requests = 0
-        }
         val baseUrl = "https://sessionserver.mojang.com/session/minecraft/profile/$uuid"
 
         val response = baseUrl.httpGet()
         try {
-            Gson().fromJson(response.body, ProfileInfo::class.java).name!!.also {
-                requests ++
-            }
+            Gson().fromJson(response.body, ProfileInfo::class.java).name!!
         } catch (exception: Exception) {
-            println(response)
+            logger.warning(response.body)
             null
         }
     }
