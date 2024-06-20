@@ -2,10 +2,8 @@ package de.timolia.howto.minecraft
 
 import com.google.gson.Gson
 import fuel.httpGet
-import kotlinx.coroutines.delay
 import kotlinx.coroutines.runBlocking
 import java.util.logging.Logger
-import kotlin.time.Duration
 
 object MojangService {
     data class ProfileInfo(val id: String, val name: String? = null)
@@ -20,11 +18,7 @@ object MojangService {
      * @return the player name
      */
     fun nameFromUUid(uuid: String, fallback: () -> String) = resolved.computeIfAbsent(uuid) {
-        if(Math.random() > 0.5) {
-            resolve(uuid) ?: fallback()
-        } else {
-            fallback()
-        }
+        resolve(uuid) ?: fallback()
     }
 
     private fun resolve(uuid: String): String? = runBlocking {
