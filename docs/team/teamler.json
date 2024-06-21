@@ -3070,7 +3070,9 @@
     "sex": "male",
     "rank_history": {
       "initial": "mvp",
-      "16.08.2022": "builder"
+      "16.08.2022": "builder",
+      "17.06.2024": "native_mvp"
+
     }
   },
   {
@@ -3362,7 +3364,8 @@
     "sex": "male",
     "rank_history": {
       "initial": "spieler",
-      "14.02.2024": "builder"
+      "14.02.2024": "builder",
+      "16.06.2024": "native_mvp"
     }
   }
 ]
