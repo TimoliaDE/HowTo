@@ -2811,6 +2811,7 @@
     "uuid": "14a13257-f1a3-4802-bd1e-73f077f0143a",
     "sex": "male",
     "responsibilities_secondary": [
+      "Entschuldigungen",
       "JumpWorld Verifizierung",
       "Timolia Turnier Organisation"
     ],
@@ -3070,7 +3071,8 @@
     "sex": "male",
     "rank_history": {
       "initial": "mvp",
-      "16.08.2022": "builder"
+      "16.08.2022": "builder",
+      "17.06.2024": "native_mvp"
     }
   },
   {
@@ -3221,6 +3223,7 @@
     "sex": "male",
     "responsibilities_secondary": [
       "Entschuldigungen",
+      "Timolia HowTo",
       "JumpWorld Verifizierung",
       "Timolia Turnier Organisation",
       "Youtuber-Ränge"
@@ -3292,7 +3295,6 @@
     "uuid": "5ba5d816-9642-4cd5-b79c-118ee62953b0",
     "sex": "male",
     "responsibilities_secondary": [
-      "Entschuldigungen",
       "JumpWorld Verifizierung",
       "Timolia Turnier Organisation",
       "Youtuber-Ränge"
@@ -3362,7 +3364,8 @@
     "sex": "male",
     "rank_history": {
       "initial": "spieler",
-      "14.02.2024": "builder"
+      "14.02.2024": "builder",
+      "16.06.2024": "native_mvp"
     }
   }
 ]
