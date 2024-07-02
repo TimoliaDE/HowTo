@@ -114,26 +114,6 @@ In case you lose your phone, you can log in using backup codes, which you receiv
 | `/2fa logout`                   | Kicks you from the network and logs you off securely |
 | `/2fa setup`                    | Sets up the two-factor authentication |
 
-### Community-Discord
-
-The following list contains commands you can use with the <strong>Timolia Bot</strong>.
-
-| Command | Channel | Description |
-| ------ | -------------- | -------- |
-| `/bug <description>` | Timolia Bot (private chat) and [#bug-melden](https://discordapp.com/channels/407554118887014402/413638656264503317) | Reports a bug to the Timolia Team |
-| `/channel invite <@name>` or `/channel remove <@name>` | Timolia Bot (private chat) and private channel | Invites/removes a user to/from your private channel |
-| `/help` | Timolia Bot (private chat) | Lists all available commands |
-| `/help <command>` oder `/<command> help` | Timolia Bot (private chat) | Shows information about the provided command |
-| `/idea <idea>` | Only in [#ideen](https://discordapp.com/channels/407554118887014402/413615776399097866) and [#discord-ideen](https://discordapp.com/channels/407554118887014402/569594169228656656) | The Bot posts your idea and adds a positive and a newgative reaction |
-| `/lookup <@name>` | Timolia Bot (private chat) | Lists information about a user |
-| `/quote <message ID>/<message URL>` | Only in channels | Quotes the provided message |
-| `/rank` | Timolia Bot (private chat) and [#ranks](https://discordapp.com/channels/407554118887014402/548160287891783690) | Displays information about your rank |
-| `/stats [@name]` | Timolia Bot (private chat) | Displays your or another users Discord stats |
-| `/stats all` | Timolia Bot (private chat) | Displays server stats |
-| `/support <description>` | Timolia Bot (private chat) and [#support](https://discordapp.com/channels/407554118887014402/413594798906408960) | Creates a support channel for you with the provided issue |
-| `/top` | Timolia Bot (private chat) and [#ranks](https://discordapp.com/channels/407554118887014402/548160287891783690)| Displays the top 10 of all users |
-| `/register <in-game name>` | Timolia Bot (private chat) | Links your Discord account to your Minecraft account and verifies you |
-
 ## 2 - Commands of each game modes
 
 ### 1vs1
