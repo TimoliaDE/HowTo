@@ -15,7 +15,7 @@ Auf Einschränkungen wirst du in deiner Arbeit selten stoßen; wo du helfen möc
 Damit das so reibungslos im gesamten Team funktionieren kann, gibt es aber natürlich einige Ansprüche, die wir an unser Team im Allgemeinen und an alle Developer:innen im Besonderen stellen.
 
 #### Das wünschen wir uns von dir im Plugin-Development
-- Ausführliche Kenntnisse in Java und der Spigot-API/Bungeecord-API
+- Ausführliche Kenntnisse in Java und der Spigot-API/Velocity-API
 - Vorerfahrung in den Aufgabenbereichen von Minecraft-Development
 - Termingerechter Umgang mit Projekten
 - Grundkenntnisse der englischen Sprache
