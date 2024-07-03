@@ -41,7 +41,7 @@ enum class Rank(
     supporter_games(101, true, "supporter", "Supporter Games", "Supporterin Games"),
     supporter_plus(110, true, "supporter-plus", "Supporter+", "Supporterin+", "%rank.supporter_plus.description%"),
     supporter_city_games(100, true, "supporter", "Supporter City & Games", "Supporterin City & Games"),
-    sysadmin(150, true, "sysadmin", "SysAdmin", null);
+    sysadmin(150, true, "sysadmin", "SysAdmin", null, "%rank.sysadmin.description%");
 
     fun getString(sex: Sex): String {
         return if (sex == Sex.female && female != null) {

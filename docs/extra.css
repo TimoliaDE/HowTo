@@ -175,8 +175,6 @@ Left and right toc scrollbar
     background-color: #E0E0E0 !important;
 }
 
-
-
 .md-nav {
     color: #d4d4d4 !important;
     background-color: #212121 !important;
@@ -286,6 +284,10 @@ style ranks
     color: #2a84c0;
 }
 
+.sysadmin {
+    color: #009e18;
+}
+
 .developer-plus {
     color: #009e18;
 }
@@ -293,7 +295,6 @@ style ranks
 .developer {
     color: #009e18;
 }
-
 
 .moderator {
     color: #da0101;
@@ -306,7 +307,6 @@ style ranks
 .supporter {
     color: #ebd700;
 }
-
 
 .headbuilder {
     color: #008a99;
@@ -327,7 +327,6 @@ style ranks
 .content {
     color: #008a99;
 }
-
 
 .youtuber {
     color: #b800b8;
@@ -357,14 +356,6 @@ old ranks
 .management {
     color: #009e18;
 }
-
-
-.sysadmin {
-    color: #009e18;
-}
-
-
-
 
 /**
  * Colorcodes minecraft
