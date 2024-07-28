@@ -2888,6 +2888,20 @@
     "name": "DevMoritz",
     "uuid": "9bc330fa-0e99-4c85-9396-cb63fb82297c",
     "sex": "male",
+    "responsibilities_main": [
+      "Grafikdesign",
+      "JumpWorld Events",
+      "JumpWorld Verifizierung",
+      "Monatssieger"
+    ],
+    "responsibilities_secondary": [
+      "Gewinnspielorganisation",
+      "Social Media"
+    ],
+    "fields": [
+      "Systemadministration",
+      "Web Development",
+    ],
     "rank_history": {
       "initial": "expert",
       "22.11.2021": "supporter",
