@@ -6,12 +6,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
     - name: Mirror + trigger CI
       uses: SvanBoxel/gitlab-mirror-and-ci-action@master
       with:
         args: "https://gitlab.timolia.de/web/howto"
-       # fetch-depth: 0
       env:
         FORCE_PUSH: "true"
         GITLAB_HOSTNAME: "gitlab.timolia.de"
