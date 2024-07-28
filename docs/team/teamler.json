@@ -3368,4 +3368,14 @@
       "16.06.2024": "native_mvp"
     }
   }
+  ,
+  {
+    "name": "HomieFreddy",
+    "uuid": "94a47015-1f39-43de-9d12-a755f6756d95",
+    "sex": "male",
+    "rank_history": {
+      "initial": "expert",
+      "28.07.2024": "supporter"
+    }
+  }
 ]
