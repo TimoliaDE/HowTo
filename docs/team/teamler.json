@@ -1757,7 +1757,7 @@
       "17.03.2020": "sysadmin",
       "15.09.2021": "native_expert",
       "14.05.2022": "developer_plus",
-      "25.04.2024": "sysadmin"
+      "14.04.2024": "sysadmin"
     }
   },
   {
@@ -2889,6 +2889,20 @@
     "name": "DevMoritz",
     "uuid": "9bc330fa-0e99-4c85-9396-cb63fb82297c",
     "sex": "male",
+    "responsibilities_main": [
+      "Grafikdesign",
+      "JumpWorld Events",
+      "JumpWorld Verifizierung",
+      "Monatssieger"
+    ],
+    "responsibilities_secondary": [
+      "Gewinnspielorganisation",
+      "Social Media"
+    ],
+    "fields": [
+      "Systemadministration",
+      "Web Development"
+    ],
     "rank_history": {
       "initial": "expert",
       "22.11.2021": "supporter",
@@ -2953,14 +2967,15 @@
       "Gewinnspielorganisation",
       "JumpWorld Events",
       "JumpWorld Verifizierung",
-      "Monatssieger"
+      "Monatssieger",
+      "Youtuber-Ränge"
     ],
     "responsibilities_secondary": [
       "Building",
       "Entschuldigungen",
       "Social Media",
       "Timolia HowTo",
-      "Youtuber-Ränge"
+      "Community-Discord"
     ],
     "rank_history": {
       "initial": "expert",
@@ -3318,7 +3333,8 @@
     "rank_history": {
       "initial": "spieler",
       "18.12.2023": "developer",
-      "10.04.2024": "native_mvp"
+      "10.04.2024": "native_mvp",
+      "24.07.2024": "developer"
     }
   },
   {
@@ -3365,6 +3381,15 @@
       "initial": "spieler",
       "14.02.2024": "builder",
       "16.06.2024": "native_mvp"
+    }
+  },
+  {
+    "name": "HomieFreddy",
+    "uuid": "94a47015-1f39-43de-9d12-a755f6756d95",
+    "sex": "male",
+    "rank_history": {
+      "initial": "expert",
+      "28.07.2024": "supporter"
     }
   }
 ]
