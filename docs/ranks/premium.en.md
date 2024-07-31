@@ -49,11 +49,6 @@ Lifetime ranks:
 |:--------------------------------------------|:----------------------------:|:-----------------------------:|:----------------------------:|:-----------------------------:|:----------------------------------:|
 | Duration                                    |           LIFETIME           |           LIFETIME            |           LIFETIME           |           LIFETIME            |              LIFETIME              |
 | Rank color                                  |           &check;            |            &check;            |           &check;            |            &check;            |              &check;               |
-| Exclusive Pet                               |              -               |              -                |              -               |              -                |                 -                  |
-| Pet Slots                                   |              1               |              1                |              1               |              1                |                 1                  |
-| Monthly Pixels                              |              -               |              -                |              -               |              -                |                 -                  |
-| FreeBuild: Monthly Gems                     |              -               |              -                |              -               |              -                |                 -                  |
-| Monthly Mega Pixels                         |              -               |              -                |              -               |              -                |                 -                  |
 | Free LabyCoins                              |             210              |              450              |             900              |             1800              |                3000                |
 | Join full servers*                          |           &check;            |            &check;            |           &check;            |            &check;            |              &check;               |
 | /fly                                        |              -               |              -                |              -               |              -                |                 -                  |
