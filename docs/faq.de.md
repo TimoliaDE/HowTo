@@ -83,15 +83,18 @@ Gerne supporten wir dich auch auf unserem [Discord](https://timolia.de/discord).
 Wir besitzen ein recht komplexes und einzigartiges Kicksystem, um sowohl Premium- als auch normalen Spielern ein tolles Spielerlebnis ohne ewige Wartezeiten zu ermöglichen. 
 Jeder Spieler erhält beim Joinen des Netzwerkes eine individuelle "Kick-Value", basierend auf dem Ingame-Rang. Umso höher der Rang, desto höher die "Kick-Value". Ein Spieler mit einer höheren "Kick-Value" kickt den Spieler mit der niedrigsten "Kick-Value", sollte ein Server voll sein.
 
-| Rang                                     | Kick-Value |
-|------------------------------------------|------------|
-| User                                     | 0          |
-| <span class='pro'>Pro</span>             | 300        |
-| <span class='pro'>Pro+</span>            | 400        |
-| <span class='mvp'>MVP</span>             | 500        |
-| <span class='mvp'>MVP+</span>            | 600        |
-| <span class='expert'>Expert</span>       | 800        |
-| <span class='youtuber'>Youtuber</span>   | 900        |
+| Rang                                    | Kick-Value |
+|-----------------------------------------|------------|
+| User                                    | 0          |
+| <span class='pro'>Pro</span>            | 300        |
+| <span class='pro'>Pro+</span>           | 400        |
+| <span class='pro'>Subscriber</span>     | 400        |
+| <span class='mvp'>MVP</span>            | 500        |
+| <span class='mvp'>MVP+</span>           | 600        |
+| <span class='mvp'>Subscriber+</span>    | 600        |
+| <span class='expert'>Expert</span>      | 800        |
+| <span class='expert'>Subscriber*</span> | 900        |
+| <span class='youtuber'>Youtuber</span>  | 900        |
 
 Wenn nun z.B. eine Person mit dem Expert Rang, einen vollen Server betritt, wird eine zufällige andere Person mit der niedrigsten KV wieder in eine 
 der Games-Lobbies geschickt. Der Kick-Value der Person erhöht sich dabei um 1. Beim nächsten Versuch ist es also wahrscheinlicher, dass die Person nicht gekickt wird, da die anderen Personen jetzt einen 
