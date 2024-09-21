@@ -3294,6 +3294,7 @@
     "uuid": "391ef10e-8fdb-4c32-b8b5-c9c501c0de10",
     "sex": "female",
     "responsibilities_secondary": [
+      "JumpWorld Verifizierung",
       "Youtuber-Ränge"
     ],
     "rank_history": {
@@ -3306,6 +3307,7 @@
     "uuid": "5ba5d816-9642-4cd5-b79c-118ee62953b0",
     "sex": "male",
     "responsibilities_secondary": [
+      "Entschuldigungen",
       "JumpWorld Verifizierung",
       "Timolia Turnier Organisation",
       "Youtuber-Ränge"
@@ -3387,6 +3389,11 @@
     "name": "HomieFreddy",
     "uuid": "94a47015-1f39-43de-9d12-a755f6756d95",
     "sex": "male",
+    "responsibilities_secondary": [
+      "JumpWorld Events",
+      "JumpWorld Verifizierung",
+      "Monatssieger"
+    ],
     "rank_history": {
       "initial": "expert",
       "28.07.2024": "supporter"
