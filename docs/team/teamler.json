@@ -3391,5 +3391,14 @@
       "initial": "expert",
       "28.07.2024": "supporter"
     }
+  },
+  {
+    "name": "Fussbild",
+    "uuid": "156d070c-5737-4db6-a8bb-cfedf1370117",
+    "sex": "male",
+    "rank_history": {
+      "initial": "expert",
+      "19.09.2024": "content"
+    }
   }
 ]
