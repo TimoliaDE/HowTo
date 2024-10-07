@@ -3404,6 +3404,9 @@
     "name": "Fussbild",
     "uuid": "156d070c-5737-4db6-a8bb-cfedf1370117",
     "sex": "male",
+    "responsibilities_secondary": [
+      "JumpWorld Events"
+    ],
     "rank_history": {
       "initial": "expert",
       "19.09.2024": "content"
