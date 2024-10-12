@@ -84,8 +84,6 @@ Lifetime ranks:
 
 *Further information about the kick system can be found [here](/faq/#wie-funktioniert-das-kick-system).
 
-## LabyMod Cashback
-Timolia is an official LabyMod partner. With the purchase of a premium rank on our network, you will receive LabyMod Coins, which you can use to acquire cosmetics, emotes, and much more in the LabyMod Shop.
 
 ## Sponsor-Ranks
 The sponsor ranks symbolize our gratitude towards players, which especially financially
