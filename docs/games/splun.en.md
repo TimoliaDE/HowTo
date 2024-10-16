@@ -15,8 +15,8 @@ Splun is a combination of <strong>Spl</strong>eef and Jump and R<strong>un</stro
 - <strong>Blaze Rod</strong>: Replaces Blocks underneath you
 - <strong>Boots</strong>: You can run faster
 - <strong>Chorus fruit</strong>: By eating the fruit, you will get teleported to a random spot on the map
-- <strong>Crossbow</strong>: You can shoot an arrow at other players
 - <strong>Cobweb</strong>: You can place a cobweb to stop players from running
+- <strong>Crossbow</strong>: You can shoot an arrow at other players
 - <strong>Egg</strong>: Throw the eggs to spawn blocks
 - <strong>Ender Eye</strong>: You recieve three triple jumps
 - <strong>Enderpearl</strong>: You recieve an ender pearl
