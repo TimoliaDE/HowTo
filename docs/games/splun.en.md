@@ -12,19 +12,26 @@ Splun is a combination of <strong>Spl</strong>eef and Jump and R<strong>un</stro
 - With different items you can change the movement of other players or increase your personal speed. 
 
 ## Special Items
-- <strong>Rocket</strong>: You can jump higher.
-- <strong>Feather</strong>: You're not going to destroy blocks.
-- <strong>Stone</strong>: A levitation platform is forming beneath your feet.
-- <strong>Sword</strong>: Knock your opponents off the platform.
-- <strong>Trank</strong>: Fill your opponents with arrows (Nausea effect).
-- <strong>Boots</strong>: You can run faster.
-- <strong>TNT</strong>: Blocks you touch turn into TNT.
-- <strong>Obsidian</strong>: All opponents receive the Blindness effect.
-- <strong>Pickaxe</strong>: You can mine blocks with a pickaxe.
-- <strong>Ender pearl</strong>: You receive an ender pearl.
-- <strong>Soulsand</strong>: All opponents receive the Slowness effect.
+- <strong>Blaze Rod</strong>: Replaces Blocks underneath you
+- <strong>Boots</strong>: You can run faster
+- <strong>Chorus fruit</strong>: By eating the fruit, you will get teleported to a random spot on the map
+- <strong>Crossbow</strong>: You can shoot an arrow at other players
+- <strong>Cobweb</strong>: You can place a cobweb to stop players from running
+- <strong>Egg</strong>: Throw the eggs to spawn blocks
+- <strong>Ender Eye</strong>: You recieve three triple jumps
+- <strong>Enderpearl</strong>: You recieve an ender pearl
+- <strong>Fireball</strong>: Throw the fireball to destroy a part of the map
 - <strong>Golden Apple</strong>: You can fly
-- <strong>Egg</strong>: Throw eggs to spawn blocks.
+- <strong>Obsidian</strong>: All opponents receive the Blindness effect
+- <strong>Phantom Membrane</strong>: You recieve the Slowfalling Effect
+- <strong>Pickaxe</strong>: You can mine blocks with a pickaxe
+- <strong>Redstone Torch</strong>: Throws all players in the air
+- <strong>Rocket</strong>: You can jump higher
+- <strong>Snowball</strong>: Throw snowballs to destroy blocks
+- <strong>Soulsand</strong>: All opponents receive the Slowness effect
+- <strong>Stone</strong>: A levitation platform is forming beneath your feet
+- <strong>Sword</strong>: Knock your opponents off the platform
+- <strong>TNT</strong>: Blocks you touch turn into TNT
 
 ## The ranks in 4rena
 
