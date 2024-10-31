@@ -3,11 +3,6 @@
 ### Wie lautet die IP doch gleich?
 Mit der Serveradresse `play.timolia.de` erreichst du unseren Minecraft Server. Wir wünschen dir viel Spaß auf unserem Netzwerk!
 
-### Gibt es auch einen TeamSpeak-Server?
-Mit der TeamSpeak-Serveradresse `ts.timolia.de` gelangst du auf unseren TeamSpeak-Server. Dort gibt es nicht nur Hilfechannel für schnellen Support, auch öffentliche Zonen erwarten dich.
-Auf unserem Server bieten wir zeitlich begrenzte Channel zum Mieten an, die Kosten betragen monatlich 2.500 Pixel. Alle weiteren Informationen findest du 
-[in unserer TeamSpeak-Erklärung](/teamspeak/).
-
 ### Gibt es auch einen Discord-Server?
 Über [https://timolia.de/discord](https://timolia.de/discord) kannst du auf unseren Discord-Server joinen. Hier kannst du dich mit anderen Usern austauschen, Support erhalten oder an Gewinnspielen teilnehmen.
 Alle weiteren Informationen findest du [in unserer Discord-Erklärung](/discord/).
