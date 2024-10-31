@@ -29,7 +29,7 @@ Subscriber Ränge:
 | Monatliche Megapixel               |                 500                 |                 1100                 |                  2200                   |
 | Eigene Lobbyzeit                   |               &check;               |               &check;                |                 &check;                 |
 | 1vs1 & JumpWorld Köpfe             |               &check;               |               &check;                |                 &check;                 |
-| Pet Slots                          |                  2                  |                  3                   |                    3                    |
+| Pet Slots                          |                  2                  |                  3                   |                    4                    |
 | JumpWorld Seticon                  |               &check;               |               &check;                |                 &check;                 |
 | JumpWorld Entitys                  |                 48                  |                  96                  |                   128                   |
 | JumpWorld Multibuild               |                  3                  |                  6                   |                    6                    |

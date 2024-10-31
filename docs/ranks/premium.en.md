@@ -28,7 +28,7 @@ Subscription ranks:
 | Monthly megapixel            |                 500                 |                 1100                 |                  2200                   |
 | Custom lobby time            |               &check;               |               &check;                |                 &check;                 |
 | 1vs1 & JumpWorld heads       |               &check;               |               &check;                |                 &check;                 |
-| Pet slots                    |                  2                  |                  3                   |                    3                    |
+| Pet slots                    |                  2                  |                  3                   |                    4                    |
 | JumpWorld seticon            |               &check;               |               &check;                |                 &check;                 |
 | JumpWorld entitys            |                 48                  |                  96                  |                   128                   |
 | JumpWorld multibuild         |                  3                  |                  6                   |                    6                    |
