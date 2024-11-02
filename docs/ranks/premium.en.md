@@ -9,13 +9,13 @@ Subscription ranks:
 
 |                              | <span class='pro'>Subscriber</span> | <span class='mvp'>Subscriber+</span> | <span class='expert'>Subscriber*</span> |
 |:-----------------------------|:-----------------------------------:|:------------------------------------:|:---------------------------------------:|
-| Duration                     |              Monthly                |               Monthly                |                Monthly                  |
+| Duration                     |               Monthly               |               Monthly                |                 Monthly                 |
 | Rank colour                  |               &check;               |               &check;                |                 &check;                 |
 | Join full servers*           |               &check;               |               &check;                |                 &check;                 |
 | Create own servers           |               &check;               |               &check;                |                 &check;                 |
 | Extended map pool            |               &check;               |               &check;                |                 &check;                 |
 | Map voting votes             |                  3                  |                  4                   |                    5                    |
-| Create joinmes               |            every 2 hours            |              every hour              |            every 40 minutes             |
+| Create joinmes               |             every hour              |           every 30 minutes           |            every 10 minutes             |
 | Create 1vs1 tournaments      |               &check;               |               &check;                |                 &check;                 |
 | 1vs1 kit slots               |                  3                  |                  4                   |                    6                    |
 | JumpWorld map slots          |                  2                  |                  4                   |                    5                    |

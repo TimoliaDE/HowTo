@@ -16,7 +16,7 @@ Subscriber Ränge:
 | Eigene Server erstellen            |               &check;               |               &check;                |                 &check;                 |
 | Erweiterter Mappool                |               &check;               |               &check;                |                 &check;                 |
 | Mapvoting Stimmen                  |                  3                  |                  4                   |                    5                    |
-| Joinmes erstellen                  |           alle 2 Stunden            |             jede Stunde              |             alle 40 Minuten             |
+| Joinmes erstellen                  |            jede Stunde              |           alle 30 Minuten            |             alle 10 Minuten             |
 | 1vs1 Turniere erstellen            |               &check;               |               &check;                |                 &check;                 |
 | 1vs1 Kitslots                      |                  3                  |                  4                   |                    6                    |
 | JumpWorld Mapslots                 |                  2                  |                  4                   |                    5                    |
