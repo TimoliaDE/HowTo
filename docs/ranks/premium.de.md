@@ -37,10 +37,10 @@ Subscriber Ränge:
 | 1vs1 Turniere erstellen            |                  -                  |               &check;                |                 &check;                 |
 | 1vs1 Teamfarbe ändern              |                  -                  |               &check;                |                 &check;                 |
 | 1vs1 Mapslots                      |                  2                  |                  5                   |                    5                    |
-| Exclusive Pixelshop-Items          |                 27                  |                  48                  |                   64                    |
+| Exklusive Pixelshop-Items          |                 27                  |                  48                  |                   64                    |
 | Minipet Namen & Farben             |               &check;               |               &check;                |                 &check;                 |
 | Größere Partys erstellen           |                  -                  |               &check;                |                 &check;                 |
-| Öffentliche Partxs erstellen       |                  -                  |                  -                   |                 &check;                 |
+| Öffentliche Partys erstellen       |                  -                  |                  -                   |                 &check;                 |
 | Premium Verschenken (alle 30 Tage) |                  -                  |                  -                   |                 &check;                 |
 | Server unterstützen                |               &check;               |               &check;                |                 &check;                 |
 

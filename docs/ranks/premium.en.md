@@ -9,8 +9,8 @@ Subscription ranks:
 
 |                              | <span class='pro'>Subscriber</span> | <span class='mvp'>Subscriber+</span> | <span class='expert'>Subscriber*</span> |
 |:-----------------------------|:-----------------------------------:|:------------------------------------:|:---------------------------------------:|
-| Duration                     |              Monatlich              |              Monatlich               |                Monatlich                |
-| Rank color                   |               &check;               |               &check;                |                 &check;                 |
+| Duration                     |              Monthly                |               Monthly                |                Monthly                  |
+| Rank colour                  |               &check;               |               &check;                |                 &check;                 |
 | Join full servers*           |               &check;               |               &check;                |                 &check;                 |
 | Create own servers           |               &check;               |               &check;                |                 &check;                 |
 | Extended map pool            |               &check;               |               &check;                |                 &check;                 |
@@ -20,7 +20,7 @@ Subscription ranks:
 | 1vs1 kit slots               |                  3                  |                  4                   |                    6                    |
 | JumpWorld map slots          |                  2                  |                  4                   |                    5                    |
 | JumpWorld map size           |                3000                 |                 5000                 |                  5000                   |
-| /fly in the Lobby            |               &check;               |               &check;                |                 &check;                 |
+| /fly in the lobby            |               &check;               |               &check;                |                 &check;                 |
 | Beta tests                   |               &check;               |               &check;                |                 &check;                 |
 | Pixel multiplier             |                 1,5                 |                  2                   |                    3                    |
 | Monthly pixel                |                1000                 |                 2200                 |                  4400                   |
@@ -32,12 +32,12 @@ Subscription ranks:
 | JumpWorld seticon            |               &check;               |               &check;                |                 &check;                 |
 | JumpWorld entitys            |                 48                  |                  96                  |                   128                   |
 | JumpWorld multibuild         |                  3                  |                  6                   |                    6                    |
-| JumpWorld spec views         |               &check;               |               &check;                |                 &check;                 |
+| JumpWorld spec view          |               &check;               |               &check;                |                 &check;                 |
 | Create 1vs1 tournaments      |                  -                  |               &check;                |                 &check;                 |
-| Change 1vs1 team color       |                  -                  |               &check;                |                 &check;                 |
+| Change 1vs1 team colour      |                  -                  |               &check;                |                 &check;                 |
 | 1vs1 map slots               |                  2                  |                  5                   |                    5                    |
 | Exclusive Pixelshop items    |                 27                  |                  48                  |                   64                    |
-| Minipet name & Colors        |               &check;               |               &check;                |                 &check;                 |
+| Minipet name & colours       |               &check;               |               &check;                |                 &check;                 |
 | Create larger partys         |                  -                  |               &check;                |                 &check;                 |
 | Create public partys         |                  -                  |                  -                   |                 &check;                 |
 | Gift premium (every 30 days) |                  -                  |                  -                   |                 &check;                 |
@@ -48,7 +48,7 @@ Lifetime ranks:
 |                                             | <span class='pro'>Pro</span> | <span class='pro'>Pro+</span> | <span class='mvp'>MVP</span> | <span class='mvp'>MVP+</span> | <span class='expert'>Expert</span> |
 |:--------------------------------------------|:----------------------------:|:-----------------------------:|:----------------------------:|:-----------------------------:|:----------------------------------:|
 | Duration                                    |           LIFETIME           |           LIFETIME            |           LIFETIME           |           LIFETIME            |              LIFETIME              |
-| Rank color                                  |           &check;            |            &check;            |           &check;            |            &check;            |              &check;               |
+| Rank colour                                 |           &check;            |            &check;            |           &check;            |            &check;            |              &check;               |
 | Free LabyCoins                              |             210              |              450              |             900              |             1800              |                3000                |
 | Join full servers*                          |           &check;            |            &check;            |           &check;            |            &check;            |              &check;               |
 | /fly                                        |              -               |              -                |              -               |              -                |                 -                  |
@@ -56,7 +56,7 @@ Lifetime ranks:
 | Discord rang                                |           &check;            |            &check;            |           &check;            |            &check;            |              &check;               |
 | Arcade: Create tournaments                  |        3 Turnierpässe        |            &check;            |           &check;            |            &check;            |              &check;               |
 | 1vs1: Create Kit-1vs1 tournaments           |        3 Turnierpässe        |            &check;            |           &check;            |            &check;            |              &check;               |
-| 1vs1: Chnage team color                     |              -               |            &check;            |           &check;            |            &check;            |              &check;               |
+| 1vs1: Chnage team colour                    |              -               |            &check;            |           &check;            |            &check;            |              &check;               |
 | 1vs1: Blocks as skulls                      |              -               |            &check;            |           &check;            |            &check;            |              &check;               |
 | 1vs1: Additional info-commands              |              -               |            &check;            |           &check;            |            &check;            |              &check;               |
 | Create larger parties                       |              -               |            &check;            |           &check;            |            &check;            |              &check;               |
@@ -90,15 +90,15 @@ The sponsor ranks symbolize our gratitude towards players, which especially fina
 support Timolia.
 These ranks cannot be purchased in the shop, but are assigned manually from a certain amount (see table).
 
-|                             | <span>Sponsor: (Level 1)</span> | <span>Sponsor: (Level 2)</span> | <span>Sponsor: (Level 3)</span> |
-|:----------------------------|:-------------------------------:|:-------------------------------:|:-------------------------------:|
-| Requirement                 |              250€               |              500€               |              1000€              |
-| Discord-Role                |             &check;             |             &check;             |             &check;             |
-| Subtitle: Sponsor-Level 1   |             &check;             |             &check;             |             &check;             |
-| Subtitle: Sponsor-Level 2   |                -                |             &check;             |             &check;             |
-| Subtitle: Sponsor-Level 3   |                -                |                -                |             &check;             |
-| exclusive Phantom-Pet       |                -                |             &check;             |             &check;             |
-| exclusive rank color (Pink) |                -                |                -                |             &check;             |
+|                              | <span>Sponsor: (Level 1)</span> | <span>Sponsor: (Level 2)</span> | <span>Sponsor: (Level 3)</span> |
+|:-----------------------------|:-------------------------------:|:-------------------------------:|:-------------------------------:|
+| Requirement                  |              250€               |              500€               |              1000€              |
+| Discord-Role                 |             &check;             |             &check;             |             &check;             |
+| Subtitle: Sponsor-Level 1    |             &check;             |             &check;             |             &check;             |
+| Subtitle: Sponsor-Level 2    |                -                |             &check;             |             &check;             |
+| Subtitle: Sponsor-Level 3    |                -                |                -                |             &check;             |
+| exclusive Phantom-Pet        |                -                |             &check;             |             &check;             |
+| exclusive rank colour (Pink) |                -                |                -                |             &check;             |
 
 **Important: Purchases made before May 31, 2022 are not included in this rule!**
 
