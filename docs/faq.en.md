@@ -92,13 +92,16 @@ with the lowest kick value if a server is full.
 
 | Rank                                   | Kick value  |
 |----------------------------------------|-------------|
-| User                                   | 0           |
-| <span class='pro'>Pro</span>           | 300         |
-| <span class='pro'>Pro+</span>          | 400         |
-| <span class='mvp'>MVP</span>           | 500         |
-| <span class='mvp'>MVP+</span>          | 600         |
-| <span class='expert'>Expert</span>     | 800         |
-| <span class='youtuber'>Youtuber</span> | 900         |
+| User                                    | 0          |
+| <span class='pro'>Pro</span>            | 300        |
+| <span class='pro'>Pro+</span>           | 400        |
+| <span class='pro'>Subscriber</span>     | 400        |
+| <span class='mvp'>MVP</span>            | 500        |
+| <span class='mvp'>MVP+</span>           | 600        |
+| <span class='mvp'>Subscriber+</span>    | 600        |
+| <span class='expert'>Expert</span>      | 800        |
+| <span class='expert'>Subscriber*</span> | 900        |
+| <span class='youtuber'>Youtuber</span>  | 900        |
 
 When e.g. an Expert joins a full server, a random player with the lowest KV is sent back to 
 one of the game lobbies. Their kick value automatically increases by 1. Thus, the next time it is more likely that 
