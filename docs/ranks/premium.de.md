@@ -119,32 +119,10 @@ Nun bleibt noch die Frage, was passiert, wenn ihr schon einen Rang auf Timolia h
 Timolia kannst du per Buycraft (PayPal, Überweisung) mit einer Spende unterstützen.
 Zahlungen per Buycraft werden direkt auf dem Server umgesetzt.
 
-Klicke [<strong>hier</strong>, um über Buycraft zu spenden (shop.timolia.de)](https://shop.timolia.de/).
-
-## Nitrado
-**Wichtig für Spenden über Nitrado**: Spenden per Nitrado müssen manuell bearbeitet werden und können deshalb bis zu 24 Stunden dauern.
-
-Um über Nitrado spenden zu können, benötigst du ein eigenes Nitrado-Konto. Dieses kannst du dir [**hier** auf der offiziellen Nitrado-Webseite einrichten](https://nitra.do/timolia-minecraft). Sobald du eingeloggt bist, kannst du im oberen Menü "Spenden" auswählen.
-
-Gib als **Empfänger** bitte Timolia an. Damit wir deine Spende auch korrekt zuordnen und verarbeiten können, teile uns im **Verwendungszweck** bitte noch folgende Daten mit:
-
-* Dein aktueller Ingame-Name
-* Dein aktueller Rang
-* Dein gewünschter Rang
-* Zahlung x/y, falls du den Gesamtbetrag in mehrere Teilbeträge aufteilst
-
-Der Betrag kann entsprechend dem gewünschten Betrag der Paysafecard ausgewählt werden.<br />
-Bitte beachte, dass du das `+` von Pro+ und MVP+ ausschreibst, da Nitrado das `+`-Zeichen nicht verarbeiten kann!
-
-**Beispiel**: Ein Upgrade von Pro auf MVP+ (45 Euro) mit 3 Paysafecards kannst du also so angeben:<br />
-Empfänger: Timolia<br />
-Verwendungszweck: MCExpertDE, Upgrade von Pro auf MVP Plus, Zahlung 1/3
-
-Es ist zu beachten, dass Geld, das bereits auf das Nitrado-Konto eingezahlt wurde, nicht mehr für Timolia gespendet werden kann! 
-
+Klicke [<strong>hier</strong>](https://shop.timolia.de/), um über Buycraft zu spenden (shop.timolia.de)].
 
 ## Mein Rang ist nicht da, was kann ich tun?
-Bezahlungen können eine Weile dauern - besonders, wenn der Kauf über Nitrado abgewickelt wurde. Sollte dein Rang 24 Stunden nach der Bestellung immer noch
+Bezahlungen können eine Weile dauern. Sollte dein Rang 24 Stunden nach der Bestellung immer noch
 nicht da sein, melde dich bitte in einem unserer Hilfechannel. Nach ein paar Angaben über deinen Kauf wird die Bestellung von einem zuständigen Teammitglied bearbeitet.
 Da dieser Vorgang manuell vorgenommen werden muss, kann dies ebenfalls ein paar Stunden in Anspruch nehmen.
 
