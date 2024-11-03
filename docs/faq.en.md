@@ -3,12 +3,6 @@
 ## What is the IP of Timolia?
 You can join Timolia using the server address `play.timolia.de`. Enjoy your time on our network!
 
-### Do you have a TeamSpeak server?
-Yes, we do have a TeamSpeak server!
-You can join it using the server address `ts.timolia.de`. There you do not only have support channels
-for quick support but also public areas where you can meet new friends!
-All further information is provided [in our TeamSpeak explanation](/teamspeak/).
-
 ### Do you have a Discord server?
 Yes, we do have a Discord server!
 You can join it via [https://timolia.de/discord](https://timolia.de/discord). 

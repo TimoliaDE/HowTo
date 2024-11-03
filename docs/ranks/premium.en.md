@@ -57,7 +57,7 @@ Lifetime ranks:
 | Discord rang                                |           &check;            |            &check;            |           &check;            |            &check;            |              &check;               |
 | Arcade: Create tournaments                  |        3 Turnierpässe        |            &check;            |           &check;            |            &check;            |              &check;               |
 | 1vs1: Create Kit-1vs1 tournaments           |        3 Turnierpässe        |            &check;            |           &check;            |            &check;            |              &check;               |
-| 1vs1: Chnage team colour                    |              -               |            &check;            |           &check;            |            &check;            |              &check;               |
+| 1vs1: Change team colour                    |              -               |            &check;            |           &check;            |            &check;            |              &check;               |
 | 1vs1: Blocks as skulls                      |              -               |            &check;            |           &check;            |            &check;            |              &check;               |
 | 1vs1: Additional info-commands              |              -               |            &check;            |           &check;            |            &check;            |              &check;               |
 | Create larger parties                       |              -               |            &check;            |           &check;            |            &check;            |              &check;               |
