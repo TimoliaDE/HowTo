@@ -18,7 +18,7 @@ Subscriber Ränge:
 | Mapvoting Stimmen                              |                  3                  |                  4                   |                    5                    |
 | Joinmes erstellen                              |             jede Stunde             |           alle 30 Minuten            |             alle 10 Minuten             |
 | 1vs1 Turniere erstellen                        |               &check;               |               &check;                |                 &check;                 |
-| 1vs1 FFA and Minigame Turniere erstellen       |                                     |               &check;                |                 &check;                 |
+| 1vs1 FFA and Minigame Turniere erstellen       |                  -                  |               &check;                |                 &check;                 |
 | 1vs1 Kitslots                                  |                  3                  |                  4                   |                    6                    |
 | JumpWorld Mapslots                             |                  2                  |                  4                   |                    5                    |
 | JumpWorld Mapgröße                             |                3000                 |                 5000                 |                  5000                   |
@@ -44,6 +44,7 @@ Subscriber Ränge:
 | Öffentliche Partys erstellen                   |                  -                  |                  -                   |                 &check;                 |
 | Premium Verschenken (alle 30 Tage)             |                  -                  |                  -                   |                 &check;                 |
 | Server unterstützen                            |               &check;               |               &check;                |                 &check;                 |
+*Alle Infos zum Kick-System findest du [hier](/faq/#wie-funktioniert-das-kick-system).
 
 Lifetime Ränge:
 

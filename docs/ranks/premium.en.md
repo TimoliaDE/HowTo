@@ -17,7 +17,7 @@ Subscription ranks:
 | Map voting votes                         |                  3                  |                  4                   |                    5                    |
 | Create joinmes                           |             every hour              |           every 30 minutes           |            every 10 minutes             |
 | Create 1vs1 tournaments                  |               &check;               |               &check;                |                 &check;                 |
-| Create 1vs1 FFA and Minigame tournaments |                                     |               &check;                |                 &check;                 |
+| Create 1vs1 FFA and Minigame tournaments |                  -                  |               &check;                |                 &check;                 |
 | 1vs1 kit slots                           |                  3                  |                  4                   |                    6                    |
 | JumpWorld map slots                      |                  2                  |                  4                   |                    5                    |
 | JumpWorld map size                       |                3000                 |                 5000                 |                  5000                   |
@@ -43,6 +43,7 @@ Subscription ranks:
 | Create public partys                     |                  -                  |                  -                   |                 &check;                 |
 | Gift premium (every 30 days)             |                  -                  |                  -                   |                 &check;                 |
 | Support the server                       |               &check;               |               &check;                |                 &check;                 |
+*Further information about the kick system can be found [here](/faq/#wie-funktioniert-das-kick-system).
 
 Lifetime ranks:
 
@@ -82,7 +83,6 @@ Lifetime ranks:
 | JumpWorld: Entity count                     |              32              |              48               |              64              |              96               |                128                 |
 | Arcade: Select favorite games               |              1               |               2               |              2               |               2               |                 3                  |
 | Exclusive Pixelshop items                   |              27              |              31               |              48              |              54               |                 64                 |
-
 *Further information about the kick system can be found [here](/faq/#wie-funktioniert-das-kick-system).
 
 
