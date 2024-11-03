@@ -15,7 +15,7 @@ Subscription ranks:
 | Create own servers           |               &check;               |               &check;                |                 &check;                 |
 | Extended map pool            |               &check;               |               &check;                |                 &check;                 |
 | Map voting votes             |                  3                  |                  4                   |                    5                    |
-| Create joinmes               |             every hour              |           every 30 minutes           |            every 10 minutes             |
+| Create joinmes               |            every 2 hours            |              every hour              |            every 40 minutes             |
 | Create 1vs1 tournaments      |               &check;               |               &check;                |                 &check;                 |
 | 1vs1 kit slots               |                  3                  |                  4                   |                    6                    |
 | JumpWorld map slots          |                  2                  |                  4                   |                    5                    |
@@ -56,7 +56,7 @@ Lifetime ranks:
 | Discord rang                                |           &check;            |            &check;            |           &check;            |            &check;            |              &check;               |
 | Arcade: Create tournaments                  |        3 Turnierpässe        |            &check;            |           &check;            |            &check;            |              &check;               |
 | 1vs1: Create Kit-1vs1 tournaments           |        3 Turnierpässe        |            &check;            |           &check;            |            &check;            |              &check;               |
-| 1vs1: Chnage team colour                    |              -               |            &check;            |           &check;            |            &check;            |              &check;               |
+| 1vs1: Change team colour                    |              -               |            &check;            |           &check;            |            &check;            |              &check;               |
 | 1vs1: Blocks as skulls                      |              -               |            &check;            |           &check;            |            &check;            |              &check;               |
 | 1vs1: Additional info-commands              |              -               |            &check;            |           &check;            |            &check;            |              &check;               |
 | Create larger parties                       |              -               |            &check;            |           &check;            |            &check;            |              &check;               |

@@ -11,7 +11,6 @@ nav:
   - All Commands: 'commands.md'
   - Reports and unbans: 'bans.md'
   - Website and forum: 'web.md'
-  - TeamSpeak: 'teamspeak.md'
   - Community-Discord: 'discord.md'
   - Two-Factor Authentication: '2fa.md'
 - Rules:
@@ -19,7 +18,6 @@ nav:
   - Discord: 'rules/discord.md'
   - Freebuild: 'rules/freebuild.md'
   - Games: 'rules/games.md'
-  - TeamSpeak: 'rules/teamspeak.md'
 - Games Network:
   - 1vs1: 'games/1vs1.md'
   - 4rena: 'games/4rena.md'

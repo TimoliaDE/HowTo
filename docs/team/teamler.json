@@ -572,7 +572,7 @@
   },
   {
     "name": "Vectrail",
-    "uuid": "b21f4cbc-9b2e-4099-8abd-9d794ee75432",
+    "uuid": "464cf9e6-6be8-49df-b63d-0c44482cd53c",
     "sex": "male",
     "rank_history": {
       "initial": "builder",
@@ -1565,8 +1565,7 @@
     "sex": "female",
     "responsibilities_main": [
       "Management des Support-Teams",
-      "Teamlerauswahl Support",
-      "TeamSpeak"
+      "Teamlerauswahl Support"
     ],
     "responsibilities_secondary": [
       "JumpWorld Events",
@@ -3137,7 +3136,8 @@
       "initial": "pro_plus",
       "16.02.2023": "supporter",
       "02.11.2023": "native_mvp",
-      "04.01.2024": "supporter"
+      "04.01.2024": "supporter",
+      "21.09.2024": "native_mvp"
     }
   },
   {
@@ -3231,14 +3231,14 @@
     "uuid": "33c50bfd-e1b4-4b45-850e-0702a1319393",
     "sex": "male",
     "responsibilities_main": [
-      "Youtuber-Ränge"
+      "Youtuber-Ränge",
+      "Timolia Turnier Organisation"
     ],
     "responsibilities_secondary": [
       "Entschuldigungen",
       "Timolia HowTo",
-      "JumpWorld Verifizierung",
-      "Timolia Turnier Organisation"
-    ],
+      "JumpWorld Verifizierung"
+      ],
     "rank_history": {
       "initial": "expert",
       "20.07.2023": "supporter",
@@ -3294,6 +3294,7 @@
     "uuid": "391ef10e-8fdb-4c32-b8b5-c9c501c0de10",
     "sex": "female",
     "responsibilities_secondary": [
+      "JumpWorld Verifizierung",
       "Youtuber-Ränge"
     ],
     "rank_history": {
@@ -3306,6 +3307,7 @@
     "uuid": "5ba5d816-9642-4cd5-b79c-118ee62953b0",
     "sex": "male",
     "responsibilities_secondary": [
+      "Entschuldigungen",
       "JumpWorld Verifizierung",
       "Timolia Turnier Organisation",
       "Youtuber-Ränge"
@@ -3387,9 +3389,26 @@
     "name": "HomieFreddy",
     "uuid": "94a47015-1f39-43de-9d12-a755f6756d95",
     "sex": "male",
+    "responsibilities_secondary": [
+      "JumpWorld Events",
+      "JumpWorld Verifizierung",
+      "Monatssieger"
+    ],
     "rank_history": {
       "initial": "expert",
       "28.07.2024": "supporter"
+    }
+  },
+  {
+    "name": "Fussbild",
+    "uuid": "156d070c-5737-4db6-a8bb-cfedf1370117",
+    "sex": "male",
+    "responsibilities_secondary": [
+      "JumpWorld Events"
+    ],
+    "rank_history": {
+      "initial": "expert",
+      "19.09.2024": "content"
     }
   }
 ]
