@@ -7,42 +7,42 @@ The ranks are available in our shop which you can reach at [https://www.timolia.
 These features are available to you with your rank:
 Subscription ranks:
 
-|                                         | <span class='pro'>Subscriber</span> | <span class='mvp'>Subscriber+</span> | <span class='expert'>Subscriber*</span> |
-|:----------------------------------------|:-----------------------------------:|:------------------------------------:|:---------------------------------------:|
-| Duration                                |               Monthly               |               Monthly                |                 Monthly                 |
-| Rank colour                             |               &check;               |               &check;                |                 &check;                 |
-| Join full servers*                      |               &check;               |               &check;                |                 &check;                 |
-| Create own servers                      |               &check;               |               &check;                |                 &check;                 |
-| Extended map pool                       |               &check;               |               &check;                |                 &check;                 |
-| Map voting votes                        |                  3                  |                  4                   |                    5                    |
-| Create joinmes                          |             every hour              |           every 30 minutes           |            every 10 minutes             |
-| Create 1vs1 tournaments                 |               &check;               |               &check;                |                 &check;                 |
-| Create1vs1 FFA and Minigame tournaments |                                     |               &check;                |                 &check;                 |
-| 1vs1 kit slots                          |                  3                  |                  4                   |                    6                    |
-| JumpWorld map slots                     |                  2                  |                  4                   |                    5                    |
-| JumpWorld map size                      |                3000                 |                 5000                 |                  5000                   |
-| /fly in the lobby                       |               &check;               |               &check;                |                 &check;                 |
-| Beta tests                              |               &check;               |               &check;                |                 &check;                 |
-| Pixel multiplier                        |                 1,5                 |                  2                   |                    3                    |
-| Monthly pixel                           |                1000                 |                 2200                 |                  4400                   |
-| Monthly gems                            |                 750                 |                 1600                 |                  3200                   |
-| Monthly megapixel                       |                 500                 |                 1100                 |                  2200                   |
-| Custom lobby time                       |               &check;               |               &check;                |                 &check;                 |
-| 1vs1 & JumpWorld heads                  |               &check;               |               &check;                |                 &check;                 |
-| Pet slots                               |                  2                  |                  3                   |                    4                    |
-| JumpWorld seticon                       |               &check;               |               &check;                |                 &check;                 |
-| JumpWorld entitys                       |                 48                  |                  96                  |                   128                   |
-| JumpWorld multibuild                    |                  3                  |                  6                   |                    6                    |
-| JumpWorld spec view                     |               &check;               |               &check;                |                 &check;                 |
-| Create 1vs1 tournaments                 |                  -                  |               &check;                |                 &check;                 |
-| Change 1vs1 team colour                 |                  -                  |               &check;                |                 &check;                 |
-| 1vs1 map slots                          |                  2                  |                  5                   |                    5                    |
-| Exclusive Pixelshop items               |                 27                  |                  48                  |                   64                    |
-| Minipet name & colours                  |               &check;               |               &check;                |                 &check;                 |
-| Create larger partys                    |                  -                  |               &check;                |                 &check;                 |
-| Create public partys                    |                  -                  |                  -                   |                 &check;                 |
-| Gift premium (every 30 days)            |                  -                  |                  -                   |                 &check;                 |
-| Support the server                      |               &check;               |               &check;                |                 &check;                 |
+|                                          | <span class='pro'>Subscriber</span> | <span class='mvp'>Subscriber+</span> | <span class='expert'>Subscriber*</span> |
+|:-----------------------------------------|:-----------------------------------:|:------------------------------------:|:---------------------------------------:|
+| Duration                                 |               Monthly               |               Monthly                |                 Monthly                 |
+| Rank colour                              |               &check;               |               &check;                |                 &check;                 |
+| Join full servers*                       |               &check;               |               &check;                |                 &check;                 |
+| Create own servers                       |               &check;               |               &check;                |                 &check;                 |
+| Extended map pool                        |               &check;               |               &check;                |                 &check;                 |
+| Map voting votes                         |                  3                  |                  4                   |                    5                    |
+| Create joinmes                           |             every hour              |           every 30 minutes           |            every 10 minutes             |
+| Create 1vs1 tournaments                  |               &check;               |               &check;                |                 &check;                 |
+| Create 1vs1 FFA and Minigame tournaments |                                     |               &check;                |                 &check;                 |
+| 1vs1 kit slots                           |                  3                  |                  4                   |                    6                    |
+| JumpWorld map slots                      |                  2                  |                  4                   |                    5                    |
+| JumpWorld map size                       |                3000                 |                 5000                 |                  5000                   |
+| /fly in the lobby                        |               &check;               |               &check;                |                 &check;                 |
+| Beta tests                               |               &check;               |               &check;                |                 &check;                 |
+| Pixel multiplier                         |                 1,5                 |                  2                   |                    3                    |
+| Monthly pixel                            |                1000                 |                 2200                 |                  4400                   |
+| Monthly gems                             |                 750                 |                 1600                 |                  3200                   |
+| Monthly megapixel                        |                 500                 |                 1100                 |                  2200                   |
+| Custom lobby time                        |               &check;               |               &check;                |                 &check;                 |
+| 1vs1 & JumpWorld heads                   |               &check;               |               &check;                |                 &check;                 |
+| Pet slots                                |                  2                  |                  3                   |                    4                    |
+| JumpWorld seticon                        |               &check;               |               &check;                |                 &check;                 |
+| JumpWorld entitys                        |                 48                  |                  96                  |                   128                   |
+| JumpWorld multibuild                     |                  3                  |                  6                   |                    6                    |
+| JumpWorld spec view                      |               &check;               |               &check;                |                 &check;                 |
+| Create 1vs1 tournaments                  |                  -                  |               &check;                |                 &check;                 |
+| Change 1vs1 team colour                  |                  -                  |               &check;                |                 &check;                 |
+| 1vs1 map slots                           |                  2                  |                  5                   |                    5                    |
+| Exclusive Pixelshop items                |                 27                  |                  48                  |                   64                    |
+| Minipet name & colours                   |               &check;               |               &check;                |                 &check;                 |
+| Create larger partys                     |                  -                  |               &check;                |                 &check;                 |
+| Create public partys                     |                  -                  |                  -                   |                 &check;                 |
+| Gift premium (every 30 days)             |                  -                  |                  -                   |                 &check;                 |
+| Support the server                       |               &check;               |               &check;                |                 &check;                 |
 
 Lifetime ranks:
 
