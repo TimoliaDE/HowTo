@@ -8,41 +8,43 @@ Diese Features stehen dir mit deinem Rang zur Verfügung:
 
 Subscriber Ränge:
 
-|                                    | <span class='pro'>Subscriber</span> | <span class='mvp'>Subscriber+</span> | <span class='expert'>Subscriber*</span> |
-|:-----------------------------------|:-----------------------------------:|:------------------------------------:|:---------------------------------------:|
-| Dauer                              |              Monatlich              |              Monatlich               |                Monatlich                |
-| Rangfarbe                          |               &check;               |               &check;                |                 &check;                 |
-| Volle Server betreten*             |               &check;               |               &check;                |                 &check;                 |
-| Eigene Server erstellen            |               &check;               |               &check;                |                 &check;                 |
-| Erweiterter Mappool                |               &check;               |               &check;                |                 &check;                 |
-| Mapvoting Stimmen                  |                  3                  |                  4                   |                    5                    |
-| Joinmes erstellen                  |           alle 2 Stunden            |             jede Stunde              |             alle 40 Minuten             |
-| 1vs1 Turniere erstellen            |               &check;               |               &check;                |                 &check;                 |
-| 1vs1 Kitslots                      |                  3                  |                  4                   |                    6                    |
-| JumpWorld Mapslots                 |                  2                  |                  4                   |                    5                    |
-| JumpWorld Mapgröße                 |                3000                 |                 5000                 |                  5000                   |
-| /fly in der Lobby                  |               &check;               |               &check;                |                 &check;                 |
-| Betatests                          |               &check;               |               &check;                |                 &check;                 |
-| Pixelmultiplikator                 |                 1,5                 |                  2                   |                    3                    |
-| Monatliche Pixel                   |                1000                 |                 2200                 |                  4400                   |
-| Monatliche Gems                    |                 750                 |                 1600                 |                  3200                   |
-| Monatliche Megapixel               |                 500                 |                 1100                 |                  2200                   |
-| Eigene Lobbyzeit                   |               &check;               |               &check;                |                 &check;                 |
-| 1vs1 & JumpWorld Köpfe             |               &check;               |               &check;                |                 &check;                 |
-| Pet Slots                          |                  2                  |                  3                   |                    4                    |
-| JumpWorld Seticon                  |               &check;               |               &check;                |                 &check;                 |
-| JumpWorld Entitys                  |                 48                  |                  96                  |                   128                   |
-| JumpWorld Multibuild               |                  3                  |                  6                   |                    6                    |
-| JumpWorld Spec-Ansichten           |               &check;               |               &check;                |                 &check;                 |
-| 1vs1 Turniere erstellen            |                  -                  |               &check;                |                 &check;                 |
-| 1vs1 Teamfarbe ändern              |                  -                  |               &check;                |                 &check;                 |
-| 1vs1 Mapslots                      |                  2                  |                  5                   |                    5                    |
-| Exclusive Pixelshop-Items          |                 27                  |                  48                  |                   64                    |
-| Minipet Namen & Farben             |               &check;               |               &check;                |                 &check;                 |
-| Größere Partys erstellen           |                  -                  |               &check;                |                 &check;                 |
-| Öffentliche Partxs erstellen       |                  -                  |                  -                   |                 &check;                 |
-| Premium Verschenken (alle 30 Tage) |                  -                  |                  -                   |                 &check;                 |
-| Server unterstützen                |               &check;               |               &check;                |                 &check;                 |
+|                                                | <span class='pro'>Subscriber</span> | <span class='mvp'>Subscriber+</span> | <span class='expert'>Subscriber*</span> |
+|:-----------------------------------------------|:-----------------------------------:|:------------------------------------:|:---------------------------------------:|
+| Dauer                                          |              Monatlich              |              Monatlich               |                Monatlich                |
+| Rangfarbe                                      |               &check;               |               &check;                |                 &check;                 |
+| Volle Server betreten*                         |               &check;               |               &check;                |                 &check;                 |
+| Eigene Server erstellen                        |               &check;               |               &check;                |                 &check;                 |
+| Erweiterter Mappool                            |               &check;               |               &check;                |                 &check;                 |
+| Mapvoting Stimmen                              |                  3                  |                  4                   |                    5                    |
+| Joinmes erstellen                              |             jede Stunde             |           alle 30 Minuten            |             alle 10 Minuten             |
+| 1vs1 Turniere erstellen                        |               &check;               |               &check;                |                 &check;                 |
+| 1vs1 FFA and Minigame Turniere erstellen       |                  -                  |               &check;                |                 &check;                 |
+| 1vs1 Kitslots                                  |                  3                  |                  4                   |                    6                    |
+| JumpWorld Mapslots                             |                  2                  |                  4                   |                    5                    |
+| JumpWorld Mapgröße                             |                3000                 |                 5000                 |                  5000                   |
+| /fly in der Lobby                              |               &check;               |               &check;                |                 &check;                 |
+| Betatests                                      |               &check;               |               &check;                |                 &check;                 |
+| Pixelmultiplikator                             |                 1,5                 |                  2                   |                    3                    |
+| Monatliche Pixel                               |                1000                 |                 2200                 |                  4400                   |
+| Monatliche Gems                                |                 750                 |                 1600                 |                  3200                   |
+| Monatliche Megapixel                           |                 500                 |                 1100                 |                  2200                   |
+| Eigene Lobbyzeit                               |               &check;               |               &check;                |                 &check;                 |
+| 1vs1 & JumpWorld Köpfe                         |               &check;               |               &check;                |                 &check;                 |
+| Pet Slots                                      |                  2                  |                  3                   |                    4                    |
+| JumpWorld Seticon                              |               &check;               |               &check;                |                 &check;                 |
+| JumpWorld Entitys                              |                 48                  |                  96                  |                   128                   |
+| JumpWorld Multibuild                           |                  3                  |                  6                   |                    6                    |
+| JumpWorld Spec-Ansichten                       |               &check;               |               &check;                |                 &check;                 |
+| 1vs1 Turniere erstellen                        |                  -                  |               &check;                |                 &check;                 |
+| 1vs1 Teamfarbe ändern                          |                  -                  |               &check;                |                 &check;                 |
+| 1vs1 Mapslots                                  |                  2                  |                  5                   |                    5                    |
+| Exklusive Pixelshop-Items                      |                 27                  |                  48                  |                   64                    |
+| Minipet Namen & Farben                         |               &check;               |               &check;                |                 &check;                 |
+| Größere Partys erstellen                       |                  -                  |               &check;                |                 &check;                 |
+| Öffentliche Partys erstellen                   |                  -                  |                  -                   |                 &check;                 |
+| Premium Verschenken (alle 30 Tage)             |                  -                  |                  -                   |                 &check;                 |
+| Server unterstützen                            |               &check;               |               &check;                |                 &check;                 |
+*Alle Infos zum Kick-System findest du [hier](/faq/#wie-funktioniert-das-kick-system).
 
 Lifetime Ränge:
 
