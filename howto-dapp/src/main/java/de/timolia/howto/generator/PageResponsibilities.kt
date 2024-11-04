@@ -30,7 +30,7 @@ object PageResponsibilities {
                         put("%page.responsibilities.communication-platforms.appeal%", null)
                         put("%page.responsibilities.communication-platforms.falsely-banned%", null)
                         put("%page.responsibilities.communication-platforms.socialmedia%", "%page.responsibilities.communication-platforms.socialmedia.desc%")
-                        put("%page.responsibilities.communication-platforms.teamspeak%", "%page.responsibilities.communication-platforms.teamspeak.desc%")
+                        //put("%page.responsibilities.communication-platforms.teamspeak%", "%page.responsibilities.communication-platforms.teamspeak.desc%")
                     }
                 })
                 put("%page.responsibilities.other-responsibilities%", object : LinkedHashMap<String, String?>() {
