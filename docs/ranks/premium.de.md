@@ -111,21 +111,20 @@ Solltest du dich für einen Sponsoren-Rang qualifiziert haben, melde dich auf un
 ## Gutscheine und Pixelbooster
 Neben den Premium-Rängen kannst du in unserem Shop auch [Gutscheine](https://shop.timolia.de/#Gifts) und [Pixelbooster](https://shop.timolia.de/#Pixel) erhalten.    
 
-Mit unseren **Gutscheinen** können alle Ränge und Pixelbooster im Shop erworben werden. Sie sind außerdem frei mit anderen Gutscheinen und Zahlungsarten kombinierbar und können auch über mehrere Zahlungsvorgänge hinweg in unserem Buycraft-System verwendet werden, sollten sie nicht in der ersten Zahlung vollständig verwendet werden.
+Mit unseren **Gutscheinen** können alle Ränge und Pixelbooster im Shop erworben werden. Sie sind außerdem frei mit anderen Gutscheinen und Zahlungsarten kombinierbar und können auch über mehrere Zahlungsvorgänge hinweg in unserem Shop-System verwendet werden, sollten sie nicht in der ersten Zahlung vollständig verwendet werden.
 Die gekauften Gutscheine werden von uns per E-Mail versendet und können somit sowohl digital als auch frisch ausgedruckt überreicht werden.    
 
 Mit **Pixelboostern** multipliziert ihr nicht nur die Anzahl der Pixel, die ihr selbst verdient, sondern ebenso die eurer Freunde und Mitspieler in gemeinsamen Runden. Einmal gekauft könnt ihr die Pixelbooster ingame im Pixelshop unter euren Items aktivieren. Dauer und Stärke hängen hierbei davon ab, für welchen Booster ihr euch beim Kauf entschieden habt - bei der gegebenen Auswahl ist aber sicher für jeden etwas dabei!
 Nun bleibt noch die Frage, was passiert, wenn ihr schon einen Rang auf Timolia habt: Ganz einfach! Ihr bekommt zusätzlich zu euren durch den Rang erhöhten Pixeln noch die Pixel des Boosters dazu addiert, ihr könnt also mehr Pixel als je zuvor verdienen.
 
 ## Die Zahlungsmöglichkeiten
-Timolia kannst du per Buycraft (PayPal, Überweisung) mit einer Spende unterstützen.
-Zahlungen per Buycraft werden direkt auf dem Server umgesetzt.
+Im Timolia Shop kannst du per PayPal, Google Pay, Apple Pay oder Kredit-/Debitkarte bezahlen. Du erhältst deinen Rang nach Abschluss des Kaufs automatisch auf dem Server.
 
-Klicke [<strong>hier</strong>](https://shop.timolia.de/), um über Buycraft zu spenden (shop.timolia.de)].
+Klicke [<strong>hier</strong>](https://shop.timolia.de/), um den Shop zu aufzurufen. (shop.timolia.de)].
 
 ## Mein Rang ist nicht da, was kann ich tun?
 Bezahlungen können eine Weile dauern. Sollte dein Rang 24 Stunden nach der Bestellung immer noch
-nicht da sein, melde dich bitte in einem unserer Hilfechannel. Nach ein paar Angaben über deinen Kauf wird die Bestellung von einem zuständigen Teammitglied bearbeitet.
+nicht da sein, melde dich bitte in einem unserer Support Kanäle. Nach ein paar Angaben über deinen Kauf wird die Bestellung von einem zuständigen Teammitglied bearbeitet.
 Da dieser Vorgang manuell vorgenommen werden muss, kann dies ebenfalls ein paar Stunden in Anspruch nehmen.
 
 ## Behalte ich meinen Rang nach einer Namensänderung?
