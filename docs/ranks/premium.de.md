@@ -124,7 +124,7 @@ Klicke [<strong>hier</strong>](https://shop.timolia.de/), um den Shop zu aufzuru
 
 ## Mein Rang ist nicht da, was kann ich tun?
 Bezahlungen können eine Weile dauern. Sollte dein Rang 24 Stunden nach der Bestellung immer noch
-nicht da sein, melde dich bitte in einem unserer Support Kanäle. Nach ein paar Angaben über deinen Kauf wird die Bestellung von einem zuständigen Teammitglied bearbeitet.
+nicht da sein, melde dich bitte in einem unserer Supportkanäle. Nach ein paar Angaben über deinen Kauf wird die Bestellung von einem zuständigen Teammitglied bearbeitet.
 Da dieser Vorgang manuell vorgenommen werden muss, kann dies ebenfalls ein paar Stunden in Anspruch nehmen.
 
 ## Behalte ich meinen Rang nach einer Namensänderung?
