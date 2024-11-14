@@ -111,7 +111,7 @@ If you have qualified for a sponsor rank, register on our Discord ([Link](https:
 Besides the premium ranks you can also get [gift cards](https://shop.timolia.de/#Gifts) and [Pixelboosters](https://shop.timolia.de/#Pixel) in our shop.
 
 With our **gift cards**, all ranks and pixel boosters available in the shop can be purchased. They can also be freely combined with other vouchers and payment methods 
-and can be used in our Buycraft system over several payment transactions, should they not be fully used in the first payment.
+and can be used in our shop system over several payment transactions, should they not be fully used in the first payment.
 The purchased gift cards will be sent by email and can be handed over digitally or freshly printed.    
 
 With **Pixelboosters** you not only multiply the number of pixels you earn yourself, but also those of your friends and fellow players in joint rounds. 
@@ -121,14 +121,13 @@ Now the question remains, what happens if you already have a rank on Timolia: Ve
 In addition to the Pixel you receive due to your rank, you'll get the Pixel of the booster added on top, so you can earn more pixels than ever before.
 
 ## The payment methods
-You can support Timolia with a donation either by Buycraft (PayPal, bank transfer).
-Payments via Buycraft are processed directly on the server.
+You can pay by either PayPal, Google Pay, Apple Pay or Credit-/Debitcard in our shop. You will automatically receive your rank on the server after completing the purchase.
 
 Click [<strong>here</strong>](https://shop.timolia.de)/ to donate via Buycraft (shop.timolia.de).
 
 ## I did not receive my rank, what can I do?
 Payments can take a while. 
-If your rank is still not there 24 hours after placing your order, please contact us in out support channel. 
+If your rank is still not there 24 hours after placing your order, please contact us in our support channels. 
 After providing a few details about your purchase, the order will be processed by a responsible team member. 
 Since this process must be done manually, it may also take a few hours. 
 
