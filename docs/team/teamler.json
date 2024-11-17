@@ -2812,7 +2812,6 @@
     "sex": "male",
     "responsibilities_secondary": [
       "Entschuldigungen",
-      "JumpWorld Verifizierung",
       "Timolia Turnier Organisation"
     ],
     "rank_history": {
@@ -2972,6 +2971,7 @@
     ],
     "responsibilities_secondary": [
       "Building",
+      "Timolia Turnier Organisation",
       "Entschuldigungen",
       "Social Media",
       "Timolia HowTo",
@@ -3405,7 +3405,9 @@
     "uuid": "156d070c-5737-4db6-a8bb-cfedf1370117",
     "sex": "male",
     "responsibilities_secondary": [
-      "JumpWorld Events"
+      "JumpWorld Verifizierung",
+      "JumpWorld Events",
+      "Monatssieger"
     ],
     "rank_history": {
       "initial": "expert",
