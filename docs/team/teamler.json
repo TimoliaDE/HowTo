@@ -3413,5 +3413,29 @@
       "initial": "expert",
       "19.09.2024": "content"
     }
+  },
+  {
+    "name": "21Slowly",
+    "uuid": "0dbe6466-151a-4c5c-ab2b-afed9336c6f1",
+    "sex": "male",
+    "responsibilities_main": [
+      "Gamedesign"
+    ],
+    "rank_history": {
+      "initial": "pro_plus",
+      "19.11.2024": "content"
+    }
+  },
+  {
+    "name": "lena_sote",
+    "uuid": "332eab0b-2ba4-4f5b-a3e3-3a7000f9a58f",
+    "sex": "female",
+    "responsibilities_main": [
+      "Social Media"
+    ],
+    "rank_history": {
+      "initial": "spieler",
+      "19.11.2024": "content"
+    }
   }
 ]
