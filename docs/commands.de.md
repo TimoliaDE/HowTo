@@ -29,7 +29,7 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 **[Premium](/ranks/premium/) only**:
 | `/togglerank`, `/tr`            | Werde in allen Spielmodi als normaler Spieler angezeigt |
 **[Subscriber](/ranks/premium/) only**:
-| `/fly`,                         | Ermöglicht es dir in der Hauptlobby zu fliegen |
+| `/fly`                          | Ermöglicht es dir in der Hauptlobby zu fliegen |
 **[<span class='pro'>Pro+</span>](/ranks/premium/) only**:
 | `/ptime <day/night/midnight/sunrise/noon/afternoon/sunset/reset/hh:mm>` | Zeit für sich selbst umstellen |
 | `/pweather <sun/rain/reset>`    | Wetter für sich selbst umstellen |
