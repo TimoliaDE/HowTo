@@ -19,9 +19,8 @@ All further information is provided [here](https://timolia.de/city).
 Arcade will be updated in the future  to 1.20, it is currently uncertain,
 when it will be available again.
 #### 1vs1
-Both PvP servers have been merged. This means that 1.8 and 1.9+ players/clients can compete against each other.
-Which combat system you use depends on the kit setting.
-You can adjust the kit settings in the Kit Creator in the 1vs1 lobby.
+Both PvP servers have been merged. This means that 1.8 and 1.9+ players/clients can compete against each other. You can set the combat system with the colour in the inventory
+
 #### JumpWorld
 The maps from the JumpWorld 1.8 server are still available in our database.
 For the last two years it was possible to export the map to the new JumpWorld server.
@@ -31,6 +30,9 @@ As of now, it is no longer possible to transfer maps from JumpWorld 1.8, but it 
 - <b><span class='administrator'>Administration</span></b>:
 These team members form the leadership of Timolia. 
 They take care of administration, organization and team management.
+
+- <b><span class='sysadmin'>Sysadmin</span></b>:
+- System administrators plan, install, configure and maintain Timolia's technical systems. They carry out updates and ensure a smooth gaming experience in everyday life.
 
 - <b><span class='developer-plus'>Developer+</span></b>:
 They have many years of experience as a developer on Timolia and are available for internal development-related questions. They also take care of Timolia plugins, develop new features and game modes, and address potential gameplay issues.
@@ -79,7 +81,7 @@ You can find out what advantages each rank offers you [here](/ranks/premium/).
 If you have problems with your premium rank, you can find help [here](/ranks/premium/).
 
 ### Who supports me when I have questions?
-When you got any questions, we do not only love to support in-game but also both on our TeamSpeak and Discord server.
+When you got any questions, we do not only love to support in-game but also on our Discord server.
 We are always happy when someone approaches us and hopefully, we can help you with your problems or comments.
 You can also contact us on the social media platform Twitter where our social media team supports you all around the clock.
 We would also be happy to support you on our [Discord](https://timolia.de/discord). There you can tell us your concern at any time in the `#support` channel.
