@@ -32,7 +32,7 @@ These team members form the leadership of Timolia.
 They take care of administration, organization and team management.
 
 - <b><span class='sysadmin'>Sysadmin</span></b>:
-- System administrators plan, install, configure and maintain Timolia's technical systems. They carry out updates and ensure a smooth gaming experience in everyday life.
+System administrators plan, install, configure and maintain Timolia's technical systems. They carry out updates and ensure a smooth gaming experience in everyday life.
 
 - <b><span class='developer-plus'>Developer+</span></b>:
 They have many years of experience as a developer on Timolia and are available for internal development-related questions. They also take care of Timolia plugins, develop new features and game modes, and address potential gameplay issues.
