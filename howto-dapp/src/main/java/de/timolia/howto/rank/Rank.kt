@@ -15,6 +15,7 @@ enum class Rank(
     builder(80, true, "builder", "Builder", "Builderin", "%rank.builder.description%"),
     builder_plus(85, true, "builder-plus", "Builder+", null, "%rank.builder_plus.description%"),
     creator(70, true, "creator", "Creator", null),
+    content_plus(75, true, "content-plus", "Content+", null, "%rank.content_plus.description%"),
     content(71, true, "content", "Content", null, "%rank.content.description%"),
     developer(135, true, "developer", "Developer", null, "%rank.developer.description%"),
     developer_city(131, true, "developer", "Developer City", null),

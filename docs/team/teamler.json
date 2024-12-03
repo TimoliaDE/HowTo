@@ -3208,13 +3208,17 @@
     "uuid": "e01be9de-968a-4ead-a520-aca93c89572a",
     "sex": "male",
     "responsibilities_main": [
+      "Community-Discord",
       "Gamedesign",
+      "Management des Content-Teams",
       "Social Media",
+      "Teamlerauswahl Content",
       "Timolia HowTo"
     ],
     "rank_history": {
       "initial": "spieler",
-      "12.07.2023": "content"
+      "12.07.2023": "content",
+      "01.12.2024": "content_plus"
     }
   },
   {
