@@ -3444,5 +3444,17 @@
       "initial": "spieler",
       "19.11.2024": "content"
     }
+  },
+  {
+    "name": "Joschiiiiii",
+    "uuid": "b02ebfc4-3bc3-4d18-8830-e6ead231e80b",
+    "sex": "male",
+    "responsibilities_main": [
+      "Social Media"
+    ],
+    "rank_history": {
+      "initial": "expert",
+      "15.12.2024": "content"
+    }
   }
 ]
