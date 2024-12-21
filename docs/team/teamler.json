@@ -3425,12 +3425,10 @@
     "name": "21Slowly",
     "uuid": "0dbe6466-151a-4c5c-ab2b-afed9336c6f1",
     "sex": "male",
-    "responsibilities_main": [
-      "Gamedesign"
-    ],
     "rank_history": {
       "initial": "pro_plus",
-      "19.11.2024": "content"
+      "19.11.2024": "content",
+      "21.12.2024": pro_plus"
     }
   },
   {
