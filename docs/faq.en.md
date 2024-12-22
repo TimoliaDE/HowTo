@@ -65,6 +65,9 @@ For example, they manage projects or are the contact person for new builders.
 The builder team creates new maps and lobbies for all occasions and game modes on Timolia. 
 They supervise the architectural design of new game modes and manage external map submissions.
 
+- <b><span class='content-plus'>Content</span></b>:
+- As a creative streak, they are responsible for a wide range of interests from graphic design to translation.
+
 - <b><span class='content'>Content</span></b>:
 As a creative streak, they are responsible for a wide range of interests from graphic design to translation.
 
