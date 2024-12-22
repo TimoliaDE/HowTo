@@ -61,6 +61,9 @@ So leiten diese beispielsweise Projekte oder sind Ansprechpartner für neue Buil
 Das Bauteam kreiert neue Maps und Lobbys für alle Gelegenheiten und Spielmodi auf Timolia. 
 Sie betreuen die architektonische Gestaltung neuer Modi und betreuen externe Mapeinsendungen.
 
+- <b><span class='content-plus'>Content+</span></b>:
+- Mit ihrer Erfahrung über die Funktion des Netzwerks leiten sie die Organisation einzelner Updates und stehen mit Rat und Tat zur Seite.
+
 - <b><span class='content'>Content</span></b>:
 Als kreative Ader sind sie für die verschiedensten Belange von Grafikdesign bis Übersetzung zuständig.
 
