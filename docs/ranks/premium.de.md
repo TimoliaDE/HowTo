@@ -55,7 +55,6 @@ Lifetime Ränge:
 | Kostenlose LabyCoins                         |             210              |              450              |             900              |                1800                 |                3000                |
 | Volle Server betreten*                       |           &check;            |            &check;            |           &check;            |               &check;               |              &check;               |
 | /fly in der Lobby                            |              -               |              -                |              -               |                  -                  |                 -                  |
-| TeamSpeak-Rang                               |           &check;            |            &check;            |           &check;            |               &check;               |              &check;               |
 | Discord-Rang                                 |           &check;            |            &check;            |           &check;            |               &check;               |              &check;               |
 | Arcade: Turnier erstellen                    |        3 Turnierpässe        |            &check;            |           &check;            |               &check;               |              &check;               |
 | 1vs1: Kit-1vs1 Turniere erstellen            |        3 Turnierpässe        |            &check;            |           &check;            |               &check;               |              &check;               |

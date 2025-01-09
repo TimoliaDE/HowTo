@@ -27,6 +27,6 @@ These should be produced in high quality and meet the requirements of our server
 Livestreamers can get a rank on Timolia, too. In this case it will be decided individually depending on the livestream.
 
 ## How do I apply for a rank?
-If you think that you meet all criteria and want to apply for a rank on Timolia, contact the [@TimoliaTeam](https://twitter.com/TimoliaTeam) via Twitter direct message, 
-via e-mail to <strong>youtube@timolia.de</strong> or connect to our TeamSpeak (ts.timolia.de) and join the support channel. 
+If you think that you meet all criteria and want to apply for a rank on Timolia, contact the [@TimoliaTeam](https://twitter.com/TimoliaTeam) via Twitter direct message or
+via e-mail to <strong>youtube@timolia.de</strong> 
 We will take a look at your content and decide whether you qualify for a special rank.

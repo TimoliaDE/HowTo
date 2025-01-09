@@ -33,7 +33,6 @@ Auch in Zukunft werden weitere tolle Features für YouTuber und VIPs folgen.
 Wenn du der Meinung bist, dass du alle Kriterien erfüllst und einen Rang auf Timolia beantragen möchtest, hast du 3 Möglichkeiten den Rang zu beantragen. 
 
 - Per Twitter-Direktnachricht an das [@TimoliaTeam](https://twitter.com/TimoliaTeam) mit deinem Kanallink und möglichen weiteren wichtigen Informationen. 
-- Per E-Mail an <strong>youtube@timolia.de</strong> mit deinem Kanallink und möglichen weiteren wichtigen Informationen. 
-- Über den Hilfechannel auf unserem Teamspeak (ts.timolia.de).
+- Per E-Mail an <strong>youtube@timolia.de</strong> mit deinem Kanallink und möglichen weiteren wichtigen Informationen.
 
 In jedem Fall entscheiden wir individuell anhand verschiedener Kriterien, ob einer der Ränge für dich in Frage kommt.

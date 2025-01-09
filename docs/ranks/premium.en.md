@@ -54,7 +54,6 @@ Lifetime ranks:
 | Free LabyCoins                              |             210              |              450              |             900              |             1800              |                3000                |
 | Join full servers*                          |           &check;            |            &check;            |           &check;            |            &check;            |              &check;               |
 | /fly                                        |              -               |              -                |              -               |              -                |                 -                  |
-| TeamSpeak rang                              |           &check;            |            &check;            |           &check;            |            &check;            |              &check;               |
 | Discord rang                                |           &check;            |            &check;            |           &check;            |            &check;            |              &check;               |
 | Arcade: Create tournaments                  |        3 Turnierpässe        |            &check;            |           &check;            |            &check;            |              &check;               |
 | 1vs1: Create Kit-1vs1 tournaments           |        3 Turnierpässe        |            &check;            |           &check;            |            &check;            |              &check;               |
