@@ -46,7 +46,7 @@ Teammitglieder des <b>Development+</b> Rangs verfügen über eine langjährige E
 ### Support
 Sollten neue Teammitglieder im Supportbereich gesucht werden, überprüft das Team, welche Spieler:innen besonders aktiv auf dem Netzwerk sind und positiv auffallen.
 Unter positiv auffallen verstehen wir unter anderem eine gute Reportstatistik, keine gravierenden Verstöße gegen unser Regelwerk und Aktivität auf anderen Plattformen,
-wie im Forum, TeamSpeak und Discord (und evtl. auf Twitter).
+wie Discord (und evtl. auf Twitter).
 
 Zusätzlich dazu gibt es die Möglichkeit, eine Initiativbewerbung, welche deinen Ingamenamen, eine Vorstellung von dir sowie Beschreibungen deiner bisherigen Erfahrungen beinhalten sollte,
 per Formular auf <a href="https://apply.timolia.de/g/sup">apply.timolia.de</a> an uns zu senden. Wir bemühen uns, den Bewerbungsablauf so schnell wie möglich durchzuführen.

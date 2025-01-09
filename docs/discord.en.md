@@ -1,7 +1,6 @@
 You can join our Discord server on [https://timolia.de/discord](https://timolia.de/discord).
 Here you can hang out with your friends and the community. Moreover, you can also seek for support, report bugs,
 participate in giveaways and much more.
-However, if you want to join voice channels, Discord is not the place to go. We offer them on our [TeamSpeak](/teamspeak/) server whilst on Discord only chat channels are available.
 Hereinafter you will find a short overview of the most important information about our Discord server. Everything else you will find directly on the Discord in the channels listed in the category "Informationen". 
 
 
