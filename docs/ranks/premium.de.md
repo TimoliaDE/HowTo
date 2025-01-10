@@ -120,7 +120,7 @@ Nun bleibt noch die Frage, was passiert, wenn ihr schon einen Rang auf Timolia h
 ## Die Zahlungsmöglichkeiten
 Im Timolia Shop kannst du per PayPal, Google Pay, Apple Pay oder Kredit-/Debitkarte bezahlen. Du erhältst deinen Rang nach Abschluss des Kaufs automatisch auf dem Server.
 
-Klicke [<strong>hier</strong>](https://shop.timolia.de/), um den Shop zu aufzurufen. (shop.timolia.de)].
+Klicke [<strong>hier</strong>](https://shop.timolia.de/), um den Shop zu aufzurufen. (shop.timolia.de).
 
 ## Mein Rang ist nicht da, was kann ich tun?
 Bezahlungen können eine Weile dauern. Sollte dein Rang 24 Stunden nach der Bestellung immer noch
