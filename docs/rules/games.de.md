@@ -20,11 +20,11 @@ ggf. zu einem Bann führen. Wir raten daher davon ab, diese Mods ungefragt zu ve
 
 ## §3 – Cheating/Bugusing
 Bugusing ist das bewusste Ausnutzen von Spielfehlern, welche im Spiel nicht vorgesehene Folgen haben, und ist selbstverständlich verboten.
-Stattdessen ist es erwünscht, diese Bugs dem Team über den TeamSpeak, im [Discord](https://timolia.de/discord) oder ingame zu melden.
+Stattdessen ist es erwünscht, diese Bugs dem Team im [Discord](https://timolia.de/discord) oder ingame zu melden.
 Dieses Verbot bezieht sich auch auf das Ausnutzen von Bugs in grundsätzlich [erlaubten Modifikationen](/rules/approvedmods/).
 
 ## §4 – Chat- und Ingame-Verhalten
-Das Timolia-Team erwartet von jedem Spieler ein faires und respektvolles Verhalten. Sowohl ingame, als auch im TeamSpeak.
+Das Timolia-Team erwartet von jedem Spieler ein faires und respektvolles Verhalten. Sowohl ingame.
 
 ### Abs. 1 – Beleidigungen
 Sämtliche Beleidigungen sind verboten. Das Umgehen des Chatfilters durch Leerzeichen, Satzzeichen o.Ä. ist ebenfalls verboten.
@@ -152,7 +152,7 @@ In UHC gibt es verschiedene Regeln, die zu Beginn jeder Runde angezeigt werden. 
 
 ## §17 – Rückerstattung bei technischen Fehlern
 - Sollten durch technische Fehler (Serverabstürze etc.) Pixel oder Punkte zurückgesetzt werden, sieht das übliche Verhalten des Teams vor, diese nicht zu erstatten.
-- Solltest du Verstöße gegen die Regeln bemerken, so ist es erwünscht, diese immer mit Beweis im [Discord](https://timolia.de/discord), ingame einem Teammitglied oder auf dem TeamSpeak im Hilfechannel zu melden.
+- Solltest du Verstöße gegen die Regeln bemerken, so ist es erwünscht, diese immer mit Beweis im [Discord](https://timolia.de/discord) oder ingame einem Teammitglied melden.
 
 
 <strong>Das Team behält sich das Recht vor, bestimmtes Handeln (auch außerhalb des Minecraft- und TeamSpeakservers) zu sanktionieren, welches nicht explizit in den Regeln aufgelistet ist.</strong>
