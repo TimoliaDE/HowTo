@@ -24,7 +24,7 @@ Stattdessen ist es erwünscht, diese Bugs dem Team im [Discord](https://timolia.
 Dieses Verbot bezieht sich auch auf das Ausnutzen von Bugs in grundsätzlich [erlaubten Modifikationen](/rules/approvedmods/).
 
 ## §4 – Chat- und Ingame-Verhalten
-Das Timolia-Team erwartet von jedem Spieler ein faires und respektvolles Verhalten. Sowohl ingame.
+Das Timolia-Team erwartet von jedem Spieler ein faires und respektvolles Verhalten.
 
 ### Abs. 1 – Beleidigungen
 Sämtliche Beleidigungen sind verboten. Das Umgehen des Chatfilters durch Leerzeichen, Satzzeichen o.Ä. ist ebenfalls verboten.
