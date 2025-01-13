@@ -14,9 +14,10 @@ object PageResponsibilities {
                 put("%page.responsibilities.project-team-orga%", object : LinkedHashMap<String, String?>() {
                     init {
                         put("%page.responsibilities.teamleader%", "%page.responsibilities.teamleader.desc%")
-                        put("%page.responsibilities.project-team-orga.apply.builder%", null)
                         put("%page.responsibilities.project-team-orga.apply.development%", null)
                         put("%page.responsibilities.project-team-orga.apply.support%", "%page.responsibilities.project-team-orga.apply.support.desc%")
+                        put("%page.responsibilities.project-team-orga.apply.content%", null)
+                        put("%page.responsibilities.project-team-orga.apply.builder%", null)
                         put("%page.responsibilities.project-team-orga.howto%", "%page.responsibilities.project-team-orga.howto.desc%")
                         put("%page.responsibilities.project-team-orga.tournament%", "%page.responsibilities.project-team-orga.tournament.desc%")
                         //put("%page.responsibilities.project-team-orga.uhc%", "%page.responsibilities.project-team-orga.uhc.desc%");
@@ -89,17 +90,17 @@ object PageResponsibilities {
                         for (teamler in teamlers.filter { teamler -> teamler.hasResponsibilityMain("Management des Timolia-Teams") }.sortedWith { obj, o -> obj.compare(o) }) {
                             hvCustom.add(Responsibility.concreteTeamster(teamler, "%page.responsibilities.custom.teamleader.whole-team%"))
                         }
-                        for (teamler in teamlers.filter { teamler -> teamler.hasResponsibilityMain("Management des Bau-Teams") }.sortedWith { obj, o -> obj.compare(o) }) {
-                            hvCustom.add(Responsibility.concreteTeamster(teamler, "%page.responsibilities.custom.teamleader.builder%"))
-                        }
-                        for (teamler in teamlers.filter { teamler -> teamler.hasResponsibilityMain("Management des Content-Teams") }.sortedWith { obj, o -> obj.compare(o) }) {
-                            hvCustom.add(Responsibility.concreteTeamster(teamler, "%page.responsibilities.custom.teamleader.content%"))
-                        }
                         for (teamler in teamlers.filter { teamler -> teamler.hasResponsibilityMain("Management des Development-Teams") }.sortedWith { obj, o -> obj.compare(o) }) {
                             hvCustom.add(Responsibility.concreteTeamster(teamler, "%page.responsibilities.custom.teamleader.development%"))
                         }
                         for (teamler in teamlers.filter { teamler -> teamler.hasResponsibilityMain("Management des Support-Teams") }.sortedWith { obj, o -> obj.compare(o) }) {
                             hvCustom.add(Responsibility.concreteTeamster(teamler, "%page.responsibilities.custom.teamleader.support%"))
+                        }
+                        for (teamler in teamlers.filter { teamler -> teamler.hasResponsibilityMain("Management des Content-Teams") }.sortedWith { obj, o -> obj.compare(o) }) {
+                            hvCustom.add(Responsibility.concreteTeamster(teamler, "%page.responsibilities.custom.teamleader.content%"))
+                        }
+                        for (teamler in teamlers.filter { teamler -> teamler.hasResponsibilityMain("Management des Bau-Teams") }.sortedWith { obj, o -> obj.compare(o) }) {
+                            hvCustom.add(Responsibility.concreteTeamster(teamler, "%page.responsibilities.custom.teamleader.builder%"))
                         }
                     }
 
