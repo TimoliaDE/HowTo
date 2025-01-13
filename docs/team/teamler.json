@@ -3149,7 +3149,8 @@
     "rank_history": {
       "initial": "expert",
       "16.02.2023": "supporter",
-      "16.10.2023": "native_expert"
+      "16.10.2023": "native_expert",
+      "12.01.2025": "developer"
     }
   },
   {
@@ -3450,6 +3451,15 @@
     "rank_history": {
       "initial": "expert",
       "15.12.2024": "content"
+    }
+  },
+  {
+    "name": "icefear",
+    "uuid": "77831b28-01db-44fb-8c1e-5568b8e83710",
+    "sex": "male",
+    "rank_history": {
+      "initial": "mvp_plus",
+      "13.01.2025": "developer"
     }
   }
 ]
