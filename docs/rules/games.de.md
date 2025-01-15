@@ -135,7 +135,7 @@ In UHC gibt es verschiedene Regeln, die zu Beginn jeder Runde angezeigt werden. 
 
 ## §16 – Entbannung, Bannverkürzung und Bannumgehung
 - <u>Permanente Banns</u>: Grundsätzlich sind alle Banns temporär. Sollte man aber eine Bannzeit von insgesamt 30 Tagen überschreiten, wird ein Spieler automatisch permanent gebannt.
-- <u>Entbannung</u>: Ist ein Spieler der Meinung, ein Bann sei nicht gerechtfertigt, so kann er jederzeit im [Discord](https://timolia.de/discord) ein Supportticket erstellen oder im TeamSpeak den Beweis anfordern. Wenn man permanent gebannt ist, 
+- <u>Entbannung</u>: Ist ein Spieler der Meinung, ein Bann sei nicht gerechtfertigt, so kann er jederzeit im [Discord](https://timolia.de/discord) ein Supportticket erstellen und den Beweis anfordern. Wenn man permanent gebannt ist, 
   kann man im [Discord](https://timolia.de/discord) einen Antrag auf eine Entbannung stellen. Hierbei sollte man sich besonders viel Mühe geben, da es sehr schwer ist, nach einem permanenten Bann wieder entbannt zu werden.
 - <u>Bannverkürzung</u>: Ab einem Zeitraum von mindestens 10 Tagen hat jeder User das Recht, im [Discord](https://timolia.de/discord) einen Antrag auf Bannverkürzung zu stellen. 
   Solltest du eine Bannzeit von insgesamt über 46 Tagen haben, musst du erst warten, bis deine Banntage auf 46 Tage oder weniger verjährt sind. 
@@ -155,6 +155,6 @@ In UHC gibt es verschiedene Regeln, die zu Beginn jeder Runde angezeigt werden. 
 - Solltest du Verstöße gegen die Regeln bemerken, so ist es erwünscht, diese immer mit Beweis im [Discord](https://timolia.de/discord) oder ingame einem Teammitglied melden.
 
 
-<strong>Das Team behält sich das Recht vor, bestimmtes Handeln (auch außerhalb des Minecraft- und TeamSpeakservers) zu sanktionieren, welches nicht explizit in den Regeln aufgelistet ist.</strong>
+<strong>Das Team behält sich das Recht vor, bestimmtes Handeln zu sanktionieren, welches nicht explizit in den Regeln aufgelistet ist.</strong>
 
 Letzte Aktualisierung: 10. Januar 2023
