@@ -20,11 +20,11 @@ We, therefore, advise against using these mods without having asked in advance.
 
 ## §3 – Cheating/Bugusing
 Bugusing is the intentional exploitation of game errors that have consequences that are not foreseen in the game and is of course forbidden.
-Instead, it is desired to report these bugs to the team via TeamSpeak, on the [Discord](https://timolia.de/discord) or in-game.
+Instead, it is desired to report these bugs to the team on the [Discord](https://timolia.de/discord) or in-game.
 This prohibition also refers to the exploitation of bugs in otherwise [allowed modifications](/rules/approvedmods/).
 
 ## §4 – Behavior in the chat and in-game
-The Timolia team expects fair and respectful behavior from every player. Both in-game and in TeamSpeak.
+The Timolia team expects fair and respectful behavior from every player.
 
 ### Paragraph 1 – Insults
 All insults are prohibited. Bypassing the chat filter with spaces, punctuation marks or similar is also prohibited.
