@@ -2221,7 +2221,6 @@
     "sex": "male",
     "responsibilities_main": [
       "Entschuldigungen",
-      "Social Media",
       "Timolia Turnier Organisation",
       "Youtuber-Ränge",
       "Zu Unrecht gebannt"
@@ -2236,7 +2235,8 @@
       "25.09.2020": "expert",
       "16.02.2023": "supporter",
       "07.01.2024": "supporter_plus",
-      "04.02.2024": "moderator"
+      "04.02.2024": "moderator",
+      "02.02.2025": "supporter_plus"
     }
   },
   {
@@ -2742,7 +2742,8 @@
       "07.11.2022": "supporter_plus",
       "05.06.2023": "moderator",
       "04.02.2024": "developer",
-      "01.12.2024": "developer_plus"
+      "01.12.2024": "developer_plus",
+      "02.02.2025": "administrator"
     }
   },
   {
@@ -2929,7 +2930,8 @@
       "22.11.2021": "supporter",
       "07.08.2022": "supporter_plus",
       "06.07.2023": "native_expert",
-      "10.12.2024": "supporter_plus"
+      "10.12.2024": "supporter_plus",
+      "02.02.2025": "moderator"
     }
   },
   {
@@ -3250,7 +3252,8 @@
     "rank_history": {
       "initial": "expert",
       "20.07.2023": "supporter",
-      "02.06.2024": "supporter_plus"
+      "02.06.2024": "supporter_plus",
+      "02.02.2025": "moderator"
     }
   },
   {
