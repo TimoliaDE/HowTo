@@ -2221,7 +2221,6 @@
     "sex": "male",
     "responsibilities_main": [
       "Entschuldigungen",
-      "Social Media",
       "Timolia Turnier Organisation",
       "Youtuber-Ränge",
       "Zu Unrecht gebannt"
@@ -2236,7 +2235,8 @@
       "25.09.2020": "expert",
       "16.02.2023": "supporter",
       "07.01.2024": "supporter_plus",
-      "04.02.2024": "moderator"
+      "04.02.2024": "moderator",
+      "02.02.2025": "supporter_plus"
     }
   },
   {
@@ -2741,7 +2741,9 @@
       "05.07.2022": "native_expert",
       "07.11.2022": "supporter_plus",
       "05.06.2023": "moderator",
-      "04.02.2024": "developer"
+      "04.02.2024": "developer",
+      "01.12.2024": "developer_plus",
+      "02.02.2025": "administrator"
     }
   },
   {
@@ -2927,7 +2929,9 @@
       "initial": "expert",
       "22.11.2021": "supporter",
       "07.08.2022": "supporter_plus",
-      "06.07.2023": "native_expert"
+      "06.07.2023": "native_expert",
+      "10.12.2024": "supporter_plus",
+      "02.02.2025": "moderator"
     }
   },
   {
@@ -3148,7 +3152,8 @@
     "rank_history": {
       "initial": "expert",
       "16.02.2023": "supporter",
-      "16.10.2023": "native_expert"
+      "16.10.2023": "native_expert",
+      "12.01.2025": "developer"
     }
   },
   {
@@ -3208,13 +3213,17 @@
     "uuid": "e01be9de-968a-4ead-a520-aca93c89572a",
     "sex": "male",
     "responsibilities_main": [
+      "Community-Discord",
       "Gamedesign",
+      "Management des Content-Teams",
       "Social Media",
+      "Teamlerauswahl Content",
       "Timolia HowTo"
     ],
     "rank_history": {
       "initial": "spieler",
-      "12.07.2023": "content"
+      "12.07.2023": "content",
+      "01.12.2024": "content_plus"
     }
   },
   {
@@ -3243,7 +3252,8 @@
     "rank_history": {
       "initial": "expert",
       "20.07.2023": "supporter",
-      "02.06.2024": "supporter_plus"
+      "02.06.2024": "supporter_plus",
+      "02.02.2025": "moderator"
     }
   },
   {
@@ -3349,19 +3359,18 @@
     ],
     "rank_history": {
       "initial": "spieler",
-      "24.01.2024": "developer"
+      "24.01.2024": "developer",
+      "05.12.2024": "native_mvp_plus"
     }
   },
   {
     "name": "heyniklas",
     "uuid": "9863d39b-7043-4587-b8b0-23754d30de5d",
     "sex": "male",
-    "responsibilities_main": [
-      "Gamedesign"
-    ],
     "rank_history": {
       "initial": "spieler",
-      "14.02.2024": "content"
+      "14.02.2024": "content",
+      "05.12.2024": "spieler"
     }
   },
   {
@@ -3412,6 +3421,49 @@
     "rank_history": {
       "initial": "expert",
       "19.09.2024": "content"
+    }
+  },
+  {
+    "name": "21Slowly",
+    "uuid": "0dbe6466-151a-4c5c-ab2b-afed9336c6f1",
+    "sex": "male",
+    "rank_history": {
+      "initial": "pro_plus",
+      "19.11.2024": "content",
+      "21.12.2024": "pro_plus"
+    }
+  },
+  {
+    "name": "obsessiiv",
+    "uuid": "332eab0b-2ba4-4f5b-a3e3-3a7000f9a58f",
+    "sex": "female",
+    "responsibilities_main": [
+      "Social Media"
+    ],
+    "rank_history": {
+      "initial": "spieler",
+      "19.11.2024": "content"
+    }
+  },
+  {
+    "name": "Joschiiiiii",
+    "uuid": "b02ebfc4-3bc3-4d18-8830-e6ead231e80b",
+    "sex": "male",
+    "responsibilities_main": [
+      "Social Media"
+    ],
+    "rank_history": {
+      "initial": "expert",
+      "15.12.2024": "content"
+    }
+  },
+  {
+    "name": "icefear",
+    "uuid": "77831b28-01db-44fb-8c1e-5568b8e83710",
+    "sex": "male",
+    "rank_history": {
+      "initial": "mvp_plus",
+      "13.01.2025": "developer"
     }
   }
 ]

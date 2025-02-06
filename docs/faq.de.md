@@ -5,7 +5,7 @@ Mit der Serveradresse `play.timolia.de` erreichst du unseren Minecraft Server. W
 
 ### Gibt es auch einen Discord-Server?
 Über [https://timolia.de/discord](https://timolia.de/discord) kannst du auf unseren Discord-Server joinen. Hier kannst du dich mit anderen Usern austauschen, Support erhalten oder an Gewinnspielen teilnehmen.
-Alle weiteren Informationen findest du [in unserer Discord-Erklärung](/discord/).
+Alle weiteren Informationen findest du in unserer [Discord-Erklärung](/discord/).
 
 ### Was ist mit der 1.8 Passiert?
 #### Arcade
@@ -13,7 +13,7 @@ Arcade wird künftig überarbeitet und auf die 1.20 aktualisiert, aktuell ist un
 wann es wieder verfügbar sein wird.
 #### 1vs1
 Beide PvP-Server wurden vereint. Somit können 1.8 und 1.9+ gegeneinander antreten.
-Welches Kampfsystem dabei verwendet wird ist von der Kiteinstellung abhängig welche ihr selbst anpassen könnt.
+Ihr könnt das Kampfsystem bei der Farbe im Inventar einstellen.
 #### JumpWorld
 Die Maps vom JumpWorld 1.8 Server sind weiterhin in unserer Datenbank vorhanden.
 Die letzten zwei Jahre bestand die Möglichkeit die Map auf den neuen JumpWorld Server zu exportieren.
@@ -26,6 +26,9 @@ Leider musste City am 16.12.2018 aus verschiedenen Gründen schließen. Mehr Inf
 ### Welche Ränge gibt es?
 - <b><span class='administrator'>Administrator</span></b>:
 Diese Teamler bilden die Leitung Timolias. Sie kümmern sich um die Verwaltung, Organisation und die Teamleitung.
+
+- <b><span class='sysadmin'>SysAdmin</span></b>:
+Systemadministratoren planen, installieren, konfigurieren und warten die technischen Systeme Timolias. Sie führen Updates durch und sorgen für ein reibungsloses Spielerlebnis im Alltag.
 
 - <b><span class='developer-plus'>Developer+</span></b>:
 Sie verfügen über langjährige Erfahrung als Entwickler auf Timolia und stehen bei internen Fragen zum Development zur Verfügung. 
@@ -58,19 +61,22 @@ So leiten diese beispielsweise Projekte oder sind Ansprechpartner für neue Buil
 Das Bauteam kreiert neue Maps und Lobbys für alle Gelegenheiten und Spielmodi auf Timolia. 
 Sie betreuen die architektonische Gestaltung neuer Modi und betreuen externe Mapeinsendungen.
 
+- <b><span class='content-plus'>Content+</span></b>:
+- Mit ihrer Erfahrung über die Funktion des Netzwerks leiten sie die Organisation einzelner Updates und stehen mit Rat und Tat zur Seite.
+
 - <b><span class='content'>Content</span></b>:
 Als kreative Ader sind sie für die verschiedensten Belange von Grafikdesign bis Übersetzung zuständig.
 
 - <b><span class='youtuber'>YouTuber</span></b>:
-YouTuber sind Personen der Minecraft-Szene, die durch YouTube (in Einzelfällen auch Twitch) bekannt geworden sind. Für kleinere Youtuber gibt es den Rang <b><span class='mvp'>VIP</span></b>. Alles zu diesen Rängen [erfährst du hier](/ranks/youtube/).
+YouTuber sind Personen der Minecraft-Szene, die durch YouTube (in Einzelfällen auch Twitch) bekannt geworden sind. Für kleinere Youtuber gibt es den Rang <b><span class='mvp'>VIP</span></b>. Alles zu diesen Rängen erfährst du [hier](/ranks/youtube/).
 
 - <b><span class='expert'>Premium-Ränge</span></b>:
-Spieler mit einem unserer permanenten Premium-Ränge erhalten gewisse Vorteile. Welche Vorteile dir welcher Rang bietet, [erfährst du hier](/ranks/premium/).
+Spieler mit einem unserer permanenten Premium-Ränge erhalten gewisse Vorteile. Welche Vorteile dir welcher Rang bietet, erfährst du [hier](/ranks/premium/).
 
-**Alles rund um Bewerbungen [ist hier zu finden](/team/apply/).** Solltest du Probleme mit deinem  Premium-Rang haben, findest du [hier Hilfe](/ranks/premium/).
+**Alles rund um Bewerbungen ist [hier] zu finden(/team/apply/).** Solltest du Probleme mit deinem  Premium-Rang haben, findest du [hier] Hilfe(/ranks/premium/).
 
 ### Wer supportet mich, wenn ich Fragen habe?
-Wenn du ingame oder im [Teamspeak](/teamspeak/) Fragen hast, steht dir unser großes [Supportteam](/team/members/#supporter) stets zur Verfügung. Wir freuen uns immer, wenn jemand auf uns zukommt und können dir hoffentlich bei Problemen oder Anmerkungen weiterhelfen.
+Wenn du Ingame oder im [Discord]([/discord/](https://timolia.de/discord)) Fragen hast, steht dir unser großes [Supportteam](/team/members/#supporter) stets zur Verfügung. Wir freuen uns immer, wenn jemand auf uns zukommt und können dir hoffentlich bei Problemen oder Anmerkungen weiterhelfen.
 Auf der Social Media Plattform [Twitter](https://twitter.com/TimoliaTeam) supportet rund um die Uhr das [Social Media Team](/team/responsibilities/#social-media).
 Gerne supporten wir dich auch auf unserem [Discord](https://timolia.de/discord). Dort kannst du uns jederzeit im Channel `#support` dein Anliegen mitteilen.
 
@@ -100,7 +106,7 @@ Wenn du für einen Zeitraum von mindestens zehn Tagen gebannt wurdest, kannst du
 Diese kannst du in unserem [Discord](https://timolia.e/discord) in einem Support-Channel schreiben, alternativ kannst du uns auch <a href="https://twitter.com/messages/compose?recipient_id=385909409" target="_blank">hier</a>
 auf Twitter eine DM mit deiner Entschuldigung zukommen lassen. Achtung! Solltest du zweimal wegen Hacking gebannt worden sein oder eine Bannzeit von insgesamt über 46 Tagen haben, 
 musst du erst warten, bis deine Banntage auf 46 Tage oder weniger verjährt sind. Weiterhin kannst du dich nur entschuldigen, wenn du dich in den letzten 6 Monaten weder bereits 3x entschuldigt hast, noch bereits ein Bann in diesem Zeitraum aufgehoben wurde. Über den Minecraft-Server `register.timolia.de` kannst du dich auf unserem Discord-Server registrieren, sofern du dies nicht schon getan hast. 
-Mehr über Entbannungsanträge und Entschuldigungen [kannst du hier lesen](/bans/).
+Mehr über Entbannungsanträge und Entschuldigungen kannst du [hier] lesen(/bans/).
 
 ### Was sind Achievements?
 Achievements kann man während des Spielens auf Timolia abschließen. Eine Übersicht über alle Achievements findest du unter dem Befehl `/achievements`.

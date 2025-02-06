@@ -111,7 +111,7 @@ If you have qualified for a sponsor rank, register on our Discord ([Link](https:
 Besides the premium ranks you can also get [gift cards](https://shop.timolia.de/#Gifts) and [Pixelboosters](https://shop.timolia.de/#Pixel) in our shop.
 
 With our **gift cards**, all ranks and pixel boosters available in the shop can be purchased. They can also be freely combined with other vouchers and payment methods 
-and can be used in our Buycraft system over several payment transactions, should they not be fully used in the first payment.
+and can be used in our shop system over several payment transactions, should they not be fully used in the first payment.
 The purchased gift cards will be sent by email and can be handed over digitally or freshly printed.    
 
 With **Pixelboosters** you not only multiply the number of pixels you earn yourself, but also those of your friends and fellow players in joint rounds. 
@@ -121,38 +121,13 @@ Now the question remains, what happens if you already have a rank on Timolia: Ve
 In addition to the Pixel you receive due to your rank, you'll get the Pixel of the booster added on top, so you can earn more pixels than ever before.
 
 ## The payment methods
-You can support Timolia with a donation either by Buycraft (PayPal, bank transfer).
-Payments via Buycraft are processed directly on the server.
+You can pay by either PayPal, Google Pay, Apple Pay or Credit-/Debitcard in our shop. You will automatically receive your rank on the server after completing the purchase.
 
-Click [<strong>here</strong> to donate via Buycraft (shop.timolia.de)](https://shop.timolia.de/).
-
-## Nitrado
-**Important for donations via Nitrado** Donations via Nitrado have to be processed manually and can therefore take up to 24 hours.
-
-To donate via Nitrado, you need to have your own Nitrado account. 
-You can create one [**here** on the official Nitrado website](https://nitra.do/timolia-minecraft). 
-As soon as you are logged in, you can select "Donate" in the upper menu.
-
-Please enter Timolia as **receiver**. In order for us to correctly process your donation, please provide us with the following data in the **Purpose** field:
-
-* Your current in-game name
-* Your current rank
-* Your desired rank
-* Payment x/y, if you divide the total amount into several partial amounts
-
-The amount can be selected according to the desired amount of the Paysafecard.<br />
-Please note that you have to write out the `+` of Pro+ and MVP+, because Nitrado cannot handle the `+` character!
-
-**Example**: You can specify an upgrade from Pro to MVP+ (45 Euro) with 3 Paysafecards like this:<br />
-Receiver: Timolia<br />
-Reason for payment: MCExpertDE, Upgrade from Pro to MVP Plus, Payment 1/3
-
-Please note that money that has already been deposited to the Nitrado account cannot be donated to Timolia! 
-
+Click [<strong>here</strong>](https://shop.timolia.de)/ to donate via Buycraft (shop.timolia.de).
 
 ## I did not receive my rank, what can I do?
-Payments can take a while - especially if the purchase was made through Nitrado. 
-If your rank is still not there 24 hours after placing your order, please contact us in out support channel. 
+Payments can take a while. 
+If your rank is still not there 24 hours after placing your order, please contact us in our support channels. 
 After providing a few details about your purchase, the order will be processed by a responsible team member. 
 Since this process must be done manually, it may also take a few hours. 
 

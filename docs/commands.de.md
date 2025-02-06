@@ -23,12 +23,13 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 | `/rank`                         | Zeigt deinen aktuellen Ingame-Rang und wie lange er läuft |
 | `/register <E-Mail>`            | Registriert dich für die Webseite |
 | `/stats [1,3,30,all]`           | Zeigt dir deine Stats in den meisten Modi |
-| `/teamspeak`, `/ts`             | Zeigt die TS-IP, ermöglicht die Verifizierung und lässt dich deine Identität verwalten |
 | `/top`                          | Zeigt dir die Top 10 Spieler der letzten 30 Tage in einem Spielmodus an |
 | `/tutorial`                     | Starte ein Tutorial (nicht in allen Modi verfügbar) |
 | `/vote <Zahl>`                  | Votet für eine Map in einem Spielmodus |
 **[Premium](/ranks/premium/) only**:
 | `/togglerank`, `/tr`            | Werde in allen Spielmodi als normaler Spieler angezeigt |
+**[Subscriber](/ranks/premium/) only**:
+| `/fly`                          | Ermöglicht es dir in der Hauptlobby zu fliegen |
 **[<span class='pro'>Pro+</span>](/ranks/premium/) only**:
 | `/ptime <day/night/midnight/sunrise/noon/afternoon/sunset/reset/hh:mm>` | Zeit für sich selbst umstellen |
 | `/pweather <sun/rain/reset>`    | Wetter für sich selbst umstellen |
@@ -61,9 +62,6 @@ Diese Befehle sind global nutzbar und stehen dir jederzeit zur Verfügung.
 ### Lobby
 | Befehl | Funktion |
 | ------ | -------- |
-| `/fixkickvalue`, `/fixkv`       | Setzt deine Kick-Value zurück. Wie das Kick-System funktioniert, kannst du [<strong>hier</strong> nachlesen](https://howto.timolia.de/faq/#wie-funktioniert-das-kick-system) |
-| `/myspawn`                      | Setzt einen eigenen, individuellen Spawnpunkt in der Lobby |
-| `/resetmyspawn`                 | Resettet den eigenen, individuellen Spawnpunkt in der Lobby |
 | `/stats <Spieler>`              | Zeigt dir die Stats eines Spielers an |
 | `/stats <Spieler> <Spieler>...` | Ermöglicht es dir, die Stats von mehreren Spielern zu vergleichen |
 | `/spawn`                        | Teleportiert dich zurück zum Spawn vom Hub |

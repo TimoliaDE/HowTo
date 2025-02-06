@@ -320,7 +320,7 @@ style ranks
     color: #008a99;
 }
 
-.creator {
+.content-plus {
     color: #008a99;
 }
 
@@ -355,6 +355,10 @@ old ranks
 
 .management {
     color: #009e18;
+}
+
+.creator {
+    color: #008a99;
 }
 
 /**

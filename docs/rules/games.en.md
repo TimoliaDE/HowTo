@@ -20,11 +20,11 @@ We, therefore, advise against using these mods without having asked in advance.
 
 ## §3 – Cheating/Bugusing
 Bugusing is the intentional exploitation of game errors that have consequences that are not foreseen in the game and is of course forbidden.
-Instead, it is desired to report these bugs to the team via TeamSpeak, on the [Discord](https://timolia.de/discord) or in-game.
+Instead, it is desired to report these bugs to the team on the [Discord](https://timolia.de/discord) or in-game.
 This prohibition also refers to the exploitation of bugs in otherwise [allowed modifications](/rules/approvedmods/).
 
 ## §4 – Behavior in the chat and in-game
-The Timolia team expects fair and respectful behavior from every player. Both in-game and in TeamSpeak.
+The Timolia team expects fair and respectful behavior from every player.
 
 ### Paragraph 1 – Insults
 All insults are prohibited. Bypassing the chat filter with spaces, punctuation marks or similar is also prohibited.
@@ -132,7 +132,7 @@ In UHC there are several rules that are displayed at the beginning of each round
 
 ## §16 – Unbans, ban shortening and bypassing the ban
 - <u>Permanent bans</u>: In general all bans are temporary. However, if you exceed a ban time of 30 days in total, you will automatically be banned permanently.
-- <u>Unbans</u>: If a player has the opinion that a ban is not justified, he can demand proof at any time by creating a supportticket on our [Discord](https://timolia.de/discord) or in TeamSpeak. 
+- <u>Unbans</u>: If a player has the opinion that a ban is not justified, he can demand proof at any time by creating a supportticket on our [Discord](https://timolia.de/discord). 
   If you are permanently banned, you can make a request for an unban on our [Discord](https://timolia.de/discord). Here you should make a special effort because it is very difficult to be unbanned after a permanent ban.
 - <u>Ban shortening</u>: From a period of at least 10 days each user has the right to make a request on our [Discord](https://timolia.de/discord) for ban shortening.
   If you exceed 46 ban days, you must wait until your ban days have expired to 46 days or less.
@@ -148,9 +148,9 @@ In UHC there are several rules that are displayed at the beginning of each round
 
 ## §17 – Refund for technical errors
 - Should pixels or points be reset due to technical errors (server crashes, etc.), the team's usual behavior is not to refund them.
-- Should you notice any violations of the rules, it is desired to always report them with proof on our [Discord](https://timolia.de/discord), in-game to a team member or on TeamSpeak in the support channel.
+- Should you notice any violations of the rules, it is desired to always report them with proof on our [Discord](https://timolia.de/discord) or in-game to a team member.
 
 
-<strong>The team reserves the right to sanction certain actions (also outside the Minecraft and TeamSpeak server) that are not explicitly listed in the rules.</strong>
+<strong>The team reserves the right to sanction certain actions that are not explicitly listed in the rules.</strong>
 
 Last updated: February 1st, 2023

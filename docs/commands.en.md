@@ -29,6 +29,8 @@ You can use these commands globally at any time.
 | `/vote <number>`                | Vote for a map in a game mode |
 **[Premium](/ranks/premium/) only**:
 | `/togglerank`, `/tr`            | Be displayed as a usual player |
+**[Subscriber](/ranks/premium/) only**:
+| `/fly`                          | Enables you to fly in the main lobby |
 **[<span class='pro'>Pro+</span>](/ranks/premium/) only**:
 | `/ptime <day/night/midnight/sunrise/noon/afternoon/sunset/reset/hh:mm>` | Switch the time for yourself |
 | `/pweather <sun/rain/reset>`    | Switch the weather for yourself |
@@ -61,9 +63,6 @@ You can use these commands globally at any time.
 ### Lobby
 | Command | Description |
 | ------ | -------- |
-| `/fixkickvalue`, `/fixkv`       | Resetz your kick value. Information about how the kick system works is available [<strong>here</strong>](/faq/#wie-funktioniert-das-kick-system) |
-| `/myspawn`                      | Sets your own individual spawn point in the lobby |
-| `/resetmyspawn`                 | Resets your own individual spawn point in the lobby |
 | `/stats <player>`               | Shows the stats of a player |
 | `/stats <player> <player>...`   | Allows you to compare the stats of multiple players |
 | `/spawn`                        | Teleports you back to the spawn of the hub |
