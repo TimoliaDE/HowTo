@@ -586,7 +586,8 @@
     "rank_history": {
       "initial": "pro",
       "21.09.2020": "supporter",
-      "08.04.2022": "native_mvp"
+      "08.04.2022": "native_mvp",
+      "18.02.2025": "supporter"
     }
   },
   {
@@ -3009,8 +3010,12 @@
       "initial": "mvp",
       "22.05.2022": "creator",
       "18.02.2023": "content",
-      "25.11.2023": "native_expert"
-    }
+      "25.11.2023": "native_expert",
+      "18.02.2025": "content"
+    },
+    "responsibilities_main": [
+      "Social Media"
+    ]
   },
   {
     "name": "_Esel",
@@ -3352,7 +3357,8 @@
     "rank_history": {
       "initial": "spieler",
       "24.01.2024": "developer",
-      "05.12.2024": "native_mvp_plus"
+      "05.12.2024": "native_mvp_plus",
+      "18.02.2025": "developer"
     }
   },
   {
