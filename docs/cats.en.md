@@ -11,6 +11,8 @@ Here in the howto, there are far too few cats. Therefore, we added a few sweet c
 
 ![](catsimg/Katze.JPEG)
 
+![](catsimg/keks.png)
+KEKS
 
 <br />
 <br />

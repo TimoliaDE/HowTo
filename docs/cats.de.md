@@ -12,6 +12,9 @@ Hier im HowTo gibt es zu wenige Katzen, darum hier ein paar süße Katzenbilder 
 ![](catsimg/Katze.JPEG)
 Kratze Katze
 
+![](catsimg/keks.png)
+KEKS
+
 <br />
 
 Eine Kooperation von Julian und Daniel
