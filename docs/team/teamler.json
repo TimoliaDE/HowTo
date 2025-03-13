@@ -586,7 +586,8 @@
     "rank_history": {
       "initial": "pro",
       "21.09.2020": "supporter",
-      "08.04.2022": "native_mvp"
+      "08.04.2022": "native_mvp",
+      "18.02.2025": "supporter"
     }
   },
   {
@@ -2219,15 +2220,6 @@
     "name": "Stracy",
     "uuid": "5996be13-7178-47fd-bdfe-60951ae1407f",
     "sex": "male",
-    "responsibilities_main": [
-      "Entschuldigungen",
-      "Timolia Turnier Organisation",
-      "Youtuber-Ränge",
-      "Zu Unrecht gebannt"
-    ],
-    "fields": [
-      "1vs1"
-    ],
     "rank_history": {
       "initial": "expert",
       "08.03.2020": "supporter",
@@ -2236,7 +2228,8 @@
       "16.02.2023": "supporter",
       "07.01.2024": "supporter_plus",
       "04.02.2024": "moderator",
-      "02.02.2025": "supporter_plus"
+      "02.02.2025": "supporter_plus",
+      "17.02.2025": "native_expert"
     }
   },
   {
@@ -2925,6 +2918,10 @@
     "name": "Luuuu",
     "uuid": "1a1e7c94-1281-4d7b-930f-be3bd8266949",
     "sex": "male",
+    "responsibilities_secondary": [
+      "Entschuldigungen",
+      "Timolia Turnier Organisation"
+    ],
     "rank_history": {
       "initial": "expert",
       "22.11.2021": "supporter",
@@ -2986,7 +2983,8 @@
       "02.05.2022": "supporter",
       "16.09.2022": "native_expert",
       "22.06.2023": "supporter",
-      "07.01.2024": "supporter_plus"
+      "07.01.2024": "supporter_plus",
+      "02.03.2025": "moderator"
     }
   },
   {
@@ -3017,8 +3015,12 @@
       "initial": "mvp",
       "22.05.2022": "creator",
       "18.02.2023": "content",
-      "25.11.2023": "native_expert"
-    }
+      "25.11.2023": "native_expert",
+      "18.02.2025": "content"
+    },
+    "responsibilities_main": [
+      "Social Media"
+    ]
   },
   {
     "name": "_Esel",
@@ -3360,7 +3362,8 @@
     "rank_history": {
       "initial": "spieler",
       "24.01.2024": "developer",
-      "05.12.2024": "native_mvp_plus"
+      "05.12.2024": "native_mvp_plus",
+      "18.02.2025": "developer"
     }
   },
   {
