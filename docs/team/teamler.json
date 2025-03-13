@@ -3214,18 +3214,12 @@
     "name": "Schneeeule_",
     "uuid": "e01be9de-968a-4ead-a520-aca93c89572a",
     "sex": "male",
-    "responsibilities_main": [
-      "Community-Discord",
-      "Gamedesign",
-      "Management des Content-Teams",
-      "Social Media",
-      "Teamlerauswahl Content",
-      "Timolia HowTo"
-    ],
+   
     "rank_history": {
       "initial": "spieler",
       "12.07.2023": "content",
-      "01.12.2024": "content_plus"
+      "01.12.2024": "content_plus",
+      "12.03.2025": "native_expert"
     }
   },
   {
@@ -3306,13 +3300,10 @@
     "name": "Numbsi",
     "uuid": "391ef10e-8fdb-4c32-b8b5-c9c501c0de10",
     "sex": "female",
-    "responsibilities_secondary": [
-      "JumpWorld Verifizierung",
-      "Youtuber-Ränge"
-    ],
     "rank_history": {
       "initial": "expert",
-      "17.12.2023": "supporter"
+      "17.12.2023": "supporter",
+      "12.03.2025": "native_expert"
     }
   },
   {
