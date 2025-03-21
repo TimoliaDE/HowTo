@@ -3458,5 +3458,14 @@
       "initial": "mvp_plus",
       "13.01.2025": "developer"
     }
+  },
+  {
+    "name": "Nazecirou",
+    "uuid": "340f4d15-6993-4081-b751-69f4038c50a5",
+    "sex": "male",
+    "rank_history": {
+      "initial": "spieler",
+      "21.03.2025": "supporter"
+    }
   }
 ]
