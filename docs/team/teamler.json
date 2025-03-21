@@ -3467,5 +3467,14 @@
       "initial": "spieler",
       "21.03.2025": "supporter"
     }
+  },
+  {
+    "name": "Fedox",
+    "uuid": "2c4e5e26-33af-4258-9be0-dd7ccd5c38e8",
+    "sex": "male",
+    "rank_history": {
+      "initial": "spieler",
+      "21.03.2025": "developer"
+    }
   }
 ]
