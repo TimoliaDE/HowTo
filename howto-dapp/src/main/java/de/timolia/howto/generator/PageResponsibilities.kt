@@ -38,7 +38,7 @@ object PageResponsibilities {
                     init {
                         put("%page.responsibilities.other-responsibilities.graphicdesign%", null)
                         put("%page.responsibilities.other-responsibilities.map-submissions%", null)
-                        put("%page.responsibilities.other-responsibilities.monthly-winner%", null)
+                        //put("%page.responsibilities.other-responsibilities.monthly-winner%", null)
                         //put("%page.responsibilities.other-responsibilities.translation%", null);
                     }
                 })
