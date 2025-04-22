@@ -62,7 +62,7 @@ Das Bauteam kreiert neue Maps und Lobbys für alle Gelegenheiten und Spielmodi a
 Sie betreuen die architektonische Gestaltung neuer Modi und betreuen externe Mapeinsendungen.
 
 - <b><span class='content-plus'>Content+</span></b>:
-- Mit ihrer Erfahrung über die Funktion des Netzwerks leiten sie die Organisation einzelner Updates und stehen mit Rat und Tat zur Seite.
+Mit ihrer Erfahrung über die Funktion des Netzwerks leiten sie die Organisation einzelner Updates und stehen mit Rat und Tat zur Seite.
 
 - <b><span class='content'>Content</span></b>:
 Als kreative Ader sind sie für die verschiedensten Belange von Grafikdesign bis Übersetzung zuständig.
@@ -73,12 +73,12 @@ YouTuber sind Personen der Minecraft-Szene, die durch YouTube (in Einzelfällen 
 - <b><span class='expert'>Premium-Ränge</span></b>:
 Spieler mit einem unserer permanenten Premium-Ränge erhalten gewisse Vorteile. Welche Vorteile dir welcher Rang bietet, erfährst du [hier](/ranks/premium/).
 
-**Alles rund um Bewerbungen ist [hier] zu finden(/team/apply/).** Solltest du Probleme mit deinem  Premium-Rang haben, findest du [hier] Hilfe(/ranks/premium/).
+**Alles rund um Bewerbungen ist [hier](/team/apply/) zu finden.** Solltest du Probleme mit deinem  Premium-Rang haben, findest du [hier](/ranks/premium/) Hilfe.
 
 ### Wer supportet mich, wenn ich Fragen habe?
 Wenn du Ingame oder im [Discord]([/discord/](https://timolia.de/discord)) Fragen hast, steht dir unser großes [Supportteam](/team/members/#supporter) stets zur Verfügung. Wir freuen uns immer, wenn jemand auf uns zukommt und können dir hoffentlich bei Problemen oder Anmerkungen weiterhelfen.
 Auf der Social Media Plattform [Twitter](https://twitter.com/TimoliaTeam) supportet rund um die Uhr das [Social Media Team](/team/responsibilities/#social-media).
-Gerne supporten wir dich auch auf unserem [Discord](https://timolia.de/discord). Dort kannst du uns jederzeit im Channel `#support` dein Anliegen mitteilen.
+Gerne supporten wir dich auch auf unserem [Discord](https://timolia.de/discord). Dort kannst du uns jederzeit im Channel [#support](https://discord.com/channels/407554118887014402/413594798906408960) dein Anliegen mitteilen.
 
 ### Wie funktioniert das Kick-System?
 Wir besitzen ein recht komplexes und einzigartiges Kicksystem, um sowohl Premium- als auch normalen Spielern ein tolles Spielerlebnis ohne ewige Wartezeiten zu ermöglichen. 

@@ -114,20 +114,14 @@
     "name": "JukPlays",
     "uuid": "81f159e2-b9ac-4c16-aa81-6f07bc5980d7",
     "sex": "male",
-    "responsibilities_main": [
-      "Management des Bau-Teams"
-    ],
-    "responsibilities_secondary": [
-      "Social Media",
-      "Teamlerauswahl Builder und Timolia Creative"
-    ],
     "rank_history": {
       "initial": "spieler",
       "17.07.2016": "builder",
       "09.11.2018": "native_expert",
       "08.10.2019": "builder",
       "08.11.2019": "head_builder",
-      "23.08.2023": "administrator"
+      "23.08.2023": "administrator",
+      "20.04.2025": "native_expert"
     }
   },
   {
@@ -238,7 +232,6 @@
     "uuid": "94fa217d-6e68-4b87-86ff-6156765c4a17",
     "sex": "male",
     "responsibilities_main": [
-      "Timolia Turnier Organisation",
       "Zu Unrecht gebannt"
     ],
     "fields": [
@@ -1557,7 +1550,8 @@
       "02.12.2018": "supporter",
       "08.11.2019": "supporter_plus",
       "05.07.2020": "moderator",
-      "02.12.2022": "native_expert"
+      "02.12.2022": "native_expert",
+      "19.04.2025": "moderator"
     }
   },
   {
@@ -1566,12 +1560,12 @@
     "sex": "female",
     "responsibilities_main": [
       "Management des Support-Teams",
-      "Teamlerauswahl Support"
+      "Teamlerauswahl Support",
+      "Teamlerauswahl Content"
     ],
     "responsibilities_secondary": [
       "JumpWorld Events",
-      "Map-Einsendungen",
-      "Monatssieger"
+      "Map-Einsendungen"
     ],
     "rank_history": {
       "initial": "mvp",
@@ -2073,9 +2067,6 @@
     "name": "_Tetzel_",
     "uuid": "4f46f87b-968d-45c5-a629-ab1821519b1b",
     "sex": "male",
-    "responsibilities_secondary": [
-      "Map-Einsendungen"
-    ],
     "rank_history": {
       "initial": "spieler",
       "18.12.2016": "builder",
@@ -2378,7 +2369,6 @@
     "uuid": "6aa9c36c-89be-4b8a-bd24-9401e5085055",
     "sex": "male",
     "responsibilities_secondary": [
-      "Map-Einsendungen",
       "Teamlerauswahl Builder und Timolia Creative",
       "Teamlerauswahl Development"
     ],
@@ -2693,8 +2683,13 @@
       "Gewinnspielorganisation",
       "JumpWorld Events",
       "JumpWorld Verifizierung",
-      "Monatssieger",
-      "Social Media"
+      "Management des Content-Teams",
+      "Social Media",
+      "Teamlerauswahl Content",
+      "Community-Discord"
+    ],
+    "responsibilities_secondary": [
+      "Teamlerauswahl Support"
     ],
     "fields": [
       "Public Relations"
@@ -2721,8 +2716,13 @@
     "uuid": "f56499d5-d48f-4390-9e0e-58dc834e29fa",
     "sex": "male",
     "responsibilities_main": [
-      "Timolia Turnier Organisation",
-      "Entschuldigungen"
+      "Entschuldigungen",
+      "Zu Unrecht gebannt",
+      "Management des Developer-Teams",
+      "Teamlerauswahl Development"
+    ],
+    "responsibilities_secondary": [
+      "Timolia Turnier Organisation"
     ],
     "fields": [
       "Plugin Development"
@@ -2805,10 +2805,6 @@
     "name": "HicXD",
     "uuid": "14a13257-f1a3-4802-bd1e-73f077f0143a",
     "sex": "male",
-    "responsibilities_secondary": [
-      "Entschuldigungen",
-      "Timolia Turnier Organisation"
-    ],
     "rank_history": {
       "initial": "expert",
       "14.05.2021": "supporter",
@@ -2851,10 +2847,6 @@
     "name": "L3nnart_",
     "uuid": "f31bfa9e-2757-4805-835f-aa38018336e6",
     "sex": "male",
-    "responsibilities_secondary": [
-      "Community-Discord",
-      "Timolia HowTo"
-    ],
     "fields": [
       "Systemadministration",
       "Plugin Development",
@@ -2883,14 +2875,12 @@
     "uuid": "9bc330fa-0e99-4c85-9396-cb63fb82297c",
     "sex": "male",
     "responsibilities_main": [
-      "Grafikdesign",
       "JumpWorld Events",
-      "JumpWorld Verifizierung",
-      "Monatssieger"
+      "JumpWorld Verifizierung"
     ],
     "responsibilities_secondary": [
       "Gewinnspielorganisation",
-      "Social Media"
+      "Youtuber-Ränge"
     ],
     "fields": [
       "Systemadministration",
@@ -2918,9 +2908,14 @@
     "name": "Luuuu",
     "uuid": "1a1e7c94-1281-4d7b-930f-be3bd8266949",
     "sex": "male",
-    "responsibilities_secondary": [
+    "responsibilities_main": [
+      "Timolia Turnier Organisation",
       "Entschuldigungen",
-      "Timolia Turnier Organisation"
+      "Zu Unrecht gebannt"
+    ],
+    "responsibilities_secondary": [
+      "Teamlerauswahl Support",
+      "Youtuber-Ränge"
     ],
     "rank_history": {
       "initial": "expert",
@@ -2936,7 +2931,8 @@
     "uuid": "251f7677-ee4b-464b-aa8b-17614cc789be",
     "sex": "male",
     "responsibilities_main": [
-      "Teamlerauswahl Builder und Timolia Creative"
+      "Teamlerauswahl Builder und Timolia Creative",
+      "Map-Einsendungen"
     ],
     "responsibilities_secondary": [
       "JumpWorld Events",
@@ -2967,16 +2963,18 @@
       "Grafikdesign",
       "JumpWorld Events",
       "JumpWorld Verifizierung",
-      "Monatssieger",
+      "Map-Einsendungen",
+      "Social Media",
       "Youtuber-Ränge"
     ],
     "responsibilities_secondary": [
       "Building",
       "Timolia Turnier Organisation",
       "Entschuldigungen",
-      "Social Media",
       "Timolia HowTo",
-      "Community-Discord"
+      "Community-Discord",
+      "Teamlerauswahl Support",
+      "Zu Unrecht gebannt"
     ],
     "rank_history": {
       "initial": "expert",
@@ -3019,7 +3017,8 @@
       "18.02.2025": "content"
     },
     "responsibilities_main": [
-      "Social Media"
+      "Social Media",
+      "Grafikdesign"
     ]
   },
   {
@@ -3151,6 +3150,12 @@
     "name": "Niedlichkeit",
     "uuid": "c5f40157-914c-48a8-a5b9-e95892505905",
     "sex": "male",
+    "responsibilities_main": [
+      "Timolia HowTo"
+    ],
+    "fields": [
+      "Plugin Development"
+    ],
     "rank_history": {
       "initial": "expert",
       "16.02.2023": "supporter",
@@ -3237,11 +3242,13 @@
     "sex": "male",
     "responsibilities_main": [
       "Youtuber-Ränge",
-      "Timolia Turnier Organisation"
+      "Entschuldigungen",
+      "Timolia Turnier Organisation",
+      "Zu Unrecht gebannt"
     ],
     "responsibilities_secondary": [
-      "Entschuldigungen",
       "Timolia HowTo",
+      "Teamlerauswahl Support",
       "JumpWorld Verifizierung"
       ],
     "rank_history": {
@@ -3275,9 +3282,6 @@
     "name": "Bastiz",
     "uuid": "3bd2ee53-73e9-4328-9a7b-5a7570049050",
     "sex": "male",
-    "responsibilities_main": [
-      "Timolia Turnier Organisation"
-    ],
     "rank_history": {
       "initial": "pro_plus",
       "12.09.2023": "supporter"
@@ -3310,9 +3314,7 @@
     "uuid": "5ba5d816-9642-4cd5-b79c-118ee62953b0",
     "sex": "male",
     "responsibilities_secondary": [
-      "Entschuldigungen",
       "JumpWorld Verifizierung",
-      "Timolia Turnier Organisation",
       "Youtuber-Ränge"
     ],
     "rank_history": {
@@ -3335,6 +3337,9 @@
     "name": "Grafjojo",
     "uuid": "55034041-35c1-4ba7-848d-6bcb21675738",
     "sex": "male",
+    "fields": [
+      "Plugin Development"
+    ],
     "rank_history": {
       "initial": "spieler",
       "18.12.2023": "developer",
@@ -3394,8 +3399,7 @@
     "sex": "male",
     "responsibilities_secondary": [
       "JumpWorld Events",
-      "JumpWorld Verifizierung",
-      "Monatssieger"
+      "JumpWorld Verifizierung"
     ],
     "rank_history": {
       "initial": "expert",
@@ -3408,8 +3412,7 @@
     "sex": "male",
     "responsibilities_secondary": [
       "JumpWorld Verifizierung",
-      "JumpWorld Events",
-      "Monatssieger"
+      "JumpWorld Events"
     ],
     "rank_history": {
       "initial": "expert",
@@ -3454,6 +3457,9 @@
     "name": "icefear",
     "uuid": "77831b28-01db-44fb-8c1e-5568b8e83710",
     "sex": "male",
+    "fields": [
+      "Plugin Development"
+    ],
     "rank_history": {
       "initial": "mvp_plus",
       "13.01.2025": "developer"
@@ -3472,6 +3478,10 @@
     "name": "Fedox",
     "uuid": "2c4e5e26-33af-4258-9be0-dd7ccd5c38e8",
     "sex": "male",
+    "fields": [
+      "Plugin Development",
+      "Web Development"
+    ],
     "rank_history": {
       "initial": "spieler",
       "21.03.2025": "developer"
