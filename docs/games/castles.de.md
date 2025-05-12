@@ -6,6 +6,10 @@
 ## Der Spielverlauf
 Castles ist ein taktisches Spiel, in dem du allein oder gemeinsam mit deinen Teammates die Flagge der gegnerischen Teams erobern musst. Jedes Team besteht aus maximal 4 Spieler:innen und beginnt das Spiel in seiner eigenen Burg.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E_K3jQGAHbo?si=gIK2FH72TpIT2Zx6" frameborder="0" allowfullscreen></iframe>
+
+<p></p>
+
 ## Und so gehts
 - Stimme mit `/vote <Map>` oder einem Klick im Chat für die Map deiner Wahl.
 - Ziel des Spiels ist es, die Flagge aus der gegnerischen Burg zu entwenden, zurück in die eigene Basis zu bringen und dann alle gegnerischen Spieler:innen zu töten.
