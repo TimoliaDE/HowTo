@@ -1,4 +1,4 @@
-FROM core.harbor.timolia.de/library/alpine:3.16.2
+FROM core.harbor.timolia.de/proxy_cache_docker_hub/library/alpine:3.21.3
 
 RUN set -x \
     && apk --no-cache upgrade \
