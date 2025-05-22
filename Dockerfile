@@ -1,4 +1,4 @@
-FROM core.harbor.timolia.de/proxy_cache_docker_hub/library/alpine:3.21.3
+FROM core.harbor.timolia.de/proxy_cache_docker_hub/library/alpine:3.21.3 AS builder
 
 RUN set -x \
     && apk --no-cache upgrade \
@@ -9,31 +9,35 @@ RUN set -x \
          gcc \
          git \
          musl-dev \
-         nginx \
-         openrc \
          python3 \
-         python3-dev
+         python3-dev \
+         py3-pip \
+         py3-virtualenv
 
-RUN curl -s https://bootstrap.pypa.io/get-pip.py | python3 - && \
-    echo -en '\nPython version: ' && python3 -V && echo -n 'pip version:    ' &&  pip -V && echo -en '\n'
-RUN pip install mkdocs
-RUN pip install mkdocs-material
+RUN virtualenv /opt/venv
+ENV PATH="/opt/venv/bin:$PATH"
+
+RUN pip install mkdocs mkdocs-material
 
 COPY ./ /code/
-RUN cd /code \
-    && rm docs/team/teamler.json \
+WORKDIR /code
+RUN rm docs/team/teamler.json \
     && rm -rf howto-dapp \
     && find . -name '*.md.old' -delete \
     && mkdocs build
 
-RUN adduser -D -g 'www' www
-RUN mkdir /www
-RUN chown -R www:www /var/lib/nginx
-RUN cp -r /code/site/* /www/
-RUN chown -R www:www /www
-RUN mv /etc/nginx/nginx.conf /etc/nginx/nginx.conf.orig
+FROM core.harbor.timolia.de/proxy_cache_docker_hub/library/alpine:3.21.3
+
+RUN apk --no-cache add nginx \
+    && adduser -D -g 'www' www \
+    && mkdir /www \
+    && chown -R www:www /var/lib/nginx
+
+COPY --from=builder /code/site/ /www/
+
 COPY ./nginx.conf /etc/nginx/nginx.conf
 
-WORKDIR /code
+RUN chown -R www:www /www
+
 EXPOSE 80
-CMD nginx
+CMD ["nginx"]
