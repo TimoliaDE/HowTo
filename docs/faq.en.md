@@ -66,7 +66,7 @@ The builder team creates new maps and lobbies for all occasions and game modes o
 They supervise the architectural design of new game modes and manage external map submissions.
 
 - <b><span class='content-plus'>Content+</span></b>:
-- With their expertise in the functioning of the network, they manage the organization of individual updates and provide advice and support.
+With their expertise in the functioning of the network, they manage the organization of individual updates and provide advice and support.
 
 - <b><span class='content'>Content</span></b>:
 As a creative streak, they are responsible for a wide range of interests from graphic design to translation.
@@ -87,7 +87,7 @@ If you have problems with your premium rank, you can find help [here](/ranks/pre
 When you got any questions, we do not only love to support in-game but also on our Discord server.
 We are always happy when someone approaches us and hopefully, we can help you with your problems or comments.
 You can also contact us on the social media platform Twitter where our social media team supports you all around the clock.
-We would also be happy to support you on our [Discord](https://timolia.de/discord). There you can tell us your concern at any time in the `#support` channel.
+We would also be happy to support you on our [Discord](https://timolia.de/discord). There you can tell us your concern at any time in the [#support](https://discord.com/channels/407554118887014402/413594798906408960) channel.
 
 ### How does the kick system work?
 We have a very complex and unique kick system to give both premium and normal players a great gaming experience 

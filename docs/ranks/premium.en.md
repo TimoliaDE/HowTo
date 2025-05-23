@@ -23,7 +23,7 @@ Subscription ranks:
 | JumpWorld map size                       |                3000                 |                 5000                 |                  5000                   |
 | /fly in the lobby                        |               &check;               |               &check;                |                 &check;                 |
 | Beta tests                               |               &check;               |               &check;                |                 &check;                 |
-| Pixel multiplier                         |                 1,5                 |                  2                   |                    3                    |
+| Pixel multiplier                         |                 1                 |                  2                   |                    3                    |
 | Monthly pixel                            |                1000                 |                 2200                 |                  4400                   |
 | Monthly gems                             |                 750                 |                 1600                 |                  3200                   |
 | Monthly megapixel                        |                 500                 |                 1100                 |                  2200                   |
