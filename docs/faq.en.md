@@ -87,7 +87,7 @@ If you have problems with your premium rank, you can find help [here](/ranks/pre
 When you got any questions, we do not only love to support in-game but also on our Discord server.
 We are always happy when someone approaches us and hopefully, we can help you with your problems or comments.
 You can also contact us on the social media platform Twitter where our social media team supports you all around the clock.
-We would also be happy to support you on our [Discord](https://timolia.de/discord). There you can tell us your concern at any time in the [#support](https://discord.com/channels/407554118887014402/413594798906408960) channel.
+We would also be happy to support you on our [Discord](https://timolia.de/discord). There you can tell us your concern at any time in the `#support` channel.
 
 ### How does the kick system work?
 We have a very complex and unique kick system to give both premium and normal players a great gaming experience 
