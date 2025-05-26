@@ -24,7 +24,7 @@ Subscriber Ränge:
 | JumpWorld Mapgröße                             |                3000                 |                 5000                 |                  5000                   |
 | /fly in der Lobby                              |               &check;               |               &check;                |                 &check;                 |
 | Betatests                                      |               &check;               |               &check;                |                 &check;                 |
-| Pixelmultiplikator                             |                 1,5                 |                  2                   |                    3                    |
+| Pixelmultiplikator                             |                 1                 |                  2                   |                    3                    |
 | Monatliche Pixel                               |                1000                 |                 2200                 |                  4400                   |
 | Monatliche Gems                                |                 750                 |                 1600                 |                  3200                   |
 | Monatliche Megapixel                           |                 500                 |                 1100                 |                  2200                   |

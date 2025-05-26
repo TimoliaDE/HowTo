@@ -20,26 +20,21 @@ object PageResponsibilities {
                         put("%page.responsibilities.project-team-orga.apply.builder%", null)
                         put("%page.responsibilities.project-team-orga.howto%", "%page.responsibilities.project-team-orga.howto.desc%")
                         put("%page.responsibilities.project-team-orga.tournament%", "%page.responsibilities.project-team-orga.tournament.desc%")
-                        //put("%page.responsibilities.project-team-orga.uhc%", "%page.responsibilities.project-team-orga.uhc.desc%");
                         put("%page.responsibilities.project-team-orga.youtuber%", "%page.responsibilities.project-team-orga.youtuber.desc%")
                     }
                 })
                 put("%page.responsibilities.communication-platforms%", object : LinkedHashMap<String, String?>() {
                     init {
                         put("%page.responsibilities.communication-platforms.community-discord%", "%page.responsibilities.communication-platforms.community-discord.desc%")
-                        //put("%page.responsibilities.communication-platforms.bug-reports%", null);
                         put("%page.responsibilities.communication-platforms.appeal%", null)
                         put("%page.responsibilities.communication-platforms.falsely-banned%", null)
                         put("%page.responsibilities.communication-platforms.socialmedia%", "%page.responsibilities.communication-platforms.socialmedia.desc%")
-                        //put("%page.responsibilities.communication-platforms.teamspeak%", "%page.responsibilities.communication-platforms.teamspeak.desc%")
                     }
                 })
                 put("%page.responsibilities.other-responsibilities%", object : LinkedHashMap<String, String?>() {
                     init {
                         put("%page.responsibilities.other-responsibilities.graphicdesign%", null)
                         put("%page.responsibilities.other-responsibilities.map-submissions%", null)
-                        put("%page.responsibilities.other-responsibilities.monthly-winner%", null)
-                        //put("%page.responsibilities.other-responsibilities.translation%", null);
                     }
                 })
             }

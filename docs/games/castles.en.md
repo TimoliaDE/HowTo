@@ -6,6 +6,10 @@
 ## The basic idea
 Castles is a tactical game in which your objective is to conquer the flags of your enemies. Depending on the gamemode, teams can consist of a maximum of one to four player who start the game in their own castle before proceeding to sprint or ride into the battleground, which consists of small floating islands connected by rickety bridges!
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeydLQxk_Hg?si=JRM5wUvz2DnN703Z" frameborder="0" allowfullscreen></iframe>
+
+<p></p>
+
 ## How to play
 - Use `/vote <Map>` or the options displayed in the chat to vote for your preferred map. 
 - The objective of the game is to steal your enemies flags, bring them back into your own base and kill all the enemies afterwards.
