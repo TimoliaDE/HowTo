@@ -78,7 +78,7 @@ Spieler mit einem unserer permanenten Premium-Ränge erhalten gewisse Vorteile. 
 ### Wer supportet mich, wenn ich Fragen habe?
 Wenn du Ingame oder im [Discord]([/discord/](https://timolia.de/discord)) Fragen hast, steht dir unser großes [Supportteam](/team/members/#supporter) stets zur Verfügung. Wir freuen uns immer, wenn jemand auf uns zukommt und können dir hoffentlich bei Problemen oder Anmerkungen weiterhelfen.
 Auf der Social Media Plattform [Twitter](https://twitter.com/TimoliaTeam) supportet rund um die Uhr das [Social Media Team](/team/responsibilities/#social-media).
-Gerne supporten wir dich auch auf unserem [Discord](https://timolia.de/discord). Dort kannst du uns jederzeit im Channel [#support](https://discord.com/channels/407554118887014402/413594798906408960) dein Anliegen mitteilen.
+Gerne supporten wir dich auch auf unserem [Discord](https://timolia.de/discord). Dort kannst du uns jederzeit im Channel `#support`. dein Anliegen mitteilen.
 
 ### Wie funktioniert das Kick-System?
 Wir besitzen ein recht komplexes und einzigartiges Kicksystem, um sowohl Premium- als auch normalen Spielern ein tolles Spielerlebnis ohne ewige Wartezeiten zu ermöglichen. 
