@@ -1346,7 +1346,8 @@
     "sex": "male",
     "rank_history": {
       "initial": "developer_city",
-      "16.09.2017": "native_mvp"
+      "16.09.2017": "native_mvp",
+      "29.05.2025": "developer"
     }
   },
   {
@@ -3224,7 +3225,7 @@
       "initial": "spieler",
       "12.07.2023": "content",
       "01.12.2024": "content_plus",
-      "12.03.2025": "native_expert"
+      "12.03.2025": "spieler"
     }
   },
   {
