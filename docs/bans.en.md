@@ -29,7 +29,7 @@ You have to attach any sort of evidence to your post. Usually, videos are the on
  
 ### Appeals 
 You can apologise for a ban or mute at any time - regardless of how long the ban lasts or how many times you have already been banned.
-You can submit an apology in the [Discord](https://timolia.de/discord) via a support ticket or alternatively by direct message here <a href="https://twitter.com/messages/compose?recipient_id=385909409" target="_blank">on Twitter</a>.
+You can submit an apology in the [Discord](https://timolia.de/discord) via a support ticket or alternatively by direct message <a href="https://twitter.com/messages/compose?recipient_id=385909409" target="_blank">here</a> on Twitter.
 Please note: The more often you have been banned or muted in the last year, the lower the chance that your apology will lead to a shortening of your ban period or a complete banishment.
  
 ### Prescription of bans 

@@ -56,7 +56,8 @@ Ebenso ist es verboten, Spielern durch gefälschte Reports einen Regelverstoß a
 Das Boosten seiner Stats in den verschiedenen Spielmodi durch die Anwendung unfairer Spielmethoden ist auf Timolia nicht erlaubt. Hierunter zählen auch, aber nicht nur, Kits, die einem gegenüber dem Gegner einen erhebliche Vorteil durch gleiche oder ähnliche Items bieten.
 
 ## §7 – 1v1
-###Abs. 1 - Ranked-System und Freitagsturnier
+### Abs. 1 - Ranked-System und Freitagsturnier
+
 Entschuldigungen und Gewichtung:
 
 Jeder Spieler hat jederzeit die Möglichkeit, sich bei einem Verstoß gegen die Ranked Regeln zu entschuldigen. Je häufiger man für entsprechende Verstöße in Vergangenheit bestraft wurde, desto geringer ist die Chance, dass deine Entschuldigung zu einer Verkürzung der Bannzeit oder einer vollständigen Entbannung führt.

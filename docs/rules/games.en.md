@@ -54,16 +54,9 @@ It is also forbidden to use fake reports to accuse players of a rule violation t
 ## §6 – Statsboosting
 Boosting your stats in all kinds of game modes by using unfair game methods is not allowed on Timolia. This includes, but is not limited to, kits that give you a significant advantage over your opponent by having the same or similar items.
 
-## §7 – 1v1 kits
-- <u>Crash kits</u>: Crash kits are 1v1 kits which "freeze" a player's Minecraft client, crash it or prevent players from playing on the server. 
-All kits of this kind are prohibited on Timolia.
-- <u>Cosmetic kits</u>:
-Cosmetic kits are 1v1 kits created with a modified Minecraft client, which includes changes to effect properties, item properties and the modification 
-of the number of hearts that cannot be done with an unmodified Minecraft client. All kits of this type are also prohibited and will be deleted. 
-Should a user recreate and use a deleted kit, this will be punished with a ban.
-
 ## §7 – 1v1
-###Paragraph 1 - ranked system and Friday Tournament
+### Paragraph 1 - ranked system and Friday Tournament
+
 Apologies and weighting:
 
 Every player has the opportunity to apologise at any time for a violation of the ranked rules. The more often you have been punished for such offences in the past, 
