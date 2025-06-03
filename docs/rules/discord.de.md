@@ -11,7 +11,7 @@ Das Timolia-Team erwartet von jedem Spieler ein faires und respektvolles Verhalt
 ### Beleidigungen
 Sämtliche Beleidigungen sind verboten.
 - <u>Diskriminierung</u>: Das Ausschließen, Beleidigen und Hetzen gegen andere Nationalitäten, Ethnien, Glaubensrichtungen, Sexualitäten, Minderheiten oder sonstiger Gruppen ist auf Timolia verboten und wird ohne Verwarnung gebannt.
-- <u>Nationalsozialismus</u>: Nationalsozialistische Äußerungen, Parolen und Ähnliches sind auf Timolia verboten und werden ohne Verwarnung gebannt.
+- <u>Nationalsozialismus</u>: Nationalsozialistische Äußerungen, Parolen, die Verbreitung jeglichen Kontexts und Ähnliches sind auf Timolia verboten und werden ohne Verwarnung gebannt.
 
 ### Werbung und Phishing/Betrug
 - <u>Eigenwerbung</u>: Eigenwerbung auf dem Discord Server ist erlaubt, vorausgesetzt, dass diese nicht aufdringlich platziert oder gespammt wird.
