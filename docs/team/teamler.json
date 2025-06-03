@@ -719,14 +719,11 @@
     "name": "MCExpertDE",
     "uuid": "bda5ddac-1033-4220-9752-0efbaef1da5c",
     "sex": "male",
-    "fields": [
-      "Geschäftsführung",
-      "Verwaltung"
-    ],
     "rank_history": {
       "initial": "administrator",
       "08.11.2019": "management",
-      "10.11.2021": "administrator"
+      "10.11.2021": "administrator",
+      "01.06.2025": "native_expert"
     }
   },
   {
