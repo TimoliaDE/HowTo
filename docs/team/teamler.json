@@ -2714,7 +2714,7 @@
     "responsibilities_main": [
       "Entschuldigungen",
       "Zu Unrecht gebannt",
-      "Management des Developer-Teams",
+      "Management des Development-Teams",
       "Teamlerauswahl Development"
     ],
     "responsibilities_secondary": [
@@ -3491,6 +3491,18 @@
     "rank_history": {
       "initial": "expert",
       "26.05.2025": "builder"
+    }
+  },
+  {
+    "name": "HabsGleich",
+    "uuid": "ea88471c-2d58-407e-af5c-6c37b4909038",
+    "sex": "male",
+    "fields": [
+      "Plugin Development"
+    ],
+    "rank_history": {
+      "initial": "spieler",
+      "03.06.2025": "developer"
     }
   }
 ]
