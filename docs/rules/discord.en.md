@@ -11,7 +11,7 @@ The Timolia team expects fair and respectful behavior from every player.
 ### Insults
 All insults are prohibited.
 - <u>Discrimination</u>: Exclusion, insulting and agitating against other nationalities, ethnic groups, religions, sexualities, minorities or other groups is prohibited on Timolia and will be banned without warning.
-- <u>National Socialism</u>: National Socialist statements, slogans and similar are forbidden on Timolia and will be banned without warning.
+- <u>National Socialism</u>: National socialist statements, slogans, the dissemination of any context and the like are prohibited on Timolia and will be banned without warning.
 
 ### Advertising and phishing/fraud
 - <u>Self-promotion</u>: Self-promotion on the Discord Server is allowed, provided that it is not intrusively placed or spammed.

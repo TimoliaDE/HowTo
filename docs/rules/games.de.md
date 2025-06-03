@@ -45,6 +45,8 @@ Dazu zählt auch der reine Versuch.
 
 ### Abs. 3 – Skins und Usernamen
 Anstößige, beleidigende, rassistische oder nationalsozialistische Skins und Usernamen sind verboten. Dazu zählen zum Beispiel Nacktskins, Hitlerskins und auch Capes mit entsprechenden Symbolen.
+Timolia behält sich zudem das Recht vor, Skins, Capes und Ähnliches zu sperren, die aus unserer Sicht moralisch unvereinbare Werte vermitteln, auch wenn sie nicht ausdrücklich unter die oben genannten Kategorien fallen.
+
 
 ## §5 – Vortäuschen von Hacks & gefälschte Reports
 Die bewusste Irreführung von Teammitgliedern ist verboten. Sanktionen, die daraus entstehen, werden nicht wieder aufgehoben.
@@ -54,15 +56,12 @@ Ebenso ist es verboten, Spielern durch gefälschte Reports einen Regelverstoß a
 Das Boosten seiner Stats in den verschiedenen Spielmodi durch die Anwendung unfairer Spielmethoden ist auf Timolia nicht erlaubt. Hierunter zählen auch, aber nicht nur, Kits, die einem gegenüber dem Gegner einen erhebliche Vorteil durch gleiche oder ähnliche Items bieten.
 
 ## §7 – 1v1
-###Abs. 1 - Ranked-System 
+###Abs. 1 - Ranked-System und Freitagsturnier
 Entschuldigungen und Gewichtung:
 
-Jeder Spieler hat jederzeit die Möglichkeit, sich bei einem Verstoß gegen die Ranked Regeln zu entschuldigen. In dieser Entschuldigung muss der Spieler auf seinen Bann eingehen und dementsprechende Reue zeigen.
-Sollte ein Spieler mehrfach negativ auffallen erhöhen sich die Strafen, bspw:
-Verwarnung -> 5 Tage Ranked Bann -> 10 Tage Ranked Bann -> 20 Tage Ranked Bann -> Season Ranked Bann
+Jeder Spieler hat jederzeit die Möglichkeit, sich bei einem Verstoß gegen die Ranked Regeln zu entschuldigen. Je häufiger man für entsprechende Verstöße in Vergangenheit bestraft wurde, desto geringer ist die Chance, dass deine Entschuldigung zu einer Verkürzung der Bannzeit oder einer vollständigen Entbannung führt.
 
 Regeln:
-
 - <u> VPN</u>: (bei Verstoß Ranked Bann aus aktueller Season + Elo Reset)
 Das Spielen auf einer VPN oder anderweitiges Verschleiern der eigenen IP ist verboten.
 
@@ -73,24 +72,19 @@ Das Spielen in der Ranked Queue ist nur auf eigenen Accounts erstattet.
 Das Spielen mit mehreren Accounts ist verboten.
 
 - <u> Elo Manipulation</u>: (bei Verstoß 5 Tage Ranked Bann + Match Invalidierung)
-Das Manipulieren von Elo wie z.B. vorsätliches Verlieren, das Bitten um Surrender o.Ä. ist verboten.
+Das Manipulieren von Elo wie z.B. vorsätzliches Verlieren, das Bitten um Surrender o.Ä. ist verboten.
 
 - <u> Camping & Kiting</u>: (bei Verstoß Verwarnung + Match Invalidierung)
 Das Campen wie z.B. hochbauen in der Ecke ist verboten.
 Das Vollheilen oder unnötige Herauszögern eines Kampfes durch Rodden, das Setzen von Wassereimern o.Ä. (Kiting), ist verboten.
 
-### Abs. 2 – Ranked-System und Freitagsturnier
-Das Spielen in der Ranked Queue und im Freitagsturnier ist nur auf eigenen Accounts gestattet.
-Insbesondere ist das Teilen von Accounts sowie das Verschleiern der eigenen IP-Adresse (Proxy, VPN, Tor und Ähnliche) verboten.
-
-### Abs. 3 – Kits
-- <u>Crash-Kits</u>: Als Crash-Kits werden 1v1-Kits bezeichnet, welche den Minecraft-Client eines Spielers “einfrieren” lassen, zum Absturz bringen oder verhindern, dass Spieler auf dem Server spielen können. 
-Sämtliche Kits dieser Art sind auf Timolia verboten.
-- <u>Kosmetische Kits</u>:
-Als kosmetische Kits werden 1v1-Kits bezeichnet, welche mit einem modifizierten Minecraft-Client erstellt wurden und Veränderungen an Eigenschaften von Effekten, Eigenschaften der Items und die Veränderung 
-der Anzahl der Herzen beinhalten, die man nicht mit einem unveränderten Minecraft-Client bewirken kann. Sämtliche Kits dieser Art sind ebenfalls verboten und werden von uns gelöscht. 
-Sollte ein User ein gelöschtes Kit erneut erstellen und benutzen, wird dies mit einem Bann geahndet.
-
+### Abs. 2 – Unangebrachte Kits
+Als unangebrachte Kits gelten sämtliche 1v1-Kits, die nach Einschätzung von Timolia ein faires oder angenehmes Spielerlebnis stören. Dazu zählen unter anderem:
+- <u>Crash-Kits</u>: Kits, die den Minecraft-Client eines Spielers einfrieren lassen, zum Absturz bringen oder die Teilnahme am Spiel verhindern.
+- <u>Kosmetische Kits</u>: Kits, die mit einem modifizierten Client erstellt wurden und Veränderungen beinhalten, die mit einem unveränderten Minecraft-Client nicht möglich sind – z.B. veränderte Effekte, Item-Eigenschaften oder Herzanzahl.
+- <u>Provokative oder trollende Kits</u>: Etwa beleidigende Benennungen, symbolische Provokation oder gezielt unspielbare Kit-Konstruktionen.
+- <u>Hacker-Kits</u>: Kits, die absichtlich für die Nutzung von unfairen Vorteilen konzipiert wurden.
+Alle Kits dieser Art sind auf Timolia verboten. Sie werden von uns gelöscht. Das wiederholte Erstellen oder Verwenden solcher Kits kann mit einem Bann geahndet werden.
 
 ## §8 – JumpWorld
 Die allgemeinen Timolia-Regeln gelten auch für erstellte Welten in JumpWorld. So sind jegliche Arten von rassistischen, anstößigen oder beleidigenden Bauwerken, Weltnamen oder Formulierungen auf Schildern verboten.

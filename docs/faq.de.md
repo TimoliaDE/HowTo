@@ -102,11 +102,9 @@ der Games-Lobbies geschickt. Der Kick-Value der Person erhöht sich dabei um 1. 
 niedrigeren Kick-Value haben. Sobald ein Spiel startet, wird jeder Person wieder der Standard Kick-Value zugewiesen.
 
 ### Wo kann ich mich entschuldigen?
-Wenn du für einen Zeitraum von mindestens zehn Tagen gebannt wurdest, kannst du mit einem Entbannungsantrag eine Bannverkürzung von maximal 1/3 deiner Bannzeit bekommen, insofern deine Entschuldigung sehr gut geschrieben ist. 
-Diese kannst du in unserem [Discord](https://timolia.e/discord) in einem Support-Channel schreiben, alternativ kannst du uns auch <a href="https://twitter.com/messages/compose?recipient_id=385909409" target="_blank">hier</a>
-auf Twitter eine DM mit deiner Entschuldigung zukommen lassen. Achtung! Solltest du zweimal wegen Hacking gebannt worden sein oder eine Bannzeit von insgesamt über 46 Tagen haben, 
-musst du erst warten, bis deine Banntage auf 46 Tage oder weniger verjährt sind. Weiterhin kannst du dich nur entschuldigen, wenn du dich in den letzten 6 Monaten weder bereits 3x entschuldigt hast, noch bereits ein Bann in diesem Zeitraum aufgehoben wurde. Über den Minecraft-Server `register.timolia.de` kannst du dich auf unserem Discord-Server registrieren, sofern du dies nicht schon getan hast. 
-Mehr über Entbannungsanträge und Entschuldigungen kannst du [hier] lesen(/bans/).
+Du kannst dich jederzeit für einen Bann oder Mute entschuldigen. Die Entschuldigung kannst du entweder in einem Support-Ticket auf unserem [Discord](https://timolia.de/discord) oder per Direktnachricht <a href="https://twitter.com/messages/compose?recipient_id=385909409" target="_blank">hier</a> auf Twitter einreichen.
+
+Beachte: Je öfter du innerhalb des letzten Jahres gebannt oder gemuted wurdest, desto unwahrscheinlicher ist es, dass dein Entbannungsantrag erfolgreich ist.
 
 ### Was sind Achievements?
 Achievements kann man während des Spielens auf Timolia abschließen. Eine Übersicht über alle Achievements findest du unter dem Befehl `/achievements`.

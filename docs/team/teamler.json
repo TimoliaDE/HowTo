@@ -719,10 +719,6 @@
     "name": "MCExpertDE",
     "uuid": "bda5ddac-1033-4220-9752-0efbaef1da5c",
     "sex": "male",
-    "fields": [
-      "Geschäftsführung",
-      "Verwaltung"
-    ],
     "rank_history": {
       "initial": "administrator",
       "08.11.2019": "management",
@@ -1404,16 +1400,14 @@
     "name": "xiantiel",
     "uuid": "fff54f1a-e61d-4af5-90ab-f925f1b2d0a6",
     "sex": "male",
-    "fields": [
-      "Verwaltung"
-    ],
     "rank_history": {
       "initial": "administrator",
       "13.12.2018": "native_expert",
       "28.08.2019": "administrator",
       "08.11.2019": "management",
       "02.04.2021": "sysadmin",
-      "10.11.2021": "developer_plus"
+      "10.11.2021": "developer_plus",
+      "01.06.2025": "native_expert"
     }
   },
   {
@@ -3405,7 +3399,8 @@
     ],
     "rank_history": {
       "initial": "expert",
-      "28.07.2024": "supporter"
+      "28.07.2024": "supporter",
+      "01.06.2025": "supporter_plus"
     }
   },
   {
