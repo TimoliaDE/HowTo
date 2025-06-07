@@ -3504,5 +3504,17 @@
       "initial": "spieler",
       "03.06.2025": "developer"
     }
+  },
+  {
+    "name": "42nao",
+    "uuid": "94a28bab-f81d-402b-b82c-f6e74485cd13",
+    "sex": "male",
+    "fields": [
+      "Plugin Development"
+    ],
+    "rank_history": {
+      "initial": "spieler",
+      "03.06.2025": "developer"
+    }
   }
 ]
