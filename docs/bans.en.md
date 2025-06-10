@@ -28,21 +28,15 @@ You have to attach any sort of evidence to your post. Usually, videos are the on
 
  
 ### Appeals 
-You can shorten your ban by up to 1/2 of your ban time in case you have been banned for 10 days or longer. If you have been banned permanently from Timolia, your ban days will be lowered to 30.
-You can write your appeal in a supportticket on our [Discord](https://timolia.de/discord).
-If you exceed 46 ban days, you must wait until your ban days have expired to 46 days or less.
-Please also note that you can only write an appeal in case you have not apologized 3 times during the past 6 months, nor have you already been unbanned in that time period.
-In case you do not yet have an verified Discord account, you can verify on the Minecraft server `register.timolia.de`. 
-Alternatively, you can contact us <a href="https://twitter.com/messages/compose?recipient_id=385909409" target="_blank">on Twitter</a> with your appeal. 
+You can apologise for a ban or mute at any time - regardless of how long the ban lasts or how many times you have already been banned.
+You can submit an apology in the [Discord](https://timolia.de/discord) via a support ticket or alternatively by direct message <a href="https://twitter.com/messages/compose?recipient_id=385909409" target="_blank">here</a> on Twitter.
+Please note: The more often you have been banned or muted in the last year, the lower the chance that your apology will lead to a shortening of your ban period or a complete banishment.
  
 ### Prescription of bans 
 For any rule violation, you will be banned for a <strong>maximum of 30 days</strong>. After that, you can play on Timolia again. 
-However, the ban days are kept and when breaking the rules again, the newly received ban days will be added upon the old ban days. 
-Once the total sum of <strong>all</strong> ban days exceeds <strong>30 days</strong>, you will be <strong>permanently</strong> banned. 
- 
+However, the ban days are kept and when breaking the rules again, the newly received ban days will be added upon the old ban days.
+
 Since people chance, realize their mistakes and get better, we introduced the <strong>prescription</strong> of bans. 
 It ensures that the ban days are not kept forever but instead degrades over time. Once you reach 30 ban days or less, you can play on Timolia again. 
 The prescription starts <strong>6 months</strong> after the start of the ban. From then on, every month <strong>3 days</strong> will be deducted. 
 Therefore, when having been banned for 30 days, after 7 months 27 ban days are left, after 8 months 24 days and after 16 months the ban is fully decayed.
- 
- 

@@ -45,6 +45,7 @@ Also, permanent exclusion from the Timolia network takes place. This also includ
 
 ### Paragraph 3 – Skins and usernames
 Offensive, insulting, racist or national socialist skins and usernames are prohibited. This includes, for example, nude skins, Hitler skins and also capes with corresponding symbols.
+Timolia also reserves the right to block skins, capes and the like which, in our view, convey morally incompatible values, even if they do not explicitly fall under the above categories.
 
 ## §5 – Pretending using hacks & faking reports
 The intentional misleading of team members is prohibited. Penalties arising from this will not be lifted.
@@ -53,19 +54,13 @@ It is also forbidden to use fake reports to accuse players of a rule violation t
 ## §6 – Statsboosting
 Boosting your stats in all kinds of game modes by using unfair game methods is not allowed on Timolia. This includes, but is not limited to, kits that give you a significant advantage over your opponent by having the same or similar items.
 
-## §7 – 1v1 kits
-- <u>Crash kits</u>: Crash kits are 1v1 kits which "freeze" a player's Minecraft client, crash it or prevent players from playing on the server. 
-All kits of this kind are prohibited on Timolia.
-- <u>Cosmetic kits</u>:
-Cosmetic kits are 1v1 kits created with a modified Minecraft client, which includes changes to effect properties, item properties and the modification 
-of the number of hearts that cannot be done with an unmodified Minecraft client. All kits of this type are also prohibited and will be deleted. 
-Should a user recreate and use a deleted kit, this will be punished with a ban.
-
 ## §7 – 1v1
-###Paragraph 1 - ranked system
+### Paragraph 1 - ranked system and Friday Tournament
+
 Apologies and weighting:
 
-Every player has the opportunity to apologize for a violation of the ranked rules at any time. In this apology, the player must address their ban and show appropriate remorse. If a player repeatedly stands out negatively, the penalties will increase, e.g.: Warning -> 5 days ranked ban -> 10 days ranked ban -> 20 days ranked ban -> season ranked ban
+Every player has the opportunity to apologise at any time for a violation of the ranked rules. The more often you have been punished for such offences in the past, 
+the lower the chance that your apology will lead to a shortening of the ban period or a complete banishment.
 
 Rules:
 
@@ -79,17 +74,18 @@ Rules:
 
 - <u>Camping & kiting</u>: (violation results in warning + match invalidation) Camping, such as towering in a corner, is prohibited. Healing full or unnecessarily delaying a fight by running, placing water buckets, etc. (kiting), is prohibited.
 
-### Paragraph 2 – Ranked System and Friday Tournament
-Playing in the Ranked Queue and in the Friday Tournament is only allowed on your own accounts.
-In particular, sharing accounts and disguising your own IP address (proxy, VPN, Tor and similar) is prohibited.
+### Paragraph 2 – Kits
+Inappropriate kits are all 1v1 kits that, in Timolia's opinion, disrupt a fair or enjoyable gaming experience. These include, among others:
 
-### Paragraph 3 – Kits
-- <u>Crash kits</u>: Crash kits are 1v1 kits which "freeze" a player's Minecraft client, crash it or prevent players from playing on the server.
-  All kits of this kind are prohibited on Timolia.
-- <u>Cosmetic kits</u>:
-  Cosmetic kits are 1v1 kits created with a modified Minecraft client, which includes changes to effect properties, item properties and the modification
-  of the number of hearts that cannot be done with an unmodified Minecraft client. All kits of this type are also prohibited and will be deleted.
-  Should a user recreate and use a deleted kit, this will be punished with a ban.
+- <u>Crash kits</u>: Kits that cause a player's Minecraft client to freeze, crash or prevent participation in the game.
+
+- <u>Cosmetic kits</u>: Kits created with a modified client that include changes that are not possible with an unmodified Minecraft client - for example, altered effects, item properties, or heart counts.
+
+- <u>Provocative or trolling kits</u>: Such as offensive naming, symbolic provocation or deliberately unplayable kit designs.
+
+- <u>Hacker kits</u>: Kits intentionally designed to take unfair advantage.
+
+All kits of this type are banned on Timolia. They will be deleted by us. Repeated creation or use of such kits may be penalised with a ban.
 
 ## §8 – JumpWorld
 The general Timolia rules also apply to created worlds in JumpWorld. Thus, any kind of racist, offensive or insulting buildings, world names or phrases on signs are prohibited.
