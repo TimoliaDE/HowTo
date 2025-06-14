@@ -2380,7 +2380,8 @@
       "16.07.2019": "native_expert",
       "23.10.2019": "builder",
       "02.12.2020": "developer",
-      "28.11.2021": "developer_plus"
+      "28.11.2021": "developer_plus",
+      "14.04.2024": "sysadmin"
     }
   },
   {
@@ -2590,7 +2591,8 @@
     "sex": "male",
     "rank_history": {
       "initial": "expert",
-      "02.02.2020": "builder"
+      "02.02.2020": "builder",
+      "12.06.2025": "native_expert"
     }
   },
   {
@@ -3010,7 +3012,8 @@
       "22.05.2022": "creator",
       "18.02.2023": "content",
       "25.11.2023": "native_expert",
-      "18.02.2025": "content"
+      "18.02.2025": "content",
+      "12.06.2025": "native_expert"
     },
     "responsibilities_main": [
       "Social Media",
@@ -3347,14 +3350,12 @@
     "name": "Dustin_284",
     "uuid": "60afe361-2703-4313-9d0e-f3b40a4ca2ce",
     "sex": "male",
-    "fields": [
-      "Plugin Development"
-    ],
     "rank_history": {
       "initial": "spieler",
       "24.01.2024": "developer",
       "05.12.2024": "native_mvp_plus",
-      "18.02.2025": "developer"
+      "18.02.2025": "developer",
+      "12.06.2025": "native_mvp_plus"
     }
   },
   {
