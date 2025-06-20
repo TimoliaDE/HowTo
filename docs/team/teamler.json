@@ -3517,5 +3517,23 @@
       "initial": "spieler",
       "03.06.2025": "developer"
     }
+  },
+  {
+    "name": "Lewi_100",
+    "uuid": "02692628-882b-4b26-952d-a0a0a89bd0b6",
+    "sex": "male",
+    "rank_history": {
+      "initial": "mvp_plus",
+      "20.06.2025": "supporter"
+    }
+  },
+  {
+    "name": "yLugge",
+    "uuid": "38f2c240-f67f-4701-98e6-fef256080d2c",
+    "sex": "male",
+    "rank_history": {
+      "initial": "spieler",
+      "20.06.2025": "supporter"
+    }
   }
 ]
