@@ -10,7 +10,7 @@ Die englische Dev-Version unter [https://dev.howto-en.timolia.de/](https://dev.h
 (Dies gilt nur für alle Branches in diesem Projekt, es gibt aktuell keine Möglichkeit für andere Contributor ihre Texte zu "testen")
 
 ## Contributing
-Jegliche Inhalte des HowTos werden alphabetisch sortiert (z.B. Befehle, Namen, Aufgabenbereiche, Verantwortlichkeiten, ...)
+Jegliche Inhalte des HowTos werden alphabetisch sortiert (z.B. Befehle, Namen, Aufgabenbereiche, Verantwortlichkeiten, ...).
 Dabei gilt grundsätzlich die Idee der Reihenfolge des [ASCII-Codes](http://www.asciitable.com/index/asciifull.gif). Die folgende Reihenfolge wird jedoch angewandt:
 - Unterstriche
 - Zahlen
