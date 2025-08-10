@@ -63,6 +63,7 @@ Entschuldigungen und Gewichtung:
 Jeder Spieler hat jederzeit die Möglichkeit, sich bei einem Verstoß gegen die Ranked Regeln zu entschuldigen. Je häufiger man für entsprechende Verstöße in Vergangenheit bestraft wurde, desto geringer ist die Chance, dass deine Entschuldigung zu einer Verkürzung der Bannzeit oder einer vollständigen Entbannung führt.
 
 Regeln:
+
 - <u> VPN</u>: (bei Verstoß Ranked Bann aus aktueller Season + Elo Reset)
 Das Spielen auf einer VPN oder anderweitiges Verschleiern der eigenen IP ist verboten.
 
@@ -152,4 +153,4 @@ In UHC gibt es verschiedene Regeln, die zu Beginn jeder Runde angezeigt werden. 
 
 <strong>Das Team behält sich das Recht vor, bestimmtes Handeln zu sanktionieren, welches nicht explizit in den Regeln aufgelistet ist.</strong>
 
-Letzte Aktualisierung: 10. Januar 2023
+Letzte Aktualisierung: 3. Juni 2025

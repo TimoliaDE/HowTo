@@ -14,10 +14,13 @@ Here in the howto, there are far too few cats. Therefore, we added a few sweet c
 ![](catsimg/keks.png)
 KEKS
 
+![](catsimg/meine.png)
+My
+
 <br />
 <br />
 <br />
 <br />
 <br />
 
-A cooperation of Julian and Daniel
+A cooperation of Julian and Daniel (mostly)

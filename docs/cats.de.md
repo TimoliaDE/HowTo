@@ -15,6 +15,9 @@ Kratze Katze
 ![](catsimg/keks.png)
 KEKS
 
+![](catsimg/meine.png)
+Meine
+
 <br />
 
 Eine Kooperation von Julian und Daniel

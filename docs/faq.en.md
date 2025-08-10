@@ -66,7 +66,7 @@ The builder team creates new maps and lobbies for all occasions and game modes o
 They supervise the architectural design of new game modes and manage external map submissions.
 
 - <b><span class='content-plus'>Content+</span></b>:
-With their expertise in the functioning of the network, they manage the organization of individual updates and provide advice and support.
+They have extensive experience in the creative field. They take on supervisory tasks, coordinate projects, and act as a point of contact for the content team.
 
 - <b><span class='content'>Content</span></b>:
 As a creative streak, they are responsible for a wide range of interests from graphic design to translation.
