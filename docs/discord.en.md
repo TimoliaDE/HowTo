@@ -16,8 +16,7 @@ You can either view the rules of the Discord server in the channel [#regeln](htt
 
 ## Support
 
-We offer support on this server in chat form. Should the #communitysupport not be able to clarify a question or the concern is related to confidential information, a support chat can be created with /support <problem description>. In this chat, similar to the TS help channel, individual team members can join and help further.
-Voice support is not offered on Discord, neither in voice channels nor by voice call or similar. For voice channels and support, our Teamspeak (ts.timolia.de) and the help channel there are available.
+We offer support on this server in chat form. If the communitysupport is unable to answer a question or the issue involves confidential information, a support chat can be created in `#support`. The team will try to resolve your issue and help you further.
 
 ## Report bugs
 Bugs can be reported in the channel bug-reports.

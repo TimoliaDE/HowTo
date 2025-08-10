@@ -149,4 +149,4 @@ In UHC there are several rules that are displayed at the beginning of each round
 
 <strong>The team reserves the right to sanction certain actions that are not explicitly listed in the rules.</strong>
 
-Last updated: February 1st, 2023
+Last updated: June 3rd, 2025

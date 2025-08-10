@@ -62,7 +62,7 @@ Das Bauteam kreiert neue Maps und Lobbys für alle Gelegenheiten und Spielmodi a
 Sie betreuen die architektonische Gestaltung neuer Modi und betreuen externe Mapeinsendungen.
 
 - <b><span class='content-plus'>Content+</span></b>:
-Mit ihrer Erfahrung über die Funktion des Netzwerks leiten sie die Organisation einzelner Updates und stehen mit Rat und Tat zur Seite.
+Sie verfügen über umfangreiche Erfahrung im kreativen Bereich. Sie übernehmen leitende Aufgaben, koordinieren Projekte und stehen dem Content-Team als Ansprechpartner zur Seite.
 
 - <b><span class='content'>Content</span></b>:
 Als kreative Ader sind sie für die verschiedensten Belange von Grafikdesign bis Übersetzung zuständig.

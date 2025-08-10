@@ -10,7 +10,7 @@ Die Regeln des Discord-Servers kannst du dem Channel [#regeln](https://discord.c
 
 ## Support
 
-Wir bieten Support auf diesem Server in Chatform an. Sollte der communitysupport eine Frage nicht klären können oder das Anliegen mit vertraulichen Informationen in Verbindung stehen, so kann in #support ein Supportchat erstellt werden. In diesen wird das Team versuchen dein Anliegen zu klären und dir weiterhelfen.
+Wir bieten Support auf diesem Server in Chatform an. Sollte der communitysupport eine Frage nicht klären können oder das Anliegen mit vertraulichen Informationen in Verbindung stehen, so kann in `#support` ein Supportchat erstellt werden. In diesen wird das Team versuchen dein Anliegen zu klären und dir weiterhelfen.
 
 ## Bugs melden
 Bugs können im Channel bug-reports gemeldet werden.
