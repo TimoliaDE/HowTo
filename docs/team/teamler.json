@@ -2944,31 +2944,14 @@
     "name": "q8h",
     "uuid": "c2505ed9-8600-4570-a73f-0af05972da4f",
     "sex": "male",
-    "responsibilities_main": [
-      "Gewinnspielorganisation",
-      "Grafikdesign",
-      "JumpWorld Events",
-      "JumpWorld Verifizierung",
-      "Map-Einsendungen",
-      "Social Media",
-      "Youtuber-Ränge"
-    ],
-    "responsibilities_secondary": [
-      "Building",
-      "Timolia Turnier Organisation",
-      "Entschuldigungen",
-      "Timolia HowTo",
-      "Community-Discord",
-      "Teamlerauswahl Support",
-      "Zu Unrecht gebannt"
-    ],
     "rank_history": {
       "initial": "expert",
       "02.05.2022": "supporter",
       "16.09.2022": "native_expert",
       "22.06.2023": "supporter",
       "07.01.2024": "supporter_plus",
-      "02.03.2025": "moderator"
+      "02.03.2025": "moderator",
+      "25.08.2025": "native_expert"
     }
   },
   {
