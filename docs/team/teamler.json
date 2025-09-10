@@ -2679,26 +2679,12 @@
     "name": "ALetsPlay",
     "uuid": "036e5dee-05ba-409c-905c-314ac6cbc95b",
     "sex": "male",
-    "responsibilities_main": [
-      "Gewinnspielorganisation",
-      "JumpWorld Events",
-      "JumpWorld Verifizierung",
-      "Management des Content-Teams",
-      "Social Media",
-      "Teamlerauswahl Content",
-      "Community-Discord"
-    ],
-    "responsibilities_secondary": [
-      "Teamlerauswahl Support"
-    ],
-    "fields": [
-      "Public Relations"
-    ],
     "rank_history": {
       "initial": "expert",
       "30.01.2021": "supporter",
       "07.08.2022": "supporter_plus",
-      "07.01.2024": "moderator"
+      "07.01.2024": "moderator",
+      "07.09.2025": "native_expert"
     }
   },
   {
@@ -2958,31 +2944,14 @@
     "name": "q8h",
     "uuid": "c2505ed9-8600-4570-a73f-0af05972da4f",
     "sex": "male",
-    "responsibilities_main": [
-      "Gewinnspielorganisation",
-      "Grafikdesign",
-      "JumpWorld Events",
-      "JumpWorld Verifizierung",
-      "Map-Einsendungen",
-      "Social Media",
-      "Youtuber-Ränge"
-    ],
-    "responsibilities_secondary": [
-      "Building",
-      "Timolia Turnier Organisation",
-      "Entschuldigungen",
-      "Timolia HowTo",
-      "Community-Discord",
-      "Teamlerauswahl Support",
-      "Zu Unrecht gebannt"
-    ],
     "rank_history": {
       "initial": "expert",
       "02.05.2022": "supporter",
       "16.09.2022": "native_expert",
       "22.06.2023": "supporter",
       "07.01.2024": "supporter_plus",
-      "02.03.2025": "moderator"
+      "02.03.2025": "moderator",
+      "25.08.2025": "native_expert"
     }
   },
   {
@@ -3294,7 +3263,8 @@
     ],
     "rank_history": {
       "initial": "spieler",
-      "25.11.2023": "content"
+      "25.11.2023": "content",
+      "07.09.2025": "content_plus"
     }
   },
   {
@@ -3342,7 +3312,8 @@
       "initial": "spieler",
       "18.12.2023": "developer",
       "10.04.2024": "native_mvp",
-      "24.07.2024": "developer"
+      "24.07.2024": "developer",
+      "07.09.2025": "developer_plus"
     }
   },
   {
@@ -3459,7 +3430,7 @@
     ],
     "rank_history": {
       "initial": "mvp_plus",
-      "13.01.2025": "developer"
+      "12.01.2025": "developer"
     }
   },
   {
@@ -3481,7 +3452,8 @@
     ],
     "rank_history": {
       "initial": "spieler",
-      "21.03.2025": "developer"
+      "21.03.2025": "developer",
+      "07.09.2025": "developer_plus"
     }
   },
     {
@@ -3533,6 +3505,27 @@
     "rank_history": {
       "initial": "spieler",
       "20.06.2025": "supporter"
+    }
+  },
+  {
+    "name": "realvio",
+    "uuid": "e54ad5af-c7d7-43ed-b8b7-bbdf43d10747",
+    "sex": "male",
+    "fields": [
+      "Plugin Development"
+    ],
+    "rank_history": {
+      "initial": "spieler",
+      "26.08.2025": "developer"
+    }
+  },
+  {
+    "name": "derklaro",
+    "uuid": "bcc582ed-494d-4b93-86cb-b58564651a26",
+    "sex": "male",
+    "rank_history": {
+      "initial": "spieler",
+      "09.09.2025": "developer"
     }
   }
 ]
