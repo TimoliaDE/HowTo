@@ -24,7 +24,7 @@ To become Jump 'n' Run of the day a parcour needs to:
 
 - be published between 8 pm on day X-4 and 8 pm on day X-1
 - have a finish rate of 10% or higher considering all players who tried to finish it.
-- have at least 25 ratings
+- have at least 15 ratings
 - have a better raiting than any other parcour meeting these criterias
 
 ## Build mode
