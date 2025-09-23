@@ -232,7 +232,8 @@
     "uuid": "94fa217d-6e68-4b87-86ff-6156765c4a17",
     "sex": "male",
     "responsibilities_main": [
-      "Zu Unrecht gebannt"
+      "Zu Unrecht gebannt",
+      "Community-Discord"
     ],
     "fields": [
       "Plugin Development"
@@ -1543,6 +1544,10 @@
     "name": "RodspamExpertRU",
     "uuid": "0e23e989-7cfb-40f3-ad63-8a76c68bdd7d",
     "sex": "male",
+    "responsibilities_secondary": [
+      "Timolia Turnier Organisation",
+      "Community-Discord"
+    ],
     "rank_history": {
       "initial": "expert",
       "02.12.2018": "supporter",
@@ -1562,7 +1567,6 @@
       "Teamlerauswahl Content"
     ],
     "responsibilities_secondary": [
-      "JumpWorld Events",
       "Map-Einsendungen"
     ],
     "rank_history": {
@@ -2860,10 +2864,6 @@
     "name": "DevMoritz",
     "uuid": "9bc330fa-0e99-4c85-9396-cb63fb82297c",
     "sex": "male",
-    "responsibilities_main": [
-      "JumpWorld Events",
-      "JumpWorld Verifizierung"
-    ],
     "responsibilities_secondary": [
       "Gewinnspielorganisation",
       "Youtuber-Ränge"
@@ -2897,7 +2897,8 @@
     "responsibilities_main": [
       "Timolia Turnier Organisation",
       "Entschuldigungen",
-      "Zu Unrecht gebannt"
+      "Zu Unrecht gebannt",
+      "Community-Discord"
     ],
     "responsibilities_secondary": [
       "Teamlerauswahl Support",
@@ -2919,10 +2920,6 @@
     "responsibilities_main": [
       "Teamlerauswahl Builder und Timolia Creative",
       "Map-Einsendungen"
-    ],
-    "responsibilities_secondary": [
-      "JumpWorld Events",
-      "JumpWorld Verifizierung"
     ],
     "rank_history": {
       "initial": "spieler",
@@ -3216,7 +3213,8 @@
     "responsibilities_secondary": [
       "Timolia HowTo",
       "Teamlerauswahl Support",
-      "JumpWorld Verifizierung"
+      "JumpWorld Organisation",
+      "Community-Discord"
       ],
     "rank_history": {
       "initial": "expert",
@@ -3259,7 +3257,8 @@
     "uuid": "65c94956-e288-480c-abad-2949814e6e18",
     "sex": "female",
     "responsibilities_main": [
-      "Social Media"
+      "Social Media",
+      "Management des Content-Teams"
     ],
     "rank_history": {
       "initial": "spieler",
@@ -3282,8 +3281,10 @@
     "uuid": "5ba5d816-9642-4cd5-b79c-118ee62953b0",
     "sex": "male",
     "responsibilities_secondary": [
-      "JumpWorld Verifizierung",
-      "Youtuber-Ränge"
+      "JumpWorld Organisation",
+      "Youtuber-Ränge",
+      "Zu Unrecht gebannt",
+      "Entschuldigungen"
     ],
     "rank_history": {
       "initial": "expert",
@@ -3305,6 +3306,9 @@
     "name": "Grafjojo",
     "uuid": "55034041-35c1-4ba7-848d-6bcb21675738",
     "sex": "male",
+    "responsibilities_main": [
+      "JumpWorld Organisation"
+    ],
     "fields": [
       "Plugin Development"
     ],
@@ -3364,9 +3368,10 @@
     "name": "HomieFreddy",
     "uuid": "94a47015-1f39-43de-9d12-a755f6756d95",
     "sex": "male",
-    "responsibilities_secondary": [
-      "JumpWorld Events",
-      "JumpWorld Verifizierung"
+    "responsibilities_main": [
+      "Community-Discord",
+      "Jumpworld Organisation",
+      "Management des Content-Teams"
     ],
     "rank_history": {
       "initial": "expert",
@@ -3378,9 +3383,8 @@
     "name": "Fussbild",
     "uuid": "156d070c-5737-4db6-a8bb-cfedf1370117",
     "sex": "male",
-    "responsibilities_secondary": [
-      "JumpWorld Verifizierung",
-      "JumpWorld Events"
+    "responsibilities_main": [
+      "JumpWorld Organisation"
     ],
     "rank_history": {
       "initial": "expert",
@@ -3401,7 +3405,7 @@
     "name": "obsessiiv",
     "uuid": "332eab0b-2ba4-4f5b-a3e3-3a7000f9a58f",
     "sex": "female",
-    "responsibilities_main": [
+    "responsibilities_secondary": [
       "Social Media"
     ],
     "rank_history": {
@@ -3413,7 +3417,7 @@
     "name": "Joschiiiiii",
     "uuid": "b02ebfc4-3bc3-4d18-8830-e6ead231e80b",
     "sex": "male",
-    "responsibilities_main": [
+    "responsibilities_secondary": [
       "Social Media"
     ],
     "rank_history": {
@@ -3437,6 +3441,9 @@
     "name": "Nazecirou",
     "uuid": "340f4d15-6993-4081-b751-69f4038c50a5",
     "sex": "male",
+    "responsibilities_secondary": [
+      "JumpWorld Organisation"
+    ],
     "rank_history": {
       "initial": "spieler",
       "21.03.2025": "supporter"
@@ -3460,6 +3467,9 @@
     "name": "xBaumeisterin",
     "uuid": "af629224-11ec-4f7d-8782-05b2465e856c",
     "sex": "female",
+      "responsibilities_secondary": [
+        "JumpWorld Organisation"
+      ],
     "rank_history": {
       "initial": "expert",
       "26.05.2025": "builder"
@@ -3493,6 +3503,9 @@
     "name": "Lewi_100",
     "uuid": "02692628-882b-4b26-952d-a0a0a89bd0b6",
     "sex": "male",
+    "responsibilities_secondary": [
+      "JumpWorld Organisation"
+    ],
     "rank_history": {
       "initial": "mvp_plus",
       "20.06.2025": "supporter"
@@ -3502,6 +3515,11 @@
     "name": "yLugge",
     "uuid": "38f2c240-f67f-4701-98e6-fef256080d2c",
     "sex": "male",
+    "responsibilities_secondary": [
+      "Zu Unrecht gebannt",
+      "Entschuldigungen",
+      "Timolia Turnier Organisation"
+    ],
     "rank_history": {
       "initial": "spieler",
       "20.06.2025": "supporter"
@@ -3523,6 +3541,9 @@
     "name": "derklaro",
     "uuid": "bcc582ed-494d-4b93-86cb-b58564651a26",
     "sex": "male",
+    "fields": [
+      "Plugin Development"
+    ],
     "rank_history": {
       "initial": "spieler",
       "09.09.2025": "developer"
