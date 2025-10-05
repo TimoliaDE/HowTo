@@ -1346,7 +1346,8 @@
     "rank_history": {
       "initial": "developer_city",
       "16.09.2017": "native_mvp",
-      "29.05.2025": "developer"
+      "29.05.2025": "developer",
+      "05.10.2025": "native_expert"
     }
   },
   {
@@ -3107,7 +3108,8 @@
       "02.11.2023": "native_mvp",
       "04.01.2024": "supporter",
       "21.09.2024": "native_mvp",
-      "28.06.2025": "supporter"
+      "28.06.2025": "supporter",
+      "05.10.2025": "native_mvp"
     }
   },
   {
@@ -3176,7 +3178,8 @@
     ],
     "rank_history": {
       "initial": "spieler",
-      "14.06.2023": "content"
+      "14.06.2023": "content",
+      "05.10.2025": "native_mvp"
     }
   },
   {
@@ -3249,7 +3252,8 @@
     "sex": "male",
     "rank_history": {
       "initial": "pro_plus",
-      "12.09.2023": "supporter"
+      "12.09.2023": "supporter",
+      "05.10.2025": "native_mvp"
     }
   },
   {
@@ -3388,7 +3392,8 @@
     ],
     "rank_history": {
       "initial": "expert",
-      "19.09.2024": "content"
+      "19.09.2024": "content",
+      "05.10.2025": "builder"
     }
   },
   {
@@ -3492,7 +3497,8 @@
     "uuid": "94a28bab-f81d-402b-b82c-f6e74485cd13",
     "sex": "male",
     "fields": [
-      "Plugin Development"
+      "Plugin Development",
+      "Web Development"
     ],
     "rank_history": {
       "initial": "spieler",
@@ -3547,6 +3553,18 @@
     "rank_history": {
       "initial": "spieler",
       "09.09.2025": "developer"
+    }
+  },
+  {
+    "name": "AgentDimensium",
+    "uuid": "062ef03c-8d93-425d-8a19-8f75669b6d3c",
+    "sex": "male",
+    "responsibilities_secondary": [
+      "Timolia Turnier Organisation"
+    ],
+    "rank_history": {
+      "initial": "pro_plus",
+      "09.09.2025": "supporter"
     }
   }
 ]
