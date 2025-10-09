@@ -23,7 +23,6 @@ Splun is a combination of <strong>Spl</strong>eef and Jump and R<strong>un</stro
 - <strong>Fireball</strong>: Throw the fireball to destroy a part of the map
 - <strong>Golden Apple</strong>: You can fly
 - <strong>Obsidian</strong>: All opponents receive the Blindness effect
-- <strong>Phantom Membrane</strong>: You recieve the Slowfalling Effect
 - <strong>Pickaxe</strong>: You can mine blocks with a pickaxe
 - <strong>Redstone Torch</strong>: Throws all players in the air
 - <strong>Rocket</strong>: You can jump higher

@@ -22,7 +22,6 @@ Splun ist eine Kombination aus <strong>Spl</strong>eef und Jump and R<strong>un<
 - <strong>Feuerball</strong>: Du kannst den Feuerball werfen, und er wird nach einiger Zeit explodieren
 - <strong>Goldapfel</strong>: Du kannst fliegen
 - <strong>Obsidian</strong>: Alle Gegner erhalten den Blindness-Effekt
-- <strong>Phantomhaut</strong>: Du erhältst den Slowfalling-Effekt
 - <strong>Rakete</strong>: Du kannst höher springen
 - <strong>Redstone Fackel</strong>: Schleudert alle Spieler in die Luft
 - <strong>Schneeball</strong>: Wirf die Schneebälle, um Blöcke zu zerstören
