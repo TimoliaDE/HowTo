@@ -3173,9 +3173,7 @@
     "name": "IlluDarling",
     "uuid": "a79ae7e6-7b21-471a-b952-966a7022ddb5",
     "sex": "female",
-    "responsibilities_main": [
-      "Grafikdesign"
-    ],
+    "responsibilities_main": [],
     "rank_history": {
       "initial": "spieler",
       "14.06.2023": "content",
