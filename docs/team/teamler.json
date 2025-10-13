@@ -2372,8 +2372,7 @@
     "uuid": "6aa9c36c-89be-4b8a-bd24-9401e5085055",
     "sex": "male",
     "responsibilities_secondary": [
-      "Teamlerauswahl Builder und Timolia Creative",
-      "Teamlerauswahl Development"
+      "Teamlerauswahl Builder und Timolia Creative"
     ],
     "fields": [
       "Systemadministration",
@@ -3264,6 +3263,9 @@
       "Social Media",
       "Management des Content-Teams"
     ],
+    "responsibilities_secondary": [
+      "Teamlerauswahl Content"
+    ],
     "rank_history": {
       "initial": "spieler",
       "25.11.2023": "content",
@@ -3374,8 +3376,11 @@
     "sex": "male",
     "responsibilities_main": [
       "Community-Discord",
-      "Jumpworld Organisation",
+      "JumpWorld Organisation",
       "Management des Content-Teams"
+    ],
+    "responsibilities_secondary": [
+      "Teamlerauswahl Content"
     ],
     "rank_history": {
       "initial": "expert",
@@ -3388,7 +3393,8 @@
     "uuid": "156d070c-5737-4db6-a8bb-cfedf1370117",
     "sex": "male",
     "responsibilities_main": [
-      "JumpWorld Organisation"
+      "JumpWorld Organisation",
+      "Gamedesign"
     ],
     "rank_history": {
       "initial": "expert",
@@ -3460,6 +3466,9 @@
     "name": "Fedox",
     "uuid": "2c4e5e26-33af-4258-9be0-dd7ccd5c38e8",
     "sex": "male",
+    "responsibilities_main": [
+      "Teamlerauswahl Development"
+    ],
     "fields": [
       "Plugin Development",
       "Web Development"
