@@ -3577,5 +3577,14 @@
       "initial": "pro_plus",
       "09.09.2025": "supporter"
     }
+  },
+      {
+    "name": "JustVice",
+    "uuid": "1ea78772-cb82-48ca-b68f-25f64eb55391",
+    "sex": "male",
+    "rank_history": {
+      "initial": "spieler",
+      "02.11.2025": "builder"
+    }
   }
 ]
