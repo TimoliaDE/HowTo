@@ -2895,23 +2895,14 @@
     "name": "Luuuu",
     "uuid": "1a1e7c94-1281-4d7b-930f-be3bd8266949",
     "sex": "male",
-    "responsibilities_main": [
-      "Timolia Turnier Organisation",
-      "Entschuldigungen",
-      "Zu Unrecht gebannt",
-      "Community-Discord"
-    ],
-    "responsibilities_secondary": [
-      "Teamlerauswahl Support",
-      "Youtuber-Ränge"
-    ],
     "rank_history": {
       "initial": "expert",
       "22.11.2021": "supporter",
       "07.08.2022": "supporter_plus",
       "06.07.2023": "native_expert",
       "10.12.2024": "supporter_plus",
-      "02.02.2025": "moderator"
+      "02.02.2025": "moderator",
+      "14.11.2025": "native_expert"
     }
   },
   {
