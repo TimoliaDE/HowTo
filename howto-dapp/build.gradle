@@ -15,7 +15,7 @@ dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter-api:6.0.1'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:6.0.1'
     implementation 'com.google.code.gson:gson:2.13.2'
-    implementation 'com.mysql:mysql-connector-j:8.4.0'
+    implementation 'com.mysql:mysql-connector-j:9.5.0'
     implementation "com.github.kittinunf.fuel:fuel:3.0.0-alpha1"
 
     // https://mvnrepository.com/artifact/org.apache.commons/commons-lang3
