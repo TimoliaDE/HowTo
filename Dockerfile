@@ -1,4 +1,4 @@
-FROM core.harbor.timolia.de/proxy_cache_docker_hub/library/alpine:3.21.3 AS builder
+FROM core.harbor.timolia.de/proxy_cache_docker_hub/library/alpine:3.21.5 AS builder
 
 RUN set -x \
     && apk --no-cache upgrade \
@@ -26,7 +26,7 @@ RUN rm docs/team/teamler.json \
     && find . -name '*.md.old' -delete \
     && mkdocs build
 
-FROM core.harbor.timolia.de/proxy_cache_docker_hub/library/alpine:3.21.3
+FROM core.harbor.timolia.de/proxy_cache_docker_hub/library/alpine:3.21.5
 
 RUN apk --no-cache add nginx \
     && adduser -D -g 'www' www \
