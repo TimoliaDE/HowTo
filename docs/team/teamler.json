@@ -2625,16 +2625,9 @@
     "name": "Flycofx",
     "uuid": "159534d3-6ecb-4c4a-9456-38e7bd0e24de",
     "sex": "male",
-    "responsibilities_main": [
-      "Chainreact",
-      "SurvivalQuest",
-      "Xmas Adventure"
-    ],
-    "fields": [
-      "Plugin Development"
-    ],
     "rank_history": {
-      "initial": "developer"
+      "initial": "developer",
+      "01.01.2026": "native_expert"
     }
   },
   {
@@ -3539,12 +3532,10 @@
     "name": "realvio",
     "uuid": "e54ad5af-c7d7-43ed-b8b7-bbdf43d10747",
     "sex": "male",
-    "fields": [
-      "Plugin Development"
-    ],
     "rank_history": {
       "initial": "spieler",
-      "26.08.2025": "developer"
+      "26.08.2025": "developer",
+      "01.01.2026": "spieler"
     }
   },
   {
@@ -3590,7 +3581,19 @@
     ],
     "rank_history": {
       "initial": "mvp",
-      "02.11.2025": "content"
+      "17.01.2026": "content"
+    }
+  },
+    {
+    "name": "austrilol",
+    "uuid": "bcc582ed-494d-4b93-86cb-b58564651a26",
+    "sex": "male",
+    "fields": [
+      "Plugin Development"
+    ],
+    "rank_history": {
+      "initial": "spieler",
+      "01.01.2026": "developer"
     }
   }
 ]
