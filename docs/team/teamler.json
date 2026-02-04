@@ -3595,5 +3595,16 @@
       "initial": "spieler",
       "01.01.2026": "developer"
     }
-  }
+  },
+  {
+    "name": "Quertixx",
+    "uuid": "3b2c379e-c24d-4157-8694-7d8d578732be",
+    "sex": "male",
+    "fields": [
+      "Gamedesign"
+    ],
+    "rank_history": {
+      "initial": "youtuber",
+      "01.01.2026": "content"
+    }
 ]
