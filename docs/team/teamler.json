@@ -2627,7 +2627,7 @@
     "sex": "male",
     "rank_history": {
       "initial": "developer",
-      "01.01.2026": "native_expert"
+      "01.02.2026": "native_expert"
     }
   },
   {
@@ -3554,9 +3554,6 @@
     "name": "AgentDimensium",
     "uuid": "062ef03c-8d93-425d-8a19-8f75669b6d3c",
     "sex": "male",
-    "responsibilities_secondary": [
-      "Timolia Turnier Organisation"
-    ],
     "rank_history": {
       "initial": "pro_plus",
       "09.09.2025": "supporter",
@@ -3593,7 +3590,7 @@
     ],
     "rank_history": {
       "initial": "spieler",
-      "01.01.2026": "developer"
+      "01.02.2026": "developer"
     }
   },
   {
@@ -3605,6 +3602,6 @@
     ],
     "rank_history": {
       "initial": "youtuber",
-      "01.01.2026": "content"
+      "04.02.2026": "content"
     }
 ]
