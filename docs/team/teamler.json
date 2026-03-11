@@ -3348,7 +3348,7 @@
     "name": "Led0m_",
     "uuid": "119bc449-24af-4a97-aa87-eace8659018a",
     "sex": "male",
-        "fields": [
+    "fields": [
       "Plugin Development"
     ],
     "rank_history": {
@@ -3608,4 +3608,5 @@
       "initial": "youtuber",
       "04.02.2026": "content"
     }
+  }
 ]
