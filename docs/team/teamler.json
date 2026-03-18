@@ -3189,23 +3189,12 @@
     "name": "D4rkulus",
     "uuid": "33c50bfd-e1b4-4b45-850e-0702a1319393",
     "sex": "male",
-    "responsibilities_main": [
-      "Youtuber-Ränge",
-      "Entschuldigungen",
-      "Timolia Turnier Organisation",
-      "Zu Unrecht gebannt"
-    ],
-    "responsibilities_secondary": [
-      "Timolia HowTo",
-      "Teamlerauswahl Support",
-      "JumpWorld Organisation",
-      "Community-Discord"
-      ],
     "rank_history": {
       "initial": "expert",
       "20.07.2023": "supporter",
       "02.06.2024": "supporter_plus",
-      "02.02.2025": "moderator"
+      "02.02.2025": "moderator",
+      "06.02.2026": "expert"
     }
   },
   {
@@ -3607,6 +3596,18 @@
     "rank_history": {
       "initial": "youtuber",
       "04.02.2026": "content"
+    }
+  },
+    {
+    "name": "VhecheslavMaer",
+    "uuid": "be0f1762-bed5-403a-92f4-1fe3eda2a76d",
+    "sex": "male",
+    "fields": [
+      "Plugin Development"
+    ],
+    "rank_history": {
+      "initial": "spieler",
+      "07.03.2026": "developer"
     }
   }
 ]
