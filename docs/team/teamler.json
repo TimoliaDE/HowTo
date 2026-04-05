@@ -2830,17 +2830,13 @@
     "name": "L3nnart_",
     "uuid": "f31bfa9e-2757-4805-835f-aa38018336e6",
     "sex": "male",
-    "fields": [
-      "Systemadministration",
-      "Plugin Development",
-      "Web Development"
-    ],
     "rank_history": {
       "initial": "expert",
       "13.09.2021": "developer",
       "14.11.2022": "developer_plus",
       "18.12.2023": "administrator",
-      "05.06.2024": "developer"
+      "05.06.2024": "developer",
+      "05.04.2026": "native_expert"
     }
   },
   {
@@ -3211,10 +3207,14 @@
     "name": "Thomas5432",
     "uuid": "e6e02927-7278-4aad-9e41-cfd4c1d2734c",
     "sex": "male",
+    "responsibilities_main": [
+      "Gamedesign"
+    ],
     "rank_history": {
       "initial": "expert",
       "12.09.2023": "supporter",
-      "19.04.2024": "native_expert"
+      "19.04.2024": "native_expert",
+      "31.03.2026": "content"
     }
   },
   {
@@ -3485,13 +3485,10 @@
     "name": "42nao",
     "uuid": "94a28bab-f81d-402b-b82c-f6e74485cd13",
     "sex": "male",
-    "fields": [
-      "Plugin Development",
-      "Web Development"
-    ],
     "rank_history": {
       "initial": "spieler",
-      "03.06.2025": "developer"
+      "03.06.2025": "developer",
+      "05.04.2026": "native_mvp"
     }
   },
   {
