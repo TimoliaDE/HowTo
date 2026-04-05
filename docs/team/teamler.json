@@ -3594,7 +3594,7 @@
     "name": "Quertixx",
     "uuid": "3b2c379e-c24d-4157-8694-7d8d578732be",
     "sex": "male",
-    "fields": [
+    "responsibilities_main": [
       "Youtuber-Ränge"
     ],
     "rank_history": {
@@ -3606,7 +3606,7 @@
     "name": "VhecheslavMaer",
     "uuid": "be0f1762-bed5-403a-92f4-1fe3eda2a76d",
     "sex": "male",
-    "responsibilities_main": [
+    "fields": [
       "Plugin Development"
     ],
     "rank_history": {
