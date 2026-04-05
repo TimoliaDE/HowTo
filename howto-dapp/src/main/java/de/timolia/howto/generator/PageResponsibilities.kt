@@ -21,6 +21,8 @@ object PageResponsibilities {
                         put("%page.responsibilities.project-team-orga.howto%", "%page.responsibilities.project-team-orga.howto.desc%")
                         put("%page.responsibilities.project-team-orga.tournament%", "%page.responsibilities.project-team-orga.tournament.desc%")
                         put("%page.responsibilities.project-team-orga.jumpworld%", "%page.responsibilities.project-team-orga.jumpworld.desc%")
+                        put("%page.responsibilities.project-team-orga.castles%", "%page.responsibilities.project-team-orga.castles.desc%")
+                        put("%page.responsibilities.project-team-orga.freebuild%", "%page.responsibilities.project-team-orga.freebuild.desc%")
                         put("%page.responsibilities.project-team-orga.youtuber%", "%page.responsibilities.project-team-orga.youtuber.desc%")
                     }
                 })
@@ -35,6 +37,7 @@ object PageResponsibilities {
                 put("%page.responsibilities.other-responsibilities%", object : LinkedHashMap<String, String?>() {
                     init {
                         put("%page.responsibilities.other-responsibilities.graphicdesign%", null)
+                        put("%page.responsibilities.other-responsibilities.translations%", null)
                     }
                 })
             }
