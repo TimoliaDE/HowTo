@@ -3208,7 +3208,11 @@
     "uuid": "e6e02927-7278-4aad-9e41-cfd4c1d2734c",
     "sex": "male",
     "responsibilities_main": [
-      "Gamedesign"
+      "Gamedesign",
+      "Castles Organization"
+    ],
+    "responsibilities_secondary": [
+      "Translations"
     ],
     "rank_history": {
       "initial": "expert",
@@ -3445,7 +3449,9 @@
     "uuid": "2c4e5e26-33af-4258-9be0-dd7ccd5c38e8",
     "sex": "male",
     "responsibilities_main": [
-      "Teamlerauswahl Development",
+      "Teamlerauswahl Development"
+    ],
+    "responsibilities_secondary": [
       "Grafikdesign"
     ],
     "fields": [
