@@ -3599,7 +3599,7 @@
     "name": "VhecheslavMaer",
     "uuid": "be0f1762-bed5-403a-92f4-1fe3eda2a76d",
     "sex": "male",
-    "fields": [
+    "responsibilities_main": [
       "Plugin Development"
     ],
     "rank_history": {
