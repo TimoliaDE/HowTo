@@ -233,7 +233,8 @@
     "sex": "male",
     "responsibilities_main": [
       "Zu Unrecht gebannt",
-      "Community-Discord"
+      "Community-Discord",
+      "Freebuild Organization"
     ],
     "fields": [
       "Plugin Development"
@@ -578,6 +579,9 @@
     "name": "Karolux_",
     "uuid": "b225d9b4-e90e-486e-a195-06915092eecc",
     "sex": "male",
+    "responsibilities_main": [
+      "Translations"
+    ],
     "rank_history": {
       "initial": "pro",
       "21.09.2020": "supporter",
@@ -2788,6 +2792,9 @@
     "name": "HicXD",
     "uuid": "14a13257-f1a3-4802-bd1e-73f077f0143a",
     "sex": "male",
+    "responsibilities_secondary": [
+      "Castles Organization"
+    ],
     "rank_history": {
       "initial": "expert",
       "14.05.2021": "supporter",
@@ -2857,10 +2864,6 @@
     "name": "DevMoritz",
     "uuid": "9bc330fa-0e99-4c85-9396-cb63fb82297c",
     "sex": "male",
-    "responsibilities_secondary": [
-      "Gewinnspielorganisation",
-      "Youtuber-Ränge"
-    ],
     "fields": [
       "Systemadministration",
       "Web Development"
@@ -2877,6 +2880,9 @@
     "name": "Seeraeuber",
     "uuid": "9bac5789-9029-4fe0-8bb4-c75d0f4de4d3",
     "sex": "male",
+    "responsibilities_main": [
+      "Castles Organization"
+    ],
     "rank_history": {
       "initial": "expert",
       "22.11.2021": "supporter",
@@ -3233,9 +3239,7 @@
     "sex": "female",
     "responsibilities_main": [
       "Social Media",
-      "Management des Content-Teams"
-    ],
-    "responsibilities_secondary": [
+      "Management des Content-Teams",
       "Teamlerauswahl Content"
     ],
     "rank_history": {
@@ -3325,7 +3329,8 @@
     "uuid": "8cfeae05-b100-4543-89cb-e8adf07f86b8",
     "sex": "male",
     "responsibilities_main": [
-      "Grafikdesign"
+      "Grafikdesign", 
+      "Castles Organization"
     ],
     "rank_history": {
       "initial": "expert",
@@ -3354,10 +3359,15 @@
     "responsibilities_main": [
       "Community-Discord",
       "JumpWorld Organisation",
-      "Management des Content-Teams"
+      "Management des Content-Teams",
+      "Teamlerauswahl Content",
+      "Teamlerauswahl Support",
+      "Management des Support-Teams",
+      "Freebuild Organization",
+      "Gamedesign"
     ],
     "responsibilities_secondary": [
-      "Teamlerauswahl Content"
+      "Translations"
     ],
     "rank_history": {
       "initial": "expert",
@@ -3373,6 +3383,9 @@
     "responsibilities_main": [
       "JumpWorld Organisation",
       "Gamedesign"
+    ],
+    "responsibilities_secondary": [
+      "Translations"
     ],
     "rank_history": {
       "initial": "expert",
@@ -3394,7 +3407,7 @@
     "name": "obsessiiv",
     "uuid": "332eab0b-2ba4-4f5b-a3e3-3a7000f9a58f",
     "sex": "female",
-    "responsibilities_secondary": [
+    "responsibilities_main": [
       "Social Media"
     ],
     "rank_history": {
@@ -3406,8 +3419,10 @@
     "name": "Joschiiiiii",
     "uuid": "b02ebfc4-3bc3-4d18-8830-e6ead231e80b",
     "sex": "male",
+    "responsibilities_main": [
+      "Social Media"
+    ],
     "responsibilities_secondary": [
-      "Social Media",
       "JumpWorld Organisation"
     ],
     "rank_history": {
@@ -3419,6 +3434,9 @@
     "name": "icefear",
     "uuid": "77831b28-01db-44fb-8c1e-5568b8e83710",
     "sex": "male",
+    "responsibilities_main": [
+      "Castles Organization"
+    ],
     "fields": [
       "Plugin Development"
     ],
@@ -3432,7 +3450,9 @@
     "uuid": "340f4d15-6993-4081-b751-69f4038c50a5",
     "sex": "male",
     "responsibilities_secondary": [
-      "JumpWorld Organisation"
+      "JumpWorld Organisation",
+      "Translations",
+      "Gamedesign"
     ],
     "rank_history": {
       "initial": "spieler",
@@ -3567,7 +3587,11 @@
     "uuid": "0be087a7-4be2-4792-bb50-ae0432453160",
     "sex": "female",
     "responsibilities_main": [
-      "Gamedesign"
+      "Gamedesign",
+      "Freebuild Organization"
+    ],
+    "responsibilities_secondary": [
+      "Translations"
     ],
     "rank_history": {
       "initial": "mvp",
@@ -3602,6 +3626,9 @@
     "name": "VhecheslavMaer",
     "uuid": "be0f1762-bed5-403a-92f4-1fe3eda2a76d",
     "sex": "male",
+    "responsibilities_secondary": [
+      "Castles Organization"
+    ],
     "fields": [
       "Plugin Development"
     ],
