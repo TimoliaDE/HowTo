@@ -35,6 +35,7 @@ object PageResponsibilities {
                 put("%page.responsibilities.other-responsibilities%", object : LinkedHashMap<String, String?>() {
                     init {
                         put("%page.responsibilities.other-responsibilities.graphicdesign%", null)
+                        put("%page.responsibilities.other-responsibilities.gamedesign%", null)
                         put("%page.responsibilities.other-responsibilities.translations%", null)
                     }
                 })
