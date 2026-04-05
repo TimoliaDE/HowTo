@@ -29,8 +29,6 @@ object PageResponsibilities {
                 put("%page.responsibilities.communication-platforms%", object : LinkedHashMap<String, String?>() {
                     init {
                         put("%page.responsibilities.communication-platforms.community-discord%", "%page.responsibilities.communication-platforms.community-discord.desc%")
-                        put("%page.responsibilities.communication-platforms.appeal%", null)
-                        put("%page.responsibilities.communication-platforms.falsely-banned%", null)
                         put("%page.responsibilities.communication-platforms.socialmedia%", "%page.responsibilities.communication-platforms.socialmedia.desc%")
                     }
                 })
