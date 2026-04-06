@@ -4,5 +4,5 @@ include:
     file:    '.global/imagebuild/$CI_PROJECT_PATH.yml'
 
 variables:
-  RELEASE_VERSION:   '1.0.1'
+  RELEASE_VERSION:   '1.0.3'
   SKIP_TRIVY_SCAN:   'true'
