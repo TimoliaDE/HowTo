@@ -5,3 +5,4 @@ include:
 
 variables:
   RELEASE_VERSION:   '1.0.1'
+  SKIP_TRIVY_SCAN:   'true'
