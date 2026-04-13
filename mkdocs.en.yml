@@ -3,7 +3,11 @@ site_author: Timolia
 site_description: All important and unimportant information about Timolia can be found here
 copyright: Timolia UG (haftungsbeschränkt)
 site_url: '%SITE_URL%'
-
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  
 nav:
 - About: 'index.md'
 - General:
