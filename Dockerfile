@@ -1,8 +1,7 @@
-FROM node:25-alpine AS builder
+FROM node:25-bookworm-slim AS builder
 WORKDIR /app
 
-RUN apk add --no-cache libc6-compat
-RUN npm install -g pnpm@11.0.0
+RUN npm install -g pnpm@11.0.3
 
 COPY pnpm-lock.yaml pnpm-workspace.yaml package.json .npmrc ./
 COPY apps/docs/package.json ./apps/docs/package.json
@@ -18,6 +17,6 @@ RUN pnpm --filter docs build
 FROM nginx:alpine AS runtime
 
 COPY --from=builder /app/apps/docs/dist /usr/share/nginx/html
-COPY deployment/nginx.conf /etc/nginx/conf.d/default.conf
+COPY deployment/nginx.conf /etc/nginx/nginx.conf
 
-EXPOSE 80
+EXPOSE 8080
