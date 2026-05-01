@@ -1,43 +1,23 @@
-FROM core.harbor.timolia.de/proxy_cache_docker_hub/library/alpine:3.21.5 AS builder
+FROM node:25-alpine AS builder
+WORKDIR /app
 
-RUN set -x \
-    && apk --no-cache upgrade \
-    && apk --no-cache add \
-         bash \
-         ca-certificates \
-         curl \
-         gcc \
-         git \
-         musl-dev \
-         python3 \
-         python3-dev \
-         py3-pip \
-         py3-virtualenv
+RUN apk add --no-cache libc6-compat
+RUN npm install -g pnpm@11.0.0
 
-RUN virtualenv /opt/venv
-ENV PATH="/opt/venv/bin:$PATH"
+COPY pnpm-lock.yaml pnpm-workspace.yaml package.json .npmrc ./
+COPY apps/docs/package.json ./apps/docs/package.json
+COPY apps/team-generator/package.json ./apps/team-generator/package.json
 
-RUN pip install mkdocs mkdocs-material
+RUN pnpm install --frozen-lockfile
 
-COPY ./ /code/
-WORKDIR /code
-RUN rm docs/team/teamler.json \
-    && rm -rf howto-dapp \
-    && find . -name '*.md.old' -delete \
-    && mkdocs build
+COPY . .
 
-FROM core.harbor.timolia.de/proxy_cache_docker_hub/library/alpine:3.21.5
+RUN pnpm --filter team-generator generate
+RUN pnpm --filter docs build
 
-RUN apk --no-cache add nginx \
-    && adduser -D -g 'www' www \
-    && mkdir /www \
-    && chown -R www:www /var/lib/nginx
+FROM nginx:alpine AS runtime
 
-COPY --from=builder /code/site/ /www/
-
-COPY ./nginx.conf /etc/nginx/nginx.conf
-
-RUN chown -R www:www /www
+COPY --from=builder /app/apps/docs/dist /usr/share/nginx/html
+COPY deployment/nginx.conf /etc/nginx/conf.d/default.conf
 
 EXPOSE 80
-CMD ["nginx"]
