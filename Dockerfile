@@ -19,4 +19,4 @@ FROM nginx:alpine AS runtime
 COPY --from=builder /app/apps/docs/dist /usr/share/nginx/html
 COPY nginx.conf /etc/nginx/nginx.conf
 
-EXPOSE 8080
+EXPOSE 80
