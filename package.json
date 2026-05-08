@@ -19,5 +19,11 @@
     "packages/*",
     "apps/*"
   ],
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild",
+      "sharp"
+    ]
+  },
   "packageManager": "pnpm@11.0.4"
 }
