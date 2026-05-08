@@ -3,7 +3,7 @@ WORKDIR /app
 
 RUN npm install -g pnpm@11.0.3
 
-COPY pnpm-lock.yaml pnpm-workspace.yaml package.json .npmrc ./
+COPY pnpm-lock.yaml pnpm-workspace.yaml package.json ./
 COPY apps/docs/package.json ./apps/docs/package.json
 COPY apps/team-generator/package.json ./apps/team-generator/package.json
 
