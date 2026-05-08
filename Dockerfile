@@ -7,7 +7,7 @@ COPY pnpm-lock.yaml pnpm-workspace.yaml package.json ./
 COPY apps/docs/package.json ./apps/docs/package.json
 COPY apps/team-generator/package.json ./apps/team-generator/package.json
 
-RUN pnpm install --frozen-lockfile
+RUN pnpm install --frozen-lockfile --only-built-dependencies=esbuild,sharp
 
 COPY . .
 
