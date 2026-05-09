@@ -8,7 +8,9 @@
   "scripts": {
     "build": "turbo build",
     "dev": "turbo dev",
-    "lint": "turbo lint"
+    "lint": "turbo lint",
+    "generate-team": "turbo generate --filter=team-generator",
+    "dev:docs": "turbo dev --filter=docs"
   },
   "private": true,
   "devDependencies": {

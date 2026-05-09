@@ -1,8 +1,6 @@
 {
   "$schema": "https://turbo.build/schema.json",
-  "globalDependencies": [
-    "**/.env.*local"
-  ],
+  "globalDependencies": ["**/.env.*local"],
   "ui": "tui",
   "tasks": {
     "dev": {
@@ -13,16 +11,13 @@
     "stub": {
       "cache": false
     },
+    "generate": {
+      "cache": false,
+      "outputs": ["../docs/src/content/docs/**"]
+    },
     "build": {
-      "dependsOn": [
-        "^build"
-      ],
-      "outputs": [
-        ".nuxt/**",
-        "!.nuxt/cache/**",
-        "dist/**",
-        ".astro/**"
-      ]
+      "dependsOn": ["^build"],
+      "outputs": [".nuxt/**", "!.nuxt/cache/**", "dist/**", ".astro/**"]
     },
     "lint": {},
     "lint:fix": {},
