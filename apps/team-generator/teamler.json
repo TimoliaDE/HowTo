@@ -2797,7 +2797,8 @@
       "14.05.2021": "supporter",
       "12.01.2023": "native_expert",
       "26.06.2023": "supporter",
-      "07.01.2024": "supporter_plus"
+      "07.01.2024": "supporter_plus",
+      "13.05.2026": "native_expert"
     }
   },
   {
@@ -2880,7 +2881,8 @@
       "initial": "expert",
       "22.11.2021": "supporter",
       "16.02.2023": "expert",
-      "12.10.2025": "supporter"
+      "12.10.2025": "supporter",
+      "03.05.2026": "supporter_plus"
     }
   },
   {
@@ -2894,7 +2896,8 @@
       "06.07.2023": "native_expert",
       "10.12.2024": "supporter_plus",
       "02.02.2025": "moderator",
-      "14.11.2025": "native_expert"
+      "14.11.2025": "native_expert",
+      "03.05.2026": "supporter_plus"
     }
   },
   {
@@ -3496,11 +3499,13 @@
     "uuid": "ea88471c-2d58-407e-af5c-6c37b4909038",
     "sex": "male",
     "fields": [
-      "Plugin Development"
+      "Plugin Development", 
+      "Systemadministration"
     ],
     "rank_history": {
       "initial": "spieler",
-      "03.06.2025": "developer"
+      "03.06.2025": "developer",
+      "03.05.2026": "sysadmin"
     }
   },
   {
@@ -3535,7 +3540,8 @@
     "rank_history": {
       "initial": "spieler",
       "20.06.2025": "supporter",
-      "05.10.2025": "supporter_plus"
+      "05.10.2025": "supporter_plus",
+      "03.05.2026": "moderator"
     }
   },
   {
@@ -3633,5 +3639,15 @@
       "initial": "spieler",
       "07.03.2026": "developer"
     }
+  },
+  {
+    "name": "FrxzenMLG",
+    "uuid": "fcbf2480-23c8-4109-a772-c535d092b381",
+    "sex": "male",
+    "rank_history": {
+      "initial": "pro",
+      "19.04.2026": "supporter"
+    }
   }
+  
 ]
