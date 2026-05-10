@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@astro-community/astro-embed-youtube": "^0.5.10",
-    "@astrojs/starlight": "^0.38.4",
+    "@astrojs/starlight": "^0.39.0",
     "astro": "^6.2.1",
     "node-fetch": "^3.3.2",
     "rehype-katex": "^7.0.1",
