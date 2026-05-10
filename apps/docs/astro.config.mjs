@@ -57,7 +57,7 @@ export default defineConfig({
           translations: {
             en: "General",
           },
-          autogenerate: { directory: "general" },
+          items: [{ autogenerate: { directory: "general" } }],
         },
         {
           label: "Das Regelwerk",
@@ -65,7 +65,7 @@ export default defineConfig({
           translations: {
             en: "Rules",
           },
-          autogenerate: { directory: "rules" },
+          items: [{ autogenerate: { directory: "rules" } }],
         },
         {
           label: "Unsere Spiele",
@@ -73,7 +73,7 @@ export default defineConfig({
           translations: {
             en: "Games",
           },
-          autogenerate: { directory: "games" },
+          items: [{ autogenerate: { directory: "games" } }],
         },
         {
           label: "Ränge auf Timolia",
@@ -81,7 +81,7 @@ export default defineConfig({
           translations: {
             en: "Ranks on Timolia",
           },
-          autogenerate: { directory: "ranks" },
+          items: [{ autogenerate: { directory: "ranks" } }],
         },
         {
           label: "Das Timolia-Team",
@@ -89,7 +89,7 @@ export default defineConfig({
           translations: {
             en: "The Timolia Team",
           },
-          autogenerate: { directory: "team" },
+          items: [{ autogenerate: { directory: "team" } }],
         },
       ],
     }),

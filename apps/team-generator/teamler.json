@@ -231,13 +231,8 @@
     "name": "ferdedelino",
     "uuid": "94fa217d-6e68-4b87-86ff-6156765c4a17",
     "sex": "male",
-    "responsibilities_main": [
-      "Community-Discord",
-      "Freebuild Organization"
-    ],
-    "fields": [
-      "Plugin Development"
-    ],
+    "responsibilities_main": ["Community-Discord", "Freebuild Organization"],
+    "fields": ["Plugin Development"],
     "rank_history": {
       "initial": "expert",
       "21.07.2017": "supporter_games",
@@ -578,9 +573,7 @@
     "name": "Karolux_",
     "uuid": "b225d9b4-e90e-486e-a195-06915092eecc",
     "sex": "male",
-    "responsibilities_main": [
-      "Translations"
-    ],
+    "responsibilities_main": ["Translations"],
     "rank_history": {
       "initial": "pro",
       "21.09.2020": "supporter",
@@ -1570,9 +1563,7 @@
       "Teamlerauswahl Support",
       "Teamlerauswahl Content"
     ],
-    "responsibilities_secondary": [
-      "Map-Einsendungen"
-    ],
+    "responsibilities_secondary": ["Map-Einsendungen"],
     "rank_history": {
       "initial": "mvp",
       "21.04.2020": "supporter",
@@ -1745,9 +1736,7 @@
     "name": "physanus",
     "uuid": "1bec952b-bbe1-4699-9d9d-d6ceafa7f952",
     "sex": "male",
-    "fields": [
-      "Systemadministration"
-    ],
+    "fields": ["Systemadministration"],
     "rank_history": {
       "initial": "spieler",
       "11.10.2017": "developer",
@@ -1842,9 +1831,7 @@
     "name": "byRoadrunner",
     "uuid": "2ae500be-80f4-4076-a6ea-b43abb431ed9",
     "sex": "male",
-    "fields": [
-      "Systemadministration"
-    ],
+    "fields": ["Systemadministration"],
     "rank_history": {
       "initial": "mvp",
       "12.11.2019": "supporter",
@@ -2377,10 +2364,7 @@
     "responsibilities_secondary": [
       "Teamlerauswahl Builder und Timolia Creative"
     ],
-    "fields": [
-      "Systemadministration",
-      "Web Development"
-    ],
+    "fields": ["Systemadministration", "Web Development"],
     "rank_history": {
       "initial": "spieler",
       "24.07.2016": "builder",
@@ -2705,12 +2689,8 @@
       "Management des Development-Teams",
       "Teamlerauswahl Development"
     ],
-    "responsibilities_secondary": [
-      "Timolia Turnier Organisation"
-    ],
-    "fields": [
-      "Plugin Development"
-    ],
+    "responsibilities_secondary": ["Timolia Turnier Organisation"],
+    "fields": ["Plugin Development"],
     "rank_history": {
       "initial": "expert",
       "22.02.2021": "supporter",
@@ -2789,9 +2769,7 @@
     "name": "HicXD",
     "uuid": "14a13257-f1a3-4802-bd1e-73f077f0143a",
     "sex": "male",
-    "responsibilities_secondary": [
-      "Castles Organization"
-    ],
+    "responsibilities_secondary": ["Castles Organization"],
     "rank_history": {
       "initial": "expert",
       "14.05.2021": "supporter",
@@ -2858,10 +2836,7 @@
     "name": "DevMoritz",
     "uuid": "9bc330fa-0e99-4c85-9396-cb63fb82297c",
     "sex": "male",
-    "fields": [
-      "Systemadministration",
-      "Web Development"
-    ],
+    "fields": ["Systemadministration", "Web Development"],
     "rank_history": {
       "initial": "expert",
       "22.11.2021": "supporter",
@@ -2874,9 +2849,7 @@
     "name": "Seeraeuber",
     "uuid": "9bac5789-9029-4fe0-8bb4-c75d0f4de4d3",
     "sex": "male",
-    "responsibilities_main": [
-      "Castles Organization"
-    ],
+    "responsibilities_main": ["Castles Organization"],
     "rank_history": {
       "initial": "expert",
       "22.11.2021": "supporter",
@@ -3102,12 +3075,8 @@
     "name": "Niedlichkeit",
     "uuid": "c5f40157-914c-48a8-a5b9-e95892505905",
     "sex": "male",
-    "responsibilities_main": [
-      "Timolia HowTo"
-    ],
-    "fields": [
-      "Plugin Development"
-    ],
+    "responsibilities_main": ["Timolia HowTo"],
+    "fields": ["Plugin Development"],
     "rank_history": {
       "initial": "expert",
       "16.02.2023": "supporter",
@@ -3213,13 +3182,8 @@
     "name": "Thomas5432",
     "uuid": "e6e02927-7278-4aad-9e41-cfd4c1d2734c",
     "sex": "male",
-    "responsibilities_main": [
-      "Gamedesign",
-      "Castles Organization"
-    ],
-    "responsibilities_secondary": [
-      "Translations"
-    ],
+    "responsibilities_main": ["Gamedesign", "Castles Organization"],
+    "responsibilities_secondary": ["Translations"],
     "rank_history": {
       "initial": "expert",
       "12.09.2023": "supporter",
@@ -3266,10 +3230,7 @@
     "name": "Flauschiq",
     "uuid": "5ba5d816-9642-4cd5-b79c-118ee62953b0",
     "sex": "male",
-    "responsibilities_secondary": [
-      "JumpWorld Organization",
-      "Youtuber-Ränge"
-    ],
+    "responsibilities_secondary": ["JumpWorld Organization", "Youtuber-Ränge"],
     "rank_history": {
       "initial": "expert",
       "17.12.2023": "supporter",
@@ -3290,12 +3251,8 @@
     "name": "Grafjojo",
     "uuid": "55034041-35c1-4ba7-848d-6bcb21675738",
     "sex": "male",
-    "responsibilities_main": [
-      "JumpWorld Organization"
-    ],
-    "fields": [
-      "Plugin Development"
-    ],
+    "responsibilities_main": ["JumpWorld Organization"],
+    "fields": ["Plugin Development"],
     "rank_history": {
       "initial": "spieler",
       "18.12.2023": "developer",
@@ -3330,10 +3287,7 @@
     "name": "JkNopeJk",
     "uuid": "8cfeae05-b100-4543-89cb-e8adf07f86b8",
     "sex": "male",
-    "responsibilities_main": [
-      "Grafikdesign",
-      "Castles Organization"
-    ],
+    "responsibilities_main": ["Grafikdesign", "Castles Organization"],
     "rank_history": {
       "initial": "expert",
       "14.02.2024": "content",
@@ -3344,9 +3298,7 @@
     "name": "Led0m_",
     "uuid": "119bc449-24af-4a97-aa87-eace8659018a",
     "sex": "male",
-    "fields": [
-      "Plugin Development"
-    ],
+    "fields": ["Plugin Development"],
     "rank_history": {
       "initial": "spieler",
       "14.02.2024": "builder",
@@ -3368,9 +3320,7 @@
       "Freebuild Organization",
       "Gamedesign"
     ],
-    "responsibilities_secondary": [
-      "Translations"
-    ],
+    "responsibilities_secondary": ["Translations"],
     "rank_history": {
       "initial": "expert",
       "28.07.2024": "supporter",
@@ -3382,13 +3332,8 @@
     "name": "Fussbild",
     "uuid": "156d070c-5737-4db6-a8bb-cfedf1370117",
     "sex": "male",
-    "responsibilities_main": [
-      "JumpWorld Organization",
-      "Gamedesign"
-    ],
-    "responsibilities_secondary": [
-      "Translations"
-    ],
+    "responsibilities_main": ["JumpWorld Organization", "Gamedesign"],
+    "responsibilities_secondary": ["Translations"],
     "rank_history": {
       "initial": "expert",
       "19.09.2024": "content",
@@ -3409,9 +3354,7 @@
     "name": "obsessiiv",
     "uuid": "332eab0b-2ba4-4f5b-a3e3-3a7000f9a58f",
     "sex": "female",
-    "responsibilities_main": [
-      "Social Media"
-    ],
+    "responsibilities_main": ["Social Media"],
     "rank_history": {
       "initial": "spieler",
       "19.11.2024": "content"
@@ -3421,12 +3364,8 @@
     "name": "Joschiiiiii",
     "uuid": "b02ebfc4-3bc3-4d18-8830-e6ead231e80b",
     "sex": "male",
-    "responsibilities_main": [
-      "Social Media"
-    ],
-    "responsibilities_secondary": [
-      "JumpWorld Organization"
-    ],
+    "responsibilities_main": ["Social Media"],
+    "responsibilities_secondary": ["JumpWorld Organization"],
     "rank_history": {
       "initial": "expert",
       "15.12.2024": "content"
@@ -3436,12 +3375,8 @@
     "name": "icefear",
     "uuid": "77831b28-01db-44fb-8c1e-5568b8e83710",
     "sex": "male",
-    "responsibilities_main": [
-      "Castles Organization"
-    ],
-    "fields": [
-      "Plugin Development"
-    ],
+    "responsibilities_main": ["Castles Organization"],
+    "fields": ["Plugin Development"],
     "rank_history": {
       "initial": "mvp_plus",
       "12.01.2025": "developer"
@@ -3466,16 +3401,9 @@
     "name": "Fedox",
     "uuid": "2c4e5e26-33af-4258-9be0-dd7ccd5c38e8",
     "sex": "male",
-    "responsibilities_main": [
-      "Teamlerauswahl Development"
-    ],
-    "responsibilities_secondary": [
-      "Grafikdesign"
-    ],
-    "fields": [
-      "Plugin Development",
-      "Web Development"
-    ],
+    "responsibilities_main": ["Teamlerauswahl Development"],
+    "responsibilities_secondary": ["Grafikdesign"],
+    "fields": ["Plugin Development", "Web Development"],
     "rank_history": {
       "initial": "spieler",
       "21.03.2025": "developer",
@@ -3486,9 +3414,7 @@
     "name": "xBaumeisterin",
     "uuid": "af629224-11ec-4f7d-8782-05b2465e856c",
     "sex": "female",
-    "responsibilities_secondary": [
-      "JumpWorld Organization"
-    ],
+    "responsibilities_secondary": ["JumpWorld Organization"],
     "rank_history": {
       "initial": "expert",
       "26.05.2025": "builder"
@@ -3498,10 +3424,7 @@
     "name": "HabsGleich",
     "uuid": "ea88471c-2d58-407e-af5c-6c37b4909038",
     "sex": "male",
-    "fields": [
-      "Plugin Development", 
-      "Systemadministration"
-    ],
+    "fields": ["Plugin Development", "Systemadministration"],
     "rank_history": {
       "initial": "spieler",
       "03.06.2025": "developer",
@@ -3522,9 +3445,7 @@
     "name": "Lewi_100",
     "uuid": "02692628-882b-4b26-952d-a0a0a89bd0b6",
     "sex": "male",
-    "responsibilities_secondary": [
-      "JumpWorld Organization"
-    ],
+    "responsibilities_secondary": ["JumpWorld Organization"],
     "rank_history": {
       "initial": "mvp_plus",
       "20.06.2025": "supporter"
@@ -3534,9 +3455,7 @@
     "name": "yLugge",
     "uuid": "38f2c240-f67f-4701-98e6-fef256080d2c",
     "sex": "male",
-    "responsibilities_secondary": [
-      "Timolia Turnier Organisation"
-    ],
+    "responsibilities_secondary": ["Timolia Turnier Organisation"],
     "rank_history": {
       "initial": "spieler",
       "20.06.2025": "supporter",
@@ -3558,9 +3477,7 @@
     "name": "derklaro",
     "uuid": "bcc582ed-494d-4b93-86cb-b58564651a26",
     "sex": "male",
-    "fields": [
-      "Plugin Development"
-    ],
+    "fields": ["Plugin Development"],
     "rank_history": {
       "initial": "spieler",
       "09.09.2025": "developer"
@@ -3589,13 +3506,8 @@
     "name": "LifeIsBeautiful5",
     "uuid": "0be087a7-4be2-4792-bb50-ae0432453160",
     "sex": "female",
-    "responsibilities_main": [
-      "Gamedesign",
-      "Freebuild Organization"
-    ],
-    "responsibilities_secondary": [
-      "Translations"
-    ],
+    "responsibilities_main": ["Gamedesign", "Freebuild Organization"],
+    "responsibilities_secondary": ["Translations"],
     "rank_history": {
       "initial": "mvp",
       "17.01.2026": "content"
@@ -3605,9 +3517,7 @@
     "name": "austrilol",
     "uuid": "213cf2a5-cbc9-4bf1-910a-dfd79786afe4",
     "sex": "male",
-    "fields": [
-      "Plugin Development"
-    ],
+    "fields": ["Plugin Development"],
     "rank_history": {
       "initial": "spieler",
       "01.02.2026": "developer"
@@ -3617,9 +3527,7 @@
     "name": "Quertixx",
     "uuid": "3b2c379e-c24d-4157-8694-7d8d578732be",
     "sex": "male",
-    "responsibilities_main": [
-      "Youtuber-Ränge"
-    ],
+    "responsibilities_main": ["Youtuber-Ränge"],
     "rank_history": {
       "initial": "youtuber",
       "04.02.2026": "content"
@@ -3629,12 +3537,8 @@
     "name": "VhecheslavMaer",
     "uuid": "be0f1762-bed5-403a-92f4-1fe3eda2a76d",
     "sex": "male",
-    "responsibilities_secondary": [
-      "Castles Organization"
-    ],
-    "fields": [
-      "Plugin Development"
-    ],
+    "responsibilities_secondary": ["Castles Organization"],
+    "fields": ["Plugin Development"],
     "rank_history": {
       "initial": "spieler",
       "07.03.2026": "developer"
@@ -3649,5 +3553,4 @@
       "19.04.2026": "supporter"
     }
   }
-  
 ]
