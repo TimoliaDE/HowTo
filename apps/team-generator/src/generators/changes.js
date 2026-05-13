@@ -38,7 +38,7 @@ export function generateChangesPage(teamlers) {
         content += `|----------|----------------------------------|----------------------------|-------|\n`;
 
         for (const change of changes) {
-            const playerName = change.name.replace(/_/g, '\\_');
+            const playerName = change.name.replace(/\\/g, '\\\\').replace(/_/g, '\\_');
             const rankFrom = change.rankFrom ? change.rankFrom.male : '-';
             const rankTo = change.rankTo ? change.rankTo.male : '-';
 
