@@ -19,7 +19,9 @@ export class Teamler {
      * Get name escaped for Markdown
      */
     getNameForMarkdown() {
-        return this.name.replace(/_/g, '\\_');
+        return this.name
+            .replace(/\\/g, '\\\\')
+            .replace(/_/g, '\\_');
     }
 
     /**
