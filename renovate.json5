@@ -3,5 +3,8 @@
   "extends": [
     "config:recommended"
   ],
-  "rebaseWhen": "conflicted"
+  "labels": ["🤖 renovate"],
+  "rebaseWhen": "conflicted",
+  "assignees": ["feeeedox"],
+  "reviewers": ["feeeedox"]
 }
