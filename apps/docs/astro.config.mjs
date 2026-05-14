@@ -47,7 +47,7 @@ export default defineConfig({
       ],
       lastUpdated: true,
       editLink: {
-        baseUrl: "https://github.com/feeeedox/test-starlight/tree/main",
+        baseUrl: "https://github.com/TimoliaDE/HowTo/tree/main",
       },
       customCss: ["./src/styles/custom.css", "./src/styles/ranks.css"],
       sidebar: [

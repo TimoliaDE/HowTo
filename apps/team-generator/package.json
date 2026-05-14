@@ -1,4 +1,3 @@
-
 {
   "name": "team-generator",
   "version": "1.0.0",
@@ -9,6 +8,7 @@
     "generate": "node src/index.js --output ../docs/src/content/docs",
     "dev": "node --watch src/index.js",
     "generate:local": "node src/index.js",
+    "validate:build": "node src/index.js --no-update-names",
     "build": "node src/index.js --output ../docs/src/content/docs"
   },
   "keywords": [

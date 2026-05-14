@@ -19,6 +19,9 @@
       "dependsOn": ["^build"],
       "outputs": [".nuxt/**", "!.nuxt/cache/**", "dist/**", ".astro/**"]
     },
+    "validate:build": {
+      "cache": false
+    },
     "lint": {},
     "lint:fix": {},
     "test": {},
