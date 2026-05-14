@@ -1,10 +1,26 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "config:recommended"
+    "config:recommended",
+    ":separateMajorReleases",
+    ":combinePatchMinorReleases"
   ],
   "labels": ["🤖 renovate"],
   "rebaseWhen": "conflicted",
   "assignees": ["feeeedox"],
-  "reviewers": ["feeeedox"]
+  "reviewers": ["feeeedox"],
+  "packageRules": [
+    {
+      "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
+      "automerge": true,
+      "automergeType": "branch",
+      "platformAutomerge": true
+    },
+    {
+      "description": "Group all non-major updates to one PR",
+      "matchUpdateTypes": ["minor", "patch"],
+      "groupName": "all non-major dependencies",
+      "groupSlug": "all-minor-patch"
+    }
+  ]
 }
