@@ -17,6 +17,6 @@ RUN pnpm --filter docs build
 FROM nginx:alpine AS runtime
 
 COPY --from=builder /app/apps/docs/dist /usr/share/nginx/html
-COPY nginx.conf /etc/nginx/nginx.conf
+COPY deployment/nginx.conf /etc/nginx/nginx.conf
 
-EXPOSE 80
+EXPOSE 8080
