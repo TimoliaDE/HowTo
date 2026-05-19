@@ -5,6 +5,7 @@
     ":separateMajorReleases",
     ":combinePatchMinorReleases"
   ],
+  "minimumReleaseAge": "1 day",
   "labels": ["🤖 renovate"],
   "rebaseWhen": "conflicted",
   "assignees": ["feeeedox"],
