@@ -9,14 +9,14 @@ Dieser Code ändert sich alle 30 Sekunden
 
 ### 2FA einrichten
 
-- Logge dich auf unserer Homepage ein
-- Gehe in deine Accounteinstellungen (Mein Account) und rufe dort den Punkt "Sicherheit" auf
-- Lade dir die App <i>Google Authenticator</i> ([iOS](https://itunes.apple.com/de/app/google-authenticator/id388497605), [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2), [Win](https://www.microsoft.com/de-de/store/p/microsoft-authenticator/9nblgggzmcj6)) auf dein Smartphone herunter
-- Öffne die App und klicke anschließend auf das Plus, um einen Eintrag hinzuzufügen
-- Per Barcode-Scanner kannst du einen neuen Eintrag hinzufügen
-- Alternativ kann der Eintrag auch manuell durch die Eingabe des "Secrets" eingetragen werden
-- Der generierte Code ändert sich alle 30 Sekunden
-- Um die 2FA endgültig zu aktivieren, musst du den Code auf unserer Homepage eingeben
+* Logge dich auf unserer Homepage ein
+* Gehe in deine Accounteinstellungen (**Mein Account**) und rufe dort den Punkt **"Sicherheit"** auf.
+* Lade dir eine 2FA App auf dein Smartphone herunter.
+* **Öffne die App** und klicke anschließend auf das **Plus**, um einen Eintrag hinzuzufügen.
+* Um einen neuen Eintrag hinzuzufügen scannst du den QR-Code.
+* Alternativ kann der Eintrag auch manuell durch die Eingabe des **"Secrets"** eingetragen werden.
+* Der generierte Code ändert sich alle 30 Sekunden.
+* Um die 2FA **endgültig zu aktivieren**, musst du den Code auf unserer Homepage eingeben.
 
 Sollten Fragen auftreten, steht das Timolia-Team zur Verfügung.
 
