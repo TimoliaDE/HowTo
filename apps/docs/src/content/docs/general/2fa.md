@@ -36,8 +36,8 @@ Wir können in diesem Fall die Zwei-Faktor-Authentifizierung für dich **nicht**
 - Lies dir [Was muss ich beachten?](#was-muss-ich-beachten) sorgfältig durch und stelle sicher, dass du den Absatz verstanden hast. 
   Solltest du Fragen haben, melde dich im [Support](/faq/#wer-supportet-mich-wenn-ich-fragen-habe)!
 - **Installiere** dir auf deinem Handy eine **Authenticator App**. Wir empfehlen dir für 
-  Android **Aegis** ([Android](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)). Alternativ kannst du den 
-  **Google Authenticator** ([Andorid](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2) / [iOS](https://itunes.apple.com/de/app/google-authenticator/id388497605)) nutzen. 
+  Android **Aegis** ([Android](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)) oder **Ente Auth** ([Android](https://play.google.com/store/search?q=ente+auth+-+2fa+authenticator&c=apps) / [IOS](https://apps.apple.com/de/app/ente-auth-2fa-authenticator/id6444121398)). Alternativ kannst du den
+ **Google Authenticator** ([Andorid](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2) / [iOS](https://itunes.apple.com/de/app/google-authenticator/id388497605)) nutzen. 
   Du findest die Apps auch wie gewohnt über die Suche im App Store bzw. Play Store. Natürlich kannst du auch eine andere Authentifizierungsapp nutzen.
 - Nutze `/2fa setup`, um dir den QR-Code sowie das Secret anzeigen zu lassen, mit dem du deinen Account verknüpfen kannst.
   Gib beide Daten niemals an Dritte weiter und **stelle sicher, dass diese niemand einsehen kann**, weder zum Zeitpunkt der

@@ -11,9 +11,9 @@ This code changes every **30 seconds**.
 
 *   **Log in** to our homepage.
 *   Go to your account settings (**My Account**) and select the **"Security"** section.
-*   **Download** the *Google Authenticator* app ([iOS](https://itunes.apple.com/de/app/google-authenticator/id388497605), [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2), [Win](https://www.microsoft.com/de-de/store/p/microsoft-authenticator/9nblgggzmcj6)) to your smartphone.
+*   **Download** a 2FA App to your smartphone.
 *   **Open the app** and click the plus sign to add a new entry.
-*   You can add a new entry via **barcode scanner**.
+*   You can add a new entry by scanning the QR Code.
 *   Alternatively, the entry can be added manually by entering the **"Secret"**.
 *   The generated code changes every 30 seconds.
 *   To **finally activate** 2FA, you must enter the code on our homepage.
