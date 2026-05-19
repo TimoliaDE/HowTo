@@ -3241,10 +3241,14 @@
     "name": "shrobbyy",
     "uuid": "7f82c864-dd8d-4f91-8d6b-9f7d8a91c06a",
     "sex": "male",
+    "responsibilities_main": [
+      "Gamedesign"
+    ],
     "rank_history": {
       "initial": "pro_plus",
       "17.12.2023": "content",
-      "12.04.2024": "native_mvp"
+      "12.04.2024": "native_mvp",
+      "15.05.2026": "content"
     }
   },
   {
