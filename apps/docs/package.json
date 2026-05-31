@@ -1,19 +1,8 @@
 {
-  "name": "docs",
-  "type": "module",
-  "version": "0.0.1",
-  "scripts": {
-    "dev": "../../node_modules/.bin/astro dev",
-    "start": "../../node_modules/.bin/astro dev",
-    "build": "../../node_modules/.bin/astro build",
-    "preview": "../../node_modules/.bin/astro preview",
-    "astro": "../../node_modules/.bin/astro",
-    "validate:build": "../../node_modules/.bin/astro build"
-  },
   "dependencies": {
     "@astro-community/astro-embed-youtube": "^0.5.10",
     "@astrojs/starlight": "^0.39.0",
-    "astro": "^6.2.1",
+    "astro": "6.3.8",
     "node-fetch": "^3.3.2",
     "rehype-katex": "^7.0.1",
     "remark-math": "^6.0.0",
@@ -21,5 +10,16 @@
   },
   "devDependencies": {
     "tslib": "^2.8.1"
-  }
+  },
+  "name": "docs",
+  "scripts": {
+    "astro": "../../node_modules/.bin/astro",
+    "build": "../../node_modules/.bin/astro build",
+    "dev": "../../node_modules/.bin/astro dev",
+    "preview": "../../node_modules/.bin/astro preview",
+    "start": "../../node_modules/.bin/astro dev",
+    "validate:build": "../../node_modules/.bin/astro build"
+  },
+  "type": "module",
+  "version": "0.0.1"
 }
