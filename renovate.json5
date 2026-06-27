@@ -9,5 +9,20 @@
   "labels": ["🤖 renovate"],
   "rebaseWhen": "conflicted",
   "assignees": ["feeeedox"],
-  "reviewers": ["feeeedox"]
+  "reviewers": ["feeeedox"],
+  "customManagers": [
+    {
+      "customType": "regex",
+      "managerFilePatterns": ["/^Dockerfile$/"],
+      "matchStrings": [
+        "# renovate: datasource=(?<datasource>\\S+) depName=(?<depName>\\S+)(?: versioning=(?<versioning>\\S+))?\\s+[^\\n]*?@(?<currentValue>[^\\s]+)"
+      ]
+    }
+  ],
+  "packageRules": [
+    {
+      "matchPackageNames": ["pnpm"],
+      "groupName": "pnpm"
+    }
+  ]
 }

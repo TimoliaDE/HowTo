@@ -1,7 +1,8 @@
-FROM node:25-bookworm-slim AS builder
+FROM node:26.4.0-bookworm-slim AS builder
 WORKDIR /app
 
-RUN npm install -g pnpm@11.0.3
+# renovate: datasource=npm depName=pnpm versioning=npm
+RUN npm install -g pnpm@11.9.0
 
 COPY pnpm-lock.yaml pnpm-workspace.yaml package.json ./
 COPY apps/docs/package.json ./apps/docs/package.json
