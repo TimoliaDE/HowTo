@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@astro-community/astro-embed-youtube": "^0.5.10",
-    "@astrojs/starlight": "^0.39.0",
+    "@astrojs/starlight": "^0.41.0",
     "astro": "6.4.8",
     "node-fetch": "^3.3.2",
     "rehype-katex": "^7.0.1",
