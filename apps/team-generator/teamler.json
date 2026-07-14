@@ -1009,15 +1009,11 @@
     "name": "ChristmasCrelias",
     "uuid": "d9027140-9718-4ef5-aabc-da49937b5be1",
     "sex": "male",
-    "responsibilities_main": [
-      "Management des Bau-Teams",
-      "Teamlerauswahl Builder und Timolia Creative",
-      "Map-Einsendungen"
-    ],
     "rank_history": {
       "initial": "mvp",
       "30.01.2020": "builder",
-      "18.11.2021": "head_builder"
+      "18.11.2021": "head_builder",
+      "16.06.2026": "native_expert"
     }
   },
   {
@@ -1551,7 +1547,8 @@
       "08.11.2019": "supporter_plus",
       "05.07.2020": "moderator",
       "02.12.2022": "native_expert",
-      "20.04.2025": "moderator"
+      "20.04.2025": "moderator",
+      "06.07.2026": "native_expert"
     }
   },
   {
@@ -2067,7 +2064,8 @@
       "13.05.2019": "supporter",
       "12.02.2021": "native_expert",
       "06.06.2021": "creator",
-      "18.02.2023": "content"
+      "18.02.2023": "content",
+      "14.07.2026": "native_expert"
     }
   },
   {
@@ -3205,15 +3203,11 @@
     "name": "lena_sote",
     "uuid": "65c94956-e288-480c-abad-2949814e6e18",
     "sex": "female",
-    "responsibilities_main": [
-      "Social Media",
-      "Management des Content-Teams",
-      "Teamlerauswahl Content"
-    ],
     "rank_history": {
       "initial": "spieler",
       "25.11.2023": "content",
-      "07.09.2025": "content_plus"
+      "07.09.2025": "content_plus",
+      "16.06.2026": "native_expert"
     }
   },
   {
@@ -3329,7 +3323,8 @@
       "initial": "expert",
       "28.07.2024": "supporter",
       "01.06.2025": "supporter_plus",
-      "02.11.2025": "moderator"
+      "02.11.2025": "moderator",
+      "12.07.2026": "administrator"
     }
   },
   {
@@ -3545,7 +3540,8 @@
     "fields": ["Plugin Development"],
     "rank_history": {
       "initial": "spieler",
-      "07.03.2026": "developer"
+      "07.03.2026": "developer",
+      "14.07.2026": "spieler"
     }
   },
   {
@@ -3555,6 +3551,26 @@
     "rank_history": {
       "initial": "pro",
       "19.04.2026": "supporter"
+    }
+  },
+  {
+    "name": "christolis",
+    "uuid": "bd4f27b2-69cc-41c3-a381-d6ead7483369",
+    "sex": "male",
+    "fields": ["Plugin Development"],
+    "rank_history": {
+      "initial": "spieler",
+      "15.06.2026": "developer"
+    }
+  },
+  {
+    "name": "besf0r",
+    "uuid": "50cfecc7-8169-42a7-a8f7-84ddff456c23",
+    "sex": "male",
+    "fields": ["Plugin Development"],
+    "rank_history": {
+      "initial": "spieler",
+      "08.07.2026": "developer"
     }
   }
 ]
