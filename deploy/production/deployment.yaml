@@ -20,7 +20,7 @@ spec:
         - name: harbor-regcred
       containers:
         - name: howto
-          image: registry.timolia.systems/web/howto:main-ca01226-1784098037 # {"$imagepolicy": "web-live:howto"}
+          image: registry.timolia.systems/web/howto:main-29bd8ce-1784144411 # {"$imagepolicy": "web-live:howto"}
           imagePullPolicy: IfNotPresent
           ports:
             - name: http
