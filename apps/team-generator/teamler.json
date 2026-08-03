@@ -3187,7 +3187,8 @@
       "initial": "expert",
       "12.09.2023": "supporter",
       "19.04.2024": "native_expert",
-      "31.03.2026": "content"
+      "31.03.2026": "content",
+      "03.08.2026": "native_expert"
     }
   },
   {
@@ -3573,6 +3574,16 @@
     "rank_history": {
       "initial": "spieler",
       "08.07.2026": "developer"
+    }
+  },
+  {
+    "name": "JavaMio",
+    "uuid": "b2f92897-adfa-428b-9af1-f0dde13b8fec",
+    "sex": "male",
+    "fields": ["Plugin Development"],
+    "rank_history": {
+      "initial": "spieler",
+      "01.08.2026": "developer"
     }
   }
 ]
