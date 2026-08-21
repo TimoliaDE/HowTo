@@ -3585,5 +3585,14 @@
       "initial": "spieler",
       "01.08.2026": "developer"
     }
+  },
+  {
+    "name": "TrausVG",
+    "uuid": "2e89edfe-330f-4cd9-ad11-add2b714155f",
+    "sex": "male",
+    "rank_history": {
+      "initial": "native_expert",
+      "21.08.2026": "builder"
+    }
   }
 ]
