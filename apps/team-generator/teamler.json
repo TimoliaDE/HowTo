@@ -2900,6 +2900,7 @@
     "name": "q8h",
     "uuid": "c2505ed9-8600-4570-a73f-0af05972da4f",
     "sex": "male",
+    "responsibilities_main": ["Management des Bau-Teams", "Teamlerauswahl Builder"],
     "rank_history": {
       "initial": "expert",
       "02.05.2022": "supporter",
@@ -2907,7 +2908,8 @@
       "22.06.2023": "supporter",
       "07.01.2024": "supporter_plus",
       "02.03.2025": "moderator",
-      "25.08.2025": "native_expert"
+      "25.08.2025": "native_expert",
+      "29.08.2026": "moderator"
     }
   },
   {
@@ -3181,8 +3183,6 @@
     "name": "Thomas5432",
     "uuid": "e6e02927-7278-4aad-9e41-cfd4c1d2734c",
     "sex": "male",
-    "responsibilities_main": ["Gamedesign", "Castles Organization"],
-    "responsibilities_secondary": ["Translations"],
     "rank_history": {
       "initial": "expert",
       "12.09.2023": "supporter",
