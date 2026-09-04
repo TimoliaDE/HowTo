@@ -3,7 +3,9 @@
   "extends": [
     "config:recommended",
     ":separateMajorReleases",
-    ":combinePatchMinorReleases"
+    ":combinePatchMinorReleases",
+    "group:allNonMajor",
+    "schedule:earlyMondays"
   ],
   "minimumReleaseAge": "1 day",
   "labels": ["🤖 renovate"],
