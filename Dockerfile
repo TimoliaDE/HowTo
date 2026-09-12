@@ -1,4 +1,4 @@
-FROM node:26.8.1-bookworm-slim AS builder
+FROM node:26.8.2-bookworm-slim AS builder
 WORKDIR /app
 
 # renovate: datasource=npm depName=pnpm versioning=npm
