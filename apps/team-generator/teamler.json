@@ -2876,14 +2876,11 @@
     "name": "Jchannes",
     "uuid": "251f7677-ee4b-464b-aa8b-17614cc789be",
     "sex": "male",
-    "responsibilities_main": [
-      "Teamlerauswahl Builder und Timolia Creative",
-      "Map-Einsendungen"
-    ],
     "rank_history": {
       "initial": "spieler",
       "21.01.2022": "builder",
-      "03.09.2022": "builder_plus"
+      "03.09.2022": "builder_plus",
+      "12.09.2026": "native_expert"
     }
   },
   {
@@ -3299,12 +3296,12 @@
     "name": "Led0m_",
     "uuid": "119bc449-24af-4a97-aa87-eace8659018a",
     "sex": "male",
-    "fields": ["Plugin Development"],
     "rank_history": {
       "initial": "spieler",
       "14.02.2024": "builder",
       "16.06.2024": "native_mvp",
-      "23.02.2026": "developer"
+      "23.02.2026": "developer",
+      "16.09.2026": "native_mvp"
     }
   },
   {
@@ -3570,10 +3567,10 @@
     "name": "besf0r",
     "uuid": "50cfecc7-8169-42a7-a8f7-84ddff456c23",
     "sex": "male",
-    "fields": ["Plugin Development"],
     "rank_history": {
       "initial": "spieler",
-      "08.07.2026": "developer"
+      "08.07.2026": "developer",
+      "16.09.2026": "spieler"
     }
   },
   {
