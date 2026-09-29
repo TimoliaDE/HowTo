@@ -21,5 +21,5 @@
     "packages/*",
     "apps/*"
   ],
-  "packageManager": "pnpm@12.5.1"
+  "packageManager": "pnpm@12.8.1"
 }
