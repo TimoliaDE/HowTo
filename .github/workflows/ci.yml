@@ -5,6 +5,16 @@ on:
     branches: 
       - main
       - 'renovate/**'
+    paths:
+      - 'apps/**'
+      - 'package.json'
+      - 'pnpm-lock.yaml'
+      - 'pnpm-workspace.yaml'
+      - 'turbo.json'
+      - 'Dockerfile'
+      - '.dockerignore'
+      - 'deployment/nginx.conf'
+      - '.github/workflows/ci.yml'
   pull_request:
     branches: [main]
   workflow_dispatch:

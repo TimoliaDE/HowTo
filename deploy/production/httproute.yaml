@@ -13,6 +13,7 @@ spec:
       kind: Gateway
       name: timolia-gateway
       namespace: envoy-gateway-system
+      sectionName: https
   rules:
     - backendRefs:
         - name: howto
