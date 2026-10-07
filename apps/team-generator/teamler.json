@@ -3591,5 +3591,15 @@
       "initial": "native_expert",
       "21.08.2026": "builder"
     }
+  },
+  {
+    "name": "M4gim",
+    "uuid": "2699ae4e-c9e0-421c-8a9c-2df5ac368b6f",
+    "sex": "male",
+    "responsibilities_main": ["Gamedesign"],
+    "rank_history": {
+      "initial": "expert",
+      "06.10.2026": "content"
+    }
   }
 ]
