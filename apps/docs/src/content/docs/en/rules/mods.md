@@ -45,8 +45,8 @@ Any modification that automates gameplay or provides information/abilities that 
 :::danger[Important Note on 'Optimizers']
 There is a difference between **performance optimizers** (allowed) and **gameplay optimizers** (forbidden). If a mod improves your clicks, your inventory management, or your interaction speed, it will lead to exclusion from the network.
 :::
-If your mod cannot be clearly categorized above, please contact our [Support](/discord/#support) before using it.
+If your mod cannot be clearly categorized above, please contact our [Support](/en/general/discord/#support) before using it.
 
-*These rules supplement our official [Rules – Games](/rules/games/#2-modifikationen-modshacks-resource-packs-und-minimaps).*
+*These rules supplement our official [Rules – Games](/en/rules/games/#2--modifications-modshacks-resource-packs-and-minimaps).*
 
 ---

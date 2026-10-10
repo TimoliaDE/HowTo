@@ -34,7 +34,7 @@ Wir können in diesem Fall die Zwei-Faktor-Authentifizierung für dich **nicht**
 
 ## Einrichtung von 2FA
 - Lies dir [Was muss ich beachten?](#was-muss-ich-beachten) sorgfältig durch und stelle sicher, dass du den Absatz verstanden hast. 
-  Solltest du Fragen haben, melde dich im [Support](/faq/#wer-supportet-mich-wenn-ich-fragen-habe)!
+  Solltest du Fragen haben, melde dich im [Support](/general/faq/#wer-supportet-mich-wenn-ich-fragen-habe)!
 - **Installiere** dir auf deinem Handy eine **Authenticator App**. Wir empfehlen dir für 
   Android **Aegis** ([Android](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)) oder **Ente Auth** ([Android](https://play.google.com/store/search?q=ente+auth+-+2fa+authenticator&c=apps) / [IOS](https://apps.apple.com/de/app/ente-auth-2fa-authenticator/id6444121398)). Alternativ kannst du den
  **Google Authenticator** ([Andorid](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2) / [iOS](https://itunes.apple.com/de/app/google-authenticator/id388497605)) nutzen. 

@@ -18,8 +18,8 @@ Generally, you can assume that any gameplay-relevant, advantage-providing change
 This includes, for example, using the mouse wheel as an alternative to a mouse button.
 
 Exceptions to this regulation are aesthetic mods like [OptiFine](https://optifine.net/) or [Shaders](https://www.google.de/#q=Minecraft+Shader), 
-as well as the [5zig](https://5zig.net/) and [LabyMod](https://www.labymod.net/). You can find a detailed list of all allowed mods [here](/rules/mods/). 
-If you wish to play with a mod not listed, we recommend contacting [Timolia Support](/faq/#wer-supportet-mich-wenn-ich-fragen-habe). The list is regularly updated 
+as well as the 5zig and [LabyMod](https://www.labymod.net/). You can find a detailed list of all allowed mods [here](/rules/mods/). 
+If you wish to play with a mod not listed, we recommend contacting [Timolia Support](/en/general/faq/#who-supports-me-if-i-have-questions). The list is regularly updated 
 and adapted. Mods that offer comparable functions to those listed here but are not on the list have not been tested by us and may 
 potentially lead to a ban. We therefore advise against using these mods without asking.
 

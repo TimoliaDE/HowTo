@@ -4,7 +4,7 @@ description: Regeln auf unseren Discord Server.
 ---
 
 ## §1 - Allgemein
-Grundsätzlich gilt das [allgemeine Regelwerk](games.md) des Timolia Minecraft-Servers genau so für unseren Discord.
+Grundsätzlich gilt das [allgemeine Regelwerk](/rules/games/) des Timolia Minecraft-Servers genau so für unseren Discord.
 
 ## §2 - Support
 Das Ausnutzen der Supportchats (z.B. durch mehrfaches Erstellen eines Chats ohne triftigen Grund) ist verboten.

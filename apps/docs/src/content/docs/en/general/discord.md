@@ -11,7 +11,7 @@ Below is a rough overview of our Discord; all further information can be found d
 - Once you have joined the Discord server, you can send a private message to the "**Timolia Bot**". Use the command `/register <ingamename>` to receive a confirmation prompt in the ingame chat (provided that the account is currently online on the network).
 
 ## Discord Rules
-The rules of the Discord server can be found in the [#rules](https://discord.com/channels/407554118887014402/407565978025852929) channel on Discord or read [here](/rules/discord/).
+The rules of the Discord server can be found in the [#rules](https://timolia.de/discord) channel on Discord or read [here](/rules/discord/).
 
 ---
 

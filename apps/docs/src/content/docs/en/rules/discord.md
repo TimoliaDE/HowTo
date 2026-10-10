@@ -4,7 +4,7 @@ description: Rules on our Discord server.
 ---
 
 ## §1 - General
-In principle, the [general rules](games.md) of the Timolia Minecraft server apply to our Discord as well.
+In principle, the [general rules](/en/rules/games/) of the Timolia Minecraft server apply to our Discord as well.
 
 ## §2 - Support
 The exploitation of support chats (e.g., by creating multiple chats without a valid reason) is prohibited.

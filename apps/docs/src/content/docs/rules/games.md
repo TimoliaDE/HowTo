@@ -18,8 +18,8 @@ Grundsätzlich kannst du davon ausgehen, dass jegliche spielrelevanten, vorteils
 Hierzu zählt beispielsweise auch das Benutzen des Mausrads als Alternative zu einer Maustaste.    
 
 Ausgenommen von dieser Regelung sind spielverschönernde Mods wie [OptiFine](https://optifine.net/) oder [Shader](https://www.google.de/#q=Minecraft+Shader),
-sowie die [5zig](https://5zig.net/)- und [LabyMod](https://www.labymod.net/). Eine genaue Liste aller erlaubten Mods findest du [hier](/rules/mods/).
-Solltest du mit einer Mod spielen wollen, die nicht in dieser Liste aufgeführt ist, empfehlen wir dir, den [Timolia Support](/faq/#wer-supportet-mich-wenn-ich-fragen-habe) zu kontaktieren. Die Liste wird regelmäßig aktualisiert 
+sowie die 5zig- und [LabyMod](https://www.labymod.net/). Eine genaue Liste aller erlaubten Mods findest du [hier](/rules/mods/).
+Solltest du mit einer Mod spielen wollen, die nicht in dieser Liste aufgeführt ist, empfehlen wir dir, den [Timolia Support](/general/faq/#wer-supportet-mich-wenn-ich-fragen-habe) zu kontaktieren. Die Liste wird regelmäßig aktualisiert 
 und angepasst. Mods, die zwar vergleichbare Funktionen wie die hier aufgelisteten Mods anbieten, jedoch nicht in der Liste stehen, sind nicht von uns geprüft und können
 ggf. zu einem Bann führen. Wir raten daher davon ab, diese Mods ungefragt zu verwenden.
 

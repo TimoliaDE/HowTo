@@ -24,5 +24,5 @@ If you have any questions, the Timolia team is available to help.
 
 ## Forum
 :::note
-Since August 31, 2022, the forum is no longer in operation. Please use our [Discord Server](https://discord.gg/timolia) instead.
+Since August 31, 2022, the forum is no longer in operation. Please use our [Discord Server](https://timolia.de/discord) instead.
 :::

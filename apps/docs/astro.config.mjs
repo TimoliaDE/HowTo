@@ -46,12 +46,12 @@ export default defineConfig({
         {
           icon: "github",
           label: "GitHub",
-          href: "https://github.com/withastro/starlight",
+          href: "https://github.com/TimoliaDE/HowTo",
         },
       ],
       lastUpdated: true,
       editLink: {
-        baseUrl: "https://github.com/TimoliaDE/HowTo/tree/main",
+        baseUrl: "https://github.com/TimoliaDE/HowTo/edit/main/apps/docs/",
       },
       customCss: ["./src/styles/custom.css", "./src/styles/ranks.css"],
       sidebar: [

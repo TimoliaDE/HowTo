@@ -22,5 +22,5 @@ Sollten Fragen auftreten, steht das Timolia-Team zur Verfügung.
 
 ## Forum
 :::note
-Seit dem 31.08.2022 ist das Forum nicht mehr in Betrieb, bitte benutze stattdessen unseren [Discord Server](https://discord.gg/timolia).
+Seit dem 31.08.2022 ist das Forum nicht mehr in Betrieb, bitte benutze stattdessen unseren [Discord Server](https://timolia.de/discord).
 :::

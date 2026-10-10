@@ -45,8 +45,8 @@ Jegliche Modifikation, die Spielabläufe automatisiert oder dir Informationen/F�
 :::danger[Wichtiger Hinweis zu 'Optimizern']
 Es gibt einen Unterschied zwischen **Performance-Optimizern** (erlaubt) und **Gameplay-Optimizern** (verboten). Wenn eine Mod deine Klicks, dein Inventar Management oder deine Interaktionsgeschwindigkeit verbessert, führt dies zum Ausschluss vom Netzwerk.
 :::
-Falls deine Mod oben nicht eindeutig zugeordnet werden kann, kontaktiere bitte unseren [Support](/discord/#support), bevor du sie benutzt.
+Falls deine Mod oben nicht eindeutig zugeordnet werden kann, kontaktiere bitte unseren [Support](/general/discord/#support), bevor du sie benutzt.
 
-*Diese Regeln ergänzen unser offizielles [Regelwerk – Games](/rules/games/#2-modifikationen-modshacks-resource-packs-und-minimaps).*
+*Diese Regeln ergänzen unser offizielles [Regelwerk – Games](/rules/games/#2--modifikationen-modshacks-resource-packs-und-minimaps).*
 
 ---

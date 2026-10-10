@@ -11,7 +11,7 @@ Hier findest du nun eine grobe Übersicht über den Discord, alle weiteren Infor
 - Sobald du den Discord-Server betreten hast, kannst du den "<strong>Timolia Bot</strong>" Privat anschreiben. Mit `/register <ingamename>` erhältst du die (sofern sich der Account gerade auf dem Netzwerk befindet) die Bestätigungsfrage im Ingame-Chat.
 
 ## Discord Regelwerk
-Die Regeln des Discord-Servers kannst du dem Channel [#regeln](https://discord.com/channels/407554118887014402/407565978025852929) auf dem Discord entnehmen oder [hier](/rules/discord/) nachlesen.
+Die Regeln des Discord-Servers kannst du dem Channel [#regeln](https://timolia.de/discord) auf dem Discord entnehmen oder [hier](/rules/discord/) nachlesen.
 
 ## Support
 Wir bieten Support auf diesem Server in Chatform an. Sollte der Communitysupport eine Frage nicht klären können oder das Anliegen mit vertraulichen Informationen in Verbindung stehen, so kann in `#support` ein Supportchat erstellt werden. In diesen wird das Team versuchen dein Anliegen zu klären und dir weiterhelfen.
