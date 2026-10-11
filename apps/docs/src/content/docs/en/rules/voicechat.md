@@ -6,7 +6,7 @@ description: All rules concerning the Voice Chat.
 ## §1 - General
 In general, the [LabyMod VoiceChat](https://www.labymod.net/en/voicechat/rules) and other Voice Chat mods are subject to the [general rules](/rules/games) of the Minecraft network.
 
-## §2 – Excessive/Disruptive Noises
+## §2 - Excessive/Disruptive Noises
 For example, noises used with the intent to annoy others. This includes screaming, music and sound bots, voice changers, etc.
 
 ## §3 - Provocation

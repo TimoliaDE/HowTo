@@ -47,6 +47,6 @@ There is a difference between **performance optimizers** (allowed) and **gamepla
 :::
 If your mod cannot be clearly categorized above, please contact our [Support](/en/general/discord/#support) before using it.
 
-*These rules supplement our official [Rules – Games](/en/rules/games/#2--modifications-modshacks-resource-packs-and-minimaps).*
+*These rules supplement our official [Rules - Games](/en/rules/games/#2---modifications-modshacks-resource-packs-and-minimaps).*
 
 ---

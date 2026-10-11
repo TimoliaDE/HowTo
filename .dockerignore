@@ -8,10 +8,6 @@ apps/docs/dist
 apps/docs/.astro
 apps/team-generator/output
 
-# Generated team pages (generated in Docker)
-apps/docs/src/content/docs/team
-apps/docs/src/content/docs/en/team
-
 # Dev / tooling
 .git
 .gitignore

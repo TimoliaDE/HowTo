@@ -29,7 +29,7 @@ Minecraft-Fensters im [Discord](https://timolia.de/discord) reporten.
 Ist der Spieler, der den Regelverstoß begangen hat, offline gegangen, bevor ein Teammitglied ihn beobachten konnte, kannst du den Spieler mit einem Beweis in unserem [Discord](https://timolia.de/discord) melden. Beachte hierbei bitte, das wir für einen Hacking-Report ein eindeutiges Beweisvideo brauchen. Ein Beweis ist Pflicht. Screenshots gelten nur als Beweis bei MSG-Nachrichten, alle anderen Regelverstöße müssen mit einem Video bewiesen werden. Natürlich kann Ingame auch `/report` verwendet werden.
 
 ### Entbannungsanträge
-Du kannst dich jederzeit für einen Bann oder Mute entschuldigen – unabhängig davon, wie lange der Bann dauert oder wie oft du bereits gebannt wurdest. 
+Du kannst dich jederzeit für einen Bann oder Mute entschuldigen - unabhängig davon, wie lange der Bann dauert oder wie oft du bereits gebannt wurdest. 
 Eine Entschuldigung kannst du im [Discord](https://timolia.de/discord) über ein Supportticket einreichen.
 
 :::caution

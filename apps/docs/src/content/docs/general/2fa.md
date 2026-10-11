@@ -3,14 +3,13 @@ title: Zwei-Faktor-Authentifizierung
 description: Hier findest du alle Infos bzgl. der Zwei-Faktor-Authentifizierung.
 ---
 
-Die Zwei-Faktor-Authentifizierung unterstützt euch bei der Sicherheit eures Accounts – niemand möchte, dass Dritte 
+Die Zwei-Faktor-Authentifizierung unterstützt euch bei der Sicherheit eures Accounts - niemand möchte, dass Dritte 
 den eigenen Account missbrauchen, sobald sie durch Phishing, Hacking o.ä. Zugriff auf euren Account erlangt haben.
 
 ## Warum 2FA für *dich* sinnvoll ist
 Immer wieder hören wir im [Hilfechannel](/general/faq/#wer-supportet-mich-wenn-ich-fragen-habe), dass ein Minecraft Account gehackt wurde und jetzt von Fremden dazu genutzt 
 wird, auf öffentlichen Servern zu cheaten. Natürlich kann (und sollte!) man **Sicherheitsmaßnahmen** ergreifen, wie zum 
-Beispiel das [Passwort regelmäßig zu ändern](https://www.minecraft.net/de-de/profile) und auf Mojang 
-[Sicherheitsfragen anzugeben](https://account.mojang.com/me/settings), allerdings gibt es inzwischen nicht ohne Grund 
+Beispiel das [Passwort deines Microsoft-Kontos regelmäßig zu ändern](https://account.microsoft.com/security), allerdings gibt es inzwischen nicht ohne Grund 
 in vielen Teilen des Internets die Möglichkeit, eine weitere Sicherheitsmaßnahme zu ergreifen:
 Die **Zwei-Faktor-Authentifizierung**.
 
@@ -68,5 +67,5 @@ und du kannst Passwörter sehr einfach ändern.
 Es empfiehlt sich die Verwendung eines Passwortmanagers, z.B. [Bitwarden](https://bitwarden.com/).
 
 :::tip
-Alle Befehl vom 2FA-System kannst du [hier](../commands#zwei-faktor-authentifizierung) finden.
+Alle Befehl vom 2FA-System kannst du [hier](/general/commands/#zwei-faktor-authentifizierung) finden.
 :::

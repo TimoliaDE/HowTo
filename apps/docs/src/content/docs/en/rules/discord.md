@@ -36,7 +36,7 @@ Furthermore, it is forbidden to impersonate another user or a team member throug
 Exploiting the functions of the bots as well as possible bugs is prohibited. Likewise, intentionally crashing the bots and bypassing e.g., spam protection, bans, and mutes is forbidden.
 
 ## §5 - Sanctions on the Discord Server
-Depending on the type and severity of the offense, temporary mutes, bans from certain areas of the Discord server, as well as temporary or—in severe cases—permanent bans from the entire Discord server are possible. In extreme cases, misconduct on Discord can also lead to sanctions on other Timolia platforms, such as the Minecraft network or TeamSpeak.
+Depending on the type and severity of the offense, temporary mutes, bans from certain areas of the Discord server, as well as temporary or - in severe cases - permanent bans from the entire Discord server are possible. In extreme cases, misconduct on Discord can also lead to sanctions on other Timolia platforms, such as the Minecraft network or TeamSpeak.
 
 ## §6 - Private Messages
 Private messages are outside of our server and thus our jurisdiction and cannot be sanctioned.

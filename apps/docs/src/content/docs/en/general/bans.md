@@ -24,7 +24,7 @@ With a few simple commands, you can report a player to the team if they commit a
 If the player who committed the rule violation went offline before a team member could observe them, you can report the player with evidence on our [Discord](https://timolia.de/discord). Please note that for a hacking report, we require a clear evidence video. Evidence is mandatory. Screenshots are only accepted as evidence for MSG messages; all other rule violations must be proven with a video. Naturally, `/report` can also be used ingame.
 
 ### Unban Requests
-You can apologize for a ban or mute at any time – regardless of how long the ban lasts or how often you have been banned before. You can submit an apology via a support ticket on [Discord](https://timolia.de/discord).
+You can apologize for a ban or mute at any time - regardless of how long the ban lasts or how often you have been banned before. You can submit an apology via a support ticket on [Discord](https://timolia.de/discord).
 
 :::caution
 The more frequently you have been banned or muted in the last year, the lower the chance that your unban request will lead to a reduction of your ban time or a full unban.

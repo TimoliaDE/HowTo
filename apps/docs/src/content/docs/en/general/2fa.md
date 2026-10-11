@@ -3,11 +3,11 @@ title: Two-Factor Authentication
 description: Here you will find all information regarding Two-Factor Authentication.
 ---
 
-Two-Factor Authentication helps you secure your account – nobody wants third parties 
+Two-Factor Authentication helps you secure your account - nobody wants third parties 
 to abuse their account after gaining access through phishing, hacking, or similar methods.
 
 ## Why 2FA makes sense for *you*
-Time and again, we hear in the [Help Channel](/en/general/faq/#who-supports-me-if-i-have-questions) that a Minecraft account has been hacked and is now being used by strangers to cheat on public servers. Of course, you can (and should!) take **security measures**, such as [changing your password regularly](https://www.minecraft.net/en-us/profile) and setting [security questions](https://account.mojang.com/me/settings) on Mojang; however, there is a reason why many parts of the internet now offer an additional security layer: 
+Time and again, we hear in the [Help Channel](/en/general/faq/#who-supports-me-if-i-have-questions) that a Minecraft account has been hacked and is now being used by strangers to cheat on public servers. Of course, you can (and should!) take **security measures**, such as [changing the password of your Microsoft account regularly](https://account.microsoft.com/security); however, there is a reason why many parts of the internet now offer an additional security layer: 
 **Two-Factor Authentication**.
 
 Whether it's Twitter, Discord, or Steam, it is possible to set up two-step verification everywhere. 
@@ -53,5 +53,5 @@ Make sure you use different passwords for your Minecraft account, your email acc
 It is recommended to use a password manager, e.g., [Bitwarden](https://bitwarden.com/).
 
 :::tip
-All commands for the 2FA system can be found [here](../commands#two-factor-authentication).
+All commands for the 2FA system can be found [here](/en/general/commands/#two-factor-authentication).
 :::

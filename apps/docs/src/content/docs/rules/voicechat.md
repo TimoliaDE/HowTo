@@ -6,7 +6,7 @@ description: Alle Regeln die den Voice Chat betreffen.
 ## §1 - Allgemein
 Im Allgemeinen gelten für den [Labymod VoiceChat](https://www.labymod.net/de/voicechat/rules) und andere Voice-Chat Mods das [allgemeine Regelwerk](/rules/games) wie auch für das Minecraft-Netzwerk.
 
-## §2 – Zu laute/störende Geräusche
+## §2 - Zu laute/störende Geräusche
 Beispielsweise Geräusche, die mit der Absicht verwendet werden, andere zu belästigen. Beispielsweise Schreien, Musik- und Soundbots, Stimmenverzerrung usw.
 
 ## §3 - Provokation

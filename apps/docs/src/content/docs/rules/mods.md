@@ -47,6 +47,6 @@ Es gibt einen Unterschied zwischen **Performance-Optimizern** (erlaubt) und **Ga
 :::
 Falls deine Mod oben nicht eindeutig zugeordnet werden kann, kontaktiere bitte unseren [Support](/general/discord/#support), bevor du sie benutzt.
 
-*Diese Regeln ergänzen unser offizielles [Regelwerk – Games](/rules/games/#2--modifikationen-modshacks-resource-packs-und-minimaps).*
+*Diese Regeln ergänzen unser offizielles [Regelwerk - Games](/rules/games/#2---modifikationen-modshacks-resource-packs-und-minimaps).*
 
 ---
