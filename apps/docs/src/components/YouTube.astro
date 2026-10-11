@@ -1,0 +1,32 @@
+---
+// Wraps astro-embed's YouTube so nothing is loaded from Google before play:
+// the thumbnail is downloaded at build time and served locally, and the
+// hover preconnect to youtube/google/doubleclick is disabled.
+import { YouTube } from "@astro-community/astro-embed-youtube";
+import { getImage } from "astro:assets";
+
+interface Props {
+  id: string;
+  title?: string;
+}
+
+const { id, title } = Astro.props;
+
+const match = id.match(/(?:youtu\.be\/|[?&]v=|\/embed\/|\/shorts\/)([A-Za-z0-9_-]{11})/);
+const videoId = match ? match[1] : id;
+
+const poster = await getImage({
+  src: `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`,
+  width: 480,
+  height: 360,
+  format: "webp",
+});
+---
+
+<YouTube id={videoId} title={title} poster={poster.src} />
+
+<script>
+  customElements.whenDefined("lite-youtube").then((LiteYT) => {
+    (LiteYT as unknown as { preconnected: boolean }).preconnected = true;
+  });
+</script>

@@ -101,4 +101,8 @@ export default defineConfig({
   build: {
     inlineStylesheets: "always",
   },
+  image: {
+    // remote images are downloaded at build time and served locally
+    domains: ["avatars.githubusercontent.com", "i.ytimg.com"],
+  },
 });
