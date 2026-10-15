@@ -15,9 +15,9 @@ COPY . .
 RUN pnpm --filter team-generator generate
 RUN pnpm --filter docs build
 
-FROM nginx:alpine AS runtime
+FROM nginxinc/nginx-unprivileged:alpine AS runtime
 
 COPY --from=builder /app/apps/docs/dist /usr/share/nginx/html
-COPY deployment/nginx.conf /etc/nginx/nginx.conf
+COPY deployment/default.conf /etc/nginx/conf.d/default.conf
 
 EXPOSE 8080

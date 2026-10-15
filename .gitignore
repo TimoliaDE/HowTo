@@ -25,4 +25,4 @@ pnpm-debug.log*
 .DS_Store
 
 deployment/*
-!deployment/nginx.conf
+!deployment/default.conf
