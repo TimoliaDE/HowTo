@@ -16,8 +16,15 @@ spec:
         app.kubernetes.io/name: howto
         app.kubernetes.io/part-of: howto
     spec:
+      automountServiceAccountToken: false
       imagePullSecrets:
         - name: harbor-regcred
+      securityContext:
+        runAsNonRoot: true
+        runAsUser: 101
+        runAsGroup: 101
+        seccompProfile:
+          type: RuntimeDefault
       containers:
         - name: howto
           image: registry.timolia.systems/web/howto:main-2ceafb9-1792092917 # {"$imagepolicy": "web-live:howto"}
@@ -25,6 +32,12 @@ spec:
           ports:
             - name: http
               containerPort: 8080
+          securityContext:
+            allowPrivilegeEscalation: false
+            readOnlyRootFilesystem: true
+            capabilities:
+              drop:
+                - ALL
           readinessProbe:
             httpGet:
               path: /
@@ -33,3 +46,16 @@ spec:
             httpGet:
               path: /
               port: http
+          resources:
+            requests:
+              cpu: 10m
+              memory: 32Mi
+            limits:
+              memory: 128Mi
+          volumeMounts:
+            - name: tmp
+              mountPath: /tmp
+      volumes:
+        - name: tmp
+          emptyDir:
+            sizeLimit: 64Mi
