@@ -9,7 +9,6 @@ apps/docs/.astro
 apps/team-generator/output
 
 # Dev / tooling
-.git
 .gitignore
 **/.DS_Store
 *.log

@@ -1,6 +1,10 @@
 FROM node:26.10.0-bookworm-slim AS builder
 WORKDIR /app
 
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends git \
+    && rm -rf /var/lib/apt/lists/*
+
 # renovate: datasource=npm depName=pnpm versioning=npm
 RUN npm install -g pnpm@12.11.2
 
