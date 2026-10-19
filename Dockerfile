@@ -6,7 +6,7 @@ RUN apt-get update \
     && rm -rf /var/lib/apt/lists/*
 
 # renovate: datasource=npm depName=pnpm versioning=npm
-RUN npm install -g pnpm@12.11.2
+RUN npm install -g pnpm@12.14.0
 
 COPY pnpm-lock.yaml pnpm-workspace.yaml package.json ./
 COPY apps/docs/package.json ./apps/docs/package.json
