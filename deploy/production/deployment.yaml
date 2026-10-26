@@ -27,7 +27,7 @@ spec:
           type: RuntimeDefault
       containers:
         - name: howto
-          image: registry.timolia.systems/web/howto:main-478dd3a-1792391764 # {"$imagepolicy": "howto-live:howto"}
+          image: registry.timolia.systems/web/howto:main-23a421c-1792996679 # {"$imagepolicy": "howto-live:howto"}
           imagePullPolicy: IfNotPresent
           ports:
             - name: http
