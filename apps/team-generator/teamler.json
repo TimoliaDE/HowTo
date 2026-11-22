@@ -3451,12 +3451,12 @@
     "name": "yLugge",
     "uuid": "38f2c240-f67f-4701-98e6-fef256080d2c",
     "sex": "male",
-    "responsibilities_secondary": ["Timolia Turnier Organisation"],
     "rank_history": {
       "initial": "spieler",
       "20.06.2025": "supporter",
       "05.10.2025": "supporter_plus",
-      "03.05.2026": "moderator"
+      "03.05.2026": "moderator",
+      "20.11.2026": "native_expert"
     }
   },
   {
